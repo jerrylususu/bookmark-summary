@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-07-24) [How to review code effectively: A GitHub staff engineer’s philosophy](202407/2024-07-24-how-to-review-code-effectively:-a-github-staff-engineer’s-philosophy.md)
 - (2024-07-24) [We need visual programming. No, not like that.](202407/2024-07-24-we-need-visual-programming.-no,-not-like-that..md)
 - (2024-07-24) [How we improved availability through iterative simplification](202407/2024-07-24-how-we-improved-availability-through-iterative-simplification.md)
 - (2024-07-23) [Python Practical Package Packing 2024](202407/2024-07-24-python-practical-package-packing-2024.md)
