@@ -70,5 +70,11 @@
     "title": "We had an AI attempt to make a data-driven story like we do at The Pudding",
     "url": "https://pudding.cool/2024/07/ai/",
     "timestamp": 1722435630
+  },
+  {
+    "month": "202408",
+    "title": "Build your own SQS or Kafka with Postgres",
+    "url": "https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/",
+    "timestamp": 1722524260
   }
 ]
