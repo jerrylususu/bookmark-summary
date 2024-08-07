@@ -82,5 +82,11 @@
     "title": "How to Get or Create in PostgreSQL",
     "url": "https://hakibenita.com/postgresql-get-or-create",
     "timestamp": 1722955536
+  },
+  {
+    "month": "202408",
+    "title": "PAGNIs: Probably Are Gonna Need Its",
+    "url": "https://simonwillison.net/2021/Jul/1/pagnis/",
+    "timestamp": 1723042160
   }
 ]
