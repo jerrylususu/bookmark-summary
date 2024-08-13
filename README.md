@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-08-13) [Chevy Ray | How I Created 175 Fonts Using Rust](202408/2024-08-13-chevy-ray-|-how-i-created-175-fonts-using-rust.md)
 - (2024-08-13) [Do Quests, Not Goals](202408/2024-08-13-do-quests,-not-goals.md)
 - (2024-08-12) [Learn OAuth 2.0 by Building Your Own OAuth Client](202408/2024-08-13-learn-oauth-2.0-by-building-your-own-oauth-client.md)
 - (2024-08-11) [Turning the Tables on AI](202408/2024-08-13-turning-the-tables-on-ai.md)
