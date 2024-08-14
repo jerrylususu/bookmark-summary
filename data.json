@@ -136,5 +136,11 @@
     "title": "AI Seinfeld was the peak of AI-generated content. It will never happen again.",
     "url": "https://minimaxir.com/2024/08/ai-seinfeld/",
     "timestamp": 1723646009
+  },
+  {
+    "month": "202408",
+    "title": "Optimizing SPA load times with async chunks preloading",
+    "url": "https://mmazzarolo.com/blog/2024-08-13-async-chunk-preloading-on-load/",
+    "timestamp": 1723647437
   }
 ]
