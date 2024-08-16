@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-08-16) [How to convert a Node.js stream of event callback functions into an Async Iterator](202408/2024-08-16-how-to-convert-a-node.js-stream-of-event-callback-functions-into-an-async-iterator.md)
 - (2024-08-16) [One Thing Nobody Explained To You About TypeScript](202408/2024-08-16-one-thing-nobody-explained-to-you-about-typescript.md)
 - (2024-08-14) [Optimizing SPA load times with async chunks preloading](202408/2024-08-16-optimizing-spa-load-times-with-async-chunks-preloading.md)
 - (2024-08-14) [AI Seinfeld was the peak of AI-generated content. It will never happen again.](202408/2024-08-16-ai-seinfeld-was-the-peak-of-ai-generated-content.-it-will-never-happen-again..md)
