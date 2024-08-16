@@ -142,5 +142,11 @@
     "title": "Optimizing SPA load times with async chunks preloading",
     "url": "https://mmazzarolo.com/blog/2024-08-13-async-chunk-preloading-on-load/",
     "timestamp": 1723647437
+  },
+  {
+    "month": "202408",
+    "title": "One Thing Nobody Explained To You About TypeScript",
+    "url": "https://kettanaito.com/blog/one-thing-nobody-explained-to-you-about-typescript",
+    "timestamp": 1723818761
   }
 ]
