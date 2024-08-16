@@ -148,5 +148,11 @@
     "title": "One Thing Nobody Explained To You About TypeScript",
     "url": "https://kettanaito.com/blog/one-thing-nobody-explained-to-you-about-typescript",
     "timestamp": 1723818761
+  },
+  {
+    "month": "202408",
+    "title": "How to convert a Node.js stream of event callback functions into an Async Iterator",
+    "url": "https://www.jbernier.com/p?id=nodejs-stream-async-iterator",
+    "timestamp": 1723819080
   }
 ]
