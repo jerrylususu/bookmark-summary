@@ -202,5 +202,11 @@
     "title": "Tacit Knowledge is Dangerous",
     "url": "https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/",
     "timestamp": 1724500567
+  },
+  {
+    "month": "202408",
+    "title": "Command Line Data Processing: Using DuckDB as a Unix Tool",
+    "url": "https://duckdb.org/2024/06/20/cli-data-processing-using-duckdb-as-a-unix-tool.html",
+    "timestamp": 1724503708
   }
 ]
