@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-08-24) [Command Line Data Processing: Using DuckDB as a Unix Tool](202408/2024-08-24-command-line-data-processing:-using-duckdb-as-a-unix-tool.md)
 - (2024-08-24) [Tacit Knowledge is Dangerous](202408/2024-08-24-tacit-knowledge-is-dangerous.md)
 - (2024-08-24) [A Visual Guide to Quantization](202408/2024-08-24-a-visual-guide-to-quantization.md)
 - (2024-08-24) [Font with Built-In Syntax Highlighting](202408/2024-08-24-font-with-built-in-syntax-highlighting.md)
