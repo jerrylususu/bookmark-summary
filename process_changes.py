@@ -112,8 +112,9 @@ def slugify(text: str) -> str:
     invalid_fs_chars: str = '/\\:*?"<>|'
     return text.lower().replace(invalid_fs_chars, '-').replace(' ', '-')
 
-def get_summary_file_path(title: str, in_readme_md: bool = False) -> Path:
-    summary_filename: str = f"{CURRENT_DATE}-{slugify(title)}.md"
+def get_summary_file_path(title: str, timestamp: int, in_readme_md: bool = False) -> Path:
+    date_str = datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d')
+    summary_filename: str = f"{date_str}-{slugify(title)}.md"
     root: Path = Path(BOOKMARK_SUMMARY_REPO_NAME, CURRENT_MONTH)
     if in_readme_md:
         root = Path(".", CURRENT_MONTH)
@@ -151,7 +152,7 @@ def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> s
     sorted_summarized_bookmarks = sorted(summarized_bookmarks, key=lambda bookmark: bookmark.timestamp, reverse=True)
    
     for bookmark in sorted_summarized_bookmarks:
-        summary_file_path = get_summary_file_path(bookmark.title, in_readme_md=True)
+        summary_file_path = get_summary_file_path(bookmark.title, bookmark.timestamp, in_readme_md=True)
         summary_list += f"- ({datetime.fromtimestamp(bookmark.timestamp).strftime('%Y-%m-%d')}) [{bookmark.title}]({summary_file_path})\n"
 
     return initial_prefix + summary_list
@@ -185,11 +186,12 @@ def process_bookmark_file():
         summary: str = summarize_text(text_content)
         one_sentence: str = one_sentence_summary(summary)
         summary_file_content: str = build_summary_file(title, url, summary, one_sentence)
+        timestamp = int(datetime.now().timestamp()))
         
         with open(get_text_content_path(title), 'w', encoding='utf-8') as f:
             f.write(text_content)
 
-        with open(get_summary_file_path(title), 'w', encoding='utf-8') as f:
+        with open(get_summary_file_path(title, timestamp=timestamp), 'w', encoding='utf-8') as f:
             f.write(summary_file_content)
         
         # Update bookmark-summary/README.md
@@ -197,7 +199,7 @@ def process_bookmark_file():
             month=CURRENT_MONTH,
             title=title,
             url=url,
-            timestamp=int(datetime.now().timestamp())
+            timestamp=timestamp
         ))
 
         with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/README.md', 'w', encoding='utf-8') as f:
