@@ -186,7 +186,7 @@ def process_bookmark_file():
         summary: str = summarize_text(text_content)
         one_sentence: str = one_sentence_summary(summary)
         summary_file_content: str = build_summary_file(title, url, summary, one_sentence)
-        timestamp = int(datetime.now().timestamp()))
+        timestamp = int(datetime.now().timestamp())
         
         with open(get_text_content_path(title), 'w', encoding='utf-8') as f:
             f.write(text_content)
