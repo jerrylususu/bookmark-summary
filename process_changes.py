@@ -9,6 +9,7 @@ import os
 import logging
 import time
 from functools import wraps
+from urllib.parse import quote
 
 # -- configurations begin --
 BOOKMARK_COLLECTION_REPO_NAME: str = "bookmark-collection"
@@ -118,6 +119,7 @@ def get_summary_file_path(title: str, timestamp: int, in_readme_md: bool = False
     root: Path = Path(BOOKMARK_SUMMARY_REPO_NAME, CURRENT_MONTH)
     if in_readme_md:
         root = Path(".", CURRENT_MONTH)
+        summary_filename: str = f"{date_str}-{quote(slugify(title))}.md"  
     summary_path: Path = Path(root, summary_filename)
     return summary_path
 
