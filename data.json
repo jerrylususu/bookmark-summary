@@ -208,5 +208,11 @@
     "title": "Command Line Data Processing: Using DuckDB as a Unix Tool",
     "url": "https://duckdb.org/2024/06/20/cli-data-processing-using-duckdb-as-a-unix-tool.html",
     "timestamp": 1724503708
+  },
+  {
+    "month": "202408",
+    "title": "Where Should Visual Programming Go?",
+    "url": "https://tonsky.me/blog/diagrams/",
+    "timestamp": 1724567580
   }
 ]
