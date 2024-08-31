@@ -238,5 +238,11 @@
     "title": "Leader Election With S3 Conditional Writes",
     "url": "https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/",
     "timestamp": 1725079233
+  },
+  {
+    "month": "202408",
+    "title": "Software Engineering - The Soft Parts",
+    "url": "https://addyosmani.com/blog/software-engineering-soft-parts/#quote-17",
+    "timestamp": 1725081576
   }
 ]
