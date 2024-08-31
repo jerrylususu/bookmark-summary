@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-08-31) [Leader Election With S3 Conditional Writes](202408/2024-08-31-leader-election-with-s3-conditional-writes.md)
 - (2024-08-28) [MiniJinja: Learnings from Building a Template Engine in Rust](202408/2024-08-28-minijinja%3A-learnings-from-building-a-template-engine-in-rust.md)
 - (2024-08-27) [Pinning：重新想象倒数日 App - 少数派](202408/2024-08-27-pinning%EF%BC%9A%E9%87%8D%E6%96%B0%E6%83%B3%E8%B1%A1%E5%80%92%E6%95%B0%E6%97%A5-app---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2024-08-25) [Lessons learned in 35 years of making software](202408/2024-08-25-lessons-learned-in-35-years-of-making-software.md)
