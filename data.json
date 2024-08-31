@@ -232,5 +232,11 @@
     "title": "MiniJinja: Learnings from Building a Template Engine in Rust",
     "url": "https://lucumr.pocoo.org/2024/8/27/minijinja/",
     "timestamp": 1724856700
+  },
+  {
+    "month": "202408",
+    "title": "Leader Election With S3 Conditional Writes",
+    "url": "https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/",
+    "timestamp": 1725079233
   }
 ]
