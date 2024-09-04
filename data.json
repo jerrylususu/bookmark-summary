@@ -274,5 +274,11 @@
     "title": "Textual - Anatomy of a Textual User Interface",
     "url": "https://textual.textualize.io/blog/2024/09/15/anatomy-of-a-textual-user-interface/",
     "timestamp": 1725373850
+  },
+  {
+    "month": "202409",
+    "title": "Greppability is an underrated code metric",
+    "url": "https://morizbuesing.com/blog/greppability-code-metric/",
+    "timestamp": 1725459566
   }
 ]
