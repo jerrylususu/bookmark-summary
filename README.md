@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-09-04) [Paying down tech debt](202409/2024-09-04-paying-down-tech-debt.md)
 - (2024-09-04) [Greppability is an underrated code metric](202409/2024-09-04-greppability-is-an-underrated-code-metric.md)
 - (2024-09-03) [Textual - Anatomy of a Textual User Interface](202409/2024-09-03-textual---anatomy-of-a-textual-user-interface.md)
 - (2024-09-02) [从GraphRAG看信息的重新组织 - 铁蕾的个人博客](202409/2024-09-02-%E4%BB%8Egraphrag%E7%9C%8B%E4%BF%A1%E6%81%AF%E7%9A%84%E9%87%8D%E6%96%B0%E7%BB%84%E7%BB%87---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
