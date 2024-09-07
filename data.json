@@ -316,5 +316,11 @@
     "title": "Seafaring for Women in Software Engineering - Part I - Performance & Promotion",
     "url": "https://beabytes.com/seafaring-part-i/",
     "timestamp": 1725635369
+  },
+  {
+    "month": "202409",
+    "title": "Cog",
+    "url": "https://nedbatchelder.com/code/cog",
+    "timestamp": 1725703888
   }
 ]
