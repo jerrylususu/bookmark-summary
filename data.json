@@ -322,5 +322,11 @@
     "title": "Cog",
     "url": "https://nedbatchelder.com/code/cog",
     "timestamp": 1725703888
+  },
+  {
+    "month": "202409",
+    "title": "OAuth from First Principles - Stack Auth",
+    "url": "https://stack-auth.com/blog/oauth-from-first-principles",
+    "timestamp": 1725705931
   }
 ]
