@@ -328,5 +328,11 @@
     "title": "OAuth from First Principles - Stack Auth",
     "url": "https://stack-auth.com/blog/oauth-from-first-principles",
     "timestamp": 1725705931
+  },
+  {
+    "month": "202409",
+    "title": "Garbage collection and closures",
+    "url": "https://jakearchibald.com/2024/garbage-collection-and-closures/",
+    "timestamp": 1725706760
   }
 ]
