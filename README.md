@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-09-07) [Cog](202409/2024-09-07-cog.md)
 - (2024-09-06) [Seafaring for Women in Software Engineering - Part I - Performance & Promotion](202409/2024-09-06-seafaring-for-women-in-software-engineering---part-i---performance-%26-promotion.md)
 - (2024-09-06) [Got an incident? pull the Andon Cord](202409/2024-09-06-got-an-incident%3F-pull-the-andon-cord.md)
 - (2024-09-06) [Every webpage deserves to be a place](202409/2024-09-06-every-webpage-deserves-to-be-a-place.md)
