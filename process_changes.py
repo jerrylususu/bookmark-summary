@@ -111,7 +111,7 @@ def one_sentence_summary(text: str) -> str:
 def slugify(text: str) -> str:
     # replace invalid fs chars with -
     invalid_fs_chars: str = '/\\:*?"<>|'
-    return text.lower().replace(invalid_fs_chars, '-').replace(' ', '-')
+    return re.sub(r'[' + re.escape(invalid_fs_chars) + r'\s]+', '-', text.lower()).strip('-')
 
 def get_summary_file_path(title: str, timestamp: int, in_readme_md: bool = False) -> Path:
     date_str = datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d')
