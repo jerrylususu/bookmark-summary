@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-09-10) [Why GitHub Actually Won](202409/2024-09-10-why-github-actually-won.md)
 - (2024-09-09) [Making progress on side projects with content-driven development | nicole@web](202409/2024-09-09-making-progress-on-side-projects-with-content-driven-development-nicole%40web.md)
 - (2024-09-09) [聊聊自动化 PDF 渲染方案](202409/2024-09-09-%E8%81%8A%E8%81%8A%E8%87%AA%E5%8A%A8%E5%8C%96-pdf-%E6%B8%B2%E6%9F%93%E6%96%B9%E6%A1%88.md)
 - (2024-09-08) [Zeyi-Lin/HivisionIDPhotos: ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。](202409/2024-09-08-zeyi-lin-hivisionidphotos-%E2%9A%A1%EF%B8%8Fhivisionidphotos-a-lightweight-and-efficient-ai-id-photos-tools.-%E4%B8%80%E4%B8%AA%E8%BD%BB%E9%87%8F%E7%BA%A7%E7%9A%84ai%E8%AF%81%E4%BB%B6%E7%85%A7%E5%88%B6%E4%BD%9C%E7%AE%97%E6%B3%95%E3%80%82.md)
