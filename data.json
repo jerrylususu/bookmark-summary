@@ -370,5 +370,11 @@
     "title": "Notes from my appearance on the Software Misadventures Podcast",
     "url": "https://simonwillison.net/2024/Sep/10/software-misadventures/",
     "timestamp": 1726068456
+  },
+  {
+    "month": "202409",
+    "title": "GitHub's CSP journey",
+    "url": "https://github.blog/engineering/platform-security/githubs-csp-journey/",
+    "timestamp": 1726151406
   }
 ]
