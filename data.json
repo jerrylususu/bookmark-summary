@@ -394,5 +394,11 @@
     "title": "The Joel Test: 12 Steps to Better Code",
     "url": "https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/",
     "timestamp": 1726402063
+  },
+  {
+    "month": "202409",
+    "title": "Advanced Shell Scripting Techniques: Automating Complex Tasks with Bash",
+    "url": "https://omid.dev/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/",
+    "timestamp": 1726402128
   }
 ]
