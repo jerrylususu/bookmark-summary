@@ -382,5 +382,11 @@
     "title": "Notes on running Go in the browser with WebAssembly - Eli Bendersky's website",
     "url": "https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/",
     "timestamp": 1726371588
+  },
+  {
+    "month": "202409",
+    "title": "Speed matters",
+    "url": "https://www.scattered-thoughts.net/writing/speed-matters/",
+    "timestamp": 1726397145
   }
 ]

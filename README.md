@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-09-15) [Speed matters](202409/2024-09-15-speed-matters.md)
 - (2024-09-15) [Notes on running Go in the browser with WebAssembly - Eli Bendersky's website](202409/2024-09-15-notes-on-running-go-in-the-browser-with-webassembly---eli-bendersky%27s-website.md)
 - (2024-09-12) [GitHub's CSP journey](202409/2024-09-12-github%27s-csp-journey.md)
 - (2024-09-11) [Notes from my appearance on the Software Misadventures Podcast](202409/2024-09-11-notes-from-my-appearance-on-the-software-misadventures-podcast.md)
