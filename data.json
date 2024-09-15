@@ -376,5 +376,11 @@
     "title": "GitHub's CSP journey",
     "url": "https://github.blog/engineering/platform-security/githubs-csp-journey/",
     "timestamp": 1726151406
+  },
+  {
+    "month": "202409",
+    "title": "Notes on running Go in the browser with WebAssembly - Eli Bendersky's website",
+    "url": "https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/",
+    "timestamp": 1726371588
   }
 ]
