@@ -406,5 +406,11 @@
     "title": "Optimizing Javascript for fun and for profit",
     "url": "https://romgrk.com/posts/optimizing-javascript",
     "timestamp": 1726402405
+  },
+  {
+    "month": "202409",
+    "title": "How to Zip Files with the Python S3fs Library + Backblaze B2 Cloud Storage",
+    "url": "https://www.backblaze.com/blog/how-to-zip-files-with-the-python-s3fs-library-backblaze-b2-cloud-storage/",
+    "timestamp": 1726671028
   }
 ]
