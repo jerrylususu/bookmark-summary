@@ -418,5 +418,11 @@
     "title": "Things I’ve learned serving on the board of the Python Software Foundation",
     "url": "https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/",
     "timestamp": 1726755270
+  },
+  {
+    "month": "202409",
+    "title": "Introducing Netflix’s Key-Value Data Abstraction Layer",
+    "url": "https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30",
+    "timestamp": 1726758055
   }
 ]
