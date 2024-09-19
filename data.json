@@ -412,5 +412,11 @@
     "title": "How to Zip Files with the Python S3fs Library + Backblaze B2 Cloud Storage",
     "url": "https://www.backblaze.com/blog/how-to-zip-files-with-the-python-s3fs-library-backblaze-b2-cloud-storage/",
     "timestamp": 1726671028
+  },
+  {
+    "month": "202409",
+    "title": "Things I’ve learned serving on the board of the Python Software Foundation",
+    "url": "https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/",
+    "timestamp": 1726755270
   }
 ]
