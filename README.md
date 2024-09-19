@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-09-19) [Introducing Netflix’s Key-Value Data Abstraction Layer](202409/2024-09-19-introducing-netflix%E2%80%99s-key-value-data-abstraction-layer.md)
 - (2024-09-19) [Things I’ve learned serving on the board of the Python Software Foundation](202409/2024-09-19-things-i%E2%80%99ve-learned-serving-on-the-board-of-the-python-software-foundation.md)
 - (2024-09-18) [How to Zip Files with the Python S3fs Library + Backblaze B2 Cloud Storage](202409/2024-09-18-how-to-zip-files-with-the-python-s3fs-library-%2B-backblaze-b2-cloud-storage.md)
 - (2024-09-15) [Optimizing Javascript for fun and for profit](202409/2024-09-15-optimizing-javascript-for-fun-and-for-profit.md)
