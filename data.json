@@ -424,5 +424,11 @@
     "title": "Introducing Netflix’s Key-Value Data Abstraction Layer",
     "url": "https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30",
     "timestamp": 1726758055
+  },
+  {
+    "month": "202409",
+    "title": "sz3/libcimbar",
+    "url": "https://github.com/sz3/libcimbar",
+    "timestamp": 1726913405
   }
 ]
