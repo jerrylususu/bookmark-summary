@@ -448,5 +448,11 @@
     "title": "Understanding AbortController in Node.js: A Complete Guide | Better Stack Community",
     "url": "https://betterstack.com/community/guides/scaling-nodejs/understanding-abortcontroller/",
     "timestamp": 1726999684
+  },
+  {
+    "month": "202409",
+    "title": "Deploying Web Apps with Caddy: A Beginner's Guide | Better Stack Community",
+    "url": "https://betterstack.com/community/guides/web-servers/caddy/",
+    "timestamp": 1727000235
   }
 ]
