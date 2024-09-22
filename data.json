@@ -442,5 +442,11 @@
     "title": "Good Refactoring vs Bad Refactoring",
     "url": "https://www.builder.io/blog/good-vs-bad-refactoring",
     "timestamp": 1726999169
+  },
+  {
+    "month": "202409",
+    "title": "Understanding AbortController in Node.js: A Complete Guide | Better Stack Community",
+    "url": "https://betterstack.com/community/guides/scaling-nodejs/understanding-abortcontroller/",
+    "timestamp": 1726999684
   }
 ]
