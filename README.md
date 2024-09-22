@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-09-22) [Deploying Web Apps with Caddy: A Beginner's Guide | Better Stack Community](202409/2024-09-22-deploying-web-apps-with-caddy-a-beginner%27s-guide-better-stack-community.md)
 - (2024-09-22) [Understanding AbortController in Node.js: A Complete Guide | Better Stack Community](202409/2024-09-22-understanding-abortcontroller-in-node.js-a-complete-guide-better-stack-community.md)
 - (2024-09-22) [Good Refactoring vs Bad Refactoring](202409/2024-09-22-good-refactoring-vs-bad-refactoring.md)
 - (2024-09-21) [The web's clipboard, and how it stores data of different types](202409/2024-09-21-the-web%27s-clipboard%2C-and-how-it-stores-data-of-different-types.md)
