@@ -436,5 +436,11 @@
     "title": "The web's clipboard, and how it stores data of different types",
     "url": "undefined/blog/clipboard",
     "timestamp": 1726924743
+  },
+  {
+    "month": "202409",
+    "title": "Good Refactoring vs Bad Refactoring",
+    "url": "https://www.builder.io/blog/good-vs-bad-refactoring",
+    "timestamp": 1726999169
   }
 ]
