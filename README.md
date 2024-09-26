@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-09-26) [Haystack](202409/2024-09-26-haystack.md)
 - (2024-09-26) [JSON For You | The best online JSON tool](202409/2024-09-26-json-for-you-the-best-online-json-tool.md)
 - (2024-09-25) [接纳不等于忍受，为舒服使用 Windows 11 的若干优化调整记录 - 少数派](202409/2024-09-25-%E6%8E%A5%E7%BA%B3%E4%B8%8D%E7%AD%89%E4%BA%8E%E5%BF%8D%E5%8F%97%EF%BC%8C%E4%B8%BA%E8%88%92%E6%9C%8D%E4%BD%BF%E7%94%A8-windows-11-%E7%9A%84%E8%8B%A5%E5%B9%B2%E4%BC%98%E5%8C%96%E8%B0%83%E6%95%B4%E8%AE%B0%E5%BD%95---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2024-09-23) [What I tell people new to on-call | nicole@web](202409/2024-09-23-what-i-tell-people-new-to-on-call-nicole%40web.md)
