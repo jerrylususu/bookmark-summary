@@ -484,5 +484,11 @@
     "title": "Haystack",
     "url": "https://haystackeditor.com/",
     "timestamp": 1727361289
+  },
+  {
+    "month": "202409",
+    "title": "How iOS Restricts Features by Region: A Look at MobileGestalt and Eligibility",
+    "url": "https://type.cyhsu.xyz/2024/09/ios-feature-regional-lockout/",
+    "timestamp": 1727448439
   }
 ]
