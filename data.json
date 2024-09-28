@@ -490,5 +490,11 @@
     "title": "How iOS Restricts Features by Region: A Look at MobileGestalt and Eligibility",
     "url": "https://type.cyhsu.xyz/2024/09/ios-feature-regional-lockout/",
     "timestamp": 1727448439
+  },
+  {
+    "month": "202409",
+    "title": "Some Go web dev notes",
+    "url": "https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/",
+    "timestamp": 1727494059
   }
 ]
