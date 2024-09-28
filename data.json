@@ -514,5 +514,11 @@
     "title": "OpenAPI Spec - Parameter Serialization",
     "url": "https://docs.bump.sh/guides/openapi/specification/v3.1/understanding-structure/parameter-serialization/",
     "timestamp": 1727523998
+  },
+  {
+    "month": "202409",
+    "title": "TCP Fast Open",
+    "url": "https://dbwu.tech/posts/network/what-is-tcp-fast-open/",
+    "timestamp": 1727524112
   }
 ]
