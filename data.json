@@ -508,5 +508,11 @@
     "title": "How I Think About Debt",
     "url": "https://collabfund.com/blog/how-i-think-about-debt/",
     "timestamp": 1727523147
+  },
+  {
+    "month": "202409",
+    "title": "OpenAPI Spec - Parameter Serialization",
+    "url": "https://docs.bump.sh/guides/openapi/specification/v3.1/understanding-structure/parameter-serialization/",
+    "timestamp": 1727523998
   }
 ]
