@@ -496,5 +496,11 @@
     "title": "Some Go web dev notes",
     "url": "https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/",
     "timestamp": 1727494059
+  },
+  {
+    "month": "202409",
+    "title": "It's hard to write code for computers, but it's even harder to write code for humans",
+    "url": "https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html",
+    "timestamp": 1727494406
   }
 ]
