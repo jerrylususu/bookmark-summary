@@ -520,5 +520,11 @@
     "title": "TCP Fast Open",
     "url": "https://dbwu.tech/posts/network/what-is-tcp-fast-open/",
     "timestamp": 1727524112
+  },
+  {
+    "month": "202409",
+    "title": "Things You Didn't Know About GNU Readline",
+    "url": "https://twobithistory.org/2019/08/22/readline.html",
+    "timestamp": 1727524170
   }
 ]
