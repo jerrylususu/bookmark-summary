@@ -526,5 +526,11 @@
     "title": "Things You Didn't Know About GNU Readline",
     "url": "https://twobithistory.org/2019/08/22/readline.html",
     "timestamp": 1727524170
+  },
+  {
+    "month": "202409",
+    "title": "NotebookLM’s automatically generated podcasts are surprisingly effective",
+    "url": "https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/",
+    "timestamp": 1727703601
   }
 ]
