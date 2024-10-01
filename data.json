@@ -538,5 +538,11 @@
     "title": "Conflating Overture Places Using DuckDB, Ollama, Embeddings, and More",
     "url": "https://www.dbreunig.com/2024/09/27/conflating-overture-points-of-interests-with-duckdb-ollama-and-more.html",
     "timestamp": 1727754458
+  },
+  {
+    "month": "202410",
+    "title": "Rowboat",
+    "url": "https://rowboat.xyz/",
+    "timestamp": 1727754561
   }
 ]
