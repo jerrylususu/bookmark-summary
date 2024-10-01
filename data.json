@@ -532,5 +532,11 @@
     "title": "NotebookLM’s automatically generated podcasts are surprisingly effective",
     "url": "https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/",
     "timestamp": 1727703601
+  },
+  {
+    "month": "202410",
+    "title": "Conflating Overture Places Using DuckDB, Ollama, Embeddings, and More",
+    "url": "https://www.dbreunig.com/2024/09/27/conflating-overture-points-of-interests-with-duckdb-ollama-and-more.html",
+    "timestamp": 1727754458
   }
 ]
