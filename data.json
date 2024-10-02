@@ -544,5 +544,11 @@
     "title": "Rowboat",
     "url": "https://rowboat.xyz/",
     "timestamp": 1727754561
+  },
+  {
+    "month": "202410",
+    "title": "OpenAI DevDay 2024 live blog",
+    "url": "https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/",
+    "timestamp": 1727877029
   }
 ]
