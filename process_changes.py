@@ -113,13 +113,18 @@ def slugify(text: str) -> str:
     invalid_fs_chars: str = '/\\:*?"<>|'
     return re.sub(r'[' + re.escape(invalid_fs_chars) + r'\s]+', '-', text.lower()).strip('-')
 
-def get_summary_file_path(title: str, timestamp: int, in_readme_md: bool = False) -> Path:
+def get_summary_file_path(title: str, timestamp: int, month: Optional[str] = None, in_readme_md: bool = False) -> Path:
     date_str = datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d')
     summary_filename: str = f"{date_str}-{slugify(title)}.md"
-    root: Path = Path(BOOKMARK_SUMMARY_REPO_NAME, CURRENT_MONTH)
     if in_readme_md:
-        root = Path(".", CURRENT_MONTH)
-        summary_filename: str = f"{date_str}-{quote(slugify(title))}.md"  
+        if month is None:
+            raise ValueError("Month must be provided when in_readme_md is True")
+        root: Path = Path(".", month)
+        summary_filename = f"{date_str}-{quote(slugify(title))}.md"
+    else:
+        if month is None:
+            month = CURRENT_MONTH
+        root: Path = Path(BOOKMARK_SUMMARY_REPO_NAME, month)
     summary_path: Path = Path(root, summary_filename)
     return summary_path
 
@@ -154,7 +159,12 @@ def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> s
     sorted_summarized_bookmarks = sorted(summarized_bookmarks, key=lambda bookmark: bookmark.timestamp, reverse=True)
    
     for bookmark in sorted_summarized_bookmarks:
-        summary_file_path = get_summary_file_path(bookmark.title, bookmark.timestamp, in_readme_md=True)
+        summary_file_path = get_summary_file_path(
+            title=bookmark.title,
+            timestamp=bookmark.timestamp,
+            month=bookmark.month,  # 传递书签的月份
+            in_readme_md=True
+        )
         summary_list += f"- ({datetime.fromtimestamp(bookmark.timestamp).strftime('%Y-%m-%d')}) [{bookmark.title}]({summary_file_path})\n"
 
     return initial_prefix + summary_list
