@@ -12,8 +12,8 @@ from functools import wraps
 from urllib.parse import quote
 
 # -- configurations begin --
-BOOKMARK_COLLECTION_REPO_NAME: str = "bookmark-collection"
-BOOKMARK_SUMMARY_REPO_NAME: str = "bookmark-summary"
+BOOKMARK_COLLECTION_REPO_NAME: str = ""
+BOOKMARK_SUMMARY_REPO_NAME: str = "."
 # -- configurations end --
 
 logging.basicConfig(
@@ -171,8 +171,8 @@ def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> s
 
 @log_execution_time
 def process_bookmark_file():
-    with open(f'{BOOKMARK_COLLECTION_REPO_NAME}/README.md', 'r', encoding='utf-8') as f:
-        bookmark_lines: List[str] = f.readlines()
+    # with open(f'{BOOKMARK_COLLECTION_REPO_NAME}/README.md', 'r', encoding='utf-8') as f:
+    #     bookmark_lines: List[str] = f.readlines()
 
     with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'r', encoding='utf-8') as f:
         summarized_bookmark_dicts = json.load(f)
@@ -181,48 +181,49 @@ def process_bookmark_file():
     summarized_urls = set([bookmark.url for bookmark in summarized_bookmarks])
 
     # find the first unprocessed && summary-not-present bookmark
-    title: Optional[str] = None
-    url: Optional[str] = None
-    for line in bookmark_lines:
-        match: re.Match = re.search(r'- \[(.*?)\]\((.*?)\)', line)
-        if match and match.group(2) not in summarized_urls:
-            title, url = match.groups()
-            break
+    # title: Optional[str] = None
+    # url: Optional[str] = None
+    # for line in bookmark_lines:
+    #     match: re.Match = re.search(r'- \[(.*?)\]\((.*?)\)', line)
+    #     if match and match.group(2) not in summarized_urls:
+    #         title, url = match.groups()
+    #         break
 
-    if title and url:
+    if True:
         # Create folder for month if it doesn't exist
-        Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/{CURRENT_MONTH}').mkdir(parents=True, exist_ok=True)
+        # Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/{CURRENT_MONTH}').mkdir(parents=True, exist_ok=True)
 
-        # process the bookmark
-        text_content: str = get_text_content(url)
-        summary: str = summarize_text(text_content)
-        one_sentence: str = one_sentence_summary(summary)
-        summary_file_content: str = build_summary_file(title, url, summary, one_sentence)
-        timestamp = int(datetime.now().timestamp())
+        # # process the bookmark
+        # text_content: str = get_text_content(url)
+        # summary: str = summarize_text(text_content)
+        # one_sentence: str = one_sentence_summary(summary)
+        # summary_file_content: str = build_summary_file(title, url, summary, one_sentence)
+        # timestamp = int(datetime.now().timestamp())
         
-        with open(get_text_content_path(title), 'w', encoding='utf-8') as f:
-            f.write(text_content)
+        # with open(get_text_content_path(title), 'w', encoding='utf-8') as f:
+        #     f.write(text_content)
 
-        with open(get_summary_file_path(title, timestamp=timestamp), 'w', encoding='utf-8') as f:
-            f.write(summary_file_content)
+        # with open(get_summary_file_path(title, timestamp=timestamp), 'w', encoding='utf-8') as f:
+        #     f.write(summary_file_content)
         
-        # Update bookmark-summary/README.md
-        summarized_bookmarks.append(SummarizedBookmark(
-            month=CURRENT_MONTH,
-            title=title,
-            url=url,
-            timestamp=timestamp
-        ))
+        # # Update bookmark-summary/README.md
+        # summarized_bookmarks.append(SummarizedBookmark(
+        #     month=CURRENT_MONTH,
+        #     title=title,
+        #     url=url,
+        #     timestamp=timestamp
+        # ))
 
         with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/README.md', 'w', encoding='utf-8') as f:
             f.write(build_summary_readme_md(summarized_bookmarks))
 
         # Update data.json
         with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'w', encoding='utf-8') as f:
-            json.dump([asdict(bookmark) for bookmark in summarized_bookmarks], f, indent=2, ensure_ascii=False)
+            json.dump([asdict(bookmark) for bookmark in summarized_bookmarks], f, indent=2, ensure_ascii=False)    
 
 def main():
     process_bookmark_file()
+    # local_debug()
 
 if __name__ == "__main__":
     main()
