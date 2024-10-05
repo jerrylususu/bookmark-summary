@@ -562,5 +562,11 @@
     "title": "Terminal colours are tricky",
     "url": "https://jvns.ca/blog/2024/10/01/terminal-colours/",
     "timestamp": 1727933085
+  },
+  {
+    "month": "202410",
+    "title": "Hybrid full-text search and vector search with SQLite",
+    "url": "https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html",
+    "timestamp": 1728094326
   }
 ]
