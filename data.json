@@ -568,5 +568,11 @@
     "title": "Hybrid full-text search and vector search with SQLite",
     "url": "https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html",
     "timestamp": 1728094326
+  },
+  {
+    "month": "202410",
+    "title": "Wikidata is a Giant Crosswalk File",
+    "url": "https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html",
+    "timestamp": 1728202911
   }
 ]
