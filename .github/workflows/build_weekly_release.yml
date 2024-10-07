@@ -9,7 +9,6 @@ on:
 
 permissions:
   contents: write        # 允许写入内容（包括标签和发布）
-  metadata: read         # 允许读取元数据
 
 jobs:
   create_release:
