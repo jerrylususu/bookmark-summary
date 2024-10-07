@@ -4,7 +4,7 @@ name: Generate Weekly Release
 
 on:
   schedule:
-    - cron: '0 0 * * 1'  # 每周一凌晨 0 点（UTC 时间）
+    - cron: '0 12 * * 0'  # 每周日北京时间晚上8点 (相当于 UTC 时间中午12点)
   workflow_dispatch:    # 允许手动触发
 
 jobs:
