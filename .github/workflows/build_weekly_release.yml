@@ -7,6 +7,10 @@ on:
     - cron: '0 12 * * 0'  # 每周日北京时间晚上8点 (相当于 UTC 时间中午12点)
   workflow_dispatch:    # 允许手动触发
 
+permissions:
+  contents: write        # 允许写入内容（包括标签和发布）
+  metadata: read         # 允许读取元数据
+
 jobs:
   create_release:
     runs-on: ubuntu-latest
