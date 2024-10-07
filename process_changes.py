@@ -201,7 +201,7 @@ def process_bookmark_file():
         Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/{CURRENT_MONTH}').mkdir(parents=True, exist_ok=True)
 
         # process the bookmark
-        submit_to_wayback_machine()
+        submit_to_wayback_machine(url)
         text_content: str = get_text_content(url)
         summary: str = summarize_text(text_content)
         one_sentence: str = one_sentence_summary(summary)
