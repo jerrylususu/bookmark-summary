@@ -10,6 +10,7 @@ import logging
 import time
 from functools import wraps
 from urllib.parse import quote
+from waybackpy import WaybackMachineSaveAPI
 
 # -- configurations begin --
 BOOKMARK_COLLECTION_REPO_NAME: str = "bookmark-collection"
@@ -44,6 +45,12 @@ class SummarizedBookmark:
 CURRENT_MONTH: str = datetime.now().strftime('%Y%m')
 CURRENT_DATE: str = datetime.now().strftime('%Y-%m-%d')
 CURRENT_DATE_AND_TIME: str = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+@log_execution_time
+def submit_to_wayback_machine(url: str):
+    save_api = WaybackMachineSaveAPI(url)
+    wayback_url = save_api.save()
+    logging.info(f'Wayback Saved: {wayback_url}')
 
 @log_execution_time
 def get_text_content(url: str) -> str:
@@ -194,6 +201,7 @@ def process_bookmark_file():
         Path(f'{BOOKMARK_SUMMARY_REPO_NAME}/{CURRENT_MONTH}').mkdir(parents=True, exist_ok=True)
 
         # process the bookmark
+        submit_to_wayback_machine()
         text_content: str = get_text_content(url)
         summary: str = summarize_text(text_content)
         one_sentence: str = one_sentence_summary(summary)
