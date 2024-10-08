@@ -580,5 +580,11 @@
     "title": "VTracer",
     "url": "https://www.visioncortex.org/vtracer/",
     "timestamp": 1728276727
+  },
+  {
+    "month": "202410",
+    "title": "Some notes on upgrading Hugo",
+    "url": "https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/",
+    "timestamp": 1728403457
   }
 ]
