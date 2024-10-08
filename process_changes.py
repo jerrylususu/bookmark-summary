@@ -48,9 +48,15 @@ CURRENT_DATE_AND_TIME: str = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
 @log_execution_time
 def submit_to_wayback_machine(url: str):
-    save_api = WaybackMachineSaveAPI(url)
-    wayback_url = save_api.save()
-    logging.info(f'Wayback Saved: {wayback_url}')
+    user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    try:
+        save_api = WaybackMachineSaveAPI(url, user_agent)
+        wayback_url = save_api.save()
+        logging.info(f'Wayback Saved: {wayback_url}')
+    except Exception as e:
+        # 非关键路径，容忍失败
+        logging.warning(f"submit to wayback machine failed, skipping, url={url}")
+        logging.exception(e)
 
 @log_execution_time
 def get_text_content(url: str) -> str:
