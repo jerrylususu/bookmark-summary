@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-10-09) [temporal - Open Source Durable Execution](202410/2024-10-09-temporal---open-source-durable-execution.md)
 - (2024-10-09) [Turning a conference talk into an annotated presentation - Jacob Kaplan-Moss](202410/2024-10-09-turning-a-conference-talk-into-an-annotated-presentation---jacob-kaplan-moss.md)
 - (2024-10-09) [curl bug-bounty stats | daniel.haxx.se](202410/2024-10-09-curl-bug-bounty-stats-daniel.haxx.se.md)
 - (2024-10-08) [感谢捉虫：聊聊自动更正的前世今生 - 少数派](202410/2024-10-08-%E6%84%9F%E8%B0%A2%E6%8D%89%E8%99%AB%EF%BC%9A%E8%81%8A%E8%81%8A%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%AD%A3%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
