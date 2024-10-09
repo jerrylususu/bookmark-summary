@@ -604,5 +604,11 @@
     "title": "curl bug-bounty stats | daniel.haxx.se",
     "url": "https://daniel.haxx.se/blog/2024/10/09/curl-bug-bounty-stats/",
     "timestamp": 1728485683
+  },
+  {
+    "month": "202410",
+    "title": "Turning a conference talk into an annotated presentation - Jacob Kaplan-Moss",
+    "url": "https://jacobian.org/til/talk-to-writeup-workflow/",
+    "timestamp": 1728487369
   }
 ]
