@@ -610,5 +610,11 @@
     "title": "Turning a conference talk into an annotated presentation - Jacob Kaplan-Moss",
     "url": "https://jacobian.org/til/talk-to-writeup-workflow/",
     "timestamp": 1728487369
+  },
+  {
+    "month": "202410",
+    "title": "temporal - Open Source Durable Execution",
+    "url": "https://temporal.io/",
+    "timestamp": 1728489021
   }
 ]
