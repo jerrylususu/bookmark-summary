@@ -646,5 +646,11 @@
     "title": "The Copenhagen Book",
     "url": "https://thecopenhagenbook.com/",
     "timestamp": 1728749166
+  },
+  {
+    "month": "202410",
+    "title": "Making algorithms faster",
+    "url": "https://learnmoderncpp.com/2024/10/12/making-algorithms-faster/",
+    "timestamp": 1728818722
   }
 ]
