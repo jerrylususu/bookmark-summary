@@ -658,5 +658,11 @@
     "title": "SQL/JSON is here! (kinda “Waiting for Pg 17”) – select * from depesz;",
     "url": "https://www.depesz.com/2024/10/11/sql-json-is-here-kinda-waiting-for-pg-17/",
     "timestamp": 1728916967
+  },
+  {
+    "month": "202410",
+    "title": "Investigation of a Workbench UI Latency Issue",
+    "url": "https://netflixtechblog.com/investigation-of-a-workbench-ui-latency-issue-faa017b4653d",
+    "timestamp": 1729004718
   }
 ]
