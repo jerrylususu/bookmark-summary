@@ -664,5 +664,11 @@
     "title": "Investigation of a Workbench UI Latency Issue",
     "url": "https://netflixtechblog.com/investigation-of-a-workbench-ui-latency-issue-faa017b4653d",
     "timestamp": 1729004718
+  },
+  {
+    "month": "202410",
+    "title": "Web Browser Engineering",
+    "url": "https://browser.engineering/",
+    "timestamp": 1729087001
   }
 ]
