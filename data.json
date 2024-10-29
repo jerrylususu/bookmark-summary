@@ -694,5 +694,11 @@
     "title": "Colophon",
     "url": "https://interconnected.org/home/2024/10/28/colophon",
     "timestamp": 1730211162
+  },
+  {
+    "month": "202410",
+    "title": "When to use std::string_view",
+    "url": "https://learnmoderncpp.com/2024/10/29/when-to-use-stdstring_view/",
+    "timestamp": 1730211663
   }
 ]
