@@ -724,5 +724,11 @@
     "title": "curl source code age",
     "url": "https://daniel.haxx.se/blog/2024/10/31/curl-source-code-age/",
     "timestamp": 1730385434
+  },
+  {
+    "month": "202410",
+    "title": "ASCII control characters in my terminal",
+    "url": "https://jvns.ca/blog/2024/10/31/ascii-control-characters/",
+    "timestamp": 1730385513
   }
 ]
