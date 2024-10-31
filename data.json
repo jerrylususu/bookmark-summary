@@ -730,5 +730,11 @@
     "title": "ASCII control characters in my terminal",
     "url": "https://jvns.ca/blog/2024/10/31/ascii-control-characters/",
     "timestamp": 1730385513
+  },
+  {
+    "month": "202410",
+    "title": "Creating a LLM-as-a-Judge That Drives Business Results –",
+    "url": "https://hamel.dev/blog/posts/llm-judge/",
+    "timestamp": 1730385963
   }
 ]
