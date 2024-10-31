@@ -718,5 +718,11 @@
     "title": "Being Glue — No Idea Blog",
     "url": "https://www.noidea.dog/glue",
     "timestamp": 1730296751
+  },
+  {
+    "month": "202410",
+    "title": "curl source code age",
+    "url": "https://daniel.haxx.se/blog/2024/10/31/curl-source-code-age/",
+    "timestamp": 1730385434
   }
 ]
