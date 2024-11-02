@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-11-02) [6 Techniques I Use to Create a Great User Experience for Shell Scripts](202411/2024-11-02-6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts.md)
 - (2024-11-02) [近几年我在职场踩过的坑](202411/2024-11-02-%E8%BF%91%E5%87%A0%E5%B9%B4%E6%88%91%E5%9C%A8%E8%81%8C%E5%9C%BA%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91.md)
 - (2024-11-01) [Australia/Lord_Howe is the weirdest timezone | SSOReady](202411/2024-11-01-australia-lord_howe-is-the-weirdest-timezone-ssoready.md)
 - (2024-10-31) [Creating a LLM-as-a-Judge That Drives Business Results –](202410/2024-10-31-creating-a-llm-as-a-judge-that-drives-business-results-%E2%80%93.md)
