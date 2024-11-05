@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-11-05) [Parsing arguments in Rust with no dependencies | nicole@web](202411/2024-11-05-parsing-arguments-in-rust-with-no-dependencies-nicole%40web.md)
 - (2024-11-04) [如何利用 AI 更好地学外语 - 少数派](202411/2024-11-04-%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8-ai-%E6%9B%B4%E5%A5%BD%E5%9C%B0%E5%AD%A6%E5%A4%96%E8%AF%AD---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2024-11-02) [6 Techniques I Use to Create a Great User Experience for Shell Scripts](202411/2024-11-02-6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts.md)
 - (2024-11-02) [近几年我在职场踩过的坑](202411/2024-11-02-%E8%BF%91%E5%87%A0%E5%B9%B4%E6%88%91%E5%9C%A8%E8%81%8C%E5%9C%BA%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91.md)
