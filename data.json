@@ -778,5 +778,11 @@
     "title": "What's a Single-Page App? | jakelazaroff.com",
     "url": "https://jakelazaroff.com/words/whats-a-single-page-app/",
     "timestamp": 1730902494
+  },
+  {
+    "month": "202411",
+    "title": "Parsing JSON is a Minefield",
+    "url": "https://seriot.ch/projects/parsing_json.html",
+    "timestamp": 1730991636
   }
 ]
