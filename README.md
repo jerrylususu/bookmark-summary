@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-11-08) [hermit-crab/ScrapeMate](202411/2024-11-08-hermit-crab-scrapemate.md)
 - (2024-11-08) [Building My Resume in HTML using Eleventy by Michael Engen](202411/2024-11-08-building-my-resume-in-html-using-eleventy-by-michael-engen.md)
 - (2024-11-08) [I Waited 10 Billion Cycles and All I Got Was This Loading Screen](202411/2024-11-08-i-waited-10-billion-cycles-and-all-i-got-was-this-loading-screen.md)
 - (2024-11-08) [目录 | 系统设计面试：内幕指南](202411/2024-11-08-%E7%9B%AE%E5%BD%95-%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%EF%BC%9A%E5%86%85%E5%B9%95%E6%8C%87%E5%8D%97.md)

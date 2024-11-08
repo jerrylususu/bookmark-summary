@@ -814,5 +814,11 @@
     "title": "Building My Resume in HTML using Eleventy by Michael Engen",
     "url": "https://michaelengen.com/posts/my-eleventy-resume/",
     "timestamp": 1731075671
+  },
+  {
+    "month": "202411",
+    "title": "hermit-crab/ScrapeMate",
+    "url": "https://github.com/hermit-crab/ScrapeMate",
+    "timestamp": 1731076481
   }
 ]
