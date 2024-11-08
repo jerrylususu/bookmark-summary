@@ -808,5 +808,11 @@
     "title": "I Waited 10 Billion Cycles and All I Got Was This Loading Screen",
     "url": "https://blog.preyneyv.dev/doing-less-with-more",
     "timestamp": 1731075448
+  },
+  {
+    "month": "202411",
+    "title": "Building My Resume in HTML using Eleventy by Michael Engen",
+    "url": "https://michaelengen.com/posts/my-eleventy-resume/",
+    "timestamp": 1731075671
   }
 ]
