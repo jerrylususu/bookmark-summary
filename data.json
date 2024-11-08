@@ -790,5 +790,11 @@
     "title": "Home | nand2tetris",
     "url": "https://www.nand2tetris.org",
     "timestamp": 1730991706
+  },
+  {
+    "month": "202411",
+    "title": "Makefiles for Web Work",
+    "url": "https://rosszurowski.com/log/2022/makefiles",
+    "timestamp": 1731074639
   }
 ]
