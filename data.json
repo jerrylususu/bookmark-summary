@@ -826,5 +826,11 @@
     "title": "Everything I've learned so far about running local LLMs",
     "url": "https://nullprogram.com/blog/2024/11/10/",
     "timestamp": 1731334577
+  },
+  {
+    "month": "202411",
+    "title": "Algorithms we develop software by",
+    "url": "https://grantslatton.com/software-pathfinding",
+    "timestamp": 1731335507
   }
 ]
