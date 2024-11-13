@@ -850,5 +850,11 @@
     "title": "How I ship projects at big tech companies",
     "url": "https://www.seangoedecke.com/how-to-ship/",
     "timestamp": 1731420562
+  },
+  {
+    "month": "202411",
+    "title": "Nomadic Infrastructure Design for AI Workloads | Tigris Object Storage",
+    "url": "https://www.tigrisdata.com/blog/nomadic-compute/",
+    "timestamp": 1731508667
   }
 ]
