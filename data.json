@@ -856,5 +856,11 @@
     "title": "Nomadic Infrastructure Design for AI Workloads | Tigris Object Storage",
     "url": "https://www.tigrisdata.com/blog/nomadic-compute/",
     "timestamp": 1731508667
+  },
+  {
+    "month": "202411",
+    "title": "The TTY demystified",
+    "url": "https://www.linusakesson.net/programming/tty/",
+    "timestamp": 1731508779
   }
 ]
