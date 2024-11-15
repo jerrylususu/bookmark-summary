@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-11-15) [一站式 iframe 生成器 | 专业的嵌入内容可视化配置工具](202411/2024-11-15-%E4%B8%80%E7%AB%99%E5%BC%8F-iframe-%E7%94%9F%E6%88%90%E5%99%A8-%E4%B8%93%E4%B8%9A%E7%9A%84%E5%B5%8C%E5%85%A5%E5%86%85%E5%AE%B9%E5%8F%AF%E8%A7%86%E5%8C%96%E9%85%8D%E7%BD%AE%E5%B7%A5%E5%85%B7.md)
 - (2024-11-15) [Voice is (mostly) Bad UI](202411/2024-11-15-voice-is-%28mostly%29-bad-ui.md)
 - (2024-11-15) [Trayce](202411/2024-11-15-trayce.md)
 - (2024-11-15) [AWS Lambda turns 10: A rare look at the doc that started it](202411/2024-11-15-aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.md)
