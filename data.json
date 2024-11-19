@@ -922,5 +922,11 @@
     "title": "Importing a frontend Javascript library without a build system",
     "url": "https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/",
     "timestamp": 1732034879
+  },
+  {
+    "month": "202411",
+    "title": "download-esm: a tool for downloading ECMAScript modules",
+    "url": "https://simonwillison.net/2023/May/2/download-esm/",
+    "timestamp": 1732036185
   }
 ]
