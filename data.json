@@ -916,5 +916,11 @@
     "title": "Against SQL",
     "url": "https://www.scattered-thoughts.net/writing/against-sql/",
     "timestamp": 1731827031
+  },
+  {
+    "month": "202411",
+    "title": "Importing a frontend Javascript library without a build system",
+    "url": "https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/",
+    "timestamp": 1732034879
   }
 ]
