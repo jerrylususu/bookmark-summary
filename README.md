@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-11-19) [Security means securing people where they are](202411/2024-11-19-security-means-securing-people-where-they-are.md)
 - (2024-11-19) [download-esm: a tool for downloading ECMAScript modules](202411/2024-11-19-download-esm-a-tool-for-downloading-ecmascript-modules.md)
 - (2024-11-19) [Importing a frontend Javascript library without a build system](202411/2024-11-19-importing-a-frontend-javascript-library-without-a-build-system.md)
 - (2024-11-17) [Against SQL](202411/2024-11-17-against-sql.md)
