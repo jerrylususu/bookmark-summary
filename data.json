@@ -946,5 +946,11 @@
     "title": "Understanding the BM25 full text search algorithm",
     "url": "https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/",
     "timestamp": 1732113073
+  },
+  {
+    "month": "202411",
+    "title": "OK, I can partly explain the LLM chess weirdness now",
+    "url": "https://dynomight.net/more-chess/",
+    "timestamp": 1732282681
   }
 ]
