@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-11-23) [The Fun Scale: Understanding Types of "Fun" | REI Co-op Journal](202411/2024-11-23-the-fun-scale-understanding-types-of-fun-rei-co-op-journal.md)
 - (2024-11-23) [Burning NeXTCube](202411/2024-11-23-burning-nextcube.md)
 - (2024-11-23) [How decentralized is Bluesky really? -- Dustycloud Brainstorms](202411/2024-11-23-how-decentralized-is-bluesky-really----dustycloud-brainstorms.md)
 - (2024-11-22) [LAN Party House](202411/2024-11-22-lan-party-house.md)
