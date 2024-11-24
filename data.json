@@ -982,5 +982,11 @@
     "title": "Petnames: A humane approach to secure, decentralized naming",
     "url": "https://files.spritely.institute/papers/petnames.html",
     "timestamp": 1732369389
+  },
+  {
+    "month": "202411",
+    "title": "Interactive Git Log - Visual Studio Marketplace",
+    "url": "https://marketplace.visualstudio.com/items?itemName=interactive-smartlog.interactive-smartlog",
+    "timestamp": 1732422807
   }
 ]
