@@ -988,5 +988,11 @@
     "title": "Interactive Git Log - Visual Studio Marketplace",
     "url": "https://marketplace.visualstudio.com/items?itemName=interactive-smartlog.interactive-smartlog",
     "timestamp": 1732422807
+  },
+  {
+    "month": "202411",
+    "title": "Introduction to lcl.host – Anchor",
+    "url": "https://anchor.dev/docs/lcl-host/why-lcl",
+    "timestamp": 1732423041
   }
 ]
