@@ -15,6 +15,8 @@ from waybackpy import WaybackMachineSaveAPI
 # -- configurations begin --
 BOOKMARK_COLLECTION_REPO_NAME: str = "bookmark-collection"
 BOOKMARK_SUMMARY_REPO_NAME: str = "bookmark-summary"
+MAX_CONTENT_LENGTH: int = 32 * 1024  # 32KB
+NO_SUMMARY_TAG: str = "#nosummary"
 # -- configurations end --
 
 logging.basicConfig(
@@ -62,7 +64,11 @@ def submit_to_wayback_machine(url: str):
 def get_text_content(url: str) -> str:
     jina_url: str = f"https://r.jina.ai/{url}"
     response: requests.Response = requests.get(jina_url)
-    return response.text
+    content = response.text
+    if len(content) > MAX_CONTENT_LENGTH:
+        logging.warning(f"Content length ({len(content)}) exceeds maximum ({MAX_CONTENT_LENGTH}), truncating...")
+        content = content[:MAX_CONTENT_LENGTH]
+    return content
 
 @log_execution_time
 def call_openai_api(prompt: str, content: str) -> str:
@@ -223,6 +229,9 @@ def process_bookmark_file():
     for line in bookmark_lines:
         match: re.Match = re.search(r'- \[(.*?)\]\((.*?)\)', line)
         if match and match.group(2) not in summarized_urls:
+            if NO_SUMMARY_TAG in line:
+                logging.debug(f"Skipping bookmark with {NO_SUMMARY_TAG} tag: {match.group(1)}")
+                continue
             title, url = match.groups()
             break
 
