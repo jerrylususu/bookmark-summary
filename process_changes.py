@@ -79,8 +79,32 @@ def call_openai_api(prompt: str, content: str) -> str:
         ]
     }
     api_endpoint: str = os.environ.get('OPENAI_API_ENDPOINT', 'https://api.openai.com/v1/chat/completions')
+    
+    # 添加请求相关日志
+    logging.info(f"Calling OpenAI API with model: {model}")
+    logging.info(f"API endpoint: {api_endpoint}")
+    
     response: requests.Response = requests.post(api_endpoint, headers=headers, data=json.dumps(data))
-    return response.json()['choices'][0]['message']['content']
+    
+    # 添加响应相关日志
+    logging.info(f"Response status code: {response.status_code}")
+    response_json = response.json()
+    logging.debug(f"Response content: {json.dumps(response_json, ensure_ascii=False)}")
+    
+    # 错误处理
+    if response.status_code != 200:
+        error_msg = f"OpenAI API request failed with status {response.status_code}"
+        logging.error(error_msg)
+        logging.error(f"Error response: {response_json}")
+        raise Exception(error_msg)
+    
+    if 'choices' not in response_json:
+        error_msg = "Response does not contain 'choices' field"
+        logging.error(error_msg)
+        logging.error(f"Full response: {response_json}")
+        raise Exception(error_msg)
+        
+    return response_json['choices'][0]['message']['content']
 
 @log_execution_time
 def summarize_text(text: str) -> str:
