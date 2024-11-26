@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-11-26) [</> htmx ~ Codin' Dirty](202411/2024-11-26-htmx-~-codin%27-dirty.md)
 - (2024-11-24) [4個技巧幫我捕捉一閃而逝的「經驗筆記」，建立更實用的第二大腦](202411/2024-11-24-4%E5%80%8B%E6%8A%80%E5%B7%A7%E5%B9%AB%E6%88%91%E6%8D%95%E6%8D%89%E4%B8%80%E9%96%83%E8%80%8C%E9%80%9D%E7%9A%84%E3%80%8C%E7%B6%93%E9%A9%97%E7%AD%86%E8%A8%98%E3%80%8D%EF%BC%8C%E5%BB%BA%E7%AB%8B%E6%9B%B4%E5%AF%A6%E7%94%A8%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%85%A6.md)
 - (2024-11-24) [@celine/celine](202411/2024-11-24-%40celine-celine.md)
 - (2024-11-24) [Introduction to lcl.host – Anchor](202411/2024-11-24-introduction-to-lcl.host-%E2%80%93-anchor.md)
