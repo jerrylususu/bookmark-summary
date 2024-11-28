@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-11-28) [Automated Decision Logs in AI-Assisted Coding](202411/2024-11-28-automated-decision-logs-in-ai-assisted-coding.md)
 - (2024-11-28) [Storing times for human events](202411/2024-11-28-storing-times-for-human-events.md)
 - (2024-11-27) [Double Shipping](202411/2024-11-27-double-shipping.md)
 - (2024-11-26) [</> htmx ~ Codin' Dirty](202411/2024-11-26-htmx-~-codin%27-dirty.md)

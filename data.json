@@ -1024,5 +1024,11 @@
     "title": "Storing times for human events",
     "url": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/",
     "timestamp": 1732800739
+  },
+  {
+    "month": "202411",
+    "title": "Automated Decision Logs in AI-Assisted Coding",
+    "url": "https://addyosmani.com/blog/automated-decision-logs/",
+    "timestamp": 1732801109
   }
 ]
