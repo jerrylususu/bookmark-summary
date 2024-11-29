@@ -1030,5 +1030,11 @@
     "title": "Automated Decision Logs in AI-Assisted Coding",
     "url": "https://addyosmani.com/blog/automated-decision-logs/",
     "timestamp": 1732801109
+  },
+  {
+    "month": "202411",
+    "title": "GitHub OAuth for a static site using Cloudflare Workers",
+    "url": "https://til.simonwillison.net/cloudflare/workers-github-oauth",
+    "timestamp": 1732887068
   }
 ]
