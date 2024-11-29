@@ -1042,5 +1042,11 @@
     "title": "Monitor replacement — using a projector for a home office setup",
     "url": "https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae",
     "timestamp": 1732889739
+  },
+  {
+    "month": "202411",
+    "title": "LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite | RxDB - JavaScript Database",
+    "url": "https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html",
+    "timestamp": 1732890530
   }
 ]
