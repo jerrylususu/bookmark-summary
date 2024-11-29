@@ -1060,5 +1060,11 @@
     "title": "Jonas Hietala: A simple timeline using CSS flexbox",
     "url": "https://www.jonashietala.se/blog/2024/08/25/a_simple_timeline_using_css_flexbox/",
     "timestamp": 1732892391
+  },
+  {
+    "month": "202411",
+    "title": "Server Setup Basics",
+    "url": "https://becomesovran.com/blog/server-setup-basics.html",
+    "timestamp": 1732892778
   }
 ]
