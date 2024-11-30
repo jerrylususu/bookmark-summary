@@ -1072,5 +1072,11 @@
     "title": "How I Built My Blog • Josh W. Comeau",
     "url": "https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/",
     "timestamp": 1732893337
+  },
+  {
+    "month": "202411",
+    "title": "Why pipes sometimes get \"stuck\": buffering",
+    "url": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/",
+    "timestamp": 1732941998
   }
 ]
