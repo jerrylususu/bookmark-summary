@@ -1084,5 +1084,11 @@
     "title": "Learnings after 4 years working with +50 companies on data engineering projects",
     "url": "https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html",
     "timestamp": 1733037675
+  },
+  {
+    "month": "202412",
+    "title": "Bash Strict Mode",
+    "url": "http://redsymbol.net/articles/unofficial-bash-strict-mode/",
+    "timestamp": 1733039554
   }
 ]
