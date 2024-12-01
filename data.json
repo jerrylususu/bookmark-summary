@@ -1078,5 +1078,11 @@
     "title": "Why pipes sometimes get \"stuck\": buffering",
     "url": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/",
     "timestamp": 1732941998
+  },
+  {
+    "month": "202412",
+    "title": "Learnings after 4 years working with +50 companies on data engineering projects",
+    "url": "https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html",
+    "timestamp": 1733037675
   }
 ]
