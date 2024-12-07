@@ -1120,5 +1120,11 @@
     "title": "PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights | Robert Heaton",
     "url": "https://robertheaton.com/pyskywifi/",
     "timestamp": 1733558196
+  },
+  {
+    "month": "202412",
+    "title": "避免在分布式系统中回退",
+    "url": "https://aws.amazon.com/cn/builders-library/avoiding-fallback-in-distributed-systems/",
+    "timestamp": 1733561136
   }
 ]
