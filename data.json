@@ -1114,5 +1114,11 @@
     "title": "PyMyFlySpy: track your flight using its headrest data | Robert Heaton",
     "url": "https://robertheaton.com/pymyflyspy/",
     "timestamp": 1733496431
+  },
+  {
+    "month": "202412",
+    "title": "PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights | Robert Heaton",
+    "url": "https://robertheaton.com/pyskywifi/",
+    "timestamp": 1733558196
   }
 ]
