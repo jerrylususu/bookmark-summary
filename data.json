@@ -1126,5 +1126,11 @@
     "title": "避免在分布式系统中回退",
     "url": "https://aws.amazon.com/cn/builders-library/avoiding-fallback-in-distributed-systems/",
     "timestamp": 1733561136
+  },
+  {
+    "month": "202412",
+    "title": "Writing down (and searching through) every UUID · eieio.games",
+    "url": "https://eieio.games/blog/writing-down-every-uuid/",
+    "timestamp": 1733638135
   }
 ]
