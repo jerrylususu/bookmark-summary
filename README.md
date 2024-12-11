@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-12-11) [Why my new audiobook “The Software Engineer's Guidebook” is everywhere except on Audible](202412/2024-12-11-why-my-new-audiobook-%E2%80%9Cthe-software-engineer%27s-guidebook%E2%80%9D-is-everywhere-except-on-audible.md)
 - (2024-12-11) [ChatGPT Canvas can make API requests now, but it’s complicated](202412/2024-12-11-chatgpt-canvas-can-make-api-requests-now%2C-but-it%E2%80%99s-complicated.md)
 - (2024-12-11) [不要轻易地走进 AI Native（AI 原生） – 虹线](202412/2024-12-11-%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E5%9C%B0%E8%B5%B0%E8%BF%9B-ai-native%EF%BC%88ai-%E5%8E%9F%E7%94%9F%EF%BC%89-%E2%80%93-%E8%99%B9%E7%BA%BF.md)
 - (2024-12-09) [A letter to open-source maintainers](202412/2024-12-09-a-letter-to-open-source-maintainers.md)
