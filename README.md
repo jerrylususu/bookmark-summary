@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-12-11) [不要轻易地走进 AI Native（AI 原生） – 虹线](202412/2024-12-11-%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E5%9C%B0%E8%B5%B0%E8%BF%9B-ai-native%EF%BC%88ai-%E5%8E%9F%E7%94%9F%EF%BC%89-%E2%80%93-%E8%99%B9%E7%BA%BF.md)
 - (2024-12-09) [A letter to open-source maintainers](202412/2024-12-09-a-letter-to-open-source-maintainers.md)
 - (2024-12-08) [Writing down (and searching through) every UUID · eieio.games](202412/2024-12-08-writing-down-%28and-searching-through%29-every-uuid-%C2%B7-eieio.games.md)
 - (2024-12-07) [避免在分布式系统中回退](202412/2024-12-07-%E9%81%BF%E5%85%8D%E5%9C%A8%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%9B%9E%E9%80%80.md)
