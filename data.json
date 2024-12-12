@@ -1162,5 +1162,11 @@
     "title": "The Depths of Wikipedians—Asterisk",
     "url": "https://asteriskmag.com/issues/08/the-depths-of-wikipedians",
     "timestamp": 1733929379
+  },
+  {
+    "month": "202412",
+    "title": "Gist of Go: Pipelines",
+    "url": "https://antonz.org/go-concurrency/pipelines/",
+    "timestamp": 1734019073
   }
 ]
