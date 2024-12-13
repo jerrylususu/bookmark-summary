@@ -1168,5 +1168,11 @@
     "title": "Gist of Go: Pipelines",
     "url": "https://antonz.org/go-concurrency/pipelines/",
     "timestamp": 1734019073
+  },
+  {
+    "month": "202412",
+    "title": "\"Rules\" that terminal programs follow",
+    "url": "https://jvns.ca/blog/2024/11/26/terminal-rules/",
+    "timestamp": 1734108257
   }
 ]
