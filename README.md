@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-12-14) [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](202412/2024-12-14-smarter-than-%27ctrl%2Bf%27-linking-directly-to-web-page-content.md)
 - (2024-12-14) [Franzelio - Draw Lines, Make Music, Share Your Instrument](202412/2024-12-14-franzelio---draw-lines%2C-make-music%2C-share-your-instrument.md)
 - (2024-12-14) [Make better documents. - Anil Dash](202412/2024-12-14-make-better-documents.---anil-dash.md)
 - (2024-12-14) [Systems: What does a board of directors do? - Anil Dash](202412/2024-12-14-systems-what-does-a-board-of-directors-do---anil-dash.md)
