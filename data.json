@@ -1222,5 +1222,11 @@
     "title": "Everything that turned out well in my life followed the same design process",
     "url": "https://www.henrikkarlsson.xyz/p/unfolding",
     "timestamp": 1734186536
+  },
+  {
+    "month": "202412",
+    "title": "Preferring throwaway code over design docs",
+    "url": "https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs",
+    "timestamp": 1734362354
   }
 ]

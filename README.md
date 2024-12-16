@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-12-16) [Preferring throwaway code over design docs](202412/2024-12-16-preferring-throwaway-code-over-design-docs.md)
 - (2024-12-14) [Everything that turned out well in my life followed the same design process](202412/2024-12-14-everything-that-turned-out-well-in-my-life-followed-the-same-design-process.md)
 - (2024-12-14) [A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox](202412/2024-12-14-a-blog-post-is-a-very-long-and-complex-search-query-to-find-fascinating-people-and-make-them-route-interesting-stuff-to-your-inbox.md)
 - (2024-12-14) [The age of average — Alex Murrell](202412/2024-12-14-the-age-of-average-%E2%80%94-alex-murrell.md)
