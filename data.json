@@ -1234,5 +1234,11 @@
     "title": "浅谈DSPy和自动化提示词工程（上） - 铁蕾的个人博客",
     "url": "http://zhangtielei.com/posts/blog-dspy-internals-1.html",
     "timestamp": 1734452154
+  },
+  {
+    "month": "202412",
+    "title": "DSPy下篇：兼论o1、Inference-time Compute和Reasoning - 铁蕾的个人博客",
+    "url": "http://zhangtielei.com/posts/blog-dspy-internals-3.html",
+    "timestamp": 1734452227
   }
 ]
