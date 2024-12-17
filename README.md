@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-12-17) [浅谈DSPy和自动化提示词工程（上） - 铁蕾的个人博客](202412/2024-12-17-%E6%B5%85%E8%B0%88dspy%E5%92%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%EF%BC%88%E4%B8%8A%EF%BC%89---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
 - (2024-12-16) [Preferring throwaway code over design docs](202412/2024-12-16-preferring-throwaway-code-over-design-docs.md)
 - (2024-12-14) [Everything that turned out well in my life followed the same design process](202412/2024-12-14-everything-that-turned-out-well-in-my-life-followed-the-same-design-process.md)
 - (2024-12-14) [A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox](202412/2024-12-14-a-blog-post-is-a-very-long-and-complex-search-query-to-find-fascinating-people-and-make-them-route-interesting-stuff-to-your-inbox.md)
