@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-12-19) [Building Python tools with a one-shot prompt using uv run and Claude Projects](202412/2024-12-19-building-python-tools-with-a-one-shot-prompt-using-uv-run-and-claude-projects.md)
 - (2024-12-18) [Problem Driven Development](202412/2024-12-18-problem-driven-development.md)
 - (2024-12-17) [DSPy下篇：兼论o1、Inference-time Compute和Reasoning - 铁蕾的个人博客](202412/2024-12-17-dspy%E4%B8%8B%E7%AF%87%EF%BC%9A%E5%85%BC%E8%AE%BAo1%E3%80%81inference-time-compute%E5%92%8Creasoning---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
 - (2024-12-17) [浅谈DSPy和自动化提示词工程（上） - 铁蕾的个人博客](202412/2024-12-17-%E6%B5%85%E8%B0%88dspy%E5%92%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%EF%BC%88%E4%B8%8A%EF%BC%89---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
