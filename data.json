@@ -1246,5 +1246,11 @@
     "title": "Problem Driven Development",
     "url": "https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html",
     "timestamp": 1734530918
+  },
+  {
+    "month": "202412",
+    "title": "Building Python tools with a one-shot prompt using uv run and Claude Projects",
+    "url": "https://simonwillison.net/2024/Dec/19/one-shot-python-tools/",
+    "timestamp": 1734619592
   }
 ]
