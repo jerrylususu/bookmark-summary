@@ -1258,5 +1258,11 @@
     "title": "Java in the Small",
     "url": "https://horstmann.com/unblog/2024-12-11/index.html",
     "timestamp": 1734620516
+  },
+  {
+    "month": "202412",
+    "title": "Building effective agents",
+    "url": "https://www.anthropic.com/research/building-effective-agents",
+    "timestamp": 1734851598
   }
 ]
