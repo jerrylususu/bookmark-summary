@@ -1282,5 +1282,11 @@
     "title": "AI-generated tools can make programming more fun",
     "url": "https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger.html",
     "timestamp": 1734966141
+  },
+  {
+    "month": "202412",
+    "title": "Codifying a ChatGPT workflow into a malleable GUI",
+    "url": "https://www.geoffreylitt.com/2023/07/25/building-personal-tools-on-the-fly-with-llms",
+    "timestamp": 1734966371
   }
 ]
