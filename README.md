@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-12-27) [A black cat in 2032 bytes](202412/2024-12-27-a-black-cat-in-2032-bytes.md)
 - (2024-12-26) [Cognitive load is what matters](202412/2024-12-26-cognitive-load-is-what-matters.md)
 - (2024-12-26) [Driving Force](202412/2024-12-26-driving-force.md)
 - (2024-12-24) [当患有 ADHD 的工程师坐上了名为人工智能的四驱赛博轮椅](202412/2024-12-24-%E5%BD%93%E6%82%A3%E6%9C%89-adhd-%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9D%90%E4%B8%8A%E4%BA%86%E5%90%8D%E4%B8%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%9B%9B%E9%A9%B1%E8%B5%9B%E5%8D%9A%E8%BD%AE%E6%A4%85.md)
