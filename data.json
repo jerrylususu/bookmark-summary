@@ -1318,5 +1318,11 @@
     "title": "A black cat in 2032 bytes",
     "url": "https://evanhahn.com/light-switch/",
     "timestamp": 1735309053
+  },
+  {
+    "month": "202412",
+    "title": "Sometimes I cache: implementing lock-free probabilistic caching",
+    "url": "https://blog.cloudflare.com/sometimes-i-cache/",
+    "timestamp": 1735309673
   }
 ]
