@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-12-29) [Why You Are Probably An NPC](202412/2024-12-29-why-you-are-probably-an-npc.md)
 - (2024-12-29) [Useful built-in macOS command-line utilities](202412/2024-12-29-useful-built-in-macos-command-line-utilities.md)
 - (2024-12-29) [My Approach to Building Large Technical Projects](202412/2024-12-29-my-approach-to-building-large-technical-projects.md)
 - (2024-12-27) [Sometimes I cache: implementing lock-free probabilistic caching](202412/2024-12-27-sometimes-i-cache-implementing-lock-free-probabilistic-caching.md)
