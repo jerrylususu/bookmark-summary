@@ -1330,5 +1330,11 @@
     "title": "My Approach to Building Large Technical Projects",
     "url": "https://mitchellh.com/writing/building-large-technical-projects",
     "timestamp": 1735461472
+  },
+  {
+    "month": "202412",
+    "title": "Useful built-in macOS command-line utilities",
+    "url": "https://weiyen.net/articles/useful-macos-cmd-line-utilities/",
+    "timestamp": 1735477032
   }
 ]
