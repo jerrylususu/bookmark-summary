@@ -1324,5 +1324,11 @@
     "title": "Sometimes I cache: implementing lock-free probabilistic caching",
     "url": "https://blog.cloudflare.com/sometimes-i-cache/",
     "timestamp": 1735309673
+  },
+  {
+    "month": "202412",
+    "title": "My Approach to Building Large Technical Projects",
+    "url": "https://mitchellh.com/writing/building-large-technical-projects",
+    "timestamp": 1735461472
   }
 ]
