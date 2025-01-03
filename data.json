@@ -1348,5 +1348,11 @@
     "title": "On Long Term Software Development - Bert Hubert's writings ",
     "url": "https://berthub.eu/articles/posts/on-long-term-software-development/",
     "timestamp": 1735478805
+  },
+  {
+    "month": "202501",
+    "title": "alufers/mitmproxy2swagger",
+    "url": "https://github.com/alufers/mitmproxy2swagger",
+    "timestamp": 1735918428
   }
 ]
