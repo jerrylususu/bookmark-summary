@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-01-04) [Mistakes engineers make in large established codebases](202501/2025-01-04-mistakes-engineers-make-in-large-established-codebases.md)
 - (2025-01-04) [The 70% problem: Hard truths about AI-assisted coding](202501/2025-01-04-the-70%25-problem-hard-truths-about-ai-assisted-coding.md)
 - (2025-01-04) [What can strong engineers do that weak engineers can't?](202501/2025-01-04-what-can-strong-engineers-do-that-weak-engineers-can%27t.md)
 - (2025-01-03) [Can LLMs write better code if you keep asking them to “write better code”?](202501/2025-01-03-can-llms-write-better-code-if-you-keep-asking-them-to-%E2%80%9Cwrite-better-code%E2%80%9D.md)
