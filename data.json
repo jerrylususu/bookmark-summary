@@ -1390,5 +1390,11 @@
     "title": "What we learned copying all the best code assistants",
     "url": "https://blog.val.town/blog/fast-follow/",
     "timestamp": 1736045663
+  },
+  {
+    "month": "202501",
+    "title": "htmx ~ The future of htmx",
+    "url": "https://htmx.org/essays/future/",
+    "timestamp": 1736258645
   }
 ]
