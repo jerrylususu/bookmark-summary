@@ -1396,5 +1396,11 @@
     "title": "htmx ~ The future of htmx",
     "url": "https://htmx.org/essays/future/",
     "timestamp": 1736258645
+  },
+  {
+    "month": "202501",
+    "title": "How I program with LLMs",
+    "url": "https://crawshaw.io/blog/programming-with-llms",
+    "timestamp": 1736349000
   }
 ]
