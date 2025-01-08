@@ -1402,5 +1402,11 @@
     "title": "How I program with LLMs",
     "url": "https://crawshaw.io/blog/programming-with-llms",
     "timestamp": 1736349000
+  },
+  {
+    "month": "202501",
+    "title": "Why is hash(-1) == hash(-2) in Python?",
+    "url": "https://omairmajid.com/posts/2021-07-16-why-is-hash-in-python/",
+    "timestamp": 1736350043
   }
 ]
