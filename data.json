@@ -1408,5 +1408,11 @@
     "title": "Why is hash(-1) == hash(-2) in Python?",
     "url": "https://omairmajid.com/posts/2021-07-16-why-is-hash-in-python/",
     "timestamp": 1736350043
+  },
+  {
+    "month": "202501",
+    "title": "Double-keyed Caching: How Browser Cache Partitioning Changed the Web",
+    "url": "https://addyosmani.com/blog/double-keyed-caching/",
+    "timestamp": 1736430180
   }
 ]
