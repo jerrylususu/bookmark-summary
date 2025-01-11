@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-01-11) [Collection of insane and fun facts about SQLite - blag](202501/2025-01-11-collection-of-insane-and-fun-facts-about-sqlite---blag.md)
 - (2025-01-11) [Everything Must Be Paid for Twice](202501/2025-01-11-everything-must-be-paid-for-twice.md)
 - (2025-01-09) [Double-keyed Caching: How Browser Cache Partitioning Changed the Web](202501/2025-01-09-double-keyed-caching-how-browser-cache-partitioning-changed-the-web.md)
 - (2025-01-08) [Why is hash(-1) == hash(-2) in Python?](202501/2025-01-08-why-is-hash%28-1%29-%3D%3D-hash%28-2%29-in-python.md)
