@@ -1468,5 +1468,11 @@
     "title": "浅谈DSPy和自动化提示词工程（中） - 铁蕾的个人博客",
     "url": "http://zhangtielei.com/posts/blog-dspy-internals-2.html",
     "timestamp": 1736864486
+  },
+  {
+    "month": "202501",
+    "title": "Notes on structured concurrency, or: Go statement considered harmful — njs blog",
+    "url": "https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/",
+    "timestamp": 1736865418
   }
 ]
