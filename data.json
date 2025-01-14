@@ -1474,5 +1474,11 @@
     "title": "Notes on structured concurrency, or: Go statement considered harmful — njs blog",
     "url": "https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/",
     "timestamp": 1736865418
+  },
+  {
+    "month": "202501",
+    "title": "Timeouts and cancellation for humans — njs blog",
+    "url": "https://vorpus.org/blog/timeouts-and-cancellation-for-humans/",
+    "timestamp": 1736866009
   }
 ]
