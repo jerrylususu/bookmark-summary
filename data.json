@@ -1456,5 +1456,11 @@
     "title": "Crushing JIRA tickets is a party trick, not a path to impact",
     "url": "https://www.seangoedecke.com/party-tricks/",
     "timestamp": 1736861505
+  },
+  {
+    "month": "202501",
+    "title": "Playground Wisdom: Threads Beat Async/Await",
+    "url": "https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/",
+    "timestamp": 1736864319
   }
 ]
