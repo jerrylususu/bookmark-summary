@@ -1462,5 +1462,11 @@
     "title": "Playground Wisdom: Threads Beat Async/Await",
     "url": "https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/",
     "timestamp": 1736864319
+  },
+  {
+    "month": "202501",
+    "title": "浅谈DSPy和自动化提示词工程（中） - 铁蕾的个人博客",
+    "url": "http://zhangtielei.com/posts/blog-dspy-internals-2.html",
+    "timestamp": 1736864486
   }
 ]
