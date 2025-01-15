@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-01-15) [「君の名は。」の二人は例の階段で出会えるのか](202501/2025-01-15-%E3%80%8C%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%E3%80%82%E3%80%8D%E3%81%AE%E4%BA%8C%E4%BA%BA%E3%81%AF%E4%BE%8B%E3%81%AE%E9%9A%8E%E6%AE%B5%E3%81%A7%E5%87%BA%E4%BC%9A%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B.md)
 - (2025-01-14) [Timeouts and cancellation for humans — njs blog](202501/2025-01-14-timeouts-and-cancellation-for-humans-%E2%80%94-njs-blog.md)
 - (2025-01-14) [Notes on structured concurrency, or: Go statement considered harmful — njs blog](202501/2025-01-14-notes-on-structured-concurrency%2C-or-go-statement-considered-harmful-%E2%80%94-njs-blog.md)
 - (2025-01-14) [浅谈DSPy和自动化提示词工程（中） - 铁蕾的个人博客](202501/2025-01-14-%E6%B5%85%E8%B0%88dspy%E5%92%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%EF%BC%88%E4%B8%AD%EF%BC%89---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
