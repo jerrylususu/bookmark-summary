@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-01-24) [The Essence of Successful Abstractions — Sympolymathesy, by Chris Krycho](202501/2025-01-24-the-essence-of-successful-abstractions-%E2%80%94-sympolymathesy%2C-by-chris-krycho.md)
 - (2025-01-22) [AI Mistakes Are Very Different from Human Mistakes - Schneier on Security](202501/2025-01-22-ai-mistakes-are-very-different-from-human-mistakes---schneier-on-security.md)
 - (2025-01-21) [ What I've learned about writing AI apps so far | Seldo.com](202501/2025-01-21-what-i%27ve-learned-about-writing-ai-apps-so-far-seldo.com.md)
 - (2025-01-19) [Protecting your time from predators in large tech companies](202501/2025-01-19-protecting-your-time-from-predators-in-large-tech-companies.md)
