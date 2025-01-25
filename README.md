@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-01-25) [A WebAssembly compiler that fits in a tweet](202501/2025-01-25-a-webassembly-compiler-that-fits-in-a-tweet.md)
 - (2025-01-25) [Working fast and slow](202501/2025-01-25-working-fast-and-slow.md)
 - (2025-01-24) [Is TypeScript Good?—A Reply to Rach Smith — Sympolymathesy, by Chris Krycho](202501/2025-01-24-is-typescript-good-%E2%80%94a-reply-to-rach-smith-%E2%80%94-sympolymathesy%2C-by-chris-krycho.md)
 - (2025-01-24) [Why are big tech companies so slow?](202501/2025-01-24-why-are-big-tech-companies-so-slow.md)

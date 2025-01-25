@@ -1540,5 +1540,11 @@
     "title": "Working fast and slow",
     "url": "https://www.seangoedecke.com/working-fast-and-slow/",
     "timestamp": 1737813204
+  },
+  {
+    "month": "202501",
+    "title": "A WebAssembly compiler that fits in a tweet",
+    "url": "https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/",
+    "timestamp": 1737840278
   }
 ]
