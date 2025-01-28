@@ -1576,5 +1576,11 @@
     "title": "My failed attempt to shrink all npm packages by 5%",
     "url": "https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/",
     "timestamp": 1737982419
+  },
+  {
+    "month": "202501",
+    "title": "Nomadic Infrastructure Design for AI workloads",
+    "url": "https://xeiaso.net/talks/2025/nomadic-compute/",
+    "timestamp": 1738036212
   }
 ]
