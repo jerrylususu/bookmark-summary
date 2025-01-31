@@ -1588,5 +1588,11 @@
     "title": "DeepSeek FAQ",
     "url": "https://stratechery.com/2025/deepseek-faq/",
     "timestamp": 1738038363
+  },
+  {
+    "month": "202501",
+    "title": "The surprising way to save memory with BytesIO",
+    "url": "https://pythonspeed.com/articles/bytesio-reduce-memory-usage/",
+    "timestamp": 1738313264
   }
 ]
