@@ -1594,5 +1594,11 @@
     "title": "The surprising way to save memory with BytesIO",
     "url": "https://pythonspeed.com/articles/bytesio-reduce-memory-usage/",
     "timestamp": 1738313264
+  },
+  {
+    "month": "202502",
+    "title": "Git: avoid reset --hard, use reset --keep instead - Adam Johnson",
+    "url": "https://adamj.eu/tech/2024/09/02/git-avoid-reset-hard-use-keep/",
+    "timestamp": 1738369242
   }
 ]
