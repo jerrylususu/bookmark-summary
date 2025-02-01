@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-02-01) [Headline driven development - Slava Akhmechet](202502/2025-02-01-headline-driven-development---slava-akhmechet.md)
 - (2025-02-01) [Git: avoid reset --hard, use reset --keep instead - Adam Johnson](202502/2025-02-01-git-avoid-reset---hard%2C-use-reset---keep-instead---adam-johnson.md)
 - (2025-01-31) [The surprising way to save memory with BytesIO](202501/2025-01-31-the-surprising-way-to-save-memory-with-bytesio.md)
 - (2025-01-28) [DeepSeek FAQ](202501/2025-01-28-deepseek-faq.md)

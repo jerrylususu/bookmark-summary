@@ -1600,5 +1600,11 @@
     "title": "Git: avoid reset --hard, use reset --keep instead - Adam Johnson",
     "url": "https://adamj.eu/tech/2024/09/02/git-avoid-reset-hard-use-keep/",
     "timestamp": 1738369242
+  },
+  {
+    "month": "202502",
+    "title": "Headline driven development - Slava Akhmechet",
+    "url": "https://www.spakhm.com/headline-development",
+    "timestamp": 1738369410
   }
 ]
