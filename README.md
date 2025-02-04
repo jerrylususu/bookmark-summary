@@ -3,6 +3,7 @@
     
 ## Summarized Bookmarks
 - (2025-02-04) [Summarizing our recommendations for software documentation | nicole@web](202502/2025-02-04-summarizing-our-recommendations-for-software-documentation-nicole%40web.md)
+- (2025-02-04) [Summarizing our recommendations for software documentation | nicole@web](202502/2025-02-04-summarizing-our-recommendations-for-software-documentation-nicole%40web.md)
 - (2025-02-04) [The gist of s1: simple test time scaling](202502/2025-02-04-the-gist-of-s1-simple-test-time-scaling.md)
 - (2025-02-04) [LLMs: harmful to technical innovation?](202502/2025-02-04-llms-harmful-to-technical-innovation.md)
 - (2025-02-01) [Headline driven development - Slava Akhmechet](202502/2025-02-01-headline-driven-development---slava-akhmechet.md)
