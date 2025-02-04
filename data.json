@@ -1612,5 +1612,11 @@
     "title": "LLMs: harmful to technical innovation?",
     "url": "https://evanhahn.com/llms-and-technical-innovation/",
     "timestamp": 1738653980
+  },
+  {
+    "month": "202502",
+    "title": "The gist of s1: simple test time scaling",
+    "url": "https://xeiaso.net/notes/2025/s1-simple-test-time-scaling/",
+    "timestamp": 1738656938
   }
 ]
