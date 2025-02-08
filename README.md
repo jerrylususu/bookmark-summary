@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-02-08) [为什么 TCP 建立连接需要三次握手](202502/2025-02-08-%E4%B8%BA%E4%BB%80%E4%B9%88-tcp-%E5%BB%BA%E7%AB%8B%E8%BF%9E%E6%8E%A5%E9%9C%80%E8%A6%81%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B.md)
 - (2025-02-04) [Summarizing our recommendations for software documentation | nicole@web](202502/2025-02-04-summarizing-our-recommendations-for-software-documentation-nicole%40web.md)
 - (2025-02-04) [Summarizing our recommendations for software documentation | nicole@web](202502/2025-02-04-summarizing-our-recommendations-for-software-documentation-nicole%40web.md)
 - (2025-02-04) [The gist of s1: simple test time scaling](202502/2025-02-04-the-gist-of-s1-simple-test-time-scaling.md)
