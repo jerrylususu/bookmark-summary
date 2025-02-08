@@ -1630,5 +1630,11 @@
     "title": "Summarizing our recommendations for software documentation | nicole@web",
     "url": "https://ntietz.com/blog/our-case-study-on-software-documentation/",
     "timestamp": 1738657417
+  },
+  {
+    "month": "202502",
+    "title": "为什么 TCP 建立连接需要三次握手",
+    "url": "https://dbwu.tech/posts/network/why-tcp-does-needs-three-way-handshake/",
+    "timestamp": 1739022564
   }
 ]
