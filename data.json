@@ -1672,5 +1672,11 @@
     "title": "URL-addressable Pyodide Python environments",
     "url": "https://simonwillison.net/2025/Feb/13/url-addressable-python/",
     "timestamp": 1739456435
+  },
+  {
+    "month": "202502",
+    "title": "How to add a directory to your PATH",
+    "url": "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
+    "timestamp": 1739537858
   }
 ]
