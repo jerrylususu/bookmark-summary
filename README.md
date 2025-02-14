@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-02-14) [Do you need permission from the government to do independent research?](202502/2025-02-14-do-you-need-permission-from-the-government-to-do-independent-research.md)
 - (2025-02-14) [How to add a directory to your PATH](202502/2025-02-14-how-to-add-a-directory-to-your-path.md)
 - (2025-02-13) [URL-addressable Pyodide Python environments](202502/2025-02-13-url-addressable-pyodide-python-environments.md)
 - (2025-02-12) [Some esoteric versioning schemes (monotonic moronity)](202502/2025-02-12-some-esoteric-versioning-schemes-%28monotonic-moronity%29.md)
