@@ -1696,5 +1696,11 @@
     "title": "A year of uv: pros, cons, and should you migrate",
     "url": "https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should",
     "timestamp": 1739687959
+  },
+  {
+    "month": "202502",
+    "title": "Relieving your Python packaging pain",
+    "url": "https://www.bitecode.dev/p/relieving-your-python-packaging-pain",
+    "timestamp": 1739688992
   }
 ]
