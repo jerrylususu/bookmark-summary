@@ -1714,5 +1714,11 @@
     "title": "What are Signals?",
     "url": "https://playfulprogramming.com/posts/what-are-signals",
     "timestamp": 1739690677
+  },
+  {
+    "month": "202502",
+    "title": "What to do about SQLITE_BUSY errors despite setting a timeout - Bert Hubert's writings",
+    "url": "https://berthub.eu/articles/posts/a-brief-post-on-sqlite3-database-locked-despite-timeout/",
+    "timestamp": 1739802158
   }
 ]
