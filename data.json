@@ -1720,5 +1720,11 @@
     "title": "What to do about SQLITE_BUSY errors despite setting a timeout - Bert Hubert's writings",
     "url": "https://berthub.eu/articles/posts/a-brief-post-on-sqlite3-database-locked-despite-timeout/",
     "timestamp": 1739802158
+  },
+  {
+    "month": "202502",
+    "title": "50 Years of Travel Tips",
+    "url": "https://kk.org/thetechnium/50-years-of-travel-tips/",
+    "timestamp": 1739802827
   }
 ]
