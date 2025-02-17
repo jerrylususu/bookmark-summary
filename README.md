@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-02-17) [50 Years of Travel Tips](202502/2025-02-17-50-years-of-travel-tips.md)
 - (2025-02-17) [What to do about SQLITE_BUSY errors despite setting a timeout - Bert Hubert's writings](202502/2025-02-17-what-to-do-about-sqlite_busy-errors-despite-setting-a-timeout---bert-hubert%27s-writings.md)
 - (2025-02-16) [What are Signals?](202502/2025-02-16-what-are-signals.md)
 - (2025-02-16) [Next-level frosted glass with backdrop-filter • Josh W. Comeau](202502/2025-02-16-next-level-frosted-glass-with-backdrop-filter-%E2%80%A2-josh-w.-comeau.md)
