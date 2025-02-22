@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-02-22) [Metastable failures in the wild](202502/2025-02-22-metastable-failures-in-the-wild.md)
 - (2025-02-22) [My LLM codegen workflow atm](202502/2025-02-22-my-llm-codegen-workflow-atm.md)
 - (2025-02-21) [Slashing my ".bashrc" in half](202502/2025-02-21-slashing-my-.bashrc-in-half.md)
 - (2025-02-19) [软件工程师的软技能指北（六）：谈薪篇](202502/2025-02-19-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%BD%AF%E6%8A%80%E8%83%BD%E6%8C%87%E5%8C%97%EF%BC%88%E5%85%AD%EF%BC%89%EF%BC%9A%E8%B0%88%E8%96%AA%E7%AF%87.md)
