@@ -1768,5 +1768,11 @@
     "title": "GitSeek | Copy Complete Code from Any Repo for AI Tools",
     "url": "https://gitseek.dev",
     "timestamp": 1740222390
+  },
+  {
+    "month": "202502",
+    "title": "The Best Way to Use Text Embeddings Portably is With Parquet and Polars",
+    "url": "https://minimaxir.com/2025/02/embeddings-parquet/",
+    "timestamp": 1740491625
   }
 ]
