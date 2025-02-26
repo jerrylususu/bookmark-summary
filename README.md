@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-02-26) [How Core Git Developers Configure Git](202502/2025-02-26-how-core-git-developers-configure-git.md)
 - (2025-02-25) [The Best Way to Use Text Embeddings Portably is With Parquet and Polars](202502/2025-02-25-the-best-way-to-use-text-embeddings-portably-is-with-parquet-and-polars.md)
 - (2025-02-22) [GitSeek | Copy Complete Code from Any Repo for AI Tools](202502/2025-02-22-gitseek-copy-complete-code-from-any-repo-for-ai-tools.md)
 - (2025-02-22) [</> htmx ~ You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths](202502/2025-02-22-htmx-~-you-can%27t-build-interactive-web-apps-except-as-single-page-applications...-and-other-myths.md)

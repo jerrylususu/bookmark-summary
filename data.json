@@ -1774,5 +1774,11 @@
     "title": "The Best Way to Use Text Embeddings Portably is With Parquet and Polars",
     "url": "https://minimaxir.com/2025/02/embeddings-parquet/",
     "timestamp": 1740491625
+  },
+  {
+    "month": "202502",
+    "title": "How Core Git Developers Configure Git",
+    "url": "https://blog.gitbutler.com/how-git-core-devs-configure-git/",
+    "timestamp": 1740580026
   }
 ]
