@@ -5,13 +5,17 @@ import re
 import json
 import requests
 from pathlib import Path
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from typing import Optional
 from urllib.parse import unquote
 from process_changes import slugify, get_summary_file_path
 
 # 常量定义
 BOOKMARK_SUMMARY_REPO_NAME = '.'  # 当前目录
+# 定义UTC+8时区
+UTC_PLUS_8 = timezone(timedelta(hours=8))
+# 干运行模式，设为True时不会实际创建发布
+DRY_RUN = False
 
 def extract_tldr(summary_file: Path) -> str:
     """
@@ -36,12 +40,27 @@ def extract_tldr(summary_file: Path) -> str:
 def get_last_week_date_range():
     """
     获取上周的开始和结束日期范围。
+    考虑到GitHub Actions运行在UTC时区，但我们需要UTC+8时区的日期范围。
     """
-    today = datetime.utcnow().date()
+    # 获取当前UTC时间
+    utc_now = datetime.now(timezone.utc)
+    # 转换为UTC+8时区
+    now_utc_plus_8 = utc_now.astimezone(UTC_PLUS_8)
+    today = now_utc_plus_8.date()
+    
+    # 找到上周一（当前周的前一周的周一）
     last_monday = today - timedelta(days=today.weekday() + 7)
+    # 找到上周日（当前周的前一周的周日）
     last_sunday = last_monday + timedelta(days=6)
-    start_datetime = datetime.combine(last_monday, datetime.min.time())
-    end_datetime = datetime.combine(last_sunday, datetime.max.time())
+    
+    # 创建日期时间对象，使用UTC+8时区
+    start_datetime = datetime.combine(last_monday, datetime.min.time()).replace(tzinfo=UTC_PLUS_8)
+    end_datetime = datetime.combine(last_sunday, datetime.max.time()).replace(tzinfo=UTC_PLUS_8)
+    
+    print(f"Current UTC time: {utc_now}")
+    print(f"Current UTC+8 time: {now_utc_plus_8}")
+    print(f"Date range: {start_datetime} to {end_datetime}")
+    
     return start_datetime, end_datetime
 
 def main():
@@ -53,6 +72,13 @@ def main():
     if not github_repository:
         raise EnvironmentError("环境变量 GITHUB_REPOSITORY 未设置")
     api_url = 'https://api.github.com'
+    
+    # 检查是否为干运行模式
+    global DRY_RUN
+    dry_run_env = os.getenv('DRY_RUN', '').lower()
+    if dry_run_env in ('true', '1', 'yes'):
+        DRY_RUN = True
+        print("干运行模式已启用")
 
     # 获取上周的日期范围
     start_datetime, end_datetime = get_last_week_date_range()
@@ -70,9 +96,13 @@ def main():
         timestamp = entry.get('timestamp')
         if timestamp is None:
             continue
-        entry_datetime = datetime.fromtimestamp(timestamp)
+        
+        # 将时间戳转换为UTC+8时区的datetime对象
+        entry_datetime = datetime.fromtimestamp(timestamp, tz=UTC_PLUS_8)
+        
         if start_datetime <= entry_datetime <= end_datetime:
             qualifying_entries.append(entry)
+            print(f"Added entry: {entry.get('title')}")
 
     if not qualifying_entries:
         print("上周没有符合条件的条目，跳过发布。")
@@ -93,7 +123,8 @@ def main():
         except (FileNotFoundError, ValueError) as e:
             print(f"处理 '{title}' 时出错: {e}")
             tldr = "没有可用的 TL;DR。"
-        date_str = datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d')
+        # 使用UTC+8时区格式化日期
+        date_str = datetime.fromtimestamp(timestamp, tz=UTC_PLUS_8).strftime('%Y-%m-%d')
         # 构建摘要文件的链接
         summary_path_str = str(summary_file).replace('\\', '/')
         owner, repo = github_repository.split('/')
@@ -123,6 +154,14 @@ def main():
     # 创建 GitHub Release
     tag_name = f"weekly-{start_date_str}"
     release_name = f"Weekly Read Articles ({start_date_str} - {end_date_str})"
+
+    if DRY_RUN:
+        print("\n=== DRY RUN MODE ===")
+        print(f"Would create tag: {tag_name}")
+        print(f"Would create release: {release_name}")
+        print(f"With {len(qualifying_entries)} entries")
+        print("No actual GitHub API calls will be made.")
+        return
 
     # 检查标签是否已存在
     tags_url = f"{api_url}/repos/{github_repository}/git/refs/tags/{tag_name}"
@@ -164,7 +203,7 @@ def main():
         "tagger": {
             "name": "GitHub Actions",
             "email": "actions@github.com",
-            "date": datetime.utcnow().isoformat() + "Z"
+            "date": datetime.utcnow().isoformat() + "Z"  # 这里使用UTC时间是正确的，因为GitHub API要求ISO 8601格式的UTC时间
         }
     }
     tag_resp = requests.post(f"{api_url}/repos/{github_repository}/git/tags", headers=headers, json=tag_object)
