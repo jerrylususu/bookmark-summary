@@ -7,282 +7,94 @@ Published Time: 2025-02-19T10:34:45.9130000Z
 Markdown Content:
 The reality of long-term software maintenance - Ashley's blog
 ===============
+The reality of long-term software maintenance from the maintainer's perspective
+Upvote
+15
+Downvote
+Blogs Next Ashley's blog Next Viewing Post 
+Official iconOfficial Construct Team Post
+Ashley's avatar
+Ashley
+19 Feb, 2025
+ 3,149 words
+ ~13-21 mins
+ 37,462 visits
+Not favorited
+2
+favourites
+I was reading about a dispute involving the Linux kernel recently (which for the record I don't think either side handled well), and I realised something: very few people seem to understand the reality of maintaining large software projects in the long term. Of course non-technical people won't understand it, and likely inexperienced developers don't really understand it - but what I've noticed is even experienced software developers who are capable of writing a large and complex codebase don't always seem to understand it. That seems to have been a factor in that Linux kernel dispute (although there were several other factors).
 
-  
+I think this lack of understanding contributes to some common remarks you come across in software development, such as:
 
-*   [![Image 1: Construct logo](https://construct-static.com/images/v1456/r/global/construct-3-logo_v43.png)![Image 2: Construct logo text](https://construct-static.com/images/v1456/r/global/construct-3-logo-lettering_v130.png)](https://www.construct.net/en "Construct homepage")
-*   [Products](https://www.construct.net/en/make-games/games-editor "Game maker")
-    
-    *   [![Image 3: Construct 3 logo](https://construct-static.com/images/v1456/r/global/construct-3-logo_v32.png) Construct 3 Create stunning games in the worlds best 2D game engine](https://www.construct.net/en/make-games/games-editor "Game making software")
-        
-    *   [![Image 4: Construct animate logo](https://construct-static.com/images/v1456/r/animate/logos/animate-symbol-small_v32.png) Construct Animate Produce gorgeous animations with drag-and-drop](https://www.construct.net/en/animation-software "Animation software")
-        
-    
-    *   [![Image 5: Construct 3 logo](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/rocket.svg) Features What you get](https://www.construct.net/en/animation-software "Browser based animation software")
-    *   [![Image 6: Construct 3 logo](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/question.svg) FAQ Common questions](https://www.construct.net/en/animation-software/faq "Construct animate FAQ")
-    *   [![Image 7: Construct 3 logo](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/box.svg) Releases See latest updates](https://www.construct.net/en/animation-software/releases "Construct Animate versions")
-    *   [![Image 8: Construct 3 logo](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/hexagons.svg) Pricing Buy Animate now](https://www.construct.net/en/animation-software/buy "Construct Animate pricing")
-    *   [![Image 9: Construct 3 logo](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/play-button.svg) Free Trial Try Animate now](https://www.construct.net/en/animation-software/free-trial "Animation software")
-    
-    *   [![Image 10: Construct 3 logo](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/rocket.svg) Features What you get](https://www.construct.net/en/make-games/games-editor "Construct 3 features")
-    *   [![Image 11: Construct 3 logo](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/abstract.svg) Showcase Customer creations](https://www.construct.net/en/make-games/showcase "Construct 3 games")
-    *   [![Image 12: Construct 3 logo](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/question.svg) FAQ Common questions](https://www.construct.net/en/make-games/faq "Construct 3 FAQ")
-    *   [![Image 13: Construct 3 logo](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/puzzle.svg) Addons Extend Construct](https://www.construct.net/en/make-games/addons "Construct 3 addons and plugins")
-    *   [![Image 14: Construct 3 logo](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/box.svg) Releases See latest updates](https://www.construct.net/en/make-games/releases "Construct 3 versions")
-    *   [![Image 15: Construct 3 logo](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/hexagons.svg) Pricing Buy Construct now](https://www.construct.net/en/make-games/buy-construct "Construct 3 pricing")
-    *   [![Image 16: Construct 3 logo](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/play-button.svg) Free Trial Try Construct now](https://www.construct.net/en/make-games/free-trial "Free game maker")
-    
-*   [Resources](https://www.construct.net/en/tutorials "Tutorials and manual")
-    
-    Construct 3
-    -----------
-    
-    *    [![Image 17: Manual](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/books.svg) Manual](https://www.construct.net/en/make-games/manuals/construct-3 "Construct 3 docs")
-    *    [![Image 18: Computer](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/laptop.svg) System requirements](https://www.construct.net/en/make-games/manuals/construct-3/getting-started/system-requirements "Construct 3 system requirements")
-    *    [![Image 19: Addons](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/java-script.svg) Scripting Overview](https://www.construct.net/en/make-games/manuals/construct-3/scripting/overview "Construct 3 scripting")
-    *    [![Image 20: Addons](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/diamond.svg) Addon SDK](https://www.construct.net/en/make-games/manuals/addon-sdk "Construct 3 addon SDK")
-    
-    ### Tutorials
-    
-    *    [![Image 21: Map](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/map.svg) Beginner's Guide](https://www.construct.net/en/tutorials/beginners-guide-to-construct-3-1 "Beginner's guide to Construct 3")
-    *    [![Image 22: Web games](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/cloud.svg) Publishing to the Web](https://www.construct.net/en/tutorials/publishing-to-the-web-10 "Publish games to the web")
-    *    [![Image 23: Android](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/smartphone.svg) Build Android APKs](https://www.construct.net/en/tutorials/building-android-apps-apks-19 "Build Android games")
-    *    [![Image 24: Apple](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/apple.svg) Publishing to iOS](https://www.construct.net/en/tutorials/ios-application-development-and-publishing-with-xcode-25 "Build iOS games")
-    *    [![Image 25: Performance](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/timer.svg) Optimisations](https://www.construct.net/en/tutorials/construct-3s-export-optimisations-4 "Optimise your games")
-    *    [![Image 26: Idea](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/library.svg) All tutorials](https://www.construct.net/en/tutorials/construct-3 "Game maker tutorials")
-    
-    ### Game Dev Courses
-    
-    *    [![Image 27: Bag](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/shape.svg) Browse all game dev courses](https://www.construct.net/en/courses "Free gamedev courses")
-    
-    Construct Animate
-    -----------------
-    
-    *    [![Image 28: Manual](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/books.svg) Manual](https://www.construct.net/en/animation-software/manual "Construct Animate docs")
-    *    [![Image 29: Computer](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/laptop.svg) System requirements](https://www.construct.net/en/animation-software/manual/getting-started/system-requirements "Construct Animate system requirements")
-    *    [![Image 30: Idea](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/library.svg) Tutorials](https://www.construct.net/en/tutorials/construct-animate "Animation tutorials")
-    
-    Construct 2 Deprecated
-    ----------------------
-    
-    *    [![Image 31: Download](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/box.svg) Download](https://www.construct.net/en/construct-2/download "Construct 2 download")
-    *    [![Image 32: Download](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/box.svg) NWJS](https://www.construct.net/en/construct-2/nwjs "Construct 2 NWJS")
-    *    [![Image 33: Manual](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/books.svg) Manual](https://www.construct.net/en/construct-2/manuals/construct-2 "Construct 2 docs")
-    *    [![Image 34: SDK](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/diamond.svg) Javascript SDK](https://www.construct.net/en/construct-2/manuals/construct-2-javascript-sdk "Construct 2 javascript SDK")
-    *    [![Image 35: Idea](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/library.svg) Tutorials](https://www.construct.net/en/tutorials/construct-2 "Game maker tutorials")
-    
-*   [Education](https://www.construct.net/en/make-games/education "Construct in education")
-    
-    Construct 3
-    -----------
-    
-    *    [![Image 36: Forum](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/abstract.svg) Why pick Construct 3](https://www.construct.net/en/make-games/education "Why use Construct")
-    *    [![Image 37: Download](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/abstract2.svg) Free Resources](https://www.construct.net/en/make-games/education/resources "Free classroom resources")
-    *    [![Image 38: Security](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/abstract3.svg) Privacy and Security](https://www.construct.net/en/make-games/education/privacy-security "Construct student privacy")
-    *    [![Image 39: FAQ](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/question.svg) FAQ](https://www.construct.net/en/make-games/faq/education "Construct 3 educational FAQ")
-    
-    ### Deeper Dive
-    
-    *    [![Image 40: Classroom](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/timer.svg) Setup Classrooms in Minutes](https://www.construct.net/en/make-games/education/licensing "Construct classroom setup")
-    *    [![Image 41: Manual](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/library.svg) World Class Docs](https://www.construct.net/en/make-games/manuals/construct-3 "Construct 3 manual")
-    *    [![Image 42: Bag](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/hexagons.svg) Educational Pricing](https://www.construct.net/en/make-games/buy-construct "Construct 3 education pricing")
-    
-    *   [Equity ![Image 43: Tactics](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/map.svg) What we believe](https://www.construct.net/en/make-games/education/equity "Education mission")
-    *   [Partners ![Image 44: Partner](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/abstract-shape.svg) Our global partners](https://www.construct.net/en/make-games/education/partners "Construct educational partners")
-    
-*   [Community](https://www.construct.net/en/forum "Construct community")
-    
-    Forums
-    ------
-    
-    *    [![Image 45: Forum](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/message.svg) Forum Home](https://www.construct.net/en/forum "Game making forums")
-    *    [![Image 46: Messages](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/abstract4.svg) Newest Topics](https://www.construct.net/en/forum/newest "New game dev topics")
-    
-    Arcade
-    ------
-    
-    *    [![Image 47: Trophy](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/fire.svg) Top Games](https://www.construct.net/en/free-online-games "Top free browser games")
-    *    [![Image 48: Stars](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/rhombus2.svg) Newest Games](https://www.construct.net/en/free-online-games/new-games "New free browser games")
-    *    [![Image 49: Committee](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/rhombus.svg) Most Played Games](https://www.construct.net/en/free-online-games/most-played "Most played browser games")
-    *    [![Image 50: Group](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/geometric-shape.svg) Most Online Players](https://www.construct.net/en/free-online-games/played-now "Games being played now")
-    *    [![Image 51: Upload](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/upload-file.svg) Upload a Game](https://www.construct.net/en/free-online-games/submit "Upload a game")
-    
-    Blogs
-    -----
-    
-    *    [![Image 52: Agreement](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/books.svg) Official Blog](https://www.construct.net/en/blogs/construct-official-blog-1 "Construct blog")
-    *    [![Image 53: Stars](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/rhombus2.svg) New Posts](https://www.construct.net/en/blogs/posts "Newest blog posts")
-    
-    Social Media
-    ------------
-    
-    *   [![Image 54: Construct 3 Reddit](https://construct-static.com/images/v1456/refresh/footer/reddit.svg)](https://www.reddit.com/r/construct "Follow Construct 3 on Reddit")
-    *   [![Image 55: Construct 3 Twitter](https://construct-static.com/images/v1456/refresh/footer/twitter.svg)](https://twitter.com/ConstructTeam "Follow Construct 3 on Twitter")
-    *   [![Image 56: Construct 3 Facebook](https://construct-static.com/images/v1456/refresh/footer/facebook.svg)](https://www.facebook.com/ConstructTeam "Follow Construct 3 on Facebook")
-    *   [![Image 57: Construct 3 Mastodon](https://construct-static.com/images/v1456/r/refresh/footer/mastodon_v48.png)](https://mastodon.gamedev.place/@construct "Follow Construct 3 on Mastodon")
-    *   [![Image 58: Construct 3 Youtube](https://construct-static.com/images/v1456/refresh/footer/youtube.svg)](https://www.youtube.com/c/Construct "Follow Construct 3 on Youtube")
-    
-*   [Store](https://www.construct.net/en/game-assets "Game asset store")
-    
-    Products
-    --------
-    
-    *    [![Image 59: Bag](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/hexagons.svg) Buy Construct 3](https://www.construct.net/en/make-games/buy-construct "Buy Construct 3")
-    *    [![Image 60: Bag](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/cell.svg) Buy Construct Animate](https://www.construct.net/en/animation-software/buy "Buy Construct animate")
-    
-    Assets
-    ------
-    
-    *    [![Image 61: Plugin](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/puzzle.svg) Addons](https://www.construct.net/en/game-assets/addons "Construct addons")
-    *    [![Image 62: Tornado](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/slow-motion.svg) Animations](https://www.construct.net/en/game-assets/animations "Game dev animations")
-    *    [![Image 63: Book](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/library.svg) EBooks](https://www.construct.net/en/game-assets/e-books "Game making ebooks")
-    *    [![Image 64: Font](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/books.svg) Fonts](https://www.construct.net/en/game-assets/fonts "Game fonts")
-    *    [![Image 65: Game](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/games.svg) Games](https://www.construct.net/en/game-assets/games "Game templates")
-    *    [![Image 66: Whale](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/pic.svg) Graphics](https://www.construct.net/en/game-assets/graphics "Graphics for your games")
-    *    [![Image 67: Headphones](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/speaker.svg) Sounds](https://www.construct.net/en/game-assets/sounds "Sounds for your games")
-    *    [![Image 68: Puzzle](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/window.svg) Templates](https://www.construct.net/en/game-assets/game-templates "Game maker templates")
-    *    [![Image 69: Theme](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/theme.svg) Themes](https://www.construct.net/en/game-assets/themes "Construct themes")
-    *    [![Image 70: Grid](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/map.svg) Tilemaps](https://www.construct.net/en/game-assets/tilemaps "Game dev tilemaps")
-    *    [![Image 71: Tool](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/wrench.svg) Tools](https://www.construct.net/en/game-assets/tools "Gamedev tools")
-    
-    ### Discover
-    
-    *    [![Image 72: Calendar](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/rhombus2.svg) Newest Assets](https://www.construct.net/en/game-assets/newest "Newest assets")
-    *    [![Image 73: Winner](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/fire.svg) Best Selling](https://www.construct.net/en/game-assets/best-selling "Best selling assets")
-    *    [![Image 74: Trophy](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/top-hat.svg) Highest Rated](https://www.construct.net/en/game-assets/highest-rated "Highest rated assets")
-    *    [![Image 75: OK](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/splash.svg) Exclusives](https://www.construct.net/en/game-assets/exclusives "Exclusive game assets")
-    
-    Special Offers
-    --------------
-    
-    *    [![Image 76: Bundle](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/layer.svg) Asset Bundles](https://www.construct.net/en/game-assets/bundles "Bundles")
-    *    [![Image 77: Bag](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/hot-sale.svg) Sale Items](https://www.construct.net/en/game-assets/on-sale "Game asset sales")
-    
+"I could write that in a weekend!" (often regarding some major product like Dropbox)
+"Just integrate <some library> - it does that feature for you"
+"Here, I've made a prototype - take it and integrate it in to your product!"
+"I've made a cool plugin - why not make it built-in to the base product?"
+"Why won't this open source project accept my 10,000 lines of code patch? I've done all the hard work!"
+The reality is, if you maintain a large and complex software project over a period of many years, you come to realise a key point: writing the initial code for a feature is only a fraction of the work, once you take in to account everything else you also have to do in the long term. I think unless in your career you've had the responsibility for maintaining a large (100,000+ lines of code) and continually evolving codebase for 5+ years, it's probably difficult to appreciate the substantial challenges that are unique to this.
 
-*   [Register](https://www.construct.net/en/register "Create account") [Login](https://www.construct.net/en/login "Login to your account")
-    
-*    ![Image 78: Mobile menu](https://construct-static.com/images/v1456/refresh/topmenu/mobile-menu.svg)
-    
-    [![Image 79: Construct logo](https://construct-static.com/images/v1456/r/global/construct-3-logo_v32.png)![Image 80: Construct logo text](https://construct-static.com/images/v1456/r/global/construct-3-logo-lettering_v90.png)](https://www.construct.net/en "Game maker")
-    
-    ![Image 81: Close mobile menu](https://construct-static.com/images/v1456/refresh/topmenu/close.svg)
-    
-    *   Products [ ] 
-        *   Construct 3 Create stunning games in the worlds best 2D game engine 
-            
-            Construct 3
-            
-            ![Image 82: Left arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/left-arrow.svg)
-            
-            *   [![Image 83: Launch](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/rocket.svg) Features](https://www.construct.net/en/make-games/games-editor "Construct 3 features")
-            *   [![Image 84: TV](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/abstract.svg) Showcase](https://www.construct.net/en/make-games/showcase "Construct showcase")
-            *   [![Image 85: FAQ](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/question.svg) FAQ](https://www.construct.net/en/make-games/faq "Construct 3 FAQ")
-            *   [![Image 86: Addons](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/puzzle.svg) Addons](https://www.construct.net/en/make-games/addons "Construct 3 plugins and addons")
-            *   [![Image 87: Release](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/box.svg) Releases](https://www.construct.net/en/make-games/releases "Construct 3 versions")
-            *   [![Image 88: Pricing](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/hexagons.svg) Pricing](https://www.construct.net/en/make-games/buy-construct "Construct 3 pricing")
-            *   [![Image 89: Play](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/play-button.svg) Free Trial](https://www.construct.net/en/make-games/free-trial "Free game maker")
-            
-            ![Image 90: Right arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/right-arrow.svg)
-            
-        *   Construct Animate Produce gorgeous animations with drag-and-drop 
-            
-            Construct Animate
-            
-            ![Image 91: Left arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/left-arrow.svg)
-            
-            *   [![Image 92: Launch](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/rocket.svg) Features](https://www.construct.net/en/animation-software "Browser animation software")
-            *   [![Image 93: FAQ](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/question.svg) FAQ](https://www.construct.net/en/animation-software/faq "Construct Animate FAQ")
-            *   [![Image 94: Release](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/box.svg) Releases](https://www.construct.net/en/animation-software/releases)
-            *   [![Image 95: Pricing](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/hexagons.svg) Pricing](https://www.construct.net/en/animation-software/buy "Construct Animate pricing")
-            *   [![Image 96: Play](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/play-button.svg) Free Trial](https://www.construct.net/en/animation-software/free-trial "Free browser animation software")
-            
-            ![Image 97: Right arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/right-arrow.svg)
-            
-    *   Resources [ ] 
-        *   Construct 3 Make games, teach programming 
-            
-            Construct 3 Resources
-            
-            ![Image 98: Left arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/left-arrow.svg)
-            
-            *   [![Image 99: Manual](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/books.svg) Manual](https://www.construct.net/en/make-games/manuals/construct-3 "Construct 3 docs")
-            *   [![Image 100: Settings](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/laptop.svg) System Requirements](https://www.construct.net/en/make-games/manuals/construct-3/getting-started/system-requirements "Construct 3 system requirements")
-            *   [![Image 101: Addons](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/java-script.svg) Scripting Overview](https://www.construct.net/en/make-games/manuals/construct-3/scripting/overview "Construct 3 scripting")
-            *   [![Image 102: Code](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/puzzle.svg) Addon SDK](https://www.construct.net/en/make-games/manuals/addon-sdk "Construct 3 addon SDK")
-            *   [![Image 103: Tutorials](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/library.svg) Tutorials](https://www.construct.net/en/tutorials/construct-3 "Game maker tutorials")
-            *    [![Image 104: Right arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/right-arrow.svg) Beginners Guide to Construct 3](https://www.construct.net/en/tutorials/beginners-guide-to-construct-3-1 "Construct 3 beginner's guide")
-            *    [![Image 105: Right arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/right-arrow.svg) Publish Games to the Web](https://www.construct.net/en/tutorials/publishing-to-the-web-10 "Make web games")
-            *    [![Image 106: Right arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/right-arrow.svg) Make Android Games](https://www.construct.net/en/tutorials/building-android-apps-apks-19 "Make android games")
-            *    [![Image 107: Right arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/right-arrow.svg) Make iOS Games](https://www.construct.net/en/tutorials/ios-application-development-and-publishing-with-xcode-25 "Make iOS games")
-            *    [![Image 108: Right arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/right-arrow.svg) Optimise Your Games](https://www.construct.net/en/tutorials/construct-3s-export-optimisations-4 "Optimise games")
-            *   [![Image 109: Course](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/library.svg) Courses](https://www.construct.net/en/courses "Game maker courses")
-            
-            ![Image 110: Right arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/right-arrow.svg)
-            
-        *   Construct Animate Create stunning animations 
-            
-            Construct Animate Resources
-            
-            ![Image 111: Left arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/left-arrow.svg)
-            
-            *   [![Image 112: Manual](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/books.svg) Manual](https://www.construct.net/en/animation-software/manual "Construct animate docs")
-            *   [![Image 113: Settings](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/laptop.svg) System Requirements](https://www.construct.net/en/animation-software/manual/getting-started/system-requirements "Construct animate system requirements")
-            *   [![Image 114: Tutorials](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/library.svg) Tutorials](https://www.construct.net/en/tutorials/construct-animate "Animation tutorials")
-            
-            ![Image 115: Right arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/right-arrow.svg)
-            
-        *   Construct 2 Legacy product 
-            
-            Construct 2 Resources
-            
-            ![Image 116: Left arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/left-arrow.svg)
-            
-            *   [![Image 117: Download](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/box.svg) Download](https://www.construct.net/en/construct-2/download "Download Construct 2")
-            *   [![Image 118: Download](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/box.svg) NWJS](https://www.construct.net/en/construct-2/nwjs "Download Construct 2 NWJS")
-            *   [![Image 119: Manual](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/books.svg) Manual](https://www.construct.net/en/construct-2/manuals/construct-2 "Construct 2 manual")
-            *   [![Image 120: Code](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/diamond.svg) Javascript SDK](https://www.construct.net/en/construct-2/manuals/construct-2-javascript-sdk "Construct 2 Javascript SDK")
-            *   [![Image 121: Tutorials](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/library.svg) Tutorials](https://www.construct.net/en/tutorials/construct-2 "Game maker tutorials")
-            
-            ![Image 122: Right arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/right-arrow.svg)
-            
-        *   [![Image 123: Tutorials](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/library.svg) Tutorials](https://www.construct.net/en/tutorials "Construct tutorials")
-        *   [![Image 124: Webinar](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/library.svg) Courses](https://www.construct.net/en/courses "Construct tutorials")
-    *   Education [ ] 
-        *   Construct 3 Make games, teach programming 
-            
-            Construct 3 in Education
-            
-            ![Image 125: Left arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/left-arrow.svg)
-            
-            *   [![Image 126: Questions](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/abstract.svg) Why Construct 3](https://www.construct.net/en/make-games/education "Construct 3 in education")
-            *   [![Image 127: Resources](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/abstract2.svg) Resources](https://www.construct.net/en/make-games/education/resources "Free educational resources")
-            *   [![Image 128: Security](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/abstract3.svg) Privacy & Security](https://www.construct.net/en/make-games/education/privacy-security "Privacy and security")
-            *   [![Image 129: Classroom](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/timer.svg) Classroom Setup](https://www.construct.net/en/make-games/education/licensing "Construct 3 school setup")
-            *   [![Image 130: FAQ](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/question.svg) FAQ](https://www.construct.net/en/make-games/faq/education "Construct 3 educational FAQ")
-            *   [![Image 131: Folder](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/books.svg) Documentation](https://www.construct.net/en/make-games/manuals/construct-3 "Construct 3 docs")
-            *   [![Image 132: Price](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/hexagons.svg) Pricing](https://www.construct.net/en/make-games/buy-construct "Construct 3 education pricing")
-            
-            ![Image 133: Right arrow](https://construct-static.com/images/v1456/refresh/topmenu/new/right-arrow.svg)
-            
-        *   [![Image 134: Love](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/map.svg) Equity](https://www.construct.net/en/make-games/education/equity "Our education mission")
-        *   [![Image 135: Deal](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/abstract-shape.svg) Partners](https://www.construct.net/en/make-games/education/partners "Construct partners")
-    *   Asset Store [ ] 
-        *   [![Image 136: Browse](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/find.svg) Browse](https://www.construct.net/en/game-assets "Gamedev assets")
-        *   [![Image 137: Bundles](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/layer.svg) Asset Bundles](https://www.construct.net/en/game-assets/bundles "Game dev asset bundles")
-        *   [![Image 138: Sale](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/hot-sale.svg) Sale Items](https://www.construct.net/en/game-assets/on-sale "Game asset sales")
-        *   [![Image 139: Best selling](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/fire.svg) Best Selling](https://www.construct.net/en/game-assets/best-selling "Best selling game assets")
-        *   [![Image 140: Downloads](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/box.svg) Your Downloads](https://www.construct.net/en/game-assets/downloads "Your purchases")
-    *   Forums [ ] 
-        *   [![Image 141: Forum](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/message.svg) Discuss](https://www.construct.net/en/forum "Game maker forums")
-        *   [![Image 142: Topics](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/abstract4.svg) New Topics](https://www.construct.net/en/forum/newest "Newest gamedev questions")
-        *   [![Image 143: Unanswered](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/abstract.svg) Unanswered Topics](https://www.construct.net/en/forum/unanswered "Unanswered gamedev questions")
-        *   [![Image 144: Search](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/find.svg) Search](https://www.construct.net/en/forum/search "Search the forums")
-    *   Arcade [ ] 
-        *   [![Image 145: Arcade](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/play-button.svg) Play](https://www.construct.net/en/free-online-games "Free addicting games")
-        *   [![Image 146: Popular](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/fire.svg) Popular](https://www.construct.net/en/free-online-games/most-played "Free addicting games")
-        *   [![Image 147: People](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/geometric-shape.svg) Most Players](https://www.construct.net/en/free-online-games/played-now "Free addicting games")
-        *   [![Image 148: New](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/rhombus2.svg) New Games](https://www.construct.net/en/free-online-games/new-games "New addicting games")
-        *   [![Image 149: Showcase](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/abstract.svg) Showcase](https://www.construct.net/en/free-online-games/showcase "Best addicting games")
-        *   [![Image 150: Dice](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/random.svg) Random Game](javascript:__doPostBack('ctl00$ctl00$TopNav$ctl00$ctl159','') "Random addicting game")
-    *   Blogs [ ] 
-        *   [![Image 151: Official blog](https://construct-static.com/images/v1456/refresh/topmenu/new/filled/books.svg) Official Blog](https://www.construct.net/en/blogs/c
+Our experience
+In our case, our browser-based game and animation tool Construct currently stands at around 750,000 lines of code, and its first lines of code were laid down about a decade ago. (It's also our third-generation product, with Construct 2 and Construct Classic before that - we started in around 2007.) I would estimate that writing the initial code for a feature is about 25% of the total work involved for that feature. The rest is maintenance - testing, diagnosing and fixing bugs, optimising performance, upgrading it to work with other changes, refactoring, customer support, writing documentation and similarly revising the documentation over time, and possibly ultimately rewriting the code (and then further maintenance still continues beyond that).
+
+In the grand scheme of things, Construct isn't even that big: browsers, operating systems like Linux, and many other projects run in to the many millions of lines of code. In those cases I wouldn't be surprised if the ratio is more like 10%, or even less.
+
+Once you've been burned a few times by having to do an extraordinary amount of work for a small change, or having an exciting new upgrade planned but then you realise some particular feature is a major problem that blocks the upgrade, or having to completely rewrite a major feature involving someone else's code and finding all sorts of complications in it - all of which has happened to us - then you start to really appreciate this. I think many people, including experienced developers, view software development as hammering out the necessary lines of code, and then job done. Perhaps that's true in some jobs! But for projects like ours, that's far from the case.
+
+The maintainer's perspective
+Once you truly understand this, then you start to see things very differently. To many on the outside, seeing someone submitting 10,000 lines of code for a new feature in an open-source project is a generous, helpful person who deserves respect and co-operation from the developers. However experienced developers responsible for the codebase will be well aware that person may suddenly disappear off the face of the earth - and then once you consider the long term, they've essentially dumped responsibility for perhaps 4-10x as much work as they've done themselves on to the project's other developers. If they quite reasonably decide they'd rather not deal with that, then this becomes a very thorny diplomatic problem: how do you politely turn down someone who appears to have been so generous? In the case of that Linux kernel dispute, this seems to have been part of the point the kernel developers were trying to make. (However they used what I'd call extremely undiplomatic language which looks to have added to the acrimony.)
+
+A construction analogy
+Software is a very abstract thing, and I think that makes it harder to have an intuition about. So to help explain how it works from the maintainer's point of view, I've come up with an analogy involving building a house. No analogy is perfect, and I don't have any construction experience, but it's easier to have intuition about real-world physical things that we've all experienced, so hopefully it conveys the point well enough.
+
+A volunteer builder
+Suppose you're an experienced builder and you decide to build yourself a new house from the ground up. You take care to use the best materials and techniques for a robust house that will last for decades to come.
+
+Then suppose a younger relative just starting out in construction makes you an offer: they suggest they'll build an extension of the building for free! You can rent out the space and make money too! And they get real-world experience and something to put on their CV. Everyone says what a wonderful offer it is and how generous they are to do that for you. So you accept and they get to work on their extension.
+
+Gradually you realise that they are working quickly, using cheap materials and basic techniques. You know to go above and beyond to make a building that lasts, but they do the minimum necessary. There is some complicated work to combine the plumbing, heating and electrics between your section and theirs. But hey, they're providing their bit for free, so you may as well take it, right?
+
+The work finishes and everything looks OK: both sections have all relevant utilities, are waterproof, are habitable, and comply with regulations, so it seems good enough. You high-five your relative, who mentions perhaps you owe them one, and then they disappear off on to the rest of their career.
+
+Maintenance problems arise
+Fast-forward ten years. Your part of the construction is robust and still going strong. However the extension your relative build is having serious problems. The roof is leaking; the insulation is poor and wasting money on heating bills; the electrics keep tripping, affecting both properties. You are making money from renting it to tenants, but now they are complaining about these problems. You do the necessary work to maintain it and keep it going, but eventually it becomes clear: this structure is not going to last much longer. The problems are getting worse, and it is starting to need drastic maintenance: the roof needs replacing; it needs rewiring; those walls should probably have been built to the same standards as yours in the first place; and so on. However you have tenants living there, who have rights, and you can't just kick them out straight away. They've been complaining regularly about all the maintenance problems and it's been a big source of stress.
+
+The maintainer's nightmare
+Now you're in the maintainer's nightmare. The easiest thing to do would be to demolish the extension and not replace it. In the software world, that is often too difficult to do for backwards-compatibility reasons. So in this analogy, let's say you are obligated to provide the tenants with a place to live. So now you have a range of bad options:
+
+You could just keep patching things over time. But you know it's only going to get worse and consume more time and money and cause more stress. So that's not an option.
+You could try asking your relative back to do a load more free work. Chances are though they'll say sorry, they've done enough free work already, and perhaps in fact it's you who owes them a favour. Perhaps they moved away and there's no chance of getting them back anyway.
+You could demolish and rebuild the extension, but you will need to temporarily house the current tenants somewhere else while you do the rebuilding, which makes it much more expensive. (In software, this might be using complicated workarounds, or writing dedicated code to handle the transition).
+You could build a whole new extension somewhere else, move the tenants over, and then demolish the old extension. This is a good solution, but you have to have the space to do it, and you have to make sure the new extension has everything the old one did, while being better quality. Meanwhile, during construction - which may take a very long time - you still have to deal with all the maintenance problems of the old extension. So things will get worse before they get better. (In software, this might be writing an entirely separate new feature, and then migrating everyone over, which can be very tricky to pull off.)
+You could rebuild the extension, but in stages, while the tenants are still living there. This will be awful for the tenants as they'll be living in a building site for months, but they don't have to move. It is also by far the most complicated solution, as a lot of building work has to be done while at every stage providing a habitable building. This likely makes it the slowest and most expensive option - but sometimes you have to do it if other constraints make the other options impossible. (In software, this would be upgrading the existing code in pieces over time, while ensuring it keeps working with backwards compatibility.)
+The realisation
+There are no good options. Suppose you pick an option and after a time-consuming and expensive rebuilding project, you have a terrible realisation: the time and cost you've invested have completely negated all the rental income you've ever received, or will receive for the next several years. With regret you come to a final realisation: it would be better to have never had the extension at all. You'd have saved money, and had far less stress.
+
+That's when you become wise to the risks of outside contributions. You realise: they built the first structure, but they left me with the long-term responsibility of managing it - a responsibility ultimately involving more work than the initial construction, and that ultimately caused so much trouble and expense that I'd rather they never did it in the first place, or alternatively I wish I just built it myself.
+
+This is regrettable, but unfortunately this is sometimes the reality. Perhaps in some cases everything works out great. But nobody can really be sure - who knows how things will play out in 5-10 years, what upgrades will become necessary, or what maintenance problems will come up? So experienced maintainers become extremely wary of contributions from anyone who isn't very likely to still be there and helping many years down the line.
+
+Diplomacy
+This then creates a thorny diplomatic problem when people propose things like substantial prototypes, patches, or libraries - the software world's equivalent to our analogy of building an extension. If you ask "will you maintain this?", they may well answer "Sure!", do it for a while, then ultimately stop and move on to something else. Maintainers don't tend to ask the question directly, as they know there is no guarantee of help from the outside and over many years most people move on. Instead the maintainer will usually respond with scepticism, resistance, and extremely stringent requirements. For example in the analogy this might be insisting the extension was built to the same high standard as the rest of the building. But overseeing this still requires time and effort from the maintainer, who may have their own priorities they'd rather be spending time on. It can also cause friction with the contributor, who may take the stance "this is already sufficient, why force me to keep going?" because they don't yet have the deep experience necessary to fully appreciate the difference between what's good enough now and what will still be good enough in 10 year's time.
+
+From the outside this can look like needlessly bureaucratic and un-cooperative behaviour by the maintainer, and end up with accusations of intransigence and dictatorial behaviour, which can then degrade in to rudeness and acrimony. The fundamental problem though is the maintainers are thinking "this may well end up with us doing 75-90% of the work on this feature, so we want to be absolutely sure we are willing to do that".
+
+Software examples
+Back in the world of software, even with just our Construct products, we've been through this kind of thing several times, despite the fact it's not open source. Here are some real-world examples:
+
+Construct 2 used a storage plugin contributed by a community member. After a few years we replaced it with an in-house one, but customer projects could keep using the old one for backwards compatibility. Despite that happening around 10 years ago, and releasing a whole new product Construct 3 since then, customers still run in to backwards-compatibility problems with the old community-contributed plugin.
+Once it was suggested we add new features faster by contracting outside developers to do them. We tried this with our official Sprite Font plugin. The original developer became unreachable, and found it extremely difficult dealing with bug fixes and feature requests relating to the other developer's code, who used a substantially different coding style. In the end we had to rewrite all our plugins for Construct 3, and so we ended up rewriting all the code anyway, which was particularly challenging given we hadn't written it ourselves in the first place and didn't have a deep understanding of how it worked. It's far easier now it's all our own code.
+Sometimes we add a third-party library to implement some feature. The library developer continues to support it for say 5 years, and then moves on. Then 10 years later we're still stuck with the library and struggling with bug fixes and improvements, and having to face either rewriting it ourselves or migrating to some other library (which might then stop being supported later too). With Construct I think we're now on our fourth library for minifying JavaScript code, having repeatedly switched due to maintenance difficulties, and switches often being really painful and time-consuming projects.
+Sometimes people write a prototype or a proof-of-concept for a feature in a day or two, and then pressure us to implement it in Construct because they believe they've demonstrated how easy it is. However we know they've only done a fraction of the work.
+Sometimes people use developer tools or encapsulation-breaking features to directly hack some feature in to the codebase, and then ask why we don't officially support it. However we know how much of a challenge long-term maintenance is; sometimes we also know there are possible future upgrades that we'd like to do that would conflict with that feature and cause a serious backwards-compatibility problem. The person demonstrating their change usually doesn't seem to care about this at all and just wants their thing to work now, but we know we're the ones dealing with the long-term fallout.
+For open-source projects it's probably much harder as in theory anyone can directly contribute a large amount of code, and many projects actively encourage this. I would guess if you just accept any code from anyone then it won't be long before the whole thing implodes, so the developers running the project will need some kind of requirements for submissions. However I can't really speak to this having not had much experience of open source projects, so really on this aspect I'm just on the side-lines pointing out what I think is part of the problem in cases like the Linux kernel dispute.
+
+Conclusion
+Software is abstract and hard to have an intuition about. I suspect working on the same large complex evolving codebase for 5+ years is relatively rare in the industry - like I say some developers seem perfectly capable of writing a large amount of complex code, but appear to have little appreciation for maintenance considerations. Long-term software maintenance is surprisingly like maintaining physical thing like a building. Obviously over time a building needs maintenance, repairs, and the occasional part replaced; in the very long run major works may be needed such as replacing the roof. Software needs that too, despite the fact those 1s and 0s don't physically degrade. The term software rot aptly describes how unmaintained software still degrades over time, almost like some organic substance that starts to rot, even if the actual program data is perfectly preserved. As a software developer you usually have to stick around for a very long time before you start to find the software rot in your own code, start learning lessons the hard way, and gain that deep experience in long-term software maintenance.
+
+I'm reminded of the quote by Robert C. Martin about programming: "the ratio of time spent reading versus writing is well over 10 to 1." That's in part because writing the initial code for a feature in a large long-term software project is only a fraction of the work. In the long run maintenance is a majority of the work for any given feature, and responsibility for maintenance defaults to the project maintainers. All too often a proposal to use some code is in fact putting the burden of responsibility for the majority of the work on someone else, even when it is done in good faith. If you suggest some software project uses some code - even a small amount - will you be there in literally 10 year's time sorting out all the issues that arise from it? Usually the answer is no. Often the maintainers know they will be though. It looks like one approach the Linux kernel developers have to this question is to favour code submitted by people who have been contributing for many years already, while being extremely sceptical of code from newcomers. This has the downside of looking like a formidable and unwelcoming community, but it illustrates the level of commitment that is needed to be able to maintain a codebase over a span of decades. It's a level of commitment that in reality not everyone will live up to, even when they genuinely and in good faith fully intend to.
+
+Hopefully by illustrating this point we can talk about software improvements in a more realistic way, being able to negotiate the often tricky human dynamics of proposing and contributing improvements to large software projects, whether it's Construct or the Linux kernel.
+
+Subscribe
+Get emailed when there are new posts!
+
