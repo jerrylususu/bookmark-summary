@@ -1816,5 +1816,11 @@
     "title": "The reality of long-term software maintenance from the maintainer's perspective",
     "url": "https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892",
     "timestamp": 1740835452
+  },
+  {
+    "month": "202503",
+    "title": "DeepSearch/DeepResearch 实施实用指南",
+    "url": "https://jina.ai/news/a-practical-guide-to-implementing-deepsearch-deepresearch/",
+    "timestamp": 1741180592
   }
 ]
