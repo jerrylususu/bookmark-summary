@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-03-05) [The Hierarchy of Hazard Controls](202503/2025-03-05-the-hierarchy-of-hazard-controls.md)
 - (2025-03-05) [DeepSearch/DeepResearch 实施实用指南](202503/2025-03-05-deepsearch-deepresearch-%E5%AE%9E%E6%96%BD%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97.md)
 - (2025-03-01) [The reality of long-term software maintenance from the maintainer's perspective](202503/2025-03-01-the-reality-of-long-term-software-maintenance-from-the-maintainer%27s-perspective.md)
 - (2025-03-01) [Optimizing with Novel Calendrical Algorithms](202503/2025-03-01-optimizing-with-novel-calendrical-algorithms.md)
