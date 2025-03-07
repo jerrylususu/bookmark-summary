@@ -116,6 +116,7 @@ def call_openai_api(prompt: str, content: str) -> str:
 def summarize_text(text: str) -> str:
     prompt: str = """
 结构化总结这篇文章。输出时使用简体中文。
+输出时直接给出总结内容，不需要附带“以下是总结”的开始文字或额外的标题。
 """
     return call_openai_api(prompt, text)
 
