@@ -1870,5 +1870,11 @@
     "title": "Every Line Is a Potential Bug",
     "url": "https://www.teamten.com/lawrence/writings/every_line_is_a_potential_bug.html",
     "timestamp": 1741434435
+  },
+  {
+    "month": "202503",
+    "title": "Strobelight: A profiling service built on open source technology",
+    "url": "https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/",
+    "timestamp": 1741434983
   }
 ]
