@@ -1852,5 +1852,11 @@
     "title": "The Cursed Art of Streaming HTML – rinici.de",
     "url": "https://rinici.de/posts/streaming-html",
     "timestamp": 1741431086
+  },
+  {
+    "month": "202503",
+    "title": "How I Automated My Podcast Transcript Production With Local AI",
+    "url": "https://den.dev/blog/how-i-automated-podcast-transcription-with-local-ai/",
+    "timestamp": 1741431474
   }
 ]
