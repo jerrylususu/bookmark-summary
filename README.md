@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-03-08) [The Cursed Art of Streaming HTML – rinici.de](202503/2025-03-08-the-cursed-art-of-streaming-html-%E2%80%93-rinici.de.md)
 - (2025-03-07) [Great software design looks underwhelming](202503/2025-03-07-great-software-design-looks-underwhelming.md)
 - (2025-03-06) [Graphing Calculator Story](202503/2025-03-06-graphing-calculator-story.md)
 - (2025-03-06) [Why "alias" is my last resort for aliases](202503/2025-03-06-why-alias-is-my-last-resort-for-aliases.md)
