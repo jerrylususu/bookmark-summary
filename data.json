@@ -1882,5 +1882,11 @@
     "title": "Perplexity: Interactive language modeling visualization",
     "url": "https://perplexity.vercel.app/",
     "timestamp": 1741533776
+  },
+  {
+    "month": "202503",
+    "title": "Building Websites With LLMS",
+    "url": "https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/",
+    "timestamp": 1741615783
   }
 ]
