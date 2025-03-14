@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-03-14) [Opsec and you: how to navigate having things to hide](202503/2025-03-14-opsec-and-you-how-to-navigate-having-things-to-hide.md)
 - (2025-03-14) [Functional Tests As A Tree Of Continuations – Evan Miller](202503/2025-03-14-functional-tests-as-a-tree-of-continuations-%E2%80%93-evan-miller.md)
 - (2025-03-12) [Here’s how I use LLMs to help me write code](202503/2025-03-12-here%E2%80%99s-how-i-use-llms-to-help-me-write-code.md)
 - (2025-03-12) [Manus爆火的背后，Agentic AI产品如何构筑持久的竞争优势？](202503/2025-03-12-manus%E7%88%86%E7%81%AB%E7%9A%84%E8%83%8C%E5%90%8E%EF%BC%8Cagentic-ai%E4%BA%A7%E5%93%81%E5%A6%82%E4%BD%95%E6%9E%84%E7%AD%91%E6%8C%81%E4%B9%85%E7%9A%84%E7%AB%9E%E4%BA%89%E4%BC%98%E5%8A%BF%EF%BC%9F.md)
