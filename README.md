@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-03-17) [Extracting content from an LCP "protected" ePub](202503/2025-03-17-extracting-content-from-an-lcp-protected-epub.md)
 - (2025-03-17) [Tips For Better Interactions](202503/2025-03-17-tips-for-better-interactions.md)
 - (2025-03-17) [My Cursor AI Workflow That Actually Works](202503/2025-03-17-my-cursor-ai-workflow-that-actually-works.md)
 - (2025-03-16) [This is what it looks like to be colorblind](202503/2025-03-16-this-is-what-it-looks-like-to-be-colorblind.md)
