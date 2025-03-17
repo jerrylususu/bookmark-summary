@@ -1960,5 +1960,11 @@
     "title": "Extracting content from an LCP \"protected\" ePub",
     "url": "https://shkspr.mobi/blog/2025/03/towards-extracting-content-from-an-lcp-protected-epub/",
     "timestamp": 1742220889
+  },
+  {
+    "month": "202503",
+    "title": "Big LLMs weights are a piece of history - <antirez>",
+    "url": "https://antirez.com/news/147",
+    "timestamp": 1742221190
   }
 ]
