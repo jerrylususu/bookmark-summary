@@ -1966,5 +1966,11 @@
     "title": "Big LLMs weights are a piece of history - <antirez>",
     "url": "https://antirez.com/news/147",
     "timestamp": 1742221190
+  },
+  {
+    "month": "202503",
+    "title": "Wasp",
+    "url": "https://wasp.sh/",
+    "timestamp": 1742312667
   }
 ]
