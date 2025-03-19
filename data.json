@@ -1978,5 +1978,11 @@
     "title": "My Thoughts on the Future of \"AI\"",
     "url": "https://nicholas.carlini.com/writing/2025/thoughts-on-future-ai.html",
     "timestamp": 1742392749
+  },
+  {
+    "month": "202503",
+    "title": "Base 32",
+    "url": "https://www.crockford.com/base32.html",
+    "timestamp": 1742394326
   }
 ]
