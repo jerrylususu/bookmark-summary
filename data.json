@@ -1990,5 +1990,11 @@
     "title": "Rewarding ideas",
     "url": "https://dynomight.net/ideas/",
     "timestamp": 1742564831
+  },
+  {
+    "month": "202503",
+    "title": "图解神经网络和强化学习：400 行 C 代码训练一个井字棋高手（2025）",
+    "url": "https://arthurchiao.github.io/blog/reinforcement-learning-400-lines-of-c-code-zh/",
+    "timestamp": 1742567368
   }
 ]
