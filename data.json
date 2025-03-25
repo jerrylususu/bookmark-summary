@@ -2032,5 +2032,11 @@
     "title": "Building SaaS Products with AI: What Actually Works",
     "url": "https://nmn.gl/blog/building-with-ai",
     "timestamp": 1742712215
+  },
+  {
+    "month": "202503",
+    "title": "A maintainer's guide to vulnerability disclosure: GitHub tools to make it simple",
+    "url": "https://github.blog/security/vulnerability-research/a-maintainers-guide-to-vulnerability-disclosure-github-tools-to-make-it-simple/",
+    "timestamp": 1742910442
   }
 ]
