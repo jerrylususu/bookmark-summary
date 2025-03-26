@@ -2038,5 +2038,11 @@
     "title": "A maintainer's guide to vulnerability disclosure: GitHub tools to make it simple",
     "url": "https://github.blog/security/vulnerability-research/a-maintainers-guide-to-vulnerability-disclosure-github-tools-to-make-it-simple/",
     "timestamp": 1742910442
+  },
+  {
+    "month": "202503",
+    "title": "Installing NPM Packages Very Quickly",
+    "url": "https://healeycodes.com/installing-npm-packages-very-quickly",
+    "timestamp": 1742998120
   }
 ]
