@@ -2056,5 +2056,11 @@
     "title": "The surreal joy of having an overprovisioned homelab",
     "url": "https://xeiaso.net/talks/2025/surreal-joy-homelab/",
     "timestamp": 1742999951
+  },
+  {
+    "month": "202503",
+    "title": "Async, Sync, in Between",
+    "url": "https://antfu.me/posts/async-sync-in-between",
+    "timestamp": 1743177848
   }
 ]
