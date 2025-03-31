@@ -2074,5 +2074,11 @@
     "title": "Implementers, Solvers, and Finders",
     "url": "https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html",
     "timestamp": 1743178199
+  },
+  {
+    "month": "202503",
+    "title": "Building native packages is complicated",
+    "url": "https://xeiaso.net/blog/2025/anubis-packaging/",
+    "timestamp": 1743430646
   }
 ]
