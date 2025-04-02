@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-04-02) [The Reality of Tech Interviews in 2025](202504/2025-04-02-the-reality-of-tech-interviews-in-2025.md)
 - (2025-04-02) [连字（Ligature）那些事儿](202504/2025-04-02-%E8%BF%9E%E5%AD%97%EF%BC%88ligature%EF%BC%89%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md)
 - (2025-04-02) [A steam locomotive from 1993 broke my yarn test](202504/2025-04-02-a-steam-locomotive-from-1993-broke-my-yarn-test.md)
 - (2025-03-31) [Building native packages is complicated](202503/2025-03-31-building-native-packages-is-complicated.md)
