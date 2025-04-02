@@ -2080,5 +2080,11 @@
     "title": "Building native packages is complicated",
     "url": "https://xeiaso.net/blog/2025/anubis-packaging/",
     "timestamp": 1743430646
+  },
+  {
+    "month": "202504",
+    "title": "A steam locomotive from 1993 broke my yarn test",
+    "url": "https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/",
+    "timestamp": 1743605587
   }
 ]
