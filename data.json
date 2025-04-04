@@ -2116,5 +2116,11 @@
     "title": "Localhost dangers: CORS and DNS rebinding",
     "url": "https://github.blog/security/application-security/localhost-dangers-cors-and-dns-rebinding/",
     "timestamp": 1743751993
+  },
+  {
+    "month": "202504",
+    "title": "Folklore.org: Calculator Construction Set",
+    "url": "https://folklore.org/Calculator_Construction_Set.html",
+    "timestamp": 1743754063
   }
 ]

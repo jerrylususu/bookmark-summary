@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-04-04) [Folklore.org: Calculator Construction Set](202504/2025-04-04-folklore.org-calculator-construction-set.md)
 - (2025-04-04) [Localhost dangers: CORS and DNS rebinding](202504/2025-04-04-localhost-dangers-cors-and-dns-rebinding.md)
 - (2025-04-03) [Minimal CSS-only blurry image placeholders](202504/2025-04-03-minimal-css-only-blurry-image-placeholders.md)
 - (2025-04-03) [Revenge of the junior developer | Sourcegraph Blog](202504/2025-04-03-revenge-of-the-junior-developer-sourcegraph-blog.md)
