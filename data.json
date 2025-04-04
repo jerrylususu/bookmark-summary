@@ -2110,5 +2110,11 @@
     "title": "Minimal CSS-only blurry image placeholders",
     "url": "https://leanrada.com/notes/css-only-lqip/",
     "timestamp": 1743686573
+  },
+  {
+    "month": "202504",
+    "title": "Localhost dangers: CORS and DNS rebinding",
+    "url": "https://github.blog/security/application-security/localhost-dangers-cors-and-dns-rebinding/",
+    "timestamp": 1743751993
   }
 ]
