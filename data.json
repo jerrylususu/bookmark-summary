@@ -2188,5 +2188,11 @@
     "title": "Model Context Protocol has prompt injection security problems",
     "url": "https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/",
     "timestamp": 1744208824
+  },
+  {
+    "month": "202504",
+    "title": "The bottom emoji breaks rust-analyzer",
+    "url": "https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer#the-way-forward",
+    "timestamp": 1744210966
   }
 ]
