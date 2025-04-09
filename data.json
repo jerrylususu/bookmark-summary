@@ -2182,5 +2182,11 @@
     "title": "Stop syncing everything",
     "url": "https://sqlsync.dev/posts/stop-syncing-everything/",
     "timestamp": 1744207993
+  },
+  {
+    "month": "202504",
+    "title": "Model Context Protocol has prompt injection security problems",
+    "url": "https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/",
+    "timestamp": 1744208824
   }
 ]
