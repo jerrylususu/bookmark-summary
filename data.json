@@ -2218,5 +2218,11 @@
     "title": "A Field Guide to Rapidly Improving AI Products – Hamel’s Blog",
     "url": "https://hamel.dev/blog/posts/field-guide/#the-most-common-mistake-skipping-error-analysis",
     "timestamp": 1744385284
+  },
+  {
+    "month": "202504",
+    "title": "AlignEval: Building an App to Make Evals Easy, Fun, and Automated",
+    "url": "https://eugeneyan.com/writing/aligneval/",
+    "timestamp": 1744386812
   }
 ]
