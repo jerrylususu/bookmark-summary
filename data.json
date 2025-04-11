@@ -2212,5 +2212,11 @@
     "title": "curl - Mailing List Etiquette",
     "url": "https://curl.se/mail/etiquette.html",
     "timestamp": 1744384099
+  },
+  {
+    "month": "202504",
+    "title": "A Field Guide to Rapidly Improving AI Products – Hamel’s Blog",
+    "url": "https://hamel.dev/blog/posts/field-guide/#the-most-common-mistake-skipping-error-analysis",
+    "timestamp": 1744385284
   }
 ]
