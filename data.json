@@ -2230,5 +2230,11 @@
     "title": "Steam's 'Open in Desktop' Button",
     "url": "https://parsiya.net/blog/steam-open-desktop/",
     "timestamp": 1744388993
+  },
+  {
+    "month": "202504",
+    "title": "CaMeL offers a promising new direction for mitigating prompt injection attacks",
+    "url": "https://simonwillison.net/2025/Apr/11/camel/",
+    "timestamp": 1744438560
   }
 ]
