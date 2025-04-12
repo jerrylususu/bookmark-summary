@@ -2236,5 +2236,11 @@
     "title": "CaMeL offers a promising new direction for mitigating prompt injection attacks",
     "url": "https://simonwillison.net/2025/Apr/11/camel/",
     "timestamp": 1744438560
+  },
+  {
+    "month": "202504",
+    "title": "浅谈限流算法",
+    "url": "https://leungyukshing.github.io/archives/Rate-Limit-Algorithm.html",
+    "timestamp": 1744458547
   }
 ]
