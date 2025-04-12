@@ -2272,5 +2272,11 @@
     "title": "The Slow Collapse of Critical Thinking in OSINT due to AI",
     "url": "https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai",
     "timestamp": 1744461819
+  },
+  {
+    "month": "202504",
+    "title": "Code Review Hot Spots with Semgrep",
+    "url": "https://parsiya.net/blog/2022-04-07-code-review-hot-spots-with-semgrep/",
+    "timestamp": 1744462617
   }
 ]
