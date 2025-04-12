@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-04-12) [Scaling Our Rate Limits to Prepare for a Billion Active Certificates](202504/2025-04-12-scaling-our-rate-limits-to-prepare-for-a-billion-active-certificates.md)
 - (2025-04-12) [浅谈限流算法](202504/2025-04-12-%E6%B5%85%E8%B0%88%E9%99%90%E6%B5%81%E7%AE%97%E6%B3%95.md)
 - (2025-04-12) [CaMeL offers a promising new direction for mitigating prompt injection attacks](202504/2025-04-12-camel-offers-a-promising-new-direction-for-mitigating-prompt-injection-attacks.md)
 - (2025-04-11) [Steam's 'Open in Desktop' Button](202504/2025-04-11-steam%27s-%27open-in-desktop%27-button.md)

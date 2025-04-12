@@ -2242,5 +2242,11 @@
     "title": "浅谈限流算法",
     "url": "https://leungyukshing.github.io/archives/Rate-Limit-Algorithm.html",
     "timestamp": 1744458547
+  },
+  {
+    "month": "202504",
+    "title": "Scaling Our Rate Limits to Prepare for a Billion Active Certificates",
+    "url": "https://letsencrypt.org/2025/01/30/scaling-rate-limits/",
+    "timestamp": 1744460031
   }
 ]
