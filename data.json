@@ -2296,5 +2296,11 @@
     "title": "Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs",
     "url": "https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs",
     "timestamp": 1744637631
+  },
+  {
+    "month": "202504",
+    "title": "Designing software that could possibly work",
+    "url": "https://www.seangoedecke.com/planning-software/",
+    "timestamp": 1744638188
   }
 ]
