@@ -2302,5 +2302,11 @@
     "title": "Designing software that could possibly work",
     "url": "https://www.seangoedecke.com/planning-software/",
     "timestamp": 1744638188
+  },
+  {
+    "month": "202504",
+    "title": "JSX Over The Wire — overreacted",
+    "url": "https://overreacted.io/jsx-over-the-wire/#the-data-always-flows-down",
+    "timestamp": 1744815070
   }
 ]
