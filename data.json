@@ -2308,5 +2308,11 @@
     "title": "JSX Over The Wire — overreacted",
     "url": "https://overreacted.io/jsx-over-the-wire/#the-data-always-flows-down",
     "timestamp": 1744815070
+  },
+  {
+    "month": "202504",
+    "title": "Reproducing Hacker News writing style fingerprinting - <antirez>",
+    "url": "https://antirez.com/news/150",
+    "timestamp": 1744900043
   }
 ]
