@@ -2314,5 +2314,11 @@
     "title": "Reproducing Hacker News writing style fingerprinting - <antirez>",
     "url": "https://antirez.com/news/150",
     "timestamp": 1744900043
+  },
+  {
+    "month": "202504",
+    "title": "UI tip: maybe don't round percentages to 0% or 100%",
+    "url": "https://evanhahn.com/maybe-dont-round-percentages-to-0-or-100-percent/",
+    "timestamp": 1745049870
   }
 ]
