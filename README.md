@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-04-19) [UI tip: maybe don't round percentages to 0% or 100%](202504/2025-04-19-ui-tip-maybe-don%27t-round-percentages-to-0%25-or-100%25.md)
 - (2025-04-17) [Reproducing Hacker News writing style fingerprinting - <antirez>](202504/2025-04-17-reproducing-hacker-news-writing-style-fingerprinting---antirez.md)
 - (2025-04-16) [JSX Over The Wire — overreacted](202504/2025-04-16-jsx-over-the-wire-%E2%80%94-overreacted.md)
 - (2025-04-14) [Designing software that could possibly work](202504/2025-04-14-designing-software-that-could-possibly-work.md)
