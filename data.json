@@ -2350,5 +2350,11 @@
     "title": "When you should lie to the language model",
     "url": "https://www.seangoedecke.com/lying-to-llms/",
     "timestamp": 1745244905
+  },
+  {
+    "month": "202504",
+    "title": "Claude Code Best Practices",
+    "url": "https://www.anthropic.com/engineering/claude-code-best-practices",
+    "timestamp": 1745246134
   }
 ]
