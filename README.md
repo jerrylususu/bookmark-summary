@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-04-21) [Claude Code Best Practices](202504/2025-04-21-claude-code-best-practices.md)
 - (2025-04-21) [When you should lie to the language model](202504/2025-04-21-when-you-should-lie-to-the-language-model.md)
 - (2025-04-21) [Leading From The Front](202504/2025-04-21-leading-from-the-front.md)
 - (2025-04-21) [你不需要懂金融，也可以用 AI 拆开结构化票据的黑盒](202504/2025-04-21-%E4%BD%A0%E4%B8%8D%E9%9C%80%E8%A6%81%E6%87%82%E9%87%91%E8%9E%8D%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E7%94%A8-ai-%E6%8B%86%E5%BC%80%E7%BB%93%E6%9E%84%E5%8C%96%E7%A5%A8%E6%8D%AE%E7%9A%84%E9%BB%91%E7%9B%92.md)
