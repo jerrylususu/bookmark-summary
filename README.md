@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-04-23) [Impossible Components — overreacted](202504/2025-04-23-impossible-components-%E2%80%94-overreacted.md)
 - (2025-04-23) [Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)](202504/2025-04-23-abusing-duckdb-wasm-by-making-sql-draw-3d-graphics-%28sort-of%29.md)
 - (2025-04-22) [My AI Prompt Engineering Playbook for Developers](202504/2025-04-22-my-ai-prompt-engineering-playbook-for-developers.md)
 - (2025-04-21) [How (Not) to Make a Game Sequel](202504/2025-04-21-how-%28not%29-to-make-a-game-sequel.md)
