@@ -2374,5 +2374,11 @@
     "title": "Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)",
     "url": "https://www.hey.earth/posts/duckdb-doom",
     "timestamp": 1745420142
+  },
+  {
+    "month": "202504",
+    "title": "Impossible Components — overreacted",
+    "url": "https://overreacted.io/impossible-components/",
+    "timestamp": 1745421819
   }
 ]
