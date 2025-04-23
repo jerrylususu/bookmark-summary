@@ -2368,5 +2368,11 @@
     "title": "My AI Prompt Engineering Playbook for Developers",
     "url": "https://nmn.gl/blog/ai-prompt-engineering",
     "timestamp": 1745334616
+  },
+  {
+    "month": "202504",
+    "title": "Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)",
+    "url": "https://www.hey.earth/posts/duckdb-doom",
+    "timestamp": 1745420142
   }
 ]
