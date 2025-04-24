@@ -2386,5 +2386,11 @@
     "title": "让你的 RSS/Atom feed 更好看",
     "url": "https://taxodium.ink/pretty-feed.html",
     "timestamp": 1745501502
+  },
+  {
+    "month": "202504",
+    "title": "Better typography with text-wrap pretty",
+    "url": "https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/",
+    "timestamp": 1745502003
   }
 ]
