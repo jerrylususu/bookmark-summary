@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-04-24) [Suffering-oriented programming - thoughts from the red planet - thoughts from the red planet](202504/2025-04-24-suffering-oriented-programming---thoughts-from-the-red-planet---thoughts-from-the-red-planet.md)
 - (2025-04-24) [Better typography with text-wrap pretty](202504/2025-04-24-better-typography-with-text-wrap-pretty.md)
 - (2025-04-24) [让你的 RSS/Atom feed 更好看](202504/2025-04-24-%E8%AE%A9%E4%BD%A0%E7%9A%84-rss-atom-feed-%E6%9B%B4%E5%A5%BD%E7%9C%8B.md)
 - (2025-04-23) [Impossible Components — overreacted](202504/2025-04-23-impossible-components-%E2%80%94-overreacted.md)
