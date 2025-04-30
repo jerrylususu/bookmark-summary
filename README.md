@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-04-30) [The valley of engineering despair](202504/2025-04-30-the-valley-of-engineering-despair.md)
 - (2025-04-28) [Design system documentation is essential–as long as it’s good](202504/2025-04-28-design-system-documentation-is-essential%E2%80%93as-long-as-it%E2%80%99s-good.md)
 - (2025-04-28) [从现实 API到认知伙伴：我的 AI-Centric 实验第二章](202504/2025-04-28-%E4%BB%8E%E7%8E%B0%E5%AE%9E-api%E5%88%B0%E8%AE%A4%E7%9F%A5%E4%BC%99%E4%BC%B4%EF%BC%9A%E6%88%91%E7%9A%84-ai-centric-%E5%AE%9E%E9%AA%8C%E7%AC%AC%E4%BA%8C%E7%AB%A0.md)
 - (2025-04-27) [Two Years in the Tenure Track](202504/2025-04-27-two-years-in-the-tenure-track.md)
