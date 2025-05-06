@@ -2470,5 +2470,11 @@
     "title": "Dummy's Guide to Modern Samplers",
     "url": "https://rentry.co/samplers",
     "timestamp": 1746540256
+  },
+  {
+    "month": "202505",
+    "title": "Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)",
+    "url": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/",
+    "timestamp": 1746544985
   }
 ]

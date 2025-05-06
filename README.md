@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-05-06) [Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)](202505/2025-05-06-async-rust-can-be-a-pleasure-to-work-with-%28without-%60send-%2B-sync-%2B-%27static%60%29.md)
 - (2025-05-06) [Dummy's Guide to Modern Samplers](202505/2025-05-06-dummy%27s-guide-to-modern-samplers.md)
 - (2025-05-06) [一千次失败之后，它选中了你看到的那一个](202505/2025-05-06-%E4%B8%80%E5%8D%83%E6%AC%A1%E5%A4%B1%E8%B4%A5%E4%B9%8B%E5%90%8E%EF%BC%8C%E5%AE%83%E9%80%89%E4%B8%AD%E4%BA%86%E4%BD%A0%E7%9C%8B%E5%88%B0%E7%9A%84%E9%82%A3%E4%B8%80%E4%B8%AA.md)
 - (2025-05-06) [Getting things "done" in large tech companies](202505/2025-05-06-getting-things-done-in-large-tech-companies.md)
