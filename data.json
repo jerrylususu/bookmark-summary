@@ -2476,5 +2476,11 @@
     "title": "Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)",
     "url": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/",
     "timestamp": 1746544985
+  },
+  {
+    "month": "202505",
+    "title": "An year of the Linux Desktop",
+    "url": "https://xeiaso.net/blog/2025/yotld/",
+    "timestamp": 1746625691
   }
 ]
