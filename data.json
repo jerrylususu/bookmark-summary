@@ -2512,5 +2512,11 @@
     "title": "Are you more likely to die on your birthday?",
     "url": "https://pudding.cool/2025/04/birthday-effect/",
     "timestamp": 1746799689
+  },
+  {
+    "month": "202505",
+    "title": "rate limiter – smudge.ai blog",
+    "url": "https://smudge.ai/blog/ratelimit-algorithms",
+    "timestamp": 1746805256
   }
 ]
