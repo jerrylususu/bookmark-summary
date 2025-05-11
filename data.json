@@ -2530,5 +2530,11 @@
     "title": "Mission Impossible: Managing AI Agents in the Real World",
     "url": "https://levelup.gitconnected.com/mission-impossible-managing-ai-agents-in-the-real-world-f8e7834833af",
     "timestamp": 1746943301
+  },
+  {
+    "month": "202505",
+    "title": "Making PyPI's test suite 81% faster",
+    "url": "https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/",
+    "timestamp": 1746945578
   }
 ]
