@@ -2542,5 +2542,11 @@
     "title": "How to title your blog post or whatever",
     "url": "https://dynomight.net/titles/",
     "timestamp": 1747144565
+  },
+  {
+    "month": "202505",
+    "title": "Vision Language Models (Better, faster, stronger)",
+    "url": "https://huggingface.co/blog/vlms-2025",
+    "timestamp": 1747230351
   }
 ]
