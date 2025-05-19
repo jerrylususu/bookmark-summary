@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-05-19) [卖 AI 图，从开单到金盆洗手 - 少数派](202505/2025-05-19-%E5%8D%96-ai-%E5%9B%BE%EF%BC%8C%E4%BB%8E%E5%BC%80%E5%8D%95%E5%88%B0%E9%87%91%E7%9B%86%E6%B4%97%E6%89%8B---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2025-05-19) [Diffusion models explained simply](202505/2025-05-19-diffusion-models-explained-simply.md)
 - (2025-05-18) [Plain Vanilla](202505/2025-05-18-plain-vanilla.md)
 - (2025-05-18) [DOC • A brief history of the numeric keypad](202505/2025-05-18-doc-%E2%80%A2-a-brief-history-of-the-numeric-keypad.md)
