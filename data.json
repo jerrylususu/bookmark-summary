@@ -2608,5 +2608,11 @@
     "title": "After months of coding with LLMs, I'm going back to using my brain • albertofortin.com",
     "url": "https://albertofortin.com/writing/coding-with-ai",
     "timestamp": 1747838331
+  },
+  {
+    "month": "202505",
+    "title": "Strengths and limitations of diffusion language models",
+    "url": "https://www.seangoedecke.com/limitations-of-text-diffusion-models/",
+    "timestamp": 1747921126
   }
 ]
