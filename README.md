@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-05-24) [Multiplayer AI chat and conversational turn-taking: sharing what we learnt](202505/2025-05-24-multiplayer-ai-chat-and-conversational-turn-taking-sharing-what-we-learnt.md)
 - (2025-05-24) [Avoiding becoming the lone dependency peg with load-bearing anime](202505/2025-05-24-avoiding-becoming-the-lone-dependency-peg-with-load-bearing-anime.md)
 - (2025-05-23) [DumPy: NumPy except it’s OK if you’re dum](202505/2025-05-23-dumpy-numpy-except-it%E2%80%99s-ok-if-you%E2%80%99re-dum.md)
 - (2025-05-22) [Making AI Work: Leadership, Lab, and Crowd](202505/2025-05-22-making-ai-work-leadership%2C-lab%2C-and-crowd.md)
