@@ -2680,5 +2680,11 @@
     "title": "In defense of shallow technical knowledge",
     "url": "https://www.seangoedecke.com/shallow-technical-knowledge/",
     "timestamp": 1748165288
+  },
+  {
+    "month": "202505",
+    "title": "Highlights from the Claude 4 system prompt",
+    "url": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
+    "timestamp": 1748267797
   }
 ]
