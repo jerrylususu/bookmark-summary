@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-05-27) [Introducing Marin: An Open Lab for Building Foundation Models](202505/2025-05-27-introducing-marin-an-open-lab-for-building-foundation-models.md)
 - (2025-05-27) [Just make it scale: An Aurora DSQL story](202505/2025-05-27-just-make-it-scale-an-aurora-dsql-story.md)
 - (2025-05-26) [模型变强了，体验却没变：AI产品的错位](202505/2025-05-26-%E6%A8%A1%E5%9E%8B%E5%8F%98%E5%BC%BA%E4%BA%86%EF%BC%8C%E4%BD%93%E9%AA%8C%E5%8D%B4%E6%B2%A1%E5%8F%98%EF%BC%9Aai%E4%BA%A7%E5%93%81%E7%9A%84%E9%94%99%E4%BD%8D.md)
 - (2025-05-26) [Highlights from the Claude 4 system prompt](202505/2025-05-26-highlights-from-the-claude-4-system-prompt.md)
