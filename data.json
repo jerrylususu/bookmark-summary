@@ -2716,5 +2716,11 @@
     "title": "Access Control Syntax – journal.stuffwithstuff.com",
     "url": "https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/",
     "timestamp": 1748359027
+  },
+  {
+    "month": "202505",
+    "title": "Inside GitHub: How we hardened our SAML implementation",
+    "url": "https://github.blog/security/web-application-security/inside-github-how-we-hardened-our-saml-implementation/",
+    "timestamp": 1748441739
   }
 ]
