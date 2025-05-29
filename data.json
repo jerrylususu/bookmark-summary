@@ -2728,5 +2728,11 @@
     "title": "Why do AI company logos look like buttholes?",
     "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
     "timestamp": 1748527436
+  },
+  {
+    "month": "202505",
+    "title": "Bootstrapping HTTP/1.1, HTTP/2, and HTTP/3",
+    "url": "https://www.netmeister.org/blog/http-123.html",
+    "timestamp": 1748529262
   }
 ]
