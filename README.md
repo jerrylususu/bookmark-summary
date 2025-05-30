@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-05-30) [CRIBS: My Writing Feedback Formula - David Perell](202505/2025-05-30-cribs-my-writing-feedback-formula---david-perell.md)
 - (2025-05-30) [My advice on (internet) writing, for what it’s worth](202505/2025-05-30-my-advice-on-%28internet%29-writing%2C-for-what-it%E2%80%99s-worth.md)
 - (2025-05-30) [Decomplexification](202505/2025-05-30-decomplexification.md)
 - (2025-05-29) [Bootstrapping HTTP/1.1, HTTP/2, and HTTP/3](202505/2025-05-29-bootstrapping-http-1.1%2C-http-2%2C-and-http-3.md)
