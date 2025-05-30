@@ -2734,5 +2734,11 @@
     "title": "Bootstrapping HTTP/1.1, HTTP/2, and HTTP/3",
     "url": "https://www.netmeister.org/blog/http-123.html",
     "timestamp": 1748529262
+  },
+  {
+    "month": "202505",
+    "title": "Decomplexification",
+    "url": "https://daniel.haxx.se/blog/2025/05/29/decomplexification/",
+    "timestamp": 1748613463
   }
 ]
