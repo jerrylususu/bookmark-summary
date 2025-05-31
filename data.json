@@ -2824,5 +2824,11 @@
     "title": "Get out of my <head>",
     "url": "https://getoutofmyhead.dev/",
     "timestamp": 1748692231
+  },
+  {
+    "month": "202505",
+    "title": "Type Inference in Rust and C++",
+    "url": "https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp//",
+    "timestamp": 1748693642
   }
 ]
