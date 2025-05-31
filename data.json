@@ -2788,5 +2788,11 @@
     "title": "In C++, use exchange or swap with nullopt to move out of std::optional - Keunwoo Lee's Minimum Viable Homepage",
     "url": "https://keunwoo.com/notes/cpp-moving-std-optional/",
     "timestamp": 1748686851
+  },
+  {
+    "month": "202505",
+    "title": "CAPTCHAs are over (in ticketing) - pretix – behind the scenes",
+    "url": "https://behind.pretix.eu/2025/05/23/captchas-are-over/",
+    "timestamp": 1748689204
   }
 ]
