@@ -2782,5 +2782,11 @@
     "title": "XKCD's \"Is It Worth the Time?\" Considered Harmful",
     "url": "https://will-keleher.com/posts/its-not-worth-the-time-yet.html",
     "timestamp": 1748686677
+  },
+  {
+    "month": "202505",
+    "title": "In C++, use exchange or swap with nullopt to move out of std::optional - Keunwoo Lee's Minimum Viable Homepage",
+    "url": "https://keunwoo.com/notes/cpp-moving-std-optional/",
+    "timestamp": 1748686851
   }
 ]
