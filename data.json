@@ -2794,5 +2794,11 @@
     "title": "CAPTCHAs are over (in ticketing) - pretix – behind the scenes",
     "url": "https://behind.pretix.eu/2025/05/23/captchas-are-over/",
     "timestamp": 1748689204
+  },
+  {
+    "month": "202505",
+    "title": "TIL: timeout in Bash scripts | Heitor's log",
+    "url": "https://heitorpb.github.io/bla/timeout/",
+    "timestamp": 1748689542
   }
 ]
