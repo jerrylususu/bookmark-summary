@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-05-31) [XKCD's "Is It Worth the Time?" Considered Harmful](202505/2025-05-31-xkcd%27s-is-it-worth-the-time-considered-harmful.md)
 - (2025-05-31) [The Copilot Delusion](202505/2025-05-31-the-copilot-delusion.md)
 - (2025-05-31) [Thoughts on thinking • Dustin Curtis](202505/2025-05-31-thoughts-on-thinking-%E2%80%A2-dustin-curtis.md)
 - (2025-05-31) [ Consider Knitting – journal.stuffwithstuff.com](202505/2025-05-31-consider-knitting-%E2%80%93-journal.stuffwithstuff.com.md)
