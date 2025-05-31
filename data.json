@@ -2830,5 +2830,11 @@
     "title": "Type Inference in Rust and C++",
     "url": "https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp//",
     "timestamp": 1748693642
+  },
+  {
+    "month": "202505",
+    "title": "One Roundtrip Per Navigation — overreacted",
+    "url": "https://overreacted.io/one-roundtrip-per-navigation/",
+    "timestamp": 1748694820
   }
 ]
