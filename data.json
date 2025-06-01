@@ -2842,5 +2842,11 @@
     "title": "Why DeepSeek is cheap at scale but expensive to run locally",
     "url": "https://www.seangoedecke.com/inference-batching-and-deepseek/",
     "timestamp": 1748751629
+  },
+  {
+    "month": "202506",
+    "title": "Progressive JSON — overreacted",
+    "url": "https://overreacted.io/progressive-json/",
+    "timestamp": 1748782691
   }
 ]
