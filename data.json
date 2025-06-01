@@ -2836,5 +2836,11 @@
     "title": "One Roundtrip Per Navigation — overreacted",
     "url": "https://overreacted.io/one-roundtrip-per-navigation/",
     "timestamp": 1748694820
+  },
+  {
+    "month": "202506",
+    "title": "Why DeepSeek is cheap at scale but expensive to run locally",
+    "url": "https://www.seangoedecke.com/inference-batching-and-deepseek/",
+    "timestamp": 1748751629
   }
 ]
