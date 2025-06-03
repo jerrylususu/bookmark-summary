@@ -2866,5 +2866,11 @@
     "title": "Directive prologues and JavaScript dark matter",
     "url": "https://macwright.com/2025/04/29/directive-prologues-and-javascript-dark-matter",
     "timestamp": 1748961413
+  },
+  {
+    "month": "202506",
+    "title": "Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints · V8",
+    "url": "https://v8.dev/blog/explicit-compile-hints",
+    "timestamp": 1748961622
   }
 ]
