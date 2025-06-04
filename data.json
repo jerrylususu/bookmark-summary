@@ -2872,5 +2872,11 @@
     "title": "Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints · V8",
     "url": "https://v8.dev/blog/explicit-compile-hints",
     "timestamp": 1748961622
+  },
+  {
+    "month": "202506",
+    "title": "DNS rebinding attacks explained: The lookup is coming from inside the house!",
+    "url": "https://github.blog/security/application-security/dns-rebinding-attacks-explained-the-lookup-is-coming-from-inside-the-house/",
+    "timestamp": 1749046749
   }
 ]
