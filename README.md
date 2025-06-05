@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-05) [Cracking The Dave & Buster’s Anomaly | Rambo Codes](202506/2025-06-05-cracking-the-dave-%26-buster%E2%80%99s-anomaly-rambo-codes.md)
 - (2025-06-04) [DNS rebinding attacks explained: The lookup is coming from inside the house!](202506/2025-06-04-dns-rebinding-attacks-explained-the-lookup-is-coming-from-inside-the-house%21.md)
 - (2025-06-03) [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints · V8](202506/2025-06-03-giving-v8-a-heads-up-faster-javascript-startup-with-explicit-compile-hints-%C2%B7-v8.md)
 - (2025-06-03) [Directive prologues and JavaScript dark matter](202506/2025-06-03-directive-prologues-and-javascript-dark-matter.md)
