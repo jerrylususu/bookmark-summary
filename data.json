@@ -2878,5 +2878,11 @@
     "title": "DNS rebinding attacks explained: The lookup is coming from inside the house!",
     "url": "https://github.blog/security/application-security/dns-rebinding-attacks-explained-the-lookup-is-coming-from-inside-the-house/",
     "timestamp": 1749046749
+  },
+  {
+    "month": "202506",
+    "title": "Cracking The Dave & Buster’s Anomaly | Rambo Codes",
+    "url": "https://rambo.codes/posts/2025-05-12-cracking-the-dave-and-busters-anomaly",
+    "timestamp": 1749132061
   }
 ]
