@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-07) [AI interpretability is further along than I thought](202506/2025-06-07-ai-interpretability-is-further-along-than-i-thought.md)
 - (2025-06-07) [Arguing point-by-point considered harmful](202506/2025-06-07-arguing-point-by-point-considered-harmful.md)
 - (2025-06-06) [How Imports Work in RSC — overreacted](202506/2025-06-06-how-imports-work-in-rsc-%E2%80%94-overreacted.md)
 - (2025-06-05) [Cracking The Dave & Buster’s Anomaly | Rambo Codes](202506/2025-06-05-cracking-the-dave-%26-buster%E2%80%99s-anomaly-rambo-codes.md)
