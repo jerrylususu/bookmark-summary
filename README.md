@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-10) [The evasive evitability of enshittification](202506/2025-06-10-the-evasive-evitability-of-enshittification.md)
 - (2025-06-10) [How I program with Agents](202506/2025-06-10-how-i-program-with-agents.md)
 - (2025-06-10) [Socratic method prompt](202506/2025-06-10-socratic-method-prompt.md)
 - (2025-06-09) [On How Long it Takes to Know if a Job is Right for You or Not](202506/2025-06-09-on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not.md)
