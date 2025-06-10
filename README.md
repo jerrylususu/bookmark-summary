@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-10) [Socratic method prompt](202506/2025-06-10-socratic-method-prompt.md)
 - (2025-06-09) [On How Long it Takes to Know if a Job is Right for You or Not](202506/2025-06-09-on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not.md)
 - (2025-06-08) [用三个笨办法将千万字的《凡人修仙传》炼成一个知识图谱](202506/2025-06-08-%E7%94%A8%E4%B8%89%E4%B8%AA%E7%AC%A8%E5%8A%9E%E6%B3%95%E5%B0%86%E5%8D%83%E4%B8%87%E5%AD%97%E7%9A%84%E3%80%8A%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E3%80%8B%E7%82%BC%E6%88%90%E4%B8%80%E4%B8%AA%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1.md)
 - (2025-06-07) [AI interpretability is further along than I thought](202506/2025-06-07-ai-interpretability-is-further-along-than-i-thought.md)
