@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-11) [We shipped FinalizationRegistry in Workers: why you should never use it](202506/2025-06-11-we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it.md)
 - (2025-06-11) [Rust Week 2025 杂记 | CatCoding](202506/2025-06-11-rust-week-2025-%E6%9D%82%E8%AE%B0-catcoding.md)
 - (2025-06-11) [AI-assisted coding for teams that can't get away with vibes - nilenso blog](202506/2025-06-11-ai-assisted-coding-for-teams-that-can%27t-get-away-with-vibes---nilenso-blog.md)
 - (2025-06-11) [Using `make` to compile C programs (for non-C-programmers)](202506/2025-06-11-using-%60make%60-to-compile-c-programs-%28for-non-c-programmers%29.md)

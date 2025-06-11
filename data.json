@@ -2950,5 +2950,11 @@
     "title": "Rust Week 2025 杂记 | CatCoding",
     "url": "https://catcoding.me/p/rust-week-notes/",
     "timestamp": 1749653810
+  },
+  {
+    "month": "202506",
+    "title": "We shipped FinalizationRegistry in Workers: why you should never use it",
+    "url": "https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/",
+    "timestamp": 1749655578
   }
 ]
