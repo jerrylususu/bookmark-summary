@@ -2932,5 +2932,11 @@
     "title": "The evasive evitability of enshittification",
     "url": "https://apenwarr.ca/log/20250530",
     "timestamp": 1749567791
+  },
+  {
+    "month": "202506",
+    "title": "Using `make` to compile C programs (for non-C-programmers)",
+    "url": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
+    "timestamp": 1749652427
   }
 ]
