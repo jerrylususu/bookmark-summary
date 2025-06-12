@@ -2956,5 +2956,11 @@
     "title": "We shipped FinalizationRegistry in Workers: why you should never use it",
     "url": "https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/",
     "timestamp": 1749655578
+  },
+  {
+    "month": "202506",
+    "title": "如何选择自托管开源多维表格 - 少数派",
+    "url": "https://sspai.com/post/99949",
+    "timestamp": 1749735785
   }
 ]
