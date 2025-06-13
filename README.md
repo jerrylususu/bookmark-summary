@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-13) [Suppressions of Suppressions — overreacted](202506/2025-06-13-suppressions-of-suppressions-%E2%80%94-overreacted.md)
 - (2025-06-12) [如何选择自托管开源多维表格 - 少数派](202506/2025-06-12-%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E8%87%AA%E6%89%98%E7%AE%A1%E5%BC%80%E6%BA%90%E5%A4%9A%E7%BB%B4%E8%A1%A8%E6%A0%BC---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2025-06-11) [We shipped FinalizationRegistry in Workers: why you should never use it](202506/2025-06-11-we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it.md)
 - (2025-06-11) [Rust Week 2025 杂记 | CatCoding](202506/2025-06-11-rust-week-2025-%E6%9D%82%E8%AE%B0-catcoding.md)
