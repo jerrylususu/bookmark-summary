@@ -2980,5 +2980,11 @@
     "title": "Design Patterns for Securing LLM Agents against Prompt Injections",
     "url": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
     "timestamp": 1749867189
+  },
+  {
+    "month": "202506",
+    "title": "Everything’s a bug (or an issue) | Bozeman Pass, Inc.",
+    "url": "https://www.bozemanpass.com/everythings-a-bug-or-an-issue/",
+    "timestamp": 1749890433
   }
 ]
