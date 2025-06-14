@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-14) [Everything’s a bug (or an issue) | Bozeman Pass, Inc.](202506/2025-06-14-everything%E2%80%99s-a-bug-%28or-an-issue%29-bozeman-pass%2C-inc..md)
 - (2025-06-14) [Design Patterns for Securing LLM Agents against Prompt Injections](202506/2025-06-14-design-patterns-for-securing-llm-agents-against-prompt-injections.md)
 - (2025-06-13) [Agentic Coding Recommendations](202506/2025-06-13-agentic-coding-recommendations.md)
 - (2025-06-13) [Suppressions of Suppressions — overreacted](202506/2025-06-13-suppressions-of-suppressions-%E2%80%94-overreacted.md)
