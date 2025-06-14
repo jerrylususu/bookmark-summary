@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-14) [Boredom Over Beauty: Why Code Quality is Code Security](202506/2025-06-14-boredom-over-beauty-why-code-quality-is-code-security.md)
 - (2025-06-14) [How I Use Claude Code](202506/2025-06-14-how-i-use-claude-code.md)
 - (2025-06-14) [Claude Code is My Computer | Peter Steinberger](202506/2025-06-14-claude-code-is-my-computer-peter-steinberger.md)
 - (2025-06-14) [Everything’s a bug (or an issue) | Bozeman Pass, Inc.](202506/2025-06-14-everything%E2%80%99s-a-bug-%28or-an-issue%29-bozeman-pass%2C-inc..md)
