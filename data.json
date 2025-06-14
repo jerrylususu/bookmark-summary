@@ -2974,5 +2974,11 @@
     "title": "Agentic Coding Recommendations",
     "url": "https://lucumr.pocoo.org/2025/6/12/agentic-coding/",
     "timestamp": 1749823698
+  },
+  {
+    "month": "202506",
+    "title": "Design Patterns for Securing LLM Agents against Prompt Injections",
+    "url": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
+    "timestamp": 1749867189
   }
 ]
