@@ -3004,5 +3004,11 @@
     "title": "Boredom Over Beauty: Why Code Quality is Code Security",
     "url": "https://blog.asymmetric.re/boredom-over-beauty-why-code-quality-is-code-security/",
     "timestamp": 1749893678
+  },
+  {
+    "month": "202506",
+    "title": "How we built our multi-agent research system",
+    "url": "https://www.anthropic.com/engineering/built-multi-agent-research-system",
+    "timestamp": 1749984634
   }
 ]
