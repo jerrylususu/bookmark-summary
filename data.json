@@ -3016,5 +3016,11 @@
     "title": "Rainbow Deploys with Kubernetes | Brandon Dimcheff",
     "url": "https://brandon.dimcheff.com/2018/02/rainbow-deploys-with-kubernetes/",
     "timestamp": 1749984874
+  },
+  {
+    "month": "202506",
+    "title": "The lethal trifecta for AI agents: private data, untrusted content, and external communication",
+    "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
+    "timestamp": 1750080446
   }
 ]
