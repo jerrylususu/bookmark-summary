@@ -3028,5 +3028,11 @@
     "title": "I fight bots in my free time",
     "url": "https://xeiaso.net/talks/2025/bsdcan-anubis/",
     "timestamp": 1750081103
+  },
+  {
+    "month": "202506",
+    "title": "Pack Spring Boot JARs into a monolithic Docker image",
+    "url": "https://miao1007.github.io/f90ce500-08b5-11f0-b358-6fc945929be4/",
+    "timestamp": 1750082356
   }
 ]
