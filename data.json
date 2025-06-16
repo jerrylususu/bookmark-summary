@@ -3046,5 +3046,11 @@
     "title": "Robin Hood Hashing should be your default Hash Table implementation",
     "url": "https://www.sebastiansylvan.com/post/robin-hood-hashing-should-be-your-default-hash-table-implementation/",
     "timestamp": 1750083354
+  },
+  {
+    "month": "202506",
+    "title": "jq: tool and language for JSON processing – Trickster Dev",
+    "url": "https://www.trickster.dev/post/jq-tool-and-language-for-json-processing/",
+    "timestamp": 1750085789
   }
 ]
