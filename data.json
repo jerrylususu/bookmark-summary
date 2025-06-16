@@ -3040,5 +3040,11 @@
     "title": "Writing Toy Software Is A Joy | Joshua Barretto",
     "url": "https://www.jsbarretto.com/blog/software-is-joy/",
     "timestamp": 1750082869
+  },
+  {
+    "month": "202506",
+    "title": "Robin Hood Hashing should be your default Hash Table implementation",
+    "url": "https://www.sebastiansylvan.com/post/robin-hood-hashing-should-be-your-default-hash-table-implementation/",
+    "timestamp": 1750083354
   }
 ]
