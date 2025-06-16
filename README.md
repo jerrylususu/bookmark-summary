@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-16) [The lethal trifecta for AI agents: private data, untrusted content, and external communication](202506/2025-06-16-the-lethal-trifecta-for-ai-agents-private-data%2C-untrusted-content%2C-and-external-communication.md)
 - (2025-06-15) [Rainbow Deploys with Kubernetes | Brandon Dimcheff](202506/2025-06-15-rainbow-deploys-with-kubernetes-brandon-dimcheff.md)
 - (2025-06-15) [How we built our multi-agent research system](202506/2025-06-15-how-we-built-our-multi-agent-research-system.md)
 - (2025-06-14) [Boredom Over Beauty: Why Code Quality is Code Security](202506/2025-06-14-boredom-over-beauty-why-code-quality-is-code-security.md)
