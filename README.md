@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-16) [Writing Toy Software Is A Joy | Joshua Barretto](202506/2025-06-16-writing-toy-software-is-a-joy-joshua-barretto.md)
 - (2025-06-16) [Pack Spring Boot JARs into a monolithic Docker image](202506/2025-06-16-pack-spring-boot-jars-into-a-monolithic-docker-image.md)
 - (2025-06-16) [I fight bots in my free time](202506/2025-06-16-i-fight-bots-in-my-free-time.md)
 - (2025-06-16) [The lethal trifecta for AI agents: private data, untrusted content, and external communication](202506/2025-06-16-the-lethal-trifecta-for-ai-agents-private-data%2C-untrusted-content%2C-and-external-communication.md)
