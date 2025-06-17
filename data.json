@@ -3070,5 +3070,11 @@
     "title": "VibeTunnel: Turn Any Browser into Your Mac's Terminal | Peter Steinberger",
     "url": "https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal",
     "timestamp": 1750169462
+  },
+  {
+    "month": "202506",
+    "title": "Homomorphically Encrypting CRDTs | jakelazaroff.com",
+    "url": "https://jakelazaroff.com/words/homomorphically-encrypted-crdts/",
+    "timestamp": 1750169958
   }
 ]
