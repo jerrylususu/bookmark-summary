@@ -3076,5 +3076,11 @@
     "title": "Homomorphically Encrypting CRDTs | jakelazaroff.com",
     "url": "https://jakelazaroff.com/words/homomorphically-encrypted-crdts/",
     "timestamp": 1750169958
+  },
+  {
+    "month": "202506",
+    "title": "strace tips for better debugging",
+    "url": "https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/",
+    "timestamp": 1750170183
   }
 ]
