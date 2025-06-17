@@ -3082,5 +3082,11 @@
     "title": "strace tips for better debugging",
     "url": "https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/",
     "timestamp": 1750170183
+  },
+  {
+    "month": "202506",
+    "title": "Backtraces with strace",
+    "url": "https://shane.ai/posts/backtraces-with-strace/",
+    "timestamp": 1750170526
   }
 ]
