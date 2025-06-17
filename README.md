@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-17) [VibeTunnel: Turn Any Browser into Your Mac's Terminal | Peter Steinberger](202506/2025-06-17-vibetunnel-turn-any-browser-into-your-mac%27s-terminal-peter-steinberger.md)
 - (2025-06-17) [We Can Just Measure Things](202506/2025-06-17-we-can-just-measure-things.md)
 - (2025-06-17) [Labubu 哪有泡沫？ | 虹线](202506/2025-06-17-labubu-%E5%93%AA%E6%9C%89%E6%B3%A1%E6%B2%AB%EF%BC%9F-%E8%99%B9%E7%BA%BF.md)
 - (2025-06-16) [jq: tool and language for JSON processing – Trickster Dev](202506/2025-06-16-jq-tool-and-language-for-json-processing-%E2%80%93-trickster-dev.md)
