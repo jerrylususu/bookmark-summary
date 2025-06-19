@@ -3106,5 +3106,11 @@
     "title": "Every service should have a killswitch",
     "url": "https://www.seangoedecke.com/killswitches/",
     "timestamp": 1750344806
+  },
+  {
+    "month": "202506",
+    "title": "Cognition | Don’t Build Multi-Agents",
+    "url": "https://cognition.ai/blog/dont-build-multi-agents#applying-the-principles",
+    "timestamp": 1750345194
   }
 ]
