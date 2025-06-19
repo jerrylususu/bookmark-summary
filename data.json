@@ -3094,5 +3094,11 @@
     "title": "You can use `fzf` to review git commits",
     "url": "https://jvns.ca/til/fzf-preview-git-commits/",
     "timestamp": 1750252965
+  },
+  {
+    "month": "202506",
+    "title": "I Counted All of the Yurts in Mongolia Using Machine Learning | Monroe Clinton",
+    "url": "https://monroeclinton.com/counting-all-yurts-in-mongolia/",
+    "timestamp": 1750342635
   }
 ]
