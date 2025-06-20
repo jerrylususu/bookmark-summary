@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-20) [Questionable Advice: “How can I sniff out bad managers while interviewing for a job?”](202506/2025-06-20-questionable-advice-%E2%80%9Chow-can-i-sniff-out-bad-managers-while-interviewing-for-a-job-%E2%80%9D.md)
 - (2025-06-20) [How can you tell if the company you’re interviewing with is rotten on the inside?](202506/2025-06-20-how-can-you-tell-if-the-company-you%E2%80%99re-interviewing-with-is-rotten-on-the-inside.md)
 - (2025-06-20) [In Praise of “Normal” Engineers](202506/2025-06-20-in-praise-of-%E2%80%9Cnormal%E2%80%9D-engineers.md)
 - (2025-06-20) [后智慧时代生存指南：关于未来的一些疯狂随想](202506/2025-06-20-%E5%90%8E%E6%99%BA%E6%85%A7%E6%97%B6%E4%BB%A3%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97%EF%BC%9A%E5%85%B3%E4%BA%8E%E6%9C%AA%E6%9D%A5%E7%9A%84%E4%B8%80%E4%BA%9B%E7%96%AF%E7%8B%82%E9%9A%8F%E6%83%B3.md)
