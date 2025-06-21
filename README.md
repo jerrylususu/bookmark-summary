@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-21) [Everything I know about good system design](202506/2025-06-21-everything-i-know-about-good-system-design.md)
 - (2025-06-21) [Rolling the ladder up behind us](202506/2025-06-21-rolling-the-ladder-up-behind-us.md)
 - (2025-06-20) [（译）2023 年每个软件开发者都必须知道的关于 Unicode 的基本知识 | 新世界的大门](202506/2025-06-20-%EF%BC%88%E8%AF%91%EF%BC%892023-%E5%B9%B4%E6%AF%8F%E4%B8%AA%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%80%85%E9%83%BD%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93%E7%9A%84%E5%85%B3%E4%BA%8E-unicode-%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86-%E6%96%B0%E4%B8%96%E7%95%8C%E7%9A%84%E5%A4%A7%E9%97%A8.md)
 - (2025-06-20) [Questionable Advice: “How can I sniff out bad managers while interviewing for a job?”](202506/2025-06-20-questionable-advice-%E2%80%9Chow-can-i-sniff-out-bad-managers-while-interviewing-for-a-job-%E2%80%9D.md)
