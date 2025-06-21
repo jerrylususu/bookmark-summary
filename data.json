@@ -3160,5 +3160,11 @@
     "title": "Decoding Google: Converting a Black Box to a White Box",
     "url": "https://brutecat.com/articles/decoding-google",
     "timestamp": 1750498256
+  },
+  {
+    "month": "202506",
+    "title": "CSS Classes considered harmful",
+    "url": "https://www.keithcirkel.co.uk/css-classes-considered-harmful/",
+    "timestamp": 1750500339
   }
 ]
