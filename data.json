@@ -3154,5 +3154,11 @@
     "title": "Everything I know about good system design",
     "url": "https://www.seangoedecke.com/good-system-design/",
     "timestamp": 1750485473
+  },
+  {
+    "month": "202506",
+    "title": "Decoding Google: Converting a Black Box to a White Box",
+    "url": "https://brutecat.com/articles/decoding-google",
+    "timestamp": 1750498256
   }
 ]
