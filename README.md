@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-22) [Pure and impure software engineering](202506/2025-06-22-pure-and-impure-software-engineering.md)
 - (2025-06-21) [CSS Classes considered harmful](202506/2025-06-21-css-classes-considered-harmful.md)
 - (2025-06-21) [Decoding Google: Converting a Black Box to a White Box](202506/2025-06-21-decoding-google-converting-a-black-box-to-a-white-box.md)
 - (2025-06-21) [Everything I know about good system design](202506/2025-06-21-everything-i-know-about-good-system-design.md)
