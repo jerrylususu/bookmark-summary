@@ -3184,5 +3184,11 @@
     "title": "Learnings from two years of using AI tools for software engineering",
     "url": "https://newsletter.pragmaticengineer.com/p/two-years-of-using-ai",
     "timestamp": 1750777349
+  },
+  {
+    "month": "202506",
+    "title": "Reading NFC Passport Chips in Linux",
+    "url": "https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/",
+    "timestamp": 1750777963
   }
 ]

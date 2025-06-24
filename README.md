@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-24) [Reading NFC Passport Chips in Linux](202506/2025-06-24-reading-nfc-passport-chips-in-linux.md)
 - (2025-06-24) [Learnings from two years of using AI tools for software engineering](202506/2025-06-24-learnings-from-two-years-of-using-ai-tools-for-software-engineering.md)
 - (2025-06-22) [My First Open Source AI Generated Library](202506/2025-06-22-my-first-open-source-ai-generated-library.md)
 - (2025-06-22) [Pure and impure software engineering](202506/2025-06-22-pure-and-impure-software-engineering.md)
