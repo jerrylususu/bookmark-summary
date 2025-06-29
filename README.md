@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-29) [初入投资容易犯的错误](202506/2025-06-29-%E5%88%9D%E5%85%A5%E6%8A%95%E8%B5%84%E5%AE%B9%E6%98%93%E7%8A%AF%E7%9A%84%E9%94%99%E8%AF%AF.md)
 - (2025-06-27) [Orange Me2eets: We made an end-to-end encrypted video calling app and it was easy](202506/2025-06-27-orange-me2eets-we-made-an-end-to-end-encrypted-video-calling-app-and-it-was-easy.md)
 - (2025-06-27) [从Prompt Engineering到Context Engineering - 铁蕾的个人博客](202506/2025-06-27-%E4%BB%8Eprompt-engineering%E5%88%B0context-engineering---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
 - (2025-06-27) [I don't care if my manager writes code](202506/2025-06-27-i-don%27t-care-if-my-manager-writes-code.md)
