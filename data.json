@@ -3250,5 +3250,11 @@
     "title": "Prompting vs JSON Mode vs Function Calling vs Constrained Generation vs SAP",
     "url": "https://www.boundaryml.com/blog/schema-aligned-parsing",
     "timestamp": 1751198837
+  },
+  {
+    "month": "202506",
+    "title": "Tip: Use keyword-only arguments in Python dataclasses – ChipLog — Christian Hammond",
+    "url": "https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/",
+    "timestamp": 1751290279
   }
 ]
