@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-07-01) [Predicting Average IMDb Movie Ratings Using Text Embeddings of Movie Metadata](202507/2025-07-01-predicting-average-imdb-movie-ratings-using-text-embeddings-of-movie-metadata.md)
 - (2025-07-01) [microsoft/vscode-copilot-chat](202507/2025-07-01-microsoft-vscode-copilot-chat.md)
 - (2025-07-01) [That boolean should probably be something else | nicole@web](202507/2025-07-01-that-boolean-should-probably-be-something-else-nicole%40web.md)
 - (2025-06-30) [How to Fix Your Context](202506/2025-06-30-how-to-fix-your-context.md)

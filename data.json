@@ -3298,5 +3298,11 @@
     "title": "microsoft/vscode-copilot-chat",
     "url": "https://simonwillison.net/2025/Jun/30/vscode-copilot-chat/",
     "timestamp": 1751378612
+  },
+  {
+    "month": "202507",
+    "title": "Predicting Average IMDb Movie Ratings Using Text Embeddings of Movie Metadata",
+    "url": "https://minimaxir.com/2025/06/movie-embeddings/",
+    "timestamp": 1751382661
   }
 ]
