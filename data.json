@@ -3292,5 +3292,11 @@
     "title": "That boolean should probably be something else | nicole@web",
     "url": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
     "timestamp": 1751377473
+  },
+  {
+    "month": "202507",
+    "title": "microsoft/vscode-copilot-chat",
+    "url": "https://simonwillison.net/2025/Jun/30/vscode-copilot-chat/",
+    "timestamp": 1751378612
   }
 ]
