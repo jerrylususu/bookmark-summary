@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-07-02) [Continuous AI in software engineering](202507/2025-07-02-continuous-ai-in-software-engineering.md)
 - (2025-07-02) [Using Playwright MCP with Claude Code](202507/2025-07-02-using-playwright-mcp-with-claude-code.md)
 - (2025-07-01) [Scribble-based forecasting and AI 2027](202507/2025-07-01-scribble-based-forecasting-and-ai-2027.md)
 - (2025-07-01) [ASN.1 与 DER 轻松入门](202507/2025-07-01-asn.1-%E4%B8%8E-der-%E8%BD%BB%E6%9D%BE%E5%85%A5%E9%97%A8.md)
