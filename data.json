@@ -3322,5 +3322,11 @@
     "title": "Scribble-based forecasting and AI 2027",
     "url": "https://dynomight.net/scribbles/",
     "timestamp": 1751385319
+  },
+  {
+    "month": "202507",
+    "title": "Using Playwright MCP with Claude Code",
+    "url": "https://til.simonwillison.net/claude-code/playwright-mcp-claude-code",
+    "timestamp": 1751463478
   }
 ]
