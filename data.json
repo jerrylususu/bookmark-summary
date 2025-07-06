@@ -3370,5 +3370,11 @@
     "title": "Frequently Asked Questions (And Answers) About AI Evals – Hamel’s Blog",
     "url": "https://hamel.dev/blog/posts/evals-faq/",
     "timestamp": 1751701076
+  },
+  {
+    "month": "202507",
+    "title": "Serving 200 million requests per day with a cgi-bin",
+    "url": "https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/",
+    "timestamp": 1751779497
   }
 ]
