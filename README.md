@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-07-06) [Serving 200 million requests per day with a cgi-bin](202507/2025-07-06-serving-200-million-requests-per-day-with-a-cgi-bin.md)
 - (2025-07-05) [Frequently Asked Questions (And Answers) About AI Evals – Hamel’s Blog](202507/2025-07-05-frequently-asked-questions-%28and-answers%29-about-ai-evals-%E2%80%93-hamel%E2%80%99s-blog.md)
 - (2025-07-04) [MCP: An (Accidentally) Universal Plugin System](202507/2025-07-04-mcp-an-%28accidentally%29-universal-plugin-system.md)
 - (2025-07-04) [When AI Codes, What’s Left for me? - CoRecursive Podcast](202507/2025-07-04-when-ai-codes%2C-what%E2%80%99s-left-for-me---corecursive-podcast.md)
