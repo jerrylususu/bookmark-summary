@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-07-07) [[笔记] 关于 AI 下半场的思考：商业/应用篇（2025）](202507/2025-07-07-%5B%E7%AC%94%E8%AE%B0%5D-%E5%85%B3%E4%BA%8E-ai-%E4%B8%8B%E5%8D%8A%E5%9C%BA%E7%9A%84%E6%80%9D%E8%80%83%EF%BC%9A%E5%95%86%E4%B8%9A-%E5%BA%94%E7%94%A8%E7%AF%87%EF%BC%882025%EF%BC%89.md)
 - (2025-07-07) [我的赛博长生之路：一场拓展生命边界的AI实验](202507/2025-07-07-%E6%88%91%E7%9A%84%E8%B5%9B%E5%8D%9A%E9%95%BF%E7%94%9F%E4%B9%8B%E8%B7%AF%EF%BC%9A%E4%B8%80%E5%9C%BA%E6%8B%93%E5%B1%95%E7%94%9F%E5%91%BD%E8%BE%B9%E7%95%8C%E7%9A%84ai%E5%AE%9E%E9%AA%8C.md)
 - (2025-07-06) [Serving 200 million requests per day with a cgi-bin](202507/2025-07-06-serving-200-million-requests-per-day-with-a-cgi-bin.md)
 - (2025-07-05) [Frequently Asked Questions (And Answers) About AI Evals – Hamel’s Blog](202507/2025-07-05-frequently-asked-questions-%28and-answers%29-about-ai-evals-%E2%80%93-hamel%E2%80%99s-blog.md)
