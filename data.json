@@ -3400,5 +3400,11 @@
     "title": "I Shipped a macOS App Built Entirely by Claude Code",
     "url": "https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code",
     "timestamp": 1751899297
+  },
+  {
+    "month": "202507",
+    "title": "Filesystem Backed by an LLM",
+    "url": "https://healeycodes.com/filesystem-backed-by-an-llm",
+    "timestamp": 1751984608
   }
 ]
