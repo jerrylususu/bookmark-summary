@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-07-09) [现代Vue3技术栈下的前端UI框架小调研 | 编码妙♂妙♂屋](202507/2025-07-09-%E7%8E%B0%E4%BB%A3vue3%E6%8A%80%E6%9C%AF%E6%A0%88%E4%B8%8B%E7%9A%84%E5%89%8D%E7%AB%AFui%E6%A1%86%E6%9E%B6%E5%B0%8F%E8%B0%83%E7%A0%94-%E7%BC%96%E7%A0%81%E5%A6%99%E2%99%82%E5%A6%99%E2%99%82%E5%B1%8B.md)
 - (2025-07-09) [AI 需要有自己的人生 | 虹线](202507/2025-07-09-ai-%E9%9C%80%E8%A6%81%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%BA%E7%94%9F-%E8%99%B9%E7%BA%BF.md)
 - (2025-07-08) [Filesystem Backed by an LLM](202507/2025-07-08-filesystem-backed-by-an-llm.md)
 - (2025-07-07) [I Shipped a macOS App Built Entirely by Claude Code](202507/2025-07-07-i-shipped-a-macos-app-built-entirely-by-claude-code.md)
