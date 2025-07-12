@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-07-12) [I used o3 to profile myself from my saved Pocket links](202507/2025-07-12-i-used-o3-to-profile-myself-from-my-saved-pocket-links.md)
 - (2025-07-11) [METR's AI productivity study is really good](202507/2025-07-11-metr%27s-ai-productivity-study-is-really-good.md)
 - (2025-07-10) [Git experts should try Jujutsu · pksunkara](202507/2025-07-10-git-experts-should-try-jujutsu-%C2%B7-pksunkara.md)
 - (2025-07-10) [TI-20250709-0001: IPv4 traffic failures for Techaro services | Anubis](202507/2025-07-10-ti-20250709-0001-ipv4-traffic-failures-for-techaro-services-anubis.md)
