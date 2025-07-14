@@ -3460,5 +3460,11 @@
     "title": "How I do it",
     "url": "https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/",
     "timestamp": 1752500769
+  },
+  {
+    "month": "202507",
+    "title": "It is 1939 and you want to use public-key cryptography",
+    "url": "https://shkspr.mobi/blog/2025/07/it-is-1939-and-you-want-to-use-public-key-cryptography/",
+    "timestamp": 1752501202
   }
 ]
