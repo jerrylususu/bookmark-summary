@@ -3466,5 +3466,11 @@
     "title": "It is 1939 and you want to use public-key cryptography",
     "url": "https://shkspr.mobi/blog/2025/07/it-is-1939-and-you-want-to-use-public-key-cryptography/",
     "timestamp": 1752501202
+  },
+  {
+    "month": "202507",
+    "title": "Building a RTS where you issue orders to AI agents",
+    "url": "https://www.seangoedecke.com/wargame-agents/",
+    "timestamp": 1752502840
   }
 ]
