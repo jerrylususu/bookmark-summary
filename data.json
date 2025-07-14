@@ -3478,5 +3478,11 @@
     "title": "The three great virtues of an AI-assisted programmer",
     "url": "https://www.seangoedecke.com/llm-user-virtues/",
     "timestamp": 1752502920
+  },
+  {
+    "month": "202507",
+    "title": "Happy 20th birthday Django! Here’s my talk on Django Origins from Django’s 10th",
+    "url": "https://simonwillison.net/2025/Jul/13/django-birthday/",
+    "timestamp": 1752506135
   }
 ]
