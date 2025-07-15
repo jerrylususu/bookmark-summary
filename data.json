@@ -3484,5 +3484,11 @@
     "title": "Happy 20th birthday Django! Here’s my talk on Django Origins from Django’s 10th",
     "url": "https://simonwillison.net/2025/Jul/13/django-birthday/",
     "timestamp": 1752506135
+  },
+  {
+    "month": "202507",
+    "title": "Simple macOS script to extract text from images (OCR)",
+    "url": "https://evanhahn.com/mac-ocr-script/",
+    "timestamp": 1752588827
   }
 ]
