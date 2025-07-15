@@ -3496,5 +3496,11 @@
     "title": "Practical notes on getting LLMs to generate new ideas",
     "url": "https://www.seangoedecke.com/idea-mill/",
     "timestamp": 1752589975
+  },
+  {
+    "month": "202507",
+    "title": "Redka: Redis re-implemented with SQL",
+    "url": "https://antonz.org/redka/",
+    "timestamp": 1752591172
   }
 ]
