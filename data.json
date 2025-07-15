@@ -3490,5 +3490,11 @@
     "title": "Simple macOS script to extract text from images (OCR)",
     "url": "https://evanhahn.com/mac-ocr-script/",
     "timestamp": 1752588827
+  },
+  {
+    "month": "202507",
+    "title": "Practical notes on getting LLMs to generate new ideas",
+    "url": "https://www.seangoedecke.com/idea-mill/",
+    "timestamp": 1752589975
   }
 ]
