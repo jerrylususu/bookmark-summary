@@ -3526,5 +3526,11 @@
     "title": "Gaslight-driven development",
     "url": "https://tonsky.me/blog/gaslight-driven-development/",
     "timestamp": 1752759187
+  },
+  {
+    "month": "202507",
+    "title": "How to actually use Model Context Protocol",
+    "url": "https://www.seangoedecke.com/how-to-actually-use-mcp/",
+    "timestamp": 1752761084
   }
 ]
