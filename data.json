@@ -3520,5 +3520,11 @@
     "title": "Reflections on OpenAI",
     "url": "https://calv.info/openai-reflections",
     "timestamp": 1752676060
+  },
+  {
+    "month": "202507",
+    "title": "Gaslight-driven development",
+    "url": "https://tonsky.me/blog/gaslight-driven-development/",
+    "timestamp": 1752759187
   }
 ]
