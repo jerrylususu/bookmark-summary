@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-07-18) [Vibe scraping and vibe coding a schedule app for Open Sauce 2025 entirely on my phone](202507/2025-07-18-vibe-scraping-and-vibe-coding-a-schedule-app-for-open-sauce-2025-entirely-on-my-phone.md)
 - (2025-07-18) [程序员延寿计算器 | Programmer Longevity Calculator](202507/2025-07-18-%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BB%B6%E5%AF%BF%E8%AE%A1%E7%AE%97%E5%99%A8-programmer-longevity-calculator.md)
 - (2025-07-17) [Fell in a hole, got out.](202507/2025-07-17-fell-in-a-hole%2C-got-out..md)
 - (2025-07-17) [How to actually use Model Context Protocol](202507/2025-07-17-how-to-actually-use-model-context-protocol.md)
