@@ -3574,5 +3574,11 @@
     "title": "Covers as a way of learning music and code | nicole@web",
     "url": "https://ntietz.com/blog/covers-as-a-way-of-learning",
     "timestamp": 1753106359
+  },
+  {
+    "month": "202507",
+    "title": "AI代理的上下文工程：构建Manus的经验教训",
+    "url": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
+    "timestamp": 1753107314
   }
 ]
