@@ -3586,5 +3586,11 @@
     "title": "鲍莫尔现象 - Miao Yu | 于淼",
     "url": "https://yufree.cn/cn/2025/07/22/baumol-effect/",
     "timestamp": 1753276398
+  },
+  {
+    "month": "202507",
+    "title": "Why reliability is hard at scale: learnings from infrastructure outages",
+    "url": "https://newsletter.pragmaticengineer.com/p/why-reliability-is-hard-at-scale",
+    "timestamp": 1753277386
   }
 ]
