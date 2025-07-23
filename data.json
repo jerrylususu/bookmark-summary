@@ -3592,5 +3592,11 @@
     "title": "Why reliability is hard at scale: learnings from infrastructure outages",
     "url": "https://newsletter.pragmaticengineer.com/p/why-reliability-is-hard-at-scale",
     "timestamp": 1753277386
+  },
+  {
+    "month": "202507",
+    "title": "What \"Parse, don't validate\" means in Python?",
+    "url": "https://www.bitecode.dev/p/what-parse-dont-validate-means-in",
+    "timestamp": 1753277900
   }
 ]
