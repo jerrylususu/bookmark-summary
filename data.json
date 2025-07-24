@@ -3616,5 +3616,11 @@
     "title": "Announcing Toad - a universal UI for agentic coding in the terminal",
     "url": "http://willmcgugan.github.io/announcing-toad/",
     "timestamp": 1753369693
+  },
+  {
+    "month": "202507",
+    "title": "How We Migrated the Parse API From Ruby to Golang (Resurrected)",
+    "url": "https://charity.wtf/2025/07/24/how-we-migrated-the-parse-api-from-ruby-to-golang-resurrected/",
+    "timestamp": 1753372378
   }
 ]
