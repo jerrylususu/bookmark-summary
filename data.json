@@ -3628,5 +3628,11 @@
     "title": "What kind of work I want (in 2025)",
     "url": "https://www.seangoedecke.com/my-engineering-values-2025/",
     "timestamp": 1753448110
+  },
+  {
+    "month": "202507",
+    "title": "Using GitHub Spark to reverse engineer GitHub Spark",
+    "url": "https://simonwillison.net/2025/Jul/24/github-spark/",
+    "timestamp": 1753451134
   }
 ]
