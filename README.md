@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-07-26) [Knives and battleships](202507/2025-07-26-knives-and-battleships.md)
 - (2025-07-25) [NYC’s Urban Textscape](202507/2025-07-25-nyc%E2%80%99s-urban-textscape.md)
 - (2025-07-25) [Using GitHub Spark to reverse engineer GitHub Spark](202507/2025-07-25-using-github-spark-to-reverse-engineer-github-spark.md)
 - (2025-07-25) [What kind of work I want (in 2025)](202507/2025-07-25-what-kind-of-work-i-want-%28in-2025%29.md)
