@@ -3670,5 +3670,11 @@
     "title": "From Async/Await to Virtual Threads",
     "url": "https://lucumr.pocoo.org/2025/7/26/virtual-threads/",
     "timestamp": 1753625268
+  },
+  {
+    "month": "202507",
+    "title": "An Engineer's Guide to AI Code Model Evals",
+    "url": "https://addyosmani.com/blog/ai-evals/",
+    "timestamp": 1753630352
   }
 ]
