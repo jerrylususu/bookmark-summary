@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-07-27) [I Drank Every Cocktail](202507/2025-07-27-i-drank-every-cocktail.md)
 - (2025-07-27) [An Engineer's Guide to AI Code Model Evals](202507/2025-07-27-an-engineer%27s-guide-to-ai-code-model-evals.md)
 - (2025-07-27) [From Async/Await to Virtual Threads](202507/2025-07-27-from-async-await-to-virtual-threads.md)
 - (2025-07-27) [Zigzag Number Spiral - Susam Pal](202507/2025-07-27-zigzag-number-spiral---susam-pal.md)
