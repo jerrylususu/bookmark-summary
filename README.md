@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-07-29) [LLMs can now identify public figures in images](202507/2025-07-29-llms-can-now-identify-public-figures-in-images.md)
 - (2025-07-28) [The many, many, many JavaScript runtimes of the last decade](202507/2025-07-28-the-many%2C-many%2C-many-javascript-runtimes-of-the-last-decade.md)
 - (2025-07-28) [TIL: Exception.add_note](202507/2025-07-28-til-exception.add_note.md)
 - (2025-07-28) [Enough AI copilots! We need AI HUDs](202507/2025-07-28-enough-ai-copilots%21-we-need-ai-huds.md)
