@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-07-31) [Agentic Coding Things That Didn’t Work](202507/2025-07-31-agentic-coding-things-that-didn%E2%80%99t-work.md)
 - (2025-07-31) [Vibe Coding for Product Managers: Stop Writing, Start Building](202507/2025-07-31-vibe-coding-for-product-managers-stop-writing%2C-start-building.md)
 - (2025-07-31) [Vibe code is legacy code](202507/2025-07-31-vibe-code-is-legacy-code.md)
 - (2025-07-30) [Mind the End of Your Line ∙ Adaptive Patchwork](202507/2025-07-30-mind-the-end-of-your-line-%E2%88%99-adaptive-patchwork.md)
