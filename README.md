@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-08-01) [Maybe the Fastest Disk Usage Program on macOS](202508/2025-08-01-maybe-the-fastest-disk-usage-program-on-macos.md)
 - (2025-07-31) [Reflection in C++26 (P2996)](202507/2025-07-31-reflection-in-c%2B%2B26-%28p2996%29.md)
 - (2025-07-31) [The Math Is Haunted — overreacted](202507/2025-07-31-the-math-is-haunted-%E2%80%94-overreacted.md)
 - (2025-07-31) [Agentic Coding Things That Didn’t Work](202507/2025-07-31-agentic-coding-things-that-didn%E2%80%99t-work.md)
