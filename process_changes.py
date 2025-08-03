@@ -2,7 +2,7 @@ import re
 from typing import List, Optional
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from dataclasses import dataclass, asdict
 import os
@@ -45,9 +45,9 @@ class SummarizedBookmark:
     url: str
     timestamp: int  # unix timestamp
 
-CURRENT_MONTH: str = datetime.now().strftime('%Y%m')
-CURRENT_DATE: str = datetime.now().strftime('%Y-%m-%d')
-CURRENT_DATE_AND_TIME: str = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+CURRENT_MONTH: str = datetime.now(timezone.utc).strftime('%Y%m')
+CURRENT_DATE: str = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+CURRENT_DATE_AND_TIME: str = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
 
 @log_execution_time
 def submit_to_wayback_machine(url: str):
@@ -132,7 +132,7 @@ def slugify(text: str) -> str:
     return re.sub(r'[' + re.escape(invalid_fs_chars) + r'\s]+', '-', text.lower()).strip('-')
 
 def get_summary_file_path(title: str, timestamp: int, month: Optional[str] = None, in_readme_md: bool = False) -> Path:
-    date_str = datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d')
+    date_str = datetime.fromtimestamp(timestamp, tz=timezone.utc).strftime('%Y-%m-%d')
     summary_filename: str = f"{date_str}-{slugify(title)}.md"
     if in_readme_md:
         if month is None:
@@ -254,7 +254,7 @@ def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> s
             )
             tldr = extract_tldr_from_markdown(str(summary_file_path_for_tldr))
             
-            date_str = datetime.fromtimestamp(bookmark.timestamp).strftime('%Y-%m-%d')
+            date_str = datetime.fromtimestamp(bookmark.timestamp, tz=timezone.utc).strftime('%Y-%m-%d')
             readme_content += f"- ({date_str}) [{bookmark.title}]({summary_file_path})\n"
             
             if tldr:
@@ -301,7 +301,7 @@ def process_bookmark_file():
         summary: str = summarize_text(text_content)
         one_sentence: str = one_sentence_summary(summary)
         summary_file_content: str = build_summary_file(title, url, summary, one_sentence)
-        timestamp = int(datetime.now().timestamp())
+        timestamp = int(datetime.now(timezone.utc).timestamp())
         
         with open(get_text_content_path(title), 'w', encoding='utf-8') as f:
             f.write(text_content)
