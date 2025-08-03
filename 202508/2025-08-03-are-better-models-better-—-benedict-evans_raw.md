@@ -1,0 +1,62 @@
+Title: Are better models better? — Benedict Evans
+
+URL Source: https://www.ben-evans.com/benedictevans/2025/1/the-problem-with-better-models
+
+Published Time: 2025-01-22T14:58:53-0500
+
+Markdown Content:
+Are better models better?
+Every week there’s a better AI model that gives better answers. But a lot of questions don’t have better answers, only ‘right’ answers, and these models can’t do that. So what does ‘better’ mean, how do we manage these things, and should we change what we expect from computers?
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 1](https://images.squarespace-cdn.com/content/v1/50363cf324ac8e905e7df861/f0af143c-eafa-4b3a-9fe2-02d2648bf095/39BCFC08-551D-47FE-871D-61617A38C95D.png)
+
+“Do, or do not- there is no try”
+
+Every week, there’s a new model, a new approach, and something new to play with. And every week, people ask me ‘have you tried o1 Pro? Phi 4? Midjourney 6.1?’ I keep wondering, well, how would I tell?
+
+One answer, of course, is to look at the benchmarks, but setting aside the debate about how meaningful these are, that doesn’t tell me what I can do that I couldn’t do before, or couldn’t do as well. You can also keep a text file full of carefully crafted logic puzzles to try, which is really just doing your own benchmark, but again, what does that tell you?
+
+More practically, you can try them with your own workflows. Does this model do a better job? Here, though, we run into a problem, because there are some tasks where a better model produces better, more accurate results, but other tasks where there’s no such thing as a ‘better’ result and no such thing as ‘more accurate’, only right or wrong.
+
+Some questions don’t have ‘wrong’ answers; the quality of the output is subjective and ‘better’ is a spectrum. This is the same prompt applied to Midjourney versions 3, 4, 5, and 6.1. Better!
+
+Equally, there are some tasks where a mistake is easy to see and to fix. If you ask ChatGPT for a draft email, or some ideas for what to cook, it might get some things wrong, but you can see that and fix it.
+
+Hence, the two fields where generative AI has clear, early and strong product-market fit are software development and marketing: mistakes are generally easy to see (or test for) and there aren’t necessarily wrong answers. If I ask for a few hundred words of copy about a new product or brand, there might not be a ‘wrong’ answer, and if it’s _your_ product then you can spot the mistakes - this is still hugely useful. I always used to compare the last wave of machine learning to ‘infinite interns.’ If you have 100 interns, you can ask them to do a bunch of work, and you would need to check the results and some of the results would be bad, but that would still be much better than having to do all of the work yourself from scratch.
+
+However, there is also a broad class of task that we would like to be able to automate, that’s boring and time consuming and can’t be done by traditional software, where the quality of the result is not a percentage, but a binary. For some tasks, the answer is not better or worse: it's right or not right.
+
+If I need something that does have answers that can be definitely wrong in important ways, and where I’m not an expert in the subject, or don’t have all the underlying data memorised and would have to repeat all the work myself to check it, then today, I can’t use an LLM for that _at all_.
+
+Here’s a practical example of the kind of thing that I do quite often, that I’d like to be able to automate. I asked ChatGPT 4o how many people were employed as elevator operators in the USA in 1980. The US Census collected this data and published it: the answer is 21,982 (page 17 of the PDF [here](https://www.census.gov/library/publications/1984/demo/pc80-s1-15.html))
+
+First, I try the answer cold, and I get an answer that’s specific, unsourced, and wrong. Then I try helping it with the primary source, and I get a different wrong answer with a list of sources, that are indeed the US Census, and the first link goes to the correct PDF… but the number is still wrong. Hmm. Let’s try giving it the actual PDF? Nope. Explaining exactly where in the PDF to look? Nope. Asking it to browse the web? Nope, nope, nope…
+
+The problem here is not so much that the number is wrong, as that I have no way to know without doing all the work myself anyway. It might be right. A different prompt might be closer to being right. If I paid for Pro, that would perhaps be more likely to be right. But I don’t need an answer that’s perhaps more likely to be right, especially if I can’t tell. I need an answer that _is_ right.
+
+Of course, these models don’t do ‘right’. They are probabilistic, statistical systems that tell you what a _good_ answer _would probably look like_. They are not deterministic systems that tell you what the answer _is_. They do not ‘know’ or ‘understand’ - they approximate. A ‘better’ model approximates more closely, and it may be dramatically better at one category of question than another (though we may not know why, or even understand what the categories are). But that still is not the same as providing a ‘correct’ answer - it is not the same as a model that ‘knows’ or ‘understands’ that it should find a column labeled 1980 and a row labeled ‘elevator operators’.
+
+How and whether this changes, this year or this decade, is one part of the central debate about whether these models will keep scaling, and indeed about AGI, where the only thing we can say for sure is that we do not have a theoretical framework that can tell us. We don’t know. Maybe that ‘understanding’ will emerge spontaneously as the models scale. Maybe, like Zeno’s Paradoxes, the models will never reach the target but will still converge to be right 99.99% of the time, so it won’t necessarily matter if they ‘understand’. Maybe some other, unknown theoretical breakthrough or breakthroughs are needed. Maybe the ‘reasoning’ in OpenAI’s O3 is a path to solve this, and maybe not. Plenty of people have opinions, but so far, we don’t know, and _for the time being_, ‘error rates’ (if that’s even the right way to think about this) are not a gap that will get closed with a bit more engineering, the way the iPhone got copy/paste or dialup was replaced by broadband: as far as we know, they are a fundamental property of the technology.
+
+This prompts a few kinds of question.
+
+Narrowly, most of the people building companies with generative AI today, hoping to automate boring back-office processes inside big companies, are wrapping generative AI models as API calls inside traditional deterministic software. They’re managing the error rate (and the UX gap of chatbots themselves, which I’ve written about a lot [elsewhere](https://www.ben-evans.com/benedictevans/2024/6/8/building-ai-products)) with tooling, process, control and UX, and with pre-processing and post-processing. They’re putting the horse in harness and giving it blinkers and reins, because that’s the only way to get a predictable result.
+
+However, it may be that as the models get better, they can go to the top of the stack. The LLM tells SAP what queries to run, and perhaps the user can see and validate what going on, but now you use the probabilistic system to control the deterministic system. This is one way to think about ‘agentic’ systems (which might be the Next Big Thing or might be forgotten in six months) - the LLM turns everything else into an API call. Which way around is better? Should you control the LLM within something predictable, or give the LLM predictable tools?
+
+This takes me to a second set of questions. The useful critique of my ‘elevator operator’ problem is not that I’m prompting it wrong or using the wrong version of the wrong model, but that I am in principle trying to use a non-deterministic system for a a deterministic task. I’m trying to use a LLM as though it was SQL: it isn’t, and it’s bad at that. If you try my elevator question above on Claude, it tells you point-blank that this looks like a specific information retrieval question and that it will probably hallucinate, and refuses to try. This is turning a weakness into a strength: LLMs are very bad at knowing if they _are_ wrong (a deterministic problem), but very good at knowing if they would _probably_ be wrong (a probabilistic problem).
+
+Part of the concept of ‘Disruption’ is that important new technologies tend to be bad at the things that matter to the previous generation of technology, but they do something else important instead. Asking if an LLM can do very specific and precise information retrieval might be like asking if an Apple II can match the uptime of a mainframe, or asking if you can build Photoshop inside Netscape. No, they can’t really do that, but that’s not the point and doesn’t mean they’re useless. They do something else, and that ‘something else’ matters more and pulls in all of the investment, innovation and company creation. Maybe, 20 years later, they can do the old thing too - maybe you can run a bank on PCs and build graphics software in a browser, eventually - but that’s not what matters at the beginning. They unlock something else.
+
+What is that ‘something else’ for generative AI, though? How do you think conceptually about places where that error rate is a feature, not a bug?
+
+Machine learning started working as image recognition, but it was much more than that, and it took a while to work out that the right way to think about it was as pattern recognition. You could philosophise for a long time about the ‘right way’ to think about what PCs, the web or mobile really were. What is that for generative AI? I don’t think anyone has really worked it out yet, but using it as a new set of API calls within traditional patterns of software feels like using the new thing to do the old things.
+
+Meanwhile, there’s an old English joke about a Frenchman who says ‘that’s all very well in practice, but does it work in theory?’ You can spend too long philosophising about ‘what this _really_ means’ and not enough time just going out and building and using things, and this is a chart of exactly that - everyone in Silicon Valley is building things with AI. Some of them will be wrong and many will be boring, but some of them will find the new thing.
+
+However, all of these companies are still a bet on one philosophy being right: they are a bet that the generative AI won’t generalise entirely, because if it did, we wouldn’t need all these individual products.
+
+These kinds of puzzles also remind me of a meeting I had in February 2005, now almost exactly 20 years ago, with a VP from Motorola, at the MWC mobile conference in Cannes. The iPod was the hot product, and all the phone OEMs [wanted to match it](https://en.wikipedia.org/wiki/Nokia_N91), but the micro-HDD that Apple was using would break very reliably if you dropped your device. The man from Motorola pointed out that this was partly a problem of expectation and perception: if you dropped your iPod and it broke, you blamed yourself, but if you dropped your phone and it broke, you blamed the phone maker, even though it was using the same hardware.
+
+Six months later Apple switched from HDDs to flash memory with the [Nano](https://en.wikipedia.org/wiki/IPod_Nano), and flash doesn’t break if you drop it. But two years later Apple started selling the iPhone, and now your phone does break if you drop it, but you probably blame yourself. Either way, we adopted a device that breaks if you drop if with a battery that lasts a day instead of a week, in exchange for something new that came with that. We moved our expectations. This problem of expectation and perception seems to apply right now to generative AI. After 50 years of consumer computing, we have been trained to expect computers to be ‘right’ - to be predictable, deterministic systems. That’s the premise of my elevator test. But if you flip that expectation, what do you get in return?
