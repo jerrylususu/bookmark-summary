@@ -11,6 +11,7 @@ import time
 from functools import wraps
 from urllib.parse import quote
 from waybackpy import WaybackMachineSaveAPI
+import mistune
 
 # -- configurations begin --
 BOOKMARK_COLLECTION_REPO_NAME: str = "bookmark-collection"
@@ -166,30 +167,111 @@ def build_summary_file(title: str, url: str, summary: str, one_sentence: str) ->
 {summary}
 """
 
+def extract_tldr_from_markdown(file_path: str) -> str:
+    """Extract TL;DR content from a markdown file using mistune AST parser."""
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        # Create mistune markdown parser for AST
+        markdown = mistune.create_markdown(renderer=None)
+        ast = markdown(content)
+        
+        tldr_content = []
+        found_tldr = False
+        
+        for token in ast:
+            if token['type'] == 'heading' and token.get('attrs', {}).get('level') == 2:
+                # Check if this is the TL;DR heading
+                if 'TL;DR' in str(token.get('children', [])):
+                    found_tldr = True
+                    continue
+                elif found_tldr:
+                    # Next H2 heading, stop collecting
+                    break
+            elif found_tldr and token['type'] == 'paragraph':
+                # Collect paragraph content
+                def extract_text(children):
+                    text_parts = []
+                    for child in children:
+                        if child['type'] == 'text':
+                            text_parts.append(child['raw'])
+                        elif 'children' in child:
+                            text_parts.extend(extract_text(child['children']))
+                    return text_parts
+                
+                text_parts = extract_text(token.get('children', []))
+                tldr_content.append(''.join(text_parts))
+        
+        return '\n'.join(tldr_content).strip()
+    except Exception as e:
+        logging.warning(f"Could not read TL;DR from {file_path}: {e}")
+    return ""
+
 def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> str:
     initial_prefix: str = """# Bookmark Summary 
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
-    
-## Summarized Bookmarks
-"""
-    summary_list: str = ""
-    sorted_summarized_bookmarks = sorted(summarized_bookmarks, key=lambda bookmark: bookmark.timestamp, reverse=True)
-   
-    for bookmark in sorted_summarized_bookmarks:
-        summary_file_path = get_summary_file_path(
-            title=bookmark.title,
-            timestamp=bookmark.timestamp,
-            month=bookmark.month,  # 传递书签的月份
-            in_readme_md=True
-        )
-        summary_list += f"- ({datetime.fromtimestamp(bookmark.timestamp).strftime('%Y-%m-%d')}) [{bookmark.title}]({summary_file_path})\n"
 
-    return initial_prefix + summary_list
+"""
+    
+    # Group bookmarks by month
+    bookmarks_by_month = {}
+    for bookmark in summarized_bookmarks:
+        month_key = bookmark.month
+        if month_key not in bookmarks_by_month:
+            bookmarks_by_month[month_key] = []
+        bookmarks_by_month[month_key].append(bookmark)
+    
+    # Sort each month's bookmarks by timestamp (newest first)
+    for month in bookmarks_by_month:
+        bookmarks_by_month[month].sort(key=lambda b: b.timestamp, reverse=True)
+    
+    # Sort months in reverse chronological order
+    sorted_months = sorted(bookmarks_by_month.keys(), reverse=True)
+    
+    readme_content = initial_prefix
+    
+    for month in sorted_months:
+        # Add month header
+        month_display = datetime.strptime(month, '%Y%m').strftime('%Y-%m')
+        readme_content += f"## {month_display}\n\n"
+        
+        # Add bookmarks for this month
+        for bookmark in bookmarks_by_month[month]:
+            summary_file_path = get_summary_file_path(
+                title=bookmark.title,
+                timestamp=bookmark.timestamp,
+                month=bookmark.month,
+                in_readme_md=True
+            )
+            
+            # Read TL;DR from the markdown file
+            summary_file_path_for_tldr = get_summary_file_path(
+                title=bookmark.title,
+                timestamp=bookmark.timestamp,
+                month=bookmark.month,
+                in_readme_md=False
+            )
+            tldr = extract_tldr_from_markdown(str(summary_file_path_for_tldr))
+            
+            date_str = datetime.fromtimestamp(bookmark.timestamp).strftime('%Y-%m-%d')
+            readme_content += f"- ({date_str}) [{bookmark.title}]({summary_file_path})\n"
+            
+            if tldr:
+                readme_content += f"  - {tldr}\n"
+        
+        readme_content += "\n"
+
+    return readme_content
 
 @log_execution_time
 def process_bookmark_file():
-    with open(f'{BOOKMARK_COLLECTION_REPO_NAME}/README.md', 'r', encoding='utf-8') as f:
-        bookmark_lines: List[str] = f.readlines()
+    bookmark_lines: List[str] = []
+    try:
+        with open(f'{BOOKMARK_COLLECTION_REPO_NAME}/README.md', 'r', encoding='utf-8') as f:
+            bookmark_lines = f.readlines()
+    except FileNotFoundError:
+        logging.warning(f"'{BOOKMARK_COLLECTION_REPO_NAME}/README.md' not found, skipping new bookmark processing.")
 
     with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'r', encoding='utf-8') as f:
         summarized_bookmark_dicts = json.load(f)
@@ -201,7 +283,7 @@ def process_bookmark_file():
     title: Optional[str] = None
     url: Optional[str] = None
     for line in bookmark_lines:
-        match: re.Match = re.search(r'- \[(.*?)\]\((.*?)\)', line)
+        match: re.Match = re.search(r'-\s*\[(.*?)\]\((.*?)\)', line)
         if match and match.group(2) not in summarized_urls:
             if NO_SUMMARY_TAG in line:
                 logging.debug(f"Skipping bookmark with {NO_SUMMARY_TAG} tag: {match.group(1)}")
@@ -227,20 +309,19 @@ def process_bookmark_file():
         with open(get_summary_file_path(title, timestamp=timestamp), 'w', encoding='utf-8') as f:
             f.write(summary_file_content)
         
-        # Update bookmark-summary/README.md
+        # Update data.json
         summarized_bookmarks.append(SummarizedBookmark(
             month=CURRENT_MONTH,
             title=title,
             url=url,
             timestamp=timestamp
         ))
-
-        with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/README.md', 'w', encoding='utf-8') as f:
-            f.write(build_summary_readme_md(summarized_bookmarks))
-
-        # Update data.json
         with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'w', encoding='utf-8') as f:
             json.dump([asdict(bookmark) for bookmark in summarized_bookmarks], f, indent=2, ensure_ascii=False)
+
+    # Update bookmark-summary/README.md
+    with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/README.md', 'w', encoding='utf-8') as f:
+        f.write(build_summary_readme_md(summarized_bookmarks))
 
 def main():
     process_bookmark_file()
