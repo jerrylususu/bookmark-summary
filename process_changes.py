@@ -17,6 +17,8 @@ import mistune
 BOOKMARK_COLLECTION_REPO_NAME: str = "bookmark-collection"
 BOOKMARK_SUMMARY_REPO_NAME: str = "bookmark-summary"
 MAX_CONTENT_LENGTH: int = 32 * 1024  # 32KB
+MIN_CONTENT_LENGTH: int = 200  # Minimum content length to consider valid
+MAX_RETRIES: int = 3  # Maximum retry attempts for fetching content
 NO_SUMMARY_TAG: str = "#nosummary"
 # -- configurations end --
 
@@ -63,13 +65,59 @@ def submit_to_wayback_machine(url: str):
 
 @log_execution_time
 def get_text_content(url: str) -> str:
+    """
+    Fetch text content from URL with retry logic and minimum length validation.
+    
+    Args:
+        url: The URL to fetch content from
+        
+    Returns:
+        str: The fetched text content
+        
+    Raises:
+        Exception: If all retry attempts fail or content is too short
+    """
     jina_url: str = f"https://r.jina.ai/{url}"
-    response: requests.Response = requests.get(jina_url)
-    content = response.text
-    if len(content) > MAX_CONTENT_LENGTH:
-        logging.warning(f"Content length ({len(content)}) exceeds maximum ({MAX_CONTENT_LENGTH}), truncating...")
-        content = content[:MAX_CONTENT_LENGTH]
-    return content
+    
+    for attempt in range(MAX_RETRIES):
+        try:
+            response: requests.Response = requests.get(jina_url)
+            content = response.text.strip()
+            
+            # Check if content is too short (likely an error message)
+            if len(content) < MIN_CONTENT_LENGTH:
+                if "upstream connect error" in content.lower() or "connection termination" in content.lower():
+                    error_msg = f"Connection error detected (attempt {attempt + 1}/{MAX_RETRIES})"
+                else:
+                    error_msg = f"Content too short ({len(content)} chars, minimum {MIN_CONTENT_LENGTH}) - attempt {attempt + 1}/{MAX_RETRIES}"
+                
+                logging.warning(error_msg)
+                
+                if attempt < MAX_RETRIES - 1:
+                    # Exponential backoff: wait 2^attempt seconds before retrying
+                    wait_time = 2 ** attempt
+                    logging.info(f"Retrying in {wait_time} seconds...")
+                    time.sleep(wait_time)
+                    continue
+                else:
+                    raise Exception(f"All {MAX_RETRIES} retry attempts failed. Last error: {error_msg}")
+            
+            # Content is valid length, proceed with processing
+            if len(content) > MAX_CONTENT_LENGTH:
+                logging.warning(f"Content length ({len(content)}) exceeds maximum ({MAX_CONTENT_LENGTH}), truncating...")
+                content = content[:MAX_CONTENT_LENGTH]
+            
+            logging.info(f"Successfully fetched content with {len(content)} characters")
+            return content
+            
+        except requests.RequestException as e:
+            logging.warning(f"Request failed (attempt {attempt + 1}/{MAX_RETRIES}): {e}")
+            if attempt < MAX_RETRIES - 1:
+                wait_time = 2 ** attempt
+                logging.info(f"Retrying in {wait_time} seconds...")
+                time.sleep(wait_time)
+            else:
+                raise Exception(f"All {MAX_RETRIES} retry attempts failed. Last error: {e}")
 
 @log_execution_time
 def call_openai_api(prompt: str, content: str) -> str:
