@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-05) [In Support Of Shitty Types](202508/2025-08-05-in-support-of-shitty-types.md)
+  - 本文指出复杂类型系统（如TypeScript）在AI编码工具中存在的局限性，包括工具兼容性差、错误处理低效及类型复杂性导致AI难以解析其逻辑。相较之下，简单类型系统如Go的清晰结构和JSDoc注释的轻量提示更易被AI理解，能有效减少错误。文章强调，简洁直观的类型设计在AI协作场景中比复杂功能更具实用价值，是高效开发的关键保障。
 - (2025-08-05) [It all matters and none of it matters](202508/2025-08-05-it-all-matters-and-none-of-it-matters.md)
   - 文章通过Test cricket的深度观察，探讨体育竞技中“重要与不重要”的辩证关系。比赛历时五日，悬念常至最后一刻，运动员与观众共同承受身心考验。作者以英印系列赛为例，指出胜负虽瞬息消散，但比赛带来的沉浸感与情感冲击超越结果。黄昏场馆的场景隐喻当下与记忆共存，强调看似“无意义”的投入恰恰构成人生深层意义。（99字）
 - (2025-08-05) [Things not to do as a presenter if you want a great talk recording | Christian Heilmann](202508/2025-08-05-things-not-to-do-as-a-presenter-if-you-want-a-great-talk-recording-christian-heilmann.md)
