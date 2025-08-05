@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-05) [A Friendly Introduction to SVG • Josh W. Comeau](202508/2025-08-05-a-friendly-introduction-to-svg-%E2%80%A2-josh-w.-comeau.md)
+  - 该文介绍了SVG的矢量特性及Web开发应用。SVG可内联HTML，通过CSS/JS动态控制属性（如填充、描边、路径），并利用实现响应式缩放。其核心元素包括基本形状（线条、矩形、圆形等）和动画技巧（如路径绘制、过渡效果），同时作为DOM节点支持交互操作，是实现复杂动态图形的实用工具。
 - (2025-08-05) [Automate your project with GitHub Models in Actions](202508/2025-08-05-automate-your-project-with-github-models-in-actions.md)
   - GitHub通过Actions集成AI模型实现自动化任务，例如自动补充bug细节、生成PR发布说明及每周问题汇总。需配置仓库权限，支持替换40+模型，利用分支逻辑控制流程，减少外部API调用，提供多层级集成方案，提升开发效率与任务管理智能化。
 - (2025-08-05) [In Support Of Shitty Types](202508/2025-08-05-in-support-of-shitty-types.md)
