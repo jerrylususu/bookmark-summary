@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-05) [Things not to do as a presenter if you want a great talk recording | Christian Heilmann](202508/2025-08-05-things-not-to-do-as-a-presenter-if-you-want-a-great-talk-recording-christian-heilmann.md)
+  - 该文建议演讲者优化录播内容：避免提及场地时效信息，提前测试设备，分会场宣传置于前后页，引用需附链接；减少开放式提问，段落间留白便于剪辑，配合主办方流程。强调聚焦核心内容，提升录播专业性和观众体验。
 - (2025-08-03) [Are better models better? — Benedict Evans](202508/2025-08-03-are-better-models-better-%E2%80%94-benedict-evans.md)
   - 文章指出，更复杂的AI模型未必实用，因其本质是概率系统，虽在容错高的领域（如营销）有效，但在医疗、法律等需精准判断的任务中易出错且无法自检。作者建议重新定义AI价值，接受其不完美以探索新场景，而非追求替代传统工具的绝对正确性，类似于技术革新常通过开创而非取代旧范式实现突破。
 - (2025-08-02) [Reflections on Palantir](202508/2025-08-02-reflections-on-palantir.md)
