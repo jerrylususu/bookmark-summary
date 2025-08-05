@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-05) [Automate your project with GitHub Models in Actions](202508/2025-08-05-automate-your-project-with-github-models-in-actions.md)
+  - GitHub通过Actions集成AI模型实现自动化任务，例如自动补充bug细节、生成PR发布说明及每周问题汇总。需配置仓库权限，支持替换40+模型，利用分支逻辑控制流程，减少外部API调用，提供多层级集成方案，提升开发效率与任务管理智能化。
 - (2025-08-05) [In Support Of Shitty Types](202508/2025-08-05-in-support-of-shitty-types.md)
   - 本文指出复杂类型系统（如TypeScript）在AI编码工具中存在的局限性，包括工具兼容性差、错误处理低效及类型复杂性导致AI难以解析其逻辑。相较之下，简单类型系统如Go的清晰结构和JSDoc注释的轻量提示更易被AI理解，能有效减少错误。文章强调，简洁直观的类型设计在AI协作场景中比复杂功能更具实用价值，是高效开发的关键保障。
 - (2025-08-05) [It all matters and none of it matters](202508/2025-08-05-it-all-matters-and-none-of-it-matters.md)
