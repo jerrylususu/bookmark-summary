@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-06) [No, AI is not Making Engineers 10x as Productive](202508/2025-08-06-no%2C-ai-is-not-making-engineers-10x-as-productive.md)
+  - 该文指出AI对工程师生产力的"10倍提升"属过度宣传。实际应用中，AI仅能辅助简单代码生成，无法处理复杂需求或维护大型项目，且无法改善沟通、测试等关键环节。真正高效工程师的核心优势在于减少低效工作，而非编码速度。文章建议理性看待AI工具，避免被夸大宣传制造焦虑，持续专注专业能力才是根本。
 - (2025-08-06) [Learn Rust by Reasoning with Code Agents](202508/2025-08-06-learn-rust-by-reasoning-with-code-agents.md)
   - 作者主张通过实践与推理掌握Rust核心概念（如所有权、异步），而非单纯依赖教程。推理需主动提问验证代码逻辑，深化理解并培养正确编程思维。建议以具体项目为依托，通过代码代理生成片段后，定位关键点反复推导验证，保持主动思考，AI仅为工具，核心在开发者自身验证与决策。
 - (2025-08-05) [A Friendly Introduction to SVG • Josh W. Comeau](202508/2025-08-05-a-friendly-introduction-to-svg-%E2%80%A2-josh-w.-comeau.md)
