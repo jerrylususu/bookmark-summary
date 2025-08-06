@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-06) [Learn Rust by Reasoning with Code Agents](202508/2025-08-06-learn-rust-by-reasoning-with-code-agents.md)
+  - 作者主张通过实践与推理掌握Rust核心概念（如所有权、异步），而非单纯依赖教程。推理需主动提问验证代码逻辑，深化理解并培养正确编程思维。建议以具体项目为依托，通过代码代理生成片段后，定位关键点反复推导验证，保持主动思考，AI仅为工具，核心在开发者自身验证与决策。
 - (2025-08-05) [A Friendly Introduction to SVG • Josh W. Comeau](202508/2025-08-05-a-friendly-introduction-to-svg-%E2%80%A2-josh-w.-comeau.md)
   - 该文介绍了SVG的矢量特性及Web开发应用。SVG可内联HTML，通过CSS/JS动态控制属性（如填充、描边、路径），并利用实现响应式缩放。其核心元素包括基本形状（线条、矩形、圆形等）和动画技巧（如路径绘制、过渡效果），同时作为DOM节点支持交互操作，是实现复杂动态图形的实用工具。
 - (2025-08-05) [Automate your project with GitHub Models in Actions](202508/2025-08-05-automate-your-project-with-github-models-in-actions.md)
