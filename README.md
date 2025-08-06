@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-06) [The hiring test that defeated AI](202508/2025-08-06-the-hiring-test-that-defeated-ai.md)
+  - 文章提出「未来规范测试法」应对AI作弊：要求开发者基于未被AI训练数据覆盖的新兴技术（如Python 3.14的t-string语法）编写代码，通过考察技术文档分析能力和安全编码思维筛选人才。初期AI因数据空白而失败，后期生成的代码虽正确但存在冗余特征，需定期更新题目以维持效力，更适合中级以上开发者。
 - (2025-08-06) [No, AI is not Making Engineers 10x as Productive](202508/2025-08-06-no%2C-ai-is-not-making-engineers-10x-as-productive.md)
   - 该文指出AI对工程师生产力的"10倍提升"属过度宣传。实际应用中，AI仅能辅助简单代码生成，无法处理复杂需求或维护大型项目，且无法改善沟通、测试等关键环节。真正高效工程师的核心优势在于减少低效工作，而非编码速度。文章建议理性看待AI工具，避免被夸大宣传制造焦虑，持续专注专业能力才是根本。
 - (2025-08-06) [Learn Rust by Reasoning with Code Agents](202508/2025-08-06-learn-rust-by-reasoning-with-code-agents.md)
