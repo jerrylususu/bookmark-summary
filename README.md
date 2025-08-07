@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-07) [用 AI 生成一档播客有什么意义？ | 虹线](202508/2025-08-07-%E7%94%A8-ai-%E7%94%9F%E6%88%90%E4%B8%80%E6%A1%A3%E6%92%AD%E5%AE%A2%E6%9C%89%E4%BB%80%E4%B9%88%E6%84%8F%E4%B9%89%EF%BC%9F-%E8%99%B9%E7%BA%BF.md)
+  - 本文探讨AI生成播客的实践，通过Gemini Pro、NotebookLM等工具将商业案例库转化为AI播客《商业甜点》，实现高效整理与结构化输出，适合科普类内容。AI可替代人工编译，推动传统播客转型，但语音流畅度待优化，未来可扩展至个人知识库音频化，提升信息整合效率。
 - (2025-08-06) [The hiring test that defeated AI](202508/2025-08-06-the-hiring-test-that-defeated-ai.md)
   - 文章提出「未来规范测试法」应对AI作弊：要求开发者基于未被AI训练数据覆盖的新兴技术（如Python 3.14的t-string语法）编写代码，通过考察技术文档分析能力和安全编码思维筛选人才。初期AI因数据空白而失败，后期生成的代码虽正确但存在冗余特征，需定期更新题目以维持效力，更适合中级以上开发者。
 - (2025-08-06) [No, AI is not Making Engineers 10x as Productive](202508/2025-08-06-no%2C-ai-is-not-making-engineers-10x-as-productive.md)
