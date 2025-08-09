@@ -3850,5 +3850,11 @@
     "title": "HTTP is not simple",
     "url": "https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/",
     "timestamp": 1754721939
+  },
+  {
+    "month": "202508",
+    "title": "GPT-5 prompting guide | OpenAI Cookbook",
+    "url": "https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide",
+    "timestamp": 1754724472
   }
 ]
