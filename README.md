@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-09) [HTTP is not simple](202508/2025-08-09-http-is-not-simple.md)
+  - 本文反驳了HTTP是简单协议的观点，指出其复杂性源于HTTP/1的底层设计缺陷（如消息体处理、头部字段规则）、长期扩展导致的规范膨胀（需依赖40+ RFC文档）、遗留特性累积（如极少使用的100响应码）、浏览器兼容性压力，以及HTTP/2/3对旧版的兼容要求。尽管复杂性持续增长，HTTP仍因实用性长期主导网络通信。
 - (2025-08-09) [夏日游泳（交通）条例 Summer Swimming (Traffic) Ordinance](202508/2025-08-09-%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%B3%B3%EF%BC%88%E4%BA%A4%E9%80%9A%EF%BC%89%E6%9D%A1%E4%BE%8B-summer-swimming-%28traffic%29-ordinance.md)
   - 《夏日游泳（交通）条例》以幽默形式规范泳池礼仪，要求按速选泳道、靠右游动，禁止拥挤时段使用占道泳姿或污染水质，并限制洗护时间。违规者若未道歉将遭"白眼"警示，旨在倡导高效、文明的公共泳池行为。
 - (2025-08-07) [We shouldn’t have needed lockfiles](202508/2025-08-07-we-shouldn%E2%80%99t-have-needed-lockfiles.md)
