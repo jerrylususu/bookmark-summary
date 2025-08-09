@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-09) [GPT-5 prompting guide | OpenAI Cookbook](202508/2025-08-09-gpt-5-prompting-guide-openai-cookbook.md)
+  - GPT-5通过精细参数调校（如推理努力分级、工具前缀设计）和API优化（响应API提升效率），在代理任务、编码能力及可控性上显著提升。需明确任务边界、采用结构化工具流程，并结合生产环境调优（如Cursor案例），同时避免矛盾指令并强化伦理安全，最终依赖精准提示工程实现高效可控的人工智能应用。
 - (2025-08-09) [HTTP is not simple](202508/2025-08-09-http-is-not-simple.md)
   - 本文反驳了HTTP是简单协议的观点，指出其复杂性源于HTTP/1的底层设计缺陷（如消息体处理、头部字段规则）、长期扩展导致的规范膨胀（需依赖40+ RFC文档）、遗留特性累积（如极少使用的100响应码）、浏览器兼容性压力，以及HTTP/2/3对旧版的兼容要求。尽管复杂性持续增长，HTTP仍因实用性长期主导网络通信。
 - (2025-08-09) [夏日游泳（交通）条例 Summer Swimming (Traffic) Ordinance](202508/2025-08-09-%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%B3%B3%EF%BC%88%E4%BA%A4%E9%80%9A%EF%BC%89%E6%9D%A1%E4%BE%8B-summer-swimming-%28traffic%29-ordinance.md)
