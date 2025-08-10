@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-10) [Modern Node.js Patterns for 2025](202508/2025-08-10-modern-node.js-patterns-for-2025.md)
+  - 现代Node.js通过ESM模块化、内置Web标准API（如Fetch）、异步处理优化、Worker线程并行计算、安全权限模型及部署工具升级，结合开发体验增强（热重载、TypeScript支持）和诊断系统，实现高效开发与跨环境一致性应用构建。
 - (2025-08-10) [Asymmetry of verification and verifier’s law — Jason Wei](202508/2025-08-10-asymmetry-of-verification-and-verifier%E2%80%99s-law-%E2%80%94-jason-wei.md)
   - 验证的不对称性指部分任务验证远比解决更简单，AI在此类任务中更具优势。验证者定律提出五条件：客观真理、快速验证、扩展性、低噪声和连续奖励。如AlphaEvolve通过满足条件在几何问题实现突破，但不可验证任务进展缓慢。未来AI将呈现“锯齿边智能”——擅长可验证领域（如数字世界），受限于不满足条件的任务。
 - (2025-08-09) [Developers, Reinvented – Thomas Dohmke](202508/2025-08-09-developers%2C-reinvented-%E2%80%93-thomas-dohmke.md)
