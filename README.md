@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-10) [Asymmetry of verification and verifier’s law — Jason Wei](202508/2025-08-10-asymmetry-of-verification-and-verifier%E2%80%99s-law-%E2%80%94-jason-wei.md)
+  - 验证的不对称性指部分任务验证远比解决更简单，AI在此类任务中更具优势。验证者定律提出五条件：客观真理、快速验证、扩展性、低噪声和连续奖励。如AlphaEvolve通过满足条件在几何问题实现突破，但不可验证任务进展缓慢。未来AI将呈现“锯齿边智能”——擅长可验证领域（如数字世界），受限于不满足条件的任务。
 - (2025-08-09) [Developers, Reinvented – Thomas Dohmke](202508/2025-08-09-developers%2C-reinvented-%E2%80%93-thomas-dohmke.md)
   - AI正重构开发者角色，推动其从代码生产转向战略设计。开发者历经四个阶段：怀疑者试用工具、探索者优化交互、合作者协同开发、战略家统筹任务。核心技能转向AI工具认知、人机协同及系统设计，教育体系强调系统思维与批判能力。未来开发聚焦高效能架构设计，职位增长但重心升维，开发者以"现实乐观"态度拥抱AI拓展技术边界。（99字）
 - (2025-08-09) [GPT-5 prompting guide | OpenAI Cookbook](202508/2025-08-09-gpt-5-prompting-guide-openai-cookbook.md)
