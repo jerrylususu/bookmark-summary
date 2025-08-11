@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-11) [The Future Isn't Model Agnostic](202508/2025-08-11-the-future-isn%27t-model-agnostic.md)
+  - AI模型性能趋同致技术优势消弭，产品竞争力转向用户体验深度优化。作者指出盲目追求模型可替换性徒增资源消耗，建议专注单一模型特性，通过精准提示策略、UI适配及场景优化构建差异化体验。模型评估需纳入核心架构（如游戏化测试），开发者应长期锁定最佳模型并持续适配，以建立不可替代性。
 - (2025-08-10) [Modern Node.js Patterns for 2025](202508/2025-08-10-modern-node.js-patterns-for-2025.md)
   - 现代Node.js通过ESM模块化、内置Web标准API（如Fetch）、异步处理优化、Worker线程并行计算、安全权限模型及部署工具升级，结合开发体验增强（热重载、TypeScript支持）和诊断系统，实现高效开发与跨环境一致性应用构建。
 - (2025-08-10) [Asymmetry of verification and verifier’s law — Jason Wei](202508/2025-08-10-asymmetry-of-verification-and-verifier%E2%80%99s-law-%E2%80%94-jason-wei.md)
