@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-12) [What's the strongest AI model you can train on a laptop in five minutes?](202508/2025-08-12-what%27s-the-strongest-ai-model-you-can-train-on-a-laptop-in-five-minutes.md)
+  - 在MacBook Pro上，作者通过优化模型参数（200万）与TinyStories数据集适配，在5分钟内训练出具备基础语法生成能力的GPT式Transformer（困惑度9.6）。关键策略包括舍弃复杂优化手段、选择低复杂度数据集，结果验证了Chinchilla模型-数据量1:20的理论边界，证明短期训练可产出有效小模型。
 - (2025-08-11) [The Future Isn't Model Agnostic](202508/2025-08-11-the-future-isn%27t-model-agnostic.md)
   - AI模型性能趋同致技术优势消弭，产品竞争力转向用户体验深度优化。作者指出盲目追求模型可替换性徒增资源消耗，建议专注单一模型特性，通过精准提示策略、UI适配及场景优化构建差异化体验。模型评估需纳入核心架构（如游戏化测试），开发者应长期锁定最佳模型并持续适配，以建立不可替代性。
 - (2025-08-10) [Modern Node.js Patterns for 2025](202508/2025-08-10-modern-node.js-patterns-for-2025.md)
