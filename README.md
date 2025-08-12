@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-12) [Using GitHub Pages as a URL shortener / redirection service | Christian Heilmann](202508/2025-08-12-using-github-pages-as-a-url-shortener-redirection-service-christian-heilmann.md)
+  - 该文介绍通过GitHub Pages与Jekyll搭建免费URL缩短服务的方法，使用插件jekyll-redirect-from实现直接跳转，结合自定义模板添加延迟跳转功能，并用JavaScript增强用户交互（倒计时/进度条/取消按钮），项目已开源，支持自定义域名及深浅模式适配。
 - (2025-08-12) [What's the strongest AI model you can train on a laptop in five minutes?](202508/2025-08-12-what%27s-the-strongest-ai-model-you-can-train-on-a-laptop-in-five-minutes.md)
   - 在MacBook Pro上，作者通过优化模型参数（200万）与TinyStories数据集适配，在5分钟内训练出具备基础语法生成能力的GPT式Transformer（困惑度9.6）。关键策略包括舍弃复杂优化手段、选择低复杂度数据集，结果验证了Chinchilla模型-数据量1:20的理论边界，证明短期训练可产出有效小模型。
 - (2025-08-11) [The Future Isn't Model Agnostic](202508/2025-08-11-the-future-isn%27t-model-agnostic.md)
