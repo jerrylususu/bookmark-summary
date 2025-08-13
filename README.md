@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-13) [Just a nice shell script](202508/2025-08-13-just-a-nice-shell-script.md)
+  - uv安装脚本通过跨Shell兼容性适配、LoongArch等特殊架构检测及依赖检查等技术，确保多系统环境可靠性。虽手动处理参数冗余且代码冗长，但覆盖主流场景及非主流架构，支持多shell路径自动配置，并提醒用户审查脚本安全性以规避风险。
 - (2025-08-13) [Is chain-of-thought AI reasoning a mirage?](202508/2025-08-13-is-chain-of-thought-ai-reasoning-a-mirage.md)
   - 亚利桑那州立大学论文认为大型语言模型（LLMs）的链式推理是“海市蜃楼”，基于小模型在简单字母变换任务的变体中表现不佳，认为其推理仅复制训练数据。作者反驳称该实验任务设计简单，未体现人类动态思考；模型规模过小，无法反映大模型涌现的复杂推理能力；且人类推理本身依赖模板且易受格式干扰。最终指出，讨论AI推理的本质需明确哲学定义，避免过度泛化结论，需通过多路径任务设计严谨验证。
 - (2025-08-12) [Using GitHub Pages as a URL shortener / redirection service | Christian Heilmann](202508/2025-08-12-using-github-pages-as-a-url-shortener-redirection-service-christian-heilmann.md)
