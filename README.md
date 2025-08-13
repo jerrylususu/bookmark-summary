@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-13) [What are Forward Deployed Engineers, and why are they so in demand?](202508/2025-08-13-what-are-forward-deployed-engineers%2C-and-why-are-they-so-in-demand.md)
+  - 前移工程师（FDE）融合软件开发、客户协作与产品优化能力，在AI领域因技术复杂度升高而需求激增。起源于Palantir，OpenAI等头部企业通过其推动端到端解决方案落地，反哺产品开发。要求跨技术与业务场景的全栈能力及高效客户沟通，成为AI时代连接技术与商业落地的核心角色。
 - (2025-08-13) [Just a nice shell script](202508/2025-08-13-just-a-nice-shell-script.md)
   - uv安装脚本通过跨Shell兼容性适配、LoongArch等特殊架构检测及依赖检查等技术，确保多系统环境可靠性。虽手动处理参数冗余且代码冗长，但覆盖主流场景及非主流架构，支持多shell路径自动配置，并提醒用户审查脚本安全性以规避风险。
 - (2025-08-13) [Is chain-of-thought AI reasoning a mirage?](202508/2025-08-13-is-chain-of-thought-ai-reasoning-a-mirage.md)
