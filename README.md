@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-13) [Is chain-of-thought AI reasoning a mirage?](202508/2025-08-13-is-chain-of-thought-ai-reasoning-a-mirage.md)
+  - 亚利桑那州立大学论文认为大型语言模型（LLMs）的链式推理是“海市蜃楼”，基于小模型在简单字母变换任务的变体中表现不佳，认为其推理仅复制训练数据。作者反驳称该实验任务设计简单，未体现人类动态思考；模型规模过小，无法反映大模型涌现的复杂推理能力；且人类推理本身依赖模板且易受格式干扰。最终指出，讨论AI推理的本质需明确哲学定义，避免过度泛化结论，需通过多路径任务设计严谨验证。
 - (2025-08-12) [Using GitHub Pages as a URL shortener / redirection service | Christian Heilmann](202508/2025-08-12-using-github-pages-as-a-url-shortener-redirection-service-christian-heilmann.md)
   - 该文介绍通过GitHub Pages与Jekyll搭建免费URL缩短服务的方法，使用插件jekyll-redirect-from实现直接跳转，结合自定义模板添加延迟跳转功能，并用JavaScript增强用户交互（倒计时/进度条/取消按钮），项目已开源，支持自定义域名及深浅模式适配。
 - (2025-08-12) [What's the strongest AI model you can train on a laptop in five minutes?](202508/2025-08-12-what%27s-the-strongest-ai-model-you-can-train-on-a-laptop-in-five-minutes.md)
