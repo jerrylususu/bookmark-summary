@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-14) [Building a web search engine from scratch in two months with 3 billion neural embeddings](202508/2025-08-14-building-a-web-search-engine-from-scratch-in-two-months-with-3-billion-neural-embeddings.md)
+  - 作者在两个月内基于30亿SBERT神经嵌入开发搜索引擎，通过200块GPU构建索引，实现每秒50K网页爬取及500ms查询延迟。采用分布式爬虫、HNSW算法与语义理解技术，有效过滤SEO垃圾内容并提升长尾查询相关性。系统采用开源组件及Oracle云优化成本，已部署公开演示版本支持精准语义搜索。
 - (2025-08-14) [How Does A Blind Model See The Earth?](202508/2025-08-14-how-does-a-blind-model-see-the-earth.md)
   - 该研究通过分析大型语言模型（LLM）对全球坐标点的识别概率，生成其认知地图。结果显示，模型规模与地理识别能力正相关：小型模型失败，中型呈模糊轮廓，大型可辨大陆形状，但受架构（如专家路由）和训练策略影响。实验发现100B参数为认知质变阈值，多模态模型无显著优势，闭源模型存在结构偏差。研究揭示LLM地理认知由参数、设计与训练共同决定，反映其内在逻辑及数据局限，主张以探索视角解读而非量化评估。
 - (2025-08-13) [What are Forward Deployed Engineers, and why are they so in demand?](202508/2025-08-13-what-are-forward-deployed-engineers%2C-and-why-are-they-so-in-demand.md)
