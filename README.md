@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-14) [How Does A Blind Model See The Earth?](202508/2025-08-14-how-does-a-blind-model-see-the-earth.md)
+  - 该研究通过分析大型语言模型（LLM）对全球坐标点的识别概率，生成其认知地图。结果显示，模型规模与地理识别能力正相关：小型模型失败，中型呈模糊轮廓，大型可辨大陆形状，但受架构（如专家路由）和训练策略影响。实验发现100B参数为认知质变阈值，多模态模型无显著优势，闭源模型存在结构偏差。研究揭示LLM地理认知由参数、设计与训练共同决定，反映其内在逻辑及数据局限，主张以探索视角解读而非量化评估。
 - (2025-08-13) [What are Forward Deployed Engineers, and why are they so in demand?](202508/2025-08-13-what-are-forward-deployed-engineers%2C-and-why-are-they-so-in-demand.md)
   - 前移工程师（FDE）融合软件开发、客户协作与产品优化能力，在AI领域因技术复杂度升高而需求激增。起源于Palantir，OpenAI等头部企业通过其推动端到端解决方案落地，反哺产品开发。要求跨技术与业务场景的全栈能力及高效客户沟通，成为AI时代连接技术与商业落地的核心角色。
 - (2025-08-13) [Just a nice shell script](202508/2025-08-13-just-a-nice-shell-script.md)
