@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-14) [Train 400x faster Static Embedding Models with Sentence Transformers](202508/2025-08-14-train-400x-faster-static-embedding-models-with-sentence-transformers.md)
+  - 本文比较静态嵌入（如Word2Vec、GloVe）与动态嵌入（如BERT）。静态嵌入计算快、成本低，但无法处理多义词和新词，且受句法限制；动态嵌入虽能解决上述问题，但计算开销大。作者建议计算资源有限或需基础语义的任务采用静态嵌入，而复杂上下文场景需动态嵌入，并附Hugging Face平台的代码示例。
 - (2025-08-14) [Building a web search engine from scratch in two months with 3 billion neural embeddings](202508/2025-08-14-building-a-web-search-engine-from-scratch-in-two-months-with-3-billion-neural-embeddings.md)
   - 作者在两个月内基于30亿SBERT神经嵌入开发搜索引擎，通过200块GPU构建索引，实现每秒50K网页爬取及500ms查询延迟。采用分布式爬虫、HNSW算法与语义理解技术，有效过滤SEO垃圾内容并提升长尾查询相关性。系统采用开源组件及Oracle云优化成本，已部署公开演示版本支持精准语义搜索。
 - (2025-08-14) [How Does A Blind Model See The Earth?](202508/2025-08-14-how-does-a-blind-model-see-the-earth.md)

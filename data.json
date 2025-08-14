@@ -3922,5 +3922,11 @@
     "title": "Building a web search engine from scratch in two months with 3 billion neural embeddings",
     "url": "https://blog.wilsonl.in/search-engine/",
     "timestamp": 1755181434
+  },
+  {
+    "month": "202508",
+    "title": "Train 400x faster Static Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/static-embeddings",
+    "timestamp": 1755184513
   }
 ]
