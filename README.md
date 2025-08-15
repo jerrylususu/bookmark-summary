@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-15) [Pluralistic: “Privacy preserving age verification” is bullshit (14 Aug 2025) ](202508/2025-08-15-pluralistic-%E2%80%9Cprivacy-preserving-age-verification%E2%80%9D-is-bullshit-%2814-aug-2025%29.md)
+  - 本文指出隐私保护年龄验证技术存在根本缺陷，如身份验证机构滥用风险、用户不平等负担及隐私悖论，英国《在线安全法案》要求年龄验证可能加剧隐私侵权并遭政治滥用。技术决策需依赖专家而非政客，近期讨论还涉及反竞争诉讼、隐私漏洞及社会科技争议。
 - (2025-08-14) [Train 400x faster Static Embedding Models with Sentence Transformers](202508/2025-08-14-train-400x-faster-static-embedding-models-with-sentence-transformers.md)
   - 本文比较静态嵌入（如Word2Vec、GloVe）与动态嵌入（如BERT）。静态嵌入计算快、成本低，但无法处理多义词和新词，且受句法限制；动态嵌入虽能解决上述问题，但计算开销大。作者建议计算资源有限或需基础语义的任务采用静态嵌入，而复杂上下文场景需动态嵌入，并附Hugging Face平台的代码示例。
 - (2025-08-14) [Building a web search engine from scratch in two months with 3 billion neural embeddings](202508/2025-08-14-building-a-web-search-engine-from-scratch-in-two-months-with-3-billion-neural-embeddings.md)
