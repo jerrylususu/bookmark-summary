@@ -3928,5 +3928,11 @@
     "title": "Train 400x faster Static Embedding Models with Sentence Transformers",
     "url": "https://huggingface.co/blog/static-embeddings",
     "timestamp": 1755184513
+  },
+  {
+    "month": "202508",
+    "title": "Pluralistic: “Privacy preserving age verification” is bullshit (14 Aug 2025) ",
+    "url": "https://pluralistic.net/2025/08/14/bellovin/",
+    "timestamp": 1755266870
   }
 ]
