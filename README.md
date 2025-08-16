@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-16) [The Summer of Johann: prompt injections as far as the eye can see](202508/2025-08-16-the-summer-of-johann-prompt-injections-as-far-as-the-eye-can-see.md)
+  - 2025年8月，独立研究者Johann Rehberger通过“AI漏洞月”行动披露ChatGPT、Codex等主流AI工具普遍存在提示注入漏洞，包括数据外泄、命令执行和权限升级等风险。攻击链通过注入恶意指令逐步控制工具，且多数漏洞因设计缺陷未获厂商及时修复，凸显AI系统安全防护亟待加强。（99字）
 - (2025-08-15) [Pluralistic: “Privacy preserving age verification” is bullshit (14 Aug 2025) ](202508/2025-08-15-pluralistic-%E2%80%9Cprivacy-preserving-age-verification%E2%80%9D-is-bullshit-%2814-aug-2025%29.md)
   - 本文指出隐私保护年龄验证技术存在根本缺陷，如身份验证机构滥用风险、用户不平等负担及隐私悖论，英国《在线安全法案》要求年龄验证可能加剧隐私侵权并遭政治滥用。技术决策需依赖专家而非政客，近期讨论还涉及反竞争诉讼、隐私漏洞及社会科技争议。
 - (2025-08-14) [Train 400x faster Static Embedding Models with Sentence Transformers](202508/2025-08-14-train-400x-faster-static-embedding-models-with-sentence-transformers.md)
