@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-17) [Beyond Booleans — overreacted](202508/2025-08-17-beyond-booleans-%E2%80%94-overreacted.md)
+  - 本文对比TypeScript与Lean的类型系统，指出Lean通过Prop类型将逻辑命题作为独立类型，证明即该类型的值。其类型层级包含命题值、Prop及Sort，利用Curry-Howard对应实现"编译期数学验证"。同一命题的不同证明在类型上等价，否定命题需提供证明，而矛盾命题类似TypeScript的never类型。Lean允许函数携带证明参数，通过类型约束确保逻辑严谨性，实现编程与数学证明的深度融合。
 - (2025-08-16) [The Summer of Johann: prompt injections as far as the eye can see](202508/2025-08-16-the-summer-of-johann-prompt-injections-as-far-as-the-eye-can-see.md)
   - 2025年8月，独立研究者Johann Rehberger通过“AI漏洞月”行动披露ChatGPT、Codex等主流AI工具普遍存在提示注入漏洞，包括数据外泄、命令执行和权限升级等风险。攻击链通过注入恶意指令逐步控制工具，且多数漏洞因设计缺陷未获厂商及时修复，凸显AI系统安全防护亟待加强。（99字）
 - (2025-08-15) [Pluralistic: “Privacy preserving age verification” is bullshit (14 Aug 2025) ](202508/2025-08-15-pluralistic-%E2%80%9Cprivacy-preserving-age-verification%E2%80%9D-is-bullshit-%2814-aug-2025%29.md)
