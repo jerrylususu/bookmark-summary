@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-17) [Who does your assistant serve?](202508/2025-08-17-who-does-your-assistant-serve.md)
+  - 本文指出AI助手（如ChatGPT、Replika）在技术迭代中暴露伦理与社会风险：强制升级削弱情感支持功能，功能骤变引发用户心理创伤；AI替代心理治疗易因技术缺陷和隐私问题加剧危机。技术公司掌控算法主权，用户陷入深度依赖却无控制权，需重新界定AI角色平衡技术与人文关怀。
 - (2025-08-17) [Beyond Booleans — overreacted](202508/2025-08-17-beyond-booleans-%E2%80%94-overreacted.md)
   - 本文对比TypeScript与Lean的类型系统，指出Lean通过Prop类型将逻辑命题作为独立类型，证明即该类型的值。其类型层级包含命题值、Prop及Sort，利用Curry-Howard对应实现"编译期数学验证"。同一命题的不同证明在类型上等价，否定命题需提供证明，而矛盾命题类似TypeScript的never类型。Lean允许函数携带证明参数，通过类型约束确保逻辑严谨性，实现编程与数学证明的深度融合。
 - (2025-08-16) [The Summer of Johann: prompt injections as far as the eye can see](202508/2025-08-16-the-summer-of-johann-prompt-injections-as-far-as-the-eye-can-see.md)
