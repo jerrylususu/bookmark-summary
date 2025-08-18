@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-18) [Your MCP Doesn’t Need 30 Tools: It Needs Code](202508/2025-08-18-your-mcp-doesn%E2%80%99t-need-30-tools-it-needs-code.md)
+  - 文章提出通过模型上下文协议（MCP）结合代码接口（如Python/JavaScript）优化任务执行。指出CLI工具存在兼容性差、状态管理脆弱及安全验证延迟等问题，而MCP借助代码直接操作底层工具（如pexpect控制LLDB、Playwright自动化网页），可保留执行状态、简化工具链并提升交互灵活性，同时生成可复用脚本。尽管直接执行代码存在安全风险，但实验证明其在调试和Web自动化场景中效果显著，未来需进一步探索防护技术。
 - (2025-08-17) [Who does your assistant serve?](202508/2025-08-17-who-does-your-assistant-serve.md)
   - 本文指出AI助手（如ChatGPT、Replika）在技术迭代中暴露伦理与社会风险：强制升级削弱情感支持功能，功能骤变引发用户心理创伤；AI替代心理治疗易因技术缺陷和隐私问题加剧危机。技术公司掌控算法主权，用户陷入深度依赖却无控制权，需重新界定AI角色平衡技术与人文关怀。
 - (2025-08-17) [Beyond Booleans — overreacted](202508/2025-08-17-beyond-booleans-%E2%80%94-overreacted.md)
