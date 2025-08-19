@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-19) [Trust Calibration for AI Software Builders](202508/2025-08-19-trust-calibration-for-ai-software-builders.md)
+  - 该文提出AI开发者需通过设定协作型与委托型系统边界、动态反馈及适度透明度校准用户信任，避免过高或过低。实践中需自适应调整信任信号、采用工具化设计语言，规避拟人化风险。强调需根据产品目标平衡设计要素，初期体验和风险防控是核心。
 - (2025-08-18) [Your MCP Doesn’t Need 30 Tools: It Needs Code](202508/2025-08-18-your-mcp-doesn%E2%80%99t-need-30-tools-it-needs-code.md)
   - 文章提出通过模型上下文协议（MCP）结合代码接口（如Python/JavaScript）优化任务执行。指出CLI工具存在兼容性差、状态管理脆弱及安全验证延迟等问题，而MCP借助代码直接操作底层工具（如pexpect控制LLDB、Playwright自动化网页），可保留执行状态、简化工具链并提升交互灵活性，同时生成可复用脚本。尽管直接执行代码存在安全风险，但实验证明其在调试和Web自动化场景中效果显著，未来需进一步探索防护技术。
 - (2025-08-17) [Who does your assistant serve?](202508/2025-08-17-who-does-your-assistant-serve.md)
