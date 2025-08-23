@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-23) [The issue of anti-cheat on Linux | Samuel Tulach](202508/2025-08-23-the-issue-of-anti-cheat-on-linux-samuel-tulach.md)
+  - Steam Deck推动Linux游戏用户增长，但竞技游戏因反作弊系统依赖Windows内核驱动受阻。Linux开放特性无法阻止用户修改内核或规避检测，导致反作弊失效。开发者转向网络验证、代码混淆和服务器端计算等替代方案，但技术矛盾短期内难以解决，需更自主的防护策略降低作弊风险。
 - (2025-08-23) [too many model context protocol servers and LLM allocations on the dance floor](202508/2025-08-23-too-many-model-context-protocol-servers-and-llm-allocations-on-the-dance-floor.md)
   - 本文指出过度使用模型上下文协议（MCP）服务器和LLM分配会造成开发效率下降、输出质量恶化及安全风险。工具安装过多会消耗大量token空间，引发冲突和非确定性行为，甚至引入恶意指令攻击。建议采用“少即多”原则，按需启用工具，分层级管理MCP，动态控制资源，并推动标准化协议以优化安全性和性能。（99字）
 - (2025-08-19) [Trust Calibration for AI Software Builders](202508/2025-08-19-trust-calibration-for-ai-software-builders.md)
