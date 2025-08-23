@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-23) [too many model context protocol servers and LLM allocations on the dance floor](202508/2025-08-23-too-many-model-context-protocol-servers-and-llm-allocations-on-the-dance-floor.md)
+  - 本文指出过度使用模型上下文协议（MCP）服务器和LLM分配会造成开发效率下降、输出质量恶化及安全风险。工具安装过多会消耗大量token空间，引发冲突和非确定性行为，甚至引入恶意指令攻击。建议采用“少即多”原则，按需启用工具，分层级管理MCP，动态控制资源，并推动标准化协议以优化安全性和性能。（99字）
 - (2025-08-19) [Trust Calibration for AI Software Builders](202508/2025-08-19-trust-calibration-for-ai-software-builders.md)
   - 该文提出AI开发者需通过设定协作型与委托型系统边界、动态反馈及适度透明度校准用户信任，避免过高或过低。实践中需自适应调整信任信号、采用工具化设计语言，规避拟人化风险。强调需根据产品目标平衡设计要素，初期体验和风险防控是核心。
 - (2025-08-18) [Your MCP Doesn’t Need 30 Tools: It Needs Code](202508/2025-08-18-your-mcp-doesn%E2%80%99t-need-30-tools-it-needs-code.md)
