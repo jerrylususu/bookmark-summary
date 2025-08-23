@@ -3964,5 +3964,11 @@
     "title": "Trust Calibration for AI Software Builders",
     "url": "https://fly.io/blog/trust-calibration-for-ai-software-builders/",
     "timestamp": 1755615947
+  },
+  {
+    "month": "202508",
+    "title": "too many model context protocol servers and LLM allocations on the dance floor",
+    "url": "https://ghuntley.com/allocations/",
+    "timestamp": 1755923075
   }
 ]
