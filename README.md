@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-24) [Don't feed me AI slop](202508/2025-08-24-don%27t-feed-me-ai-slop.md)
+  - 文章提出AI内容展示的核心标准是"内容密度"，即信息量和精准度需达到人工水平。低质AI内容即使标注也会引发反感，规范应重质量而非形式。例外情况包括翻译和客观数据展示，代码生成需深度审核以避免缺陷。最终强调AI协作需主动筛选重构，确保信息高效传递。
 - (2025-08-23) [The issue of anti-cheat on Linux | Samuel Tulach](202508/2025-08-23-the-issue-of-anti-cheat-on-linux-samuel-tulach.md)
   - Steam Deck推动Linux游戏用户增长，但竞技游戏因反作弊系统依赖Windows内核驱动受阻。Linux开放特性无法阻止用户修改内核或规避检测，导致反作弊失效。开发者转向网络验证、代码混淆和服务器端计算等替代方案，但技术矛盾短期内难以解决，需更自主的防护策略降低作弊风险。
 - (2025-08-23) [too many model context protocol servers and LLM allocations on the dance floor](202508/2025-08-23-too-many-model-context-protocol-servers-and-llm-allocations-on-the-dance-floor.md)
