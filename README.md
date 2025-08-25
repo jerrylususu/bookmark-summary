@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-25) [Spatial Joins in DuckDB](202508/2025-08-25-spatial-joins-in-duckdb.md)
+  - DuckDB 1.3.0通过新增专用SPATIAL_JOIN操作符，利用R树索引重构空间连接（如ST_Intersects），将5800万行数据查询时间从30分钟大幅降至28.7秒，性能提升58倍，且支持多类型连接。该操作符通过内存临时索引加速空间检索，未来计划优化大内存支持、并行计算及复杂条件处理，进一步强化大规模地理数据的高效分析能力。
 - (2025-08-25) [Everything I know about good API design](202508/2025-08-25-everything-i-know-about-good-api-design.md)
   - 本文总结了API设计的核心原则：平衡熟悉性与灵活性，避免破坏用户系统，版本化为最后手段。强调产品价值优先于API设计，优先采用API密钥认证，并确保关键操作的幂等性及速率限制。推荐游标分页提升性能，反对过度使用GraphQL。内部API可灵活调整，但需维护核心稳定性。核心准则为保持简单一致，优先用户友好性，重视可维护性。
 - (2025-08-24) [The kids are alright](202508/2025-08-24-the-kids-are-alright.md)

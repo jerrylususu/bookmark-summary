@@ -3994,5 +3994,11 @@
     "title": "Everything I know about good API design",
     "url": "https://www.seangoedecke.com/good-api-design/",
     "timestamp": 1756105692
+  },
+  {
+    "month": "202508",
+    "title": "Spatial Joins in DuckDB",
+    "url": "https://duckdb.org/2025/08/08/spatial-joins.html",
+    "timestamp": 1756106936
   }
 ]
