@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-25) [Icepath: a 2D Programming Language](202508/2025-08-25-icepath-a-2d-programming-language.md)
+  - Icepath是一种基于《宝可梦》冰之洞关卡设计的二维编程语言，程序以网格表示，指针通过符号控制方向，利用栈机制实现数字运算、字符串拼接和输出。其通过路径循环和逻辑转向计算斐波那契数列，并支持"梯子"传送功能，未来计划扩展可修改网格及六边形布局。该语言以趣味性为核心，融合经典二维编程与解谜元素，目前通过TypeScript实现解释器。
 - (2025-08-25) [Spatial Joins in DuckDB](202508/2025-08-25-spatial-joins-in-duckdb.md)
   - DuckDB 1.3.0通过新增专用SPATIAL_JOIN操作符，利用R树索引重构空间连接（如ST_Intersects），将5800万行数据查询时间从30分钟大幅降至28.7秒，性能提升58倍，且支持多类型连接。该操作符通过内存临时索引加速空间检索，未来计划优化大内存支持、并行计算及复杂条件处理，进一步强化大规模地理数据的高效分析能力。
 - (2025-08-25) [Everything I know about good API design](202508/2025-08-25-everything-i-know-about-good-api-design.md)
