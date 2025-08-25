@@ -4000,5 +4000,11 @@
     "title": "Spatial Joins in DuckDB",
     "url": "https://duckdb.org/2025/08/08/spatial-joins.html",
     "timestamp": 1756106936
+  },
+  {
+    "month": "202508",
+    "title": "Icepath: a 2D Programming Language",
+    "url": "https://healeycodes.com/icepath-a-2d-programming-language",
+    "timestamp": 1756107181
   }
 ]
