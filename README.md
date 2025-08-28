@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-28) [What I learned from making a (second) mobile app](202508/2025-08-28-what-i-learned-from-making-a-%28second%29-mobile-app.md)
+  - 通过开发第二个应用，作者总结经验：AI加速初期开发但长期维护困难，需合理用于参考而非全依赖；开发中经历长期打磨与技术架构简化；采用纯代码设计UI；付费应用市场遇冷，强调技术务实、敏捷迭代及产品完整性的核心价值，同时警惕AI削弱对专业技能的尊重，主张积累经验的重要性。
 - (2025-08-28) [Finding the low-hanging fruit](202508/2025-08-28-finding-the-low-hanging-fruit.md)
   - 文章指出，"低垂果实"是通过全局分析（如火焰图）和关注尾部指标（P95/P99），以最小成本解决最显著问题的优化策略。科技公司应聚焦战略优先事项，优先优化未被充分关注的旧代码（如未索引查询）而非热门模块，并避免局部微优化陷阱，通过系统性识别二三梯队功能或陈旧系统的优化空间，从而大幅提升核心用户体验。
 - (2025-08-28) [Do the simplest thing that could possibly work](202508/2025-08-28-do-the-simplest-thing-that-could-possibly-work.md)
