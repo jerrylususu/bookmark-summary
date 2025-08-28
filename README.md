@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-28) [Do the simplest thing that could possibly work](202508/2025-08-28-do-the-simplest-thing-that-could-possibly-work.md)
+  - 文章提倡软件设计应遵循"做最简单可行之事"原则，反对过度设计和复杂架构。主张深入理解现有系统，用最少组件和最小耦合解决问题（如用内存而非Redis做限流），并拒绝为未知需求预设扩展。真正的简单需基于深度工程思维，专注当前需求而非追求完美，通过渐进迭代构建稳健系统。
 - (2025-08-25) [Icepath: a 2D Programming Language](202508/2025-08-25-icepath-a-2d-programming-language.md)
   - Icepath是一种基于《宝可梦》冰之洞关卡设计的二维编程语言，程序以网格表示，指针通过符号控制方向，利用栈机制实现数字运算、字符串拼接和输出。其通过路径循环和逻辑转向计算斐波那契数列，并支持"梯子"传送功能，未来计划扩展可修改网格及六边形布局。该语言以趣味性为核心，融合经典二维编程与解谜元素，目前通过TypeScript实现解释器。
 - (2025-08-25) [Spatial Joins in DuckDB](202508/2025-08-25-spatial-joins-in-duckdb.md)
