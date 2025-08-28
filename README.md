@@ -3,6 +3,8 @@
 
 ## 2025-08
 
+- (2025-08-28) [Finding the low-hanging fruit](202508/2025-08-28-finding-the-low-hanging-fruit.md)
+  - 文章指出，"低垂果实"是通过全局分析（如火焰图）和关注尾部指标（P95/P99），以最小成本解决最显著问题的优化策略。科技公司应聚焦战略优先事项，优先优化未被充分关注的旧代码（如未索引查询）而非热门模块，并避免局部微优化陷阱，通过系统性识别二三梯队功能或陈旧系统的优化空间，从而大幅提升核心用户体验。
 - (2025-08-28) [Do the simplest thing that could possibly work](202508/2025-08-28-do-the-simplest-thing-that-could-possibly-work.md)
   - 文章提倡软件设计应遵循"做最简单可行之事"原则，反对过度设计和复杂架构。主张深入理解现有系统，用最少组件和最小耦合解决问题（如用内存而非Redis做限流），并拒绝为未知需求预设扩展。真正的简单需基于深度工程思维，专注当前需求而非追求完美，通过渐进迭代构建稳健系统。
 - (2025-08-25) [Icepath: a 2D Programming Language](202508/2025-08-25-icepath-a-2d-programming-language.md)
