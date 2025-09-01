@@ -1,6 +1,11 @@
 # Bookmark Summary 
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
+## 2025-09
+
+- (2025-09-01) [The Future is NOT Self-Hosted](202509/2025-09-01-the-future-is-not-self-hosted.md)
+  - 本文指出自托管虽赋予数字主权，但存在技术门槛高、资源浪费及共享障碍，延续权力垄断。作者自建服务器因成本与带宽限制，体验劣于商业平台。提出应构建公共所有、加密标准化的云基础设施，由非营利组织或政府提供服务，实现数据共享与隐私保护，呼吁通过集体协作而非个体退守，推动互联网公共空间的系统性变革。
+
 ## 2025-08
 
 - (2025-08-28) [What I learned from making a (second) mobile app](202508/2025-08-28-what-i-learned-from-making-a-%28second%29-mobile-app.md)
