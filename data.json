@@ -4030,5 +4030,11 @@
     "title": "The Future is NOT Self-Hosted",
     "url": "https://www.drewlyton.com/story/the-future-is-not-self-hosted/",
     "timestamp": 1756735044
+  },
+  {
+    "month": "202509",
+    "title": "Passkeys and Modern Authentication",
+    "url": "https://lucumr.pocoo.org/2025/9/2/passkeys/",
+    "timestamp": 1756826258
   }
 ]
