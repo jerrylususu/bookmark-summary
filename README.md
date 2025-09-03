@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-03) [40 years later, are Bentley's "Programming Pearls" still relevant?](202509/2025-09-03-40-years-later%2C-are-bentley%27s-programming-pearls-still-relevant.md)
+  - 《编程珠玑》发表40年，90%格言因触及编程本质（如设计优先、调试原则）仍高度适用，仅少数技术细节过时。核心揭示人性与工程真理永恒，强调务实、简洁和权衡，价值不减。
 - (2025-09-02) [Passkeys and Modern Authentication](202509/2025-09-02-passkeys-and-modern-authentication.md)
   - Passkeys虽提升安全性，但存在厂商控制、认证锁定及隐私风险。厂商通过认证机制限制用户选择，私钥不可导出导致迁移困难；企业可单方面终止账户，且自动注册功能暗藏绑定风险；技术依赖加剧生态绑定，开源项目受限。作者承认其优势，但警示过度依赖巨头将削弱用户控制权，需反思技术路径的根本利弊。
 - (2025-09-01) [The Future is NOT Self-Hosted](202509/2025-09-01-the-future-is-not-self-hosted.md)
