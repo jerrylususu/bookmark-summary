@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-03) [Seeing like a software company](202509/2025-09-03-seeing-like-a-software-company.md)
+  - Scott的《国家的视角》指出，组织追求可读性（如软件公司OKR）实现控制，却依赖不可读工作（如人际协作）。大企业为服务客户强推可读性，牺牲效率；需平衡两者，保留不可读工作空间以维持灵活性与交付效能。（78字）
 - (2025-09-03) [40 years later, are Bentley's "Programming Pearls" still relevant?](202509/2025-09-03-40-years-later%2C-are-bentley%27s-programming-pearls-still-relevant.md)
   - 《编程珠玑》发表40年，90%格言因触及编程本质（如设计优先、调试原则）仍高度适用，仅少数技术细节过时。核心揭示人性与工程真理永恒，强调务实、简洁和权衡，价值不减。
 - (2025-09-02) [Passkeys and Modern Authentication](202509/2025-09-02-passkeys-and-modern-authentication.md)
