@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-04) [Documents: The architect’s programming language - Stack Overflow](202509/2025-09-04-documents-the-architect%E2%80%99s-programming-language---stack-overflow.md)
+  - 软件工程师在高级阶段面临职业分岔，架构师路线强调通过文档将思想部署至人类系统，解决沟通与决策瓶颈。文档应即时记录、聚焦相关性，善用项目符号和时间顺序。七类高影响力模板加速共识形成，留存决策依据，实现技术愿景超越代码交付。（98字）
 - (2025-09-03) [Google Chrome at 17 - A history of our browser](202509/2025-09-03-google-chrome-at-17---a-history-of-our-browser.md)
   - Chrome 17周年（2025年9月2日）纪念回顾：自2008年发布以来，以速度、安全、稳定和简单为核心，凭借V8引擎提升JavaScript性能，多进程架构增强安全稳定，推动HTTPS普及和Web创新，影响全球数十亿用户。
 - (2025-09-03) [Seeing like a software company](202509/2025-09-03-seeing-like-a-software-company.md)
