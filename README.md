@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-06) [Vibe-Coding as a VC: We Need to Eat Our Own Dog Food](202509/2025-09-06-vibe-coding-as-a-vc-we-need-to-eat-our-own-dog-food.md)
+  - 一位风险投资家在假期利用AI工具（特别是Claude Code）进行“情感编程”，重构其VC公司工作流程。他构建了一个AI驱动的知识库系统，替代传统CRM，实现了信息聚合、高效迭代和个性化体验。作者强调AI虽加速开发，但仍需技术知识应对其局限性、成本和快速迭代的工具市场。
 - (2025-09-06) [Is OOXML Artifically Complex?](202509/2025-09-06-is-ooxml-artifically-complex.md)
   - OOXML的复杂性源于微软自身实现便利与历史包袱，并非蓄意破坏。它将Office内部数据结构直接序列化，标准质量差且制定过程充满争议。微软此举更多是应对反垄断和开放标准压力的防御策略。这种“自私的疏忽”虽非蓄意，却客观上阻碍了竞争。
 - (2025-09-06) [管理AI：你职业生涯中最重要的一次晋升](202509/2025-09-06-%E7%AE%A1%E7%90%86ai%EF%BC%9A%E4%BD%A0%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E4%B8%AD%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%80%E6%AC%A1%E6%99%8B%E5%8D%87.md)
