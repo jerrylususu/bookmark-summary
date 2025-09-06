@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-06) [Is OOXML Artifically Complex?](202509/2025-09-06-is-ooxml-artifically-complex.md)
+  - OOXML的复杂性源于微软自身实现便利与历史包袱，并非蓄意破坏。它将Office内部数据结构直接序列化，标准质量差且制定过程充满争议。微软此举更多是应对反垄断和开放标准压力的防御策略。这种“自私的疏忽”虽非蓄意，却客观上阻碍了竞争。
 - (2025-09-06) [管理AI：你职业生涯中最重要的一次晋升](202509/2025-09-06-%E7%AE%A1%E7%90%86ai%EF%BC%9A%E4%BD%A0%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E4%B8%AD%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%80%E6%AC%A1%E6%99%8B%E5%8D%87.md)
   - 本文指出，不应将AI视为纯粹工具，而应将其视为需要管理的“实习生”。通过借鉴人类管理经验，如应对不确定性、幻觉、效率低下和质量问题，用户能更好地驾驭AI。核心在于从“操作工具”转向“管理团队”，从而放大个人能力，提升AI效用。
 - (2025-09-04) [Documents: The architect’s programming language - Stack Overflow](202509/2025-09-04-documents-the-architect%E2%80%99s-programming-language---stack-overflow.md)
