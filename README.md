@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-06) [管理AI：你职业生涯中最重要的一次晋升](202509/2025-09-06-%E7%AE%A1%E7%90%86ai%EF%BC%9A%E4%BD%A0%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E4%B8%AD%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%80%E6%AC%A1%E6%99%8B%E5%8D%87.md)
+  - 本文指出，不应将AI视为纯粹工具，而应将其视为需要管理的“实习生”。通过借鉴人类管理经验，如应对不确定性、幻觉、效率低下和质量问题，用户能更好地驾驭AI。核心在于从“操作工具”转向“管理团队”，从而放大个人能力，提升AI效用。
 - (2025-09-04) [Documents: The architect’s programming language - Stack Overflow](202509/2025-09-04-documents-the-architect%E2%80%99s-programming-language---stack-overflow.md)
   - 软件工程师在高级阶段面临职业分岔，架构师路线强调通过文档将思想部署至人类系统，解决沟通与决策瓶颈。文档应即时记录、聚焦相关性，善用项目符号和时间顺序。七类高影响力模板加速共识形成，留存决策依据，实现技术愿景超越代码交付。（98字）
 - (2025-09-03) [Google Chrome at 17 - A history of our browser](202509/2025-09-03-google-chrome-at-17---a-history-of-our-browser.md)
