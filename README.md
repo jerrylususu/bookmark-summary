@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-08) ['Make invalid states unrepresentable' considered harmful](202509/2025-09-08-%27make-invalid-states-unrepresentable%27-considered-harmful.md)
+  - 本文批判了“使无效状态无法表示”的过度应用，指出过度约束会限制系统灵活性。主张状态机、外键和协议缓冲区设计应保留一定弹性，允许处理异常与变更，以平衡严谨性与业务适应能力。
 - (2025-09-07) [I’m Switching to Python and Actually Liking It](202509/2025-09-07-i%E2%80%99m-switching-to-python-and-actually-liking-it.md)
   - 作者分享转向Python开发AI应用的经验，推荐使用uv、ruff、ty、FastAPI等工具链，采用Monorepo结构和Docker部署，强调自动化与生产级实践。
 - (2025-09-06) [Vibe-Coding as a VC: We Need to Eat Our Own Dog Food](202509/2025-09-06-vibe-coding-as-a-vc-we-need-to-eat-our-own-dog-food.md)

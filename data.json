@@ -4084,5 +4084,11 @@
     "title": "I’m Switching to Python and Actually Liking It",
     "url": "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html",
     "timestamp": 1757251744
+  },
+  {
+    "month": "202509",
+    "title": "'Make invalid states unrepresentable' considered harmful",
+    "url": "https://www.seangoedecke.com/invalid-states/",
+    "timestamp": 1757339989
   }
 ]
