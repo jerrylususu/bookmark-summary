@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-08) [Is the LLM response wrong, or have you just failed to iterate it?](202509/2025-09-08-is-the-llm-response-wrong%2C-or-have-you-just-failed-to-iterate-it.md)
+  - 文章讨论了一张二战飞行员照片的误判案例，说明LLM的初步回应常因信息混杂而错误，但通过迭代查询（如排序提示）可以提升准确率。建议用户主动推动多轮查询来验证事实，而非直接接受初始答案。
 - (2025-09-08) ['Make invalid states unrepresentable' considered harmful](202509/2025-09-08-%27make-invalid-states-unrepresentable%27-considered-harmful.md)
   - 本文批判了“使无效状态无法表示”的过度应用，指出过度约束会限制系统灵活性。主张状态机、外键和协议缓冲区设计应保留一定弹性，允许处理异常与变更，以平衡严谨性与业务适应能力。
 - (2025-09-07) [I’m Switching to Python and Actually Liking It](202509/2025-09-07-i%E2%80%99m-switching-to-python-and-actually-liking-it.md)
