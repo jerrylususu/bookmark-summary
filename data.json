@@ -4090,5 +4090,11 @@
     "title": "'Make invalid states unrepresentable' considered harmful",
     "url": "https://www.seangoedecke.com/invalid-states/",
     "timestamp": 1757339989
+  },
+  {
+    "month": "202509",
+    "title": "Is the LLM response wrong, or have you just failed to iterate it?",
+    "url": "https://mikecaulfield.substack.com/p/is-the-llm-response-wrong-or-have",
+    "timestamp": 1757341851
   }
 ]
