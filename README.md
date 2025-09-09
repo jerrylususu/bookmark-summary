@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-09) [Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide](202509/2025-09-09-recreating-the-apollo-ai-adoption-rate-chart-with-gpt-5%2C-python-and-pyodide.md)
+  - 作者利用GPT-5和Pyodide成功复现阿波罗全球管理公司的AI采用率图表。通过搜索数据源、Python处理和移动平均调整实现精确重现，验证了GPT-5与浏览器端Python数据可视化的能力。
 - (2025-09-08) [Is the LLM response wrong, or have you just failed to iterate it?](202509/2025-09-08-is-the-llm-response-wrong%2C-or-have-you-just-failed-to-iterate-it.md)
   - 文章讨论了一张二战飞行员照片的误判案例，说明LLM的初步回应常因信息混杂而错误，但通过迭代查询（如排序提示）可以提升准确率。建议用户主动推动多轮查询来验证事实，而非直接接受初始答案。
 - (2025-09-08) ['Make invalid states unrepresentable' considered harmful](202509/2025-09-08-%27make-invalid-states-unrepresentable%27-considered-harmful.md)

@@ -4096,5 +4096,11 @@
     "title": "Is the LLM response wrong, or have you just failed to iterate it?",
     "url": "https://mikecaulfield.substack.com/p/is-the-llm-response-wrong-or-have",
     "timestamp": 1757341851
+  },
+  {
+    "month": "202509",
+    "title": "Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide",
+    "url": "https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/",
+    "timestamp": 1757425014
   }
 ]
