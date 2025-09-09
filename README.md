@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-09) [i ran Claude in a loop for three months, and it created a genz programming language called cursed](202509/2025-09-09-i-ran-claude-in-a-loop-for-three-months%2C-and-it-created-a-genz-programming-language-called-cursed.md)
+  - 作者用Claude开发了基于Go的Gen Z风格编程语言"cursed"，关键词替换为俚语。项目包含编译器、编辑器和库，支持跨平台编译。作者强调AI是创新工具，鼓励社区参与，目标让语言进入Stack Overflow榜单并实现自举。
 - (2025-09-09) [Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide](202509/2025-09-09-recreating-the-apollo-ai-adoption-rate-chart-with-gpt-5%2C-python-and-pyodide.md)
   - 作者利用GPT-5和Pyodide成功复现阿波罗全球管理公司的AI采用率图表。通过搜索数据源、Python处理和移动平均调整实现精确重现，验证了GPT-5与浏览器端Python数据可视化的能力。
 - (2025-09-08) [Is the LLM response wrong, or have you just failed to iterate it?](202509/2025-09-08-is-the-llm-response-wrong%2C-or-have-you-just-failed-to-iterate-it.md)

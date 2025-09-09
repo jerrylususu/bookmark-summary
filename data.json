@@ -4102,5 +4102,11 @@
     "title": "Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide",
     "url": "https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/",
     "timestamp": 1757425014
+  },
+  {
+    "month": "202509",
+    "title": "i ran Claude in a loop for three months, and it created a genz programming language called cursed",
+    "url": "https://ghuntley.com/cursed/",
+    "timestamp": 1757426354
   }
 ]
