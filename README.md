@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-12) [The Last Programmers || Xipu Li](202509/2025-09-12-the-last-programmers-xipu-li.md)
+  - 从亚马逊转投创业公司后，作者发现AI工具能大幅提升开发效率，软件行业竞争核心转向需求判断和产品分发，未来程序员需更关注用户体验与市场策略，而非纯粹编码。
 - (2025-09-12) [On Working with Wizards](202509/2025-09-12-on-working-with-wizards.md)
   - AI从合作者演变为“巫师”，展现出高效但不可控的特性，人类需面对验证困境、能力退化等挑战，并通过选择性使用、培养判断力和接受暂定信任来适应这一趋势。
 - (2025-09-10) [I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory](202509/2025-09-10-i-replaced-animal-crossing%27s-dialogue-with-a-live-llm-by-hacking-gamecube-memory.md)
