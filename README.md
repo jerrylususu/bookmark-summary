@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-12) [On Working with Wizards](202509/2025-09-12-on-working-with-wizards.md)
+  - AI从合作者演变为“巫师”，展现出高效但不可控的特性，人类需面对验证困境、能力退化等挑战，并通过选择性使用、培养判断力和接受暂定信任来适应这一趋势。
 - (2025-09-10) [I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory](202509/2025-09-10-i-replaced-animal-crossing%27s-dialogue-with-a-live-llm-by-hacking-gamecube-memory.md)
   - 作者通过逆向工程修改《动物森友会》内存系统，在不触及游戏原始代码的情况下，以Python脚本与模拟器共享内存，成功接入了云端LLM模型，实现了AI驱动动态对话，带来角色实时讨论新闻和群体行为等新玩法。
 - (2025-09-09) [i ran Claude in a loop for three months, and it created a genz programming language called cursed](202509/2025-09-09-i-ran-claude-in-a-loop-for-three-months%2C-and-it-created-a-genz-programming-language-called-cursed.md)
