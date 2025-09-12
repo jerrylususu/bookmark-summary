@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-12) [Type Checking is a Symptom, Not a Solution](202509/2025-09-12-type-checking-is-a-symptom%2C-not-a-solution.md)
+  - 文章批判编程界过度依赖类型检查，认为它掩盖了架构设计的缺陷，如紧耦合和依赖混乱，主张通过隔离、简单接口和消息传递等架构创新来真正降低复杂性，而非仅靠类型工具。
 - (2025-09-12) [The Last Programmers || Xipu Li](202509/2025-09-12-the-last-programmers-xipu-li.md)
   - 从亚马逊转投创业公司后，作者发现AI工具能大幅提升开发效率，软件行业竞争核心转向需求判断和产品分发，未来程序员需更关注用户体验与市场策略，而非纯粹编码。
 - (2025-09-12) [On Working with Wizards](202509/2025-09-12-on-working-with-wizards.md)
