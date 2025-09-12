@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-12) [Vibe Coding Through the Berghain Challenge - Log - nibzard](202509/2025-09-12-vibe-coding-through-the-berghain-challenge---log---nibzard.md)
+  - Listen Labs通过“Berghain挑战”发起优化问题实验，结合AI编程代理完成98%的代码工作，辅以人类监督，借助概率模型和拉格朗日乘数法将拒绝数从1247次降至782次。实验证明AI可大幅提升开发效率，但人类直觉和策略引导仍不可或缺，体现了人机协作在实时优化中的巨大潜力。
 - (2025-09-12) [Type Checking is a Symptom, Not a Solution](202509/2025-09-12-type-checking-is-a-symptom%2C-not-a-solution.md)
   - 文章批判编程界过度依赖类型检查，认为它掩盖了架构设计的缺陷，如紧耦合和依赖混乱，主张通过隔离、简单接口和消息传递等架构创新来真正降低复杂性，而非仅靠类型工具。
 - (2025-09-12) [The Last Programmers || Xipu Li](202509/2025-09-12-the-last-programmers-xipu-li.md)
