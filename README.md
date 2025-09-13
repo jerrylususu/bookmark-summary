@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-13) [Liquid Glass in the Browser: Refraction with CSS and SVG — kube.io](202509/2025-09-13-liquid-glass-in-the-browser-refraction-with-css-and-svg-%E2%80%94-kube.io.md)
+  - 本文介绍使用CSS和SVG模拟苹果Liquid Glass折射效果，涵盖折射原理、玻璃表面建模、SVG位移图实现与高光效果，但需注意该方案仅限于Chrome环境，性能开销较大。
 - (2025-09-13) [Your Biggest Customer Might Be Your Biggest Bottleneck](202509/2025-09-13-your-biggest-customer-might-be-your-biggest-bottleneck.md)
   - 博客讨论了FIFO队列在多租户系统中的缺陷，如任务阻塞问题，并提出了公平队列解决方案Broccoli，通过轮询调度确保任务公平处理，避免资源占用不均，已获得广泛关注。
 - (2025-09-13) [Good Vibes: A Claude-Code Case-Study](202509/2025-09-13-good-vibes-a-claude-code-case-study.md)
