@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-13) [What I think about when I think about Claude Code](202509/2025-09-13-what-i-think-about-when-i-think-about-claude-code.md)
+  - Claude Code通过终端交互和等待执行的方式，使编码过程更沉思化，需要用户清晰规划、定义问题，改变了传统编码节奏，并强调谨慎的权限控制与信任构建。
 - (2025-09-13) [ChatGPT Memory and the Bitter Lesson](202509/2025-09-13-chatgpt-memory-and-the-bitter-lesson.md)
   - ChatGPT的记忆架构采用交互元数据、近期对话、用户设定和自动生成的用户知识四层结构，优先依赖模型自身能力处理记忆，而非外部检索系统。其策略基于模型智能提升和算力扩展，但面临信息更新与准确性验证等挑战。
 - (2025-09-13) [Claude Memory: A Different Philosophy](202509/2025-09-13-claude-memory-a-different-philosophy.md)
