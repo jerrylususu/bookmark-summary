@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-13) [Your Biggest Customer Might Be Your Biggest Bottleneck](202509/2025-09-13-your-biggest-customer-might-be-your-biggest-bottleneck.md)
+  - 博客讨论了FIFO队列在多租户系统中的缺陷，如任务阻塞问题，并提出了公平队列解决方案Broccoli，通过轮询调度确保任务公平处理，避免资源占用不均，已获得广泛关注。
 - (2025-09-13) [Good Vibes: A Claude-Code Case-Study](202509/2025-09-13-good-vibes-a-claude-code-case-study.md)
   - 作者分享使用Claude Code在三天内构建代码分析工具的经验，强调编程需注重规划与设计，推荐Elm语言等工具，并提出迭代开发及最小化部署建议，倡导结构化结合AI辅助的高效开发方式。
 - (2025-09-13) [What I think about when I think about Claude Code](202509/2025-09-13-what-i-think-about-when-i-think-about-claude-code.md)
