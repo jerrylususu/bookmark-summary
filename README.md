@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-13) [Claude Memory: A Different Philosophy](202509/2025-09-13-claude-memory-a-different-philosophy.md)
+  - 文章对比了ChatGPT和Claude在记忆系统设计上的差异：ChatGPT自动加载记忆以降低使用门槛，而Claude需用户手动调用并更注重隐私和控制。两种设计基于不同用户群体和产品定位，目前AI记忆机制仍在快速迭代中。
 - (2025-09-12) [Vibe Coding Through the Berghain Challenge - Log - nibzard](202509/2025-09-12-vibe-coding-through-the-berghain-challenge---log---nibzard.md)
   - Listen Labs通过“Berghain挑战”发起优化问题实验，结合AI编程代理完成98%的代码工作，辅以人类监督，借助概率模型和拉格朗日乘数法将拒绝数从1247次降至782次。实验证明AI可大幅提升开发效率，但人类直觉和策略引导仍不可或缺，体现了人机协作在实时优化中的巨大潜力。
 - (2025-09-12) [Type Checking is a Symptom, Not a Solution](202509/2025-09-12-type-checking-is-a-symptom%2C-not-a-solution.md)
