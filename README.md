@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-13) [ChatGPT Memory and the Bitter Lesson](202509/2025-09-13-chatgpt-memory-and-the-bitter-lesson.md)
+  - ChatGPT的记忆架构采用交互元数据、近期对话、用户设定和自动生成的用户知识四层结构，优先依赖模型自身能力处理记忆，而非外部检索系统。其策略基于模型智能提升和算力扩展，但面临信息更新与准确性验证等挑战。
 - (2025-09-13) [Claude Memory: A Different Philosophy](202509/2025-09-13-claude-memory-a-different-philosophy.md)
   - 文章对比了ChatGPT和Claude在记忆系统设计上的差异：ChatGPT自动加载记忆以降低使用门槛，而Claude需用户手动调用并更注重隐私和控制。两种设计基于不同用户群体和产品定位，目前AI记忆机制仍在快速迭代中。
 - (2025-09-12) [Vibe Coding Through the Berghain Challenge - Log - nibzard](202509/2025-09-12-vibe-coding-through-the-berghain-challenge---log---nibzard.md)
