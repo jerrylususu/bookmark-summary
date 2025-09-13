@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-13) [Good Vibes: A Claude-Code Case-Study](202509/2025-09-13-good-vibes-a-claude-code-case-study.md)
+  - 作者分享使用Claude Code在三天内构建代码分析工具的经验，强调编程需注重规划与设计，推荐Elm语言等工具，并提出迭代开发及最小化部署建议，倡导结构化结合AI辅助的高效开发方式。
 - (2025-09-13) [What I think about when I think about Claude Code](202509/2025-09-13-what-i-think-about-when-i-think-about-claude-code.md)
   - Claude Code通过终端交互和等待执行的方式，使编码过程更沉思化，需要用户清晰规划、定义问题，改变了传统编码节奏，并强调谨慎的权限控制与信任构建。
 - (2025-09-13) [ChatGPT Memory and the Bitter Lesson](202509/2025-09-13-chatgpt-memory-and-the-bitter-lesson.md)
