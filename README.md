@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-18) [From suspicion to published curl CVE](202509/2025-09-18-from-suspicion-to-published-curl-cve.md)
+  - curl的CVE处理流程包括漏洞报告、评估、验证、修复、公告发布等步骤，强调透明协作。团队通过HackerOne接收报告，响应迅速，根据严重性分类修复，并同步公开信息及奖励报告者。
 - (2025-09-15) [[译] 从 OpenDeepResearch 背后的设计演进，解读 AI 领域反复学到的一课（2025）](202509/2025-09-15-%5B%E8%AF%91%5D-%E4%BB%8E-opendeepresearch-%E8%83%8C%E5%90%8E%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%BC%94%E8%BF%9B%EF%BC%8C%E8%A7%A3%E8%AF%BB-ai-%E9%A2%86%E5%9F%9F%E5%8F%8D%E5%A4%8D%E5%AD%A6%E5%88%B0%E7%9A%84%E4%B8%80%E8%AF%BE%EF%BC%882025%EF%BC%89.md)
   - 人工智能领域的核心教训是，大规模计算和通用方法比人工设计更有效。随着算力和数据增长，过多结构限制性能。工程与研究中应灵活适应模型进步，避免固守短期优化。
 - (2025-09-13) [Liquid Glass in the Browser: Refraction with CSS and SVG — kube.io](202509/2025-09-13-liquid-glass-in-the-browser-refraction-with-css-and-svg-%E2%80%94-kube.io.md)

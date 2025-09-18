@@ -4180,5 +4180,11 @@
     "title": "[译] 从 OpenDeepResearch 背后的设计演进，解读 AI 领域反复学到的一课（2025）",
     "url": "https://arthurchiao.github.io/blog/ai-bitter-lesson-zh/",
     "timestamp": 1757943694
+  },
+  {
+    "month": "202509",
+    "title": "From suspicion to published curl CVE",
+    "url": "https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/",
+    "timestamp": 1758206046
   }
 ]
