@@ -4186,5 +4186,11 @@
     "title": "From suspicion to published curl CVE",
     "url": "https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/",
     "timestamp": 1758206046
+  },
+  {
+    "month": "202509",
+    "title": "no-unused-binary-expressions: From code review nit to ecosystem improvements - ESLint - Pluggable JavaScript Linter",
+    "url": "https://eslint.org/blog/2024/10/code-review-nit-to-ecosystem-improvements/",
+    "timestamp": 1758292514
   }
 ]
