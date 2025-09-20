@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-20) [If you are good at code review, you will be good at using AI agents](202509/2025-09-20-if-you-are-good-at-code-review%2C-you-will-be-good-at-using-ai-agents.md)
+  - 文章强调，擅长代码审查的开发者能更好地监督AI编程助手（如Copilot）的输出，避免其产生无效或复杂的设计，从而提高开发效率和代码质量。当前AI工具尚未成熟，仍需人类主导判断和监督。
 - (2025-09-19) [no-unused-binary-expressions: From code review nit to ecosystem improvements - ESLint - Pluggable JavaScript Linter](202509/2025-09-19-no-unused-binary-expressions-from-code-review-nit-to-ecosystem-improvements---eslint---pluggable-javascript-linter.md)
   - 从代码审查发现启发，作者开发了ESLint规则 ，能检测逻辑错误。该规则经4年演进，被纳入ESLint和TypeScript，在大型代码库中发现近百个错误，展现了跨团队合作与开源社区共享的重要性。
 - (2025-09-18) [From suspicion to published curl CVE](202509/2025-09-18-from-suspicion-to-published-curl-cve.md)

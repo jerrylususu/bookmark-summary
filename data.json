@@ -4192,5 +4192,11 @@
     "title": "no-unused-binary-expressions: From code review nit to ecosystem improvements - ESLint - Pluggable JavaScript Linter",
     "url": "https://eslint.org/blog/2024/10/code-review-nit-to-ecosystem-improvements/",
     "timestamp": 1758292514
+  },
+  {
+    "month": "202509",
+    "title": "If you are good at code review, you will be good at using AI agents",
+    "url": "https://www.seangoedecke.com/ai-agents-and-code-review/",
+    "timestamp": 1758376847
   }
 ]
