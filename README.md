@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-22) [Beyond the Front Page: A Personal Guide to Hacker News](202509/2025-09-22-beyond-the-front-page-a-personal-guide-to-hacker-news.md)
+  - Hacker News通过极简设计、严格规则、算法管理和人工治理，在保持用户增长的同时维持了高质量讨论。其机制避免了“永恒的九月”问题，成为独特的技术社区案例。用户可借助工具化浏览和AI总结提升使用效率。
 - (2025-09-22) [Is AI the Ultimate Reinvention of the Wheel?](202509/2025-09-22-is-ai-the-ultimate-reinvention-of-the-wheel.md)
   - 人工智能无法突破训练数据边界，依赖人类提供信息，无法实现真正的自主探索。尽管技术改进可扩展上下文，但受计算成本和人脑复杂性限制，可能失去效率优势。AI的价值或许在于其高效解决特定问题，而非模仿人脑。
 - (2025-09-22) [The story of Musium](202509/2025-09-22-the-story-of-musium.md)
