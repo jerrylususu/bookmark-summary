@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-22) [Is AI the Ultimate Reinvention of the Wheel?](202509/2025-09-22-is-ai-the-ultimate-reinvention-of-the-wheel.md)
+  - 人工智能无法突破训练数据边界，依赖人类提供信息，无法实现真正的自主探索。尽管技术改进可扩展上下文，但受计算成本和人脑复杂性限制，可能失去效率优势。AI的价值或许在于其高效解决特定问题，而非模仿人脑。
 - (2025-09-22) [The story of Musium](202509/2025-09-22-the-story-of-musium.md)
   - Ruud van Asseldonk使用Rust和自研工具构建了基于树莓派的音乐播放器Musium，实现本地音乐播放、元数据搜索和个性化推荐，具备良好可控性，并持续优化功能。
 - (2025-09-20) [If you are good at code review, you will be good at using AI agents](202509/2025-09-20-if-you-are-good-at-code-review%2C-you-will-be-good-at-using-ai-agents.md)
