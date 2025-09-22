@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-22) [The story of Musium](202509/2025-09-22-the-story-of-musium.md)
+  - Ruud van Asseldonk使用Rust和自研工具构建了基于树莓派的音乐播放器Musium，实现本地音乐播放、元数据搜索和个性化推荐，具备良好可控性，并持续优化功能。
 - (2025-09-20) [If you are good at code review, you will be good at using AI agents](202509/2025-09-20-if-you-are-good-at-code-review%2C-you-will-be-good-at-using-ai-agents.md)
   - 文章强调，擅长代码审查的开发者能更好地监督AI编程助手（如Copilot）的输出，避免其产生无效或复杂的设计，从而提高开发效率和代码质量。当前AI工具尚未成熟，仍需人类主导判断和监督。
 - (2025-09-19) [no-unused-binary-expressions: From code review nit to ecosystem improvements - ESLint - Pluggable JavaScript Linter](202509/2025-09-19-no-unused-binary-expressions-from-code-review-nit-to-ecosystem-improvements---eslint---pluggable-javascript-linter.md)
