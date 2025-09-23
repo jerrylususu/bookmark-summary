@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-23) [People read your blog in many different ways](202509/2025-09-23-people-read-your-blog-in-many-different-ways.md)
+  - 作者呼吁创作者考虑阅读方式多样性，以提升内容可及性。读者存在浏览方式、语言能力、工具使用差异，许多人并不仔细阅读。建议使用简洁语言、分段排版，并参考无障碍指南持续优化。
 - (2025-09-22) [Beyond the Front Page: A Personal Guide to Hacker News](202509/2025-09-22-beyond-the-front-page-a-personal-guide-to-hacker-news.md)
   - Hacker News通过极简设计、严格规则、算法管理和人工治理，在保持用户增长的同时维持了高质量讨论。其机制避免了“永恒的九月”问题，成为独特的技术社区案例。用户可借助工具化浏览和AI总结提升使用效率。
 - (2025-09-22) [Is AI the Ultimate Reinvention of the Wheel?](202509/2025-09-22-is-ai-the-ultimate-reinvention-of-the-wheel.md)
