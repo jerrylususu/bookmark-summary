@@ -4222,5 +4222,11 @@
     "title": "People read your blog in many different ways",
     "url": "https://evanhahn.com/people-read-your-blog-in-many-different-ways/",
     "timestamp": 1758606544
+  },
+  {
+    "month": "202509",
+    "title": "What I learned building an AI-driven spaced repetition app",
+    "url": "https://www.seangoedecke.com/autodeck/",
+    "timestamp": 1758683481
   }
 ]
