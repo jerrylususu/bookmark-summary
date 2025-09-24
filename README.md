@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-24) [What I learned building an AI-driven spaced repetition app](202509/2025-09-24-what-i-learned-building-an-ai-driven-spaced-repetition-app.md)
+  - 文章介绍了一个基于AI的间隔重复学习应用AutoDeck，通过自动生成学习卡片和简化交互提升学习效率。技术实现中使用XML流式处理卡片生成，并采用付费模式应对AI成本。作者认为AI辅助开发仍需人工干预，中等AI模型更适合此类应用。
 - (2025-09-23) [People read your blog in many different ways](202509/2025-09-23-people-read-your-blog-in-many-different-ways.md)
   - 作者呼吁创作者考虑阅读方式多样性，以提升内容可及性。读者存在浏览方式、语言能力、工具使用差异，许多人并不仔细阅读。建议使用简洁语言、分段排版，并参考无障碍指南持续优化。
 - (2025-09-22) [Beyond the Front Page: A Personal Guide to Hacker News](202509/2025-09-22-beyond-the-front-page-a-personal-guide-to-hacker-news.md)
