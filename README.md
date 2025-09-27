@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-27) [Vibe Coding Cleanup as a Service](202509/2025-09-27-vibe-coding-cleanup-as-a-service.md)
+  - AI代码生成工具导致代码质量低、安全漏洞和架构混乱，催生了清理服务的市场需求。专业人士负责修复AI代码问题，市场潜力大，人机协作重塑开发流程。
 - (2025-09-27) [What actually happens when you use a CSS transform](202509/2025-09-27-what-actually-happens-when-you-use-a-css-transform.md)
   - CSS transform通过创建独立图层并启用硬件加速来提升动画性能，避免频繁重绘，但需注意避免滥用导致内存增加。这是解决Web动画性能的关键机制。
 - (2025-09-27) [Open Social — overreacted](202509/2025-09-27-open-social-%E2%80%94-overreacted.md)
