@@ -3,6 +3,8 @@
 
 ## 2025-09
 
+- (2025-09-27) [What actually happens when you use a CSS transform](202509/2025-09-27-what-actually-happens-when-you-use-a-css-transform.md)
+  - CSS transform通过创建独立图层并启用硬件加速来提升动画性能，避免频繁重绘，但需注意避免滥用导致内存增加。这是解决Web动画性能的关键机制。
 - (2025-09-27) [Open Social — overreacted](202509/2025-09-27-open-social-%E2%80%94-overreacted.md)
   - 文章类比开源软件，主张社交媒体数据应开源化：用户数据个人存储、去中心互联，打破平台垄断，促进创新与互操作性。
 - (2025-09-25) [基于 WASM 和 Word-RAM 模型的算法竞赛题目评测方案 - 博客 - yzy1的博客](202509/2025-09-25-%E5%9F%BA%E4%BA%8E-wasm-%E5%92%8C-word-ram-%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E9%A2%98%E7%9B%AE%E8%AF%84%E6%B5%8B%E6%96%B9%E6%A1%88---%E5%8D%9A%E5%AE%A2---yzy1%E7%9A%84%E5%8D%9A%E5%AE%A2.md)
