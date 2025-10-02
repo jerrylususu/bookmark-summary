@@ -4276,5 +4276,11 @@
     "title": "Designing agentic loops",
     "url": "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/",
     "timestamp": 1759412909
+  },
+  {
+    "month": "202510",
+    "title": "Spec-driven development: Using Markdown as a programming language when building with AI",
+    "url": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/",
+    "timestamp": 1759413261
   }
 ]
