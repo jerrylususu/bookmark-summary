@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-02) [Spec-driven development: Using Markdown as a programming language when building with AI](202510/2025-10-02-spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai.md)
+  - 本文提出一种基于Markdown的规格驱动开发模式，用Markdown编写应用需求与设计作为AI编程代理（如 Copilot）的输入，自动生成代码。这种方法提升文档代码一致性、支持跨语言移植，但在规模扩展和测试方面仍存挑战。
 - (2025-10-02) [Designing agentic loops](202510/2025-10-02-designing-agentic-loops.md)
   - 智能体循环是利用大型语言模型通过循环运行工具实现代码生成目标的关键技能。需在安全沙盒中运行，管理凭证风险，并选择明确任务场景，以最大化效率与安全性。
 - (2025-10-01) [Writing Code Is Easy. Reading It Isn’t.](202510/2025-10-01-writing-code-is-easy.-reading-it-isn%E2%80%99t..md)
