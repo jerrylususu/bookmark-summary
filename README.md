@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-04) [How I influence tech company politics as a staff software engineer](202510/2025-10-04-how-i-influence-tech-company-politics-as-a-staff-software-engineer.md)
+  - 软件工程师可通过参与高价值项目、利用高层关注提出技术方案并把握时机参与，良性影响公司决策，避免政治内耗，实现技术与目标的对齐。
 - (2025-10-02) [Spec-driven development: Using Markdown as a programming language when building with AI](202510/2025-10-02-spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai.md)
   - 本文提出一种基于Markdown的规格驱动开发模式，用Markdown编写应用需求与设计作为AI编程代理（如 Copilot）的输入，自动生成代码。这种方法提升文档代码一致性、支持跨语言移植，但在规模扩展和测试方面仍存挑战。
 - (2025-10-02) [Designing agentic loops](202510/2025-10-02-designing-agentic-loops.md)
