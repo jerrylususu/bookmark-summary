@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-06) [How I'm using coding agents in September, 2025](202510/2025-10-06-how-i%27m-using-coding-agents-in-september%2C-2025.md)
+  - 作者通过结构化多会话AI协作（设计、实施、审查）结合git隔离工作流程和工具链整合（如CodeRabbit），提升开发效率与代码质量，并强调设计细化和审查验证的重要性。
 - (2025-10-06) [Let the Model Write the Prompt](202510/2025-10-06-let-the-model-write-the-prompt.md)
   - DSPy框架通过编程方式定义任务，取代传统提示工程，实现任务与模型解耦。它优化提示生成，提升准确率与模型兼容性，简化代码维护并支持持续改进，适用于如地理空间数据合并等任务。
 - (2025-10-04) [How I influence tech company politics as a staff software engineer](202510/2025-10-04-how-i-influence-tech-company-politics-as-a-staff-software-engineer.md)
