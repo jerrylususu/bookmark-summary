@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-06) [LLMs as Parts of Systems - Marc's Blog](202510/2025-10-06-llms-as-parts-of-systems---marc%27s-blog.md)
+  - 大型语言模型（LLM）与外部工具（如代码解释器、SMT求解器）结合能构建更强大、高效的系统，整体效果超越单一LLM，符合“整体大于部分之和”的系统设计原则。
 - (2025-10-06) [云风的 BLOG: 深远未来开发总结](202510/2025-10-06-%E4%BA%91%E9%A3%8E%E7%9A%84-blog-%E6%B7%B1%E8%BF%9C%E6%9C%AA%E6%9D%A5%E5%BC%80%E5%8F%91%E6%80%BB%E7%BB%93.md)
   - 云风在7周内独立开发桌游《深远未来》，采用自研引擎，注重任务拆分与视觉反馈以维持热情，并通过开源协作加速开发。最终代码量约1.3万行，经验包括保持小规模开发、及早重构和利用社区贡献。
 - (2025-10-06) [How I'm using coding agents in September, 2025](202510/2025-10-06-how-i%27m-using-coding-agents-in-september%2C-2025.md)
