@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-06) [Let the Model Write the Prompt](202510/2025-10-06-let-the-model-write-the-prompt.md)
+  - DSPy框架通过编程方式定义任务，取代传统提示工程，实现任务与模型解耦。它优化提示生成，提升准确率与模型兼容性，简化代码维护并支持持续改进，适用于如地理空间数据合并等任务。
 - (2025-10-04) [How I influence tech company politics as a staff software engineer](202510/2025-10-04-how-i-influence-tech-company-politics-as-a-staff-software-engineer.md)
   - 软件工程师可通过参与高价值项目、利用高层关注提出技术方案并把握时机参与，良性影响公司决策，避免政治内耗，实现技术与目标的对齐。
 - (2025-10-02) [Spec-driven development: Using Markdown as a programming language when building with AI](202510/2025-10-02-spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai.md)
