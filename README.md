@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-06) [The History of Core Web Vitals](202510/2025-10-06-the-history-of-core-web-vitals.md)
+  - Core Web Vitals 是 Google 推出的核心网页体验评估指标，涵盖加载速度（LCP）、交互响应（FID）和视觉稳定性（CLS）。它作为搜索排名因素之一，促进开发者优化网站性能，提升了整体网络速度和用户体验。通过工具支持和数据开放，该指标成为衡量和推动网站性能的重要标准。
 - (2025-10-06) [LLMs as Parts of Systems - Marc's Blog](202510/2025-10-06-llms-as-parts-of-systems---marc%27s-blog.md)
   - 大型语言模型（LLM）与外部工具（如代码解释器、SMT求解器）结合能构建更强大、高效的系统，整体效果超越单一LLM，符合“整体大于部分之和”的系统设计原则。
 - (2025-10-06) [云风的 BLOG: 深远未来开发总结](202510/2025-10-06-%E4%BA%91%E9%A3%8E%E7%9A%84-blog-%E6%B7%B1%E8%BF%9C%E6%9C%AA%E6%9D%A5%E5%BC%80%E5%8F%91%E6%80%BB%E7%BB%93.md)
