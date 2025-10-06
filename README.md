@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-06) [You Want Technology With Warts](202510/2025-10-06-you-want-technology-with-warts.md)
+  - 文章主张选择带有已知“缺陷”的技术（如SQLite、HTML）可带来长期稳定性和低维护成本，因为“缺陷”代表成熟与兼容性，是减少未来变更风险的关键。
 - (2025-10-06) [The History of Core Web Vitals](202510/2025-10-06-the-history-of-core-web-vitals.md)
   - Core Web Vitals 是 Google 推出的核心网页体验评估指标，涵盖加载速度（LCP）、交互响应（FID）和视觉稳定性（CLS）。它作为搜索排名因素之一，促进开发者优化网站性能，提升了整体网络速度和用户体验。通过工具支持和数据开放，该指标成为衡量和推动网站性能的重要标准。
 - (2025-10-06) [LLMs as Parts of Systems - Marc's Blog](202510/2025-10-06-llms-as-parts-of-systems---marc%27s-blog.md)
