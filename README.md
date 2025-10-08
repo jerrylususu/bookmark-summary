@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-08) [Vibe engineering](202510/2025-10-08-vibe-engineering.md)
+  - Vibe engineering是一种由经验丰富的工程师主导的AI辅助开发方式，强调对软件质量和流程的高度控制，需要结合传统软件工程最佳实践（如测试、文档、审查等）与LLM工具的高效协作，以提升开发的专业性和产出质量。
 - (2025-10-06) [You Want Technology With Warts](202510/2025-10-06-you-want-technology-with-warts.md)
   - 文章主张选择带有已知“缺陷”的技术（如SQLite、HTML）可带来长期稳定性和低维护成本，因为“缺陷”代表成熟与兼容性，是减少未来变更风险的关键。
 - (2025-10-06) [The History of Core Web Vitals](202510/2025-10-06-the-history-of-core-web-vitals.md)
