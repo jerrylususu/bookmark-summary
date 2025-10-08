@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-08) [Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises](202510/2025-10-08-why-mcp%E2%80%99s-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises.md)
+  - MCP 被标榜为 AI 领域通用协议，但其设计忽视分布式系统的成熟经验，类型安全、状态管理、安全性和可观测性等方面存在缺陷，可能给企业带来安全漏洞、运维负担与集成风险，需尽快整合 RPC 工具链的最佳实践。
 - (2025-10-08) [为什么OpenAI Apps SDK对MCP的支持反而是MCP的危机](202510/2025-10-08-%E4%B8%BA%E4%BB%80%E4%B9%88openai-apps-sdk%E5%AF%B9mcp%E7%9A%84%E6%94%AF%E6%8C%81%E5%8F%8D%E8%80%8C%E6%98%AFmcp%E7%9A%84%E5%8D%B1%E6%9C%BA.md)
   - OpenAI的Apps SDK扩展了MCP，引入私有dialect以绕过context window限制，但导致协议分裂和生态绑定。MCP面临设计偏科研、缺乏工程考量的问题，可能走向类似SQL的厂商碎片化。未来或出现更高层抽象协议来统一变种，结果取决于技术演进和厂商博弈。
 - (2025-10-08) [三十五](202510/2025-10-08-%E4%B8%89%E5%8D%81%E4%BA%94.md)
