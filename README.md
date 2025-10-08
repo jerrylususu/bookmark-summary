@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-08) [为什么OpenAI Apps SDK对MCP的支持反而是MCP的危机](202510/2025-10-08-%E4%B8%BA%E4%BB%80%E4%B9%88openai-apps-sdk%E5%AF%B9mcp%E7%9A%84%E6%94%AF%E6%8C%81%E5%8F%8D%E8%80%8C%E6%98%AFmcp%E7%9A%84%E5%8D%B1%E6%9C%BA.md)
+  - OpenAI的Apps SDK扩展了MCP，引入私有dialect以绕过context window限制，但导致协议分裂和生态绑定。MCP面临设计偏科研、缺乏工程考量的问题，可能走向类似SQL的厂商碎片化。未来或出现更高层抽象协议来统一变种，结果取决于技术演进和厂商博弈。
 - (2025-10-08) [三十五](202510/2025-10-08-%E4%B8%89%E5%8D%81%E4%BA%94.md)
   - 作者以十年经历反思成长，从追逐外部成功的“有限游戏”转向构建自我系统的“无限游戏”，强调依靠工具和流程实现决策理性化、能力复用与持续迭代，追求可持续的半退休生活。
 - (2025-10-08) [Which Table Format Do LLMs Understand Best? (Results for 11 Formats)](202510/2025-10-08-which-table-format-do-llms-understand-best-%28results-for-11-formats%29.md)
