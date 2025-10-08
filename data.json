@@ -4336,5 +4336,11 @@
     "title": "How to *actually* test your readme",
     "url": "https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/",
     "timestamp": 1759890741
+  },
+  {
+    "month": "202510",
+    "title": "Which Table Format Do LLMs Understand Best? (Results for 11 Formats)",
+    "url": "https://improvingagents.com/blog/best-input-data-format-for-llms",
+    "timestamp": 1759890993
   }
 ]

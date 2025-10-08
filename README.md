@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-08) [Which Table Format Do LLMs Understand Best? (Results for 11 Formats)](202510/2025-10-08-which-table-format-do-llms-understand-best-%28results-for-11-formats%29.md)
+  - 研究发现表格数据格式显著影响LLM理解能力。Markdown-KV准确率最高但不经济，CSV和JSONL成本低但准确性较差。推荐根据需求选择格式，优先考虑Markdown相关方案，避免默认使用CSV或JSONL。
 - (2025-10-08) [How to *actually* test your readme](202510/2025-10-08-how-to-actually-test-your-readme.md)
   - 在空白虚拟机中测试README，按步骤操作并记录命令，适配不同用户水平，确保安装过程可重现，提升文档可靠性。
 - (2025-10-08) [Vibe engineering](202510/2025-10-08-vibe-engineering.md)
