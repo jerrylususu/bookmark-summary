@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-08) [How to *actually* test your readme](202510/2025-10-08-how-to-actually-test-your-readme.md)
+  - 在空白虚拟机中测试README，按步骤操作并记录命令，适配不同用户水平，确保安装过程可重现，提升文档可靠性。
 - (2025-10-08) [Vibe engineering](202510/2025-10-08-vibe-engineering.md)
   - Vibe engineering是一种由经验丰富的工程师主导的AI辅助开发方式，强调对软件质量和流程的高度控制，需要结合传统软件工程最佳实践（如测试、文档、审查等）与LLM工具的高效协作，以提升开发的专业性和产出质量。
 - (2025-10-06) [You Want Technology With Warts](202510/2025-10-06-you-want-technology-with-warts.md)
