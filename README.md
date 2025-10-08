@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-08) [三十五](202510/2025-10-08-%E4%B8%89%E5%8D%81%E4%BA%94.md)
+  - 作者以十年经历反思成长，从追逐外部成功的“有限游戏”转向构建自我系统的“无限游戏”，强调依靠工具和流程实现决策理性化、能力复用与持续迭代，追求可持续的半退休生活。
 - (2025-10-08) [Which Table Format Do LLMs Understand Best? (Results for 11 Formats)](202510/2025-10-08-which-table-format-do-llms-understand-best-%28results-for-11-formats%29.md)
   - 研究发现表格数据格式显著影响LLM理解能力。Markdown-KV准确率最高但不经济，CSV和JSONL成本低但准确性较差。推荐根据需求选择格式，优先考虑Markdown相关方案，避免默认使用CSV或JSONL。
 - (2025-10-08) [How to *actually* test your readme](202510/2025-10-08-how-to-actually-test-your-readme.md)
