@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-09) [工程师如何更好投资 - Tw93](202510/2025-10-09-%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%A6%82%E4%BD%95%E6%9B%B4%E5%A5%BD%E6%8A%95%E8%B5%84---tw93.md)
+  - 这是一篇工程师分享投资经验的非正式总结，强调投资风险自担、内容仅供参考，并提供相关图片和PDF资源。核心提醒：理财有风险，投资需谨慎。
 - (2025-10-08) [Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises](202510/2025-10-08-why-mcp%E2%80%99s-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises.md)
   - MCP 被标榜为 AI 领域通用协议，但其设计忽视分布式系统的成熟经验，类型安全、状态管理、安全性和可观测性等方面存在缺陷，可能给企业带来安全漏洞、运维负担与集成风险，需尽快整合 RPC 工具链的最佳实践。
 - (2025-10-08) [为什么OpenAI Apps SDK对MCP的支持反而是MCP的危机](202510/2025-10-08-%E4%B8%BA%E4%BB%80%E4%B9%88openai-apps-sdk%E5%AF%B9mcp%E7%9A%84%E6%94%AF%E6%8C%81%E5%8F%8D%E8%80%8C%E6%98%AFmcp%E7%9A%84%E5%8D%B1%E6%9C%BA.md)
