@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-10) [A new breed of analyzers](202510/2025-10-10-a-new-breed-of-analyzers.md)
+  - 本文以curl项目为例，展示了AI代码分析工具的积极影响。AI工具高效发现了代码漏洞和问题，误报率低，覆盖范围广，为大型开源项目提供高质量辅助。尽管带来维护负担且尚未颠覆开发流程，但AI分析代表了代码审查技术的自然演进，未来有望集成进CI流程。
 - (2025-10-09) [工程师如何更好投资 - Tw93](202510/2025-10-09-%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%A6%82%E4%BD%95%E6%9B%B4%E5%A5%BD%E6%8A%95%E8%B5%84---tw93.md)
   - 这是一篇工程师分享投资经验的非正式总结，强调投资风险自担、内容仅供参考，并提供相关图片和PDF资源。核心提醒：理财有风险，投资需谨慎。
 - (2025-10-08) [Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises](202510/2025-10-08-why-mcp%E2%80%99s-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises.md)
