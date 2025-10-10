@@ -4372,5 +4372,11 @@
     "title": "A new breed of analyzers",
     "url": "https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/",
     "timestamp": 1760104430
+  },
+  {
+    "month": "202510",
+    "title": "Finding a VS Code Memory Leak",
+    "url": "https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/",
+    "timestamp": 1760105146
   }
 ]
