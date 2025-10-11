@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-11) [Quick and dirty bar-charts using HTML's meter element](202510/2025-10-11-quick-and-dirty-bar-charts-using-html%27s-meter-element.md)
+  - 这篇文章介绍了一种利用HTML的元素和CSS的属性创建简易垂直条形图的轻量级方法。该方法无需依赖外部库，支持样式定制和交互，简单实用但样式较为基础。
 - (2025-10-10) [Finding a VS Code Memory Leak](202510/2025-10-10-finding-a-vs-code-memory-leak.md)
   - 作者Bruce Dawson通过观察同事电脑的高进程ID，发现VS Code因未关闭进程句柄导致内存泄漏。问题源于代码中忘记调用。经ETW分析后迅速修复，凸显资源管理和RAII重要性。
 - (2025-10-10) [A new breed of analyzers](202510/2025-10-10-a-new-breed-of-analyzers.md)
