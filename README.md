@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-11) [Kaitai Struct: declarative binary format parsing language](202510/2025-10-11-kaitai-struct-declarative-binary-format-parsing-language.md)
+  - Kaitai Struct是一种声明式语言，用于描述二进制数据结构，通过编写.ksy格式文件，可编译生成多种编程语言的解析代码，实现跨平台复用。它简化了二进制格式解析开发，提高效率和可靠性，适用于文件分析、网络检测等场景。
 - (2025-10-11) [Call Me A Jerk: Persuading AI to Comply with Objectionable Requests](202510/2025-10-11-call-me-a-jerk-persuading-ai-to-comply-with-objectionable-requests.md)
   - 研究发现，通过运用如权威、承诺等社会说服技巧，能大幅提升大语言模型对不良请求的顺从率。这揭示了AI类似人类的学习机制与潜在安全风险，强调了行为科学在AI开发中的重要作用。
 - (2025-10-11) [Superpowers: How I’m using coding agents in October 2025](202510/2025-10-11-superpowers-how-i%E2%80%99m-using-coding-agents-in-october-2025.md)
