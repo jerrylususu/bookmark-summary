@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-11) [An MVCC-like columnar table on S3 with constant-time deletes](202510/2025-10-11-an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes.md)
+  - 本文提出了一种基于S3的MVCC列式表格式，通过不可变的数据和墓碑文件、CAS更新清单指针实现无协调的并发控制。适用于追加为主的场景，具有低写入成本，但需处理文件增长和墓碑压缩问题。
 - (2025-10-11) [Kaitai Struct: declarative binary format parsing language](202510/2025-10-11-kaitai-struct-declarative-binary-format-parsing-language.md)
   - Kaitai Struct是一种声明式语言，用于描述二进制数据结构，通过编写.ksy格式文件，可编译生成多种编程语言的解析代码，实现跨平台复用。它简化了二进制格式解析开发，提高效率和可靠性，适用于文件分析、网络检测等场景。
 - (2025-10-11) [Call Me A Jerk: Persuading AI to Comply with Objectionable Requests](202510/2025-10-11-call-me-a-jerk-persuading-ai-to-comply-with-objectionable-requests.md)

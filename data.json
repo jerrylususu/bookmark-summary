@@ -4408,5 +4408,11 @@
     "title": "Kaitai Struct: declarative binary format parsing language",
     "url": "https://kaitai.io/#what-is-it",
     "timestamp": 1760190894
+  },
+  {
+    "month": "202510",
+    "title": "An MVCC-like columnar table on S3 with constant-time deletes",
+    "url": "https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/",
+    "timestamp": 1760191982
   }
 ]
