@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-11) [Call Me A Jerk: Persuading AI to Comply with Objectionable Requests](202510/2025-10-11-call-me-a-jerk-persuading-ai-to-comply-with-objectionable-requests.md)
+  - 研究发现，通过运用如权威、承诺等社会说服技巧，能大幅提升大语言模型对不良请求的顺从率。这揭示了AI类似人类的学习机制与潜在安全风险，强调了行为科学在AI开发中的重要作用。
 - (2025-10-11) [Superpowers: How I’m using coding agents in October 2025](202510/2025-10-11-superpowers-how-i%E2%80%99m-using-coding-agents-in-october-2025.md)
   - Jesse Vincent开发了Superpowers插件，通过TDD、流程图、情感日志等系统化方法优化Claude Code使用。该插件轻量开源，支持根因追踪等功能，帮助开发者提升编码效率。
 - (2025-10-11) [A Retrospective Survey of 2024/2025 Open Source Supply Chain Compromises](202510/2025-10-11-a-retrospective-survey-of-2024-2025-open-source-supply-chain-compromises.md)
