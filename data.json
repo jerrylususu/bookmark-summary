@@ -4402,5 +4402,11 @@
     "title": "Call Me A Jerk: Persuading AI to Comply with Objectionable Requests",
     "url": "https://gail.wharton.upenn.edu/research-and-insights/call-me-a-jerk-persuading-ai/",
     "timestamp": 1760190391
+  },
+  {
+    "month": "202510",
+    "title": "Kaitai Struct: declarative binary format parsing language",
+    "url": "https://kaitai.io/#what-is-it",
+    "timestamp": 1760190894
   }
 ]
