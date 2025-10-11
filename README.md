@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-11) [Superpowers: How I’m using coding agents in October 2025](202510/2025-10-11-superpowers-how-i%E2%80%99m-using-coding-agents-in-october-2025.md)
+  - Jesse Vincent开发了Superpowers插件，通过TDD、流程图、情感日志等系统化方法优化Claude Code使用。该插件轻量开源，支持根因追踪等功能，帮助开发者提升编码效率。
 - (2025-10-11) [A Retrospective Survey of 2024/2025 Open Source Supply Chain Compromises](202510/2025-10-11-a-retrospective-survey-of-2024-2025-open-source-supply-chain-compromises.md)
   - 2024-2025年开源供应链攻击主要涉及钓鱼、项目控制权转让、高危CI触发器和凭证泄露。建议维护者强制启用防钓鱼认证，严格管控权限，弃用危险CI触发器，以增强项目安全性。
 - (2025-10-11) [Quick and dirty bar-charts using HTML's meter element](202510/2025-10-11-quick-and-dirty-bar-charts-using-html%27s-meter-element.md)
