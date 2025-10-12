@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-12) [URL Design · by Kyle Neath](202510/2025-10-12-url-design-%C2%B7-by-kyle-neath.md)
+  - URL设计对网站可用性至关重要，应精心规划而非随意生成。建议使用简洁可读的URL结构、稳定命名空间和查询字符串，并确保每个页面有唯一URL。发布后保持URL稳定，利用HTML5 API管理动态内容。关键在于平衡技术实现与用户体验。
 - (2025-10-12) [Vibing a Non-Trivial Ghostty Feature](202510/2025-10-12-vibing-a-non-trivial-ghostty-feature.md)
   - 作者Mitchellh分享使用AI辅助开发Ghostty的非侵入式macOS自动更新功能。通过拆分任务、AI生成UI原型与代码框架，并在8小时内完成开发，强调AI作为辅助工具需人工主导审核，避免更新提示打断用户。
 - (2025-10-12) [How I provide technical clarity to non-technical leaders](202510/2025-10-12-how-i-provide-technical-clarity-to-non-technical-leaders.md)
