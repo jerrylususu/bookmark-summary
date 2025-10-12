@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-12) [Vibing a Non-Trivial Ghostty Feature](202510/2025-10-12-vibing-a-non-trivial-ghostty-feature.md)
+  - 作者Mitchellh分享使用AI辅助开发Ghostty的非侵入式macOS自动更新功能。通过拆分任务、AI生成UI原型与代码框架，并在8小时内完成开发，强调AI作为辅助工具需人工主导审核，避免更新提示打断用户。
 - (2025-10-12) [How I provide technical clarity to non-technical leaders](202510/2025-10-12-how-i-provide-technical-clarity-to-non-technical-leaders.md)
   - 技术清晰度指让非技术决策者理解软件系统，以做出明智变更决策。它通过简化沟通、隐藏复杂性实现，需要工程师具备良好判断力、技术深度和沟通自信，从而提升组织整体效能。
 - (2025-10-11) [An MVCC-like columnar table on S3 with constant-time deletes](202510/2025-10-11-an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes.md)
