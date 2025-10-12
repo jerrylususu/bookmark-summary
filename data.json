@@ -4414,5 +4414,11 @@
     "title": "An MVCC-like columnar table on S3 with constant-time deletes",
     "url": "https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/",
     "timestamp": 1760191982
+  },
+  {
+    "month": "202510",
+    "title": "How I provide technical clarity to non-technical leaders",
+    "url": "https://www.seangoedecke.com/clarity/",
+    "timestamp": 1760266649
   }
 ]

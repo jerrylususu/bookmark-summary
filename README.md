@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-12) [How I provide technical clarity to non-technical leaders](202510/2025-10-12-how-i-provide-technical-clarity-to-non-technical-leaders.md)
+  - 技术清晰度指让非技术决策者理解软件系统，以做出明智变更决策。它通过简化沟通、隐藏复杂性实现，需要工程师具备良好判断力、技术深度和沟通自信，从而提升组织整体效能。
 - (2025-10-11) [An MVCC-like columnar table on S3 with constant-time deletes](202510/2025-10-11-an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes.md)
   - 本文提出了一种基于S3的MVCC列式表格式，通过不可变的数据和墓碑文件、CAS更新清单指针实现无协调的并发控制。适用于追加为主的场景，具有低写入成本，但需处理文件增长和墓碑压缩问题。
 - (2025-10-11) [Kaitai Struct: declarative binary format parsing language](202510/2025-10-11-kaitai-struct-declarative-binary-format-parsing-language.md)
