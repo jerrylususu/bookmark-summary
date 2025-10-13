@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-13) [Abstraction, not syntax](202510/2025-10-13-abstraction%2C-not-syntax.md)
+  - 配置格式的核心不是句法之争，而在于通过编程抽象（如循环、公式）消除重复，提升维护性。支持抽象的语言虽可能增加复杂性，但在复杂场景中优势显著。
 - (2025-10-12) [URL Design · by Kyle Neath](202510/2025-10-12-url-design-%C2%B7-by-kyle-neath.md)
   - URL设计对网站可用性至关重要，应精心规划而非随意生成。建议使用简洁可读的URL结构、稳定命名空间和查询字符串，并确保每个页面有唯一URL。发布后保持URL稳定，利用HTML5 API管理动态内容。关键在于平衡技术实现与用户体验。
 - (2025-10-12) [Vibing a Non-Trivial Ghostty Feature](202510/2025-10-12-vibing-a-non-trivial-ghostty-feature.md)
