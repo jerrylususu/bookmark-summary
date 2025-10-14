@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-14) [How to build reliable AI workflows with agentic primitives and context engineering](202510/2025-10-14-how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering.md)
+  - 本文提出构建可靠AI工作流的三层框架：Markdown提示工程、代理原语系统化与上下文工程管理，结合工具链和包管理支持，旨在实现AI开发从实验到可重复工程实践的转变，提升可预测性与可扩展性。
 - (2025-10-13) [Abstraction, not syntax](202510/2025-10-13-abstraction%2C-not-syntax.md)
   - 配置格式的核心不是句法之争，而在于通过编程抽象（如循环、公式）消除重复，提升维护性。支持抽象的语言虽可能增加复杂性，但在复杂场景中优势显著。
 - (2025-10-12) [URL Design · by Kyle Neath](202510/2025-10-12-url-design-%C2%B7-by-kyle-neath.md)

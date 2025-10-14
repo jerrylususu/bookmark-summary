@@ -4438,5 +4438,11 @@
     "title": "Abstraction, not syntax",
     "url": "https://ruudvanasseldonk.com/2025/abstraction-not-syntax",
     "timestamp": 1760364351
+  },
+  {
+    "month": "202510",
+    "title": "How to build reliable AI workflows with agentic primitives and context engineering",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering/",
+    "timestamp": 1760451793
   }
 ]
