@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-15) [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger](202510/2025-10-15-just-talk-to-it---the-no-bs-way-of-agentic-engineering-peter-steinberger.md)
+  - Peter Steinberger分享了基于GPT-5-codex的代理人工程实践经验，强调"直接对话"的高效工作流。他使用codex CLI并行处理任务，通过截图简化提示，自动管理代码提交与重构。主张避免过度工程化，认为Claude等工具效率低下，推荐通过自然对话协作，保持工作流简洁直观。
 - (2025-10-14) [How to build reliable AI workflows with agentic primitives and context engineering](202510/2025-10-14-how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering.md)
   - 本文提出构建可靠AI工作流的三层框架：Markdown提示工程、代理原语系统化与上下文工程管理，结合工具链和包管理支持，旨在实现AI开发从实验到可重复工程实践的转变，提升可预测性与可扩展性。
 - (2025-10-13) [Abstraction, not syntax](202510/2025-10-13-abstraction%2C-not-syntax.md)
