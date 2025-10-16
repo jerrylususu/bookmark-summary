@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-16) [I am sorry, but everyone is getting syntax highlighting wrong](202510/2025-10-16-i-am-sorry%2C-but-everyone-is-getting-syntax-highlighting-wrong.md)
+  - 文章批评了语法高亮的滥用问题，指出过度高亮和颜色种类过多会降低代码识别效率。提出了限制颜色数量、选择性高亮关键元素及优化视觉效果等原则，并给出了实践案例。强调语法高亮应注重实用性，而非装饰性。
 - (2025-10-15) [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger](202510/2025-10-15-just-talk-to-it---the-no-bs-way-of-agentic-engineering-peter-steinberger.md)
   - Peter Steinberger分享了基于GPT-5-codex的代理人工程实践经验，强调"直接对话"的高效工作流。他使用codex CLI并行处理任务，通过截图简化提示，自动管理代码提交与重构。主张避免过度工程化，认为Claude等工具效率低下，推荐通过自然对话协作，保持工作流简洁直观。
 - (2025-10-14) [How to build reliable AI workflows with agentic primitives and context engineering](202510/2025-10-14-how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering.md)
