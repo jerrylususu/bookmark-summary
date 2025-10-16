@@ -4456,5 +4456,11 @@
     "title": "I am sorry, but everyone is getting syntax highlighting wrong",
     "url": "https://tonsky.me/blog/syntax-highlighting/",
     "timestamp": 1760625732
+  },
+  {
+    "month": "202510",
+    "title": "How We Use AI Agents for COBOL Migration and Mainframe Modernization | All things Azure",
+    "url": "https://devblogs.microsoft.com/all-things-azure/how-we-use-ai-agents-for-cobol-migration-and-mainframe-modernization/",
+    "timestamp": 1760626679
   }
 ]
