@@ -4462,5 +4462,11 @@
     "title": "How We Use AI Agents for COBOL Migration and Mainframe Modernization | All things Azure",
     "url": "https://devblogs.microsoft.com/all-things-azure/how-we-use-ai-agents-for-cobol-migration-and-mainframe-modernization/",
     "timestamp": 1760626679
+  },
+  {
+    "month": "202510",
+    "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
+    "url": "https://simonwillison.net/2025/Oct/16/claude-skills/",
+    "timestamp": 1760707043
   }
 ]

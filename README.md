@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-17) [Claude Skills are awesome, maybe a bigger deal than MCP](202510/2025-10-17-claude-skills-are-awesome%2C-maybe-a-bigger-deal-than-mcp.md)
+  - Claude Skills是Anthropic推出的轻量化AI技能框架，通过Markdown文件和脚本即可扩展模型的专业任务能力。相比复杂协议MCP，它具有简单高效、跨模型通用的优势，未来或引发技能生态爆发式增长。设计核心在于利用模型自主推理能力，降低开发门槛。
 - (2025-10-16) [How We Use AI Agents for COBOL Migration and Mainframe Modernization | All things Azure](202510/2025-10-16-how-we-use-ai-agents-for-cobol-migration-and-mainframe-modernization-all-things-azure.md)
   - 微软推出CAMF框架，利用多个AI智能体协作实现COBOL代码向Java的自动化迁移，解决了COBOL系统现代化中的专家稀缺和成本高的问题，已在真实项目中验证可行性，并可扩展至其他遗留系统改造。
 - (2025-10-16) [I am sorry, but everyone is getting syntax highlighting wrong](202510/2025-10-16-i-am-sorry%2C-but-everyone-is-getting-syntax-highlighting-wrong.md)
