@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-18) [The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements](202510/2025-10-18-the-temporal-dead-zone%2C-or-why-the-typescript-codebase-is-littered-with-var-statements.md)
+  - TypeScript代码库为优化约8%性能，选择使用存在缺陷的语句替代/，以规避变量时空死区带来的运行时开销。尽管现代JavaScript推荐使用更安全的块级作用域声明，但出于性能权衡仍保留。
 - (2025-10-18) [Use weird tests to capture tacit knowledge](202510/2025-10-18-use-weird-tests-to-capture-tacit-knowledge.md)
   - 通过测试捕获代码库隐性知识，如用棘轮测试检查新增模块配置、验证枚举文档完整性，将约束自动化。测试兼具文档和左移流程作用，降低查阅成本并提前发现问题。方法简单高效，适合替代临时脚本。
 - (2025-10-18) [Solving NYT's Pips Puzzle](202510/2025-10-18-solving-nyt%27s-pips-puzzle.md)
