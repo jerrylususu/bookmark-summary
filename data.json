@@ -4504,5 +4504,11 @@
     "title": "The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements",
     "url": "https://vincentrolfs.dev/blog/ts-var",
     "timestamp": 1760801719
+  },
+  {
+    "month": "202510",
+    "title": "Revocation Confusion",
+    "url": "https://nullpxl.com/post/revocation-confusion/",
+    "timestamp": 1760801824
   }
 ]
