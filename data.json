@@ -4498,5 +4498,11 @@
     "title": "Use weird tests to capture tacit knowledge",
     "url": "https://jmduke.com/posts/post/weird-tests-tacit-knowledge/",
     "timestamp": 1760798797
+  },
+  {
+    "month": "202510",
+    "title": "The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements",
+    "url": "https://vincentrolfs.dev/blog/ts-var",
+    "timestamp": 1760801719
   }
 ]
