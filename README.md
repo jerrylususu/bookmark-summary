@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-18) [Building an Agent That Leverages Throwaway Code](202510/2025-10-18-building-an-agent-that-leverages-throwaway-code.md)
+  - 本文介绍利用Pyodide（WebAssembly版Python）构建智能体的方法，通过写入临时代码解决复杂任务。虚拟文件系统实现安全资源交互；持久化执行确保任务可恢复。此方法简单高效，已有类似应用实践。
 - (2025-10-17) [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](202510/2025-10-17-how-a-20-year-old-bug-in-gta-san-andreas-surfaced-in-windows-11-24h2.md)
   - Windows 11 24H2更新暴露了《GTA圣安地列斯》中长达20年的隐藏bug，导致Skimmer水上飞机无法生成。原因是游戏配置文件缺失参数，加上Windows系统更新改变了栈空间使用方式，使未初始化变量异常扩大。修复方法可通过社区补丁或手动修改配置文件解决，突显代码健壮性和社区维护的重要性。
 - (2025-10-17) [Claude Skills are awesome, maybe a bigger deal than MCP](202510/2025-10-17-claude-skills-are-awesome%2C-maybe-a-bigger-deal-than-mcp.md)
