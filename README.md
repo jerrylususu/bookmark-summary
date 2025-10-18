@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-18) [Use weird tests to capture tacit knowledge](202510/2025-10-18-use-weird-tests-to-capture-tacit-knowledge.md)
+  - 通过测试捕获代码库隐性知识，如用棘轮测试检查新增模块配置、验证枚举文档完整性，将约束自动化。测试兼具文档和左移流程作用，降低查阅成本并提前发现问题。方法简单高效，适合替代临时脚本。
 - (2025-10-18) [Solving NYT's Pips Puzzle](202510/2025-10-18-solving-nyt%27s-pips-puzzle.md)
   - 本文介绍了作者开发的《纽约时报》Pips 拼图求解器，包括游戏规则、深度优先搜索算法实现，以及通过剪枝、骨牌方向重复跳过和智能区域检查等优化手段，将节点数从21337降至1355，并实现交互式界面。
 - (2025-10-18) [怎么让AI不偷懒：为Codex构建系统性的Wide Research能力](202510/2025-10-18-%E6%80%8E%E4%B9%88%E8%AE%A9ai%E4%B8%8D%E5%81%B7%E6%87%92%EF%BC%9A%E4%B8%BAcodex%E6%9E%84%E5%BB%BA%E7%B3%BB%E7%BB%9F%E6%80%A7%E7%9A%84wide-research%E8%83%BD%E5%8A%9B.md)
