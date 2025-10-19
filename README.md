@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-19) [Diskcache, more than caching](202510/2025-10-19-diskcache%2C-more-than-caching.md)
+  - Diskcache是基于SQLite的Python键值存储库，支持缓存、事务、标签、队列、锁等高级功能，适用于多进程并发环境。具备函数缓存、防惊群机制和流量控制等工具，轻量高效，适合中小型应用开发。
 - (2025-10-19) [What have we learned about building agentic AI tools?](202510/2025-10-19-what-have-we-learned-about-building-agentic-ai-tools.md)
   - 智能体化编程工具在2025年成熟，得益于模型和框架的优化。关键设计包括：先规划后行动、嵌套规则定制、支持插件和用户中断引导。未来将面临新设计和无监督智能体流程的挑战。
 - (2025-10-18) [Revocation Confusion](202510/2025-10-18-revocation-confusion.md)
