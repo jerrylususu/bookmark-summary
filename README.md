@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-19) [What have we learned about building agentic AI tools?](202510/2025-10-19-what-have-we-learned-about-building-agentic-ai-tools.md)
+  - 智能体化编程工具在2025年成熟，得益于模型和框架的优化。关键设计包括：先规划后行动、嵌套规则定制、支持插件和用户中断引导。未来将面临新设计和无监督智能体流程的挑战。
 - (2025-10-18) [Revocation Confusion](202510/2025-10-18-revocation-confusion.md)
   - 这篇短文通过Flair航空网站案例，分析了SSL证书吊销问题。文章指出，浏览器对吊销证书处理不一（如Firefox拦截而Chrome忽略），导致用户困惑，并强调需改进证书机制和浏览器一致性以平衡安全与体验。
 - (2025-10-18) [The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements](202510/2025-10-18-the-temporal-dead-zone%2C-or-why-the-typescript-codebase-is-littered-with-var-statements.md)
