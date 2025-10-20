@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-20) [An Opinionated Guide to Using AI Right Now](202510/2025-10-20-an-opinionated-guide-to-using-ai-right-now.md)
+  - 本文对比主流AI工具（如ChatGPT、Claude、Gemini）的免费与付费方案，强调基于需求选择模型：免费版适合日常，付费版提供更强处理能力。使用技巧包括开启深度搜索、利用文件处理功能，并注意AI可能出错。建议多尝试，关注实际应用而非技术本身。
 - (2025-10-19) [Diskcache, more than caching](202510/2025-10-19-diskcache%2C-more-than-caching.md)
   - Diskcache是基于SQLite的Python键值存储库，支持缓存、事务、标签、队列、锁等高级功能，适用于多进程并发环境。具备函数缓存、防惊群机制和流量控制等工具，轻量高效，适合中小型应用开发。
 - (2025-10-19) [What have we learned about building agentic AI tools?](202510/2025-10-19-what-have-we-learned-about-building-agentic-ai-tools.md)
