@@ -4528,5 +4528,11 @@
     "title": "An Opinionated Guide to Using AI Right Now",
     "url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai",
     "timestamp": 1760968896
+  },
+  {
+    "month": "202510",
+    "title": "Getting DeepSeek-OCR working on an NVIDIA Spark via brute force using Claude Code",
+    "url": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
+    "timestamp": 1761053664
   }
 ]
