@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-21) [Should LLMs just treat text content as an image?](202510/2025-10-21-should-llms-just-treat-text-content-as-an-image.md)
+  - 光学压缩将文本转为图像输入多模态大模型，有望提升数据处理效率。这种图像令牌比文本令牌更高效，类似人类视觉处理方式。虽有应用探索，但训练难度与效果仍需验证，潜力待进一步研究。
 - (2025-10-21) [Claude Code for web—a new asynchronous coding agent from Anthropic](202510/2025-10-21-claude-code-for-web%E2%80%94a-new-asynchronous-coding-agent-from-anthropic.md)
   - Anthropic于2025年10月推出Claude Code for web异步编码代理，支持GitHub仓库操作与网络隔离沙盒环境。该工具提供简单任务部署、性能测试及本地CLI同步功能，通过容器化服务兼顾效率与安全性，适合快速开发测试。
 - (2025-10-21) [Getting DeepSeek-OCR working on an NVIDIA Spark via brute force using Claude Code](202510/2025-10-21-getting-deepseek-ocr-working-on-an-nvidia-spark-via-brute-force-using-claude-code.md)
