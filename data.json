@@ -4534,5 +4534,11 @@
     "title": "Getting DeepSeek-OCR working on an NVIDIA Spark via brute force using Claude Code",
     "url": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
     "timestamp": 1761053664
+  },
+  {
+    "month": "202510",
+    "title": "Claude Code for web—a new asynchronous coding agent from Anthropic",
+    "url": "https://simonwillison.net/2025/Oct/20/claude-code-for-web/",
+    "timestamp": 1761053904
   }
 ]

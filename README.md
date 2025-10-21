@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-21) [Claude Code for web—a new asynchronous coding agent from Anthropic](202510/2025-10-21-claude-code-for-web%E2%80%94a-new-asynchronous-coding-agent-from-anthropic.md)
+  - Anthropic于2025年10月推出Claude Code for web异步编码代理，支持GitHub仓库操作与网络隔离沙盒环境。该工具提供简单任务部署、性能测试及本地CLI同步功能，通过容器化服务兼顾效率与安全性，适合快速开发测试。
 - (2025-10-21) [Getting DeepSeek-OCR working on an NVIDIA Spark via brute force using Claude Code](202510/2025-10-21-getting-deepseek-ocr-working-on-an-nvidia-spark-via-brute-force-using-claude-code.md)
   - 作者在NVIDIA Spark设备上使用Claude Code成功部署DeepSeek-OCR模型。通过Docker容器自动化配置环境，关键解决了PyTorch版本与GPU兼容性问题。经测试"Free OCR"提示词效果最佳，整个流程仅需少量人工干预，验证了自动化工具的可行性。
 - (2025-10-20) [An Opinionated Guide to Using AI Right Now](202510/2025-10-20-an-opinionated-guide-to-using-ai-right-now.md)
