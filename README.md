@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-21) [Agentic AI’s OODA Loop Problem - Schneier on Security](202510/2025-10-21-agentic-ai%E2%80%99s-ooda-loop-problem---schneier-on-security.md)
+  - 本文分析AI代理在对抗环境中的安全风险，指出OODA循环各阶段易受攻击，如数据投毒、提示注入等。根源在于模型无法保障语义完整性，且安全常为性能让步。需重新设计架构，将完整性内嵌。
 - (2025-10-21) [Should LLMs just treat text content as an image?](202510/2025-10-21-should-llms-just-treat-text-content-as-an-image.md)
   - 光学压缩将文本转为图像输入多模态大模型，有望提升数据处理效率。这种图像令牌比文本令牌更高效，类似人类视觉处理方式。虽有应用探索，但训练难度与效果仍需验证，潜力待进一步研究。
 - (2025-10-21) [Claude Code for web—a new asynchronous coding agent from Anthropic](202510/2025-10-21-claude-code-for-web%E2%80%94a-new-asynchronous-coding-agent-from-anthropic.md)
