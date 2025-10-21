@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-21) [Getting DeepSeek-OCR working on an NVIDIA Spark via brute force using Claude Code](202510/2025-10-21-getting-deepseek-ocr-working-on-an-nvidia-spark-via-brute-force-using-claude-code.md)
+  - 作者在NVIDIA Spark设备上使用Claude Code成功部署DeepSeek-OCR模型。通过Docker容器自动化配置环境，关键解决了PyTorch版本与GPU兼容性问题。经测试"Free OCR"提示词效果最佳，整个流程仅需少量人工干预，验证了自动化工具的可行性。
 - (2025-10-20) [An Opinionated Guide to Using AI Right Now](202510/2025-10-20-an-opinionated-guide-to-using-ai-right-now.md)
   - 本文对比主流AI工具（如ChatGPT、Claude、Gemini）的免费与付费方案，强调基于需求选择模型：免费版适合日常，付费版提供更强处理能力。使用技巧包括开启深度搜索、利用文件处理功能，并注意AI可能出错。建议多尝试，关注实际应用而非技术本身。
 - (2025-10-19) [Diskcache, more than caching](202510/2025-10-19-diskcache%2C-more-than-caching.md)
