@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-21) [How to Fix Any Bug — overreacted](202510/2025-10-21-how-to-fix-any-bug-%E2%80%94-overreacted.md)
+  - 文章通过修复网页滚动Bug的案例，总结了系统性方法：先建立可客观验证的可复现案例，再逐步简化代码定位问题根源，避免盲目猜测。核心原则是简化优于理论测试，确保每一步都验证Bug存在，适用于复杂项目调试。最终通过修正React Router依赖解决问题。
 - (2025-10-21) [Agentic AI’s OODA Loop Problem - Schneier on Security](202510/2025-10-21-agentic-ai%E2%80%99s-ooda-loop-problem---schneier-on-security.md)
   - 本文分析AI代理在对抗环境中的安全风险，指出OODA循环各阶段易受攻击，如数据投毒、提示注入等。根源在于模型无法保障语义完整性，且安全常为性能让步。需重新设计架构，将完整性内嵌。
 - (2025-10-21) [Should LLMs just treat text content as an image?](202510/2025-10-21-should-llms-just-treat-text-content-as-an-image.md)
