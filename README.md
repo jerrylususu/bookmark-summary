@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-22) [What is good software architecture?](202510/2025-10-22-what-is-good-software-architecture.md)
+  - 优秀软件架构的核心不在于专职角色或完美设计，而是实践中的权衡与协作。架构应聚焦现实问题，平衡当下与未来，注重团队共识而非纯粹技术最优解。通过原型测试和风险规划逐步改进，避免脱离实际的空想。
 - (2025-10-21) [How to Fix Any Bug — overreacted](202510/2025-10-21-how-to-fix-any-bug-%E2%80%94-overreacted.md)
   - 文章通过修复网页滚动Bug的案例，总结了系统性方法：先建立可客观验证的可复现案例，再逐步简化代码定位问题根源，避免盲目猜测。核心原则是简化优于理论测试，确保每一步都验证Bug存在，适用于复杂项目调试。最终通过修正React Router依赖解决问题。
 - (2025-10-21) [Agentic AI’s OODA Loop Problem - Schneier on Security](202510/2025-10-21-agentic-ai%E2%80%99s-ooda-loop-problem---schneier-on-security.md)
