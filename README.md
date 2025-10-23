@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-23) [Living dangerously with Claude](202510/2025-10-23-living-dangerously-with-claude.md)
+  - YOLO模式让AI编码代理在无人监督下高效完成复杂任务，但存在数据泄露风险。关键在于使用沙盒环境隔离运行，严格管控文件与网络访问，在保障安全前提下充分发挥其效率优势。
 - (2025-10-22) [What is good software architecture?](202510/2025-10-22-what-is-good-software-architecture.md)
   - 优秀软件架构的核心不在于专职角色或完美设计，而是实践中的权衡与协作。架构应聚焦现实问题，平衡当下与未来，注重团队共识而非纯粹技术最优解。通过原型测试和风险规划逐步改进，避免脱离实际的空想。
 - (2025-10-21) [How to Fix Any Bug — overreacted](202510/2025-10-21-how-to-fix-any-bug-%E2%80%94-overreacted.md)
