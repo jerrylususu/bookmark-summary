@@ -4570,5 +4570,11 @@
     "title": "Living dangerously with Claude",
     "url": "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/",
     "timestamp": 1761197148
+  },
+  {
+    "month": "202510",
+    "title": "Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas",
+    "url": "https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/",
+    "timestamp": 1761197489
   }
 ]
