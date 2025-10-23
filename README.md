@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-23) [Corrosion](202510/2025-10-23-corrosion.md)
+  - Fly.io为解决全球分布式平台状态同步问题，构建了去中心化服务发现系统Corrosion。它采用gossip协议和SQLite数据库变更传播，放弃传统分布式共识以提升性能，尽管遇到了故障并经过多次优化，现已成为一个高效可扩展的开源解决方案。
 - (2025-10-23) [Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas](202510/2025-10-23-dane-stuckey-%28openai-ciso%29-on-prompt-injection-risks-for-chatgpt-atlas.md)
   - OpenAI针对ChatGPT浏览器自动化功能的提示注入风险采取红队测试、深度防御与监视模式等防护措施。但作者对其有效性存疑，认为零日攻击风险犹存，实际防护效果有待验证，但肯定OpenAI的积极应对。
 - (2025-10-23) [Living dangerously with Claude](202510/2025-10-23-living-dangerously-with-claude.md)
