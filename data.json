@@ -4600,5 +4600,11 @@
     "title": "Mistakes I see engineers making in their code reviews",
     "url": "https://www.seangoedecke.com/good-code-reviews/",
     "timestamp": 1761574855
+  },
+  {
+    "month": "202510",
+    "title": "GenAI Image Showdown",
+    "url": "https://genai-showdown.specr.net/image-editing",
+    "timestamp": 1761575027
   }
 ]

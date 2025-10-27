@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-27) [GenAI Image Showdown](202510/2025-10-27-genai-image-showdown.md)
+  - GenAI图像编辑对决测试了7款模型的文本指令编辑能力。在13项挑战中，Seedream 4以9项领先，表现最佳。模型普遍擅长风格合成和元素添加，但在空间调整、多元素协同编辑等精细任务上仍有不足。
 - (2025-10-27) [Mistakes I see engineers making in their code reviews](202510/2025-10-27-mistakes-i-see-engineers-making-in-their-code-reviews.md)
   - 作者提出代码评审五大要点：避免仅关注代码差异，控制评论数量，不以个人偏好为评判标准，明确阻止合并时使用阻止性评审，并提倡多数情况下应批准通过。此外，评审AI代码需更严格把关。
 - (2025-10-27) [Setting up a codebase for working with coding agents](202510/2025-10-27-setting-up-a-codebase-for-working-with-coding-agents.md)
