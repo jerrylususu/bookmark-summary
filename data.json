@@ -4594,5 +4594,11 @@
     "title": "Setting up a codebase for working with coding agents",
     "url": "https://simonwillison.net/2025/Oct/25/coding-agent-tips/",
     "timestamp": 1761574455
+  },
+  {
+    "month": "202510",
+    "title": "Mistakes I see engineers making in their code reviews",
+    "url": "https://www.seangoedecke.com/good-code-reviews/",
+    "timestamp": 1761574855
   }
 ]
