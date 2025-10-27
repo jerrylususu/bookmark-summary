@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-27) [How I Coding? (Oct 2025 Edition)](202510/2025-10-27-how-i-coding-%28oct-2025-edition%29.md)
+  - 作者强调2025年编程中应秉持“慢即是快”心态，关注高质量输出而非速度。工具沿用Codex等，集成体验各异，GitHub审查质量高。建议聚焦顶尖模型并减少AI相关输入，将精力放在核心开发上。
 - (2025-10-23) [Corrosion](202510/2025-10-23-corrosion.md)
   - Fly.io为解决全球分布式平台状态同步问题，构建了去中心化服务发现系统Corrosion。它采用gossip协议和SQLite数据库变更传播，放弃传统分布式共识以提升性能，尽管遇到了故障并经过多次优化，现已成为一个高效可扩展的开源解决方案。
 - (2025-10-23) [Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas](202510/2025-10-23-dane-stuckey-%28openai-ciso%29-on-prompt-injection-risks-for-chatgpt-atlas.md)
