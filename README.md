@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-27) [Pepsi, when they don't have coke](202510/2025-10-27-pepsi%2C-when-they-don%27t-have-coke.md)
+  - 文章分析了配置管理现状，认为现有工具如Toml、JSON、YAML在大型配置中不足。作者探讨了Cuelang和Starlark等替代方案，但认为其复杂度高、绑定有限。最终选择Python作为折中方案，虽无沙盒保护，但更实用灵活，适合多数场景。
 - (2025-10-27) [🚨🚨 That's a lot of YAML 🚨🚨](202510/2025-10-27-%F0%9F%9A%A8%F0%9F%9A%A8-that%27s-a-lot-of-yaml-%F0%9F%9A%A8%F0%9F%9A%A8.md)
   - 文章批评YAML在开发运维中的滥用，指出其安全性低、类型解析混乱、效率低下，并通过讽刺手法揭示其不可靠性，建议慎用于关键场景。
 - (2025-10-27) [GenAI Image Showdown](202510/2025-10-27-genai-image-showdown.md)
