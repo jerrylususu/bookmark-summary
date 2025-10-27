@@ -4588,5 +4588,11 @@
     "title": "How I Coding? (Oct 2025 Edition)",
     "url": "https://xuanwo.io/2025/07-how-i-coding-oct-2025-edition/",
     "timestamp": 1761574095
+  },
+  {
+    "month": "202510",
+    "title": "Setting up a codebase for working with coding agents",
+    "url": "https://simonwillison.net/2025/Oct/25/coding-agent-tips/",
+    "timestamp": 1761574455
   }
 ]

@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-27) [Setting up a codebase for working with coding agents](202510/2025-10-27-setting-up-a-codebase-for-working-with-coding-agents.md)
+  - 为提高AI编程效率，需要优化代码库设置，包括自动化测试、交互式测试、问题管理、轻量文档、代码质量工具和详细错误信息，这些措施同时提升项目的可维护性。
 - (2025-10-27) [How I Coding? (Oct 2025 Edition)](202510/2025-10-27-how-i-coding-%28oct-2025-edition%29.md)
   - 作者强调2025年编程中应秉持“慢即是快”心态，关注高质量输出而非速度。工具沿用Codex等，集成体验各异，GitHub审查质量高。建议聚焦顶尖模型并减少AI相关输入，将精力放在核心开发上。
 - (2025-10-23) [Corrosion](202510/2025-10-23-corrosion.md)
