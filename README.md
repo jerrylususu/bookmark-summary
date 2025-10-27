@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-27) [Mistakes I see engineers making in their code reviews](202510/2025-10-27-mistakes-i-see-engineers-making-in-their-code-reviews.md)
+  - 作者提出代码评审五大要点：避免仅关注代码差异，控制评论数量，不以个人偏好为评判标准，明确阻止合并时使用阻止性评审，并提倡多数情况下应批准通过。此外，评审AI代码需更严格把关。
 - (2025-10-27) [Setting up a codebase for working with coding agents](202510/2025-10-27-setting-up-a-codebase-for-working-with-coding-agents.md)
   - 为提高AI编程效率，需要优化代码库设置，包括自动化测试、交互式测试、问题管理、轻量文档、代码质量工具和详细错误信息，这些措施同时提升项目的可维护性。
 - (2025-10-27) [How I Coding? (Oct 2025 Edition)](202510/2025-10-27-how-i-coding-%28oct-2025-edition%29.md)
