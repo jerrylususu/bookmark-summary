@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-27) [Gamekeeper：像 Git 一样管理游戏存档 - 少数派](202510/2025-10-27-gamekeeper%EF%BC%9A%E5%83%8F-git-%E4%B8%80%E6%A0%B7%E7%AE%A1%E7%90%86%E6%B8%B8%E6%88%8F%E5%AD%98%E6%A1%A3---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
+  - Gamekeeper 是一款受 Git 启发设计的游戏存档管理工具，能自动识别存档、支持多分支管理和差异存储，帮助玩家高效管理多结局和存档历史。未来计划增加云同步和分享功能。目前免费可用。
 - (2025-10-27) [Pepsi, when they don't have coke](202510/2025-10-27-pepsi%2C-when-they-don%27t-have-coke.md)
   - 文章分析了配置管理现状，认为现有工具如Toml、JSON、YAML在大型配置中不足。作者探讨了Cuelang和Starlark等替代方案，但认为其复杂度高、绑定有限。最终选择Python作为折中方案，虽无沙盒保护，但更实用灵活，适合多数场景。
 - (2025-10-27) [🚨🚨 That's a lot of YAML 🚨🚨](202510/2025-10-27-%F0%9F%9A%A8%F0%9F%9A%A8-that%27s-a-lot-of-yaml-%F0%9F%9A%A8%F0%9F%9A%A8.md)
