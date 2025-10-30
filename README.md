@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-30) [Stacking Threads](202510/2025-10-30-stacking-threads.md)
+  - 该文章分析了多线程程序中线程栈和线程控制块在进程内存中的布局差异，指出不同操作系统（如Linux、macOS、FreeBSD等）的线程栈放置位置与TCB管理方式显著不同。跨平台编程需注意内存布局随机性、栈位置不固定等特性，强调操作系统抽象层的复杂性。
 - (2025-10-30) [用一次摸鱼经历详解AI管理实战](202510/2025-10-30-%E7%94%A8%E4%B8%80%E6%AC%A1%E6%91%B8%E9%B1%BC%E7%BB%8F%E5%8E%86%E8%AF%A6%E8%A7%A3ai%E7%AE%A1%E7%90%86%E5%AE%9E%E6%88%98.md)
   - 作者通过AI管理五步法（选模型、下指令、做培训、给方法、定验收），实现用5%精力撬动AI完成95%工作。核心是像管理团队一样引导AI，将人类时间聚焦于战略决策，大幅提升生产力。
 - (2025-10-30) [How many pillars of observability can you fit on the head of a pin?](202510/2025-10-30-how-many-pillars-of-observability-can-you-fit-on-the-head-of-a-pin.md)
