@@ -3,6 +3,8 @@
 
 ## 2025-10
 
+- (2025-10-30) [How many pillars of observability can you fit on the head of a pin?](202510/2025-10-30-how-many-pillars-of-observability-can-you-fit-on-the-head-of-a-pin.md)
+  - 作者批判“可观测性支柱”为营销术语，提倡用“信号”概念统一存储数据，避免多支柱模型导致的隔阂与高成本，强调OpenTelemetry等统一方案更高效。
 - (2025-10-30) [Why do AI models use so many em-dashes?](202510/2025-10-30-why-do-ai-models-use-so-many-em-dashes.md)
   - AI模型过度使用破折号的现象主要源于训练数据的变化。GPT-4等模型为获取高质量数据，数字化了大量19世纪末到20世纪初的书籍，这些历史文本中破折号使用率较高，导致模型习得这一习惯。强化学习人类反馈或AI内容循环也可能加剧此现象，但核心原因在于训练数据的历史语言风格影响。
 - (2025-10-29) [High Agency Matters](202510/2025-10-29-high-agency-matters.md)
