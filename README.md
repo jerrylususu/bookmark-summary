@@ -1,6 +1,11 @@
 # Bookmark Summary 
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
+## 2025-11
+
+- (2025-11-02) [Scraping Next.js web sites in 2025 – Trickster Dev](202511/2025-11-02-scraping-next.js-web-sites-in-2025-%E2%80%93-trickster-dev.md)
+  - 文章介绍了使用Python库njsparser抓取Next.js网站的方法，重点解析其Flight Data等数据序列化格式。工具可简化从HTML中提取分块数据的过程，适用于现代前端框架的数据抓取场景。
+
 ## 2025-10
 
 - (2025-10-30) [A Practitioner's Guide to Wide Events | Jeremy Morrell](202510/2025-10-30-a-practitioner%27s-guide-to-wide-events-jeremy-morrell.md)
