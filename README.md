@@ -3,6 +3,8 @@
 
 ## 2025-11
 
+- (2025-11-02) [How I Use Every Claude Code Feature](202511/2025-11-02-how-i-use-every-claude-code-feature.md)
+  - 本文总结了Claude Code的高效使用方法，重点包括：通过CLAUDE.md文件维护项目规范，利用上下文管理保持会话连贯，避免过度依赖自定义命令与子代理。建议结合钩子机制优化工作流，使用SDK快速开发工具，并集成GitHub Actions实现自动化。强调以实际产出为导向，逐步完善AI辅助的工程流程。
 - (2025-11-02) [Scraping Next.js web sites in 2025 – Trickster Dev](202511/2025-11-02-scraping-next.js-web-sites-in-2025-%E2%80%93-trickster-dev.md)
   - 文章介绍了使用Python库njsparser抓取Next.js网站的方法，重点解析其Flight Data等数据序列化格式。工具可简化从HTML中提取分块数据的过程，适用于现代前端框架的数据抓取场景。
 
