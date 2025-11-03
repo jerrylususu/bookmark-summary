@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-03) [Using Assisted-by commit footers instead of banning AI tools](202511/2025-11-03-using-assisted-by-commit-footers-instead-of-banning-ai-tools.md)
+  - 反对全面禁止AI投稿，建议要求贡献者用“Assisted-by”脚注公开使用的AI工具，便于审查与追踪，平衡创新与风险。
+  - Tags: #read #llm
+
 - (2025-11-02) [The Linux Boot Process: From Power Button to Kernel](202511/2025-11-02-the-linux-boot-process-from-power-button-to-kernel.md)
   - 计算机启动过程从CPU复位、固件自检开始，逐步解压并加载内核，切换运行模式（实模式到保护模式再到长模式），最终移交控制权给操作系统内核。
   - Tags: #read #linux #deepdive
@@ -39,13 +43,9 @@
   - AI模型过度使用破折号的现象主要源于训练数据的变化。GPT-4等模型为获取高质量数据，数字化了大量19世纪末到20世纪初的书籍，这些历史文本中破折号使用率较高，导致模型习得这一习惯。强化学习人类反馈或AI内容循环也可能加剧此现象，但核心原因在于训练数据的历史语言风格影响。
   - Tags: #read #llm
 
-- (2025-10-29) [High Agency Matters](202510/2025-10-29-high-agency-matters.md)
-  - 文章强调，个人能动性（主动行动和担当）比高智商更能决定长期成功。高能动性者通过执行力、坚持和风险承担创造实际成果，而智力易导致分析瘫痪。在AI时代，能动性作为人类独特优势愈发重要，应优先培养。
-  - Tags: #read #people
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (4 entries)
+- [2025-11](202511/monthly-index.md) (5 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)

@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-03) [Using Assisted-by commit footers instead of banning AI tools](2025-11-03-using-assisted-by-commit-footers-instead-of-banning-ai-tools.md)
+  - 反对全面禁止AI投稿，建议要求贡献者用“Assisted-by”脚注公开使用的AI工具，便于审查与追踪，平衡创新与风险。
+  - Tags: #read #llm
+
 - (2025-11-02) [The Linux Boot Process: From Power Button to Kernel](2025-11-02-the-linux-boot-process-from-power-button-to-kernel.md)
   - 计算机启动过程从CPU复位、固件自检开始，逐步解压并加载内核，切换运行模式（实模式到保护模式再到长模式），最终移交控制权给操作系统内核。
   - Tags: #read #linux #deepdive

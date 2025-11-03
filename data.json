@@ -7626,5 +7626,15 @@
       "linux",
       "deepdive"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Using Assisted-by commit footers instead of banning AI tools",
+    "url": "https://xeiaso.net/notes/2025/assisted-by-footer/",
+    "timestamp": 1762177399,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
