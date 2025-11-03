@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-03) [New prompt injection papers: Agents Rule of Two and The Attacker Moves Second](2025-11-03-new-prompt-injection-papers-agents-rule-of-two-and-the-attacker-moves-second.md)
+  - 两篇AI安全论文指出提示注入仍是未解难题：Meta提出“规则二”限制AI代理权限组合以降低风险；多机构研究显示现有防御在自适应攻击下成功率超90%，验证了通过设计而非依赖防御的实用安全思路。
+  - Tags: #read #llm #security
+
 - (2025-11-03) [Using Assisted-by commit footers instead of banning AI tools](2025-11-03-using-assisted-by-commit-footers-instead-of-banning-ai-tools.md)
   - 反对全面禁止AI投稿，建议要求贡献者用“Assisted-by”脚注公开使用的AI工具，便于审查与追踪，平衡创新与风险。
   - Tags: #read #llm

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-03) [New prompt injection papers: Agents Rule of Two and The Attacker Moves Second](202511/2025-11-03-new-prompt-injection-papers-agents-rule-of-two-and-the-attacker-moves-second.md)
+  - 两篇AI安全论文指出提示注入仍是未解难题：Meta提出“规则二”限制AI代理权限组合以降低风险；多机构研究显示现有防御在自适应攻击下成功率超90%，验证了通过设计而非依赖防御的实用安全思路。
+  - Tags: #read #llm #security
+
 - (2025-11-03) [Using Assisted-by commit footers instead of banning AI tools](202511/2025-11-03-using-assisted-by-commit-footers-instead-of-banning-ai-tools.md)
   - 反对全面禁止AI投稿，建议要求贡献者用“Assisted-by”脚注公开使用的AI工具，便于审查与追踪，平衡创新与风险。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 作者批判“可观测性支柱”为营销术语，提倡用“信号”概念统一存储数据，避免多支柱模型导致的隔阂与高成本，强调OpenTelemetry等统一方案更高效。
   - Tags: #read
 
-- (2025-10-30) [Why do AI models use so many em-dashes?](202510/2025-10-30-why-do-ai-models-use-so-many-em-dashes.md)
-  - AI模型过度使用破折号的现象主要源于训练数据的变化。GPT-4等模型为获取高质量数据，数字化了大量19世纪末到20世纪初的书籍，这些历史文本中破折号使用率较高，导致模型习得这一习惯。强化学习人类反馈或AI内容循环也可能加剧此现象，但核心原因在于训练数据的历史语言风格影响。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (5 entries)
+- [2025-11](202511/monthly-index.md) (6 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)

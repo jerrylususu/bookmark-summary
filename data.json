@@ -7636,5 +7636,16 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "New prompt injection papers: Agents Rule of Two and The Attacker Moves Second",
+    "url": "https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/",
+    "timestamp": 1762177535,
+    "tags": [
+      "read",
+      "llm",
+      "security"
+    ]
   }
 ]
