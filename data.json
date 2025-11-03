@@ -7647,5 +7647,16 @@
       "llm",
       "security"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Absurd Workflows: Durable Execution With Just Postgres",
+    "url": "https://lucumr.pocoo.org/2025/11/3/absurd-workflows/",
+    "timestamp": 1762179797,
+    "tags": [
+      "read",
+      "distributed",
+      "hack"
+    ]
   }
 ]
