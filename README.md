@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-03) [Absurd Workflows: Durable Execution With Just Postgres](202511/2025-11-03-absurd-workflows-durable-execution-with-just-postgres.md)
+  - Absurd是一个轻量级持久化执行库，仅依赖Postgres实现可靠的工作流和AI代理。它将任务分解为步骤，利用Postgres的队列和状态存储功能，在故障时支持任务重试和状态恢复，无需第三方服务，简化部署和运维。
+  - Tags: #read #distributed #hack
+
 - (2025-11-03) [New prompt injection papers: Agents Rule of Two and The Attacker Moves Second](202511/2025-11-03-new-prompt-injection-papers-agents-rule-of-two-and-the-attacker-moves-second.md)
   - 两篇AI安全论文指出提示注入仍是未解难题：Meta提出“规则二”限制AI代理权限组合以降低风险；多机构研究显示现有防御在自适应攻击下成功率超90%，验证了通过设计而非依赖防御的实用安全思路。
   - Tags: #read #llm #security
@@ -39,13 +43,9 @@
   - 作者通过AI管理五步法（选模型、下指令、做培训、给方法、定验收），实现用5%精力撬动AI完成95%工作。核心是像管理团队一样引导AI，将人类时间聚焦于战略决策，大幅提升生产力。
   - Tags: #read #llm #people
 
-- (2025-10-30) [How many pillars of observability can you fit on the head of a pin?](202510/2025-10-30-how-many-pillars-of-observability-can-you-fit-on-the-head-of-a-pin.md)
-  - 作者批判“可观测性支柱”为营销术语，提倡用“信号”概念统一存储数据，避免多支柱模型导致的隔阂与高成本，强调OpenTelemetry等统一方案更高效。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (6 entries)
+- [2025-11](202511/monthly-index.md) (7 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)

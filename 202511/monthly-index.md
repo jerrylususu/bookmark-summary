@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-03) [Absurd Workflows: Durable Execution With Just Postgres](2025-11-03-absurd-workflows-durable-execution-with-just-postgres.md)
+  - Absurd是一个轻量级持久化执行库，仅依赖Postgres实现可靠的工作流和AI代理。它将任务分解为步骤，利用Postgres的队列和状态存储功能，在故障时支持任务重试和状态恢复，无需第三方服务，简化部署和运维。
+  - Tags: #read #distributed #hack
+
 - (2025-11-03) [New prompt injection papers: Agents Rule of Two and The Attacker Moves Second](2025-11-03-new-prompt-injection-papers-agents-rule-of-two-and-the-attacker-moves-second.md)
   - 两篇AI安全论文指出提示注入仍是未解难题：Meta提出“规则二”限制AI代理权限组合以降低风险；多机构研究显示现有防御在自适应攻击下成功率超90%，验证了通过设计而非依赖防御的实用安全思路。
   - Tags: #read #llm #security
