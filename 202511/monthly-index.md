@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-04) [State of Terminal Emulators in 2025: The Errant Champions · Articles](2025-11-04-state-of-terminal-emulators-in-2025-the-errant-champions-%C2%B7-articles.md)
+  - 2023年测试的后续更新：使用改进的ucs-detect工具评估终端Unicode支持。Ghostty和Kitty表现最佳，但终端处理零宽度字符等问题仍存挑战。文本尺寸协议有望改善复杂脚本显示，推动超越等宽限制。测试发现性能和兼容性存在差异。
+  - Tags: #read #guide
+
 - (2025-11-04) [The Case Against pgvector | Alex Jacobs](2025-11-04-the-case-against-pgvector-alex-jacobs.md)
   - 文章总结了pgvector在生产环境中的核心问题：索引选择困难（IVFFlat需重建、HNSW消耗大）、实时搜索性能差、查询优化复杂、功能缺失（如混合搜索需自行实现）。作者认为尽管pgvector适合少数有专家团队的场景，但多数情况下专用向量数据库更简单经济。
   - Tags: #read #db #deepdive
