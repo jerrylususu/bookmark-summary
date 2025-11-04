@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-04) [The Case Against pgvector | Alex Jacobs](2025-11-04-the-case-against-pgvector-alex-jacobs.md)
+  - 文章总结了pgvector在生产环境中的核心问题：索引选择困难（IVFFlat需重建、HNSW消耗大）、实时搜索性能差、查询优化复杂、功能缺失（如混合搜索需自行实现）。作者认为尽管pgvector适合少数有专家团队的场景，但多数情况下专用向量数据库更简单经济。
+  - Tags: #read #db #deepdive
+
 - (2025-11-03) [Absurd Workflows: Durable Execution With Just Postgres](2025-11-03-absurd-workflows-durable-execution-with-just-postgres.md)
   - Absurd是一个轻量级持久化执行库，仅依赖Postgres实现可靠的工作流和AI代理。它将任务分解为步骤，利用Postgres的队列和状态存储功能，在故障时支持任务重试和状态恢复，无需第三方服务，简化部署和运维。
   - Tags: #read #distributed #hack
