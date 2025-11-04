@@ -1,3 +1,8 @@
-requests
-waybackpy
 mistune
+numpy
+python-dotenv
+requests
+tqdm
+tiktoken
+waybackpy
+rich
