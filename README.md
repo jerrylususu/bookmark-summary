@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-04) [State of Terminal Emulators in 2025: The Errant Champions · Articles](202511/2025-11-04-state-of-terminal-emulators-in-2025-the-errant-champions-%C2%B7-articles.md)
+  - 2023年测试的后续更新：使用改进的ucs-detect工具评估终端Unicode支持。Ghostty和Kitty表现最佳，但终端处理零宽度字符等问题仍存挑战。文本尺寸协议有望改善复杂脚本显示，推动超越等宽限制。测试发现性能和兼容性存在差异。
+  - Tags: #read #guide
+
 - (2025-11-04) [The Case Against pgvector | Alex Jacobs](202511/2025-11-04-the-case-against-pgvector-alex-jacobs.md)
   - 文章总结了pgvector在生产环境中的核心问题：索引选择困难（IVFFlat需重建、HNSW消耗大）、实时搜索性能差、查询优化复杂、功能缺失（如混合搜索需自行实现）。作者认为尽管pgvector适合少数有专家团队的场景，但多数情况下专用向量数据库更简单经济。
   - Tags: #read #db #deepdive
@@ -39,13 +43,9 @@
   - 宽事件是一种增强系统可观测性的方法，通过记录每个工作单元的全部相关数据形成一个完整事件，便于查询分析。实施包括选择工具、编写代码添加丰富属性、掌握查询技巧。此方法可大幅提升调试效率。
   - Tags: #read #deepdive #distributed #explainer
 
-- (2025-10-30) [Stacking Threads](202510/2025-10-30-stacking-threads.md)
-  - 该文章分析了多线程程序中线程栈和线程控制块在进程内存中的布局差异，指出不同操作系统（如Linux、macOS、FreeBSD等）的线程栈放置位置与TCB管理方式显著不同。跨平台编程需注意内存布局随机性、栈位置不固定等特性，强调操作系统抽象层的复杂性。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (8 entries)
+- [2025-11](202511/monthly-index.md) (9 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
