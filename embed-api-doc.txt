@@ -1,0 +1,344 @@
+# 创建嵌入请求
+
+> Creates an embedding vector representing the input text.
+
+## OpenAPI
+
+````yaml post /embeddings
+paths:
+  path: /embeddings
+  method: post
+  servers:
+    - url: https://api.siliconflow.cn/v1
+  request:
+    security:
+      - title: bearerAuth
+        parameters:
+          query: {}
+          header:
+            Authorization:
+              type: http
+              scheme: bearer
+              description: >-
+                Use the following format for authentication: Bearer [<your api
+                key>](https://cloud.siliconflow.cn/account/ak)
+          cookie: {}
+    parameters:
+      path: {}
+      query: {}
+      header: {}
+      cookie: {}
+    body:
+      application/json:
+        schemaArray:
+          - type: object
+            properties:
+              model:
+                allOf:
+                  - type: string
+                    description: >-
+                      Corresponding Model Name. To better enhance service
+                      quality, we will make periodic changes to the models
+                      provided by this service, including but not limited to
+                      model on/offlining and adjustments to model service
+                      capabilities. We will notify you of such changes through
+                      appropriate means such as announcements or message pushes
+                      where feasible.
+                    example: BAAI/bge-large-zh-v1.5
+                    default: BAAI/bge-large-zh-v1.5
+                    enum:
+                      - BAAI/bge-large-zh-v1.5
+                      - BAAI/bge-large-en-v1.5
+                      - netease-youdao/bce-embedding-base_v1
+                      - BAAI/bge-m3
+                      - Pro/BAAI/bge-m3
+                      - Qwen/Qwen3-Embedding-8B
+                      - Qwen/Qwen3-Embedding-4B
+                      - Qwen/Qwen3-Embedding-0.6B
+              input:
+                allOf:
+                  - description: >
+                      Input text to embed must be provided as a string or an
+                      array of tokens. To process multiple inputs in a single
+                      request, pass an array of strings or an array of token
+                      arrays. The input length must not exceed the model's
+                      maximum token limit and should not be an empty string.
+
+                      The maximum input tokens for each model are as follows:
+
+
+                      BAAI/bge-large-zh-v1.5, BAAI/bge-large-en-v1.5,
+                      netease-youdao/bce-embedding-base_v1: 512
+
+                      BAAI/bge-m3, Pro/BAAI/bge-m3: 8192
+
+                      Qwen/Qwen3-Embedding-8B, Qwen/Qwen3-Embedding-4B,
+                      Qwen/Qwen3-Embedding-0.6B: 32768
+                    default: >-
+                      Silicon flow embedding online: fast, affordable, and
+                      high-quality embedding services. come try it out!
+                    oneOf:
+                      - type: string
+                        title: string
+                        description: >-
+                          The string that will be turned into an embedding. the
+                          item must not exceed the max models tokens limitation.
+                        default: >-
+                          Silicon flow embedding online: fast, affordable, and
+                          high-quality embedding services. come try it out!
+                        example: >-
+                          Silicon flow embedding online: fast, affordable, and
+                          high-quality embedding services. come try it out!
+                      - type: array
+                        title: array
+                        description: >
+                          The array of strings that will be turned into an
+                          embedding. The array length must not exceed the max
+                          size, and the item must not exceed the max models
+                          tokens limitation.
+
+                          Current, the maximum array size is 32 , At the same
+                          time every item must not exceed 512 tokens for current
+                          models.
+                        minItems: 1
+                        maxItems: 32
+                        items:
+                          type: string
+                          default: '[''LLM'', ''Embedding'', ''RAG'']'
+                          example: '[''LLM'', ''Embedding'', ''RAG'']'
+              encoding_format:
+                allOf:
+                  - description: >
+                      "The format to return the embeddings in. Can be either
+                      `float` or [`base64`](https://pypi.org/project/pybase64/).
+                      "
+                    example: float
+                    default: float
+                    type: string
+                    enum:
+                      - float
+                      - base64
+              dimensions:
+                allOf:
+                  - description: >
+                      The number of dimensions the resulting output embeddings
+                      should have. Only supported in `Qwen/Qwen3` series.  -
+                      Qwen/Qwen3-Embedding-8B:
+                      [64,128,256,512,768,1024,1536,2048,2560,4096] - 
+                      Qwen/Qwen3-Embedding-4B:[64,128,256,512,768,1024,1536,2048,2560]
+                      - Qwen/Qwen3-Embedding-0.6B: [64,128,256,512,768,1024]
+                    type: integer
+                    example: 1024
+            refIdentifier: '#/components/schemas/EmbeddingsRequest'
+            requiredProperties:
+              - model
+              - input
+        examples:
+          example:
+            value:
+              model: BAAI/bge-large-zh-v1.5
+              input: >-
+                Silicon flow embedding online: fast, affordable, and
+                high-quality embedding services. come try it out!
+              encoding_format: float
+              dimensions: 1024
+  response:
+    '200':
+      application/json:
+        schemaArray:
+          - type: object
+            properties:
+              object:
+                allOf:
+                  - type: string
+                    description: The object type, which is always "list".
+                    enum:
+                      - - list
+              model:
+                allOf:
+                  - description: The name of the model used to generate the embedding.
+                    type: string
+              data:
+                allOf:
+                  - type: array
+                    description: The list of embeddings generated by the model.
+                    items:
+                      type: object
+                      required:
+                        - index
+                        - object
+                        - embedding
+                      properties:
+                        object:
+                          type: string
+                          enum:
+                            - embedding
+                        embedding:
+                          type: array
+                          items:
+                            type: number
+                        index:
+                          type: integer
+              usage:
+                allOf:
+                  - type: object
+                    description: The usage information for the request.
+                    properties:
+                      prompt_tokens:
+                        type: integer
+                        description: The number of tokens used by the prompt.
+                      completion_tokens:
+                        type: integer
+                        description: The number of tokens used by the completion.
+                      total_tokens:
+                        type: integer
+                        description: The total number of tokens used by the request.
+                    required:
+                      - prompt_tokens
+                      - total_tokens
+                      - completion_tokens
+            refIdentifier: '#/components/schemas/EmbeddingsResponse'
+            requiredProperties:
+              - object
+              - model
+              - data
+              - usage
+        examples:
+          example:
+            value:
+              model: <string>
+              data:
+                - object: embedding
+                  embedding:
+                    - 123
+                  index: 123
+              usage:
+                prompt_tokens: 123
+                completion_tokens: 123
+                total_tokens: 123
+        description: '200'
+    '400':
+      application/json:
+        schemaArray:
+          - type: object
+            properties:
+              code:
+                allOf:
+                  - type: integer
+                    nullable: true
+                    default: false
+                    example: 20012
+              message:
+                allOf:
+                  - type: string
+                    nullable: false
+              data:
+                allOf:
+                  - type: string
+                    nullable: false
+            refIdentifier: '#/components/schemas/BadRquestData'
+            requiredProperties:
+              - message
+              - data
+              - code
+        examples:
+          example:
+            value:
+              code: 20012
+              message: <string>
+              data: <string>
+        description: BadRequest
+    '401':
+      application/json:
+        schemaArray:
+          - type: string
+            refIdentifier: '#/components/schemas/UnauthorizedData'
+            default: false
+            example: Invalid token
+        examples:
+          example:
+            value: Invalid token
+        description: Unauthorized
+    '404':
+      application/json:
+        schemaArray:
+          - type: string
+            refIdentifier: '#/components/schemas/NotFoundData'
+            default: false
+            example: 404 page not found
+        examples:
+          example:
+            value: 404 page not found
+        description: NotFound
+    '429':
+      application/json:
+        schemaArray:
+          - type: object
+            properties:
+              message:
+                allOf:
+                  - type: string
+                    example: >-
+                      Request was rejected due to rate limiting. If you want
+                      more, please contact contact@siliconflow.cn. Details:TPM
+                      limit reached.
+              data:
+                allOf:
+                  - type: string
+            refIdentifier: '#/components/schemas/RateLimitData'
+            requiredProperties:
+              - message
+              - data
+        examples:
+          example:
+            value:
+              message: >-
+                Request was rejected due to rate limiting. If you want more,
+                please contact contact@siliconflow.cn. Details:TPM limit
+                reached.
+              data: <string>
+        description: RateLimit
+    '503':
+      application/json:
+        schemaArray:
+          - type: object
+            properties:
+              code:
+                allOf:
+                  - type: integer
+                    example: 50505
+              message:
+                allOf:
+                  - type: string
+                    example: Model service overloaded. Please try again later.
+              data:
+                allOf:
+                  - type: string
+                    nullable: false
+            refIdentifier: '#/components/schemas/OverloadedtData'
+            requiredProperties:
+              - code
+              - message
+              - data
+        examples:
+          example:
+            value:
+              code: 50505
+              message: Model service overloaded. Please try again later.
+              data: <string>
+        description: Overloaded
+    '504':
+      application/json:
+        schemaArray:
+          - type: string
+            refIdentifier: '#/components/schemas/TimeoutData'
+        examples:
+          example:
+            value: <string>
+        description: Timeout
+  deprecated: false
+  type: path
+components:
+  schemas: {}
+
+````
