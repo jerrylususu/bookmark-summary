@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-04) [Grapheme Clusters and Terminal Emulators](2025-11-04-grapheme-clusters-and-terminal-emulators.md)
+  - 终端模拟器在处理Unicode字符如表情符号时，宽度计算常出现光标移动错误。问题源于传统方案依赖单字符宽度函数，无法正确处理多码位组合。解决方案是采用字形簇技术和Mode 2027协议，确保跨终端的兼容性和对全球语言支持。建议程序优先启用新模式，并动态计算文本宽度。
+  - Tags: #read
+
 - (2025-11-04) [State of Terminal Emulators in 2025: The Errant Champions · Articles](2025-11-04-state-of-terminal-emulators-in-2025-the-errant-champions-%C2%B7-articles.md)
   - 2023年测试的后续更新：使用改进的ucs-detect工具评估终端Unicode支持。Ghostty和Kitty表现最佳，但终端处理零宽度字符等问题仍存挑战。文本尺寸协议有望改善复杂脚本显示，推动超越等宽限制。测试发现性能和兼容性存在差异。
   - Tags: #read #guide
