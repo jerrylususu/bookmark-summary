@@ -7658,5 +7658,16 @@
       "distributed",
       "hack"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "The Case Against pgvector | Alex Jacobs",
+    "url": "https://alex-jacobs.com/posts/the-case-against-pgvector/",
+    "timestamp": 1762266730,
+    "tags": [
+      "read",
+      "db",
+      "deepdive"
+    ]
   }
 ]

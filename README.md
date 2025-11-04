@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-04) [The Case Against pgvector | Alex Jacobs](202511/2025-11-04-the-case-against-pgvector-alex-jacobs.md)
+  - 文章总结了pgvector在生产环境中的核心问题：索引选择困难（IVFFlat需重建、HNSW消耗大）、实时搜索性能差、查询优化复杂、功能缺失（如混合搜索需自行实现）。作者认为尽管pgvector适合少数有专家团队的场景，但多数情况下专用向量数据库更简单经济。
+  - Tags: #read #db #deepdive
+
 - (2025-11-03) [Absurd Workflows: Durable Execution With Just Postgres](202511/2025-11-03-absurd-workflows-durable-execution-with-just-postgres.md)
   - Absurd是一个轻量级持久化执行库，仅依赖Postgres实现可靠的工作流和AI代理。它将任务分解为步骤，利用Postgres的队列和状态存储功能，在故障时支持任务重试和状态恢复，无需第三方服务，简化部署和运维。
   - Tags: #read #distributed #hack
@@ -39,13 +43,9 @@
   - 该文章分析了多线程程序中线程栈和线程控制块在进程内存中的布局差异，指出不同操作系统（如Linux、macOS、FreeBSD等）的线程栈放置位置与TCB管理方式显著不同。跨平台编程需注意内存布局随机性、栈位置不固定等特性，强调操作系统抽象层的复杂性。
   - Tags: #read
 
-- (2025-10-30) [用一次摸鱼经历详解AI管理实战](202510/2025-10-30-%E7%94%A8%E4%B8%80%E6%AC%A1%E6%91%B8%E9%B1%BC%E7%BB%8F%E5%8E%86%E8%AF%A6%E8%A7%A3ai%E7%AE%A1%E7%90%86%E5%AE%9E%E6%88%98.md)
-  - 作者通过AI管理五步法（选模型、下指令、做培训、给方法、定验收），实现用5%精力撬动AI完成95%工作。核心是像管理团队一样引导AI，将人类时间聚焦于战略决策，大幅提升生产力。
-  - Tags: #read #llm #people
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (7 entries)
+- [2025-11](202511/monthly-index.md) (8 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
