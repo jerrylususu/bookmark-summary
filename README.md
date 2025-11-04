@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-04) [Grapheme Clusters and Terminal Emulators](202511/2025-11-04-grapheme-clusters-and-terminal-emulators.md)
+  - 终端模拟器在处理Unicode字符如表情符号时，宽度计算常出现光标移动错误。问题源于传统方案依赖单字符宽度函数，无法正确处理多码位组合。解决方案是采用字形簇技术和Mode 2027协议，确保跨终端的兼容性和对全球语言支持。建议程序优先启用新模式，并动态计算文本宽度。
+  - Tags: #read
+
 - (2025-11-04) [State of Terminal Emulators in 2025: The Errant Champions · Articles](202511/2025-11-04-state-of-terminal-emulators-in-2025-the-errant-champions-%C2%B7-articles.md)
   - 2023年测试的后续更新：使用改进的ucs-detect工具评估终端Unicode支持。Ghostty和Kitty表现最佳，但终端处理零宽度字符等问题仍存挑战。文本尺寸协议有望改善复杂脚本显示，推动超越等宽限制。测试发现性能和兼容性存在差异。
   - Tags: #read #guide
@@ -39,13 +43,9 @@
   - 文章介绍了使用Python库njsparser抓取Next.js网站的方法，重点解析其Flight Data等数据序列化格式。工具可简化从HTML中提取分块数据的过程，适用于现代前端框架的数据抓取场景。
   - Tags: #read #frontend
 
-- (2025-10-30) [A Practitioner's Guide to Wide Events | Jeremy Morrell](202510/2025-10-30-a-practitioner%27s-guide-to-wide-events-jeremy-morrell.md)
-  - 宽事件是一种增强系统可观测性的方法，通过记录每个工作单元的全部相关数据形成一个完整事件，便于查询分析。实施包括选择工具、编写代码添加丰富属性、掌握查询技巧。此方法可大幅提升调试效率。
-  - Tags: #read #deepdive #distributed #explainer
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (9 entries)
+- [2025-11](202511/monthly-index.md) (10 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)

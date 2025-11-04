@@ -7679,5 +7679,14 @@
       "read",
       "guide"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Grapheme Clusters and Terminal Emulators",
+    "url": "https://mitchellh.com/writing/grapheme-clusters-in-terminals",
+    "timestamp": 1762269699,
+    "tags": [
+      "read"
+    ]
   }
 ]
