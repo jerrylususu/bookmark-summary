@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-05) [A new SQL-powered permissions system in Datasette 1.0a20](202511/2025-11-05-a-new-sql-powered-permissions-system-in-datasette-1.0a20.md)
+  - Datasette 1.0a20 重构了权限系统，将权限检查从逐条函数调用改为基于SQLite查询，提升效率。新系统支持层次化权限、插件扩展和资源批量过滤，并增加调试工具。版本变更较大，提供升级指南与AI辅助开发工具，目标在社区升级插件后发布1.0正式版。
+  - Tags: #read #llm #tips
+
 - (2025-11-04) [Grapheme Clusters and Terminal Emulators](202511/2025-11-04-grapheme-clusters-and-terminal-emulators.md)
   - 终端模拟器在处理Unicode字符如表情符号时，宽度计算常出现光标移动错误。问题源于传统方案依赖单字符宽度函数，无法正确处理多码位组合。解决方案是采用字形簇技术和Mode 2027协议，确保跨终端的兼容性和对全球语言支持。建议程序优先启用新模式，并动态计算文本宽度。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文总结了Claude Code的高效使用方法，重点包括：通过CLAUDE.md文件维护项目规范，利用上下文管理保持会话连贯，避免过度依赖自定义命令与子代理。建议结合钩子机制优化工作流，使用SDK快速开发工具，并集成GitHub Actions实现自动化。强调以实际产出为导向，逐步完善AI辅助的工程流程。
   - Tags: #read #llm #tips
 
-- (2025-11-02) [Scraping Next.js web sites in 2025 – Trickster Dev](202511/2025-11-02-scraping-next.js-web-sites-in-2025-%E2%80%93-trickster-dev.md)
-  - 文章介绍了使用Python库njsparser抓取Next.js网站的方法，重点解析其Flight Data等数据序列化格式。工具可简化从HTML中提取分块数据的过程，适用于现代前端框架的数据抓取场景。
-  - Tags: #read #frontend
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (10 entries)
+- [2025-11](202511/monthly-index.md) (11 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
