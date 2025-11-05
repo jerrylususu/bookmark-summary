@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-05) [人类在环智能体源码展示：企业报销工作流举例（附源码下载） - 铁蕾的个人博客](202511/2025-11-05-%E4%BA%BA%E7%B1%BB%E5%9C%A8%E7%8E%AF%E6%99%BA%E8%83%BD%E4%BD%93%E6%BA%90%E7%A0%81%E5%B1%95%E7%A4%BA%EF%BC%9A%E4%BC%81%E4%B8%9A%E6%8A%A5%E9%94%80%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%B8%BE%E4%BE%8B%EF%BC%88%E9%99%84%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD%EF%BC%89---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
+  - 文章介绍如何利用Bridgic开源框架，在企业报销流程中实现“人类在环”机制。通过工作流设计、代码实现和执行恢复机制，展示如何中断工作流等待人工审批后再继续处理，无需长连接会话。
+  - Tags: #read #llm #deepdive
+
 - (2025-11-05) [MCP Colors: Systematically deal with prompt injection risk](202511/2025-11-05-mcp-colors-systematically-deal-with-prompt-injection-risk.md)
   - 文章提出MCP Colors方法应对提示注入风险：通过红（不可信内容）蓝（关键操作）颜色标记隔离风险操作，简化安全评估。需人工参与威胁建模，强调安全无法完全自动化，但为通用代理提供可行路径。
   - Tags: #read #llm #security
@@ -39,13 +43,9 @@
   - 反对全面禁止AI投稿，建议要求贡献者用“Assisted-by”脚注公开使用的AI工具，便于审查与追踪，平衡创新与风险。
   - Tags: #read #llm
 
-- (2025-11-02) [The Linux Boot Process: From Power Button to Kernel](202511/2025-11-02-the-linux-boot-process-from-power-button-to-kernel.md)
-  - 计算机启动过程从CPU复位、固件自检开始，逐步解压并加载内核，切换运行模式（实模式到保护模式再到长模式），最终移交控制权给操作系统内核。
-  - Tags: #read #linux #deepdive
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (13 entries)
+- [2025-11](202511/monthly-index.md) (14 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
