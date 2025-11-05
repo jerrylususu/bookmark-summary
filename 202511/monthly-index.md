@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-05) [A new SQL-powered permissions system in Datasette 1.0a20](2025-11-05-a-new-sql-powered-permissions-system-in-datasette-1.0a20.md)
+  - Datasette 1.0a20 重构了权限系统，将权限检查从逐条函数调用改为基于SQLite查询，提升效率。新系统支持层次化权限、插件扩展和资源批量过滤，并增加调试工具。版本变更较大，提供升级指南与AI辅助开发工具，目标在社区升级插件后发布1.0正式版。
+  - Tags: #read #llm #tips
+
 - (2025-11-04) [Grapheme Clusters and Terminal Emulators](2025-11-04-grapheme-clusters-and-terminal-emulators.md)
   - 终端模拟器在处理Unicode字符如表情符号时，宽度计算常出现光标移动错误。问题源于传统方案依赖单字符宽度函数，无法正确处理多码位组合。解决方案是采用字形簇技术和Mode 2027协议，确保跨终端的兼容性和对全球语言支持。建议程序优先启用新模式，并动态计算文本宽度。
   - Tags: #read

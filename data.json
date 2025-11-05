@@ -7688,5 +7688,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "A new SQL-powered permissions system in Datasette 1.0a20",
+    "url": "https://simonwillison.net/2025/Nov/4/datasette-10a20/",
+    "timestamp": 1762348875,
+    "tags": [
+      "read",
+      "llm",
+      "tips"
+    ]
   }
 ]
