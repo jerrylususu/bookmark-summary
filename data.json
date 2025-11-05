@@ -7709,5 +7709,16 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "MCP Colors: Systematically deal with prompt injection risk",
+    "url": "https://timkellogg.me/blog/2025/11/03/colors",
+    "timestamp": 1762349795,
+    "tags": [
+      "read",
+      "llm",
+      "security"
+    ]
   }
 ]

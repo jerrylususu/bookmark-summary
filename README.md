@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-05) [MCP Colors: Systematically deal with prompt injection risk](202511/2025-11-05-mcp-colors-systematically-deal-with-prompt-injection-risk.md)
+  - 文章提出MCP Colors方法应对提示注入风险：通过红（不可信内容）蓝（关键操作）颜色标记隔离风险操作，简化安全评估。需人工参与威胁建模，强调安全无法完全自动化，但为通用代理提供可行路径。
+  - Tags: #read #llm #security
+
 - (2025-11-05) [Code execution with MCP: building more efficient AI agents](202511/2025-11-05-code-execution-with-mcp-building-more-efficient-ai-agents.md)
   - 通过代码执行优化AI代理效率，将MCP工具转为代码API，使代理按需加载工具、本地处理数据。该方法大幅减少令牌消耗（如从15万降至2千），提升响应速度并增强隐私保护，但需平衡安全沙箱等实施成本。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 计算机启动过程从CPU复位、固件自检开始，逐步解压并加载内核，切换运行模式（实模式到保护模式再到长模式），最终移交控制权给操作系统内核。
   - Tags: #read #linux #deepdive
 
-- (2025-11-02) [Building Multi-Agent Systems (Part 2)](202511/2025-11-02-building-multi-agent-systems-%28part-2%29.md)
-  - 自多智能体系统系列首篇发布以来，基于LLM的智能体架构在工具调用能力和长时间运行方面显著进步，其核心思想——任务分解和协作——已成为标准，但架构设计变得更加灵活。重点从复杂流程设计转向提供上下文和目标的“上下文工程”，使智能体更加自主。同时，新挑战出现在系统控制、安全性和长时间任务的用户体验上。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (12 entries)
+- [2025-11](202511/monthly-index.md) (13 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)

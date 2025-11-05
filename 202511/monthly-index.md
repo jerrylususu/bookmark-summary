@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-05) [MCP Colors: Systematically deal with prompt injection risk](2025-11-05-mcp-colors-systematically-deal-with-prompt-injection-risk.md)
+  - 文章提出MCP Colors方法应对提示注入风险：通过红（不可信内容）蓝（关键操作）颜色标记隔离风险操作，简化安全评估。需人工参与威胁建模，强调安全无法完全自动化，但为通用代理提供可行路径。
+  - Tags: #read #llm #security
+
 - (2025-11-05) [Code execution with MCP: building more efficient AI agents](2025-11-05-code-execution-with-mcp-building-more-efficient-ai-agents.md)
   - 通过代码执行优化AI代理效率，将MCP工具转为代码API，使代理按需加载工具、本地处理数据。该方法大幅减少令牌消耗（如从15万降至2千），提升响应速度并增强隐私保护，但需平衡安全沙箱等实施成本。
   - Tags: #read #llm
