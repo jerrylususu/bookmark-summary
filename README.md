@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-05) [Immutable by Design: The Deep Tech Behind Tigris Bucket Forking | Tigris Object Storage](202511/2025-11-05-immutable-by-design-the-deep-tech-behind-tigris-bucket-forking-tigris-object-storage.md)
+  - Tigris对象存储的核心技术“存储桶分叉”基于数据不可变性设计，利用快照、写入前日志和有序键结构实现高效时间旅行和数据隔离。该技术支持TB级数据瞬间分叉，提供高安全性和性能，适用于AI实验等场景，未来将扩展功能以突破现有限制。
+  - Tags: #read #deepdive
+
 - (2025-11-05) [人类在环智能体源码展示：企业报销工作流举例（附源码下载） - 铁蕾的个人博客](202511/2025-11-05-%E4%BA%BA%E7%B1%BB%E5%9C%A8%E7%8E%AF%E6%99%BA%E8%83%BD%E4%BD%93%E6%BA%90%E7%A0%81%E5%B1%95%E7%A4%BA%EF%BC%9A%E4%BC%81%E4%B8%9A%E6%8A%A5%E9%94%80%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%B8%BE%E4%BE%8B%EF%BC%88%E9%99%84%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD%EF%BC%89---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
   - 文章介绍如何利用Bridgic开源框架，在企业报销流程中实现“人类在环”机制。通过工作流设计、代码实现和执行恢复机制，展示如何中断工作流等待人工审批后再继续处理，无需长连接会话。
   - Tags: #read #llm #deepdive
@@ -39,13 +43,9 @@
   - 两篇AI安全论文指出提示注入仍是未解难题：Meta提出“规则二”限制AI代理权限组合以降低风险；多机构研究显示现有防御在自适应攻击下成功率超90%，验证了通过设计而非依赖防御的实用安全思路。
   - Tags: #read #llm #security
 
-- (2025-11-03) [Using Assisted-by commit footers instead of banning AI tools](202511/2025-11-03-using-assisted-by-commit-footers-instead-of-banning-ai-tools.md)
-  - 反对全面禁止AI投稿，建议要求贡献者用“Assisted-by”脚注公开使用的AI工具，便于审查与追踪，平衡创新与风险。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (14 entries)
+- [2025-11](202511/monthly-index.md) (15 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
