@@ -7699,5 +7699,15 @@
       "llm",
       "tips"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Code execution with MCP: building more efficient AI agents",
+    "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+    "timestamp": 1762349045,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
