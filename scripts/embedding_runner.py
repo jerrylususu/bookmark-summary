@@ -188,6 +188,7 @@ def main() -> None:
         rate_limiter = RequestRateLimiter(
             requests_per_minute=args.rpm,
             tokens_per_minute=args.tpm,
+            logger=LOGGER,
         )
         LOGGER.info(
             "Enabled rate limiting: rpm=%s, tpm=%s",

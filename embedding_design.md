@@ -90,3 +90,5 @@
 - 2025-11-04：编写 `scripts/embed_db_explorer.py`，汇总 `embeddings.sqlite` 中的文档/Chunk 数量并支持表格、JSON、CSV 三种导出；新增依赖 `rich` 以提升终端表格展示效果，并补充对应使用说明。
 - 2025-11-04：优化 `scripts/embedding_runner.py` 进度展示逻辑，引入文档与 chunk 两级 `tqdm` 进度条，并为 `embedding_pipeline.embed_chunks` 加入回调以实时更新批量请求进度，避免长时间无反馈。
 - 2025-11-04：在 `scripts/embedding_runner.py` 增加 `--rpm`/`--tpm` 限频参数，结合 `embedding_pipeline.RequestRateLimiter` 以分钟滑窗控制请求与 token 峰值，tiktoken 计数估算批次 tokens；通过 `.venv` 下 `--dry-run` + 限速组合自测验证配置与日志输出。
+- 2025-11-04：排查 `--dry-run` 报错 `Encountered text corresponding to disallowed special token '<|fim_prefix|>'`，为 `TokenSplitter` 增加特殊 token 白名单并在命中未覆盖 token 时自动降级为普通文本处理；通过 `.venv` 执行 `python scripts/embedding_runner.py --dry-run --max-docs 200` 验证不再抛出异常，进度条完整跑完。
+- 2025-11-04：强化限频可观测性，当 `RequestRateLimiter` 触发请求或 token 滑窗限制时，在 `scripts/embedding_runner.py` 默认日志中输出命中类型与预计恢复时间，并在窗口释放后追加恢复日志，避免误判为网络阻塞。
