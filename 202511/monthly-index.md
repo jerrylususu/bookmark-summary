@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-06) [我妈妈被电信诈骗95万元的全过程-月光博客](2025-11-06-%E6%88%91%E5%A6%88%E5%A6%88%E8%A2%AB%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%9795%E4%B8%87%E5%85%83%E7%9A%84%E5%85%A8%E8%BF%87%E7%A8%8B-%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2.md)
+  - 作者母亲遭遇电信诈骗损失95万元，案例揭示了骗子通过恐吓、伪造证件、木马操控等手法针对老年人行骗。反思指出仅靠技术拦截不足，需采取手机号隔离、设备升级及加强家人沟通等综合防范措施。
+  - Tags: #read
+
 - (2025-11-06) [Making XML human-readable without XSLT](2025-11-06-making-xml-human-readable-without-xslt.md)
   - 本文指出XSLT在现代浏览器中已趋于淘汰，建议优先使用服务器端将XML转换为HTML。若需客户端处理，可用JavaScript动态生成HTML，或通过CSS简单样式化XML，但功能有限。
   - Tags: #read #frontend
