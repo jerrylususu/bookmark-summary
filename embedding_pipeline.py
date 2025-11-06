@@ -11,12 +11,14 @@ from __future__ import annotations
 
 from collections import deque
 from dataclasses import dataclass
+from datetime import datetime, timedelta
 import hashlib
 import logging
 import os
 from pathlib import Path
+import re
 import time
-from typing import Callable, Dict, Iterable, Iterator, List, Optional, Sequence, Tuple
+from typing import Callable, Dict, Iterable, Iterator, List, Optional, Sequence, Set, Tuple
 
 import numpy as np
 import requests
@@ -40,6 +42,12 @@ ENV_EMBED_MODEL = "EMBED_MODEL"
 MAX_RAW_CHUNK_TOKENS = 700
 RAW_CHUNK_OVERLAP = 100
 SUMMARY_CHUNK_TOKENS = 400
+
+DEFAULT_SPECIAL_TOKENS_AS_TEXT: Set[str] = {
+    "<|fim_prefix|>",
+    "<|fim_middle|>",
+    "<|fim_suffix|>",
+}
 
 
 @dataclass(frozen=True)
@@ -105,9 +113,19 @@ class EmbeddingConfig:
 class TokenSplitter:
     """Helper to measure token counts and break text into overlapping chunks."""
 
-    def __init__(self, encoding_name: str = "cl100k_base") -> None:
+    def __init__(
+        self,
+        encoding_name: str = "cl100k_base",
+        special_tokens_as_text: Optional[Iterable[str]] = None,
+    ) -> None:
         self.encoding_name = encoding_name
         self._encoding = None
+        tokens_as_text = (
+            set(special_tokens_as_text)
+            if special_tokens_as_text is not None
+            else set(DEFAULT_SPECIAL_TOKENS_AS_TEXT)
+        )
+        self._disallowed_special: Set[str] = set()
         if tiktoken is not None:
             try:
                 self._encoding = tiktoken.get_encoding(encoding_name)
@@ -117,12 +135,21 @@ class TokenSplitter:
                     encoding_name,
                 )
                 self._encoding = None
+        if self._encoding is not None:
+            try:
+                special_tokens = set(self._encoding.special_tokens_set)
+            except Exception:  # pragma: no cover - mismatch between tiktoken versions
+                special_tokens = set()
+            allowed_as_text = tokens_as_text & special_tokens
+            self._disallowed_special = special_tokens - allowed_as_text
+        else:
+            self._disallowed_special = set()
 
     def count(self, text: str) -> int:
         if not text:
             return 0
         if self._encoding is not None:
-            return len(self._encoding.encode(text))
+            return len(self._encode_tokens(text))
         # Rough approximation: assume 4 characters per token.
         return max(1, len(text) // 4)
 
@@ -144,7 +171,7 @@ class TokenSplitter:
     def _chunk_by_tokens(
         self, text: str, max_tokens: int, overlap_tokens: int
     ) -> Iterator[Tuple[str, int]]:
-        tokens = self._encoding.encode(text)
+        tokens = self._encode_tokens(text)
         total = len(tokens)
         if total == 0:
             return iter(())
@@ -181,6 +208,30 @@ class TokenSplitter:
                 start = max(0, end - overlap_chars)
 
         return generator()
+
+    def _encode_tokens(self, text: str) -> List[int]:
+        assert self._encoding is not None
+        try:
+            return self._encoding.encode(
+                text,
+                disallowed_special=self._disallowed_special,
+            )
+        except ValueError as exc:
+            match = re.search(r"special token '([^']+)'", str(exc))
+            if not match:
+                raise
+            token = match.group(1)
+            if token in getattr(self._encoding, "special_tokens_set", set()):
+                LOGGER.debug(
+                    "Treating special token '%s' as plain text for encoding.",
+                    token,
+                )
+                self._disallowed_special.discard(token)
+                return self._encoding.encode(
+                    text,
+                    disallowed_special=self._disallowed_special,
+                )
+            raise
 
 
 def load_embedding_config(env_path: Optional[Path] = None) -> EmbeddingConfig:
@@ -361,6 +412,7 @@ class RequestRateLimiter:
         self,
         requests_per_minute: Optional[int] = None,
         tokens_per_minute: Optional[int] = None,
+        logger: Optional[logging.Logger] = None,
     ) -> None:
         if requests_per_minute is not None and requests_per_minute <= 0:
             raise ValueError("requests_per_minute must be positive.")
@@ -371,6 +423,7 @@ class RequestRateLimiter:
         self._request_times: deque[float] = deque()
         self._token_events: deque[Tuple[float, int]] = deque()
         self._token_total = 0
+        self._logger = logger or LOGGER
 
     def _prune(self, now: float) -> None:
         window = self.WINDOW_SECONDS
@@ -388,13 +441,17 @@ class RequestRateLimiter:
             now = time.monotonic()
             self._prune(now)
             wait_for = 0.0
+            wait_reasons: List[Tuple[str, float]] = []
 
             if (
                 self.requests_per_minute is not None
                 and len(self._request_times) >= self.requests_per_minute
             ):
                 earliest = self._request_times[0]
-                wait_for = max(wait_for, self.WINDOW_SECONDS - (now - earliest))
+                wait_time = self.WINDOW_SECONDS - (now - earliest)
+                if wait_time > 0:
+                    wait_for = max(wait_for, wait_time)
+                    wait_reasons.append(("requests_per_minute", wait_time))
 
             if (
                 self.tokens_per_minute is not None
@@ -405,13 +462,36 @@ class RequestRateLimiter:
                 for ts, amount in self._token_events:
                     consumed += amount
                     if consumed >= excess:
-                        wait_for = max(wait_for, self.WINDOW_SECONDS - (now - ts))
+                        wait_time = self.WINDOW_SECONDS - (now - ts)
+                        if wait_time > 0:
+                            wait_for = max(wait_for, wait_time)
+                            wait_reasons.append(("tokens_per_minute", wait_time))
                         break
 
             if wait_for <= 0.0:
                 break
 
+            reason_labels = {
+                "requests_per_minute": "请求频率 (rpm)",
+                "tokens_per_minute": "Token 频率 (tpm)",
+            }
+            human_reasons = ", ".join(
+                reason_labels.get(reason, reason)
+                for reason in sorted({reason for reason, _ in wait_reasons})
+            ) or "unknown"
+            recovery_eta = datetime.now().astimezone() + timedelta(seconds=wait_for)
+            self._logger.info(
+                "Rate limit triggered (%s); pausing for %.2fs until %s.",
+                human_reasons,
+                wait_for,
+                recovery_eta.strftime("%Y-%m-%d %H:%M:%S%z"),
+            )
             time.sleep(wait_for)
+            self._logger.info(
+                "Rate limit recovered (%s) at %s.",
+                human_reasons,
+                datetime.now().astimezone().strftime("%Y-%m-%d %H:%M:%S%z"),
+            )
 
         timestamp = time.monotonic()
         if self.requests_per_minute is not None:
