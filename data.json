@@ -7741,5 +7741,15 @@
       "read",
       "deepdive"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Making XML human-readable without XSLT",
+    "url": "https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/",
+    "timestamp": 1762438228,
+    "tags": [
+      "read",
+      "frontend"
+    ]
   }
 ]
