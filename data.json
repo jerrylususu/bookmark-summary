@@ -7760,5 +7760,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "You Should Write An Agent",
+    "url": "https://fly.io/blog/everyone-write-an-agent/",
+    "timestamp": 1762518764,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
