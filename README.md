@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-07) [You Should Write An Agent](202511/2025-11-07-you-should-write-an-agent.md)
+  - 通过构建简易Agent可深入理解其原理：仅需少量代码实现对话和工具调用，上下文管理决定性能上限。无需依赖复杂框架，动手实践能快速验证创新思路。当前技术仍处探索期，个人开发者具备低成本快速迭代的优势。
+  - Tags: #read #llm
+
 - (2025-11-06) [我妈妈被电信诈骗95万元的全过程-月光博客](202511/2025-11-06-%E6%88%91%E5%A6%88%E5%A6%88%E8%A2%AB%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%9795%E4%B8%87%E5%85%83%E7%9A%84%E5%85%A8%E8%BF%87%E7%A8%8B-%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2.md)
   - 作者母亲遭遇电信诈骗损失95万元，案例揭示了骗子通过恐吓、伪造证件、木马操控等手法针对老年人行骗。反思指出仅靠技术拦截不足，需采取手机号隔离、设备升级及加强家人沟通等综合防范措施。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 2023年测试的后续更新：使用改进的ucs-detect工具评估终端Unicode支持。Ghostty和Kitty表现最佳，但终端处理零宽度字符等问题仍存挑战。文本尺寸协议有望改善复杂脚本显示，推动超越等宽限制。测试发现性能和兼容性存在差异。
   - Tags: #read #guide
 
-- (2025-11-04) [The Case Against pgvector | Alex Jacobs](202511/2025-11-04-the-case-against-pgvector-alex-jacobs.md)
-  - 文章总结了pgvector在生产环境中的核心问题：索引选择困难（IVFFlat需重建、HNSW消耗大）、实时搜索性能差、查询优化复杂、功能缺失（如混合搜索需自行实现）。作者认为尽管pgvector适合少数有专家团队的场景，但多数情况下专用向量数据库更简单经济。
-  - Tags: #read #db #deepdive
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (17 entries)
+- [2025-11](202511/monthly-index.md) (18 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
