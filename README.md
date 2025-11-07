@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-07) [How I use AI (Oct 2025)](202511/2025-11-07-how-i-use-ai-%28oct-2025%29.md)
+  - 2025年软件工程师总结AI应用：在代码补全、概念解释和文档摘要方面效果显著，但复杂算法、准确搜索和风格化写作表现不足。AI虽有用，仍需人工干预与技术完善。
+  - Tags: #read #llm #guide
+
 - (2025-11-07) [You Should Write An Agent](202511/2025-11-07-you-should-write-an-agent.md)
   - 通过构建简易Agent可深入理解其原理：仅需少量代码实现对话和工具调用，上下文管理决定性能上限。无需依赖复杂框架，动手实践能快速验证创新思路。当前技术仍处探索期，个人开发者具备低成本快速迭代的优势。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 终端模拟器在处理Unicode字符如表情符号时，宽度计算常出现光标移动错误。问题源于传统方案依赖单字符宽度函数，无法正确处理多码位组合。解决方案是采用字形簇技术和Mode 2027协议，确保跨终端的兼容性和对全球语言支持。建议程序优先启用新模式，并动态计算文本宽度。
   - Tags: #read
 
-- (2025-11-04) [State of Terminal Emulators in 2025: The Errant Champions · Articles](202511/2025-11-04-state-of-terminal-emulators-in-2025-the-errant-champions-%C2%B7-articles.md)
-  - 2023年测试的后续更新：使用改进的ucs-detect工具评估终端Unicode支持。Ghostty和Kitty表现最佳，但终端处理零宽度字符等问题仍存挑战。文本尺寸协议有望改善复杂脚本显示，推动超越等宽限制。测试发现性能和兼容性存在差异。
-  - Tags: #read #guide
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (18 entries)
+- [2025-11](202511/monthly-index.md) (19 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
