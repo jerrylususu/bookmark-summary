@@ -7803,5 +7803,16 @@
       "llm",
       "tips"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "AiDHD",
+    "url": "https://www.josh.ing/blog/aidhd",
+    "timestamp": 1762591441,
+    "tags": [
+      "read",
+      "llm",
+      "deepdive"
+    ]
   }
 ]
