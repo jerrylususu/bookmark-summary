@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-08) [Spinning up an Onion Mirror is Stupid Easy | flower.codes](2025-11-08-spinning-up-an-onion-mirror-is-stupid-easy-flower.codes.md)
+  - 本文介绍了基于 Debian 系统和 Caddy 服务器快速创建.onion镜像网站的步骤，包括安装并配置 Tor、获取.onion地址、调整 Caddy 设置和添加Onion-Location提示，过程简单实用，旨在提升网站的可访问性与抗审查能力。
+  - Tags: #read
+
 - (2025-11-08) [AiDHD](2025-11-08-aidhd.md)
   - 作者在六个月间尝试了八个随性编码项目，发现AI虽能快速实现创意，但也容易导致分心。成功仍需专注解决真实需求，而非仅靠技术热潮。
   - Tags: #read #llm #deepdive
