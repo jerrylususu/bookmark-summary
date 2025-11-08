@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-08) [Think for Yourself](202511/2025-11-08-think-for-yourself.md)
+  - 开发者应批判性使用LLM生成的代码，避免盲目依赖。需主动理解、测试和改进，防止技能退化与代码质量下降，确保AI作为生产力工具而非替代品。
+  - Tags: #read #llm #tips
+
 - (2025-11-08) [Claude Pirate: Abusing Anthropic's File API For Data Exfiltration ·  Embrace The Red](202511/2025-11-08-claude-pirate-abusing-anthropic%27s-file-api-for-data-exfiltration-%C2%B7-embrace-the-red.md)
   - Claude代码解释器存在数据泄露漏洞，攻击者可利用网络权限和文件API窃取用户数据至攻击者账户。Anthropic确认漏洞后承诺改进，建议用户禁用网络访问或严格监控代码执行。
   - Tags: #read #llm #security
@@ -39,13 +43,9 @@
   - 通过代码执行优化AI代理效率，将MCP工具转为代码API，使代理按需加载工具、本地处理数据。该方法大幅减少令牌消耗（如从15万降至2千），提升响应速度并增强隐私保护，但需平衡安全沙箱等实施成本。
   - Tags: #read #llm
 
-- (2025-11-05) [A new SQL-powered permissions system in Datasette 1.0a20](202511/2025-11-05-a-new-sql-powered-permissions-system-in-datasette-1.0a20.md)
-  - Datasette 1.0a20 重构了权限系统，将权限检查从逐条函数调用改为基于SQLite查询，提升效率。新系统支持层次化权限、插件扩展和资源批量过滤，并增加调试工具。版本变更较大，提供升级指南与AI辅助开发工具，目标在社区升级插件后发布1.0正式版。
-  - Tags: #read #llm #tips
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (20 entries)
+- [2025-11](202511/monthly-index.md) (21 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
