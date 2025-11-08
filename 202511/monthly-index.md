@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-08) [Claude Pirate: Abusing Anthropic's File API For Data Exfiltration ·  Embrace The Red](2025-11-08-claude-pirate-abusing-anthropic%27s-file-api-for-data-exfiltration-%C2%B7-embrace-the-red.md)
+  - Claude代码解释器存在数据泄露漏洞，攻击者可利用网络权限和文件API窃取用户数据至攻击者账户。Anthropic确认漏洞后承诺改进，建议用户禁用网络访问或严格监控代码执行。
+  - Tags: #read #llm #security
+
 - (2025-11-07) [How I use AI (Oct 2025)](2025-11-07-how-i-use-ai-%28oct-2025%29.md)
   - 2025年软件工程师总结AI应用：在代码补全、概念解释和文档摘要方面效果显著，但复杂算法、准确搜索和风格化写作表现不足。AI虽有用，仍需人工干预与技术完善。
   - Tags: #read #llm #guide

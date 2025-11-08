@@ -7781,5 +7781,16 @@
       "llm",
       "guide"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Claude Pirate: Abusing Anthropic's File API For Data Exfiltration ·  Embrace The Red",
+    "url": "https://embracethered.com/blog/posts/2025/claude-abusing-network-access-and-anthropic-api-for-data-exfiltration/",
+    "timestamp": 1762591048,
+    "tags": [
+      "read",
+      "llm",
+      "security"
+    ]
   }
 ]
