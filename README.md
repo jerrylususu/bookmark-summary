@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-08) [Spinning up an Onion Mirror is Stupid Easy | flower.codes](202511/2025-11-08-spinning-up-an-onion-mirror-is-stupid-easy-flower.codes.md)
+  - 本文介绍了基于 Debian 系统和 Caddy 服务器快速创建.onion镜像网站的步骤，包括安装并配置 Tor、获取.onion地址、调整 Caddy 设置和添加Onion-Location提示，过程简单实用，旨在提升网站的可访问性与抗审查能力。
+  - Tags: #read
+
 - (2025-11-08) [AiDHD](202511/2025-11-08-aidhd.md)
   - 作者在六个月间尝试了八个随性编码项目，发现AI虽能快速实现创意，但也容易导致分心。成功仍需专注解决真实需求，而非仅靠技术热潮。
   - Tags: #read #llm #deepdive
@@ -39,13 +43,9 @@
   - 文章介绍如何利用Bridgic开源框架，在企业报销流程中实现“人类在环”机制。通过工作流设计、代码实现和执行恢复机制，展示如何中断工作流等待人工审批后再继续处理，无需长连接会话。
   - Tags: #read #llm #deepdive
 
-- (2025-11-05) [MCP Colors: Systematically deal with prompt injection risk](202511/2025-11-05-mcp-colors-systematically-deal-with-prompt-injection-risk.md)
-  - 文章提出MCP Colors方法应对提示注入风险：通过红（不可信内容）蓝（关键操作）颜色标记隔离风险操作，简化安全评估。需人工参与威胁建模，强调安全无法完全自动化，但为通用代理提供可行路径。
-  - Tags: #read #llm #security
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (22 entries)
+- [2025-11](202511/monthly-index.md) (23 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
