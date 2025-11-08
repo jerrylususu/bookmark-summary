@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-08) [A Short Survey of Compiler Targets](2025-11-08-a-short-survey-of-compiler-targets.md)
+  - 本文概述了编译器后端的多种目标选项，包括机器码、中间表示、高级语言转译、虚拟机字节码、WebAssembly等，并分析其优缺点。选择时需根据性能、可移植性和开发复杂度进行权衡。
+  - Tags: #read #compiler
+
 - (2025-11-08) [Spinning up an Onion Mirror is Stupid Easy | flower.codes](2025-11-08-spinning-up-an-onion-mirror-is-stupid-easy-flower.codes.md)
   - 本文介绍了基于 Debian 系统和 Caddy 服务器快速创建.onion镜像网站的步骤，包括安装并配置 Tor、获取.onion地址、调整 Caddy 设置和添加Onion-Location提示，过程简单实用，旨在提升网站的可访问性与抗审查能力。
   - Tags: #read

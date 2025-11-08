@@ -7823,5 +7823,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "A Short Survey of Compiler Targets",
+    "url": "https://abhinavsarkar.net/notes/2025-compiler-backend-survey/",
+    "timestamp": 1762592679,
+    "tags": [
+      "read",
+      "compiler"
+    ]
   }
 ]
