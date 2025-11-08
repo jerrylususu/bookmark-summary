@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-08) [AiDHD](2025-11-08-aidhd.md)
+  - 作者在六个月间尝试了八个随性编码项目，发现AI虽能快速实现创意，但也容易导致分心。成功仍需专注解决真实需求，而非仅靠技术热潮。
+  - Tags: #read #llm #deepdive
+
 - (2025-11-08) [Think for Yourself](2025-11-08-think-for-yourself.md)
   - 开发者应批判性使用LLM生成的代码，避免盲目依赖。需主动理解、测试和改进，防止技能退化与代码质量下降，确保AI作为生产力工具而非替代品。
   - Tags: #read #llm #tips

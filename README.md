@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-08) [AiDHD](202511/2025-11-08-aidhd.md)
+  - 作者在六个月间尝试了八个随性编码项目，发现AI虽能快速实现创意，但也容易导致分心。成功仍需专注解决真实需求，而非仅靠技术热潮。
+  - Tags: #read #llm #deepdive
+
 - (2025-11-08) [Think for Yourself](202511/2025-11-08-think-for-yourself.md)
   - 开发者应批判性使用LLM生成的代码，避免盲目依赖。需主动理解、测试和改进，防止技能退化与代码质量下降，确保AI作为生产力工具而非替代品。
   - Tags: #read #llm #tips
@@ -39,13 +43,9 @@
   - 文章提出MCP Colors方法应对提示注入风险：通过红（不可信内容）蓝（关键操作）颜色标记隔离风险操作，简化安全评估。需人工参与威胁建模，强调安全无法完全自动化，但为通用代理提供可行路径。
   - Tags: #read #llm #security
 
-- (2025-11-05) [Code execution with MCP: building more efficient AI agents](202511/2025-11-05-code-execution-with-mcp-building-more-efficient-ai-agents.md)
-  - 通过代码执行优化AI代理效率，将MCP工具转为代码API，使代理按需加载工具、本地处理数据。该方法大幅减少令牌消耗（如从15万降至2千），提升响应速度并增强隐私保护，但需平衡安全沙箱等实施成本。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (21 entries)
+- [2025-11](202511/monthly-index.md) (22 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
