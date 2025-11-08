@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-08) [Claude Pirate: Abusing Anthropic's File API For Data Exfiltration ·  Embrace The Red](202511/2025-11-08-claude-pirate-abusing-anthropic%27s-file-api-for-data-exfiltration-%C2%B7-embrace-the-red.md)
+  - Claude代码解释器存在数据泄露漏洞，攻击者可利用网络权限和文件API窃取用户数据至攻击者账户。Anthropic确认漏洞后承诺改进，建议用户禁用网络访问或严格监控代码执行。
+  - Tags: #read #llm #security
+
 - (2025-11-07) [How I use AI (Oct 2025)](202511/2025-11-07-how-i-use-ai-%28oct-2025%29.md)
   - 2025年软件工程师总结AI应用：在代码补全、概念解释和文档摘要方面效果显著，但复杂算法、准确搜索和风格化写作表现不足。AI虽有用，仍需人工干预与技术完善。
   - Tags: #read #llm #guide
@@ -39,13 +43,9 @@
   - Datasette 1.0a20 重构了权限系统，将权限检查从逐条函数调用改为基于SQLite查询，提升效率。新系统支持层次化权限、插件扩展和资源批量过滤，并增加调试工具。版本变更较大，提供升级指南与AI辅助开发工具，目标在社区升级插件后发布1.0正式版。
   - Tags: #read #llm #tips
 
-- (2025-11-04) [Grapheme Clusters and Terminal Emulators](202511/2025-11-04-grapheme-clusters-and-terminal-emulators.md)
-  - 终端模拟器在处理Unicode字符如表情符号时，宽度计算常出现光标移动错误。问题源于传统方案依赖单字符宽度函数，无法正确处理多码位组合。解决方案是采用字形簇技术和Mode 2027协议，确保跨终端的兼容性和对全球语言支持。建议程序优先启用新模式，并动态计算文本宽度。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (19 entries)
+- [2025-11](202511/monthly-index.md) (20 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
