@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-09) [To get better at technical writing, lower your expectations](202511/2025-11-09-to-get-better-at-technical-writing%2C-lower-your-expectations.md)
+  - 文章建议通过降低期望来提升技术写作效果：内容简短，重点先行；省略细节，突出要点；接受沟通局限，侧重传递核心信息。清晰的思考是写作的前提，避免信息过载才能在不同背景的读者中实现有效沟通。
+  - Tags: #read #people #write
+
 - (2025-11-09) [时间账户 - Miao Yu | 于淼](202511/2025-11-09-%E6%97%B6%E9%97%B4%E8%B4%A6%E6%88%B7---miao-yu-%E4%BA%8E%E6%B7%BC.md)
   - 文章以“时间账户”比喻时间管理，指出睡眠、工作、家庭、兴趣等账户需保持平衡，避免因单一目标挤压其他时间而引发身心失衡。提出通过记账式管理了解时间分配，强调个体需理性规划以实现可持续生活。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 作者母亲遭遇电信诈骗损失95万元，案例揭示了骗子通过恐吓、伪造证件、木马操控等手法针对老年人行骗。反思指出仅靠技术拦截不足，需采取手机号隔离、设备升级及加强家人沟通等综合防范措施。
   - Tags: #read
 
-- (2025-11-06) [Making XML human-readable without XSLT](202511/2025-11-06-making-xml-human-readable-without-xslt.md)
-  - 本文指出XSLT在现代浏览器中已趋于淘汰，建议优先使用服务器端将XML转换为HTML。若需客户端处理，可用JavaScript动态生成HTML，或通过CSS简单样式化XML，但功能有限。
-  - Tags: #read #frontend
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (25 entries)
+- [2025-11](202511/monthly-index.md) (26 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
