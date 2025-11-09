@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-09) [时间账户 - Miao Yu | 于淼](2025-11-09-%E6%97%B6%E9%97%B4%E8%B4%A6%E6%88%B7---miao-yu-%E4%BA%8E%E6%B7%BC.md)
+  - 文章以“时间账户”比喻时间管理，指出睡眠、工作、家庭、兴趣等账户需保持平衡，避免因单一目标挤压其他时间而引发身心失衡。提出通过记账式管理了解时间分配，强调个体需理性规划以实现可持续生活。
+  - Tags: #read
+
 - (2025-11-08) [A Short Survey of Compiler Targets](2025-11-08-a-short-survey-of-compiler-targets.md)
   - 本文概述了编译器后端的多种目标选项，包括机器码、中间表示、高级语言转译、虚拟机字节码、WebAssembly等，并分析其优缺点。选择时需根据性能、可移植性和开发复杂度进行权衡。
   - Tags: #read #compiler
