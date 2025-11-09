@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-09) [To get better at technical writing, lower your expectations](2025-11-09-to-get-better-at-technical-writing%2C-lower-your-expectations.md)
+  - 文章建议通过降低期望来提升技术写作效果：内容简短，重点先行；省略细节，突出要点；接受沟通局限，侧重传递核心信息。清晰的思考是写作的前提，避免信息过载才能在不同背景的读者中实现有效沟通。
+  - Tags: #read #people #write
+
 - (2025-11-09) [时间账户 - Miao Yu | 于淼](2025-11-09-%E6%97%B6%E9%97%B4%E8%B4%A6%E6%88%B7---miao-yu-%E4%BA%8E%E6%B7%BC.md)
   - 文章以“时间账户”比喻时间管理，指出睡眠、工作、家庭、兴趣等账户需保持平衡，避免因单一目标挤压其他时间而引发身心失衡。提出通过记账式管理了解时间分配，强调个体需理性规划以实现可持续生活。
   - Tags: #read
