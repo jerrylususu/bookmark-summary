@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-09) [时间账户 - Miao Yu | 于淼](202511/2025-11-09-%E6%97%B6%E9%97%B4%E8%B4%A6%E6%88%B7---miao-yu-%E4%BA%8E%E6%B7%BC.md)
+  - 文章以“时间账户”比喻时间管理，指出睡眠、工作、家庭、兴趣等账户需保持平衡，避免因单一目标挤压其他时间而引发身心失衡。提出通过记账式管理了解时间分配，强调个体需理性规划以实现可持续生活。
+  - Tags: #read
+
 - (2025-11-08) [A Short Survey of Compiler Targets](202511/2025-11-08-a-short-survey-of-compiler-targets.md)
   - 本文概述了编译器后端的多种目标选项，包括机器码、中间表示、高级语言转译、虚拟机字节码、WebAssembly等，并分析其优缺点。选择时需根据性能、可移植性和开发复杂度进行权衡。
   - Tags: #read #compiler
@@ -39,13 +43,9 @@
   - 本文指出XSLT在现代浏览器中已趋于淘汰，建议优先使用服务器端将XML转换为HTML。若需客户端处理，可用JavaScript动态生成HTML，或通过CSS简单样式化XML，但功能有限。
   - Tags: #read #frontend
 
-- (2025-11-05) [Immutable by Design: The Deep Tech Behind Tigris Bucket Forking | Tigris Object Storage](202511/2025-11-05-immutable-by-design-the-deep-tech-behind-tigris-bucket-forking-tigris-object-storage.md)
-  - Tigris对象存储的核心技术“存储桶分叉”基于数据不可变性设计，利用快照、写入前日志和有序键结构实现高效时间旅行和数据隔离。该技术支持TB级数据瞬间分叉，提供高安全性和性能，适用于AI实验等场景，未来将扩展功能以突破现有限制。
-  - Tags: #read #deepdive
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (24 entries)
+- [2025-11](202511/monthly-index.md) (25 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
