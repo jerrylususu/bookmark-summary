@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-09) [Thinking clearly about software](202511/2025-11-09-thinking-clearly-about-software.md)
+  - 软件工程中，清晰思考比试错更高效：它能提升沟通、促进学习、识别难点。关键在于放慢节奏、预测结果并把握系统规则，最终深化专业影响力，而非仅完成任务。
+  - Tags: #read
+
 - (2025-11-09) [To get better at technical writing, lower your expectations](202511/2025-11-09-to-get-better-at-technical-writing%2C-lower-your-expectations.md)
   - 文章建议通过降低期望来提升技术写作效果：内容简短，重点先行；省略细节，突出要点；接受沟通局限，侧重传递核心信息。清晰的思考是写作的前提，避免信息过载才能在不同背景的读者中实现有效沟通。
   - Tags: #read #people #write
@@ -39,13 +43,9 @@
   - 通过构建简易Agent可深入理解其原理：仅需少量代码实现对话和工具调用，上下文管理决定性能上限。无需依赖复杂框架，动手实践能快速验证创新思路。当前技术仍处探索期，个人开发者具备低成本快速迭代的优势。
   - Tags: #read #llm
 
-- (2025-11-06) [我妈妈被电信诈骗95万元的全过程-月光博客](202511/2025-11-06-%E6%88%91%E5%A6%88%E5%A6%88%E8%A2%AB%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%9795%E4%B8%87%E5%85%83%E7%9A%84%E5%85%A8%E8%BF%87%E7%A8%8B-%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2.md)
-  - 作者母亲遭遇电信诈骗损失95万元，案例揭示了骗子通过恐吓、伪造证件、木马操控等手法针对老年人行骗。反思指出仅靠技术拦截不足，需采取手机号隔离、设备升级及加强家人沟通等综合防范措施。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (26 entries)
+- [2025-11](202511/monthly-index.md) (27 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
