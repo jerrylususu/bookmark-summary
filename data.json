@@ -7862,5 +7862,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "【开源】我亲手开发的一个AI框架，谈下背后的思考 - 铁蕾的个人博客",
+    "url": "https://zhangtielei.com/posts/blog-ai-framework-bridgic.html",
+    "timestamp": 1762675603,
+    "tags": [
+      "read",
+      "llm",
+      "deepdive"
+    ]
   }
 ]

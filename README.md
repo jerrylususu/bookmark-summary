@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-09) [【开源】我亲手开发的一个AI框架，谈下背后的思考 - 铁蕾的个人博客](202511/2025-11-09-%E3%80%90%E5%BC%80%E6%BA%90%E3%80%91%E6%88%91%E4%BA%B2%E6%89%8B%E5%BC%80%E5%8F%91%E7%9A%84%E4%B8%80%E4%B8%AAai%E6%A1%86%E6%9E%B6%EF%BC%8C%E8%B0%88%E4%B8%8B%E8%83%8C%E5%90%8E%E7%9A%84%E6%80%9D%E8%80%83---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
+  - Bridgic是一个AI框架，旨在简化AI Agent开发，提供统一性、动态性和模块化。它以worker和automa为核心，支持动态编排和模块化组合，适用于原型开发、生产环境和学习场景。
+  - Tags: #read #llm #deepdive
+
 - (2025-11-09) [Thinking clearly about software](202511/2025-11-09-thinking-clearly-about-software.md)
   - 软件工程中，清晰思考比试错更高效：它能提升沟通、促进学习、识别难点。关键在于放慢节奏、预测结果并把握系统规则，最终深化专业影响力，而非仅完成任务。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 2025年软件工程师总结AI应用：在代码补全、概念解释和文档摘要方面效果显著，但复杂算法、准确搜索和风格化写作表现不足。AI虽有用，仍需人工干预与技术完善。
   - Tags: #read #llm #guide
 
-- (2025-11-07) [You Should Write An Agent](202511/2025-11-07-you-should-write-an-agent.md)
-  - 通过构建简易Agent可深入理解其原理：仅需少量代码实现对话和工具调用，上下文管理决定性能上限。无需依赖复杂框架，动手实践能快速验证创新思路。当前技术仍处探索期，个人开发者具备低成本快速迭代的优势。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (27 entries)
+- [2025-11](202511/monthly-index.md) (28 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
