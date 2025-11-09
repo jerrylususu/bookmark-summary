@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-09) [Thinking clearly about software](2025-11-09-thinking-clearly-about-software.md)
+  - 软件工程中，清晰思考比试错更高效：它能提升沟通、促进学习、识别难点。关键在于放慢节奏、预测结果并把握系统规则，最终深化专业影响力，而非仅完成任务。
+  - Tags: #read
+
 - (2025-11-09) [To get better at technical writing, lower your expectations](2025-11-09-to-get-better-at-technical-writing%2C-lower-your-expectations.md)
   - 文章建议通过降低期望来提升技术写作效果：内容简短，重点先行；省略细节，突出要点；接受沟通局限，侧重传递核心信息。清晰的思考是写作的前提，避免信息过载才能在不同背景的读者中实现有效沟通。
   - Tags: #read #people #write
