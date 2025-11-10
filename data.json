@@ -7873,5 +7873,15 @@
       "llm",
       "deepdive"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "joouha/modshim",
+    "url": "https://github.com/joouha/modshim",
+    "timestamp": 1762782209,
+    "tags": [
+      "py",
+      "tools"
+    ]
   }
 ]
