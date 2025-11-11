@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-11) [Reflections on My Tech Career – Part 2](2025-11-11-reflections-on-my-tech-career-%E2%80%93-part-2.md)
+  - 作者回顾了在多家科技公司的职业生涯，强调技术贡献与职业选择。他参与多款游戏开发与优化，通过自学解决难题，但反思因忠诚或管理问题停留过久。建议持续学习、平衡生活，并利用跳槽提升薪酬。最终因个人原因退休，专注爱好。
+  - Tags: #read #people #deepdive
+
 - (2025-11-11) [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](2025-11-11-understanding-spec-driven-development-kiro%2C-spec-kit%2C-and-tessl.md)
   - 规范驱动开发（SDD）提倡先写规范再生成代码。目前工具有Kiro、spec-kit和Tessl，但多数仅实现“规范优先”层次。现有SDD面临工作流程僵化、文件冗长、AI不确定性明显等问题，实际应用中易导致审查负担重和过度工程。预期未来工具需更灵活迭代并优化规范管理。
   - Tags: #read #llm

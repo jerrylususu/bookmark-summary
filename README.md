@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-11) [Reflections on My Tech Career – Part 2](202511/2025-11-11-reflections-on-my-tech-career-%E2%80%93-part-2.md)
+  - 作者回顾了在多家科技公司的职业生涯，强调技术贡献与职业选择。他参与多款游戏开发与优化，通过自学解决难题，但反思因忠诚或管理问题停留过久。建议持续学习、平衡生活，并利用跳槽提升薪酬。最终因个人原因退休，专注爱好。
+  - Tags: #read #people #deepdive
+
 - (2025-11-11) [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](202511/2025-11-11-understanding-spec-driven-development-kiro%2C-spec-kit%2C-and-tessl.md)
   - 规范驱动开发（SDD）提倡先写规范再生成代码。目前工具有Kiro、spec-kit和Tessl，但多数仅实现“规范优先”层次。现有SDD面临工作流程僵化、文件冗长、AI不确定性明显等问题，实际应用中易导致审查负担重和过度工程。预期未来工具需更灵活迭代并优化规范管理。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 作者在六个月间尝试了八个随性编码项目，发现AI虽能快速实现创意，但也容易导致分心。成功仍需专注解决真实需求，而非仅靠技术热潮。
   - Tags: #read #llm #deepdive
 
-- (2025-11-08) [Think for Yourself](202511/2025-11-08-think-for-yourself.md)
-  - 开发者应批判性使用LLM生成的代码，避免盲目依赖。需主动理解、测试和改进，防止技能退化与代码质量下降，确保AI作为生产力工具而非替代品。
-  - Tags: #read #llm #tips
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (30 entries)
+- [2025-11](202511/monthly-index.md) (31 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
