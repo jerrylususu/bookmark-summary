@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-11) [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](202511/2025-11-11-understanding-spec-driven-development-kiro%2C-spec-kit%2C-and-tessl.md)
+  - 规范驱动开发（SDD）提倡先写规范再生成代码。目前工具有Kiro、spec-kit和Tessl，但多数仅实现“规范优先”层次。现有SDD面临工作流程僵化、文件冗长、AI不确定性明显等问题，实际应用中易导致审查负担重和过度工程。预期未来工具需更灵活迭代并优化规范管理。
+  - Tags: #read #llm
+
 - (2025-11-10) [joouha/modshim](202511/2025-11-10-joouha-modshim.md)
   - Modshim 是为Python模块提供轻量级增强的框架，无需修改原始代码。通过创建隔离的合并模块，它能修复bug、添加功能，相比猴子补丁或代码分叉更安全和易维护。
   - Tags: #py #tools
@@ -39,13 +43,9 @@
   - 开发者应批判性使用LLM生成的代码，避免盲目依赖。需主动理解、测试和改进，防止技能退化与代码质量下降，确保AI作为生产力工具而非替代品。
   - Tags: #read #llm #tips
 
-- (2025-11-08) [Claude Pirate: Abusing Anthropic's File API For Data Exfiltration ·  Embrace The Red](202511/2025-11-08-claude-pirate-abusing-anthropic%27s-file-api-for-data-exfiltration-%C2%B7-embrace-the-red.md)
-  - Claude代码解释器存在数据泄露漏洞，攻击者可利用网络权限和文件API窃取用户数据至攻击者账户。Anthropic确认漏洞后承诺改进，建议用户禁用网络访问或严格监控代码执行。
-  - Tags: #read #llm #security
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (29 entries)
+- [2025-11](202511/monthly-index.md) (30 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)

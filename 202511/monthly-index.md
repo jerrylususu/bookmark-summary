@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-11) [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](2025-11-11-understanding-spec-driven-development-kiro%2C-spec-kit%2C-and-tessl.md)
+  - 规范驱动开发（SDD）提倡先写规范再生成代码。目前工具有Kiro、spec-kit和Tessl，但多数仅实现“规范优先”层次。现有SDD面临工作流程僵化、文件冗长、AI不确定性明显等问题，实际应用中易导致审查负担重和过度工程。预期未来工具需更灵活迭代并优化规范管理。
+  - Tags: #read #llm
+
 - (2025-11-10) [joouha/modshim](2025-11-10-joouha-modshim.md)
   - Modshim 是为Python模块提供轻量级增强的框架，无需修改原始代码。通过创建隔离的合并模块，它能修复bug、添加功能，相比猴子补丁或代码分叉更安全和易维护。
   - Tags: #py #tools

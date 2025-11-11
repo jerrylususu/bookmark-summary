@@ -7883,5 +7883,15 @@
       "py",
       "tools"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl",
+    "url": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
+    "timestamp": 1762867814,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
