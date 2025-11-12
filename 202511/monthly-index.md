@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-12) [Giving your AI a Job Interview](2025-11-12-giving-your-ai-a-job-interview.md)
+  - 基准测试易失真且忽略软技能评价，建议个人用户结合直观任务测试，企业用户需通过专家设计的场景化"AI面试"进行能力评估。
+  - Tags: #read #llm
+
 - (2025-11-11) [Reflections on My Tech Career – Part 2](2025-11-11-reflections-on-my-tech-career-%E2%80%93-part-2.md)
   - 作者回顾了在多家科技公司的职业生涯，强调技术贡献与职业选择。他参与多款游戏开发与优化，通过自学解决难题，但反思因忠诚或管理问题停留过久。建议持续学习、平衡生活，并利用跳槽提升薪酬。最终因个人原因退休，专注爱好。
   - Tags: #read #people #deepdive

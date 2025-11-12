@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-12) [Giving your AI a Job Interview](202511/2025-11-12-giving-your-ai-a-job-interview.md)
+  - 基准测试易失真且忽略软技能评价，建议个人用户结合直观任务测试，企业用户需通过专家设计的场景化"AI面试"进行能力评估。
+  - Tags: #read #llm
+
 - (2025-11-11) [Reflections on My Tech Career – Part 2](202511/2025-11-11-reflections-on-my-tech-career-%E2%80%93-part-2.md)
   - 作者回顾了在多家科技公司的职业生涯，强调技术贡献与职业选择。他参与多款游戏开发与优化，通过自学解决难题，但反思因忠诚或管理问题停留过久。建议持续学习、平衡生活，并利用跳槽提升薪酬。最终因个人原因退休，专注爱好。
   - Tags: #read #people #deepdive
@@ -39,13 +43,9 @@
   - 本文介绍了基于 Debian 系统和 Caddy 服务器快速创建.onion镜像网站的步骤，包括安装并配置 Tor、获取.onion地址、调整 Caddy 设置和添加Onion-Location提示，过程简单实用，旨在提升网站的可访问性与抗审查能力。
   - Tags: #read
 
-- (2025-11-08) [AiDHD](202511/2025-11-08-aidhd.md)
-  - 作者在六个月间尝试了八个随性编码项目，发现AI虽能快速实现创意，但也容易导致分心。成功仍需专注解决真实需求，而非仅靠技术热潮。
-  - Tags: #read #llm #deepdive
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (31 entries)
+- [2025-11](202511/monthly-index.md) (32 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
