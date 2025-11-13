@@ -7954,5 +7954,15 @@
       "read",
       "security"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Scaling HNSWs - <antirez>",
+    "url": "https://antirez.com/news/156",
+    "timestamp": 1763044023,
+    "tags": [
+      "read",
+      "deepdive"
+    ]
   }
 ]
