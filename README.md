@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-13) [Agentic Pelican on a Bicycle](202511/2025-11-13-agentic-pelican-on-a-bicycle.md)
+  - 通过智能体迭代测试六款多模态模型生成“鹈鹕骑自行车”SVG的能力，发现部分模型能自我改进细节，但整体构图变化有限。实验揭示了模型在视觉评估与创意任务中的能力差异，强调了迭代方法对测试自主改进潜力的价值。
+  - Tags: #read #llm
+
 - (2025-11-13) [A quote from Steve Krouse](202511/2025-11-13-a-quote-from-steve-krouse.md)
   - MCP协议利用LLM动态推理机制，实现快速迭代且无需担心兼容性问题，相比传统API具有更高灵活性和开发效率。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 文章以“时间账户”比喻时间管理，指出睡眠、工作、家庭、兴趣等账户需保持平衡，避免因单一目标挤压其他时间而引发身心失衡。提出通过记账式管理了解时间分配，强调个体需理性规划以实现可持续生活。
   - Tags: #read
 
-- (2025-11-08) [A Short Survey of Compiler Targets](202511/2025-11-08-a-short-survey-of-compiler-targets.md)
-  - 本文概述了编译器后端的多种目标选项，包括机器码、中间表示、高级语言转译、虚拟机字节码、WebAssembly等，并分析其优缺点。选择时需根据性能、可移植性和开发复杂度进行权衡。
-  - Tags: #read #compiler
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (33 entries)
+- [2025-11](202511/monthly-index.md) (34 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
