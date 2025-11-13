@@ -7944,5 +7944,15 @@
       "read",
       "c"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Vibe hacking a padding oracle",
+    "url": "https://beny23.github.io/posts/capturing_a_padding_oracle/",
+    "timestamp": 1763042508,
+    "tags": [
+      "read",
+      "security"
+    ]
   }
 ]

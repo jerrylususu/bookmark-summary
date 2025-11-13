@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-13) [Vibe hacking a padding oracle](202511/2025-11-13-vibe-hacking-a-padding-oracle.md)
+  - 这篇文章记录作者在CTF挑战中利用编码绕过、填充预言机和SQL注入等漏洞攻破一个加密粘贴板服务，成功获取四个Flag的过程。挑战暴露了错误信息泄露、加密实现缺陷及数据库安全问题，凸显了漏洞链的危害。
+  - Tags: #read #security
+
 - (2025-11-13) [Parsing integers in C](202511/2025-11-13-parsing-integers-in-c.md)
   - C语言标准库的整数解析函数如atoi和strtol存在错误处理不严、易溢出等问题。curl项目为增强安全性实现了自定义解析函数，严格处理溢出和输入格式，并已全面替换标准库函数。
   - Tags: #read #c
@@ -39,13 +43,9 @@
   - 软件工程中，清晰思考比试错更高效：它能提升沟通、促进学习、识别难点。关键在于放慢节奏、预测结果并把握系统规则，最终深化专业影响力，而非仅完成任务。
   - Tags: #read
 
-- (2025-11-09) [To get better at technical writing, lower your expectations](202511/2025-11-09-to-get-better-at-technical-writing%2C-lower-your-expectations.md)
-  - 文章建议通过降低期望来提升技术写作效果：内容简短，重点先行；省略细节，突出要点；接受沟通局限，侧重传递核心信息。清晰的思考是写作的前提，避免信息过载才能在不同背景的读者中实现有效沟通。
-  - Tags: #read #people #write
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (35 entries)
+- [2025-11](202511/monthly-index.md) (36 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
