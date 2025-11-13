@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-13) [A quote from Steve Krouse](2025-11-13-a-quote-from-steve-krouse.md)
+  - MCP协议利用LLM动态推理机制，实现快速迭代且无需担心兼容性问题，相比传统API具有更高灵活性和开发效率。
+  - Tags: #read #llm
+
 - (2025-11-12) [Giving your AI a Job Interview](2025-11-12-giving-your-ai-a-job-interview.md)
   - 基准测试易失真且忽略软技能评价，建议个人用户结合直观任务测试，企业用户需通过专家设计的场景化"AI面试"进行能力评估。
   - Tags: #read #llm

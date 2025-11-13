@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-13) [A quote from Steve Krouse](202511/2025-11-13-a-quote-from-steve-krouse.md)
+  - MCP协议利用LLM动态推理机制，实现快速迭代且无需担心兼容性问题，相比传统API具有更高灵活性和开发效率。
+  - Tags: #read #llm
+
 - (2025-11-12) [Giving your AI a Job Interview](202511/2025-11-12-giving-your-ai-a-job-interview.md)
   - 基准测试易失真且忽略软技能评价，建议个人用户结合直观任务测试，企业用户需通过专家设计的场景化"AI面试"进行能力评估。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 本文概述了编译器后端的多种目标选项，包括机器码、中间表示、高级语言转译、虚拟机字节码、WebAssembly等，并分析其优缺点。选择时需根据性能、可移植性和开发复杂度进行权衡。
   - Tags: #read #compiler
 
-- (2025-11-08) [Spinning up an Onion Mirror is Stupid Easy | flower.codes](202511/2025-11-08-spinning-up-an-onion-mirror-is-stupid-easy-flower.codes.md)
-  - 本文介绍了基于 Debian 系统和 Caddy 服务器快速创建.onion镜像网站的步骤，包括安装并配置 Tor、获取.onion地址、调整 Caddy 设置和添加Onion-Location提示，过程简单实用，旨在提升网站的可访问性与抗审查能力。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (32 entries)
+- [2025-11](202511/monthly-index.md) (33 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
