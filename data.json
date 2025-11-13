@@ -7934,5 +7934,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Parsing integers in C",
+    "url": "https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/",
+    "timestamp": 1763041166,
+    "tags": [
+      "read",
+      "c"
+    ]
   }
 ]

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-13) [Parsing integers in C](202511/2025-11-13-parsing-integers-in-c.md)
+  - C语言标准库的整数解析函数如atoi和strtol存在错误处理不严、易溢出等问题。curl项目为增强安全性实现了自定义解析函数，严格处理溢出和输入格式，并已全面替换标准库函数。
+  - Tags: #read #c
+
 - (2025-11-13) [Agentic Pelican on a Bicycle](202511/2025-11-13-agentic-pelican-on-a-bicycle.md)
   - 通过智能体迭代测试六款多模态模型生成“鹈鹕骑自行车”SVG的能力，发现部分模型能自我改进细节，但整体构图变化有限。实验揭示了模型在视觉评估与创意任务中的能力差异，强调了迭代方法对测试自主改进潜力的价值。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 文章建议通过降低期望来提升技术写作效果：内容简短，重点先行；省略细节，突出要点；接受沟通局限，侧重传递核心信息。清晰的思考是写作的前提，避免信息过载才能在不同背景的读者中实现有效沟通。
   - Tags: #read #people #write
 
-- (2025-11-09) [时间账户 - Miao Yu | 于淼](202511/2025-11-09-%E6%97%B6%E9%97%B4%E8%B4%A6%E6%88%B7---miao-yu-%E4%BA%8E%E6%B7%BC.md)
-  - 文章以“时间账户”比喻时间管理，指出睡眠、工作、家庭、兴趣等账户需保持平衡，避免因单一目标挤压其他时间而引发身心失衡。提出通过记账式管理了解时间分配，强调个体需理性规划以实现可持续生活。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (34 entries)
+- [2025-11](202511/monthly-index.md) (35 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
