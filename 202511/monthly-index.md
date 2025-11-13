@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-13) [Agentic Pelican on a Bicycle](2025-11-13-agentic-pelican-on-a-bicycle.md)
+  - 通过智能体迭代测试六款多模态模型生成“鹈鹕骑自行车”SVG的能力，发现部分模型能自我改进细节，但整体构图变化有限。实验揭示了模型在视觉评估与创意任务中的能力差异，强调了迭代方法对测试自主改进潜力的价值。
+  - Tags: #read #llm
+
 - (2025-11-13) [A quote from Steve Krouse](2025-11-13-a-quote-from-steve-krouse.md)
   - MCP协议利用LLM动态推理机制，实现快速迭代且无需担心兼容性问题，相比传统API具有更高灵活性和开发效率。
   - Tags: #read #llm
