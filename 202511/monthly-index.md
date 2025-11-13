@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-13) [Vibe hacking a padding oracle](2025-11-13-vibe-hacking-a-padding-oracle.md)
+  - 这篇文章记录作者在CTF挑战中利用编码绕过、填充预言机和SQL注入等漏洞攻破一个加密粘贴板服务，成功获取四个Flag的过程。挑战暴露了错误信息泄露、加密实现缺陷及数据库安全问题，凸显了漏洞链的危害。
+  - Tags: #read #security
+
 - (2025-11-13) [Parsing integers in C](2025-11-13-parsing-integers-in-c.md)
   - C语言标准库的整数解析函数如atoi和strtol存在错误处理不严、易溢出等问题。curl项目为增强安全性实现了自定义解析函数，严格处理溢出和输入格式，并已全面替换标准库函数。
   - Tags: #read #c
