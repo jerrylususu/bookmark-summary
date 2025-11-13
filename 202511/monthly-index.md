@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-13) [Parsing integers in C](2025-11-13-parsing-integers-in-c.md)
+  - C语言标准库的整数解析函数如atoi和strtol存在错误处理不严、易溢出等问题。curl项目为增强安全性实现了自定义解析函数，严格处理溢出和输入格式，并已全面替换标准库函数。
+  - Tags: #read #c
+
 - (2025-11-13) [Agentic Pelican on a Bicycle](2025-11-13-agentic-pelican-on-a-bicycle.md)
   - 通过智能体迭代测试六款多模态模型生成“鹈鹕骑自行车”SVG的能力，发现部分模型能自我改进细节，但整体构图变化有限。实验揭示了模型在视觉评估与创意任务中的能力差异，强调了迭代方法对测试自主改进潜力的价值。
   - Tags: #read #llm
