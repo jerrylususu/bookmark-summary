@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-13) [The Software Engineer’s Guidebook: a recap](2025-11-13-the-software-engineer%E2%80%99s-guidebook-a-recap.md)
+  - 《软件工程师指南》作者分享自出版经验：书籍基于Uber管理实践，因与传统出版社合作不顺转为自出版，通过多平台销售两年收入61万美元。自出版收益更高但需自主承担全流程，技术书籍需平衡时效性与普适性。该书成功推动行业交流，并激励技术人写作。
+  - Tags: #read #deepdive
+
 - (2025-11-13) [Scaling HNSWs - <antirez>](2025-11-13-scaling-hnsws---antirez.md)
   - Redis 创始人 antirez 总结了在 Redis 中实现 HNSW 的经验，基于低延迟需求介绍了内存优化（如 8 位量化）、并发操作支持、删除节点处理、多进程扩展、快速加载、JSON 过滤等优化措施。通过优化，Redis 的 HNSW 实现了高吞吐和良好伸缩性，适用于大规模向量检索场景。
   - Tags: #read #deepdive

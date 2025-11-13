@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-13) [The Software Engineer’s Guidebook: a recap](202511/2025-11-13-the-software-engineer%E2%80%99s-guidebook-a-recap.md)
+  - 《软件工程师指南》作者分享自出版经验：书籍基于Uber管理实践，因与传统出版社合作不顺转为自出版，通过多平台销售两年收入61万美元。自出版收益更高但需自主承担全流程，技术书籍需平衡时效性与普适性。该书成功推动行业交流，并激励技术人写作。
+  - Tags: #read #deepdive
+
 - (2025-11-13) [Scaling HNSWs - <antirez>](202511/2025-11-13-scaling-hnsws---antirez.md)
   - Redis 创始人 antirez 总结了在 Redis 中实现 HNSW 的经验，基于低延迟需求介绍了内存优化（如 8 位量化）、并发操作支持、删除节点处理、多进程扩展、快速加载、JSON 过滤等优化措施。通过优化，Redis 的 HNSW 实现了高吞吐和良好伸缩性，适用于大规模向量检索场景。
   - Tags: #read #deepdive
@@ -39,13 +43,9 @@
   - Modshim 是为Python模块提供轻量级增强的框架，无需修改原始代码。通过创建隔离的合并模块，它能修复bug、添加功能，相比猴子补丁或代码分叉更安全和易维护。
   - Tags: #py #tools
 
-- (2025-11-09) [【开源】我亲手开发的一个AI框架，谈下背后的思考 - 铁蕾的个人博客](202511/2025-11-09-%E3%80%90%E5%BC%80%E6%BA%90%E3%80%91%E6%88%91%E4%BA%B2%E6%89%8B%E5%BC%80%E5%8F%91%E7%9A%84%E4%B8%80%E4%B8%AAai%E6%A1%86%E6%9E%B6%EF%BC%8C%E8%B0%88%E4%B8%8B%E8%83%8C%E5%90%8E%E7%9A%84%E6%80%9D%E8%80%83---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
-  - Bridgic是一个AI框架，旨在简化AI Agent开发，提供统一性、动态性和模块化。它以worker和automa为核心，支持动态编排和模块化组合，适用于原型开发、生产环境和学习场景。
-  - Tags: #read #llm #deepdive
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (37 entries)
+- [2025-11](202511/monthly-index.md) (38 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
