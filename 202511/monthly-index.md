@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-13) [Scaling HNSWs - <antirez>](2025-11-13-scaling-hnsws---antirez.md)
+  - Redis 创始人 antirez 总结了在 Redis 中实现 HNSW 的经验，基于低延迟需求介绍了内存优化（如 8 位量化）、并发操作支持、删除节点处理、多进程扩展、快速加载、JSON 过滤等优化措施。通过优化，Redis 的 HNSW 实现了高吞吐和良好伸缩性，适用于大规模向量检索场景。
+  - Tags: #read #deepdive
+
 - (2025-11-13) [Vibe hacking a padding oracle](2025-11-13-vibe-hacking-a-padding-oracle.md)
   - 这篇文章记录作者在CTF挑战中利用编码绕过、填充预言机和SQL注入等漏洞攻破一个加密粘贴板服务，成功获取四个Flag的过程。挑战暴露了错误信息泄露、加密实现缺陷及数据库安全问题，凸显了漏洞链的危害。
   - Tags: #read #security
