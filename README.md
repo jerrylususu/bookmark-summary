@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-14) [Visual Types](202511/2025-11-14-visual-types.md)
+  - 本文介绍了TypeScript类型系统的基础与进阶概念，包括类型定义、子类型关系、复合类型，以及泛型、类型操作符、条件类型和常用工具类型等，用于构建和操作类型。
+  - Tags: #guide
+
 - (2025-11-14) [Glue work considered harmful](202511/2025-11-14-glue-work-considered-harmful.md)
   - 胶水工作是团队中关键但常被忽视的支持性任务，如文档更新和内部协调，虽能提升效率却难获公司奖励。建议仅在负责项目中策略性执行，避免长期承担，以免倦怠且成效有限。公司更关注功能交付而非局部效率优化。
   - Tags: #read #people
@@ -39,13 +43,9 @@
   - MCP协议利用LLM动态推理机制，实现快速迭代且无需担心兼容性问题，相比传统API具有更高灵活性和开发效率。
   - Tags: #read #llm
 
-- (2025-11-12) [Giving your AI a Job Interview](202511/2025-11-12-giving-your-ai-a-job-interview.md)
-  - 基准测试易失真且忽略软技能评价，建议个人用户结合直观任务测试，企业用户需通过专家设计的场景化"AI面试"进行能力评估。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (41 entries)
+- [2025-11](202511/monthly-index.md) (42 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)

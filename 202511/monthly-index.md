@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-14) [Visual Types](2025-11-14-visual-types.md)
+  - 本文介绍了TypeScript类型系统的基础与进阶概念，包括类型定义、子类型关系、复合类型，以及泛型、类型操作符、条件类型和常用工具类型等，用于构建和操作类型。
+  - Tags: #guide
+
 - (2025-11-14) [Glue work considered harmful](2025-11-14-glue-work-considered-harmful.md)
   - 胶水工作是团队中关键但常被忽视的支持性任务，如文档更新和内部协调，虽能提升效率却难获公司奖励。建议仅在负责项目中策略性执行，避免长期承担，以免倦怠且成效有限。公司更关注功能交付而非局部效率优化。
   - Tags: #read #people
