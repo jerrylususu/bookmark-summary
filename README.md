@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-14) [Visual Effect - Interactive Effect Playground](202511/2025-11-14-visual-effect---interactive-effect-playground.md)
+  - 本文概述了 TypeScript 库 Effect 的主要功能模块，包括构造器、并发处理、错误管理、调度机制、引用和资源作用域，通过代码示例直观展示用法。
+  - Tags: #guide
+
 - (2025-11-14) [Visual Types](202511/2025-11-14-visual-types.md)
   - 本文介绍了TypeScript类型系统的基础与进阶概念，包括类型定义、子类型关系、复合类型，以及泛型、类型操作符、条件类型和常用工具类型等，用于构建和操作类型。
   - Tags: #guide
@@ -39,13 +43,9 @@
   - 通过智能体迭代测试六款多模态模型生成“鹈鹕骑自行车”SVG的能力，发现部分模型能自我改进细节，但整体构图变化有限。实验揭示了模型在视觉评估与创意任务中的能力差异，强调了迭代方法对测试自主改进潜力的价值。
   - Tags: #read #llm
 
-- (2025-11-13) [A quote from Steve Krouse](202511/2025-11-13-a-quote-from-steve-krouse.md)
-  - MCP协议利用LLM动态推理机制，实现快速迭代且无需担心兼容性问题，相比传统API具有更高灵活性和开发效率。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (42 entries)
+- [2025-11](202511/monthly-index.md) (43 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
