@@ -7974,5 +7974,16 @@
       "read",
       "deepdive"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Nano Banana can be prompt engineered for extremely nuanced AI image generation",
+    "url": "https://minimaxir.com/2025/11/nano-banana-prompts/",
+    "timestamp": 1763126028,
+    "tags": [
+      "read",
+      "llm",
+      "guide"
+    ]
   }
 ]
