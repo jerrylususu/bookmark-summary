@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-14) [Nano Banana can be prompt engineered for extremely nuanced AI image generation](202511/2025-11-14-nano-banana-can-be-prompt-engineered-for-extremely-nuanced-ai-image-generation.md)
+  - Google推出的Nano Banana图像生成模型基于自回归技术，能精确遵循复杂提示并生成高质量图像，如处理荒诞请求和多指令编辑。模型优势包括强大的文本理解和免费使用，但存在风格转换弱、渲染文字出错及生成速度慢等局限。
+  - Tags: #read #llm #guide
+
 - (2025-11-13) [The Software Engineer’s Guidebook: a recap](202511/2025-11-13-the-software-engineer%E2%80%99s-guidebook-a-recap.md)
   - 《软件工程师指南》作者分享自出版经验：书籍基于Uber管理实践，因与传统出版社合作不顺转为自出版，通过多平台销售两年收入61万美元。自出版收益更高但需自主承担全流程，技术书籍需平衡时效性与普适性。该书成功推动行业交流，并激励技术人写作。
   - Tags: #read #deepdive
@@ -39,13 +43,9 @@
   - 规范驱动开发（SDD）提倡先写规范再生成代码。目前工具有Kiro、spec-kit和Tessl，但多数仅实现“规范优先”层次。现有SDD面临工作流程僵化、文件冗长、AI不确定性明显等问题，实际应用中易导致审查负担重和过度工程。预期未来工具需更灵活迭代并优化规范管理。
   - Tags: #read #llm
 
-- (2025-11-10) [joouha/modshim](202511/2025-11-10-joouha-modshim.md)
-  - Modshim 是为Python模块提供轻量级增强的框架，无需修改原始代码。通过创建隔离的合并模块，它能修复bug、添加功能，相比猴子补丁或代码分叉更安全和易维护。
-  - Tags: #py #tools
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (38 entries)
+- [2025-11](202511/monthly-index.md) (39 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
