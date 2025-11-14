@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-14) [Glue work considered harmful](202511/2025-11-14-glue-work-considered-harmful.md)
+  - 胶水工作是团队中关键但常被忽视的支持性任务，如文档更新和内部协调，虽能提升效率却难获公司奖励。建议仅在负责项目中策略性执行，避免长期承担，以免倦怠且成效有限。公司更关注功能交付而非局部效率优化。
+  - Tags: #read #people
+
 - (2025-11-14) [Needy Programs](202511/2025-11-14-needy-programs.md)
   - 文章批评现代软件从“用户主导”转向“需求化”，通过账户、更新、通知和新功能引导四个层面，揭示应用如何侵占用户注意力。作者主张程序应回归安静、可控的体验，像基础工具一样仅响应指令。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 基准测试易失真且忽略软技能评价，建议个人用户结合直观任务测试，企业用户需通过专家设计的场景化"AI面试"进行能力评估。
   - Tags: #read #llm
 
-- (2025-11-11) [Reflections on My Tech Career – Part 2](202511/2025-11-11-reflections-on-my-tech-career-%E2%80%93-part-2.md)
-  - 作者回顾了在多家科技公司的职业生涯，强调技术贡献与职业选择。他参与多款游戏开发与优化，通过自学解决难题，但反思因忠诚或管理问题停留过久。建议持续学习、平衡生活，并利用跳槽提升薪酬。最终因个人原因退休，专注爱好。
-  - Tags: #read #people #deepdive
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (40 entries)
+- [2025-11](202511/monthly-index.md) (41 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
