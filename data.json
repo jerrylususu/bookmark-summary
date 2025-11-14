@@ -7985,5 +7985,14 @@
       "llm",
       "guide"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Needy Programs",
+    "url": "https://tonsky.me/blog/needy-programs/",
+    "timestamp": 1763126220,
+    "tags": [
+      "read"
+    ]
   }
 ]

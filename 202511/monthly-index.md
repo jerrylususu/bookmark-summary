@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-14) [Needy Programs](2025-11-14-needy-programs.md)
+  - 文章批评现代软件从“用户主导”转向“需求化”，通过账户、更新、通知和新功能引导四个层面，揭示应用如何侵占用户注意力。作者主张程序应回归安静、可控的体验，像基础工具一样仅响应指令。
+  - Tags: #read
+
 - (2025-11-14) [Nano Banana can be prompt engineered for extremely nuanced AI image generation](2025-11-14-nano-banana-can-be-prompt-engineered-for-extremely-nuanced-ai-image-generation.md)
   - Google推出的Nano Banana图像生成模型基于自回归技术，能精确遵循复杂提示并生成高质量图像，如处理荒诞请求和多指令编辑。模型优势包括强大的文本理解和免费使用，但存在风格转换弱、渲染文字出错及生成速度慢等局限。
   - Tags: #read #llm #guide
