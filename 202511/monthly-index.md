@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-14) [Visual Effect - Interactive Effect Playground](2025-11-14-visual-effect---interactive-effect-playground.md)
+  - 本文概述了 TypeScript 库 Effect 的主要功能模块，包括构造器、并发处理、错误管理、调度机制、引用和资源作用域，通过代码示例直观展示用法。
+  - Tags: #guide
+
 - (2025-11-14) [Visual Types](2025-11-14-visual-types.md)
   - 本文介绍了TypeScript类型系统的基础与进阶概念，包括类型定义、子类型关系、复合类型，以及泛型、类型操作符、条件类型和常用工具类型等，用于构建和操作类型。
   - Tags: #guide
