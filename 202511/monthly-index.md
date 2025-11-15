@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-15) [toon-format/toon](2025-11-15-toon-format-toon.md)
+  - TOON是一种面向大语言模型的紧凑数据格式，结合YAML的缩进和CSV的表格特点，可节省30-60%的令牌数量。适用于结构统一的对象数组，在提升LLM数据查询准确性的同时降低使用成本。提供TypeScript SDK和CLI工具支持。
+  - Tags: #tools #hack
+
 - (2025-11-14) [Visual Effect - Interactive Effect Playground](2025-11-14-visual-effect---interactive-effect-playground.md)
   - 本文概述了 TypeScript 库 Effect 的主要功能模块，包括构造器、并发处理、错误管理、调度机制、引用和资源作用域，通过代码示例直观展示用法。
   - Tags: #guide

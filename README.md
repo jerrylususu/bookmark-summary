@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-15) [toon-format/toon](202511/2025-11-15-toon-format-toon.md)
+  - TOON是一种面向大语言模型的紧凑数据格式，结合YAML的缩进和CSV的表格特点，可节省30-60%的令牌数量。适用于结构统一的对象数组，在提升LLM数据查询准确性的同时降低使用成本。提供TypeScript SDK和CLI工具支持。
+  - Tags: #tools #hack
+
 - (2025-11-14) [Visual Effect - Interactive Effect Playground](202511/2025-11-14-visual-effect---interactive-effect-playground.md)
   - 本文概述了 TypeScript 库 Effect 的主要功能模块，包括构造器、并发处理、错误管理、调度机制、引用和资源作用域，通过代码示例直观展示用法。
   - Tags: #guide
@@ -39,13 +43,9 @@
   - C语言标准库的整数解析函数如atoi和strtol存在错误处理不严、易溢出等问题。curl项目为增强安全性实现了自定义解析函数，严格处理溢出和输入格式，并已全面替换标准库函数。
   - Tags: #read #c
 
-- (2025-11-13) [Agentic Pelican on a Bicycle](202511/2025-11-13-agentic-pelican-on-a-bicycle.md)
-  - 通过智能体迭代测试六款多模态模型生成“鹈鹕骑自行车”SVG的能力，发现部分模型能自我改进细节，但整体构图变化有限。实验揭示了模型在视觉评估与创意任务中的能力差异，强调了迭代方法对测试自主改进潜力的价值。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (43 entries)
+- [2025-11](202511/monthly-index.md) (44 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
