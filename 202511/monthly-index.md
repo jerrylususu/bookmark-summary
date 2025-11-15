@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-15) [Your data model is your destiny](2025-11-15-your-data-model-is-your-destiny.md)
+  - 初创企业的成功往往取决于其数据模型的战略选择。在颠覆性市场或垂直领域，独特数据模型能形成难以复制的核心优势，如Slack、Notion等公司的案例所示。一旦正确构建，数据模型将推动产品功能的自然整合与持续创新，成为企业的长期护城河。
+  - Tags: #read #design
+
 - (2025-11-15) [toon-format/toon](2025-11-15-toon-format-toon.md)
   - TOON是一种面向大语言模型的紧凑数据格式，结合YAML的缩进和CSV的表格特点，可节省30-60%的令牌数量。适用于结构统一的对象数组，在提升LLM数据查询准确性的同时降低使用成本。提供TypeScript SDK和CLI工具支持。
   - Tags: #tools #hack

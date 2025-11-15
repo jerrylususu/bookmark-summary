@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-15) [Your data model is your destiny](202511/2025-11-15-your-data-model-is-your-destiny.md)
+  - 初创企业的成功往往取决于其数据模型的战略选择。在颠覆性市场或垂直领域，独特数据模型能形成难以复制的核心优势，如Slack、Notion等公司的案例所示。一旦正确构建，数据模型将推动产品功能的自然整合与持续创新，成为企业的长期护城河。
+  - Tags: #read #design
+
 - (2025-11-15) [toon-format/toon](202511/2025-11-15-toon-format-toon.md)
   - TOON是一种面向大语言模型的紧凑数据格式，结合YAML的缩进和CSV的表格特点，可节省30-60%的令牌数量。适用于结构统一的对象数组，在提升LLM数据查询准确性的同时降低使用成本。提供TypeScript SDK和CLI工具支持。
   - Tags: #tools #hack
@@ -39,13 +43,9 @@
   - 这篇文章记录作者在CTF挑战中利用编码绕过、填充预言机和SQL注入等漏洞攻破一个加密粘贴板服务，成功获取四个Flag的过程。挑战暴露了错误信息泄露、加密实现缺陷及数据库安全问题，凸显了漏洞链的危害。
   - Tags: #read #security
 
-- (2025-11-13) [Parsing integers in C](202511/2025-11-13-parsing-integers-in-c.md)
-  - C语言标准库的整数解析函数如atoi和strtol存在错误处理不严、易溢出等问题。curl项目为增强安全性实现了自定义解析函数，严格处理溢出和输入格式，并已全面替换标准库函数。
-  - Tags: #read #c
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (44 entries)
+- [2025-11](202511/monthly-index.md) (45 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
