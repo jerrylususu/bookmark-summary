@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-15) [Can you save on LLM tokens using images instead of text?](2025-11-15-can-you-save-on-llm-tokens-using-images-instead-of-text.md)
+  - 研究探索了将文本转为图像以减少大语言模型提示令牌消耗的方法。实验发现，图像输入虽能节省部分提示令牌，但多数模型会生成更多高成本的完成令牌，且处理时间翻倍，综合性价比低，实际价值有限。
+  - Tags: #read #llm
+
 - (2025-11-15) [Welcome, the entire land](2025-11-15-welcome%2C-the-entire-land.md)
   - 作者在布莱顿参会后受启发，将编程传统“Hello World”译为古埃及象形文字，最终设计成T恤图案并免费分享，以趣味方式连接古老文化与现代技术。
   - Tags: #read
