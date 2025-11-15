@@ -8061,5 +8061,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Can you save on LLM tokens using images instead of text?",
+    "url": "https://pagewatch.ai/blog/post/llm-text-as-image-tokens/",
+    "timestamp": 1763199221,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
