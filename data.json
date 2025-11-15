@@ -8071,5 +8071,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Digital hygiene",
+    "url": "https://karpathy.bearblog.dev/digital-hygiene/",
+    "timestamp": 1763199448,
+    "tags": [
+      "read",
+      "security"
+    ]
   }
 ]

@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-15) [Digital hygiene](2025-11-15-digital-hygiene.md)
+  - 《数字卫生》文章从密码管理、身份验证、设备安全到通信隐私等多方面，提供实用建议以提升网络安全性。强调使用密码管理器、硬件密钥、加密工具和隐私优先服务，倡导自律防护以减少数据泄露和欺诈风险。
+  - Tags: #read #security
+
 - (2025-11-15) [Can you save on LLM tokens using images instead of text?](2025-11-15-can-you-save-on-llm-tokens-using-images-instead-of-text.md)
   - 研究探索了将文本转为图像以减少大语言模型提示令牌消耗的方法。实验发现，图像输入虽能节省部分提示令牌，但多数模型会生成更多高成本的完成令牌，且处理时间翻倍，综合性价比低，实际价值有限。
   - Tags: #read #llm
