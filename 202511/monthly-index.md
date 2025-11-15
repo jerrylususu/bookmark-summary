@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-15) [Using the Web Monetization API for fun and profit](2025-11-15-using-the-web-monetization-api-for-fun-and-profit.md)
+  - Web Monetization API 允许用户按浏览时长或一次性支付来资助内容创作者。用户需安装扩展并配置钱包，发布者通过在网页中添加标签接收款项。该功能支持动态内容调整，有潜力推动网络小额支付发展。
+  - Tags: #read #money
+
 - (2025-11-15) [Digital hygiene](2025-11-15-digital-hygiene.md)
   - 《数字卫生》文章从密码管理、身份验证、设备安全到通信隐私等多方面，提供实用建议以提升网络安全性。强调使用密码管理器、硬件密钥、加密工具和隐私优先服务，倡导自律防护以减少数据泄露和欺诈风险。
   - Tags: #read #security
