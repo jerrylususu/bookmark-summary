@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-15) [Using the Web Monetization API for fun and profit](202511/2025-11-15-using-the-web-monetization-api-for-fun-and-profit.md)
+  - Web Monetization API 允许用户按浏览时长或一次性支付来资助内容创作者。用户需安装扩展并配置钱包，发布者通过在网页中添加标签接收款项。该功能支持动态内容调整，有潜力推动网络小额支付发展。
+  - Tags: #read #money
+
 - (2025-11-15) [Digital hygiene](202511/2025-11-15-digital-hygiene.md)
   - 《数字卫生》文章从密码管理、身份验证、设备安全到通信隐私等多方面，提供实用建议以提升网络安全性。强调使用密码管理器、硬件密钥、加密工具和隐私优先服务，倡导自律防护以减少数据泄露和欺诈风险。
   - Tags: #read #security
@@ -39,13 +43,9 @@
   - 胶水工作是团队中关键但常被忽视的支持性任务，如文档更新和内部协调，虽能提升效率却难获公司奖励。建议仅在负责项目中策略性执行，避免长期承担，以免倦怠且成效有限。公司更关注功能交付而非局部效率优化。
   - Tags: #read #people
 
-- (2025-11-14) [Needy Programs](202511/2025-11-14-needy-programs.md)
-  - 文章批评现代软件从“用户主导”转向“需求化”，通过账户、更新、通知和新功能引导四个层面，揭示应用如何侵占用户注意力。作者主张程序应回归安静、可控的体验，像基础工具一样仅响应指令。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (49 entries)
+- [2025-11](202511/monthly-index.md) (50 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
