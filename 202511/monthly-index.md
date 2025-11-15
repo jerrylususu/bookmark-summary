@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-15) [Language Agnostic Programming: Why you may still need code](2025-11-15-language-agnostic-programming-why-you-may-still-need-code.md)
+  - 文章探讨了AI在代码生成中的作用与局限，提出语言无关编程的设想：AI可能生成一种精确代码（如Rust），但开发者可通过语言模型实时转换为熟悉语言进行调试。该模式有望降低编程门槛，但仍面临技术挑战，未来关系尚不确定。
+  - Tags: #read #llm
+
 - (2025-11-15) [Your data model is your destiny](2025-11-15-your-data-model-is-your-destiny.md)
   - 初创企业的成功往往取决于其数据模型的战略选择。在颠覆性市场或垂直领域，独特数据模型能形成难以复制的核心优势，如Slack、Notion等公司的案例所示。一旦正确构建，数据模型将推动产品功能的自然整合与持续创新，成为企业的长期护城河。
   - Tags: #read #design

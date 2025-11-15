@@ -8042,5 +8042,15 @@
       "read",
       "design"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Language Agnostic Programming: Why you may still need code",
+    "url": "https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/",
+    "timestamp": 1763198770,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
