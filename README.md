@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-15) [Digital hygiene](202511/2025-11-15-digital-hygiene.md)
+  - 《数字卫生》文章从密码管理、身份验证、设备安全到通信隐私等多方面，提供实用建议以提升网络安全性。强调使用密码管理器、硬件密钥、加密工具和隐私优先服务，倡导自律防护以减少数据泄露和欺诈风险。
+  - Tags: #read #security
+
 - (2025-11-15) [Can you save on LLM tokens using images instead of text?](202511/2025-11-15-can-you-save-on-llm-tokens-using-images-instead-of-text.md)
   - 研究探索了将文本转为图像以减少大语言模型提示令牌消耗的方法。实验发现，图像输入虽能节省部分提示令牌，但多数模型会生成更多高成本的完成令牌，且处理时间翻倍，综合性价比低，实际价值有限。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 文章批评现代软件从“用户主导”转向“需求化”，通过账户、更新、通知和新功能引导四个层面，揭示应用如何侵占用户注意力。作者主张程序应回归安静、可控的体验，像基础工具一样仅响应指令。
   - Tags: #read
 
-- (2025-11-14) [Nano Banana can be prompt engineered for extremely nuanced AI image generation](202511/2025-11-14-nano-banana-can-be-prompt-engineered-for-extremely-nuanced-ai-image-generation.md)
-  - Google推出的Nano Banana图像生成模型基于自回归技术，能精确遵循复杂提示并生成高质量图像，如处理荒诞请求和多指令编辑。模型优势包括强大的文本理解和免费使用，但存在风格转换弱、渲染文字出错及生成速度慢等局限。
-  - Tags: #read #llm #guide
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (48 entries)
+- [2025-11](202511/monthly-index.md) (49 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
