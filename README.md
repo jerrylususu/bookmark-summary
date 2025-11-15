@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-15) [Welcome, the entire land](202511/2025-11-15-welcome%2C-the-entire-land.md)
+  - 作者在布莱顿参会后受启发，将编程传统“Hello World”译为古埃及象形文字，最终设计成T恤图案并免费分享，以趣味方式连接古老文化与现代技术。
+  - Tags: #read
+
 - (2025-11-15) [Language Agnostic Programming: Why you may still need code](202511/2025-11-15-language-agnostic-programming-why-you-may-still-need-code.md)
   - 文章探讨了AI在代码生成中的作用与局限，提出语言无关编程的设想：AI可能生成一种精确代码（如Rust），但开发者可通过语言模型实时转换为熟悉语言进行调试。该模式有望降低编程门槛，但仍面临技术挑战，未来关系尚不确定。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 《软件工程师指南》作者分享自出版经验：书籍基于Uber管理实践，因与传统出版社合作不顺转为自出版，通过多平台销售两年收入61万美元。自出版收益更高但需自主承担全流程，技术书籍需平衡时效性与普适性。该书成功推动行业交流，并激励技术人写作。
   - Tags: #read #deepdive
 
-- (2025-11-13) [Scaling HNSWs - <antirez>](202511/2025-11-13-scaling-hnsws---antirez.md)
-  - Redis 创始人 antirez 总结了在 Redis 中实现 HNSW 的经验，基于低延迟需求介绍了内存优化（如 8 位量化）、并发操作支持、删除节点处理、多进程扩展、快速加载、JSON 过滤等优化措施。通过优化，Redis 的 HNSW 实现了高吞吐和良好伸缩性，适用于大规模向量检索场景。
-  - Tags: #read #deepdive
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (46 entries)
+- [2025-11](202511/monthly-index.md) (47 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
