@@ -8102,5 +8102,16 @@
       "llm",
       "deepdive"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "超越DRY：AI原生软件工程的思考",
+    "url": "https://grapeot.me/ai-software-engineering.html",
+    "timestamp": 1763388162,
+    "tags": [
+      "read",
+      "llm",
+      "deepdive"
+    ]
   }
 ]
