@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-17) [基于动态拓扑的Agent编排，原理解析+源码下载 - 铁蕾的个人博客](2025-11-17-%E5%9F%BA%E4%BA%8E%E5%8A%A8%E6%80%81%E6%8B%93%E6%89%91%E7%9A%84agent%E7%BC%96%E6%8E%92%EF%BC%8C%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90%2B%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
+  - Bridgic框架通过静态、动态和自主编排三级动态性，支持从固定工作流到LLM驱动的动态拓扑调整。核心基于动态有向图机制实现执行调度，并通过声明式和Core API提供编排能力。当前在组件化表达上存在局限，作者未来将优化该特性。
+  - Tags: #read #llm #deepdive
+
 - (2025-11-15) [Using the Web Monetization API for fun and profit](2025-11-15-using-the-web-monetization-api-for-fun-and-profit.md)
   - Web Monetization API 允许用户按浏览时长或一次性支付来资助内容创作者。用户需安装扩展并配置钱包，发布者通过在网页中添加标签接收款项。该功能支持动态内容调整，有潜力推动网络小额支付发展。
   - Tags: #read #money

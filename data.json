@@ -8091,5 +8091,16 @@
       "read",
       "money"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "基于动态拓扑的Agent编排，原理解析+源码下载 - 铁蕾的个人博客",
+    "url": "https://zhangtielei.com/posts/blog-bridgic-dynamic-topology.html",
+    "timestamp": 1763387836,
+    "tags": [
+      "read",
+      "llm",
+      "deepdive"
+    ]
   }
 ]
