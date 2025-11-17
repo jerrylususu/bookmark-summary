@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-17) [Only three kinds of AI products actually work](202511/2025-11-17-only-three-kinds-of-ai-products-actually-work.md)
+  - 当前有效的AI产品主要分为聊天机器人、自动补全和智能体三类，其中通用模型（如ChatGPT）占主导，而智能体在编程等领域展现出自主任务执行的潜力。其他方向如AI内容流和游戏仍处探索期，未来发展需突破对聊天界面的依赖，打造更贴合需求的产品形态。
+  - Tags: #read #llm
+
 - (2025-11-17) [超越DRY：AI原生软件工程的思考](202511/2025-11-17-%E8%B6%85%E8%B6%8Adry%EF%BC%9Aai%E5%8E%9F%E7%94%9F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E7%9A%84%E6%80%9D%E8%80%83.md)
   - AI时代软件工程从交付成品变为提供“生成内核”，强调设计支持AI生成代码的基础套件。新原则注重透明性、细粒度控制和知识引导，鼓励个性化需求的“有意义重复”，开发者角色转向为AI创造力搭建舞台。
   - Tags: #read #llm #deepdive
@@ -39,13 +43,9 @@
   - TOON是一种面向大语言模型的紧凑数据格式，结合YAML的缩进和CSV的表格特点，可节省30-60%的令牌数量。适用于结构统一的对象数组，在提升LLM数据查询准确性的同时降低使用成本。提供TypeScript SDK和CLI工具支持。
   - Tags: #tools #hack
 
-- (2025-11-14) [Visual Effect - Interactive Effect Playground](202511/2025-11-14-visual-effect---interactive-effect-playground.md)
-  - 本文概述了 TypeScript 库 Effect 的主要功能模块，包括构造器、并发处理、错误管理、调度机制、引用和资源作用域，通过代码示例直观展示用法。
-  - Tags: #guide
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (52 entries)
+- [2025-11](202511/monthly-index.md) (53 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)

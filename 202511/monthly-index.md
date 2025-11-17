@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-17) [Only three kinds of AI products actually work](2025-11-17-only-three-kinds-of-ai-products-actually-work.md)
+  - 当前有效的AI产品主要分为聊天机器人、自动补全和智能体三类，其中通用模型（如ChatGPT）占主导，而智能体在编程等领域展现出自主任务执行的潜力。其他方向如AI内容流和游戏仍处探索期，未来发展需突破对聊天界面的依赖，打造更贴合需求的产品形态。
+  - Tags: #read #llm
+
 - (2025-11-17) [超越DRY：AI原生软件工程的思考](2025-11-17-%E8%B6%85%E8%B6%8Adry%EF%BC%9Aai%E5%8E%9F%E7%94%9F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E7%9A%84%E6%80%9D%E8%80%83.md)
   - AI时代软件工程从交付成品变为提供“生成内核”，强调设计支持AI生成代码的基础套件。新原则注重透明性、细粒度控制和知识引导，鼓励个性化需求的“有意义重复”，开发者角色转向为AI创造力搭建舞台。
   - Tags: #read #llm #deepdive
