@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-17) [基于动态拓扑的Agent编排，原理解析+源码下载 - 铁蕾的个人博客](202511/2025-11-17-%E5%9F%BA%E4%BA%8E%E5%8A%A8%E6%80%81%E6%8B%93%E6%89%91%E7%9A%84agent%E7%BC%96%E6%8E%92%EF%BC%8C%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90%2B%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
+  - Bridgic框架通过静态、动态和自主编排三级动态性，支持从固定工作流到LLM驱动的动态拓扑调整。核心基于动态有向图机制实现执行调度，并通过声明式和Core API提供编排能力。当前在组件化表达上存在局限，作者未来将优化该特性。
+  - Tags: #read #llm #deepdive
+
 - (2025-11-15) [Using the Web Monetization API for fun and profit](202511/2025-11-15-using-the-web-monetization-api-for-fun-and-profit.md)
   - Web Monetization API 允许用户按浏览时长或一次性支付来资助内容创作者。用户需安装扩展并配置钱包，发布者通过在网页中添加标签接收款项。该功能支持动态内容调整，有潜力推动网络小额支付发展。
   - Tags: #read #money
@@ -39,13 +43,9 @@
   - 本文介绍了TypeScript类型系统的基础与进阶概念，包括类型定义、子类型关系、复合类型，以及泛型、类型操作符、条件类型和常用工具类型等，用于构建和操作类型。
   - Tags: #guide
 
-- (2025-11-14) [Glue work considered harmful](202511/2025-11-14-glue-work-considered-harmful.md)
-  - 胶水工作是团队中关键但常被忽视的支持性任务，如文档更新和内部协调，虽能提升效率却难获公司奖励。建议仅在负责项目中策略性执行，避免长期承担，以免倦怠且成效有限。公司更关注功能交付而非局部效率优化。
-  - Tags: #read #people
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (50 entries)
+- [2025-11](202511/monthly-index.md) (51 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
