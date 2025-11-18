@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-18) [The fate of “small” open source](2025-11-18-the-fate-of-%E2%80%9Csmall%E2%80%9D-open-source.md)
+  - 文章讨论了AI代码生成工具对小而精的开源库的冲击。作者认为，虽然AI提高了效率，却削弱了代码的教育意义，并可能带来依赖转移问题。未来开源应聚焦于AI难以替代的复杂创新领域，以此保持人类创造力的独特价值。
+  - Tags: #read #llm
+
 - (2025-11-17) [Only three kinds of AI products actually work](2025-11-17-only-three-kinds-of-ai-products-actually-work.md)
   - 当前有效的AI产品主要分为聊天机器人、自动补全和智能体三类，其中通用模型（如ChatGPT）占主导，而智能体在编程等领域展现出自主任务执行的潜力。其他方向如AI内容流和游戏仍处探索期，未来发展需突破对聊天界面的依赖，打造更贴合需求的产品形态。
   - Tags: #read #llm
