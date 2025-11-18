@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-18) [Memory leaks: the forgotten side of web performance](2025-11-18-memory-leaks-the-forgotten-side-of-web-performance.md)
+  - 本文强调Web开发中常被忽视的内存泄漏问题，指出其不易察觉但可能积累导致崩溃，修复性价比高。现有诊断工具尚不完善，作者开发的工具`fuite`提供改进，建议行业关注预防性修复以提升应用质量。
+  - Tags: #read #perf
+
 - (2025-11-18) [The fate of “small” open source](2025-11-18-the-fate-of-%E2%80%9Csmall%E2%80%9D-open-source.md)
   - 文章讨论了AI代码生成工具对小而精的开源库的冲击。作者认为，虽然AI提高了效率，却削弱了代码的教育意义，并可能带来依赖转移问题。未来开源应聚焦于AI难以替代的复杂创新领域，以此保持人类创造力的独特价值。
   - Tags: #read #llm
