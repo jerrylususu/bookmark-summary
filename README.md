@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-18) [The fate of “small” open source](202511/2025-11-18-the-fate-of-%E2%80%9Csmall%E2%80%9D-open-source.md)
+  - 文章讨论了AI代码生成工具对小而精的开源库的冲击。作者认为，虽然AI提高了效率，却削弱了代码的教育意义，并可能带来依赖转移问题。未来开源应聚焦于AI难以替代的复杂创新领域，以此保持人类创造力的独特价值。
+  - Tags: #read #llm
+
 - (2025-11-17) [Only three kinds of AI products actually work](202511/2025-11-17-only-three-kinds-of-ai-products-actually-work.md)
   - 当前有效的AI产品主要分为聊天机器人、自动补全和智能体三类，其中通用模型（如ChatGPT）占主导，而智能体在编程等领域展现出自主任务执行的潜力。其他方向如AI内容流和游戏仍处探索期，未来发展需突破对聊天界面的依赖，打造更贴合需求的产品形态。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 初创企业的成功往往取决于其数据模型的战略选择。在颠覆性市场或垂直领域，独特数据模型能形成难以复制的核心优势，如Slack、Notion等公司的案例所示。一旦正确构建，数据模型将推动产品功能的自然整合与持续创新，成为企业的长期护城河。
   - Tags: #read #design
 
-- (2025-11-15) [toon-format/toon](202511/2025-11-15-toon-format-toon.md)
-  - TOON是一种面向大语言模型的紧凑数据格式，结合YAML的缩进和CSV的表格特点，可节省30-60%的令牌数量。适用于结构统一的对象数组，在提升LLM数据查询准确性的同时降低使用成本。提供TypeScript SDK和CLI工具支持。
-  - Tags: #tools #hack
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (53 entries)
+- [2025-11](202511/monthly-index.md) (54 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
