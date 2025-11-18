@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-18) [Memory leaks: the forgotten side of web performance](202511/2025-11-18-memory-leaks-the-forgotten-side-of-web-performance.md)
+  - 本文强调Web开发中常被忽视的内存泄漏问题，指出其不易察觉但可能积累导致崩溃，修复性价比高。现有诊断工具尚不完善，作者开发的工具`fuite`提供改进，建议行业关注预防性修复以提升应用质量。
+  - Tags: #read #perf
+
 - (2025-11-18) [The fate of “small” open source](202511/2025-11-18-the-fate-of-%E2%80%9Csmall%E2%80%9D-open-source.md)
   - 文章讨论了AI代码生成工具对小而精的开源库的冲击。作者认为，虽然AI提高了效率，却削弱了代码的教育意义，并可能带来依赖转移问题。未来开源应聚焦于AI难以替代的复杂创新领域，以此保持人类创造力的独特价值。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 文章探讨了AI在代码生成中的作用与局限，提出语言无关编程的设想：AI可能生成一种精确代码（如Rust），但开发者可通过语言模型实时转换为熟悉语言进行调试。该模式有望降低编程门槛，但仍面临技术挑战，未来关系尚不确定。
   - Tags: #read #llm
 
-- (2025-11-15) [Your data model is your destiny](202511/2025-11-15-your-data-model-is-your-destiny.md)
-  - 初创企业的成功往往取决于其数据模型的战略选择。在颠覆性市场或垂直领域，独特数据模型能形成难以复制的核心优势，如Slack、Notion等公司的案例所示。一旦正确构建，数据模型将推动产品功能的自然整合与持续创新，成为企业的长期护城河。
-  - Tags: #read #design
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (54 entries)
+- [2025-11](202511/monthly-index.md) (55 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)

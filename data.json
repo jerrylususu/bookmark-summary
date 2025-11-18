@@ -8133,5 +8133,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Memory leaks: the forgotten side of web performance",
+    "url": "https://nolanlawson.com/2022/01/05/memory-leaks-the-forgotten-side-of-web-performance/",
+    "timestamp": 1763478793,
+    "tags": [
+      "read",
+      "perf"
+    ]
   }
 ]
