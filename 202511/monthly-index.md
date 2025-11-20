@@ -1,7 +1,11 @@
 # 2025-11 Monthly Index
 
+- (2025-11-20) [谈谈工作中的犯错 | CatCoding](2025-11-20-%E8%B0%88%E8%B0%88%E5%B7%A5%E4%BD%9C%E4%B8%AD%E7%9A%84%E7%8A%AF%E9%94%99-catcoding.md)
+  - 文章通过真实案例总结了工作中常见错误类型及教训，如信息泄露、接口问题、并发和配置错误。建议通过防御编程、自动化流程和良好工作习惯，如测试、代码审查和风险控制，来降低犯错风险。强调保持敬畏，避免小错误引发大问题。
+  - Tags: #read
+
 - (2025-11-18) [Memory leaks: the forgotten side of web performance](2025-11-18-memory-leaks-the-forgotten-side-of-web-performance.md)
-  - 本文强调Web开发中常被忽视的内存泄漏问题，指出其不易察觉但可能积累导致崩溃，修复性价比高。现有诊断工具尚不完善，作者开发的工具`fuite`提供改进，建议行业关注预防性修复以提升应用质量。
+  - 本文强调Web开发中常被忽视的内存泄漏问题，指出其不易察觉但可能积累导致崩溃，修复性价比高。现有诊断工具尚不完善，作者开发的工具提供改进，建议行业关注预防性修复以提升应用质量。
   - Tags: #read #perf
 
 - (2025-11-18) [The fate of “small” open source](2025-11-18-the-fate-of-%E2%80%9Csmall%E2%80%9D-open-source.md)
