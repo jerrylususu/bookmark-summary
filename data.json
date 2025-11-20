@@ -8152,5 +8152,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Are large language models worth it?",
+    "url": "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html",
+    "timestamp": 1763648039,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
