@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-20) [How we’re making GitHub Copilot smarter with fewer tools](2025-11-20-how-we%E2%80%99re-making-github-copilot-smarter-with-fewer-tools.md)
+  - GitHub Copilot通过自适应工具聚类、嵌入引导工具路由和精简默认工具集三大技术优化，显著提升了响应速度和工具选择效率。改进后，工具使用覆盖率提升至94.5%，延迟降低，为未来智能代理工作流打下基础。
+  - Tags: #read #llm
+
 - (2025-11-20) [Are large language models worth it?](2025-11-20-are-large-language-models-worth-it.md)
   - 网站nicholas.carlini.com因疑似遭受DoS攻击（DOM元素过多）被阻止匿名访问，封禁持续至2039年底，错误代码45102。
   - Tags: #read #llm

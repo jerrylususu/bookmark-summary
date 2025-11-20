@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-20) [How we’re making GitHub Copilot smarter with fewer tools](202511/2025-11-20-how-we%E2%80%99re-making-github-copilot-smarter-with-fewer-tools.md)
+  - GitHub Copilot通过自适应工具聚类、嵌入引导工具路由和精简默认工具集三大技术优化，显著提升了响应速度和工具选择效率。改进后，工具使用覆盖率提升至94.5%，延迟降低，为未来智能代理工作流打下基础。
+  - Tags: #read #llm
+
 - (2025-11-20) [Are large language models worth it?](202511/2025-11-20-are-large-language-models-worth-it.md)
   - 网站nicholas.carlini.com因疑似遭受DoS攻击（DOM元素过多）被阻止匿名访问，封禁持续至2039年底，错误代码45102。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 《数字卫生》文章从密码管理、身份验证、设备安全到通信隐私等多方面，提供实用建议以提升网络安全性。强调使用密码管理器、硬件密钥、加密工具和隐私优先服务，倡导自律防护以减少数据泄露和欺诈风险。
   - Tags: #read #security
 
-- (2025-11-15) [Can you save on LLM tokens using images instead of text?](202511/2025-11-15-can-you-save-on-llm-tokens-using-images-instead-of-text.md)
-  - 研究探索了将文本转为图像以减少大语言模型提示令牌消耗的方法。实验发现，图像输入虽能节省部分提示令牌，但多数模型会生成更多高成本的完成令牌，且处理时间翻倍，综合性价比低，实际价值有限。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (57 entries)
+- [2025-11](202511/monthly-index.md) (58 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)

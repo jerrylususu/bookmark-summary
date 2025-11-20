@@ -8162,5 +8162,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "How we’re making GitHub Copilot smarter with fewer tools",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/",
+    "timestamp": 1763651231,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
