@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-20) [Are large language models worth it?](2025-11-20-are-large-language-models-worth-it.md)
+  - 网站nicholas.carlini.com因疑似遭受DoS攻击（DOM元素过多）被阻止匿名访问，封禁持续至2039年底，错误代码45102。
+  - Tags: #read #llm
+
 - (2025-11-20) [谈谈工作中的犯错 | CatCoding](2025-11-20-%E8%B0%88%E8%B0%88%E5%B7%A5%E4%BD%9C%E4%B8%AD%E7%9A%84%E7%8A%AF%E9%94%99-catcoding.md)
   - 文章通过真实案例总结了工作中常见错误类型及教训，如信息泄露、接口问题、并发和配置错误。建议通过防御编程、自动化流程和良好工作习惯，如测试、代码审查和风险控制，来降低犯错风险。强调保持敬畏，避免小错误引发大问题。
   - Tags: #read
