@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-21) [Programmers and Sadomasochism](202511/2025-11-21-programmers-and-sadomasochism.md)
+  - 文章通过HTML属性示例，比较了严格（如XML）与宽松（如HTML）解析器的行为，主张遵循Postel定律，建议采用宽容的解析策略来提高互操作性，认为严格验证反而增加沟通成本，不利于实际应用。
+  - Tags: #read #people
+
 - (2025-11-21) [Make product worse, get money](202511/2025-11-21-make-product-worse%2C-get-money.md)
   - 文章探讨产品服务质量差的原因，指出商家虽有动机降低质量，但问题在于竞争缺失或消费者需求偏好。核心因素包括：消费者追求低价、信息不对称、品味差异和市场垄断，这些因素共同导致劣质服务持续存在。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 当前有效的AI产品主要分为聊天机器人、自动补全和智能体三类，其中通用模型（如ChatGPT）占主导，而智能体在编程等领域展现出自主任务执行的潜力。其他方向如AI内容流和游戏仍处探索期，未来发展需突破对聊天界面的依赖，打造更贴合需求的产品形态。
   - Tags: #read #llm
 
-- (2025-11-17) [超越DRY：AI原生软件工程的思考](202511/2025-11-17-%E8%B6%85%E8%B6%8Adry%EF%BC%9Aai%E5%8E%9F%E7%94%9F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E7%9A%84%E6%80%9D%E8%80%83.md)
-  - AI时代软件工程从交付成品变为提供“生成内核”，强调设计支持AI生成代码的基础套件。新原则注重透明性、细粒度控制和知识引导，鼓励个性化需求的“有意义重复”，开发者角色转向为AI创造力搭建舞台。
-  - Tags: #read #llm #deepdive
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (61 entries)
+- [2025-11](202511/monthly-index.md) (62 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
