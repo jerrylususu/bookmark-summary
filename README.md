@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-21) [Make product worse, get money](202511/2025-11-21-make-product-worse%2C-get-money.md)
+  - 文章探讨产品服务质量差的原因，指出商家虽有动机降低质量，但问题在于竞争缺失或消费者需求偏好。核心因素包括：消费者追求低价、信息不对称、品味差异和市场垄断，这些因素共同导致劣质服务持续存在。
+  - Tags: #read
+
 - (2025-11-21) [Fizz Buzz with Cosines - Susam Pal](202511/2025-11-21-fizz-buzz-with-cosines---susam-pal.md)
   - 本文通过数学建模将Fizz Buzz问题转化为有限傅里叶级数，利用余弦函数构造闭合表达式，并用Python代码实现。这种方法将简单游戏抽象为三角函数组合，展现了数学趣味性而非实用性。
   - Tags: #read #math #hack
@@ -39,13 +43,9 @@
   - AI时代软件工程从交付成品变为提供“生成内核”，强调设计支持AI生成代码的基础套件。新原则注重透明性、细粒度控制和知识引导，鼓励个性化需求的“有意义重复”，开发者角色转向为AI创造力搭建舞台。
   - Tags: #read #llm #deepdive
 
-- (2025-11-17) [基于动态拓扑的Agent编排，原理解析+源码下载 - 铁蕾的个人博客](202511/2025-11-17-%E5%9F%BA%E4%BA%8E%E5%8A%A8%E6%80%81%E6%8B%93%E6%89%91%E7%9A%84agent%E7%BC%96%E6%8E%92%EF%BC%8C%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90%2B%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
-  - Bridgic框架通过静态、动态和自主编排三级动态性，支持从固定工作流到LLM驱动的动态拓扑调整。核心基于动态有向图机制实现执行调度，并通过声明式和Core API提供编排能力。当前在组件化表达上存在局限，作者未来将优化该特性。
-  - Tags: #read #llm #deepdive
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (60 entries)
+- [2025-11](202511/monthly-index.md) (61 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
