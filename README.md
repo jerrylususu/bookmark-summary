@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-21) [Fizz Buzz with Cosines - Susam Pal](202511/2025-11-21-fizz-buzz-with-cosines---susam-pal.md)
+  - 本文通过数学建模将Fizz Buzz问题转化为有限傅里叶级数，利用余弦函数构造闭合表达式，并用Python代码实现。这种方法将简单游戏抽象为三角函数组合，展现了数学趣味性而非实用性。
+  - Tags: #read #math #hack
+
 - (2025-11-21) [Systems design 3: LLMs and the semantic revolution](202511/2025-11-21-systems-design-3-llms-and-the-semantic-revolution.md)
   - 本文回顾了系统互联的历史，强调互联网基于Postel容错法则取得成功，指出严格标准（如XML）常失效。近年来LLM突破性地解决了语义层互联问题，但带来新风险。互联本质是渐进过程，需在创新与治理间寻找平衡。
   - Tags: #read #llm #deepdive
@@ -39,13 +43,9 @@
   - Bridgic框架通过静态、动态和自主编排三级动态性，支持从固定工作流到LLM驱动的动态拓扑调整。核心基于动态有向图机制实现执行调度，并通过声明式和Core API提供编排能力。当前在组件化表达上存在局限，作者未来将优化该特性。
   - Tags: #read #llm #deepdive
 
-- (2025-11-15) [Using the Web Monetization API for fun and profit](202511/2025-11-15-using-the-web-monetization-api-for-fun-and-profit.md)
-  - Web Monetization API 允许用户按浏览时长或一次性支付来资助内容创作者。用户需安装扩展并配置钱包，发布者通过在网页中添加标签接收款项。该功能支持动态内容调整，有潜力推动网络小额支付发展。
-  - Tags: #read #money
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (59 entries)
+- [2025-11](202511/monthly-index.md) (60 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
