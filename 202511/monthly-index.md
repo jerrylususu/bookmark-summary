@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-21) [Systems design 3: LLMs and the semantic revolution](2025-11-21-systems-design-3-llms-and-the-semantic-revolution.md)
+  - 本文回顾了系统互联的历史，强调互联网基于Postel容错法则取得成功，指出严格标准（如XML）常失效。近年来LLM突破性地解决了语义层互联问题，但带来新风险。互联本质是渐进过程，需在创新与治理间寻找平衡。
+  - Tags: #read #llm #deepdive
+
 - (2025-11-20) [How we’re making GitHub Copilot smarter with fewer tools](2025-11-20-how-we%E2%80%99re-making-github-copilot-smarter-with-fewer-tools.md)
   - GitHub Copilot通过自适应工具聚类、嵌入引导工具路由和精简默认工具集三大技术优化，显著提升了响应速度和工具选择效率。改进后，工具使用覆盖率提升至94.5%，延迟降低，为未来智能代理工作流打下基础。
   - Tags: #read #llm
