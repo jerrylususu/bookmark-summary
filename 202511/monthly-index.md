@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-21) [Programmers and Sadomasochism](2025-11-21-programmers-and-sadomasochism.md)
+  - 文章通过HTML属性示例，比较了严格（如XML）与宽松（如HTML）解析器的行为，主张遵循Postel定律，建议采用宽容的解析策略来提高互操作性，认为严格验证反而增加沟通成本，不利于实际应用。
+  - Tags: #read #people
+
 - (2025-11-21) [Make product worse, get money](2025-11-21-make-product-worse%2C-get-money.md)
   - 文章探讨产品服务质量差的原因，指出商家虽有动机降低质量，但问题在于竞争缺失或消费者需求偏好。核心因素包括：消费者追求低价、信息不对称、品味差异和市场垄断，这些因素共同导致劣质服务持续存在。
   - Tags: #read
