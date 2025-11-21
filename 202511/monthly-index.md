@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-21) [Make product worse, get money](2025-11-21-make-product-worse%2C-get-money.md)
+  - 文章探讨产品服务质量差的原因，指出商家虽有动机降低质量，但问题在于竞争缺失或消费者需求偏好。核心因素包括：消费者追求低价、信息不对称、品味差异和市场垄断，这些因素共同导致劣质服务持续存在。
+  - Tags: #read
+
 - (2025-11-21) [Fizz Buzz with Cosines - Susam Pal](2025-11-21-fizz-buzz-with-cosines---susam-pal.md)
   - 本文通过数学建模将Fizz Buzz问题转化为有限傅里叶级数，利用余弦函数构造闭合表达式，并用Python代码实现。这种方法将简单游戏抽象为三角函数组合，展现了数学趣味性而非实用性。
   - Tags: #read #math #hack
