@@ -8172,5 +8172,16 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Systems design 3: LLMs and the semantic revolution",
+    "url": "https://apenwarr.ca/log/20251120",
+    "timestamp": 1763739343,
+    "tags": [
+      "read",
+      "llm",
+      "deepdive"
+    ]
   }
 ]

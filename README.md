@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-21) [Systems design 3: LLMs and the semantic revolution](202511/2025-11-21-systems-design-3-llms-and-the-semantic-revolution.md)
+  - 本文回顾了系统互联的历史，强调互联网基于Postel容错法则取得成功，指出严格标准（如XML）常失效。近年来LLM突破性地解决了语义层互联问题，但带来新风险。互联本质是渐进过程，需在创新与治理间寻找平衡。
+  - Tags: #read #llm #deepdive
+
 - (2025-11-20) [How we’re making GitHub Copilot smarter with fewer tools](202511/2025-11-20-how-we%E2%80%99re-making-github-copilot-smarter-with-fewer-tools.md)
   - GitHub Copilot通过自适应工具聚类、嵌入引导工具路由和精简默认工具集三大技术优化，显著提升了响应速度和工具选择效率。改进后，工具使用覆盖率提升至94.5%，延迟降低，为未来智能代理工作流打下基础。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - Web Monetization API 允许用户按浏览时长或一次性支付来资助内容创作者。用户需安装扩展并配置钱包，发布者通过在网页中添加标签接收款项。该功能支持动态内容调整，有潜力推动网络小额支付发展。
   - Tags: #read #money
 
-- (2025-11-15) [Digital hygiene](202511/2025-11-15-digital-hygiene.md)
-  - 《数字卫生》文章从密码管理、身份验证、设备安全到通信隐私等多方面，提供实用建议以提升网络安全性。强调使用密码管理器、硬件密钥、加密工具和隐私优先服务，倡导自律防护以减少数据泄露和欺诈风险。
-  - Tags: #read #security
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (58 entries)
+- [2025-11](202511/monthly-index.md) (59 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
