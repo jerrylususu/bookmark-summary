@@ -8183,5 +8183,16 @@
       "llm",
       "deepdive"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Fizz Buzz with Cosines - Susam Pal",
+    "url": "https://susam.net/fizz-buzz-with-cosines.html",
+    "timestamp": 1763739783,
+    "tags": [
+      "read",
+      "math",
+      "hack"
+    ]
   }
 ]

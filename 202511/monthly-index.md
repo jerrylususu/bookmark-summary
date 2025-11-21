@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-21) [Fizz Buzz with Cosines - Susam Pal](2025-11-21-fizz-buzz-with-cosines---susam-pal.md)
+  - 本文通过数学建模将Fizz Buzz问题转化为有限傅里叶级数，利用余弦函数构造闭合表达式，并用Python代码实现。这种方法将简单游戏抽象为三角函数组合，展现了数学趣味性而非实用性。
+  - Tags: #read #math #hack
+
 - (2025-11-21) [Systems design 3: LLMs and the semantic revolution](2025-11-21-systems-design-3-llms-and-the-semantic-revolution.md)
   - 本文回顾了系统互联的历史，强调互联网基于Postel容错法则取得成功，指出严格标准（如XML）常失效。近年来LLM突破性地解决了语义层互联问题，但带来新风险。互联本质是渐进过程，需在创新与治理间寻找平衡。
   - Tags: #read #llm #deepdive
