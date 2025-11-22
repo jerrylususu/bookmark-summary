@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-22) [Intermediate Developer](2025-11-22-intermediate-developer.md)
+  - 文章总结了中级开发者的成长要点：注重代码质量与团队协作，强调文档、测试和持续学习的重要性，认为沟通是编程的核心能力。
+  - Tags: #read
+
 - (2025-11-22) [We should all be using dependency cooldowns](2025-11-22-we-should-all-be-using-dependency-cooldowns.md)
   - 文章主张通过设定“依赖冷却期”（如7-14天）延迟引入新依赖，以避开开源供应链攻击的高风险窗口。该措施成本低、易实施，能防御多数短期攻击，虽非万能但可显著降低风险，建议广泛采用。
   - Tags: #read #security

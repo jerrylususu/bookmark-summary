@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-22) [Intermediate Developer](202511/2025-11-22-intermediate-developer.md)
+  - 文章总结了中级开发者的成长要点：注重代码质量与团队协作，强调文档、测试和持续学习的重要性，认为沟通是编程的核心能力。
+  - Tags: #read
+
 - (2025-11-22) [We should all be using dependency cooldowns](202511/2025-11-22-we-should-all-be-using-dependency-cooldowns.md)
   - 文章主张通过设定“依赖冷却期”（如7-14天）延迟引入新依赖，以避开开源供应链攻击的高风险窗口。该措施成本低、易实施，能防御多数短期攻击，虽非万能但可显著降低风险，建议广泛采用。
   - Tags: #read #security
@@ -39,13 +43,9 @@
   - 网站nicholas.carlini.com因疑似遭受DoS攻击（DOM元素过多）被阻止匿名访问，封禁持续至2039年底，错误代码45102。
   - Tags: #read #llm
 
-- (2025-11-20) [谈谈工作中的犯错 | CatCoding](202511/2025-11-20-%E8%B0%88%E8%B0%88%E5%B7%A5%E4%BD%9C%E4%B8%AD%E7%9A%84%E7%8A%AF%E9%94%99-catcoding.md)
-  - 文章通过真实案例总结了工作中常见错误类型及教训，如信息泄露、接口问题、并发和配置错误。建议通过防御编程、自动化流程和良好工作习惯，如测试、代码审查和风险控制，来降低犯错风险。强调保持敬畏，避免小错误引发大问题。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (65 entries)
+- [2025-11](202511/monthly-index.md) (66 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
