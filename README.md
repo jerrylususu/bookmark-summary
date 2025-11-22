@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-22) [We should all be using dependency cooldowns](202511/2025-11-22-we-should-all-be-using-dependency-cooldowns.md)
+  - 文章主张通过设定“依赖冷却期”（如7-14天）延迟引入新依赖，以避开开源供应链攻击的高风险窗口。该措施成本低、易实施，能防御多数短期攻击，虽非万能但可显著降低风险，建议广泛采用。
+  - Tags: #read #security
+
 - (2025-11-22) [What if you don't need MCP at all?](202511/2025-11-22-what-if-you-don%27t-need-mcp-at-all.md)
   - 本文提倡用自定义命令行工具和代码替代复杂的MCP服务器，以浏览器工具为例展示了简单方案的优越性。通过短小精悍的脚本实现浏览器控制、页面操作等功能，显著节省上下文资源且易于扩展。强调利用代码组合性和代理执行能力可构建高效灵活的工作流，适合需要代码执行的场景。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 文章通过真实案例总结了工作中常见错误类型及教训，如信息泄露、接口问题、并发和配置错误。建议通过防御编程、自动化流程和良好工作习惯，如测试、代码审查和风险控制，来降低犯错风险。强调保持敬畏，避免小错误引发大问题。
   - Tags: #read
 
-- (2025-11-18) [Memory leaks: the forgotten side of web performance](202511/2025-11-18-memory-leaks-the-forgotten-side-of-web-performance.md)
-  - 本文强调Web开发中常被忽视的内存泄漏问题，指出其不易察觉但可能积累导致崩溃，修复性价比高。现有诊断工具尚不完善，作者开发的工具提供改进，建议行业关注预防性修复以提升应用质量。
-  - Tags: #read #perf
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (64 entries)
+- [2025-11](202511/monthly-index.md) (65 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)

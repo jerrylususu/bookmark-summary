@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-22) [We should all be using dependency cooldowns](2025-11-22-we-should-all-be-using-dependency-cooldowns.md)
+  - 文章主张通过设定“依赖冷却期”（如7-14天）延迟引入新依赖，以避开开源供应链攻击的高风险窗口。该措施成本低、易实施，能防御多数短期攻击，虽非万能但可显著降低风险，建议广泛采用。
+  - Tags: #read #security
+
 - (2025-11-22) [What if you don't need MCP at all?](2025-11-22-what-if-you-don%27t-need-mcp-at-all.md)
   - 本文提倡用自定义命令行工具和代码替代复杂的MCP服务器，以浏览器工具为例展示了简单方案的优越性。通过短小精悍的脚本实现浏览器控制、页面操作等功能，显著节省上下文资源且易于扩展。强调利用代码组合性和代理执行能力可构建高效灵活的工作流，适合需要代码执行的场景。
   - Tags: #read #llm
