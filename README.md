@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-22) [What if you don't need MCP at all?](202511/2025-11-22-what-if-you-don%27t-need-mcp-at-all.md)
+  - 本文提倡用自定义命令行工具和代码替代复杂的MCP服务器，以浏览器工具为例展示了简单方案的优越性。通过短小精悍的脚本实现浏览器控制、页面操作等功能，显著节省上下文资源且易于扩展。强调利用代码组合性和代理执行能力可构建高效灵活的工作流，适合需要代码执行的场景。
+  - Tags: #read #llm
+
 - (2025-11-22) [Agent Design Is Still Hard](202511/2025-11-22-agent-design-is-still-hard.md)
   - 2025年智能体开发经验显示，构建智能体仍面临多项挑战：推荐直接使用底层SDK以灵活处理工具调用与缓存；需显式管理缓存、注入引导信息强化任务推进，并通过子代理隔离失败；模型选择需兼顾成本与效能，测试尚无理想方案。整体看，智能体开发仍处精细探索阶段。
   - Tags: #read #llm #deepdive #guide
@@ -39,13 +43,9 @@
   - 本文强调Web开发中常被忽视的内存泄漏问题，指出其不易察觉但可能积累导致崩溃，修复性价比高。现有诊断工具尚不完善，作者开发的工具提供改进，建议行业关注预防性修复以提升应用质量。
   - Tags: #read #perf
 
-- (2025-11-18) [The fate of “small” open source](202511/2025-11-18-the-fate-of-%E2%80%9Csmall%E2%80%9D-open-source.md)
-  - 文章讨论了AI代码生成工具对小而精的开源库的冲击。作者认为，虽然AI提高了效率，却削弱了代码的教育意义，并可能带来依赖转移问题。未来开源应聚焦于AI难以替代的复杂创新领域，以此保持人类创造力的独特价值。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (63 entries)
+- [2025-11](202511/monthly-index.md) (64 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)

@@ -8225,5 +8225,15 @@
       "deepdive",
       "guide"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "What if you don't need MCP at all?",
+    "url": "https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/",
+    "timestamp": 1763796831,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
