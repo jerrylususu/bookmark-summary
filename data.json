@@ -8235,5 +8235,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "We should all be using dependency cooldowns",
+    "url": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
+    "timestamp": 1763797174,
+    "tags": [
+      "read",
+      "security"
+    ]
   }
 ]
