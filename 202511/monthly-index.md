@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-22) [Agent Design Is Still Hard](2025-11-22-agent-design-is-still-hard.md)
+  - 2025年智能体开发经验显示，构建智能体仍面临多项挑战：推荐直接使用底层SDK以灵活处理工具调用与缓存；需显式管理缓存、注入引导信息强化任务推进，并通过子代理隔离失败；模型选择需兼顾成本与效能，测试尚无理想方案。整体看，智能体开发仍处精细探索阶段。
+  - Tags: #read #llm #deepdive #guide
+
 - (2025-11-21) [Programmers and Sadomasochism](2025-11-21-programmers-and-sadomasochism.md)
   - 文章通过HTML属性示例，比较了严格（如XML）与宽松（如HTML）解析器的行为，主张遵循Postel定律，建议采用宽容的解析策略来提高互操作性，认为严格验证反而增加沟通成本，不利于实际应用。
   - Tags: #read #people
