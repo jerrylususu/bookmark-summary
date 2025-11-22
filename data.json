@@ -8213,5 +8213,17 @@
       "read",
       "people"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Agent Design Is Still Hard",
+    "url": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
+    "timestamp": 1763796641,
+    "tags": [
+      "read",
+      "llm",
+      "deepdive",
+      "guide"
+    ]
   }
 ]
