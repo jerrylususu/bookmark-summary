@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-22) [Zed Is Our Office - Zed Blog](2025-11-22-zed-is-our-office---zed-blog.md)
+  - Zed编辑器内置团队协作功能，以频道系统为核心，支持多人实时编辑、屏幕共享及角色管理，适用于会议记录、项目协作等场景。目前处于免费alpha阶段，旨在打造无缝协作的软件开发工具。
+  - Tags: #read
+
 - (2025-11-22) [Intermediate Developer](2025-11-22-intermediate-developer.md)
   - 文章总结了中级开发者的成长要点：注重代码质量与团队协作，强调文档、测试和持续学习的重要性，认为沟通是编程的核心能力。
   - Tags: #read
