@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-23) [一次性软件与被压缩的现实：AI Native 的本质是策略重构](2025-11-23-%E4%B8%80%E6%AC%A1%E6%80%A7%E8%BD%AF%E4%BB%B6%E4%B8%8E%E8%A2%AB%E5%8E%8B%E7%BC%A9%E7%9A%84%E7%8E%B0%E5%AE%9E%EF%BC%9Aai-native-%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E7%AD%96%E7%95%A5%E9%87%8D%E6%9E%84.md)
+  - AI时代下，一次**性软件**通过低成本生成实现高解析度决策，使组织从依赖直觉转向数据驱动，推动协作透明化和代码工具化，实现决策范式升级。
+  - Tags: #read #llm
+
 - (2025-11-22) [Zed Is Our Office - Zed Blog](2025-11-22-zed-is-our-office---zed-blog.md)
   - Zed编辑器内置团队协作功能，以频道系统为核心，支持多人实时编辑、屏幕共享及角色管理，适用于会议记录、项目协作等场景。目前处于免费alpha阶段，旨在打造无缝协作的软件开发工具。
   - Tags: #read
