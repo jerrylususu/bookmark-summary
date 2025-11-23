@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-23) [LLM APIs are a Synchronization Problem](2025-11-23-llm-apis-are-a-synchronization-problem.md)
+  - 文章指出当前LLM API设计存在底层状态与消息抽象不匹配的问题，导致同步困难和效率低下。建议借鉴本地优先软件的状态同步理念，将对话历史作为可增量同步的日志，而非全量传输，并倡导未来API转向明确状态管理的设计标准。
+  - Tags: #read #llm #distributed
+
 - (2025-11-23) [Why it takes months to tell if new AI models are good](2025-11-23-why-it-takes-months-to-tell-if-new-ai-models-are-good.md)
   - 评估AI模型质量面临三大难题：现有基准易被操纵且脱离实际，主观判断不可靠，真实场景测试又耗时费力。当模型智能超越人类后，进步更难被感知，导致AI是否停滞的争议无解。
   - Tags: #read #llm #eval

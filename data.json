@@ -8284,5 +8284,16 @@
       "llm",
       "eval"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "LLM APIs are a Synchronization Problem",
+    "url": "https://lucumr.pocoo.org/2025/11/22/llm-apis/",
+    "timestamp": 1763894908,
+    "tags": [
+      "read",
+      "llm",
+      "distributed"
+    ]
   }
 ]
