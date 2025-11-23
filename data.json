@@ -8273,5 +8273,16 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Why it takes months to tell if new AI models are good",
+    "url": "https://www.seangoedecke.com/are-new-models-good/",
+    "timestamp": 1763894370,
+    "tags": [
+      "read",
+      "llm",
+      "eval"
+    ]
   }
 ]
