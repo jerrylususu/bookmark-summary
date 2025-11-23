@@ -1,7 +1,11 @@
 # 2025-11 Monthly Index
 
+- (2025-11-23) [Why it takes months to tell if new AI models are good](2025-11-23-why-it-takes-months-to-tell-if-new-ai-models-are-good.md)
+  - 评估AI模型质量面临三大难题：现有基准易被操纵且脱离实际，主观判断不可靠，真实场景测试又耗时费力。当模型智能超越人类后，进步更难被感知，导致AI是否停滞的争议无解。
+  - Tags: #read #llm #eval
+
 - (2025-11-23) [一次性软件与被压缩的现实：AI Native 的本质是策略重构](2025-11-23-%E4%B8%80%E6%AC%A1%E6%80%A7%E8%BD%AF%E4%BB%B6%E4%B8%8E%E8%A2%AB%E5%8E%8B%E7%BC%A9%E7%9A%84%E7%8E%B0%E5%AE%9E%EF%BC%9Aai-native-%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E7%AD%96%E7%95%A5%E9%87%8D%E6%9E%84.md)
-  - AI时代下，一次**性软件**通过低成本生成实现高解析度决策，使组织从依赖直觉转向数据驱动，推动协作透明化和代码工具化，实现决策范式升级。
+  - AI时代下，一次性软件通过低成本生成实现高解析度决策，使组织从依赖直觉转向数据驱动，推动协作透明化和代码工具化，实现决策范式升级。
   - Tags: #read #llm
 
 - (2025-11-22) [Zed Is Our Office - Zed Blog](2025-11-22-zed-is-our-office---zed-blog.md)
