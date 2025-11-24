@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-24) [Exfiltration via ffmpeg](202511/2025-11-24-exfiltration-via-ffmpeg.md)
+  - 允许用户自定义ffmpeg参数存在安全风险：攻击者可能利用-attach参数窃取本地文件或发起SSRF攻击，通过tcp/tls协议外泄数据。建议严格过滤参数并加强网络隔离防御。
+  - Tags: #read #security #hack
+
 - (2025-11-23) [LLM APIs are a Synchronization Problem](202511/2025-11-23-llm-apis-are-a-synchronization-problem.md)
   - 文章指出当前LLM API设计存在底层状态与消息抽象不匹配的问题，导致同步困难和效率低下。建议借鉴本地优先软件的状态同步理念，将对话历史作为可增量同步的日志，而非全量传输，并倡导未来API转向明确状态管理的设计标准。
   - Tags: #read #llm #distributed
@@ -39,13 +43,9 @@
   - 文章通过HTML属性示例，比较了严格（如XML）与宽松（如HTML）解析器的行为，主张遵循Postel定律，建议采用宽容的解析策略来提高互操作性，认为严格验证反而增加沟通成本，不利于实际应用。
   - Tags: #read #people
 
-- (2025-11-21) [Make product worse, get money](202511/2025-11-21-make-product-worse%2C-get-money.md)
-  - 文章探讨产品服务质量差的原因，指出商家虽有动机降低质量，但问题在于竞争缺失或消费者需求偏好。核心因素包括：消费者追求低价、信息不对称、品味差异和市场垄断，这些因素共同导致劣质服务持续存在。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (70 entries)
+- [2025-11](202511/monthly-index.md) (71 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)

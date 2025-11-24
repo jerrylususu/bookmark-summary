@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-24) [Exfiltration via ffmpeg](2025-11-24-exfiltration-via-ffmpeg.md)
+  - 允许用户自定义ffmpeg参数存在安全风险：攻击者可能利用-attach参数窃取本地文件或发起SSRF攻击，通过tcp/tls协议外泄数据。建议严格过滤参数并加强网络隔离防御。
+  - Tags: #read #security #hack
+
 - (2025-11-23) [LLM APIs are a Synchronization Problem](2025-11-23-llm-apis-are-a-synchronization-problem.md)
   - 文章指出当前LLM API设计存在底层状态与消息抽象不匹配的问题，导致同步困难和效率低下。建议借鉴本地优先软件的状态同步理念，将对话历史作为可增量同步的日志，而非全量传输，并倡导未来API转向明确状态管理的设计标准。
   - Tags: #read #llm #distributed
