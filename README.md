@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-24) ["Good engineering management" is a fad](202511/2025-11-24-good-engineering-management-is-a-fad.md)
+  - 文章指出，工程管理的“良好管理”标准实为受商业现实驱动的暂时潮流，不同时期的需求会变化。作者建议培养八项核心与成长技能（如执行、清晰度、应对模糊性），并强调自我认知与职业规划，以灵活应对行业变化，避免固守过时理念。核心是适应力胜过盲目追随潮流。
+  - Tags: #read #career
+
 - (2025-11-24) [写在 PicGo 即将 8 周年之际 | MARKSZのBlog](202511/2025-11-24-%E5%86%99%E5%9C%A8-picgo-%E5%8D%B3%E5%B0%86-8-%E5%91%A8%E5%B9%B4%E4%B9%8B%E9%99%85-marksz%E3%81%AEblog.md)
   - PicGo是一款便捷的跨平台图片上传工具，自2017年起伴随开发者从学生到职场人的成长。项目经历了技术提升、生态扩展，职业变动则体现其追求技术价值与用户需求结合，坚持团队合作与生活平衡的价值观。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文提倡用自定义命令行工具和代码替代复杂的MCP服务器，以浏览器工具为例展示了简单方案的优越性。通过短小精悍的脚本实现浏览器控制、页面操作等功能，显著节省上下文资源且易于扩展。强调利用代码组合性和代理执行能力可构建高效灵活的工作流，适合需要代码执行的场景。
   - Tags: #read #llm
 
-- (2025-11-22) [Agent Design Is Still Hard](202511/2025-11-22-agent-design-is-still-hard.md)
-  - 2025年智能体开发经验显示，构建智能体仍面临多项挑战：推荐直接使用底层SDK以灵活处理工具调用与缓存；需显式管理缓存、注入引导信息强化任务推进，并通过子代理隔离失败；模型选择需兼顾成本与效能，测试尚无理想方案。整体看，智能体开发仍处精细探索阶段。
-  - Tags: #read #llm #deepdive #guide
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (72 entries)
+- [2025-11](202511/monthly-index.md) (73 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
