@@ -8295,5 +8295,16 @@
       "llm",
       "distributed"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Exfiltration via ffmpeg",
+    "url": "https://beny23.github.io/posts/ffmpeg_exfil/",
+    "timestamp": 1763994967,
+    "tags": [
+      "read",
+      "security",
+      "hack"
+    ]
   }
 ]
