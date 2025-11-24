@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-24) [写在 PicGo 即将 8 周年之际 | MARKSZのBlog](2025-11-24-%E5%86%99%E5%9C%A8-picgo-%E5%8D%B3%E5%B0%86-8-%E5%91%A8%E5%B9%B4%E4%B9%8B%E9%99%85-marksz%E3%81%AEblog.md)
+  - PicGo是一款便捷的跨平台图片上传工具，自2017年起伴随开发者从学生到职场人的成长。项目经历了技术提升、生态扩展，职业变动则体现其追求技术价值与用户需求结合，坚持团队合作与生活平衡的价值观。
+  - Tags: #read
+
 - (2025-11-24) [Exfiltration via ffmpeg](2025-11-24-exfiltration-via-ffmpeg.md)
   - 允许用户自定义ffmpeg参数存在安全风险：攻击者可能利用-attach参数窃取本地文件或发起SSRF攻击，通过tcp/tls协议外泄数据。建议严格过滤参数并加强网络隔离防御。
   - Tags: #read #security #hack
