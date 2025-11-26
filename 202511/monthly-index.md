@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-26) [Becoming unblockable](2025-11-26-becoming-unblockable.md)
+  - 文章提出六项核心策略帮助职场人减少受阻：多任务并行、提前规划关键环节、优化开发工具、主动跨领域调试、建立人际关系网和高层协作。这些方法能显著提升工作效率和问题解决能力。
+  - Tags: #read #career
+
 - (2025-11-24) ["Good engineering management" is a fad](2025-11-24-good-engineering-management-is-a-fad.md)
   - 文章指出，工程管理的“良好管理”标准实为受商业现实驱动的暂时潮流，不同时期的需求会变化。作者建议培养八项核心与成长技能（如执行、清晰度、应对模糊性），并强调自我认知与职业规划，以灵活应对行业变化，避免固守过时理念。核心是适应力胜过盲目追随潮流。
   - Tags: #read #career
