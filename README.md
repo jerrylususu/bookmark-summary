@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-26) [Becoming unblockable](202511/2025-11-26-becoming-unblockable.md)
+  - 文章提出六项核心策略帮助职场人减少受阻：多任务并行、提前规划关键环节、优化开发工具、主动跨领域调试、建立人际关系网和高层协作。这些方法能显著提升工作效率和问题解决能力。
+  - Tags: #read #career
+
 - (2025-11-24) ["Good engineering management" is a fad](202511/2025-11-24-good-engineering-management-is-a-fad.md)
   - 文章指出，工程管理的“良好管理”标准实为受商业现实驱动的暂时潮流，不同时期的需求会变化。作者建议培养八项核心与成长技能（如执行、清晰度、应对模糊性），并强调自我认知与职业规划，以灵活应对行业变化，避免固守过时理念。核心是适应力胜过盲目追随潮流。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 文章主张通过设定“依赖冷却期”（如7-14天）延迟引入新依赖，以避开开源供应链攻击的高风险窗口。该措施成本低、易实施，能防御多数短期攻击，虽非万能但可显著降低风险，建议广泛采用。
   - Tags: #read #security
 
-- (2025-11-22) [What if you don't need MCP at all?](202511/2025-11-22-what-if-you-don%27t-need-mcp-at-all.md)
-  - 本文提倡用自定义命令行工具和代码替代复杂的MCP服务器，以浏览器工具为例展示了简单方案的优越性。通过短小精悍的脚本实现浏览器控制、页面操作等功能，显著节省上下文资源且易于扩展。强调利用代码组合性和代理执行能力可构建高效灵活的工作流，适合需要代码执行的场景。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (73 entries)
+- [2025-11](202511/monthly-index.md) (74 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
