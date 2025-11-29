@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-29) [How I Coding? (Nov 2025 Edition)](202511/2025-11-29-how-i-coding-%28nov-2025-edition%29.md)
+  - 文章介绍了作者2025年11月的编程心得，强调在高级AI模型时代需重视提示词优化，推荐使用Conductor工具提升效率，并建议基于个人需求构建评估体系，以平衡实践与乐趣。
+  - Tags: #read
+
 - (2025-11-29) [How good engineers write bad code at big companies](202511/2025-11-29-how-good-engineers-write-bad-code-at-big-companies.md)
   - 大公司代码质量差主要源于组织结构问题：高人员流动率、忽略专业积累、资深工程师负担过重及工作压力，公司为了组织灵活性牺牲代码质量。个人难以改变，需积极适应和积累专长。
   - Tags: #read #career #people
@@ -39,13 +43,9 @@
   - Zed编辑器内置团队协作功能，以频道系统为核心，支持多人实时编辑、屏幕共享及角色管理，适用于会议记录、项目协作等场景。目前处于免费alpha阶段，旨在打造无缝协作的软件开发工具。
   - Tags: #read
 
-- (2025-11-22) [Intermediate Developer](202511/2025-11-22-intermediate-developer.md)
-  - 文章总结了中级开发者的成长要点：注重代码质量与团队协作，强调文档、测试和持续学习的重要性，认为沟通是编程的核心能力。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (75 entries)
+- [2025-11](202511/monthly-index.md) (76 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
