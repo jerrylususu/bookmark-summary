@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-29) [Own A Graph](202511/2025-11-29-own-a-graph.md)
+  - 资深工作者应创建核心图表，以简洁沟通工作价值、获取反馈并提升业绩。建议聚焦关键指标，结合目标迭代优化，让他人引用是成功标志。缺少图表时应尽快补上。
+  - Tags: #read #career
+
 - (2025-11-29) [How I Coding? (Nov 2025 Edition)](202511/2025-11-29-how-i-coding-%28nov-2025-edition%29.md)
   - 文章介绍了作者2025年11月的编程心得，强调在高级AI模型时代需重视提示词优化，推荐使用Conductor工具提升效率，并建议基于个人需求构建评估体系，以平衡实践与乐趣。
   - Tags: #read
@@ -39,13 +43,9 @@
   - AI时代下，一次性软件通过低成本生成实现高解析度决策，使组织从依赖直觉转向数据驱动，推动协作透明化和代码工具化，实现决策范式升级。
   - Tags: #read #llm
 
-- (2025-11-22) [Zed Is Our Office - Zed Blog](202511/2025-11-22-zed-is-our-office---zed-blog.md)
-  - Zed编辑器内置团队协作功能，以频道系统为核心，支持多人实时编辑、屏幕共享及角色管理，适用于会议记录、项目协作等场景。目前处于免费alpha阶段，旨在打造无缝协作的软件开发工具。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (76 entries)
+- [2025-11](202511/monthly-index.md) (77 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
