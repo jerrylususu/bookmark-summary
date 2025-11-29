@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-29) [How good engineers write bad code at big companies](2025-11-29-how-good-engineers-write-bad-code-at-big-companies.md)
+  - 大公司代码质量差主要源于组织结构问题：高人员流动率、忽略专业积累、资深工程师负担过重及工作压力，公司为了组织灵活性牺牲代码质量。个人难以改变，需积极适应和积累专长。
+  - Tags: #read #career #people
+
 - (2025-11-26) [Becoming unblockable](2025-11-26-becoming-unblockable.md)
   - 文章提出六项核心策略帮助职场人减少受阻：多任务并行、提前规划关键环节、优化开发工具、主动跨领域调试、建立人际关系网和高层协作。这些方法能显著提升工作效率和问题解决能力。
   - Tags: #read #career
