@@ -1,5 +1,9 @@
 # 2025-11 Monthly Index
 
+- (2025-11-29) [How I Coding? (Nov 2025 Edition)](2025-11-29-how-i-coding-%28nov-2025-edition%29.md)
+  - 文章介绍了作者2025年11月的编程心得，强调在高级AI模型时代需重视提示词优化，推荐使用Conductor工具提升效率，并建议基于个人需求构建评估体系，以平衡实践与乐趣。
+  - Tags: #read
+
 - (2025-11-29) [How good engineers write bad code at big companies](2025-11-29-how-good-engineers-write-bad-code-at-big-companies.md)
   - 大公司代码质量差主要源于组织结构问题：高人员流动率、忽略专业积累、资深工程师负担过重及工作压力，公司为了组织灵活性牺牲代码质量。个人难以改变，需积极适应和积累专长。
   - Tags: #read #career #people
