@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-29) [How good engineers write bad code at big companies](202511/2025-11-29-how-good-engineers-write-bad-code-at-big-companies.md)
+  - 大公司代码质量差主要源于组织结构问题：高人员流动率、忽略专业积累、资深工程师负担过重及工作压力，公司为了组织灵活性牺牲代码质量。个人难以改变，需积极适应和积累专长。
+  - Tags: #read #career #people
+
 - (2025-11-26) [Becoming unblockable](202511/2025-11-26-becoming-unblockable.md)
   - 文章提出六项核心策略帮助职场人减少受阻：多任务并行、提前规划关键环节、优化开发工具、主动跨领域调试、建立人际关系网和高层协作。这些方法能显著提升工作效率和问题解决能力。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 文章总结了中级开发者的成长要点：注重代码质量与团队协作，强调文档、测试和持续学习的重要性，认为沟通是编程的核心能力。
   - Tags: #read
 
-- (2025-11-22) [We should all be using dependency cooldowns](202511/2025-11-22-we-should-all-be-using-dependency-cooldowns.md)
-  - 文章主张通过设定“依赖冷却期”（如7-14天）延迟引入新依赖，以避开开源供应链攻击的高风险窗口。该措施成本低、易实施，能防御多数短期攻击，虽非万能但可显著降低风险，建议广泛采用。
-  - Tags: #read #security
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (74 entries)
+- [2025-11](202511/monthly-index.md) (75 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
