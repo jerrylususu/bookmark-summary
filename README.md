@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-11-30) [Context plumbing](202511/2025-11-30-context-plumbing.md)
+  - 作者强调AI系统的核心在于意图识别和动态上下文管理。意图识别需抢占用户需求瞬间，上下文需通过实时管道传递以避免延迟。基于Cloudflare的成功实践验证了该架构的有效性。
+  - Tags: #read #llm
+
 - (2025-11-29) [Own A Graph](202511/2025-11-29-own-a-graph.md)
   - 资深工作者应创建核心图表，以简洁沟通工作价值、获取反馈并提升业绩。建议聚焦关键指标，结合目标迭代优化，让他人引用是成功标志。缺少图表时应尽快补上。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 评估AI模型质量面临三大难题：现有基准易被操纵且脱离实际，主观判断不可靠，真实场景测试又耗时费力。当模型智能超越人类后，进步更难被感知，导致AI是否停滞的争议无解。
   - Tags: #read #llm #eval
 
-- (2025-11-23) [一次性软件与被压缩的现实：AI Native 的本质是策略重构](202511/2025-11-23-%E4%B8%80%E6%AC%A1%E6%80%A7%E8%BD%AF%E4%BB%B6%E4%B8%8E%E8%A2%AB%E5%8E%8B%E7%BC%A9%E7%9A%84%E7%8E%B0%E5%AE%9E%EF%BC%9Aai-native-%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E7%AD%96%E7%95%A5%E9%87%8D%E6%9E%84.md)
-  - AI时代下，一次性软件通过低成本生成实现高解析度决策，使组织从依赖直觉转向数据驱动，推动协作透明化和代码工具化，实现决策范式升级。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-11](202511/monthly-index.md) (77 entries)
+- [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
 - [2025-08](202508/monthly-index.md) (46 entries)
