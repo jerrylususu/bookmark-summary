@@ -8365,5 +8365,15 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202511",
+    "title": "Context plumbing",
+    "url": "https://interconnected.org/home/2025/11/28/plumbing",
+    "timestamp": 1764505031,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
