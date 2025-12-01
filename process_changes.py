@@ -566,6 +566,43 @@ def build_summary_readme_md(
     return "\n".join(lines).strip() + "\n"
 
 
+def build_all_summary_md(
+    summarized_bookmarks: List[SummarizedBookmark],
+    tldr_lookup: Dict[Tuple[str, str, int], str],
+) -> str:
+    lines: List[str] = [
+        "# All Bookmarks Summary",
+        "",
+    ]
+
+    for bookmark in sorted(summarized_bookmarks, key=lambda b: b.timestamp, reverse=True):
+        date_str = datetime.fromtimestamp(
+            bookmark.timestamp, tz=timezone.utc
+        ).strftime("%Y-%m-%d")
+        key = bookmark_identity(bookmark)
+        tldr = tldr_lookup.get(key, "").strip()
+        tags_str = format_tags(bookmark.tags) if bookmark.tags else ""
+
+        summary_file_path = get_summary_file_path(
+            title=bookmark.title,
+            timestamp=bookmark.timestamp,
+            month=bookmark.month,
+            in_readme_md=True,
+        )
+        github_link = summary_file_path.as_posix()
+
+        title_with_link = f"[{bookmark.title}]({github_link})"
+
+        lines.append(f"- ({date_str}) {title_with_link}")
+        if tags_str:
+            lines.append(f"  - Tags: {tags_str}")
+        if tldr:
+            lines.append(f"  - Summary: {tldr}")
+        lines.append("")
+
+    return "\n".join(lines).strip() + "\n"
+
+
 def collect_tldrs(
     bookmarks: Iterable[SummarizedBookmark],
     overrides: Optional[Dict[Tuple[str, str, int], str]] = None,
@@ -763,6 +800,13 @@ def process_changes(backfill: bool = False, dry_run: bool = False) -> None:
         tldr_lookup,
     )
     write_text_file(SUMMARY_README_PATH, readme_content, dry_run=dry_run)
+
+    all_summary_content = build_all_summary_md(
+        summarized_bookmarks,
+        tldr_lookup,
+    )
+    all_summary_path = SUMMARY_ROOT / "all_summary.md"
+    write_text_file(all_summary_path, all_summary_content, dry_run=dry_run)
 
     if dry_run:
         logging.info("Dry-run complete; no files were written.")
