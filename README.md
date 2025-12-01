@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-01) [CS146S: The Modern Software Developer - Stanford University](202512/2025-12-01-cs146s-the-modern-software-developer---stanford-university.md)
+  - 斯坦福大学CS146S《现代软件开发者》课程（2025秋）教授如何利用AI工具与软件工程结合，提升开发效率。内容涵盖LLM应用、自动化测试、智能体编程等10周主题，强调实践项目与行业案例，适合有编程基础的学生参与。
+  - Tags: #read #guide
+
 - (2025-12-01) [Migrating Dillo from GitHub](202512/2025-12-01-migrating-dillo-from-github.md)
   - Dillo项目从GitHub迁移至自托管服务器以规避平台风险，包括兼容性差、单点故障和过度依赖JavaScript等问题。新方案使用cgit和轻量级工具，并设置多镜像保障数据安全，支持离线开发。迁移后GitHub仓库将归档，项目通过捐赠维持运行。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 允许用户自定义ffmpeg参数存在安全风险：攻击者可能利用-attach参数窃取本地文件或发起SSRF攻击，通过tcp/tls协议外泄数据。建议严格过滤参数并加强网络隔离防御。
   - Tags: #read #security #hack
 
-- (2025-11-23) [LLM APIs are a Synchronization Problem](202511/2025-11-23-llm-apis-are-a-synchronization-problem.md)
-  - 文章指出当前LLM API设计存在底层状态与消息抽象不匹配的问题，导致同步困难和效率低下。建议借鉴本地优先软件的状态同步理念，将对话历史作为可增量同步的日志，而非全量传输，并倡导未来API转向明确状态管理的设计标准。
-  - Tags: #read #llm #distributed
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (1 entries)
+- [2025-12](202512/monthly-index.md) (2 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
