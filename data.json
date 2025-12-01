@@ -8375,5 +8375,14 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Migrating Dillo from GitHub",
+    "url": "https://dillo-browser.org/news/migration-from-github/",
+    "timestamp": 1764598476,
+    "tags": [
+      "read"
+    ]
   }
 ]

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-01) [Migrating Dillo from GitHub](202512/2025-12-01-migrating-dillo-from-github.md)
+  - Dillo项目从GitHub迁移至自托管服务器以规避平台风险，包括兼容性差、单点故障和过度依赖JavaScript等问题。新方案使用cgit和轻量级工具，并设置多镜像保障数据安全，支持离线开发。迁移后GitHub仓库将归档，项目通过捐赠维持运行。
+  - Tags: #read
+
 - (2025-11-30) [Context plumbing](202511/2025-11-30-context-plumbing.md)
   - 作者强调AI系统的核心在于意图识别和动态上下文管理。意图识别需抢占用户需求瞬间，上下文需通过实时管道传递以避免延迟。基于Cloudflare的成功实践验证了该架构的有效性。
   - Tags: #read #llm
@@ -39,12 +43,9 @@
   - 文章指出当前LLM API设计存在底层状态与消息抽象不匹配的问题，导致同步困难和效率低下。建议借鉴本地优先软件的状态同步理念，将对话历史作为可增量同步的日志，而非全量传输，并倡导未来API转向明确状态管理的设计标准。
   - Tags: #read #llm #distributed
 
-- (2025-11-23) [Why it takes months to tell if new AI models are good](202511/2025-11-23-why-it-takes-months-to-tell-if-new-ai-models-are-good.md)
-  - 评估AI模型质量面临三大难题：现有基准易被操纵且脱离实际，主观判断不可靠，真实场景测试又耗时费力。当模型智能超越人类后，进步更难被感知，导致AI是否停滞的争议无解。
-  - Tags: #read #llm #eval
-
 ## Monthly Archive
 
+- [2025-12](202512/monthly-index.md) (1 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
