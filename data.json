@@ -8394,5 +8394,16 @@
       "read",
       "guide"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "How to orchestrate agents using mission control",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/",
+    "timestamp": 1764690104,
+    "tags": [
+      "read",
+      "llm",
+      "guide"
+    ]
   }
 ]

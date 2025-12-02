@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-02) [How to orchestrate agents using mission control](202512/2025-12-02-how-to-orchestrate-agents-using-mission-control.md)
+  - GitHub Copilot的Mission Control功能通过统一界面管理多个AI代理，实现并行工作流。关键点包括：编写清晰提示、自定义代理以确保一致性、主动监控并干预问题、高效审查PR。其优势在于提升效率，实现批量处理和并行工作。
+  - Tags: #read #llm #guide
+
 - (2025-12-01) [CS146S: The Modern Software Developer - Stanford University](202512/2025-12-01-cs146s-the-modern-software-developer---stanford-university.md)
   - 斯坦福大学CS146S《现代软件开发者》课程（2025秋）教授如何利用AI工具与软件工程结合，提升开发效率。内容涵盖LLM应用、自动化测试、智能体编程等10周主题，强调实践项目与行业案例，适合有编程基础的学生参与。
   - Tags: #read #guide
@@ -39,13 +43,9 @@
   - PicGo是一款便捷的跨平台图片上传工具，自2017年起伴随开发者从学生到职场人的成长。项目经历了技术提升、生态扩展，职业变动则体现其追求技术价值与用户需求结合，坚持团队合作与生活平衡的价值观。
   - Tags: #read
 
-- (2025-11-24) [Exfiltration via ffmpeg](202511/2025-11-24-exfiltration-via-ffmpeg.md)
-  - 允许用户自定义ffmpeg参数存在安全风险：攻击者可能利用-attach参数窃取本地文件或发起SSRF攻击，通过tcp/tls协议外泄数据。建议严格过滤参数并加强网络隔离防御。
-  - Tags: #read #security #hack
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (2 entries)
+- [2025-12](202512/monthly-index.md) (3 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

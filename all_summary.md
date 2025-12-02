@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2025-12-02) [How to orchestrate agents using mission control](202512/2025-12-02-how-to-orchestrate-agents-using-mission-control.md)
+  - Tags: #read #llm #guide
+  - Summary: GitHub Copilot的Mission Control功能通过统一界面管理多个AI代理，实现并行工作流。关键点包括：编写清晰提示、自定义代理以确保一致性、主动监控并干预问题、高效审查PR。其优势在于提升效率，实现批量处理和并行工作。
+
 - (2025-12-01) [CS146S: The Modern Software Developer - Stanford University](202512/2025-12-01-cs146s-the-modern-software-developer---stanford-university.md)
   - Tags: #read #guide
   - Summary: 斯坦福大学CS146S《现代软件开发者》课程（2025秋）教授如何利用AI工具与软件工程结合，提升开发效率。内容涵盖LLM应用、自动化测试、智能体编程等10周主题，强调实践项目与行业案例，适合有编程基础的学生参与。
