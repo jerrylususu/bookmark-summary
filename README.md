@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-03) [Dependency groups and uv run](202512/2025-12-03-dependency-groups-and-uv-run.md)
+  - 本文介绍了一种基于uv工具的新型Python开发模式，利用PEP 735依赖组简化项目流程。核心是使用`uv init`创建库项目，通过`uv add`添加dev依赖组，运行`uv run pytest`自动处理环境和测试。模式无需手动管理虚拟环境，便于协作与打包，提升开发效率。
+  - Tags: #read #tips
+
 - (2025-12-03) [Vibe Coding: Empowering and Imprisoning - Anil Dash](202512/2025-12-03-vibe-coding-empowering-and-imprisoning---anil-dash.md)
   - 本文探讨AI辅助编程的双重影响：一方面提升效率、降低开发门槛；另一方面可能削弱劳动力价值、抑制创新并引发技术依赖。作者呼吁通过开源工具和教育引导，平衡技术便利性与社会公平，确保AI服务于广泛人群而非资本利益。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章提出六项核心策略帮助职场人减少受阻：多任务并行、提前规划关键环节、优化开发工具、主动跨领域调试、建立人际关系网和高层协作。这些方法能显著提升工作效率和问题解决能力。
   - Tags: #read #career
 
-- (2025-11-24) ["Good engineering management" is a fad](202511/2025-11-24-good-engineering-management-is-a-fad.md)
-  - 文章指出，工程管理的“良好管理”标准实为受商业现实驱动的暂时潮流，不同时期的需求会变化。作者建议培养八项核心与成长技能（如执行、清晰度、应对模糊性），并强调自我认知与职业规划，以灵活应对行业变化，避免固守过时理念。核心是适应力胜过盲目追随潮流。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (4 entries)
+- [2025-12](202512/monthly-index.md) (5 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

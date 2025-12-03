@@ -8414,5 +8414,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Dependency groups and uv run",
+    "url": "https://til.simonwillison.net/uv/dependency-groups",
+    "timestamp": 1764772481,
+    "tags": [
+      "read",
+      "tips"
+    ]
   }
 ]

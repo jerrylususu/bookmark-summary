@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-03) [Dependency groups and uv run](2025-12-03-dependency-groups-and-uv-run.md)
+  - 本文介绍了一种基于uv工具的新型Python开发模式，利用PEP 735依赖组简化项目流程。核心是使用`uv init`创建库项目，通过`uv add`添加dev依赖组，运行`uv run pytest`自动处理环境和测试。模式无需手动管理虚拟环境，便于协作与打包，提升开发效率。
+  - Tags: #read #tips
+
 - (2025-12-03) [Vibe Coding: Empowering and Imprisoning - Anil Dash](2025-12-03-vibe-coding-empowering-and-imprisoning---anil-dash.md)
   - 本文探讨AI辅助编程的双重影响：一方面提升效率、降低开发门槛；另一方面可能削弱劳动力价值、抑制创新并引发技术依赖。作者呼吁通过开源工具和教育引导，平衡技术便利性与社会公平，确保AI服务于广泛人群而非资本利益。
   - Tags: #read
