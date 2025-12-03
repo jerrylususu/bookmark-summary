@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2025-12-03) [Vibe Coding: Empowering and Imprisoning - Anil Dash](202512/2025-12-03-vibe-coding-empowering-and-imprisoning---anil-dash.md)
+  - Tags: #read
+  - Summary: 本文探讨AI辅助编程的双重影响：一方面提升效率、降低开发门槛；另一方面可能削弱劳动力价值、抑制创新并引发技术依赖。作者呼吁通过开源工具和教育引导，平衡技术便利性与社会公平，确保AI服务于广泛人群而非资本利益。
+
 - (2025-12-02) [How to orchestrate agents using mission control](202512/2025-12-02-how-to-orchestrate-agents-using-mission-control.md)
   - Tags: #read #llm #guide
   - Summary: GitHub Copilot的Mission Control功能通过统一界面管理多个AI代理，实现并行工作流。关键点包括：编写清晰提示、自定义代理以确保一致性、主动监控并干预问题、高效审查PR。其优势在于提升效率，实现批量处理和并行工作。

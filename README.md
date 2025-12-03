@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-03) [Vibe Coding: Empowering and Imprisoning - Anil Dash](202512/2025-12-03-vibe-coding-empowering-and-imprisoning---anil-dash.md)
+  - 本文探讨AI辅助编程的双重影响：一方面提升效率、降低开发门槛；另一方面可能削弱劳动力价值、抑制创新并引发技术依赖。作者呼吁通过开源工具和教育引导，平衡技术便利性与社会公平，确保AI服务于广泛人群而非资本利益。
+  - Tags: #read
+
 - (2025-12-02) [How to orchestrate agents using mission control](202512/2025-12-02-how-to-orchestrate-agents-using-mission-control.md)
   - GitHub Copilot的Mission Control功能通过统一界面管理多个AI代理，实现并行工作流。关键点包括：编写清晰提示、自定义代理以确保一致性、主动监控并干预问题、高效审查PR。其优势在于提升效率，实现批量处理和并行工作。
   - Tags: #read #llm #guide
@@ -39,13 +43,9 @@
   - 文章指出，工程管理的“良好管理”标准实为受商业现实驱动的暂时潮流，不同时期的需求会变化。作者建议培养八项核心与成长技能（如执行、清晰度、应对模糊性），并强调自我认知与职业规划，以灵活应对行业变化，避免固守过时理念。核心是适应力胜过盲目追随潮流。
   - Tags: #read #career
 
-- (2025-11-24) [写在 PicGo 即将 8 周年之际 | MARKSZのBlog](202511/2025-11-24-%E5%86%99%E5%9C%A8-picgo-%E5%8D%B3%E5%B0%86-8-%E5%91%A8%E5%B9%B4%E4%B9%8B%E9%99%85-marksz%E3%81%AEblog.md)
-  - PicGo是一款便捷的跨平台图片上传工具，自2017年起伴随开发者从学生到职场人的成长。项目经历了技术提升、生态扩展，职业变动则体现其追求技术价值与用户需求结合，坚持团队合作与生活平衡的价值观。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (3 entries)
+- [2025-12](202512/monthly-index.md) (4 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
