@@ -1,8 +1,12 @@
 # All Bookmarks Summary
 
+- (2025-12-03) [A pragmatic guide to LLM evals for devs](202512/2025-12-03-a-pragmatic-guide-to-llm-evals-for-devs.md)
+  - Tags: #read #llm #eval #deepdive
+  - Summary: 本文总结了LLM应用开发中的评估核心流程：通过错误分析系统化识别主要失败模式（如构建数据查看器、开放式与轴向编码），结合代码化测试和LLM评判员工具，实现数据驱动的持续优化，取代主观开发模式。
+
 - (2025-12-03) [Dependency groups and uv run](202512/2025-12-03-dependency-groups-and-uv-run.md)
   - Tags: #read #tips
-  - Summary: 本文介绍了一种基于uv工具的新型Python开发模式，利用PEP 735依赖组简化项目流程。核心是使用`uv init`创建库项目，通过`uv add`添加dev依赖组，运行`uv run pytest`自动处理环境和测试。模式无需手动管理虚拟环境，便于协作与打包，提升开发效率。
+  - Summary: 本文介绍了一种基于uv工具的新型Python开发模式，利用PEP 735依赖组简化项目流程。核心是使用创建库项目，通过添加dev依赖组，运行自动处理环境和测试。模式无需手动管理虚拟环境，便于协作与打包，提升开发效率。
 
 - (2025-12-03) [Vibe Coding: Empowering and Imprisoning - Anil Dash](202512/2025-12-03-vibe-coding-empowering-and-imprisoning---anil-dash.md)
   - Tags: #read

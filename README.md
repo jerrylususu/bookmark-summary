@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-03) [A pragmatic guide to LLM evals for devs](202512/2025-12-03-a-pragmatic-guide-to-llm-evals-for-devs.md)
+  - 本文总结了LLM应用开发中的评估核心流程：通过错误分析系统化识别主要失败模式（如构建数据查看器、开放式与轴向编码），结合代码化测试和LLM评判员工具，实现数据驱动的持续优化，取代主观开发模式。
+  - Tags: #read #llm #eval #deepdive
+
 - (2025-12-03) [Dependency groups and uv run](202512/2025-12-03-dependency-groups-and-uv-run.md)
-  - 本文介绍了一种基于uv工具的新型Python开发模式，利用PEP 735依赖组简化项目流程。核心是使用`uv init`创建库项目，通过`uv add`添加dev依赖组，运行`uv run pytest`自动处理环境和测试。模式无需手动管理虚拟环境，便于协作与打包，提升开发效率。
+  - 本文介绍了一种基于uv工具的新型Python开发模式，利用PEP 735依赖组简化项目流程。核心是使用创建库项目，通过添加dev依赖组，运行自动处理环境和测试。模式无需手动管理虚拟环境，便于协作与打包，提升开发效率。
   - Tags: #read #tips
 
 - (2025-12-03) [Vibe Coding: Empowering and Imprisoning - Anil Dash](202512/2025-12-03-vibe-coding-empowering-and-imprisoning---anil-dash.md)
@@ -39,13 +43,9 @@
   - 大公司代码质量差主要源于组织结构问题：高人员流动率、忽略专业积累、资深工程师负担过重及工作压力，公司为了组织灵活性牺牲代码质量。个人难以改变，需积极适应和积累专长。
   - Tags: #read #career #people
 
-- (2025-11-26) [Becoming unblockable](202511/2025-11-26-becoming-unblockable.md)
-  - 文章提出六项核心策略帮助职场人减少受阻：多任务并行、提前规划关键环节、优化开发工具、主动跨领域调试、建立人际关系网和高层协作。这些方法能显著提升工作效率和问题解决能力。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (5 entries)
+- [2025-12](202512/monthly-index.md) (6 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

@@ -8424,5 +8424,17 @@
       "read",
       "tips"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "A pragmatic guide to LLM evals for devs",
+    "url": "https://newsletter.pragmaticengineer.com/p/evals",
+    "timestamp": 1764772916,
+    "tags": [
+      "read",
+      "llm",
+      "eval",
+      "deepdive"
+    ]
   }
 ]
