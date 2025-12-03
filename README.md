@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-03) [“The local-first rebellion”: How Home Assistant became the most important project in your house](202512/2025-12-03-%E2%80%9Cthe-local-first-rebellion%E2%80%9D-how-home-assistant-became-the-most-important-project-in-your-house.md)
+  - Home Assistant是开源家庭自动化平台，坚持本地化设计，保障用户隐私和离线使用。支持3000多品牌设备集成，社区驱动开发，避免云服务依赖。未来致力于结合本地AI实现更自主的智能家居体验。
+  - Tags: #read
+
 - (2025-12-03) [A pragmatic guide to LLM evals for devs](202512/2025-12-03-a-pragmatic-guide-to-llm-evals-for-devs.md)
   - 本文总结了LLM应用开发中的评估核心流程：通过错误分析系统化识别主要失败模式（如构建数据查看器、开放式与轴向编码），结合代码化测试和LLM评判员工具，实现数据驱动的持续优化，取代主观开发模式。
   - Tags: #read #llm #eval #deepdive
@@ -39,13 +43,9 @@
   - 文章介绍了作者2025年11月的编程心得，强调在高级AI模型时代需重视提示词优化，推荐使用Conductor工具提升效率，并建议基于个人需求构建评估体系，以平衡实践与乐趣。
   - Tags: #read
 
-- (2025-11-29) [How good engineers write bad code at big companies](202511/2025-11-29-how-good-engineers-write-bad-code-at-big-companies.md)
-  - 大公司代码质量差主要源于组织结构问题：高人员流动率、忽略专业积累、资深工程师负担过重及工作压力，公司为了组织灵活性牺牲代码质量。个人难以改变，需积极适应和积累专长。
-  - Tags: #read #career #people
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (6 entries)
+- [2025-12](202512/monthly-index.md) (7 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

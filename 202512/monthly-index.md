@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-03) [“The local-first rebellion”: How Home Assistant became the most important project in your house](2025-12-03-%E2%80%9Cthe-local-first-rebellion%E2%80%9D-how-home-assistant-became-the-most-important-project-in-your-house.md)
+  - Home Assistant是开源家庭自动化平台，坚持本地化设计，保障用户隐私和离线使用。支持3000多品牌设备集成，社区驱动开发，避免云服务依赖。未来致力于结合本地AI实现更自主的智能家居体验。
+  - Tags: #read
+
 - (2025-12-03) [A pragmatic guide to LLM evals for devs](2025-12-03-a-pragmatic-guide-to-llm-evals-for-devs.md)
   - 本文总结了LLM应用开发中的评估核心流程：通过错误分析系统化识别主要失败模式（如构建数据查看器、开放式与轴向编码），结合代码化测试和LLM评判员工具，实现数据驱动的持续优化，取代主观开发模式。
   - Tags: #read #llm #eval #deepdive
