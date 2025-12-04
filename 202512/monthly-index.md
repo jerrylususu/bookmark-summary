@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-04) [Paged Out!](2025-12-04-paged-out%21.md)
+  - 《Paged Out!》是一份免费的社区共创技术杂志，每篇文章限一页，内容涵盖编程、黑客技术、计算机软硬件等领域。所有期刊可免费下载和打印，支持用户投稿，通过邮件或RSS订阅更新，致力于以开放协作方式推广技术知识共享。
+  - Tags: #book
+
 - (2025-12-03) [“The local-first rebellion”: How Home Assistant became the most important project in your house](2025-12-03-%E2%80%9Cthe-local-first-rebellion%E2%80%9D-how-home-assistant-became-the-most-important-project-in-your-house.md)
   - Home Assistant是开源家庭自动化平台，坚持本地化设计，保障用户隐私和离线使用。支持3000多品牌设备集成，社区驱动开发，避免云服务依赖。未来致力于结合本地AI实现更自主的智能家居体验。
   - Tags: #read

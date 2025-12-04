@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-04) [Paged Out!](202512/2025-12-04-paged-out%21.md)
+  - 《Paged Out!》是一份免费的社区共创技术杂志，每篇文章限一页，内容涵盖编程、黑客技术、计算机软硬件等领域。所有期刊可免费下载和打印，支持用户投稿，通过邮件或RSS订阅更新，致力于以开放协作方式推广技术知识共享。
+  - Tags: #book
+
 - (2025-12-03) [“The local-first rebellion”: How Home Assistant became the most important project in your house](202512/2025-12-03-%E2%80%9Cthe-local-first-rebellion%E2%80%9D-how-home-assistant-became-the-most-important-project-in-your-house.md)
   - Home Assistant是开源家庭自动化平台，坚持本地化设计，保障用户隐私和离线使用。支持3000多品牌设备集成，社区驱动开发，避免云服务依赖。未来致力于结合本地AI实现更自主的智能家居体验。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 资深工作者应创建核心图表，以简洁沟通工作价值、获取反馈并提升业绩。建议聚焦关键指标，结合目标迭代优化，让他人引用是成功标志。缺少图表时应尽快补上。
   - Tags: #read #career
 
-- (2025-11-29) [How I Coding? (Nov 2025 Edition)](202511/2025-11-29-how-i-coding-%28nov-2025-edition%29.md)
-  - 文章介绍了作者2025年11月的编程心得，强调在高级AI模型时代需重视提示词优化，推荐使用Conductor工具提升效率，并建议基于个人需求构建评估体系，以平衡实践与乐趣。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (7 entries)
+- [2025-12](202512/monthly-index.md) (8 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
