@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2025-12-04) [easychen/lean-side-bussiness](202512/2025-12-04-easychen-lean-side-bussiness.md)
+  - Tags: #books
+  - Summary: 《精益副业：程序员如何优雅地做副业》是easychen的开源项目，基于精益创业理念，为程序员提供系统化副业指导。内容包括副业价值、时间管理、知识变现和产品开发，通过案例解析独立开发与网课变现流程，社区反响活跃，适合技术从业者参考。
+
 - (2025-12-04) [Paged Out!](202512/2025-12-04-paged-out%21.md)
   - Tags: #book
   - Summary: 《Paged Out!》是一份免费的社区共创技术杂志，每篇文章限一页，内容涵盖编程、黑客技术、计算机软硬件等领域。所有期刊可免费下载和打印，支持用户投稿，通过邮件或RSS订阅更新，致力于以开放协作方式推广技术知识共享。

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-04) [easychen/lean-side-bussiness](202512/2025-12-04-easychen-lean-side-bussiness.md)
+  - 《精益副业：程序员如何优雅地做副业》是easychen的开源项目，基于精益创业理念，为程序员提供系统化副业指导。内容包括副业价值、时间管理、知识变现和产品开发，通过案例解析独立开发与网课变现流程，社区反响活跃，适合技术从业者参考。
+  - Tags: #books
+
 - (2025-12-04) [Paged Out!](202512/2025-12-04-paged-out%21.md)
   - 《Paged Out!》是一份免费的社区共创技术杂志，每篇文章限一页，内容涵盖编程、黑客技术、计算机软硬件等领域。所有期刊可免费下载和打印，支持用户投稿，通过邮件或RSS订阅更新，致力于以开放协作方式推广技术知识共享。
   - Tags: #book
@@ -39,13 +43,9 @@
   - 作者强调AI系统的核心在于意图识别和动态上下文管理。意图识别需抢占用户需求瞬间，上下文需通过实时管道传递以避免延迟。基于Cloudflare的成功实践验证了该架构的有效性。
   - Tags: #read #llm
 
-- (2025-11-29) [Own A Graph](202511/2025-11-29-own-a-graph.md)
-  - 资深工作者应创建核心图表，以简洁沟通工作价值、获取反馈并提升业绩。建议聚焦关键指标，结合目标迭代优化，让他人引用是成功标志。缺少图表时应尽快补上。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (8 entries)
+- [2025-12](202512/monthly-index.md) (9 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
