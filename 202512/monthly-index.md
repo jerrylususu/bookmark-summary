@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-04) [Advanced network traffic interception techniques with mitmproxy – Trickster Dev](2025-12-04-advanced-network-traffic-interception-techniques-with-mitmproxy-%E2%80%93-trickster-dev.md)
+  - mitmproxy 提供了反向代理、透明代理、Wireguard VPN、SOCKS5、DNS服务、上游代理及虚拟网络接口等多种模式，支持各类网络环境下的流量拦截与分析，适用于服务器监控、移动设备调试等场景。
+  - Tags: #read #tips #hack #network
+
 - (2025-12-04) [easychen/lean-side-bussiness](2025-12-04-easychen-lean-side-bussiness.md)
   - 《精益副业：程序员如何优雅地做副业》是easychen的开源项目，基于精益创业理念，为程序员提供系统化副业指导。内容包括副业价值、时间管理、知识变现和产品开发，通过案例解析独立开发与网课变现流程，社区反响活跃，适合技术从业者参考。
   - Tags: #books

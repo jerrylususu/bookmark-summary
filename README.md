@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-04) [Advanced network traffic interception techniques with mitmproxy – Trickster Dev](202512/2025-12-04-advanced-network-traffic-interception-techniques-with-mitmproxy-%E2%80%93-trickster-dev.md)
+  - mitmproxy 提供了反向代理、透明代理、Wireguard VPN、SOCKS5、DNS服务、上游代理及虚拟网络接口等多种模式，支持各类网络环境下的流量拦截与分析，适用于服务器监控、移动设备调试等场景。
+  - Tags: #read #tips #hack #network
+
 - (2025-12-04) [easychen/lean-side-bussiness](202512/2025-12-04-easychen-lean-side-bussiness.md)
   - 《精益副业：程序员如何优雅地做副业》是easychen的开源项目，基于精益创业理念，为程序员提供系统化副业指导。内容包括副业价值、时间管理、知识变现和产品开发，通过案例解析独立开发与网课变现流程，社区反响活跃，适合技术从业者参考。
   - Tags: #books
@@ -39,13 +43,9 @@
   - Dillo项目从GitHub迁移至自托管服务器以规避平台风险，包括兼容性差、单点故障和过度依赖JavaScript等问题。新方案使用cgit和轻量级工具，并设置多镜像保障数据安全，支持离线开发。迁移后GitHub仓库将归档，项目通过捐赠维持运行。
   - Tags: #read
 
-- (2025-11-30) [Context plumbing](202511/2025-11-30-context-plumbing.md)
-  - 作者强调AI系统的核心在于意图识别和动态上下文管理。意图识别需抢占用户需求瞬间，上下文需通过实时管道传递以避免延迟。基于Cloudflare的成功实践验证了该架构的有效性。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (9 entries)
+- [2025-12](202512/monthly-index.md) (10 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

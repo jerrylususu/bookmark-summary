@@ -8463,5 +8463,17 @@
     "tags": [
       "books"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Advanced network traffic interception techniques with mitmproxy – Trickster Dev",
+    "url": "https://www.trickster.dev/post/advanced-network-traffic-interception-techniques-with-mitmproxy/",
+    "timestamp": 1764858358,
+    "tags": [
+      "read",
+      "tips",
+      "hack",
+      "network"
+    ]
   }
 ]
