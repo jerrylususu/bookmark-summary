@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-06) [Writing a good CLAUDE.md](202512/2025-12-06-writing-a-good-claude.md.md)
+  - 本文介绍了`CLAUDE.md`文件作为代码代理初始上下文的核心作用，强调通过定义项目的目标、技术栈和工作流程来引导代理。关键优化策略包括保持指令简洁（优先普适性、控制文件长度）、拆分任务特定内容、明确工具分工，以及手工精心设计内容，以平衡信息量和上下文效率，最大化代理效能。
+  - Tags: #read #llm
+
 - (2025-12-06) [A first look at Django's new background tasks](202512/2025-12-06-a-first-look-at-django%27s-new-background-tasks.md)
-  - Django 6.0 推出内置任务框架 `django.tasks`，提供统一 API 标准，便于集成多种后端。支持异步任务定义与排队，但功能精简，缺少重试、编排等高级特性，适用于简单场景，复杂需求仍需 Celery 等工具。
+  - Django 6.0 推出内置任务框架 ，提供统一 API 标准，便于集成多种后端。支持异步任务定义与排队，但功能精简，缺少重试、编排等高级特性，适用于简单场景，复杂需求仍需 Celery 等工具。
   - Tags: #read #python
 
 - (2025-12-06) [Thoughts on Go vs. Rust vs. Zig](202512/2025-12-06-thoughts-on-go-vs.-rust-vs.-zig.md)
@@ -39,13 +43,9 @@
   - Home Assistant是开源家庭自动化平台，坚持本地化设计，保障用户隐私和离线使用。支持3000多品牌设备集成，社区驱动开发，避免云服务依赖。未来致力于结合本地AI实现更自主的智能家居体验。
   - Tags: #read
 
-- (2025-12-03) [A pragmatic guide to LLM evals for devs](202512/2025-12-03-a-pragmatic-guide-to-llm-evals-for-devs.md)
-  - 本文总结了LLM应用开发中的评估核心流程：通过错误分析系统化识别主要失败模式（如构建数据查看器、开放式与轴向编码），结合代码化测试和LLM评判员工具，实现数据驱动的持续优化，取代主观开发模式。
-  - Tags: #read #llm #eval #deepdive
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (15 entries)
+- [2025-12](202512/monthly-index.md) (16 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

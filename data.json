@@ -8526,5 +8526,15 @@
       "read",
       "python"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Writing a good CLAUDE.md",
+    "url": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
+    "timestamp": 1765036219,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
