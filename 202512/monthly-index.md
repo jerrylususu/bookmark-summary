@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-06) [They have to be able to talk about us without us - Anil Dash](2025-12-06-they-have-to-be-able-to-talk-about-us-without-us---anil-dash.md)
+  - 文章指出有效沟通的核心是让信息简洁、有感染力，便于听众自主传播。关键原则包括立足价值观、清晰叙事、保持一致性、允许个性化表达，并强调通过情感共鸣和协作扩大影响力。
+  - Tags: #read #people
+
 - (2025-12-06) [My mental model of the AI race](2025-12-06-my-mental-model-of-the-ai-race.md)
   - 文章分析了AI领域的两个自我加速循环：平台资本主义通过用户数据优化市场匹配，编码工具通过自我迭代推动技术跃升。它们的闭环机制驱动AI公司竞争，但发展潜力受限于技术瓶颈和市场风险。
   - Tags: #read
