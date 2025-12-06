@@ -8494,5 +8494,16 @@
       "read",
       "people"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Fizz Buzz in CSS - Susam Pal",
+    "url": "https://susam.net/fizz-buzz-in-css.html",
+    "timestamp": 1765014758,
+    "tags": [
+      "read",
+      "hack",
+      "frontend"
+    ]
   }
 ]

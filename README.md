@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-06) [Fizz Buzz in CSS - Susam Pal](202512/2025-12-06-fizz-buzz-in-css---susam-pal.md)
+  - 本文介绍仅用CSS实现Fizz Buzz序列的4行代码方案。通过CSS计数器、伪元素和选择器组合，在特定倍数项显示数字和替换文本。作者鼓励尝试更简洁的写法，并提供了参考链接。
+  - Tags: #read #hack #frontend
+
 - (2025-12-06) [They have to be able to talk about us without us - Anil Dash](202512/2025-12-06-they-have-to-be-able-to-talk-about-us-without-us---anil-dash.md)
   - 文章指出有效沟通的核心是让信息简洁、有感染力，便于听众自主传播。关键原则包括立足价值观、清晰叙事、保持一致性、允许个性化表达，并强调通过情感共鸣和协作扩大影响力。
   - Tags: #read #people
@@ -39,13 +43,9 @@
   - 本文探讨AI辅助编程的双重影响：一方面提升效率、降低开发门槛；另一方面可能削弱劳动力价值、抑制创新并引发技术依赖。作者呼吁通过开源工具和教育引导，平衡技术便利性与社会公平，确保AI服务于广泛人群而非资本利益。
   - Tags: #read
 
-- (2025-12-02) [How to orchestrate agents using mission control](202512/2025-12-02-how-to-orchestrate-agents-using-mission-control.md)
-  - GitHub Copilot的Mission Control功能通过统一界面管理多个AI代理，实现并行工作流。关键点包括：编写清晰提示、自定义代理以确保一致性、主动监控并干预问题、高效审查PR。其优势在于提升效率，实现批量处理和并行工作。
-  - Tags: #read #llm #guide
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (12 entries)
+- [2025-12](202512/monthly-index.md) (13 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
