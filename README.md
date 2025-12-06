@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-06) [A first look at Django's new background tasks](202512/2025-12-06-a-first-look-at-django%27s-new-background-tasks.md)
+  - Django 6.0 推出内置任务框架 `django.tasks`，提供统一 API 标准，便于集成多种后端。支持异步任务定义与排队，但功能精简，缺少重试、编排等高级特性，适用于简单场景，复杂需求仍需 Celery 等工具。
+  - Tags: #read #python
+
 - (2025-12-06) [Thoughts on Go vs. Rust vs. Zig](202512/2025-12-06-thoughts-on-go-vs.-rust-vs.-zig.md)
   - 这篇文章分析了Go、Rust、Zig三种语言的设计理念：Go强调简洁与协作，Rust追求性能与安全，Zig注重显式控制。选择语言应基于项目需求与价值观匹配，而非单纯比较功能。
   - Tags: #read #programming #language
@@ -39,13 +43,9 @@
   - 本文总结了LLM应用开发中的评估核心流程：通过错误分析系统化识别主要失败模式（如构建数据查看器、开放式与轴向编码），结合代码化测试和LLM评判员工具，实现数据驱动的持续优化，取代主观开发模式。
   - Tags: #read #llm #eval #deepdive
 
-- (2025-12-03) [Dependency groups and uv run](202512/2025-12-03-dependency-groups-and-uv-run.md)
-  - 本文介绍了一种基于uv工具的新型Python开发模式，利用PEP 735依赖组简化项目流程。核心是使用创建库项目，通过添加dev依赖组，运行自动处理环境和测试。模式无需手动管理虚拟环境，便于协作与打包，提升开发效率。
-  - Tags: #read #tips
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (14 entries)
+- [2025-12](202512/monthly-index.md) (15 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

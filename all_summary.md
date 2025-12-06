@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2025-12-06) [A first look at Django's new background tasks](202512/2025-12-06-a-first-look-at-django%27s-new-background-tasks.md)
+  - Tags: #read #python
+  - Summary: Django 6.0 推出内置任务框架 `django.tasks`，提供统一 API 标准，便于集成多种后端。支持异步任务定义与排队，但功能精简，缺少重试、编排等高级特性，适用于简单场景，复杂需求仍需 Celery 等工具。
+
 - (2025-12-06) [Thoughts on Go vs. Rust vs. Zig](202512/2025-12-06-thoughts-on-go-vs.-rust-vs.-zig.md)
   - Tags: #read #programming #language
   - Summary: 这篇文章分析了Go、Rust、Zig三种语言的设计理念：Go强调简洁与协作，Rust追求性能与安全，Zig注重显式控制。选择语言应基于项目需求与价值观匹配，而非单纯比较功能。

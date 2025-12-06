@@ -8516,5 +8516,15 @@
       "programming",
       "language"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "A first look at Django's new background tasks",
+    "url": "https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/",
+    "timestamp": 1765034575,
+    "tags": [
+      "read",
+      "python"
+    ]
   }
 ]
