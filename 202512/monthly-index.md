@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-06) [My mental model of the AI race](2025-12-06-my-mental-model-of-the-ai-race.md)
+  - 文章分析了AI领域的两个自我加速循环：平台资本主义通过用户数据优化市场匹配，编码工具通过自我迭代推动技术跃升。它们的闭环机制驱动AI公司竞争，但发展潜力受限于技术瓶颈和市场风险。
+  - Tags: #read
+
 - (2025-12-04) [Advanced network traffic interception techniques with mitmproxy – Trickster Dev](2025-12-04-advanced-network-traffic-interception-techniques-with-mitmproxy-%E2%80%93-trickster-dev.md)
   - mitmproxy 提供了反向代理、透明代理、Wireguard VPN、SOCKS5、DNS服务、上游代理及虚拟网络接口等多种模式，支持各类网络环境下的流量拦截与分析，适用于服务器监控、移动设备调试等场景。
   - Tags: #read #tips #hack #network

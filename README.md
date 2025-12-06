@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-06) [My mental model of the AI race](202512/2025-12-06-my-mental-model-of-the-ai-race.md)
+  - 文章分析了AI领域的两个自我加速循环：平台资本主义通过用户数据优化市场匹配，编码工具通过自我迭代推动技术跃升。它们的闭环机制驱动AI公司竞争，但发展潜力受限于技术瓶颈和市场风险。
+  - Tags: #read
+
 - (2025-12-04) [Advanced network traffic interception techniques with mitmproxy – Trickster Dev](202512/2025-12-04-advanced-network-traffic-interception-techniques-with-mitmproxy-%E2%80%93-trickster-dev.md)
   - mitmproxy 提供了反向代理、透明代理、Wireguard VPN、SOCKS5、DNS服务、上游代理及虚拟网络接口等多种模式，支持各类网络环境下的流量拦截与分析，适用于服务器监控、移动设备调试等场景。
   - Tags: #read #tips #hack #network
@@ -39,13 +43,9 @@
   - 斯坦福大学CS146S《现代软件开发者》课程（2025秋）教授如何利用AI工具与软件工程结合，提升开发效率。内容涵盖LLM应用、自动化测试、智能体编程等10周主题，强调实践项目与行业案例，适合有编程基础的学生参与。
   - Tags: #read #guide
 
-- (2025-12-01) [Migrating Dillo from GitHub](202512/2025-12-01-migrating-dillo-from-github.md)
-  - Dillo项目从GitHub迁移至自托管服务器以规避平台风险，包括兼容性差、单点故障和过度依赖JavaScript等问题。新方案使用cgit和轻量级工具，并设置多镜像保障数据安全，支持离线开发。迁移后GitHub仓库将归档，项目通过捐赠维持运行。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (10 entries)
+- [2025-12](202512/monthly-index.md) (11 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
