@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-06) [Thoughts on Go vs. Rust vs. Zig](2025-12-06-thoughts-on-go-vs.-rust-vs.-zig.md)
+  - 这篇文章分析了Go、Rust、Zig三种语言的设计理念：Go强调简洁与协作，Rust追求性能与安全，Zig注重显式控制。选择语言应基于项目需求与价值观匹配，而非单纯比较功能。
+  - Tags: #read #programming #language
+
 - (2025-12-06) [Fizz Buzz in CSS - Susam Pal](2025-12-06-fizz-buzz-in-css---susam-pal.md)
   - 本文介绍仅用CSS实现Fizz Buzz序列的4行代码方案。通过CSS计数器、伪元素和选择器组合，在特定倍数项显示数字和替换文本。作者鼓励尝试更简洁的写法，并提供了参考链接。
   - Tags: #read #hack #frontend

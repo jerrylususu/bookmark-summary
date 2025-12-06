@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-06) [Thoughts on Go vs. Rust vs. Zig](202512/2025-12-06-thoughts-on-go-vs.-rust-vs.-zig.md)
+  - 这篇文章分析了Go、Rust、Zig三种语言的设计理念：Go强调简洁与协作，Rust追求性能与安全，Zig注重显式控制。选择语言应基于项目需求与价值观匹配，而非单纯比较功能。
+  - Tags: #read #programming #language
+
 - (2025-12-06) [Fizz Buzz in CSS - Susam Pal](202512/2025-12-06-fizz-buzz-in-css---susam-pal.md)
   - 本文介绍仅用CSS实现Fizz Buzz序列的4行代码方案。通过CSS计数器、伪元素和选择器组合，在特定倍数项显示数字和替换文本。作者鼓励尝试更简洁的写法，并提供了参考链接。
   - Tags: #read #hack #frontend
@@ -39,13 +43,9 @@
   - 本文介绍了一种基于uv工具的新型Python开发模式，利用PEP 735依赖组简化项目流程。核心是使用创建库项目，通过添加dev依赖组，运行自动处理环境和测试。模式无需手动管理虚拟环境，便于协作与打包，提升开发效率。
   - Tags: #read #tips
 
-- (2025-12-03) [Vibe Coding: Empowering and Imprisoning - Anil Dash](202512/2025-12-03-vibe-coding-empowering-and-imprisoning---anil-dash.md)
-  - 本文探讨AI辅助编程的双重影响：一方面提升效率、降低开发门槛；另一方面可能削弱劳动力价值、抑制创新并引发技术依赖。作者呼吁通过开源工具和教育引导，平衡技术便利性与社会公平，确保AI服务于广泛人群而非资本利益。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (13 entries)
+- [2025-12](202512/monthly-index.md) (14 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

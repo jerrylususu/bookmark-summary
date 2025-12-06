@@ -8505,5 +8505,16 @@
       "hack",
       "frontend"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Thoughts on Go vs. Rust vs. Zig",
+    "url": "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/",
+    "timestamp": 1765033793,
+    "tags": [
+      "read",
+      "programming",
+      "language"
+    ]
   }
 ]
