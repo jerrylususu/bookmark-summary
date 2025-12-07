@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-07) [Why speed matters](202512/2025-12-07-why-speed-matters.md)
+  - 该文章指出网页“Robot Challenge Screen”显示安全验证界面，可能要求授权或完成验证码才能访问。
+  - Tags: #read
+
 - (2025-12-06) [Writing a good CLAUDE.md](202512/2025-12-06-writing-a-good-claude.md.md)
-  - 本文介绍了`CLAUDE.md`文件作为代码代理初始上下文的核心作用，强调通过定义项目的目标、技术栈和工作流程来引导代理。关键优化策略包括保持指令简洁（优先普适性、控制文件长度）、拆分任务特定内容、明确工具分工，以及手工精心设计内容，以平衡信息量和上下文效率，最大化代理效能。
+  - 本文介绍了文件作为代码代理初始上下文的核心作用，强调通过定义项目的目标、技术栈和工作流程来引导代理。关键优化策略包括保持指令简洁（优先普适性、控制文件长度）、拆分任务特定内容、明确工具分工，以及手工精心设计内容，以平衡信息量和上下文效率，最大化代理效能。
   - Tags: #read #llm
 
 - (2025-12-06) [A first look at Django's new background tasks](202512/2025-12-06-a-first-look-at-django%27s-new-background-tasks.md)
@@ -39,13 +43,9 @@
   - 《Paged Out!》是一份免费的社区共创技术杂志，每篇文章限一页，内容涵盖编程、黑客技术、计算机软硬件等领域。所有期刊可免费下载和打印，支持用户投稿，通过邮件或RSS订阅更新，致力于以开放协作方式推广技术知识共享。
   - Tags: #book
 
-- (2025-12-03) [“The local-first rebellion”: How Home Assistant became the most important project in your house](202512/2025-12-03-%E2%80%9Cthe-local-first-rebellion%E2%80%9D-how-home-assistant-became-the-most-important-project-in-your-house.md)
-  - Home Assistant是开源家庭自动化平台，坚持本地化设计，保障用户隐私和离线使用。支持3000多品牌设备集成，社区驱动开发，避免云服务依赖。未来致力于结合本地AI实现更自主的智能家居体验。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (16 entries)
+- [2025-12](202512/monthly-index.md) (17 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
