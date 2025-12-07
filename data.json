@@ -8556,5 +8556,16 @@
       "llm",
       "guide"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Gist of Go: Concurrency internals",
+    "url": "https://antonz.org/go-concurrency/internals/",
+    "timestamp": 1765113612,
+    "tags": [
+      "read",
+      "go",
+      "deepdive"
+    ]
   }
 ]

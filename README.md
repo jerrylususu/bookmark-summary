@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-07) [Gist of Go: Concurrency internals](202512/2025-12-07-gist-of-go-concurrency-internals.md)
+  - 文章《Go并发内部机制》核心解析了Go语言并发实现，包括goroutine调度器、GOMAXPROCS配置、并发原语及性能工具。调度器通过少量OS线程高效运行大量goroutine，自动管理并发细节。建议借助pprof、tracing等工具优化应用，鼓励实践掌握并发编程。
+  - Tags: #read #go #deepdive
+
 - (2025-12-07) [The Unexpected Effectiveness of One-Shot Decompilation with Claude](202512/2025-12-07-the-unexpected-effectiveness-of-one-shot-decompilation-with-claude.md)
   - 文章介绍了一种利用Claude AI在无头模式下自动化反编译的方法，通过评分器、Claude、工具集和驱动脚本协同工作，大幅提升了效率。例如，在《Snowboard Kids 2》项目中，3周内取得的进展超过过去3个月。Claude表现优于其他工具，但输出代码可读性仍需人工优化。方法强调自动化减少人力，但LLM的输出和资源限制仍是挑战。
   - Tags: #read #llm #guide
@@ -39,13 +43,9 @@
   - mitmproxy 提供了反向代理、透明代理、Wireguard VPN、SOCKS5、DNS服务、上游代理及虚拟网络接口等多种模式，支持各类网络环境下的流量拦截与分析，适用于服务器监控、移动设备调试等场景。
   - Tags: #read #tips #hack #network
 
-- (2025-12-04) [easychen/lean-side-bussiness](202512/2025-12-04-easychen-lean-side-bussiness.md)
-  - 《精益副业：程序员如何优雅地做副业》是easychen的开源项目，基于精益创业理念，为程序员提供系统化副业指导。内容包括副业价值、时间管理、知识变现和产品开发，通过案例解析独立开发与网课变现流程，社区反响活跃，适合技术从业者参考。
-  - Tags: #books
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (18 entries)
+- [2025-12](202512/monthly-index.md) (19 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

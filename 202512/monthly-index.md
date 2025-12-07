@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-07) [Gist of Go: Concurrency internals](2025-12-07-gist-of-go-concurrency-internals.md)
+  - 文章《Go并发内部机制》核心解析了Go语言并发实现，包括goroutine调度器、GOMAXPROCS配置、并发原语及性能工具。调度器通过少量OS线程高效运行大量goroutine，自动管理并发细节。建议借助pprof、tracing等工具优化应用，鼓励实践掌握并发编程。
+  - Tags: #read #go #deepdive
+
 - (2025-12-07) [The Unexpected Effectiveness of One-Shot Decompilation with Claude](2025-12-07-the-unexpected-effectiveness-of-one-shot-decompilation-with-claude.md)
   - 文章介绍了一种利用Claude AI在无头模式下自动化反编译的方法，通过评分器、Claude、工具集和驱动脚本协同工作，大幅提升了效率。例如，在《Snowboard Kids 2》项目中，3周内取得的进展超过过去3个月。Claude表现优于其他工具，但输出代码可读性仍需人工优化。方法强调自动化减少人力，但LLM的输出和资源限制仍是挑战。
   - Tags: #read #llm #guide
