@@ -8545,5 +8545,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "The Unexpected Effectiveness of One-Shot Decompilation with Claude",
+    "url": "https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/",
+    "timestamp": 1765112213,
+    "tags": [
+      "read",
+      "llm",
+      "guide"
+    ]
   }
 ]

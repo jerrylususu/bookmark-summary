@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-07) [The Unexpected Effectiveness of One-Shot Decompilation with Claude](2025-12-07-the-unexpected-effectiveness-of-one-shot-decompilation-with-claude.md)
+  - 文章介绍了一种利用Claude AI在无头模式下自动化反编译的方法，通过评分器、Claude、工具集和驱动脚本协同工作，大幅提升了效率。例如，在《Snowboard Kids 2》项目中，3周内取得的进展超过过去3个月。Claude表现优于其他工具，但输出代码可读性仍需人工优化。方法强调自动化减少人力，但LLM的输出和资源限制仍是挑战。
+  - Tags: #read #llm #guide
+
 - (2025-12-07) [Why speed matters](2025-12-07-why-speed-matters.md)
   - 该文章指出网页“Robot Challenge Screen”显示安全验证界面，可能要求授权或完成验证码才能访问。
   - Tags: #read

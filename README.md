@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-07) [The Unexpected Effectiveness of One-Shot Decompilation with Claude](202512/2025-12-07-the-unexpected-effectiveness-of-one-shot-decompilation-with-claude.md)
+  - 文章介绍了一种利用Claude AI在无头模式下自动化反编译的方法，通过评分器、Claude、工具集和驱动脚本协同工作，大幅提升了效率。例如，在《Snowboard Kids 2》项目中，3周内取得的进展超过过去3个月。Claude表现优于其他工具，但输出代码可读性仍需人工优化。方法强调自动化减少人力，但LLM的输出和资源限制仍是挑战。
+  - Tags: #read #llm #guide
+
 - (2025-12-07) [Why speed matters](202512/2025-12-07-why-speed-matters.md)
   - 该文章指出网页“Robot Challenge Screen”显示安全验证界面，可能要求授权或完成验证码才能访问。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 《精益副业：程序员如何优雅地做副业》是easychen的开源项目，基于精益创业理念，为程序员提供系统化副业指导。内容包括副业价值、时间管理、知识变现和产品开发，通过案例解析独立开发与网课变现流程，社区反响活跃，适合技术从业者参考。
   - Tags: #books
 
-- (2025-12-04) [Paged Out!](202512/2025-12-04-paged-out%21.md)
-  - 《Paged Out!》是一份免费的社区共创技术杂志，每篇文章限一页，内容涵盖编程、黑客技术、计算机软硬件等领域。所有期刊可免费下载和打印，支持用户投稿，通过邮件或RSS订阅更新，致力于以开放协作方式推广技术知识共享。
-  - Tags: #book
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (17 entries)
+- [2025-12](202512/monthly-index.md) (18 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
