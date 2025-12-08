@@ -8576,5 +8576,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "EchoGram: The Hidden Vulnerability Undermining AI Guardrails",
+    "url": "https://hiddenlayer.com/innovation-hub/echogram-the-hidden-vulnerability-undermining-ai-guardrails/",
+    "timestamp": 1765202068,
+    "tags": [
+      "read",
+      "llm",
+      "security"
+    ]
   }
 ]

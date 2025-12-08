@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-08) [EchoGram: The Hidden Vulnerability Undermining AI Guardrails](202512/2025-12-08-echogram-the-hidden-vulnerability-undermining-ai-guardrails.md)
+  - 新型攻击EchoGram可绕过AI护栏检测，通过在提示中添加少量翻转令牌序列，可误导防御模型错误放行恶意内容或产生误报。其漏洞源于公共数据训练缺陷，广泛影响主流模型。研究呼吁开发动态防御机制，减少对静态训练数据的依赖。
+  - Tags: #read #llm #security
+
 - (2025-12-08) [Pluralistic: The Reverse-Centaur’s Guide to Criticizing AI (05 Dec 2025) – Pluralistic: Daily links from Cory Doctorow](202512/2025-12-08-pluralistic-the-reverse-centaur%E2%80%99s-guide-to-criticizing-ai-%2805-dec-2025%29-%E2%80%93-pluralistic-daily-links-from-cory-doctorow.md)
   - Cory Doctorow指出，AI热炒的背后是大型科技公司为维持股市增长制造的泡沫，而非真实创新。AI技术可能导致人类沦为机器附庸，且因统计模型本质存在局限。他反对技术取代人力的宿命论，主张通过抵制劣质AI产品和阶级合作应对危害，而非依赖版权限制。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章指出有效沟通的核心是让信息简洁、有感染力，便于听众自主传播。关键原则包括立足价值观、清晰叙事、保持一致性、允许个性化表达，并强调通过情感共鸣和协作扩大影响力。
   - Tags: #read #people
 
-- (2025-12-06) [My mental model of the AI race](202512/2025-12-06-my-mental-model-of-the-ai-race.md)
-  - 文章分析了AI领域的两个自我加速循环：平台资本主义通过用户数据优化市场匹配，编码工具通过自我迭代推动技术跃升。它们的闭环机制驱动AI公司竞争，但发展潜力受限于技术瓶颈和市场风险。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (20 entries)
+- [2025-12](202512/monthly-index.md) (21 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-08) [EchoGram: The Hidden Vulnerability Undermining AI Guardrails](2025-12-08-echogram-the-hidden-vulnerability-undermining-ai-guardrails.md)
+  - 新型攻击EchoGram可绕过AI护栏检测，通过在提示中添加少量翻转令牌序列，可误导防御模型错误放行恶意内容或产生误报。其漏洞源于公共数据训练缺陷，广泛影响主流模型。研究呼吁开发动态防御机制，减少对静态训练数据的依赖。
+  - Tags: #read #llm #security
+
 - (2025-12-08) [Pluralistic: The Reverse-Centaur’s Guide to Criticizing AI (05 Dec 2025) – Pluralistic: Daily links from Cory Doctorow](2025-12-08-pluralistic-the-reverse-centaur%E2%80%99s-guide-to-criticizing-ai-%2805-dec-2025%29-%E2%80%93-pluralistic-daily-links-from-cory-doctorow.md)
   - Cory Doctorow指出，AI热炒的背后是大型科技公司为维持股市增长制造的泡沫，而非真实创新。AI技术可能导致人类沦为机器附庸，且因统计模型本质存在局限。他反对技术取代人力的宿命论，主张通过抵制劣质AI产品和阶级合作应对危害，而非依赖版权限制。
   - Tags: #read
