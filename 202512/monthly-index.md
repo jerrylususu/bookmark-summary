@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-08) [576 - Using LLMs at Oxide / RFD / Oxide](2025-12-08-576---using-llms-at-oxide-rfd-oxide.md)
+  - 文章总结了大型语言模型在阅读、编辑、写作、代码审查、调试和编程等场景下的应用，强调LLM应作为辅助工具而非替代品。关键在于平衡效益与风险，注意数据隐私、内容真实性和人类主导作用，避免过度依赖。
+  - Tags: #read #llm #guide
+
 - (2025-12-08) [EchoGram: The Hidden Vulnerability Undermining AI Guardrails](2025-12-08-echogram-the-hidden-vulnerability-undermining-ai-guardrails.md)
   - 新型攻击EchoGram可绕过AI护栏检测，通过在提示中添加少量翻转令牌序列，可误导防御模型错误放行恶意内容或产生误报。其漏洞源于公共数据训练缺陷，广泛影响主流模型。研究呼吁开发动态防御机制，减少对静态训练数据的依赖。
   - Tags: #read #llm #security

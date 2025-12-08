@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-08) [576 - Using LLMs at Oxide / RFD / Oxide](202512/2025-12-08-576---using-llms-at-oxide-rfd-oxide.md)
+  - 文章总结了大型语言模型在阅读、编辑、写作、代码审查、调试和编程等场景下的应用，强调LLM应作为辅助工具而非替代品。关键在于平衡效益与风险，注意数据隐私、内容真实性和人类主导作用，避免过度依赖。
+  - Tags: #read #llm #guide
+
 - (2025-12-08) [EchoGram: The Hidden Vulnerability Undermining AI Guardrails](202512/2025-12-08-echogram-the-hidden-vulnerability-undermining-ai-guardrails.md)
   - 新型攻击EchoGram可绕过AI护栏检测，通过在提示中添加少量翻转令牌序列，可误导防御模型错误放行恶意内容或产生误报。其漏洞源于公共数据训练缺陷，广泛影响主流模型。研究呼吁开发动态防御机制，减少对静态训练数据的依赖。
   - Tags: #read #llm #security
@@ -39,13 +43,9 @@
   - 本文介绍仅用CSS实现Fizz Buzz序列的4行代码方案。通过CSS计数器、伪元素和选择器组合，在特定倍数项显示数字和替换文本。作者鼓励尝试更简洁的写法，并提供了参考链接。
   - Tags: #read #hack #frontend
 
-- (2025-12-06) [They have to be able to talk about us without us - Anil Dash](202512/2025-12-06-they-have-to-be-able-to-talk-about-us-without-us---anil-dash.md)
-  - 文章指出有效沟通的核心是让信息简洁、有感染力，便于听众自主传播。关键原则包括立足价值观、清晰叙事、保持一致性、允许个性化表达，并强调通过情感共鸣和协作扩大影响力。
-  - Tags: #read #people
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (21 entries)
+- [2025-12](202512/monthly-index.md) (22 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

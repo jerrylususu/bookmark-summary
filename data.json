@@ -8587,5 +8587,16 @@
       "llm",
       "security"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "576 - Using LLMs at Oxide / RFD / Oxide",
+    "url": "https://rfd.shared.oxide.computer/rfd/0576",
+    "timestamp": 1765202312,
+    "tags": [
+      "read",
+      "llm",
+      "guide"
+    ]
   }
 ]
