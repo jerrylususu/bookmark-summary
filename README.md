@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-08) [Pluralistic: The Reverse-Centaur’s Guide to Criticizing AI (05 Dec 2025) – Pluralistic: Daily links from Cory Doctorow](202512/2025-12-08-pluralistic-the-reverse-centaur%E2%80%99s-guide-to-criticizing-ai-%2805-dec-2025%29-%E2%80%93-pluralistic-daily-links-from-cory-doctorow.md)
+  - Cory Doctorow指出，AI热炒的背后是大型科技公司为维持股市增长制造的泡沫，而非真实创新。AI技术可能导致人类沦为机器附庸，且因统计模型本质存在局限。他反对技术取代人力的宿命论，主张通过抵制劣质AI产品和阶级合作应对危害，而非依赖版权限制。
+  - Tags: #read
+
 - (2025-12-07) [Gist of Go: Concurrency internals](202512/2025-12-07-gist-of-go-concurrency-internals.md)
   - 文章《Go并发内部机制》核心解析了Go语言并发实现，包括goroutine调度器、GOMAXPROCS配置、并发原语及性能工具。调度器通过少量OS线程高效运行大量goroutine，自动管理并发细节。建议借助pprof、tracing等工具优化应用，鼓励实践掌握并发编程。
   - Tags: #read #go #deepdive
@@ -39,13 +43,9 @@
   - 文章分析了AI领域的两个自我加速循环：平台资本主义通过用户数据优化市场匹配，编码工具通过自我迭代推动技术跃升。它们的闭环机制驱动AI公司竞争，但发展潜力受限于技术瓶颈和市场风险。
   - Tags: #read
 
-- (2025-12-04) [Advanced network traffic interception techniques with mitmproxy – Trickster Dev](202512/2025-12-04-advanced-network-traffic-interception-techniques-with-mitmproxy-%E2%80%93-trickster-dev.md)
-  - mitmproxy 提供了反向代理、透明代理、Wireguard VPN、SOCKS5、DNS服务、上游代理及虚拟网络接口等多种模式，支持各类网络环境下的流量拦截与分析，适用于服务器监控、移动设备调试等场景。
-  - Tags: #read #tips #hack #network
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (19 entries)
+- [2025-12](202512/monthly-index.md) (20 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
