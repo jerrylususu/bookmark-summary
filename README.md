@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-09) [使用Nano Banana Pro生成整套PPT：疯狂，挑战和工作流](202512/2025-12-09-%E4%BD%BF%E7%94%A8nano-banana-pro%E7%94%9F%E6%88%90%E6%95%B4%E5%A5%97ppt%EF%BC%9A%E7%96%AF%E7%8B%82%EF%BC%8C%E6%8C%91%E6%88%98%E5%92%8C%E5%B7%A5%E4%BD%9C%E6%B5%81.md)
+  - 本文介绍了使用Nano Banana Pro生成PPT的工作流，从传统拼凑转向整体渲染，解决了风格不一致、内容不可靠等问题。通过工程化方法构建可复用的生成引擎，交付生成能力而非静态成品，实现高效、统一的幻灯片制作。
+  - Tags: #read #llm #guide
+
 - (2025-12-08) [Adding unpack syntax to RCL](202512/2025-12-08-adding-unpack-syntax-to-rcl.md)
-  - RCL v0.11.0引入解包功能，通过`..`（列表/集合）和`...`（字典）语法简化数据结构拼接。设计解决了推导冗长与联合运算符格式化问题，在保持简洁性的同时明确了集合与字典的语义差异，提升了代码可读性。
+  - RCL v0.11.0引入解包功能，通过（列表/集合）和（字典）语法简化数据结构拼接。设计解决了推导冗长与联合运算符格式化问题，在保持简洁性的同时明确了集合与字典的语义差异，提升了代码可读性。
   - Tags: #read #language #design
 
 - (2025-12-08) [576 - Using LLMs at Oxide / RFD / Oxide](202512/2025-12-08-576---using-llms-at-oxide-rfd-oxide.md)
@@ -39,13 +43,9 @@
   - Django 6.0 推出内置任务框架 ，提供统一 API 标准，便于集成多种后端。支持异步任务定义与排队，但功能精简，缺少重试、编排等高级特性，适用于简单场景，复杂需求仍需 Celery 等工具。
   - Tags: #read #python
 
-- (2025-12-06) [Thoughts on Go vs. Rust vs. Zig](202512/2025-12-06-thoughts-on-go-vs.-rust-vs.-zig.md)
-  - 这篇文章分析了Go、Rust、Zig三种语言的设计理念：Go强调简洁与协作，Rust追求性能与安全，Zig注重显式控制。选择语言应基于项目需求与价值观匹配，而非单纯比较功能。
-  - Tags: #read #programming #language
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (23 entries)
+- [2025-12](202512/monthly-index.md) (24 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

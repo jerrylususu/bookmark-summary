@@ -1,8 +1,12 @@
 # All Bookmarks Summary
 
+- (2025-12-09) [使用Nano Banana Pro生成整套PPT：疯狂，挑战和工作流](202512/2025-12-09-%E4%BD%BF%E7%94%A8nano-banana-pro%E7%94%9F%E6%88%90%E6%95%B4%E5%A5%97ppt%EF%BC%9A%E7%96%AF%E7%8B%82%EF%BC%8C%E6%8C%91%E6%88%98%E5%92%8C%E5%B7%A5%E4%BD%9C%E6%B5%81.md)
+  - Tags: #read #llm #guide
+  - Summary: 本文介绍了使用Nano Banana Pro生成PPT的工作流，从传统拼凑转向整体渲染，解决了风格不一致、内容不可靠等问题。通过工程化方法构建可复用的生成引擎，交付生成能力而非静态成品，实现高效、统一的幻灯片制作。
+
 - (2025-12-08) [Adding unpack syntax to RCL](202512/2025-12-08-adding-unpack-syntax-to-rcl.md)
   - Tags: #read #language #design
-  - Summary: RCL v0.11.0引入解包功能，通过`..`（列表/集合）和`...`（字典）语法简化数据结构拼接。设计解决了推导冗长与联合运算符格式化问题，在保持简洁性的同时明确了集合与字典的语义差异，提升了代码可读性。
+  - Summary: RCL v0.11.0引入解包功能，通过（列表/集合）和（字典）语法简化数据结构拼接。设计解决了推导冗长与联合运算符格式化问题，在保持简洁性的同时明确了集合与字典的语义差异，提升了代码可读性。
 
 - (2025-12-08) [576 - Using LLMs at Oxide / RFD / Oxide](202512/2025-12-08-576---using-llms-at-oxide-rfd-oxide.md)
   - Tags: #read #llm #guide
