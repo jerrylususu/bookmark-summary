@@ -8620,5 +8620,14 @@
       "llm",
       "guide"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Prediction: AI will make formal verification go mainstream — Martin Kleppmann’s blog",
+    "url": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
+    "timestamp": 1765282978,
+    "tags": [
+      "read"
+    ]
   }
 ]

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-09) [Prediction: AI will make formal verification go mainstream — Martin Kleppmann’s blog](202512/2025-12-09-prediction-ai-will-make-formal-verification-go-mainstream-%E2%80%94-martin-kleppmann%E2%80%99s-blog.md)
+  - AI将推动形式化验证从边缘技术走向主流。原本因高成本和难度仅见于研究，但AI能大幅降低验证成本，并因自动代码生成而产生验证需求。未来挑战在于定义规范和文化接受，但形式化验证有望成为软件开发标准。
+  - Tags: #read
+
 - (2025-12-09) [使用Nano Banana Pro生成整套PPT：疯狂，挑战和工作流](202512/2025-12-09-%E4%BD%BF%E7%94%A8nano-banana-pro%E7%94%9F%E6%88%90%E6%95%B4%E5%A5%97ppt%EF%BC%9A%E7%96%AF%E7%8B%82%EF%BC%8C%E6%8C%91%E6%88%98%E5%92%8C%E5%B7%A5%E4%BD%9C%E6%B5%81.md)
   - 本文介绍了使用Nano Banana Pro生成PPT的工作流，从传统拼凑转向整体渲染，解决了风格不一致、内容不可靠等问题。通过工程化方法构建可复用的生成引擎，交付生成能力而非静态成品，实现高效、统一的幻灯片制作。
   - Tags: #read #llm #guide
@@ -39,13 +43,9 @@
   - 本文介绍了文件作为代码代理初始上下文的核心作用，强调通过定义项目的目标、技术栈和工作流程来引导代理。关键优化策略包括保持指令简洁（优先普适性、控制文件长度）、拆分任务特定内容、明确工具分工，以及手工精心设计内容，以平衡信息量和上下文效率，最大化代理效能。
   - Tags: #read #llm
 
-- (2025-12-06) [A first look at Django's new background tasks](202512/2025-12-06-a-first-look-at-django%27s-new-background-tasks.md)
-  - Django 6.0 推出内置任务框架 ，提供统一 API 标准，便于集成多种后端。支持异步任务定义与排队，但功能精简，缺少重试、编排等高级特性，适用于简单场景，复杂需求仍需 Celery 等工具。
-  - Tags: #read #python
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (24 entries)
+- [2025-12](202512/monthly-index.md) (25 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
