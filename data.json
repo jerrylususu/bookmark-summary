@@ -8629,5 +8629,17 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Useful patterns for building HTML tools",
+    "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
+    "timestamp": 1765455889,
+    "tags": [
+      "read",
+      "tips",
+      "deepdive",
+      "frontend"
+    ]
   }
 ]
