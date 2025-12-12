@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-12) [Litestream VFS](2025-12-12-litestream-vfs.md)
+  - Litestream VFS 是一项功能，允许用户通过SQLite的插件接口直接查询对象存储（如S3）中的SQLite备份，而无需下载整个文件。它利用LTX格式和索引优化，仅按需加载查询所需的数据页，支持历史时间点查询和快速恢复，适用于云环境临时数据库访问和容错场景。该功能只读，写操作仍由独立进程处理。
+  - Tags: #read #db
+
 - (2025-12-11) [Useful patterns for building HTML tools](2025-12-11-useful-patterns-for-building-html-tools.md)
   - 该文介绍了HTML工具的定义和开发模式，强调单一文件结构，避免复杂框架，并使用CDN和浏览器原生功能实现轻量化开发。建议通过LLM辅助快速构建实用工具，并分享了具体实现技巧和示例。
   - Tags: #read #tips #deepdive #frontend

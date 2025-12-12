@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-12) [Litestream VFS](202512/2025-12-12-litestream-vfs.md)
+  - Litestream VFS 是一项功能，允许用户通过SQLite的插件接口直接查询对象存储（如S3）中的SQLite备份，而无需下载整个文件。它利用LTX格式和索引优化，仅按需加载查询所需的数据页，支持历史时间点查询和快速恢复，适用于云环境临时数据库访问和容错场景。该功能只读，写操作仍由独立进程处理。
+  - Tags: #read #db
+
 - (2025-12-11) [Useful patterns for building HTML tools](202512/2025-12-11-useful-patterns-for-building-html-tools.md)
   - 该文介绍了HTML工具的定义和开发模式，强调单一文件结构，避免复杂框架，并使用CDN和浏览器原生功能实现轻量化开发。建议通过LLM辅助快速构建实用工具，并分享了具体实现技巧和示例。
   - Tags: #read #tips #deepdive #frontend
@@ -39,13 +43,9 @@
   - 文章介绍了一种利用Claude AI在无头模式下自动化反编译的方法，通过评分器、Claude、工具集和驱动脚本协同工作，大幅提升了效率。例如，在《Snowboard Kids 2》项目中，3周内取得的进展超过过去3个月。Claude表现优于其他工具，但输出代码可读性仍需人工优化。方法强调自动化减少人力，但LLM的输出和资源限制仍是挑战。
   - Tags: #read #llm #guide
 
-- (2025-12-07) [Why speed matters](202512/2025-12-07-why-speed-matters.md)
-  - 该文章指出网页“Robot Challenge Screen”显示安全验证界面，可能要求授权或完成验证码才能访问。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (26 entries)
+- [2025-12](202512/monthly-index.md) (27 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

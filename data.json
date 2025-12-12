@@ -8641,5 +8641,15 @@
       "deepdive",
       "frontend"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Litestream VFS",
+    "url": "https://fly.io/blog/litestream-vfs/",
+    "timestamp": 1765545158,
+    "tags": [
+      "read",
+      "db"
+    ]
   }
 ]
