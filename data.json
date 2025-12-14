@@ -8690,5 +8690,14 @@
       "read",
       "deepdive"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Jubilant: Python subprocess and Go codegen",
+    "url": "https://benhoyt.com/writings/jubilant/",
+    "timestamp": 1765719335,
+    "tags": [
+      "read"
+    ]
   }
 ]
