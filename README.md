@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-14) [我的独立开发者书单 2025 版 - 白宦成](202512/2025-12-14-%E6%88%91%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E4%B9%A6%E5%8D%95-2025-%E7%89%88---%E7%99%BD%E5%AE%A6%E6%88%90.md)
+  - 这份2025年独立开发者书单强调务实创业，推荐七本书，涵盖财富创造、产品全流程、SEO、App开发、创业管理、小型企业运营及网站盈利，旨在帮助开发者规避错误、低成本启动并实现持续盈利。建议关注作者社交媒体获取更新。
+  - Tags: #read
+
 - (2025-12-12) [Litestream VFS](202512/2025-12-12-litestream-vfs.md)
   - Litestream VFS 是一项功能，允许用户通过SQLite的插件接口直接查询对象存储（如S3）中的SQLite备份，而无需下载整个文件。它利用LTX格式和索引优化，仅按需加载查询所需的数据页，支持历史时间点查询和快速恢复，适用于云环境临时数据库访问和容错场景。该功能只读，写操作仍由独立进程处理。
   - Tags: #read #db
@@ -39,13 +43,9 @@
   - 文章《Go并发内部机制》核心解析了Go语言并发实现，包括goroutine调度器、GOMAXPROCS配置、并发原语及性能工具。调度器通过少量OS线程高效运行大量goroutine，自动管理并发细节。建议借助pprof、tracing等工具优化应用，鼓励实践掌握并发编程。
   - Tags: #read #go #deepdive
 
-- (2025-12-07) [The Unexpected Effectiveness of One-Shot Decompilation with Claude](202512/2025-12-07-the-unexpected-effectiveness-of-one-shot-decompilation-with-claude.md)
-  - 文章介绍了一种利用Claude AI在无头模式下自动化反编译的方法，通过评分器、Claude、工具集和驱动脚本协同工作，大幅提升了效率。例如，在《Snowboard Kids 2》项目中，3周内取得的进展超过过去3个月。Claude表现优于其他工具，但输出代码可读性仍需人工优化。方法强调自动化减少人力，但LLM的输出和资源限制仍是挑战。
-  - Tags: #read #llm #guide
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (27 entries)
+- [2025-12](202512/monthly-index.md) (28 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
