@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-14) [Skills vs Dynamic MCP Loadouts](202512/2025-12-14-skills-vs-dynamic-mcp-loadouts.md)
+  - 本文比较了AI工具调用中的技能系统和MCP协议，指出技能通过简短摘要和AI自适应使用现有工具，比依赖静态定义和正则匹配的MCP更灵活高效。作者基于实践经验，倾向让AI自主维护技能，避免MCP的兼容性和成本问题，认为技能系统在当前更具优势。
+  - Tags: #read #llm
+
 - (2025-12-14) [我的独立开发者书单 2025 版 - 白宦成](202512/2025-12-14-%E6%88%91%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E4%B9%A6%E5%8D%95-2025-%E7%89%88---%E7%99%BD%E5%AE%A6%E6%88%90.md)
   - 这份2025年独立开发者书单强调务实创业，推荐七本书，涵盖财富创造、产品全流程、SEO、App开发、创业管理、小型企业运营及网站盈利，旨在帮助开发者规避错误、低成本启动并实现持续盈利。建议关注作者社交媒体获取更新。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Cory Doctorow指出，AI热炒的背后是大型科技公司为维持股市增长制造的泡沫，而非真实创新。AI技术可能导致人类沦为机器附庸，且因统计模型本质存在局限。他反对技术取代人力的宿命论，主张通过抵制劣质AI产品和阶级合作应对危害，而非依赖版权限制。
   - Tags: #read
 
-- (2025-12-07) [Gist of Go: Concurrency internals](202512/2025-12-07-gist-of-go-concurrency-internals.md)
-  - 文章《Go并发内部机制》核心解析了Go语言并发实现，包括goroutine调度器、GOMAXPROCS配置、并发原语及性能工具。调度器通过少量OS线程高效运行大量goroutine，自动管理并发细节。建议借助pprof、tracing等工具优化应用，鼓励实践掌握并发编程。
-  - Tags: #read #go #deepdive
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (28 entries)
+- [2025-12](202512/monthly-index.md) (29 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
