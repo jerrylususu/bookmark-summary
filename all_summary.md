@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2025-12-14) [My gift to the rustdoc team](202512/2025-12-14-my-gift-to-the-rustdoc-team.md)
+  - Tags: #read #deepdive
+  - Summary: Arborium 是为 Rust 文档网站 docs.rs 开发的语法高亮工具，支持 96 种语言，通过 tree-sitter 实现高性能解析。文章分析了三种集成方案，推荐在 docs.rs 构建时进行后端处理以兼顾性能和安全。该项目已在 GitHub 开源，旨在提升 Rust 文档的可读性。
+
 - (2025-12-14) [What happens when the coding becomes the least interesting part of the work](202512/2025-12-14-what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work.md)
   - Tags: #read #llm
   - Summary: 编程代理将改变软件开发，编码不再是核心挑战，重点转向资深工程师的思考能力：问题分析、决策与权衡。资深工程师借助AI提升效率，行业结构或将精简，初级工程师面临替代风险。未来一年，即使AI停滞，变革仍将加速。

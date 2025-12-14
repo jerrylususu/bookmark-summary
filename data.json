@@ -8680,5 +8680,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "My gift to the rustdoc team",
+    "url": "https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team#solutions",
+    "timestamp": 1765718978,
+    "tags": [
+      "read",
+      "deepdive"
+    ]
   }
 ]
