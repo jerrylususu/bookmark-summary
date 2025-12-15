@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-15) [Justified](202512/2025-12-15-justified.md)
+  - 任务运行器“just”通过.justfile定义项目命令，实现跨平台任务自动化。支持变量、平台适配等高级功能，简化开发流程，是轻量高效的标准化工具。
+  - Tags: #read
+
 - (2025-12-14) [Jubilant: Python subprocess and Go codegen](202512/2025-12-14-jubilant-python-subprocess-and-go-codegen.md)
   - Jubilant 是利用 Python 封装 Juju CLI 的项目，通过 subprocess.run 调用 CLI 简化架构，使用代码生成确保数据模型一致，并基于 uv 和 Make 管理开发流程，体现了简洁实用的设计思路。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文介绍了使用Nano Banana Pro生成PPT的工作流，从传统拼凑转向整体渲染，解决了风格不一致、内容不可靠等问题。通过工程化方法构建可复用的生成引擎，交付生成能力而非静态成品，实现高效、统一的幻灯片制作。
   - Tags: #read #llm #guide
 
-- (2025-12-08) [Adding unpack syntax to RCL](202512/2025-12-08-adding-unpack-syntax-to-rcl.md)
-  - RCL v0.11.0引入解包功能，通过（列表/集合）和（字典）语法简化数据结构拼接。设计解决了推导冗长与联合运算符格式化问题，在保持简洁性的同时明确了集合与字典的语义差异，提升了代码可读性。
-  - Tags: #read #language #design
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (32 entries)
+- [2025-12](202512/monthly-index.md) (33 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

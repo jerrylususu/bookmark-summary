@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-15) [Justified](2025-12-15-justified.md)
+  - 任务运行器“just”通过.justfile定义项目命令，实现跨平台任务自动化。支持变量、平台适配等高级功能，简化开发流程，是轻量高效的标准化工具。
+  - Tags: #read
+
 - (2025-12-14) [Jubilant: Python subprocess and Go codegen](2025-12-14-jubilant-python-subprocess-and-go-codegen.md)
   - Jubilant 是利用 Python 封装 Juju CLI 的项目，通过 subprocess.run 调用 CLI 简化架构，使用代码生成确保数据模型一致，并基于 uv 和 Make 管理开发流程，体现了简洁实用的设计思路。
   - Tags: #read
