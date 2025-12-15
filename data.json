@@ -8708,5 +8708,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "JustHTML is a fascinating example of vibe engineering in action",
+    "url": "https://simonwillison.net/2025/Dec/14/justhtml/",
+    "timestamp": 1765806505,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]

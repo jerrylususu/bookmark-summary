@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-15) [JustHTML is a fascinating example of vibe engineering in action](2025-12-15-justhtml-is-a-fascinating-example-of-vibe-engineering-in-action.md)
+  - Emil利用AI工具开发的JustHTML库实现了纯Python的高质量HTML解析器，展示了“氛围工程”理念：程序员专注架构设计与测试验证，AI承担编码实现，提升开发效率与代码可靠性。
+  - Tags: #read #llm
+
 - (2025-12-15) [Justified](2025-12-15-justified.md)
   - 任务运行器“just”通过.justfile定义项目命令，实现跨平台任务自动化。支持变量、平台适配等高级功能，简化开发流程，是轻量高效的标准化工具。
   - Tags: #read
