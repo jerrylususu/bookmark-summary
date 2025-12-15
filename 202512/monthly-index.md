@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-15) [How I wrote JustHTML using coding agents - Friendly Bit](2025-12-15-how-i-wrote-justhtml-using-coding-agents---friendly-bit.md)
+  - 参数验证失败：url参数中的域名"python"无法DNS解析为有效IP地址，导致400错误。
+  - Tags: #read #llm #deepdive
+
 - (2025-12-15) [JustHTML is a fascinating example of vibe engineering in action](2025-12-15-justhtml-is-a-fascinating-example-of-vibe-engineering-in-action.md)
   - Emil利用AI工具开发的JustHTML库实现了纯Python的高质量HTML解析器，展示了“氛围工程”理念：程序员专注架构设计与测试验证，AI承担编码实现，提升开发效率与代码可靠性。
   - Tags: #read #llm

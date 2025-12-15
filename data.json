@@ -8718,5 +8718,16 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "How I wrote JustHTML using coding agents - Friendly Bit",
+    "url": "/python/writing-justhtml-with-coding-agents/",
+    "timestamp": 1765806602,
+    "tags": [
+      "read",
+      "llm",
+      "deepdive"
+    ]
   }
 ]

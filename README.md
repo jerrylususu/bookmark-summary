@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-15) [How I wrote JustHTML using coding agents - Friendly Bit](202512/2025-12-15-how-i-wrote-justhtml-using-coding-agents---friendly-bit.md)
+  - 参数验证失败：url参数中的域名"python"无法DNS解析为有效IP地址，导致400错误。
+  - Tags: #read #llm #deepdive
+
 - (2025-12-15) [JustHTML is a fascinating example of vibe engineering in action](202512/2025-12-15-justhtml-is-a-fascinating-example-of-vibe-engineering-in-action.md)
   - Emil利用AI工具开发的JustHTML库实现了纯Python的高质量HTML解析器，展示了“氛围工程”理念：程序员专注架构设计与测试验证，AI承担编码实现，提升开发效率与代码可靠性。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 该文介绍了HTML工具的定义和开发模式，强调单一文件结构，避免复杂框架，并使用CDN和浏览器原生功能实现轻量化开发。建议通过LLM辅助快速构建实用工具，并分享了具体实现技巧和示例。
   - Tags: #read #tips #deepdive #frontend
 
-- (2025-12-09) [Prediction: AI will make formal verification go mainstream — Martin Kleppmann’s blog](202512/2025-12-09-prediction-ai-will-make-formal-verification-go-mainstream-%E2%80%94-martin-kleppmann%E2%80%99s-blog.md)
-  - AI将推动形式化验证从边缘技术走向主流。原本因高成本和难度仅见于研究，但AI能大幅降低验证成本，并因自动代码生成而产生验证需求。未来挑战在于定义规范和文化接受，但形式化验证有望成为软件开发标准。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (34 entries)
+- [2025-12](202512/monthly-index.md) (35 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
