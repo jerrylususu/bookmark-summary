@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-16) [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5 hours](202512/2025-12-16-i-ported-justhtml-from-python-to-javascript-with-codex-cli-and-gpt-5.2-in-4.5-hours.md)
+  - 作者使用GPT-5.2在4.5小时内将Python库JustHTML移植为JavaScript版本，成果包含9000行代码并通过9200项测试。项目利用AI自动编写和测试代码，费用极低，凸显了AI在代码移植中的高效性，但也引发了关于伦理、版权与生成代码质量的争议。
+  - Tags: #read #llm
+
 - (2025-12-15) [How I wrote JustHTML using coding agents - Friendly Bit](202512/2025-12-15-how-i-wrote-justhtml-using-coding-agents---friendly-bit.md)
   - 参数验证失败：url参数中的域名"python"无法DNS解析为有效IP地址，导致400错误。
   - Tags: #read #llm #deepdive
@@ -39,13 +43,9 @@
   - Litestream VFS 是一项功能，允许用户通过SQLite的插件接口直接查询对象存储（如S3）中的SQLite备份，而无需下载整个文件。它利用LTX格式和索引优化，仅按需加载查询所需的数据页，支持历史时间点查询和快速恢复，适用于云环境临时数据库访问和容错场景。该功能只读，写操作仍由独立进程处理。
   - Tags: #read #db
 
-- (2025-12-11) [Useful patterns for building HTML tools](202512/2025-12-11-useful-patterns-for-building-html-tools.md)
-  - 该文介绍了HTML工具的定义和开发模式，强调单一文件结构，避免复杂框架，并使用CDN和浏览器原生功能实现轻量化开发。建议通过LLM辅助快速构建实用工具，并分享了具体实现技巧和示例。
-  - Tags: #read #tips #deepdive #frontend
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (35 entries)
+- [2025-12](202512/monthly-index.md) (36 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

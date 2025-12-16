@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-16) [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5 hours](2025-12-16-i-ported-justhtml-from-python-to-javascript-with-codex-cli-and-gpt-5.2-in-4.5-hours.md)
+  - 作者使用GPT-5.2在4.5小时内将Python库JustHTML移植为JavaScript版本，成果包含9000行代码并通过9200项测试。项目利用AI自动编写和测试代码，费用极低，凸显了AI在代码移植中的高效性，但也引发了关于伦理、版权与生成代码质量的争议。
+  - Tags: #read #llm
+
 - (2025-12-15) [How I wrote JustHTML using coding agents - Friendly Bit](2025-12-15-how-i-wrote-justhtml-using-coding-agents---friendly-bit.md)
   - 参数验证失败：url参数中的域名"python"无法DNS解析为有效IP地址，导致400错误。
   - Tags: #read #llm #deepdive
