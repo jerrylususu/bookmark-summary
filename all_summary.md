@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2025-12-16) [Statistics made simple](202512/2025-12-16-statistics-made-simple.md)
+  - Tags: #read
+  - Summary: 作者开发了轻量级网站统计工具clj-simple-stats，替代复杂方案如Google Analytics。它通过中间件简化部署，智能分类访问并优化RSS计数，提供柱状图等准确图表。具备基础筛选功能，开源可自托管。
+
 - (2025-12-16) [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5 hours](202512/2025-12-16-i-ported-justhtml-from-python-to-javascript-with-codex-cli-and-gpt-5.2-in-4.5-hours.md)
   - Tags: #read #llm
   - Summary: 作者使用GPT-5.2在4.5小时内将Python库JustHTML移植为JavaScript版本，成果包含9000行代码并通过9200项测试。项目利用AI自动编写和测试代码，费用极低，凸显了AI在代码移植中的高效性，但也引发了关于伦理、版权与生成代码质量的争议。

@@ -8739,5 +8739,14 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Statistics made simple",
+    "url": "https://tonsky.me/blog/clj-simple-stats/",
+    "timestamp": 1765891704,
+    "tags": [
+      "read"
+    ]
   }
 ]
