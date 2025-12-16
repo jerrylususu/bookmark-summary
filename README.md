@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-16) [How a Kernel Bug Froze My Machine: Debugging an Async-profiler Deadlock | QuestDB](202512/2025-12-16-how-a-kernel-bug-froze-my-machine-debugging-an-async-profiler-deadlock-questdb.md)
+  - 作者在使用 async-profiler 时遭遇一个由 Linux 内核 6.17 引入的 bug，导致系统死锁。该问题在于 cpu-clock 事件处理中的 hrtimer 回调陷入循环等待。解决方案是内核补丁将 hrtimer_cancel 改为非阻塞调用并引入延迟停止标志，临时规避方法是使用 -e ctimer 选项。作者通过 QEMU 和 GDB 成功调试并定位问题。
+  - Tags: #read #kernel #deepdive
+
 - (2025-12-16) [Statistics made simple](202512/2025-12-16-statistics-made-simple.md)
   - 作者开发了轻量级网站统计工具clj-simple-stats，替代复杂方案如Google Analytics。它通过中间件简化部署，智能分类访问并优化RSS计数，提供柱状图等准确图表。具备基础筛选功能，开源可自托管。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文比较了AI工具调用中的技能系统和MCP协议，指出技能通过简短摘要和AI自适应使用现有工具，比依赖静态定义和正则匹配的MCP更灵活高效。作者基于实践经验，倾向让AI自主维护技能，避免MCP的兼容性和成本问题，认为技能系统在当前更具优势。
   - Tags: #read #llm
 
-- (2025-12-14) [我的独立开发者书单 2025 版 - 白宦成](202512/2025-12-14-%E6%88%91%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E4%B9%A6%E5%8D%95-2025-%E7%89%88---%E7%99%BD%E5%AE%A6%E6%88%90.md)
-  - 这份2025年独立开发者书单强调务实创业，推荐七本书，涵盖财富创造、产品全流程、SEO、App开发、创业管理、小型企业运营及网站盈利，旨在帮助开发者规避错误、低成本启动并实现持续盈利。建议关注作者社交媒体获取更新。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (37 entries)
+- [2025-12](202512/monthly-index.md) (38 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

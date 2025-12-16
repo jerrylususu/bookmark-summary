@@ -8748,5 +8748,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "How a Kernel Bug Froze My Machine: Debugging an Async-profiler Deadlock | QuestDB",
+    "url": "https://questdb.com/blog/async-profiler-kernel-bug/",
+    "timestamp": 1765893303,
+    "tags": [
+      "read",
+      "kernel",
+      "deepdive"
+    ]
   }
 ]

@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-16) [How a Kernel Bug Froze My Machine: Debugging an Async-profiler Deadlock | QuestDB](2025-12-16-how-a-kernel-bug-froze-my-machine-debugging-an-async-profiler-deadlock-questdb.md)
+  - 作者在使用 async-profiler 时遭遇一个由 Linux 内核 6.17 引入的 bug，导致系统死锁。该问题在于 cpu-clock 事件处理中的 hrtimer 回调陷入循环等待。解决方案是内核补丁将 hrtimer_cancel 改为非阻塞调用并引入延迟停止标志，临时规避方法是使用 -e ctimer 选项。作者通过 QEMU 和 GDB 成功调试并定位问题。
+  - Tags: #read #kernel #deepdive
+
 - (2025-12-16) [Statistics made simple](2025-12-16-statistics-made-simple.md)
   - 作者开发了轻量级网站统计工具clj-simple-stats，替代复杂方案如Google Analytics。它通过中间件简化部署，智能分类访问并优化RSS计数，提供柱状图等准确图表。具备基础筛选功能，开源可自托管。
   - Tags: #read
