@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-18) [What Actually Is Claude Code’s Plan Mode?](202512/2025-12-18-what-actually-is-claude-code%E2%80%99s-plan-mode.md)
+  - 本文解析了Claude的“计划模式”，指出它通过系统提示和文件系统路径管理生成Markdown计划，依赖于UI实现审批流程。作者认为这一模式核心功能可通过自定义提示模拟，但集成UX是其独特之处，不过个人更偏好灵活的自然语言编辑方式。
+  - Tags: #read #llm
+
 - (2025-12-18) [Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL](202512/2025-12-18-announcing-support-for-group-by%2C-sum%2C-and-other-aggregation-queries-in-r2-sql.md)
   - Cloudflare R2 SQL 新增支持的聚合查询功能包含GROUP BY、SUM等，利用Scatter-Gather和Shuffling两种分布式策略处理数据，帮助用户快速获取大数据摘要并支持报告生成和异常检测。该功能已上线，适用于R2存储的Parquet文件。
   - Tags: #read #db
@@ -39,13 +43,9 @@
   - Jubilant 是利用 Python 封装 Juju CLI 的项目，通过 subprocess.run 调用 CLI 简化架构，使用代码生成确保数据模型一致，并基于 uv 和 Make 管理开发流程，体现了简洁实用的设计思路。
   - Tags: #read
 
-- (2025-12-14) [My gift to the rustdoc team](202512/2025-12-14-my-gift-to-the-rustdoc-team.md)
-  - Arborium 是为 Rust 文档网站 docs.rs 开发的语法高亮工具，支持 96 种语言，通过 tree-sitter 实现高性能解析。文章分析了三种集成方案，推荐在 docs.rs 构建时进行后端处理以兼顾性能和安全。该项目已在 GitHub 开源，旨在提升 Rust 文档的可读性。
-  - Tags: #read #deepdive
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (40 entries)
+- [2025-12](202512/monthly-index.md) (41 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

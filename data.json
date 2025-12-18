@@ -8778,5 +8778,15 @@
       "read",
       "db"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "What Actually Is Claude Code’s Plan Mode?",
+    "url": "https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/",
+    "timestamp": 1766071339,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]

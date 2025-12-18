@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2025-12-18) [What Actually Is Claude Code’s Plan Mode?](202512/2025-12-18-what-actually-is-claude-code%E2%80%99s-plan-mode.md)
+  - Tags: #read #llm
+  - Summary: 本文解析了Claude的“计划模式”，指出它通过系统提示和文件系统路径管理生成Markdown计划，依赖于UI实现审批流程。作者认为这一模式核心功能可通过自定义提示模拟，但集成UX是其独特之处，不过个人更偏好灵活的自然语言编辑方式。
+
 - (2025-12-18) [Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL](202512/2025-12-18-announcing-support-for-group-by%2C-sum%2C-and-other-aggregation-queries-in-r2-sql.md)
   - Tags: #read #db
   - Summary: Cloudflare R2 SQL 新增支持的聚合查询功能包含GROUP BY、SUM等，利用Scatter-Gather和Shuffling两种分布式策略处理数据，帮助用户快速获取大数据摘要并支持报告生成和异常检测。该功能已上线，适用于R2存储的Parquet文件。
