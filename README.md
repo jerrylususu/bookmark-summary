@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-18) [CET Perceptually Uniform Colour Maps](202512/2025-12-18-cet-perceptually-uniform-colour-maps.md)
+  - CET配色方案通过感知均匀设计解决数据可视化中的对比度不均问题，包含线性、发散、彩虹等类型，适用于一般数据、参考数值及色盲友好场景，并提供了相关工具与资源。
+  - Tags: #tools
+
 - (2025-12-18) [Inside PostHog: How SSRF, a ClickHouse SQL Escaping 0day, and Default PostgreSQL Credentials Formed an RCE Chain (ZDI-25-099, ZDI-25-097, ZDI-25-096) - Mehmet Ince @mdisec](202512/2025-12-18-inside-posthog-how-ssrf%2C-a-clickhouse-sql-escaping-0day%2C-and-default-postgresql-credentials-formed-an-rce-chain-%28zdi-25-099%2C-zdi-25-097%2C-zdi-25-096%29---mehmet-ince-%40mdisec.md)
   - 本文披露PostHog平台中存在一条组合漏殻链，利用SSRF、ClickHouse SQL注入0day与PostgreSQL默认凭证，实现远程代码执行。攻击可绕过前端验证，将Webhook重定向至内部服务并执行任意命令。漏洞已通过ZDI协调披露，凸显了系统纵深防御的多重失效。
   - Tags: #read #deepdive #security
@@ -39,13 +43,9 @@
   - Emil利用AI工具开发的JustHTML库实现了纯Python的高质量HTML解析器，展示了“氛围工程”理念：程序员专注架构设计与测试验证，AI承担编码实现，提升开发效率与代码可靠性。
   - Tags: #read #llm
 
-- (2025-12-15) [Justified](202512/2025-12-15-justified.md)
-  - 任务运行器“just”通过.justfile定义项目命令，实现跨平台任务自动化。支持变量、平台适配等高级功能，简化开发流程，是轻量高效的标准化工具。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (42 entries)
+- [2025-12](202512/monthly-index.md) (43 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

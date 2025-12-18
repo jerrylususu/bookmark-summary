@@ -8799,5 +8799,14 @@
       "deepdive",
       "security"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "CET Perceptually Uniform Colour Maps",
+    "url": "https://colorcet.com/",
+    "timestamp": 1766073840,
+    "tags": [
+      "tools"
+    ]
   }
 ]
