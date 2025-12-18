@@ -8788,5 +8788,16 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Inside PostHog: How SSRF, a ClickHouse SQL Escaping 0day, and Default PostgreSQL Credentials Formed an RCE Chain (ZDI-25-099, ZDI-25-097, ZDI-25-096) - Mehmet Ince @mdisec",
+    "url": "https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/",
+    "timestamp": 1766072447,
+    "tags": [
+      "read",
+      "deepdive",
+      "security"
+    ]
   }
 ]
