@@ -8768,5 +8768,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL",
+    "url": "https://blog.cloudflare.com/r2-sql-aggregations/",
+    "timestamp": 1766069115,
+    "tags": [
+      "read",
+      "db"
+    ]
   }
 ]

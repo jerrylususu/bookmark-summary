@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-18) [Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL](202512/2025-12-18-announcing-support-for-group-by%2C-sum%2C-and-other-aggregation-queries-in-r2-sql.md)
+  - Cloudflare R2 SQL 新增支持的聚合查询功能包含GROUP BY、SUM等，利用Scatter-Gather和Shuffling两种分布式策略处理数据，帮助用户快速获取大数据摘要并支持报告生成和异常检测。该功能已上线，适用于R2存储的Parquet文件。
+  - Tags: #read #db
+
 - (2025-12-17) [时间+项目的双维度工作笔记法 - 少数派](202512/2025-12-17-%E6%97%B6%E9%97%B4%2B%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%8F%8C%E7%BB%B4%E5%BA%A6%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0%E6%B3%95---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
   - 本文提出“时间+项目”双维度工作笔记法，通过日志、任务、项目、知识四要素整合，帮助职场人应对多任务与长周期项目挑战。方法强调高效记录与检索，支持快速复盘和知识复用，可借助Notion等工具实现，以提高工作效率并减轻大脑负担。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Arborium 是为 Rust 文档网站 docs.rs 开发的语法高亮工具，支持 96 种语言，通过 tree-sitter 实现高性能解析。文章分析了三种集成方案，推荐在 docs.rs 构建时进行后端处理以兼顾性能和安全。该项目已在 GitHub 开源，旨在提升 Rust 文档的可读性。
   - Tags: #read #deepdive
 
-- (2025-12-14) [What happens when the coding becomes the least interesting part of the work](202512/2025-12-14-what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work.md)
-  - 编程代理将改变软件开发，编码不再是核心挑战，重点转向资深工程师的思考能力：问题分析、决策与权衡。资深工程师借助AI提升效率，行业结构或将精简，初级工程师面临替代风险。未来一年，即使AI停滞，变革仍将加速。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (39 entries)
+- [2025-12](202512/monthly-index.md) (40 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
