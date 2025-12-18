@@ -8808,5 +8808,16 @@
     "tags": [
       "tools"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Making our own spectrogram",
+    "url": "https://fasterthanli.me/articles/making-our-own-spectrogram#the-gabor-limit",
+    "timestamp": 1766074330,
+    "tags": [
+      "read",
+      "rust",
+      "deepdive"
+    ]
   }
 ]

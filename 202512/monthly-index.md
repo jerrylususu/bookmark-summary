@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-18) [Making our own spectrogram](2025-12-18-making-our-own-spectrogram.md)
+  - 这篇文章介绍了用Rust开发音频频谱图可视化工具的全过程，包括傅里叶变换理论、分块加窗处理、多线程架构设计，以及性能优化方案。文章通过实际代码和多种音乐频谱演示，实现了实时音频分析，并讨论了工程实践中的关键权衡。
+  - Tags: #read #rust #deepdive
+
 - (2025-12-18) [CET Perceptually Uniform Colour Maps](2025-12-18-cet-perceptually-uniform-colour-maps.md)
   - CET配色方案通过感知均匀设计解决数据可视化中的对比度不均问题，包含线性、发散、彩虹等类型，适用于一般数据、参考数值及色盲友好场景，并提供了相关工具与资源。
   - Tags: #tools
