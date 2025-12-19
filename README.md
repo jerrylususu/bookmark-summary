@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-19) [GraphQL: the enterprise honeymoon is over](202512/2025-12-19-graphql-the-enterprise-honeymoon-is-over.md)
+  - 文章认为GraphQL在企业应用中优势有限。尽管旨在减少数据过度获取，但多数场景已被BFF架构解决。GraphQL反而带来更高实现复杂度、可观测性差、缓存脆弱及维护成本。企业更需稳定和效率，而非技术优雅，因此GraphQL适用面窄。
+  - Tags: #read
+
 - (2025-12-19) [The Architecture of "Not Bad": Decoding the Chinese Source Code of the Void](202512/2025-12-19-the-architecture-of-not-bad-decoding-the-chinese-source-code-of-the-void.md)
   - 中文倾向以否定间接肯定（如“没错”），英语则偏好直接肯定（如“great”）。这种差异塑造了灰度思维与直接分类的认知模式，并影响社会互动与商业策略。语言不仅是表达工具，更潜在地决定了现实认知方式。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文提出“时间+项目”双维度工作笔记法，通过日志、任务、项目、知识四要素整合，帮助职场人应对多任务与长周期项目挑战。方法强调高效记录与检索，支持快速复盘和知识复用，可借助Notion等工具实现，以提高工作效率并减轻大脑负担。
   - Tags: #read
 
-- (2025-12-16) [How a Kernel Bug Froze My Machine: Debugging an Async-profiler Deadlock | QuestDB](202512/2025-12-16-how-a-kernel-bug-froze-my-machine-debugging-an-async-profiler-deadlock-questdb.md)
-  - 作者在使用 async-profiler 时遭遇一个由 Linux 内核 6.17 引入的 bug，导致系统死锁。该问题在于 cpu-clock 事件处理中的 hrtimer 回调陷入循环等待。解决方案是内核补丁将 hrtimer_cancel 改为非阻塞调用并引入延迟停止标志，临时规避方法是使用 -e ctimer 选项。作者通过 QEMU 和 GDB 成功调试并定位问题。
-  - Tags: #read #kernel #deepdive
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (47 entries)
+- [2025-12](202512/monthly-index.md) (48 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

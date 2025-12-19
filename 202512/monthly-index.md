@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-19) [GraphQL: the enterprise honeymoon is over](2025-12-19-graphql-the-enterprise-honeymoon-is-over.md)
+  - 文章认为GraphQL在企业应用中优势有限。尽管旨在减少数据过度获取，但多数场景已被BFF架构解决。GraphQL反而带来更高实现复杂度、可观测性差、缓存脆弱及维护成本。企业更需稳定和效率，而非技术优雅，因此GraphQL适用面窄。
+  - Tags: #read
+
 - (2025-12-19) [The Architecture of "Not Bad": Decoding the Chinese Source Code of the Void](2025-12-19-the-architecture-of-not-bad-decoding-the-chinese-source-code-of-the-void.md)
   - 中文倾向以否定间接肯定（如“没错”），英语则偏好直接肯定（如“great”）。这种差异塑造了灰度思维与直接分类的认知模式，并影响社会互动与商业策略。语言不仅是表达工具，更潜在地决定了现实认知方式。
   - Tags: #read
