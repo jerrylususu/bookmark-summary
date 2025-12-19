@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2025-12-19) [Programmers and software developers lost the plot on naming their tools](202512/2025-12-19-programmers-and-software-developers-lost-the-plot-on-naming-their-tools.md)
+  - Tags: #read
+  - Summary: 文章批评软件工具命名过于随意，主张命名应清晰描述功能，回归专业标准，减少认知负担。
+
 - (2025-12-19) [GraphQL: the enterprise honeymoon is over](202512/2025-12-19-graphql-the-enterprise-honeymoon-is-over.md)
   - Tags: #read
   - Summary: 文章认为GraphQL在企业应用中优势有限。尽管旨在减少数据过度获取，但多数场景已被BFF架构解决。GraphQL反而带来更高实现复杂度、可观测性差、缓存脆弱及维护成本。企业更需稳定和效率，而非技术优雅，因此GraphQL适用面窄。

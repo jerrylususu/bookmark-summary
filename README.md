@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-19) [Programmers and software developers lost the plot on naming their tools](202512/2025-12-19-programmers-and-software-developers-lost-the-plot-on-naming-their-tools.md)
+  - 文章批评软件工具命名过于随意，主张命名应清晰描述功能，回归专业标准，减少认知负担。
+  - Tags: #read
+
 - (2025-12-19) [GraphQL: the enterprise honeymoon is over](202512/2025-12-19-graphql-the-enterprise-honeymoon-is-over.md)
   - 文章认为GraphQL在企业应用中优势有限。尽管旨在减少数据过度获取，但多数场景已被BFF架构解决。GraphQL反而带来更高实现复杂度、可观测性差、缓存脆弱及维护成本。企业更需稳定和效率，而非技术优雅，因此GraphQL适用面窄。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Cloudflare R2 SQL 新增支持的聚合查询功能包含GROUP BY、SUM等，利用Scatter-Gather和Shuffling两种分布式策略处理数据，帮助用户快速获取大数据摘要并支持报告生成和异常检测。该功能已上线，适用于R2存储的Parquet文件。
   - Tags: #read #db
 
-- (2025-12-17) [时间+项目的双维度工作笔记法 - 少数派](202512/2025-12-17-%E6%97%B6%E9%97%B4%2B%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%8F%8C%E7%BB%B4%E5%BA%A6%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0%E6%B3%95---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
-  - 本文提出“时间+项目”双维度工作笔记法，通过日志、任务、项目、知识四要素整合，帮助职场人应对多任务与长周期项目挑战。方法强调高效记录与检索，支持快速复盘和知识复用，可借助Notion等工具实现，以提高工作效率并减轻大脑负担。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (48 entries)
+- [2025-12](202512/monthly-index.md) (49 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
