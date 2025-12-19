@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2025-12-19) [AI agents are starting to eat SaaS](202512/2025-12-19-ai-agents-are-starting-to-eat-saas.md)
+  - Tags: #read
+  - Summary: AI代理正颠覆SaaS行业，使企业更易自建定制化工具替代通用SaaS，导致后者客户增长和收入保留率下降。高可用性、网络效应等护城河强的SaaS受影响较小，但后台类工具风险最高。SaaS市场将面临重组，企业需评估技术能力以应对变化。
+
 - (2025-12-19) [Introducing RSC Explorer — overreacted](202512/2025-12-19-introducing-rsc-explorer-%E2%80%94-overreacted.md)
   - Tags: #read #deepdive #frontend
   - Summary: 本文介绍了开源工具RSC Explorer，它通过可视化方式帮助开发者理解React Server Components协议。该工具模拟RSC通信，展示组件序列化、异步渲染、动态组件加载及服务器动作调用等场景，旨在提供无需网络请求的教育体验。

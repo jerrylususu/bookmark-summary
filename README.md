@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-19) [AI agents are starting to eat SaaS](202512/2025-12-19-ai-agents-are-starting-to-eat-saas.md)
+  - AI代理正颠覆SaaS行业，使企业更易自建定制化工具替代通用SaaS，导致后者客户增长和收入保留率下降。高可用性、网络效应等护城河强的SaaS受影响较小，但后台类工具风险最高。SaaS市场将面临重组，企业需评估技术能力以应对变化。
+  - Tags: #read
+
 - (2025-12-19) [Introducing RSC Explorer — overreacted](202512/2025-12-19-introducing-rsc-explorer-%E2%80%94-overreacted.md)
   - 本文介绍了开源工具RSC Explorer，它通过可视化方式帮助开发者理解React Server Components协议。该工具模拟RSC通信，展示组件序列化、异步渲染、动态组件加载及服务器动作调用等场景，旨在提供无需网络请求的教育体验。
   - Tags: #read #deepdive #frontend
@@ -39,13 +43,9 @@
   - 作者开发了轻量级网站统计工具clj-simple-stats，替代复杂方案如Google Analytics。它通过中间件简化部署，智能分类访问并优化RSS计数，提供柱状图等准确图表。具备基础筛选功能，开源可自托管。
   - Tags: #read
 
-- (2025-12-16) [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5 hours](202512/2025-12-16-i-ported-justhtml-from-python-to-javascript-with-codex-cli-and-gpt-5.2-in-4.5-hours.md)
-  - 作者使用GPT-5.2在4.5小时内将Python库JustHTML移植为JavaScript版本，成果包含9000行代码并通过9200项测试。项目利用AI自动编写和测试代码，费用极低，凸显了AI在代码移植中的高效性，但也引发了关于伦理、版权与生成代码质量的争议。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (45 entries)
+- [2025-12](202512/monthly-index.md) (46 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
