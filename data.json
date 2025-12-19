@@ -8819,5 +8819,16 @@
       "rust",
       "deepdive"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Introducing RSC Explorer — overreacted",
+    "url": "https://overreacted.io/introducing-rsc-explorer/",
+    "timestamp": 1766154424,
+    "tags": [
+      "read",
+      "deepdive",
+      "frontend"
+    ]
   }
 ]

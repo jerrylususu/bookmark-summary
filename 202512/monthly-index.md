@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-19) [Introducing RSC Explorer — overreacted](2025-12-19-introducing-rsc-explorer-%E2%80%94-overreacted.md)
+  - 本文介绍了开源工具RSC Explorer，它通过可视化方式帮助开发者理解React Server Components协议。该工具模拟RSC通信，展示组件序列化、异步渲染、动态组件加载及服务器动作调用等场景，旨在提供无需网络请求的教育体验。
+  - Tags: #read #deepdive #frontend
+
 - (2025-12-18) [Making our own spectrogram](2025-12-18-making-our-own-spectrogram.md)
   - 这篇文章介绍了用Rust开发音频频谱图可视化工具的全过程，包括傅里叶变换理论、分块加窗处理、多线程架构设计，以及性能优化方案。文章通过实际代码和多种音乐频谱演示，实现了实时音频分析，并讨论了工程实践中的关键权衡。
   - Tags: #read #rust #deepdive

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-19) [Introducing RSC Explorer — overreacted](202512/2025-12-19-introducing-rsc-explorer-%E2%80%94-overreacted.md)
+  - 本文介绍了开源工具RSC Explorer，它通过可视化方式帮助开发者理解React Server Components协议。该工具模拟RSC通信，展示组件序列化、异步渲染、动态组件加载及服务器动作调用等场景，旨在提供无需网络请求的教育体验。
+  - Tags: #read #deepdive #frontend
+
 - (2025-12-18) [Making our own spectrogram](202512/2025-12-18-making-our-own-spectrogram.md)
   - 这篇文章介绍了用Rust开发音频频谱图可视化工具的全过程，包括傅里叶变换理论、分块加窗处理、多线程架构设计，以及性能优化方案。文章通过实际代码和多种音乐频谱演示，实现了实时音频分析，并讨论了工程实践中的关键权衡。
   - Tags: #read #rust #deepdive
@@ -39,13 +43,9 @@
   - 作者使用GPT-5.2在4.5小时内将Python库JustHTML移植为JavaScript版本，成果包含9000行代码并通过9200项测试。项目利用AI自动编写和测试代码，费用极低，凸显了AI在代码移植中的高效性，但也引发了关于伦理、版权与生成代码质量的争议。
   - Tags: #read #llm
 
-- (2025-12-15) [How I wrote JustHTML using coding agents - Friendly Bit](202512/2025-12-15-how-i-wrote-justhtml-using-coding-agents---friendly-bit.md)
-  - 参数验证失败：url参数中的域名"python"无法DNS解析为有效IP地址，导致400错误。
-  - Tags: #read #llm #deepdive
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (44 entries)
+- [2025-12](202512/monthly-index.md) (45 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
