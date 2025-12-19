@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-19) [The Architecture of "Not Bad": Decoding the Chinese Source Code of the Void](2025-12-19-the-architecture-of-not-bad-decoding-the-chinese-source-code-of-the-void.md)
+  - 中文倾向以否定间接肯定（如“没错”），英语则偏好直接肯定（如“great”）。这种差异塑造了灰度思维与直接分类的认知模式，并影响社会互动与商业策略。语言不仅是表达工具，更潜在地决定了现实认知方式。
+  - Tags: #read
+
 - (2025-12-19) [AI agents are starting to eat SaaS](2025-12-19-ai-agents-are-starting-to-eat-saas.md)
   - AI代理正颠覆SaaS行业，使企业更易自建定制化工具替代通用SaaS，导致后者客户增长和收入保留率下降。高可用性、网络效应等护城河强的SaaS受影响较小，但后台类工具风险最高。SaaS市场将面临重组，企业需评估技术能力以应对变化。
   - Tags: #read
