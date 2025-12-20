@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2025-12-20) [2025 LLM Year in Review](202512/2025-12-20-2025-llm-year-in-review.md)
+  - Tags: #read #llm
+  - Summary: 2025年LLM领域六大趋势：强化学习可验证奖励(RLVR)提升推理能力，智能具有不均衡性，Cursor等应用拓宽垂直领域，Claude Code推动本地化AI发展，自然语言编程降低技术门槛，以及视觉交互模型成为新方向。领域整体快速发展，潜力与挑战并存。
+
 - (2025-12-19) [Programmers and software developers lost the plot on naming their tools](202512/2025-12-19-programmers-and-software-developers-lost-the-plot-on-naming-their-tools.md)
   - Tags: #read
   - Summary: 文章批评软件工具命名过于随意，主张命名应清晰描述功能，回归专业标准，减少认知负担。

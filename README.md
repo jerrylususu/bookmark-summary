@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-20) [2025 LLM Year in Review](202512/2025-12-20-2025-llm-year-in-review.md)
+  - 2025年LLM领域六大趋势：强化学习可验证奖励(RLVR)提升推理能力，智能具有不均衡性，Cursor等应用拓宽垂直领域，Claude Code推动本地化AI发展，自然语言编程降低技术门槛，以及视觉交互模型成为新方向。领域整体快速发展，潜力与挑战并存。
+  - Tags: #read #llm
+
 - (2025-12-19) [Programmers and software developers lost the plot on naming their tools](202512/2025-12-19-programmers-and-software-developers-lost-the-plot-on-naming-their-tools.md)
   - 文章批评软件工具命名过于随意，主张命名应清晰描述功能，回归专业标准，减少认知负担。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文解析了Claude的“计划模式”，指出它通过系统提示和文件系统路径管理生成Markdown计划，依赖于UI实现审批流程。作者认为这一模式核心功能可通过自定义提示模拟，但集成UX是其独特之处，不过个人更偏好灵活的自然语言编辑方式。
   - Tags: #read #llm
 
-- (2025-12-18) [Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL](202512/2025-12-18-announcing-support-for-group-by%2C-sum%2C-and-other-aggregation-queries-in-r2-sql.md)
-  - Cloudflare R2 SQL 新增支持的聚合查询功能包含GROUP BY、SUM等，利用Scatter-Gather和Shuffling两种分布式策略处理数据，帮助用户快速获取大数据摘要并支持报告生成和异常检测。该功能已上线，适用于R2存储的Parquet文件。
-  - Tags: #read #db
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (49 entries)
+- [2025-12](202512/monthly-index.md) (50 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

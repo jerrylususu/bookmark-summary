@@ -8866,5 +8866,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "2025 LLM Year in Review",
+    "url": "https://karpathy.bearblog.dev/year-in-review-2025/",
+    "timestamp": 1766227562,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
