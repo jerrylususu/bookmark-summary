@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-20) [Prompt caching: 10x cheaper LLM tokens, but how? | ngrok blog](202512/2025-12-20-prompt-caching-10x-cheaper-llm-tokens%2C-but-how-ngrok-blog.md)
+  - 文章介绍了提示缓存如何通过复用语言模型的K和V矩阵，避免重复计算输入令牌，从而降低成本90%并减少延迟。OpenAI和Anthropic的缓存策略不同，但均显著提升效率，适用于长提示场景。
+  - Tags: #read #llm #explainer
+
 - (2025-12-20) [【开源】智能体编程语言ASL——重构智能体开发体验 - 铁蕾的个人博客](202512/2025-12-20-%E3%80%90%E5%BC%80%E6%BA%90%E3%80%91%E6%99%BA%E8%83%BD%E4%BD%93%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80asl%E2%80%94%E2%80%94%E9%87%8D%E6%9E%84%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%80%E5%8F%91%E4%BD%93%E9%AA%8C---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
   - ASL是一种新型智能体编程语言，专注于直观描述智能体内部结构、多智能体组合及动态工作流。其声明式语法支持嵌套模块与动态编排，解决了传统语言在结构表达上的不足，提升了开发效率和代码复用性。ASL基于Bridgic框架，将执行逻辑与结构分离，适用于动态自主系统的构建。
   - Tags: #read #llm #language
@@ -39,13 +43,9 @@
   - CET配色方案通过感知均匀设计解决数据可视化中的对比度不均问题，包含线性、发散、彩虹等类型，适用于一般数据、参考数值及色盲友好场景，并提供了相关工具与资源。
   - Tags: #tools
 
-- (2025-12-18) [Inside PostHog: How SSRF, a ClickHouse SQL Escaping 0day, and Default PostgreSQL Credentials Formed an RCE Chain (ZDI-25-099, ZDI-25-097, ZDI-25-096) - Mehmet Ince @mdisec](202512/2025-12-18-inside-posthog-how-ssrf%2C-a-clickhouse-sql-escaping-0day%2C-and-default-postgresql-credentials-formed-an-rce-chain-%28zdi-25-099%2C-zdi-25-097%2C-zdi-25-096%29---mehmet-ince-%40mdisec.md)
-  - 本文披露PostHog平台中存在一条组合漏殻链，利用SSRF、ClickHouse SQL注入0day与PostgreSQL默认凭证，实现远程代码执行。攻击可绕过前端验证，将Webhook重定向至内部服务并执行任意命令。漏洞已通过ZDI协调披露，凸显了系统纵深防御的多重失效。
-  - Tags: #read #deepdive #security
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (51 entries)
+- [2025-12](202512/monthly-index.md) (52 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

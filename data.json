@@ -8887,5 +8887,16 @@
       "llm",
       "language"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Prompt caching: 10x cheaper LLM tokens, but how? | ngrok blog",
+    "url": "https://ngrok.com/blog/prompt-caching/",
+    "timestamp": 1766228909,
+    "tags": [
+      "read",
+      "llm",
+      "explainer"
+    ]
   }
 ]
