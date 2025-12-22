@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-22) [Advice For Individual Contributors](202512/2025-12-22-advice-for-individual-contributors.md)
+  - 个人贡献者应通过利用自身优势、展现领导力、明确责任、定期汇报和主动与高层沟通，来实现突破性成果并提升工作影响力与职业发展。
+  - Tags: #read #people
+
 - (2025-12-22) [blog/2025/12/an-svg-is-all-you-need.mld](202512/2025-12-22-blog-2025-12-an-svg-is-all-you-need.mld.md)
   - SVG格式在科学数据可视化中具有巨大潜力，尤其适合构建持久、可交互的知识系统。它能实现数据探索和即时反馈，无需服务器支持，并与版本控制、权限管理等原则天然契合，增强了科学传播的交互性和持久性。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 中文倾向以否定间接肯定（如“没错”），英语则偏好直接肯定（如“great”）。这种差异塑造了灰度思维与直接分类的认知模式，并影响社会互动与商业策略。语言不仅是表达工具，更潜在地决定了现实认知方式。
   - Tags: #read
 
-- (2025-12-19) [AI agents are starting to eat SaaS](202512/2025-12-19-ai-agents-are-starting-to-eat-saas.md)
-  - AI代理正颠覆SaaS行业，使企业更易自建定制化工具替代通用SaaS，导致后者客户增长和收入保留率下降。高可用性、网络效应等护城河强的SaaS受影响较小，但后台类工具风险最高。SaaS市场将面临重组，企业需评估技术能力以应对变化。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (55 entries)
+- [2025-12](202512/monthly-index.md) (56 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
