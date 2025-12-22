@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-22) [The Shape of AI: Jaggedness, Bottlenecks and Salients](202512/2025-12-22-the-shape-of-ai-jaggedness%2C-bottlenecks-and-salients.md)
+  - 文章探讨了人工智能能力的三个特性：参差不齐（AI在不同任务表现差异大），瓶颈（AI能因固有限制或流程因素难以自动化），以及突出部（关键瓶颈突破可促进AI跃进。总体认为AI扩展将带来人机协作，而非全替代，未来应关注瓶颈变化来预测发展。
+  - Tags: #read #llm
+
 - (2025-12-20) [Prompt caching: 10x cheaper LLM tokens, but how? | ngrok blog](202512/2025-12-20-prompt-caching-10x-cheaper-llm-tokens%2C-but-how-ngrok-blog.md)
   - 文章介绍了提示缓存如何通过复用语言模型的K和V矩阵，避免重复计算输入令牌，从而降低成本90%并减少延迟。OpenAI和Anthropic的缓存策略不同，但均显著提升效率，适用于长提示场景。
   - Tags: #read #llm #explainer
@@ -39,13 +43,9 @@
   - 这篇文章介绍了用Rust开发音频频谱图可视化工具的全过程，包括傅里叶变换理论、分块加窗处理、多线程架构设计，以及性能优化方案。文章通过实际代码和多种音乐频谱演示，实现了实时音频分析，并讨论了工程实践中的关键权衡。
   - Tags: #read #rust #deepdive
 
-- (2025-12-18) [CET Perceptually Uniform Colour Maps](202512/2025-12-18-cet-perceptually-uniform-colour-maps.md)
-  - CET配色方案通过感知均匀设计解决数据可视化中的对比度不均问题，包含线性、发散、彩虹等类型，适用于一般数据、参考数值及色盲友好场景，并提供了相关工具与资源。
-  - Tags: #tools
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (52 entries)
+- [2025-12](202512/monthly-index.md) (53 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

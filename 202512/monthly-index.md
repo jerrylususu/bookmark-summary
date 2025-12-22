@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-22) [The Shape of AI: Jaggedness, Bottlenecks and Salients](2025-12-22-the-shape-of-ai-jaggedness%2C-bottlenecks-and-salients.md)
+  - 文章探讨了人工智能能力的三个特性：参差不齐（AI在不同任务表现差异大），瓶颈（AI能因固有限制或流程因素难以自动化），以及突出部（关键瓶颈突破可促进AI跃进。总体认为AI扩展将带来人机协作，而非全替代，未来应关注瓶颈变化来预测发展。
+  - Tags: #read #llm
+
 - (2025-12-20) [Prompt caching: 10x cheaper LLM tokens, but how? | ngrok blog](2025-12-20-prompt-caching-10x-cheaper-llm-tokens%2C-but-how-ngrok-blog.md)
   - 文章介绍了提示缓存如何通过复用语言模型的K和V矩阵，避免重复计算输入令牌，从而降低成本90%并减少延迟。OpenAI和Anthropic的缓存策略不同，但均显著提升效率，适用于长提示场景。
   - Tags: #read #llm #explainer

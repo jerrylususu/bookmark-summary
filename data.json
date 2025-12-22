@@ -8898,5 +8898,15 @@
       "llm",
       "explainer"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "The Shape of AI: Jaggedness, Bottlenecks and Salients",
+    "url": "https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks",
+    "timestamp": 1766414593,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
