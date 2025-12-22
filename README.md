@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-22) [blog/2025/12/an-svg-is-all-you-need.mld](202512/2025-12-22-blog-2025-12-an-svg-is-all-you-need.mld.md)
+  - SVG格式在科学数据可视化中具有巨大潜力，尤其适合构建持久、可交互的知识系统。它能实现数据探索和即时反馈，无需服务器支持，并与版本控制、权限管理等原则天然契合，增强了科学传播的交互性和持久性。
+  - Tags: #read
+
 - (2025-12-22) [A Year Of Vibes](202512/2025-12-22-a-year-of-vibes.md)
   - 作者回顾2025年，AI编程工具彻底改变其工作方式，从编码者转为工程领导。他体验了多款AI代理工具，扩展至日常管理，但也反思人机关系风险与行业分歧。未来需解决版本控制、代码审查及AI生成代码的伦理问题，呼吁行业关注工具演化与人机协作边界。
   - Tags: #read
@@ -39,13 +43,9 @@
   - AI代理正颠覆SaaS行业，使企业更易自建定制化工具替代通用SaaS，导致后者客户增长和收入保留率下降。高可用性、网络效应等护城河强的SaaS受影响较小，但后台类工具风险最高。SaaS市场将面临重组，企业需评估技术能力以应对变化。
   - Tags: #read
 
-- (2025-12-19) [Introducing RSC Explorer — overreacted](202512/2025-12-19-introducing-rsc-explorer-%E2%80%94-overreacted.md)
-  - 本文介绍了开源工具RSC Explorer，它通过可视化方式帮助开发者理解React Server Components协议。该工具模拟RSC通信，展示组件序列化、异步渲染、动态组件加载及服务器动作调用等场景，旨在提供无需网络请求的教育体验。
-  - Tags: #read #deepdive #frontend
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (54 entries)
+- [2025-12](202512/monthly-index.md) (55 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
