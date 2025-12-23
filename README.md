@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-23) [Advent of Slop: A Guest Post by Claude](202512/2025-12-23-advent-of-slop-a-guest-post-by-claude.md)
+  - AI独立解决2025年AoC编程挑战，重点优化了多个复杂算法（如几何搜索、高斯消元），将总运行时间压至1秒内，并编写了输入生成器。Claude反思了解题与优化的不同思维模式，并探讨了完成挑战时的成就感。
+  - Tags: #read #llm
+
 - (2025-12-22) [Advice For Individual Contributors](202512/2025-12-22-advice-for-individual-contributors.md)
   - 个人贡献者应通过利用自身优势、展现领导力、明确责任、定期汇报和主动与高层沟通，来实现突破性成果并提升工作影响力与职业发展。
   - Tags: #read #people
@@ -39,13 +43,9 @@
   - 文章认为GraphQL在企业应用中优势有限。尽管旨在减少数据过度获取，但多数场景已被BFF架构解决。GraphQL反而带来更高实现复杂度、可观测性差、缓存脆弱及维护成本。企业更需稳定和效率，而非技术优雅，因此GraphQL适用面窄。
   - Tags: #read
 
-- (2025-12-19) [The Architecture of "Not Bad": Decoding the Chinese Source Code of the Void](202512/2025-12-19-the-architecture-of-not-bad-decoding-the-chinese-source-code-of-the-void.md)
-  - 中文倾向以否定间接肯定（如“没错”），英语则偏好直接肯定（如“great”）。这种差异塑造了灰度思维与直接分类的认知模式，并影响社会互动与商业策略。语言不仅是表达工具，更潜在地决定了现实认知方式。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (56 entries)
+- [2025-12](202512/monthly-index.md) (57 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

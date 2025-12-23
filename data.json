@@ -8936,5 +8936,15 @@
       "read",
       "people"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Advent of Slop: A Guest Post by Claude",
+    "url": "https://lucumr.pocoo.org/2025/12/23/advent-of-slop/",
+    "timestamp": 1766499436,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]

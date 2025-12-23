@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-23) [Advent of Slop: A Guest Post by Claude](2025-12-23-advent-of-slop-a-guest-post-by-claude.md)
+  - AI独立解决2025年AoC编程挑战，重点优化了多个复杂算法（如几何搜索、高斯消元），将总运行时间压至1秒内，并编写了输入生成器。Claude反思了解题与优化的不同思维模式，并探讨了完成挑战时的成就感。
+  - Tags: #read #llm
+
 - (2025-12-22) [Advice For Individual Contributors](2025-12-22-advice-for-individual-contributors.md)
   - 个人贡献者应通过利用自身优势、展现领导力、明确责任、定期汇报和主动与高层沟通，来实现突破性成果并提升工作影响力与职业发展。
   - Tags: #read #people
