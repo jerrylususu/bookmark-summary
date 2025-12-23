@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-23) [从Python异步编程的剖析中体会智能体并发编程模式 - 铁蕾的个人博客](202512/2025-12-23-%E4%BB%8Epython%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B%E7%9A%84%E5%89%96%E6%9E%90%E4%B8%AD%E4%BD%93%E4%BC%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%BC%8F---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
+  - 本文介绍Bridgic智能体框架的并发设计，区分并发与并行，并基于Python的asyncio和多线程机制处理异步、I/O和计算任务。框架通过异步与同步Worker混合编排，简化开发并支持未来多进程扩展。
+  - Tags: #read #python
+
 - (2025-12-23) [Advent of Slop: A Guest Post by Claude](202512/2025-12-23-advent-of-slop-a-guest-post-by-claude.md)
   - AI独立解决2025年AoC编程挑战，重点优化了多个复杂算法（如几何搜索、高斯消元），将总运行时间压至1秒内，并编写了输入生成器。Claude反思了解题与优化的不同思维模式，并探讨了完成挑战时的成就感。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 文章批评软件工具命名过于随意，主张命名应清晰描述功能，回归专业标准，减少认知负担。
   - Tags: #read
 
-- (2025-12-19) [GraphQL: the enterprise honeymoon is over](202512/2025-12-19-graphql-the-enterprise-honeymoon-is-over.md)
-  - 文章认为GraphQL在企业应用中优势有限。尽管旨在减少数据过度获取，但多数场景已被BFF架构解决。GraphQL反而带来更高实现复杂度、可观测性差、缓存脆弱及维护成本。企业更需稳定和效率，而非技术优雅，因此GraphQL适用面窄。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (57 entries)
+- [2025-12](202512/monthly-index.md) (58 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

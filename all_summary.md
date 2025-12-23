@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2025-12-23) [从Python异步编程的剖析中体会智能体并发编程模式 - 铁蕾的个人博客](202512/2025-12-23-%E4%BB%8Epython%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B%E7%9A%84%E5%89%96%E6%9E%90%E4%B8%AD%E4%BD%93%E4%BC%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%BC%8F---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
+  - Tags: #read #python
+  - Summary: 本文介绍Bridgic智能体框架的并发设计，区分并发与并行，并基于Python的asyncio和多线程机制处理异步、I/O和计算任务。框架通过异步与同步Worker混合编排，简化开发并支持未来多进程扩展。
+
 - (2025-12-23) [Advent of Slop: A Guest Post by Claude](202512/2025-12-23-advent-of-slop-a-guest-post-by-claude.md)
   - Tags: #read #llm
   - Summary: AI独立解决2025年AoC编程挑战，重点优化了多个复杂算法（如几何搜索、高斯消元），将总运行时间压至1秒内，并编写了输入生成器。Claude反思了解题与优化的不同思维模式，并探讨了完成挑战时的成就感。

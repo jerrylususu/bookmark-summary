@@ -8946,5 +8946,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "从Python异步编程的剖析中体会智能体并发编程模式 - 铁蕾的个人博客",
+    "url": "https://zhangtielei.com/posts/blog-bridgic-concurrency-mode.html",
+    "timestamp": 1766499873,
+    "tags": [
+      "read",
+      "python"
+    ]
   }
 ]
