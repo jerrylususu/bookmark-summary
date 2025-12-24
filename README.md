@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-24) [Nobody knows how large software products work](202512/2025-12-24-nobody-knows-how-large-software-products-work.md)
+  - 大型软件因功能复杂、迭代迅速和知识分散，常无人能完全理解其内部运作。文档更新滞后且工程师之间隐性知识依赖重，导致系统的认知盲区普遍存在。因此，能准确回答相关问题具有重要价值。
+  - Tags: #read
+
 - (2025-12-24) [Avoid Mini-frameworks](202512/2025-12-24-avoid-mini-frameworks.md)
   - 文章批判“迷你框架”因其常引入不必要复杂性，导致维护困难与效率下降。建议优先采用库或慎重设计新框架，避免包装现有技术栈以减少兼容性问题。
   - Tags: #read #tips
@@ -39,13 +43,9 @@
   - 文章介绍了提示缓存如何通过复用语言模型的K和V矩阵，避免重复计算输入令牌，从而降低成本90%并减少延迟。OpenAI和Anthropic的缓存策略不同，但均显著提升效率，适用于长提示场景。
   - Tags: #read #llm #explainer
 
-- (2025-12-20) [【开源】智能体编程语言ASL——重构智能体开发体验 - 铁蕾的个人博客](202512/2025-12-20-%E3%80%90%E5%BC%80%E6%BA%90%E3%80%91%E6%99%BA%E8%83%BD%E4%BD%93%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80asl%E2%80%94%E2%80%94%E9%87%8D%E6%9E%84%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%80%E5%8F%91%E4%BD%93%E9%AA%8C---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
-  - ASL是一种新型智能体编程语言，专注于直观描述智能体内部结构、多智能体组合及动态工作流。其声明式语法支持嵌套模块与动态编排，解决了传统语言在结构表达上的不足，提升了开发效率和代码复用性。ASL基于Bridgic框架，将执行逻辑与结构分离，适用于动态自主系统的构建。
-  - Tags: #read #llm #language
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (60 entries)
+- [2025-12](202512/monthly-index.md) (61 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

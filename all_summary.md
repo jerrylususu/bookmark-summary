@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2025-12-24) [Nobody knows how large software products work](202512/2025-12-24-nobody-knows-how-large-software-products-work.md)
+  - Tags: #read
+  - Summary: 大型软件因功能复杂、迭代迅速和知识分散，常无人能完全理解其内部运作。文档更新滞后且工程师之间隐性知识依赖重，导致系统的认知盲区普遍存在。因此，能准确回答相关问题具有重要价值。
+
 - (2025-12-24) [Avoid Mini-frameworks](202512/2025-12-24-avoid-mini-frameworks.md)
   - Tags: #read #tips
   - Summary: 文章批判“迷你框架”因其常引入不必要复杂性，导致维护困难与效率下降。建议优先采用库或慎重设计新框架，避免包装现有技术栈以减少兼容性问题。
