@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2025-12-24) [On Friday Deploys: Sometimes that Puppy Needs Murdering (xpost)](202512/2025-12-24-on-friday-deploys-sometimes-that-puppy-needs-murdering-%28xpost%29.md)
+  - Tags: #read #reliability
+  - Summary: 作者表示部署冻结应务实看待，可作为暂时稳定手段，但反对将其道德化。建议同步冻结代码合并并定期演练部署流程以检测问题，目标是平衡稳定与变更风险，同时鼓励团队专注其他工作。
+
 - (2025-12-24) [Nobody knows how large software products work](202512/2025-12-24-nobody-knows-how-large-software-products-work.md)
   - Tags: #read
   - Summary: 大型软件因功能复杂、迭代迅速和知识分散，常无人能完全理解其内部运作。文档更新滞后且工程师之间隐性知识依赖重，导致系统的认知盲区普遍存在。因此，能准确回答相关问题具有重要价值。

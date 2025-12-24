@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-24) [On Friday Deploys: Sometimes that Puppy Needs Murdering (xpost)](202512/2025-12-24-on-friday-deploys-sometimes-that-puppy-needs-murdering-%28xpost%29.md)
+  - 作者表示部署冻结应务实看待，可作为暂时稳定手段，但反对将其道德化。建议同步冻结代码合并并定期演练部署流程以检测问题，目标是平衡稳定与变更风险，同时鼓励团队专注其他工作。
+  - Tags: #read #reliability
+
 - (2025-12-24) [Nobody knows how large software products work](202512/2025-12-24-nobody-knows-how-large-software-products-work.md)
   - 大型软件因功能复杂、迭代迅速和知识分散，常无人能完全理解其内部运作。文档更新滞后且工程师之间隐性知识依赖重，导致系统的认知盲区普遍存在。因此，能准确回答相关问题具有重要价值。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章探讨了人工智能能力的三个特性：参差不齐（AI在不同任务表现差异大），瓶颈（AI能因固有限制或流程因素难以自动化），以及突出部（关键瓶颈突破可促进AI跃进。总体认为AI扩展将带来人机协作，而非全替代，未来应关注瓶颈变化来预测发展。
   - Tags: #read #llm
 
-- (2025-12-20) [Prompt caching: 10x cheaper LLM tokens, but how? | ngrok blog](202512/2025-12-20-prompt-caching-10x-cheaper-llm-tokens%2C-but-how-ngrok-blog.md)
-  - 文章介绍了提示缓存如何通过复用语言模型的K和V矩阵，避免重复计算输入令牌，从而降低成本90%并减少延迟。OpenAI和Anthropic的缓存策略不同，但均显著提升效率，适用于长提示场景。
-  - Tags: #read #llm #explainer
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (61 entries)
+- [2025-12](202512/monthly-index.md) (62 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
