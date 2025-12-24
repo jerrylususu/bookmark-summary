@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2025-12-24) [Avoid Mini-frameworks](202512/2025-12-24-avoid-mini-frameworks.md)
+  - Tags: #read #tips
+  - Summary: 文章批判“迷你框架”因其常引入不必要复杂性，导致维护困难与效率下降。建议优先采用库或慎重设计新框架，避免包装现有技术栈以减少兼容性问题。
+
 - (2025-12-23) [Nano Banana Pro is the best AI image generator, with caveats](202512/2025-12-23-nano-banana-pro-is-the-best-ai-image-generator%2C-with-caveats.md)
   - Tags: #read #llm #deepdive
   - Summary: Google推出的Nano Banana Pro是Nano Banana升级版，图像质量、分辨率、文本渲染能力提升，支持2K/4K输出以及谷歌搜索关联、网格生成等新功能，但成本较高，对超现实风格创作支持不足，更适合高精度、商业用途场景。

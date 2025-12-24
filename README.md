@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-24) [Avoid Mini-frameworks](202512/2025-12-24-avoid-mini-frameworks.md)
+  - 文章批判“迷你框架”因其常引入不必要复杂性，导致维护困难与效率下降。建议优先采用库或慎重设计新框架，避免包装现有技术栈以减少兼容性问题。
+  - Tags: #read #tips
+
 - (2025-12-23) [Nano Banana Pro is the best AI image generator, with caveats](202512/2025-12-23-nano-banana-pro-is-the-best-ai-image-generator%2C-with-caveats.md)
   - Google推出的Nano Banana Pro是Nano Banana升级版，图像质量、分辨率、文本渲染能力提升，支持2K/4K输出以及谷歌搜索关联、网格生成等新功能，但成本较高，对超现实风格创作支持不足，更适合高精度、商业用途场景。
   - Tags: #read #llm #deepdive
@@ -39,13 +43,9 @@
   - ASL是一种新型智能体编程语言，专注于直观描述智能体内部结构、多智能体组合及动态工作流。其声明式语法支持嵌套模块与动态编排，解决了传统语言在结构表达上的不足，提升了开发效率和代码复用性。ASL基于Bridgic框架，将执行逻辑与结构分离，适用于动态自主系统的构建。
   - Tags: #read #llm #language
 
-- (2025-12-20) [2025 LLM Year in Review](202512/2025-12-20-2025-llm-year-in-review.md)
-  - 2025年LLM领域六大趋势：强化学习可验证奖励(RLVR)提升推理能力，智能具有不均衡性，Cursor等应用拓宽垂直领域，Claude Code推动本地化AI发展，自然语言编程降低技术门槛，以及视觉交互模型成为新方向。领域整体快速发展，潜力与挑战并存。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (59 entries)
+- [2025-12](202512/monthly-index.md) (60 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
