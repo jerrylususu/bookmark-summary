@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-26) [反脆弱](202512/2025-12-26-%E5%8F%8D%E8%84%86%E5%BC%B1.md)
+  - 这篇文章分析了资本主义消费主义与共产主义宏大叙事对现代人生活的冲击，指出中产阶级在高负债、低韧性的脆弱处境中，容易受外部冲击影响。作者提出应对策略包括构建稳健财务结构、培养非货币化能力、降低快乐阈值，主张依靠具体可验证的资源与技能，增强内在反脆弱性。核心是避免依赖外部宏大叙事，成为难以被击垮的个体。
+  - Tags: #read
+
 - (2025-12-24) [On Friday Deploys: Sometimes that Puppy Needs Murdering (xpost)](202512/2025-12-24-on-friday-deploys-sometimes-that-puppy-needs-murdering-%28xpost%29.md)
   - 作者表示部署冻结应务实看待，可作为暂时稳定手段，但反对将其道德化。建议同步冻结代码合并并定期演练部署流程以检测问题，目标是平衡稳定与变更风险，同时鼓励团队专注其他工作。
   - Tags: #read #reliability
@@ -39,13 +43,9 @@
   - 作者回顾2025年，AI编程工具彻底改变其工作方式，从编码者转为工程领导。他体验了多款AI代理工具，扩展至日常管理，但也反思人机关系风险与行业分歧。未来需解决版本控制、代码审查及AI生成代码的伦理问题，呼吁行业关注工具演化与人机协作边界。
   - Tags: #read
 
-- (2025-12-22) [The Shape of AI: Jaggedness, Bottlenecks and Salients](202512/2025-12-22-the-shape-of-ai-jaggedness%2C-bottlenecks-and-salients.md)
-  - 文章探讨了人工智能能力的三个特性：参差不齐（AI在不同任务表现差异大），瓶颈（AI能因固有限制或流程因素难以自动化），以及突出部（关键瓶颈突破可促进AI跃进。总体认为AI扩展将带来人机协作，而非全替代，未来应关注瓶颈变化来预测发展。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (62 entries)
+- [2025-12](202512/monthly-index.md) (63 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

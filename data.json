@@ -8996,5 +8996,14 @@
       "read",
       "reliability"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "反脆弱",
+    "url": "https://www.bmpi.dev/self/antifragile/",
+    "timestamp": 1766755206,
+    "tags": [
+      "read"
+    ]
   }
 ]
