@@ -1,7 +1,7 @@
 # 2024-11 Monthly Index
 
 - (2024-11-30) [Why pipes sometimes get "stuck": buffering](2024-11-30-why-pipes-sometimes-get-stuck-buffering.md)
-  - 文章讨论了终端命令管道输出卡住的问题，主要原因是程序的缓冲机制。通过分析缓冲行为和编程语言中的缓冲控制，提出了多种解决方案，如使用`grep --line-buffered`、`stdbuf -o0`等，并建议引入标准环境变量来禁用缓冲。
+  - 文章讨论了终端命令管道输出卡住的问题，主要原因是程序的缓冲机制。通过分析缓冲行为和编程语言中的缓冲控制，提出了多种解决方案，如使用、等，并建议引入标准环境变量来禁用缓冲。
   - Tags: #read #deepdive
 
 - (2024-11-29) [How I Built My Blog • Josh W. Comeau](2024-11-29-how-i-built-my-blog-%E2%80%A2-josh-w.-comeau.md)
@@ -53,7 +53,7 @@
   - Tags: #read
 
 - (2024-11-24) [@celine/celine](2024-11-24-%40celine-celine.md)
-  - @celine/celine 是一个用于构建 HTML 笔记本的库，支持 `display: block` 和 `contenteditable` 属性，旨在简化研究成果的 HTML 发布。它封装了 Observable Notebook 运行时，提供反应性单元格和丰富的 API 接口，支持多种字体和样式，并兼容多个第三方库。
+  - @celine/celine 是一个用于构建 HTML 笔记本的库，支持  和  属性，旨在简化研究成果的 HTML 发布。它封装了 Observable Notebook 运行时，提供反应性单元格和丰富的 API 接口，支持多种字体和样式，并兼容多个第三方库。
   - Tags: #tools #frontend
 
 - (2024-11-24) [Introduction to lcl.host – Anchor](2024-11-24-introduction-to-lcl.host-%E2%80%93-anchor.md)
@@ -85,7 +85,7 @@
   - Tags: #read
 
 - (2024-11-22) [OK, I can partly explain the LLM chess weirdness now](2024-11-22-ok%2C-i-can-partly-explain-the-llm-chess-weirdness-now.md)
-  - 文章探讨了大型语言模型（LLMs）在棋类游戏中的表现，特别是`gpt-3.5-turbo-instruct`的优异表现。通过实验和理论分析，发现提示调整和示例提供能显著提升模型表现，而OpenAI作弊的可能性极低。最终理论指出，基础模型在棋类数据上训练得更好，但聊天模型在指令调优后表现下降。未来工作将探索更多提示和示例组合，以进一步提升模型表现。
+  - 文章探讨了大型语言模型（LLMs）在棋类游戏中的表现，特别是的优异表现。通过实验和理论分析，发现提示调整和示例提供能显著提升模型表现，而OpenAI作弊的可能性极低。最终理论指出，基础模型在棋类数据上训练得更好，但聊天模型在指令调优后表现下降。未来工作将探索更多提示和示例组合，以进一步提升模型表现。
   - Tags: #read
 
 - (2024-11-20) [Understanding the BM25 full text search algorithm](2024-11-20-understanding-the-bm25-full-text-search-algorithm.md)
@@ -101,7 +101,7 @@
   - Tags: #read
 
 - (2024-11-19) [download-esm: a tool for downloading ECMAScript modules](2024-11-19-download-esm-a-tool-for-downloading-ecmascript-modules.md)
-  - `download-esm`是一个CLI工具，用于下载ECMAScript模块版本的npm包及其依赖，并重写导入语句。作者开发此工具以简化开发流程，避免依赖CDN和本地构建脚本的问题。工具通过Python编写，支持安装和使用简单，已成功测试多个包，并欢迎社区参与改进。
+  - 是一个CLI工具，用于下载ECMAScript模块版本的npm包及其依赖，并重写导入语句。作者开发此工具以简化开发流程，避免依赖CDN和本地构建脚本的问题。工具通过Python编写，支持安装和使用简单，已成功测试多个包，并欢迎社区参与改进。
   - Tags: #tools
 
 - (2024-11-19) [Importing a frontend Javascript library without a build system](2024-11-19-importing-a-frontend-javascript-library-without-a-build-system.md)
@@ -188,7 +188,7 @@
   - Tags: #books
 
 - (2024-11-08) [Makefiles for Web Work](2024-11-08-makefiles-for-web-work.md)
-  - `make`是一个历史悠久的构建工具，适用于多种语言项目，具有速度快、语言无关和简单可扩展等优势。它通过Makefile提供一致的命令接口，简化开发流程，但需注意Windows兼容性和复杂构建的管理。
+  - 是一个历史悠久的构建工具，适用于多种语言项目，具有速度快、语言无关和简单可扩展等优势。它通过Makefile提供一致的命令接口，简化开发流程，但需注意Windows兼容性和复杂构建的管理。
   - Tags: #read
 
 - (2024-11-07) [Home | nand2tetris](2024-11-07-home-nand2tetris.md)

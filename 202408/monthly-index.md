@@ -49,7 +49,7 @@
   - Tags: #hack #deepdive
 
 - (2024-08-24) [CSS finally adds vertical centering in 2024 | Blog | build-your-own.org](2024-08-24-css-finally-adds-vertical-centering-in-2024-blog-build-your-own.org.md)
-  - 2024年，CSS通过`align-content`属性实现默认布局中的垂直居中，支持Chrome、Firefox和Safari。新特性简化了垂直居中的实现，无需flexbox或grid布局。历史上有多种垂直居中方法，如表格单元格、绝对定位等。二维对齐涉及`align-content`、`justify-content`等属性，CSS轴术语解释了块轴和内联轴。CSS设计复杂，命名不佳，需额外努力掌握。
+  - 2024年，CSS通过属性实现默认布局中的垂直居中，支持Chrome、Firefox和Safari。新特性简化了垂直居中的实现，无需flexbox或grid布局。历史上有多种垂直居中方法，如表格单元格、绝对定位等。二维对齐涉及、等属性，CSS轴术语解释了块轴和内联轴。CSS设计复杂，命名不佳，需额外努力掌握。
   - Tags: #frontend
 
 - (2024-08-23) [Continuous reinvention: A brief history of block storage at AWS](2024-08-23-continuous-reinvention-a-brief-history-of-block-storage-at-aws.md)
@@ -69,11 +69,11 @@
   - Tags: #read
 
 - (2024-08-16) [How to convert a Node.js stream of event callback functions into an Async Iterator](2024-08-16-how-to-convert-a-node.js-stream-of-event-callback-functions-into-an-async-iterator.md)
-  - 本文介绍了如何将基于事件回调的流处理代码转换为使用`for await`循环的异步迭代器，通过封装异步生成器函数实现。示例展示了如何处理CSV文件流，并比较了两个排序后的CSV文件。最后指出`csv-parse`库已有异步迭代器API，简化了实现过程。
+  - 本文介绍了如何将基于事件回调的流处理代码转换为使用循环的异步迭代器，通过封装异步生成器函数实现。示例展示了如何处理CSV文件流，并比较了两个排序后的CSV文件。最后指出库已有异步迭代器API，简化了实现过程。
   - Tags: #hack
 
 - (2024-08-16) [One Thing Nobody Explained To You About TypeScript](2024-08-16-one-thing-nobody-explained-to-you-about-typescript.md)
-  - 作者分享了使用TypeScript的经验，特别是在`tsconfig.json`配置上的误解和解决方法。通过创建多个`tsconfig.json`文件并正确使用`references`属性，解决了类型冲突问题，提高了开发效率。
+  - 作者分享了使用TypeScript的经验，特别是在配置上的误解和解决方法。通过创建多个文件并正确使用属性，解决了类型冲突问题，提高了开发效率。
   - Tags: #guide
 
 - (2024-08-14) [Optimizing SPA load times with async chunks preloading](2024-08-14-optimizing-spa-load-times-with-async-chunks-preloading.md)
@@ -117,7 +117,7 @@
   - Tags: #read #guide
 
 - (2024-08-06) [How to Get or Create in PostgreSQL](2024-08-06-how-to-get-or-create-in-postgresql.md)
-  - 文章讨论了在PostgreSQL中实现"get or create"操作的方法，包括创建标签表、插入标签、提供幂等性、处理竞争条件、使用唯一约束违规、避免膨胀、理解子语句可见性、避免并发问题、优雅处理冲突、避免模式更改等。强调了唯一约束违规可能导致膨胀，`WITH`子句并发执行不保证完全一致性，`INSERT ON CONFLICT`需要唯一或排除约束，而`MERGE`不需要。
+  - 文章讨论了在PostgreSQL中实现"get or create"操作的方法，包括创建标签表、插入标签、提供幂等性、处理竞争条件、使用唯一约束违规、避免膨胀、理解子语句可见性、避免并发问题、优雅处理冲突、避免模式更改等。强调了唯一约束违规可能导致膨胀，子句并发执行不保证完全一致性，需要唯一或排除约束，而不需要。
   - Tags: #deepdive #db
 
 - (2024-08-01) [Build your own SQS or Kafka with Postgres](2024-08-01-build-your-own-sqs-or-kafka-with-postgres.md)

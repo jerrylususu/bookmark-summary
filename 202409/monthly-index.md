@@ -49,7 +49,7 @@
   - Tags: #read #guide
 
 - (2024-09-22) [CSS for printing to paper](2024-09-22-css-for-printing-to-paper.md)
-  - 本文介绍了使用HTML和CSS控制网页打印外观的基础知识和实用技巧，包括`@page`规则、`@media print`媒体查询、元素定位、多页文档处理等，并提供了示例文件和备忘单。
+  - 本文介绍了使用HTML和CSS控制网页打印外观的基础知识和实用技巧，包括规则、媒体查询、元素定位、多页文档处理等，并提供了示例文件和备忘单。
   - Tags: #frontend #guide #deepdive
 
 - (2024-09-22) [Deploying Web Apps with Caddy: A Beginner's Guide | Better Stack Community](2024-09-22-deploying-web-apps-with-caddy-a-beginner%27s-guide-better-stack-community.md)
@@ -57,7 +57,7 @@
   - Tags: #read
 
 - (2024-09-22) [Understanding AbortController in Node.js: A Complete Guide | Better Stack Community](2024-09-22-understanding-abortcontroller-in-node.js-a-complete-guide-better-stack-community.md)
-  - 本文介绍了Node.js中使用`AbortController`来取消异步操作的方法，解决了缺乏标准化中断机制的问题。通过示例展示了如何取消网络请求、管理流操作和处理错误，强调了其在提高应用程序响应性和可靠性方面的重要性。
+  - 本文介绍了Node.js中使用来取消异步操作的方法，解决了缺乏标准化中断机制的问题。通过示例展示了如何取消网络请求、管理流操作和处理错误，强调了其在提高应用程序响应性和可靠性方面的重要性。
   - Tags: #read #node
 
 - (2024-09-22) [Good Refactoring vs Bad Refactoring](2024-09-22-good-refactoring-vs-bad-refactoring.md)
@@ -85,7 +85,7 @@
   - Tags: #read #hack
 
 - (2024-09-15) [Optimizing Javascript for fun and for profit](2024-09-15-optimizing-javascript-for-fun-and-for-profit.md)
-  - 本文详细介绍了JavaScript代码优化的多种策略，包括避免不必要的工作、字符串比较、对象形状、数组/对象方法、间接访问、缓存未命中、大对象、`eval`、字符串操作、专业化、数据结构选择等，并强调了基准测试的重要性。
+  - 本文详细介绍了JavaScript代码优化的多种策略，包括避免不必要的工作、字符串比较、对象形状、数组/对象方法、间接访问、缓存未命中、大对象、、字符串操作、专业化、数据结构选择等，并强调了基准测试的重要性。
   - Tags: #read #guide #js
 
 - (2024-09-15) [Advanced Shell Scripting Techniques: Automating Complex Tasks with Bash](2024-09-15-advanced-shell-scripting-techniques-automating-complex-tasks-with-bash.md)
@@ -117,7 +117,7 @@
   - Tags: #read
 
 - (2024-09-09) [Making progress on side projects with content-driven development | nicole@web](2024-09-09-making-progress-on-side-projects-with-content-driven-development-nicole%40web.md)
-  - 导航到目标页面`http://blog/making-progress-with-content-driven-development/`时发生超时错误，状态码42206，超时时间为30000毫秒。
+  - 导航到目标页面时发生超时错误，状态码42206，超时时间为30000毫秒。
   - Tags: #read
 
 - (2024-09-09) [聊聊自动化 PDF 渲染方案](2024-09-09-%E8%81%8A%E8%81%8A%E8%87%AA%E5%8A%A8%E5%8C%96-pdf-%E6%B8%B2%E6%9F%93%E6%96%B9%E6%A1%88.md)

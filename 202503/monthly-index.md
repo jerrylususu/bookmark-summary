@@ -13,7 +13,7 @@
   - Tags: #read #guide
 
 - (2025-03-28) [Async, Sync, in Between](2025-03-28-async%2C-sync%2C-in-between.md)
-  - 现代编程中，同步与异步函数混用易引发“异步蔓延”，导致代码级联修改和冗余。`quansync`通过生成器函数实现自适应执行：根据调用上下文动态选择同步或异步模式，减少代码重复及重构负担。但存在约120ns性能开销，且需显式设计兼容逻辑。该方案适用于需兼容同步/异步场景的库或插件系统。
+  - 现代编程中，同步与异步函数混用易引发“异步蔓延”，导致代码级联修改和冗余。通过生成器函数实现自适应执行：根据调用上下文动态选择同步或异步模式，减少代码重复及重构负担。但存在约120ns性能开销，且需显式设计兼容逻辑。该方案适用于需兼容同步/异步场景的库或插件系统。
   - Tags: #read #frontend
 
 - (2025-03-26) [The surreal joy of having an overprovisioned homelab](2025-03-26-the-surreal-joy-of-having-an-overprovisioned-homelab.md)
@@ -165,7 +165,7 @@
   - Tags: #read
 
 - (2025-03-06) [Why "alias" is my last resort for aliases](2025-03-06-why-alias-is-my-last-resort-for-aliases.md)
-  - 作者从使用`alias`转向脚本实现命令别名，脚本无需重新加载、支持多种编程语言且可处理复杂逻辑，虽然性能稍逊但提供了更多灵活性和功能。
+  - 作者从使用转向脚本实现命令别名，脚本无需重新加载、支持多种编程语言且可处理复杂逻辑，虽然性能稍逊但提供了更多灵活性和功能。
   - Tags: #read #guide
 
 - (2025-03-05) [The Hierarchy of Hazard Controls](2025-03-05-the-hierarchy-of-hazard-controls.md)
@@ -181,7 +181,7 @@
   - Tags: #read
 
 - (2025-03-01) [Optimizing with Novel Calendrical Algorithms](2025-03-01-optimizing-with-novel-calendrical-algorithms.md)
-  - 作者通过性能审计，设计了新的日期时间算法，优化了`time` crate的性能，最终实现比现有算法快57.5%，且无分支，过程复杂但结果显著。
+  - 作者通过性能审计，设计了新的日期时间算法，优化了 crate的性能，最终实现比现有算法快57.5%，且无分支，过程复杂但结果显著。
   - Tags: #read #deepdive
 
 - (2025-03-01) [Five coding hats](2025-03-01-five-coding-hats.md)

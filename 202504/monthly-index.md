@@ -25,7 +25,7 @@
   - Tags: #read
 
 - (2025-04-25) [Senior engineers should make side bets](2025-04-25-senior-engineers-should-make-side-bets.md)
-  - </think> 请提供具体的列表内容，我才能为你生成简短总结。
+  - 请提供具体的列表内容，我才能为你生成简短总结。
   - Tags: #read #career
 
 - (2025-04-24) [Accurate Benchmarking](2025-04-24-accurate-benchmarking.md)
@@ -37,7 +37,7 @@
   - Tags: #read
 
 - (2025-04-24) [Better typography with text-wrap pretty](2025-04-24-better-typography-with-text-wrap-pretty.md)
-  - Safari Technology Preview 216引入CSS属性`text-wrap`优化排版，其中`pretty`通过全局多行算法减少短行、参差边缘及排版间隙，提升可读性，适合长文本；`balance`则均衡短文本行距，适合标题但可能缩窄段落宽度。此属性性能强于Chrome等竞品，开发者可采用`auto`(默认)、`stable`(逐行断行)等值适配不同场景，未来将扩展支持并分段优化长文本，建议通过在线工具测试并反馈效果。
+  - Safari Technology Preview 216引入CSS属性优化排版，其中通过全局多行算法减少短行、参差边缘及排版间隙，提升可读性，适合长文本；则均衡短文本行距，适合标题但可能缩窄段落宽度。此属性性能强于Chrome等竞品，开发者可采用(默认)、(逐行断行)等值适配不同场景，未来将扩展支持并分段优化长文本，建议通过在线工具测试并反馈效果。
   - Tags: #read #frontend #deepdive
 
 - (2025-04-24) [让你的 RSS/Atom feed 更好看](2025-04-24-%E8%AE%A9%E4%BD%A0%E7%9A%84-rss-atom-feed-%E6%9B%B4%E5%A5%BD%E7%9C%8B.md)
@@ -169,7 +169,7 @@
   - Tags: #read #llm #tools
 
 - (2025-04-09) [The bottom emoji breaks rust-analyzer](2025-04-09-the-bottom-emoji-breaks-rust-analyzer.md)
-  - 该文介绍了在Emacs中配置rust-analyzer时遇到的崩溃问题，当输入UTF-8表情符号（如`🥺`）时，因LSP客户端（lsp-mode）发送非法字节偏移量导致服务端断言失败。解决方案包括：通过软链或配置正确指向rustup管理的最新版本分析器，升级工具链及插件，并确保文本操作符合Unicode字符边界规范。文章强调了编码兼容性和协议规范遵循的重要性。
+  - 该文介绍了在Emacs中配置rust-analyzer时遇到的崩溃问题，当输入UTF-8表情符号（如）时，因LSP客户端（lsp-mode）发送非法字节偏移量导致服务端断言失败。解决方案包括：通过软链或配置正确指向rustup管理的最新版本分析器，升级工具链及插件，并确保文本操作符合Unicode字符边界规范。文章强调了编码兼容性和协议规范遵循的重要性。
   - Tags: #read
 
 - (2025-04-09) [Model Context Protocol has prompt injection security problems](2025-04-09-model-context-protocol-has-prompt-injection-security-problems.md)
@@ -193,7 +193,7 @@
   - Tags: #read #write
 
 - (2025-04-07) [Cover Flow with Modern CSS: Scroll-Driven Animations in Action](2025-04-07-cover-flow-with-modern-css-scroll-driven-animations-in-action.md)
-  - 本文总结了利用现代CSS技术（如CSS Scroll Snap和Scroll-Driven Animations API）实现Cover Flow效果的方法。其通过水平滚动吸附、3D变换和反射效果，结合`view()`绑定动画，解决了传统JavaScript方案的性能问题。核心步骤包括HTML结构布局、CSS视图时间线及关键帧动画，并通过`will-change`优化渲染，同时兼顾可访问性（键盘导航、ARIA语义）和移动端适配。现代CSS方案以简洁代码实现60fps流畅效果，性能优于传统技术。
+  - 本文总结了利用现代CSS技术（如CSS Scroll Snap和Scroll-Driven Animations API）实现Cover Flow效果的方法。其通过水平滚动吸附、3D变换和反射效果，结合绑定动画，解决了传统JavaScript方案的性能问题。核心步骤包括HTML结构布局、CSS视图时间线及关键帧动画，并通过优化渲染，同时兼顾可访问性（键盘导航、ARIA语义）和移动端适配。现代CSS方案以简洁代码实现60fps流畅效果，性能优于传统技术。
   - Tags: #read #frontend
 
 - (2025-04-07) [AI 辅助创作的伦理问题](2025-04-07-ai-%E8%BE%85%E5%8A%A9%E5%88%9B%E4%BD%9C%E7%9A%84%E4%BC%A6%E7%90%86%E9%97%AE%E9%A2%98.md)
@@ -221,7 +221,7 @@
   - Tags: #read
 
 - (2025-04-04) [Localhost dangers: CORS and DNS rebinding](2025-04-04-localhost-dangers-cors-and-dns-rebinding.md)
-  - 本文探讨了CORS配置错误与DNS重绑定攻击的风险及防御策略。CORS若错误设置通配符、宽松域名匹配或允许`null`来源，可能导致凭证泄露或权限提升；DNS重绑定攻击则通过动态DNS切换绕过浏览器限制，访问内网服务。防御需严格精确配置CORS参数，强制关键接口身份验证，验证`Host`头，并禁止本地服务暴露敏感功能。近年案例如Cognita与Tamagui漏洞均因配置疏漏引发严重安全后果。（99字）
+  - 本文探讨了CORS配置错误与DNS重绑定攻击的风险及防御策略。CORS若错误设置通配符、宽松域名匹配或允许来源，可能导致凭证泄露或权限提升；DNS重绑定攻击则通过动态DNS切换绕过浏览器限制，访问内网服务。防御需严格精确配置CORS参数，强制关键接口身份验证，验证头，并禁止本地服务暴露敏感功能。近年案例如Cognita与Tamagui漏洞均因配置疏漏引发严重安全后果。（99字）
   - Tags: #read #security
 
 - (2025-04-03) [Minimal CSS-only blurry image placeholders](2025-04-03-minimal-css-only-blurry-image-placeholders.md)
@@ -237,9 +237,9 @@
   - Tags: #read
 
 - (2025-04-02) [连字（Ligature）那些事儿](2025-04-02-%E8%BF%9E%E5%AD%97%EF%BC%88ligature%EF%BC%89%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md)
-  - 连字技术通过合并字符提升排版美观与效率，历史可追溯至楔形文字，活字印刷将其标准化。在数字时代，OpenType字体通过GSUB表定义连字规则，开发者可通过CSS3的`font-variant-ligatures`控制标准、上下文、装饰及历史连字类型，中文合体字亦体现类似理念。该技术平衡视觉流畅性与字符含义，持续拓展应用场景。
+  - 连字技术通过合并字符提升排版美观与效率，历史可追溯至楔形文字，活字印刷将其标准化。在数字时代，OpenType字体通过GSUB表定义连字规则，开发者可通过CSS3的控制标准、上下文、装饰及历史连字类型，中文合体字亦体现类似理念。该技术平衡视觉流畅性与字符含义，持续拓展应用场景。
   - Tags: #read
 
 - (2025-04-02) [A steam locomotive from 1993 broke my yarn test](2025-04-02-a-steam-locomotive-from-1993-broke-my-yarn-test.md)
-  - 作者在运行Jest测试时遭遇27秒定时崩溃问题，排查发现是jest-changed-files插件误将系统命令`sl`（蒸汽火车动画）识别为Git检测工具，导致进程被劫持。通过重命名`sl`命令或升级Jest补丁解决，事件凸显开源生态中的罕见命名冲突风险，以及系统级调试工具的重要性。
+  - 作者在运行Jest测试时遭遇27秒定时崩溃问题，排查发现是jest-changed-files插件误将系统命令（蒸汽火车动画）识别为Git检测工具，导致进程被劫持。通过重命名命令或升级Jest补丁解决，事件凸显开源生态中的罕见命名冲突风险，以及系统级调试工具的重要性。
   - Tags: #deepdive #read

@@ -145,7 +145,7 @@
   - Tags: #read #llm #tips
 
 - (2025-08-05) [A Friendly Introduction to SVG • Josh W. Comeau](2025-08-05-a-friendly-introduction-to-svg-%E2%80%A2-josh-w.-comeau.md)
-  - 该文介绍了SVG的矢量特性及Web开发应用。SVG可内联HTML，通过CSS/JS动态控制属性（如填充、描边、路径），并利用`viewBox`实现响应式缩放。其核心元素包括基本形状（线条、矩形、圆形等）和动画技巧（如路径绘制、过渡效果），同时作为DOM节点支持交互操作，是实现复杂动态图形的实用工具。
+  - 该文介绍了SVG的矢量特性及Web开发应用。SVG可内联HTML，通过CSS/JS动态控制属性（如填充、描边、路径），并利用实现响应式缩放。其核心元素包括基本形状（线条、矩形、圆形等）和动画技巧（如路径绘制、过渡效果），同时作为DOM节点支持交互操作，是实现复杂动态图形的实用工具。
   - Tags: #read #deepdive #frontend
 
 - (2025-08-05) [Automate your project with GitHub Models in Actions](2025-08-05-automate-your-project-with-github-models-in-actions.md)
@@ -181,5 +181,5 @@
   - Tags: #read #career
 
 - (2025-08-01) [Maybe the Fastest Disk Usage Program on macOS](2025-08-01-maybe-the-fastest-disk-usage-program-on-macos.md)
-  - 作者开发的macOS磁盘分析工具dumac通过结合`getattrlistbulk`系统调用和Rust+Tokio协程，实现性能突破：批量获取文件元数据降低系统调用次数，利用轻量级并发控制减少锁竞争，最终比传统`du -sh`快6.4倍，较Go版方案提升13倍。实验证明macOS原生接口与Rust零开销抽象为性能核心。
+  - 作者开发的macOS磁盘分析工具dumac通过结合系统调用和Rust+Tokio协程，实现性能突破：批量获取文件元数据降低系统调用次数，利用轻量级并发控制减少锁竞争，最终比传统快6.4倍，较Go版方案提升13倍。实验证明macOS原生接口与Rust零开销抽象为性能核心。
   - Tags: #read #deepdive

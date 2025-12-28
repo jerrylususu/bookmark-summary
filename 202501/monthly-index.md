@@ -1,11 +1,11 @@
 # 2025-01 Monthly Index
 
 - (2025-01-31) [The surprising way to save memory with BytesIO](2025-01-31-the-surprising-way-to-save-memory-with-bytesio.md)
-  - `BytesIO`是Python中用于内存中存储字节数据的类。使用`BytesIO.read()`会导致内存使用量翻倍，而`getbuffer()`和`getvalue()`方法则更高效，前者返回`memoryview`视图，后者返回`bytes`对象且不增加内存。建议避免使用`read()`，优先使用`getvalue()`或`getbuffer()`以最小化内存开销。
+  - 是Python中用于内存中存储字节数据的类。使用会导致内存使用量翻倍，而和方法则更高效，前者返回视图，后者返回对象且不增加内存。建议避免使用，优先使用或以最小化内存开销。
   - Tags: #read #py
 
 - (2025-01-28) [DeepSeek FAQ](2025-01-28-deepseek-faq.md)
-  - DeepSeek发布了多个高效AI模型，如`R1`和`V3`，通过技术创新如DeepSeekMoE和DeepSeekMLA显著降低了训练和推理成本。在芯片禁令背景下，DeepSeek优化模型架构，展示了在受限硬件上实现高性能的可能性。其开源策略与OpenAI的闭源形成对比，推动了AI模型的普及和成本降低，预示着AI领域接近通用人工智能的实现。
+  - DeepSeek发布了多个高效AI模型，如和，通过技术创新如DeepSeekMoE和DeepSeekMLA显著降低了训练和推理成本。在芯片禁令背景下，DeepSeek优化模型架构，展示了在受限硬件上实现高性能的可能性。其开源策略与OpenAI的闭源形成对比，推动了AI模型的普及和成本降低，预示着AI领域接近通用人工智能的实现。
   - Tags: #read
 
 - (2025-01-28) [Nomadic Infrastructure Design for AI workloads](2025-01-28-nomadic-infrastructure-design-for-ai-workloads.md)
@@ -29,7 +29,7 @@
   - Tags: #books
 
 - (2025-01-25) [Safe Assignment | Alan Johnson](2025-01-25-safe-assignment-alan-johnson.md)
-  - Alan Johnson 讨论了 JavaScript 中新的安全赋值操作符（?=）提案，旨在简化 try/catch 块中的错误处理。他实现了一个 `tryCatch` 函数，支持同步和异步操作，减少代码冗余。虽然不确定是否会实际使用，但他认为这次探索很有趣，并邀请读者反馈。
+  - Alan Johnson 讨论了 JavaScript 中新的安全赋值操作符（?=）提案，旨在简化 try/catch 块中的错误处理。他实现了一个  函数，支持同步和异步操作，减少代码冗余。虽然不确定是否会实际使用，但他认为这次探索很有趣，并邀请读者反馈。
   - Tags: #read #js
 
 - (2025-01-25) [A WebAssembly compiler that fits in a tweet](2025-01-25-a-webassembly-compiler-that-fits-in-a-tweet.md)
@@ -81,7 +81,7 @@
   - Tags: #read #language
 
 - (2025-01-14) [Notes on structured concurrency, or: Go statement considered harmful — njs blog](2025-01-14-notes-on-structured-concurrency%2C-or-go-statement-considered-harmful-%E2%80%94-njs-blog.md)
-  - 文章总结了并发API的常见实现方式，介绍了Trio库的Nursery机制及其优势，讨论了`goto`语句的历史与问题，并类比了`go`语句的破坏性。Nursery机制通过结构化并发控制流，解决了`go`语句带来的问题，保留了函数抽象，支持自动资源清理和错误传播。未来，移除`go`语句有望提升并发编程的可靠性和可维护性。
+  - 文章总结了并发API的常见实现方式，介绍了Trio库的Nursery机制及其优势，讨论了语句的历史与问题，并类比了语句的破坏性。Nursery机制通过结构化并发控制流，解决了语句带来的问题，保留了函数抽象，支持自动资源清理和错误传播。未来，移除语句有望提升并发编程的可靠性和可维护性。
   - Tags: #read #language
 
 - (2025-01-14) [浅谈DSPy和自动化提示词工程（中） - 铁蕾的个人博客](2025-01-14-%E6%B5%85%E8%B0%88dspy%E5%92%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%EF%BC%88%E4%B8%AD%EF%BC%89---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
@@ -105,7 +105,7 @@
   - Tags: #read #llm
 
 - (2025-01-12) [What's involved in getting a "modern" terminal setup?](2025-01-12-what%27s-involved-in-getting-a-modern-terminal-setup.md)
-  - 现代终端体验需要多方面的配置，包括支持多行复制粘贴、无限历史记录、24位颜色、剪贴板集成等功能。推荐使用`fish`或`zsh`作为shell，支持24位颜色的终端模拟器，以及开箱即用的文本编辑器如`micro`或`helix`。配置过程中需注意相互影响，逐步调整，找到适合自己的稳定状态。
+  - 现代终端体验需要多方面的配置，包括支持多行复制粘贴、无限历史记录、24位颜色、剪贴板集成等功能。推荐使用或作为shell，支持24位颜色的终端模拟器，以及开箱即用的文本编辑器如或。配置过程中需注意相互影响，逐步调整，找到适合自己的稳定状态。
   - Tags: #read
 
 - (2025-01-11) [Start Presentations on the Second Slide](2025-01-11-start-presentations-on-the-second-slide.md)
@@ -125,7 +125,7 @@
   - Tags: #read #frontend
 
 - (2025-01-08) [Why is hash(-1) == hash(-2) in Python?](2025-01-08-why-is-hash%28-1%29-%3D%3D-hash%28-2%29-in-python.md)
-  - 作者在Reddit上发现Python中`hash(-1)`和`hash(-2)`都返回`-2`的现象，通过查看Python源码发现`-1`被用作错误标志，因此哈希函数返回`-2`以避免冲突。文章强调了阅读源码的重要性，并鼓励通过源码解决问题。
+  - 作者在Reddit上发现Python中和都返回的现象，通过查看Python源码发现被用作错误标志，因此哈希函数返回以避免冲突。文章强调了阅读源码的重要性，并鼓励通过源码解决问题。
   - Tags: #read #py
 
 - (2025-01-08) [How I program with LLMs](2025-01-08-how-i-program-with-llms.md)

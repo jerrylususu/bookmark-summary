@@ -49,7 +49,7 @@
   - Tags: #read #llm
 
 - (2025-09-19) [no-unused-binary-expressions: From code review nit to ecosystem improvements - ESLint - Pluggable JavaScript Linter](2025-09-19-no-unused-binary-expressions-from-code-review-nit-to-ecosystem-improvements---eslint---pluggable-javascript-linter.md)
-  - 从代码审查发现启发，作者开发了ESLint规则 `no-constant-binary-expressions`，能检测逻辑错误。该规则经4年演进，被纳入ESLint和TypeScript，在大型代码库中发现近百个错误，展现了跨团队合作与开源社区共享的重要性。
+  - 从代码审查发现启发，作者开发了ESLint规则 ，能检测逻辑错误。该规则经4年演进，被纳入ESLint和TypeScript，在大型代码库中发现近百个错误，展现了跨团队合作与开源社区共享的重要性。
   - Tags: #read #security
 
 - (2025-09-18) [From suspicion to published curl CVE](2025-09-18-from-suspicion-to-published-curl-cve.md)
