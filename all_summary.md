@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2025-12-28) [Software engineers should be a little bit cynical](202512/2025-12-28-software-engineers-should-be-a-little-bit-cynical.md)
+  - Tags: #read #people
+  - Summary: 作者认为软件工程师应保持适度愤世嫉俗，以理解组织运作方式，避免过度理想主义。通过参与政治协商推动实际变革，比逃避或极端抵制更能有效解决问题。
+
 - (2025-12-28) [AI智能体纪元或将从2026开始归零 - 铁蕾的个人博客](202512/2025-12-28-ai%E6%99%BA%E8%83%BD%E4%BD%93%E7%BA%AA%E5%85%83%E6%88%96%E5%B0%86%E4%BB%8E2026%E5%BC%80%E5%A7%8B%E5%BD%92%E9%9B%B6---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
   - Tags: #read #llm
   - Summary: AI智能体正推动软件开发方式变革，2025年被预测为“智能体元年”。技术虽面临错误累积、适应性架构等挑战，但已展现自主灵活落地的潜力，预示着一个更智能的新阶段到来。
