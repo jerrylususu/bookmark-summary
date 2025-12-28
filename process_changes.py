@@ -74,9 +74,7 @@ class SummarizedBookmark:
 class IngestionResult:
     bookmark: SummarizedBookmark
     summary_markdown: str
-    raw_text: str
     summary_path: Path
-    raw_path: Path
     one_sentence: str
 
 
@@ -235,21 +233,6 @@ def get_summary_file_path(
     return root / summary_filename
 
 
-def get_text_content_path(
-    title: str,
-    month: Optional[str] = None,
-    in_summary_md: bool = False,
-) -> Path:
-    text_content_filename: str = f"{CURRENT_DATE}-{slugify(title)}_raw.md"
-    if in_summary_md:
-        root = Path(".")
-    else:
-        if month is None:
-            month = CURRENT_MONTH
-        root = SUMMARY_ROOT / month
-    return Path(root, text_content_filename)
-
-
 def build_summary_file(
     title: str,
     url: str,
@@ -262,12 +245,11 @@ def build_summary_file(
     if tags:
         tag_line = f"- Tags: {format_tags(tags)}\n"
 
-    link_to_text = get_text_content_path(title, month=month, in_summary_md=True).name
     return (
         f"# {title}\n"
         f"- URL: {url}\n"
         f"- Added At: {CURRENT_DATE_AND_TIME}\n"
-        f"{tag_line}- [Link To Text]({link_to_text})\n\n"
+        f"{tag_line}\n"
         f"## TL;DR\n{one_sentence}\n\n"
         f"## Summary\n{summary}\n"
     )
@@ -703,7 +685,6 @@ def ingest_bookmark(title: str, url: str, tags: List[str]) -> IngestionResult:
         title, url, summary, one_sentence, tags, month
     )
     summary_path = get_summary_file_path(title, timestamp=timestamp, month=month)
-    raw_path = get_text_content_path(title, month=month)
 
     bookmark = SummarizedBookmark(
         month=month,
@@ -715,9 +696,7 @@ def ingest_bookmark(title: str, url: str, tags: List[str]) -> IngestionResult:
     return IngestionResult(
         bookmark=bookmark,
         summary_markdown=summary_file_content,
-        raw_text=text_content,
         summary_path=summary_path,
-        raw_path=raw_path,
         one_sentence=one_sentence,
     )
 
@@ -762,19 +741,13 @@ def process_changes(backfill: bool = False, dry_run: bool = False) -> None:
 
             if dry_run:
                 logging.info(
-                    "Dry-run: skipping writes for %s and %s",
+                    "Dry-run: skipping writes for %s",
                     ingestion_result.summary_path,
-                    ingestion_result.raw_path,
                 )
             else:
                 write_text_file(
                     ingestion_result.summary_path,
                     ingestion_result.summary_markdown,
-                    dry_run=False,
-                )
-                write_text_file(
-                    ingestion_result.raw_path,
-                    ingestion_result.raw_text,
                     dry_run=False,
                 )
 
