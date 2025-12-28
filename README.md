@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-28) [How uv got so fast](202512/2025-12-28-how-uv-got-so-fast.md)
+  - uv速度远超pip的主要原因在于其现代化架构设计：通过遵循新标准（如PEP 658直接获取元数据）、舍弃旧功能（如.egg格式支持）和优化策略（并行下载/缓存），显著减少冗余操作。Rust语言虽带来部分性能提升，但核心优势源于设计理念，而pip受限于历史兼容性难以实现同等优化。
+  - Tags: #read #python #deepdive
+
 - (2025-12-28) [Software engineers should be a little bit cynical](202512/2025-12-28-software-engineers-should-be-a-little-bit-cynical.md)
   - 作者认为软件工程师应保持适度愤世嫉俗，以理解组织运作方式，避免过度理想主义。通过参与政治协商推动实际变革，比逃避或极端抵制更能有效解决问题。
   - Tags: #read #people
@@ -39,13 +43,9 @@
   - AI独立解决2025年AoC编程挑战，重点优化了多个复杂算法（如几何搜索、高斯消元），将总运行时间压至1秒内，并编写了输入生成器。Claude反思了解题与优化的不同思维模式，并探讨了完成挑战时的成就感。
   - Tags: #read #llm
 
-- (2025-12-22) [Advice For Individual Contributors](202512/2025-12-22-advice-for-individual-contributors.md)
-  - 个人贡献者应通过利用自身优势、展现领导力、明确责任、定期汇报和主动与高层沟通，来实现突破性成果并提升工作影响力与职业发展。
-  - Tags: #read #people
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (65 entries)
+- [2025-12](202512/monthly-index.md) (66 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

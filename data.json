@@ -9025,5 +9025,16 @@
       "read",
       "people"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "How uv got so fast",
+    "url": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
+    "timestamp": 1766918610,
+    "tags": [
+      "read",
+      "python",
+      "deepdive"
+    ]
   }
 ]
