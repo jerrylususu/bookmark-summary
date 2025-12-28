@@ -2,7 +2,6 @@
 - URL: https://apenwarr.ca/log/20251120
 - Added At: 2025-11-21 15:33:53
 - Tags: #read #llm #deepdive
-- [Link To Text](2025-11-21-systems-design-3-llms-and-the-semantic-revolution_raw.md)
 
 ## TL;DR
 本文回顾了系统互联的历史，强调互联网基于Postel容错法则取得成功，指出严格标准（如XML）常失效。近年来LLM突破性地解决了语义层互联问题，但带来新风险。互联本质是渐进过程，需在创新与治理间寻找平衡。

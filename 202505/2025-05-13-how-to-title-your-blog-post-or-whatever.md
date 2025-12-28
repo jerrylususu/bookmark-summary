@@ -1,7 +1,6 @@
 # How to title your blog post or whatever
 - URL: https://dynomight.net/titles/
 - Added At: 2025-05-13 13:54:52
-- [Link To Text](2025-05-13-how-to-title-your-blog-post-or-whatever_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # Monitor replacement — using a projector for a home office setup
 - URL: https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae
 - Added At: 2024-11-29 14:14:32
-- [Link To Text](2024-11-29-monitor-replacement-—-using-a-projector-for-a-home-office-setup_raw.md)
 
 ## TL;DR
 文章介绍了使用Optoma GT1080HDR短焦投影仪和90英寸灰色固定框架屏幕的设置，强调了反射光对眼睛的舒适性和空间利用的优点，但也指出了摄像头位置和颜色准确性等问题。整体满意，但需进一步优化。

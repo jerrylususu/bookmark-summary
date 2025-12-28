@@ -1,7 +1,6 @@
 # Thoughts on the Treasurer Role at Tech NonProfits - Will Vincent
 - URL: https://wsvincent.com/thoughts-on-pyconnz/
 - Added At: 2024-10-08 16:04:36
-- [Link To Text](2024-10-08-thoughts-on-the-treasurer-role-at-tech-nonprofits---will-vincent_raw.md)
 
 ## TL;DR
 文章讨论了非营利组织财务主管面临的挑战和风险，特别是资金被盗用的普遍性问题。作者分享了在Django Software Foundation的财务管理经验，提出通过支付报酬、统一沟通、内部报表和双重审核等措施来预防财务问题。强调了财务管理的专业性和复杂性，并对Catherine Holmes的贡献表示感谢。

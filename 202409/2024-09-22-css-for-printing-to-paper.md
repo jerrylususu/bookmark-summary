@@ -1,7 +1,6 @@
 # CSS for printing to paper
 - URL: https://voussoir.net/writing/css_for_printing
 - Added At: 2024-09-22 10:17:31
-- [Link To Text](2024-09-22-css-for-printing-to-paper_raw.md)
 
 ## TL;DR
 本文介绍了使用HTML和CSS控制网页打印外观的基础知识和实用技巧，包括`@page`规则、`@media print`媒体查询、元素定位、多页文档处理等，并提供了示例文件和备忘单。

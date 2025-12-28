@@ -1,7 +1,6 @@
 # Frequently Asked Questions (And Answers) About AI Evals – Hamel’s Blog
 - URL: https://hamel.dev/blog/posts/evals-faq/
 - Added At: 2025-07-05 07:36:04
-- [Link To Text](2025-07-05-frequently-asked-questions-(and-answers)-about-ai-evals-–-hamel’s-blog_raw.md)
 
 ## TL;DR
 

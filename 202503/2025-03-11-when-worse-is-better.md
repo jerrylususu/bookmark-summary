@@ -1,7 +1,6 @@
 # When worse is better
 - URL: https://www.bitecode.dev/p/when-worse-is-better
 - Added At: 2025-03-11 14:13:56
-- [Link To Text](2025-03-11-when-worse-is-better_raw.md)
 
 ## TL;DR
 本文提出"更糟即更好"原则，主张技术选型应放弃完美主义，在资源限制下优先考虑成本与可行性。通过PHP、Excel等非最优技术流行案例，及过度工程导致项目失控的教训，说明市场更接受"够用"方案。强调接受妥协（如容忍Bug或安全缺口）是合理策略，技术决策本质是价值取舍，需在现实约束下寻求最优妥协路径。（99字）

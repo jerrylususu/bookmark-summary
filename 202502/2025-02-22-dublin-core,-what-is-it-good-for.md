@@ -1,7 +1,6 @@
 # Dublin Core, what is it good for?
 - URL: https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for/
 - Added At: 2025-02-22 10:56:20
-- [Link To Text](2025-02-22-dublin-core,-what-is-it-good-for_raw.md)
 
 ## TL;DR
 文章讨论了多种元数据模式（如Dublin Core、Schema.org、Microformats、Open Graph）及其应用场景，指出Open Graph在社交媒体中的广泛支持，而Schema.org在搜索和学术服务中表现良好。建议根据具体需求支持多种模式，以覆盖不同的服务和使用场景。

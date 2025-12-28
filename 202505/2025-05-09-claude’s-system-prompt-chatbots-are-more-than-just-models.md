@@ -1,7 +1,6 @@
 # Claude’s System Prompt: Chatbots Are More Than Just Models
 - URL: https://www.dbreunig.com/2025/05/07/claude-s-system-prompt-chatbots-are-more-than-just-models.html
 - Added At: 2025-05-09 13:46:22
-- [Link To Text](2025-05-09-claude’s-system-prompt-chatbots-are-more-than-just-models_raw.md)
 
 ## TL;DR
 

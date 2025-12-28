@@ -1,7 +1,6 @@
 # i ran Claude in a loop for three months, and it created a genz programming language called cursed
 - URL: https://ghuntley.com/cursed/
 - Added At: 2025-09-09 13:58:00
-- [Link To Text](2025-09-09-i-ran-claude-in-a-loop-for-three-months,-and-it-created-a-genz-programming-language-called-cursed_raw.md)
 
 ## TL;DR
 作者用Claude开发了基于Go的Gen Z风格编程语言"cursed"，关键词替换为俚语。项目包含编译器、编辑器和库，支持跨平台编译。作者强调AI是创新工具，鼓励社区参与，目标让语言进入Stack Overflow榜单并实现自举。

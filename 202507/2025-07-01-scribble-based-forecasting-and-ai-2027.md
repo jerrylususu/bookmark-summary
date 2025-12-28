@@ -1,7 +1,6 @@
 # Scribble-based forecasting and AI 2027
 - URL: https://dynomight.net/scribbles/
 - Added At: 2025-07-01 15:53:45
-- [Link To Text](2025-07-01-scribble-based-forecasting-and-ai-2027_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # The hiring test that defeated AI
 - URL: https://www.bitecode.dev/p/the-hiring-test-that-defeated-ai
 - Added At: 2025-08-06 15:25:52
-- [Link To Text](2025-08-06-the-hiring-test-that-defeated-ai_raw.md)
 
 ## TL;DR
 

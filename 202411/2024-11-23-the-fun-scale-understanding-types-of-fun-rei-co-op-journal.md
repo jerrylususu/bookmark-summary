@@ -1,7 +1,6 @@
 # The Fun Scale: Understanding Types of "Fun" | REI Co-op Journal
 - URL: https://www.rei.com/blog/climb/fun-scale
 - Added At: 2024-11-23 11:40:33
-- [Link To Text](2024-11-23-the-fun-scale-understanding-types-of-fun-rei-co-op-journal_raw.md)
 
 ## TL;DR
 文章通过“Fun Scale”概念，将乐趣分为三类：即时享受的Type I、事后回味的Type II和完全不有趣的Type III。作者分享个人攀登经历，强调乐趣的主观性和时间影响，引发读者对乐趣分类的广泛讨论和扩展思考。

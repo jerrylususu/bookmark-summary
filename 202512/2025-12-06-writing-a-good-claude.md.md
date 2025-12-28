@@ -2,7 +2,6 @@
 - URL: https://www.humanlayer.dev/blog/writing-a-good-claude-md
 - Added At: 2025-12-06 15:50:02
 - Tags: #read #llm
-- [Link To Text](2025-12-06-writing-a-good-claude.md_raw.md)
 
 ## TL;DR
 本文介绍了`CLAUDE.md`文件作为代码代理初始上下文的核心作用，强调通过定义项目的目标、技术栈和工作流程来引导代理。关键优化策略包括保持指令简洁（优先普适性、控制文件长度）、拆分任务特定内容、明确工具分工，以及手工精心设计内容，以平衡信息量和上下文效率，最大化代理效能。

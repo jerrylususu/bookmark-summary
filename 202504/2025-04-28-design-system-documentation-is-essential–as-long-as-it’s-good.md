@@ -1,7 +1,6 @@
 # Design system documentation is essential–as long as it’s good
 - URL: https://pjonori.blog/posts/design-system-documentation/
 - Added At: 2025-04-28 14:18:56
-- [Link To Text](2025-04-28-design-system-documentation-is-essential–as-long-as-it’s-good_raw.md)
 
 ## TL;DR
 

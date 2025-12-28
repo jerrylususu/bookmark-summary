@@ -1,7 +1,6 @@
 # I don’t like NumPy
 - URL: https://dynomight.net/numpy/
 - Added At: 2025-05-16 14:23:16
-- [Link To Text](2025-05-16-i-don’t-like-numpy_raw.md)
 
 ## TL;DR
 

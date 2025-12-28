@@ -1,7 +1,6 @@
 # How Imports Work in RSC — overreacted
 - URL: https://overreacted.io/how-imports-work-in-rsc/
 - Added At: 2025-06-06 14:07:56
-- [Link To Text](2025-06-06-how-imports-work-in-rsc-—-overreacted_raw.md)
 
 ## TL;DR
 

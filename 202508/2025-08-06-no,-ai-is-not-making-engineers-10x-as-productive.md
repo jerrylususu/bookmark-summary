@@ -1,7 +1,6 @@
 # No, AI is not Making Engineers 10x as Productive
 - URL: https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/
 - Added At: 2025-08-06 15:22:09
-- [Link To Text](2025-08-06-no,-ai-is-not-making-engineers-10x-as-productive_raw.md)
 
 ## TL;DR
 

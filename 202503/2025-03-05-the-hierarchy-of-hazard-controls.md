@@ -1,7 +1,6 @@
 # The Hierarchy of Hazard Controls
 - URL: https://www.hillelwayne.com/post/hoc/
 - Added At: 2025-03-05 13:24:52
-- [Link To Text](2025-03-05-the-hierarchy-of-hazard-controls_raw.md)
 
 ## TL;DR
 文章介绍了控制危害的层次结构（HoC）在软件工程中的应用，包括消除、替代、工程控制、行政控制和个人防护设备五个层次，并讨论了其在软件环境中的具体应用、注意事项及潜在风险。

@@ -1,7 +1,6 @@
 # Reasons to write design docs | nicole@web
 - URL: https://ntietz.com/blog/reasons-to-write-design-docs
 - Added At: 2024-09-02 14:10:52
-- [Link To Text](2024-09-02-reasons-to-write-design-docs-|-nicole@web_raw.md)
 
 ## TL;DR
 写作设计文档有助于深入思考、团队协作、知识共享和决策追溯，但也有局限性，如无法准确反映系统现状。写作作为沟通工具，能提升沟通能力和思维深度，作者呼吁软件工程团队增加写作，以提升决策质量和效率。

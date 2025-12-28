@@ -1,7 +1,6 @@
 # Covers as a way of learning music and code | nicole@web
 - URL: https://ntietz.com/blog/covers-as-a-way-of-learning
 - Added At: 2025-07-21 13:57:54
-- [Link To Text](2025-07-21-covers-as-a-way-of-learning-music-and-code-nicole@web_raw.md)
 
 ## TL;DR
 

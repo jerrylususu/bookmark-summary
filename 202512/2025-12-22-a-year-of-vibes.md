@@ -2,7 +2,6 @@
 - URL: https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/
 - Added At: 2025-12-22 14:43:27
 - Tags: #read
-- [Link To Text](2025-12-22-a-year-of-vibes_raw.md)
 
 ## TL;DR
 作者回顾2025年，AI编程工具彻底改变其工作方式，从编码者转为工程领导。他体验了多款AI代理工具，扩展至日常管理，但也反思人机关系风险与行业分歧。未来需解决版本控制、代码审查及AI生成代码的伦理问题，呼吁行业关注工具演化与人机协作边界。

@@ -1,7 +1,6 @@
 # Things You Didn't Know About GNU Readline
 - URL: https://twobithistory.org/2019/08/22/readline.html
 - Added At: 2024-09-28 11:48:55
-- [Link To Text](2024-09-28-things-you-didn't-know-about-gnu-readline_raw.md)
 
 ## TL;DR
 GNU Readline是一个强大的命令行编辑库，支持丰富的文本编辑功能和快捷键，可通过自定义配置文件进行个性化设置。由Chet Ramey长期维护，广泛应用于各种命令行工具中。

@@ -1,7 +1,6 @@
 # In Support Of Shitty Types
 - URL: https://lucumr.pocoo.org/2025/8/4/shitty-types/
 - Added At: 2025-08-05 14:06:24
-- [Link To Text](2025-08-05-in-support-of-shitty-types_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # Problem Driven Development
 - URL: https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html
 - Added At: 2024-12-18 14:07:36
-- [Link To Text](2024-12-18-problem-driven-development_raw.md)
 
 ## TL;DR
 文章讨论了高级技术角色在制定技术路线图时遇到的困难，提出问题驱动开发方法，强调优先解决实际问题，并通过定期审查和合理评估技术债务来制定有效的技术路线图，最终建议保持问题导向，避免过度依赖权威和解决方案导向。

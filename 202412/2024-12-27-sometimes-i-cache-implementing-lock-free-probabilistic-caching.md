@@ -1,7 +1,6 @@
 # Sometimes I cache: implementing lock-free probabilistic caching
 - URL: https://blog.cloudflare.com/sometimes-i-cache/
 - Added At: 2024-12-27 14:25:49
-- [Link To Text](2024-12-27-sometimes-i-cache-implementing-lock-free-probabilistic-caching_raw.md)
 
 ## TL;DR
 HTTP缓存通过缓存锁或概率性重新验证来防止缓存雪崩问题。概率性方法通过模拟掷骰子决定是否请求源服务器，减少延迟和故障风险，但无法保证确定性。最优解决方案基于指数分布的概率函数，适用于高性能缓存场景。实际应用中，概率性方法在特定场景下表现优异，鼓励开发者探索其实现。

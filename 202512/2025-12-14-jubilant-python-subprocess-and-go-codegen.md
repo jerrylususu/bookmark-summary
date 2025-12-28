@@ -2,7 +2,6 @@
 - URL: https://benhoyt.com/writings/jubilant/
 - Added At: 2025-12-14 13:33:36
 - Tags: #read
-- [Link To Text](2025-12-14-jubilant-python-subprocess-and-go-codegen_raw.md)
 
 ## TL;DR
 Jubilant 是利用 Python 封装 Juju CLI 的项目，通过 subprocess.run 调用 CLI 简化架构，使用代码生成确保数据模型一致，并基于 uv 和 Make 管理开发流程，体现了简洁实用的设计思路。

@@ -1,7 +1,6 @@
 # Garbage collection and closures
 - URL: https://jakearchibald.com/2024/garbage-collection-and-closures/
 - Added At: 2024-09-07 10:58:37
-- [Link To Text](2024-09-07-garbage-collection-and-closures_raw.md)
 
 ## TL;DR
 文章讨论了JavaScript中函数内垃圾回收机制的问题，指出即使变量不再被引用，由于内部函数和作用域的存在，可能导致内存泄漏。跨浏览器存在此问题，需手动管理作用域以避免内存泄漏。

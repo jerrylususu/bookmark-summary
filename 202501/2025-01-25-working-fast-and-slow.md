@@ -1,7 +1,6 @@
 # Working fast and slow
 - URL: https://www.seangoedecke.com/working-fast-and-slow/
 - Added At: 2025-01-25 13:52:52
-- [Link To Text](2025-01-25-working-fast-and-slow_raw.md)
 
 ## TL;DR
 作者分享了自己适应不同工作节奏的经验，强调接受高效日和低效日的差异。高效日专注于高优先级任务，低效日则处理简单任务。作者认为这种策略在大科技公司中尤为适用，能够有效平衡工作压力和提高生产力。

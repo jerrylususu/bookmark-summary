@@ -2,7 +2,6 @@
 - URL: https://interconnected.org/home/2025/12/05/training
 - Added At: 2025-12-06 09:38:21
 - Tags: #read
-- [Link To Text](2025-12-06-my-mental-model-of-the-ai-race_raw.md)
 
 ## TL;DR
 文章分析了AI领域的两个自我加速循环：平台资本主义通过用户数据优化市场匹配，编码工具通过自我迭代推动技术跃升。它们的闭环机制驱动AI公司竞争，但发展潜力受限于技术瓶颈和市场风险。

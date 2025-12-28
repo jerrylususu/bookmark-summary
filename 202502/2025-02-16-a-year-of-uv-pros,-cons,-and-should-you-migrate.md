@@ -1,7 +1,6 @@
 # A year of uv: pros, cons, and should you migrate
 - URL: https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should
 - Added At: 2025-02-16 06:33:12
-- [Link To Text](2025-02-16-a-year-of-uv-pros,-cons,-and-should-you-migrate_raw.md)
 
 ## TL;DR
 uv是一款优秀的Python项目管理工具，具有低迁移成本、易用性、跨平台一致性等优势，支持快速安装Python和强大的依赖解析。但它也有不足，如无法解决某些打包问题和缓存占用大。建议优先尝试uv，但也需学习其他工具以应对特殊场景。

@@ -1,7 +1,6 @@
 # Decomplexification
 - URL: https://daniel.haxx.se/blog/2025/05/29/decomplexification/
 - Added At: 2025-05-30 13:54:53
-- [Link To Text](2025-05-30-decomplexification_raw.md)
 
 ## TL;DR
 

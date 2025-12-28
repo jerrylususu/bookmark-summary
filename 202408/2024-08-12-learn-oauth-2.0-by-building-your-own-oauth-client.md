@@ -1,7 +1,6 @@
 # Learn OAuth 2.0 by Building Your Own OAuth Client
 - URL: https://annotate.dev/p/hello-world/learn-oauth-2-0-by-building-your-own-oauth-client-U2HaZNtvQojn4F
 - Added At: 2024-08-12 07:55:44
-- [Link To Text](2024-08-12-learn-oauth-2.0-by-building-your-own-oauth-client_raw.md)
 
 ## TL;DR
 本文介绍了如何通过构建OAuth 2.0客户端实现“使用Google登录”功能，详细讲解了OAuth的工作流程、设置OAuth凭证、重定向到Google征求用户同意、与Google交换代码以及获取用户信息的具体步骤，并解释了相关术语。最后，讨论了自行开发OAuth客户端的必要性和学习意义，并建议下一步探索OpenID Connect。

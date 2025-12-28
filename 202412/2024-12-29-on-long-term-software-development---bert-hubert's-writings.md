@@ -1,7 +1,6 @@
 # On Long Term Software Development - Bert Hubert's writings 
 - URL: https://berthub.eu/articles/posts/on-long-term-software-development/
 - Added At: 2024-12-29 13:26:02
-- [Link To Text](2024-12-29-on-long-term-software-development---bert-hubert's-writings_raw.md)
 
 ## TL;DR
 Bert Hubert在荷兰选举委员会的演讲中强调了长期软件开发的重要性，核心原则包括保持代码简单、谨慎管理依赖、编写全面测试、详细记录设计决策、保持团队稳定性，并考虑开源以提高质量。他还推荐了多本经典书籍，帮助开发者应对长期项目中的挑战。

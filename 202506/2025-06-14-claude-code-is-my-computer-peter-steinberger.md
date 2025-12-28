@@ -1,7 +1,6 @@
 # Claude Code is My Computer | Peter Steinberger
 - URL: https://steipete.me/posts/2025/claude-code-is-my-computer
 - Added At: 2025-06-14 08:42:35
-- [Link To Text](2025-06-14-claude-code-is-my-computer-peter-steinberger_raw.md)
 
 ## TL;DR
 

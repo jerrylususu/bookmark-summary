@@ -1,7 +1,6 @@
 # An Opinionated Guide to Using AI Right Now
 - URL: https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai
 - Added At: 2025-10-20 13:57:55
-- [Link To Text](2025-10-20-an-opinionated-guide-to-using-ai-right-now_raw.md)
 
 ## TL;DR
 本文对比主流AI工具（如ChatGPT、Claude、Gemini）的免费与付费方案，强调基于需求选择模型：免费版适合日常，付费版提供更强处理能力。使用技巧包括开启深度搜索、利用文件处理功能，并注意AI可能出错。建议多尝试，关注实际应用而非技术本身。

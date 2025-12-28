@@ -1,7 +1,6 @@
 # [译] 从 OpenDeepResearch 背后的设计演进，解读 AI 领域反复学到的一课（2025）
 - URL: https://arthurchiao.github.io/blog/ai-bitter-lesson-zh/
 - Added At: 2025-09-15 13:39:27
-- [Link To Text](2025-09-15-[译]-从-opendeepresearch-背后的设计演进，解读-ai-领域反复学到的一课（2025）_raw.md)
 
 ## TL;DR
 人工智能领域的核心教训是，大规模计算和通用方法比人工设计更有效。随着算力和数据增长，过多结构限制性能。工程与研究中应灵活适应模型进步，避免固守短期优化。

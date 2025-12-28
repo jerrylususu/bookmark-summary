@@ -1,7 +1,6 @@
 # Web Browser Engineering
 - URL: https://browser.engineering/
 - Added At: 2024-10-16 13:54:41
-- [Link To Text](2024-10-16-web-browser-engineering_raw.md)
 
 ## TL;DR
 《Web Browser Engineering》通过Python代码构建基本Web浏览器，详细解释其工作原理，涵盖网络、JavaScript等。支持通过Twitter、博客、Patreon等平台获取更新和讨论。

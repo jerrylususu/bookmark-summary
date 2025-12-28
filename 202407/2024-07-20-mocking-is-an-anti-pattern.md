@@ -1,7 +1,6 @@
 # Mocking is an Anti-Pattern
 - URL: https://www.amazingcto.com/mocking-is-an-antipattern-how-to-test-without-mocking/
 - Added At: 2024-07-20 14:02:56
-- [Link To Text](2024-07-20-mocking-is-an-anti-pattern_raw.md)
 
 ## TL;DR
 文章强调了测试的重要性，指出使用mock测试可能忽略边缘情况和失败模式。建议通过增加单元测试、简化IO测试、分离逻辑与IO、进行E2E集成测试等替代方案来提高测试覆盖率和准确性，避免mock带来的问题。

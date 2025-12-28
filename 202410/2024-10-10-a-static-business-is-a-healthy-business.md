@@ -1,7 +1,6 @@
 # A static business is a healthy business
 - URL: https://world.hey.com/jason/a-static-business-is-a-healthy-business-c0c2961b
 - Added At: 2024-10-10 14:53:58
-- [Link To Text](2024-10-10-a-static-business-is-a-healthy-business_raw.md)
 
 ## TL;DR
 文章强调通过均匀的客户基础和固定定价策略，如Basecamp的每月$99定价，来减少对大客户的依赖，从而降低业务风险，确保业务的稳定和健康。

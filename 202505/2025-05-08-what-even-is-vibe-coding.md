@@ -1,7 +1,6 @@
 # What Even Is Vibe Coding?
 - URL: https://ashley.dev/posts/what-even-is-vibe-coding
 - Added At: 2025-05-08 13:01:47
-- [Link To Text](2025-05-08-what-even-is-vibe-coding_raw.md)
 
 ## TL;DR
 

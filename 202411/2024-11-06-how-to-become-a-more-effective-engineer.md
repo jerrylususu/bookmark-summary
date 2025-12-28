@@ -1,7 +1,6 @@
 # How to become a more effective engineer
 - URL: https://newsletter.pragmaticengineer.com/p/how-to-become-a-more-effective-engineer
 - Added At: 2024-11-06 14:04:46
-- [Link To Text](2024-11-06-how-to-become-a-more-effective-engineer_raw.md)
 
 ## TL;DR
 文章讨论了成为有效工程师的关键，强调理解组织运作、掌握软技能和适应组织文化的重要性。通过识别隐性层级、适应不同文化类型和处理混乱，工程师可以更有效地推动变革和实现职业发展。

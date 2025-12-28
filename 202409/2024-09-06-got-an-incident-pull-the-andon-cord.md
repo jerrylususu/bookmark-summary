@@ -1,7 +1,6 @@
 # Got an incident? pull the Andon Cord
 - URL: https://spike.sh/blog/pull-the-andon-cord/
 - Added At: 2024-09-06 13:38:59
-- [Link To Text](2024-09-06-got-an-incident?-pull-the-andon-cord_raw.md)
 
 ## TL;DR
 Andon Cord是丰田引入的生产管理方法，通过在装配线上安装拉绳系统，员工发现缺陷时可立即停止生产线，与经理共同解决问题。这种方法不仅提高了生产质量，还降低了成本，并被亚马逊和Netflix等公司借鉴应用于客户服务和软件开发中。

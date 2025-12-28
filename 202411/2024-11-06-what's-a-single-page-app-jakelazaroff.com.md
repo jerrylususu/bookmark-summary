@@ -1,7 +1,6 @@
 # What's a Single-Page App? | jakelazaroff.com
 - URL: https://jakelazaroff.com/words/whats-a-single-page-app/
 - Added At: 2024-11-06 14:12:54
-- [Link To Text](2024-11-06-what's-a-single-page-app-jakelazaroff.com_raw.md)
 
 ## TL;DR
 文章讨论了单页应用（SPA）的定义和技术实现，包括服务器端渲染（SSR）、客户端渲染（CSR）、多页应用（MPA）等。介绍了传统Web框架、JavaScript框架、元框架和岛屿框架的优缺点，强调工具应提供灵活性，避免开发者被锁定在特定架构中。

@@ -1,7 +1,6 @@
 # download-esm: a tool for downloading ECMAScript modules
 - URL: https://simonwillison.net/2023/May/2/download-esm/
 - Added At: 2024-11-19 16:48:18
-- [Link To Text](2024-11-19-download-esm-a-tool-for-downloading-ecmascript-modules_raw.md)
 
 ## TL;DR
 `download-esm`是一个CLI工具，用于下载ECMAScript模块版本的npm包及其依赖，并重写导入语句。作者开发此工具以简化开发流程，避免依赖CDN和本地构建脚本的问题。工具通过Python编写，支持安装和使用简单，已成功测试多个包，并欢迎社区参与改进。

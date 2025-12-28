@@ -1,7 +1,6 @@
 # jq: tool and language for JSON processing – Trickster Dev
 - URL: https://www.trickster.dev/post/jq-tool-and-language-for-json-processing/
 - Added At: 2025-06-16 14:54:54
-- [Link To Text](2025-06-16-jq-tool-and-language-for-json-processing-–-trickster-dev_raw.md)
 
 ## TL;DR
 

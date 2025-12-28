@@ -1,7 +1,6 @@
 # PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights | Robert Heaton
 - URL: https://robertheaton.com/pyskywifi/
 - Added At: 2024-12-07 07:55:38
-- [Link To Text](2024-12-07-pyskywifi-completely-free,-unbelievably-stupid-wi-fi-on-long-haul-flights-robert-heaton_raw.md)
 
 ## TL;DR
 作者在飞机上通过飞行里程账户发现了一个Wi-Fi登录页面的漏洞，进而开发了PySkyWiFi，利用该账户实现互联网访问。通过编写命令行工具和简化版的TCP/IP协议，作者在飞行中实现了即时消息传递、实时新闻获取等功能，并计划未来通过HTTP `CONNECT`请求进一步优化。

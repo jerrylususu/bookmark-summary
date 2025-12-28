@@ -1,7 +1,6 @@
 # Automate your project with GitHub Models in Actions
 - URL: https://github.blog/ai-and-ml/generative-ai/automate-your-project-with-github-models-in-actions/
 - Added At: 2025-08-05 14:11:38
-- [Link To Text](2025-08-05-automate-your-project-with-github-models-in-actions_raw.md)
 
 ## TL;DR
 

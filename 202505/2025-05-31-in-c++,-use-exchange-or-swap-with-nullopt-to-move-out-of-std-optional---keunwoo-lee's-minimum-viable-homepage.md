@@ -1,7 +1,6 @@
 # In C++, use exchange or swap with nullopt to move out of std::optional - Keunwoo Lee's Minimum Viable Homepage
 - URL: https://keunwoo.com/notes/cpp-moving-std-optional/
 - Added At: 2025-05-31 10:19:29
-- [Link To Text](2025-05-31-in-c++,-use-exchange-or-swap-with-nullopt-to-move-out-of-std-optional---keunwoo-lee's-minimum-viable-homepage_raw.md)
 
 ## TL;DR
 

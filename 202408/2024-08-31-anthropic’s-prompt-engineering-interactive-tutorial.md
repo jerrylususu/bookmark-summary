@@ -1,7 +1,6 @@
 # Anthropic’s Prompt Engineering Interactive Tutorial
 - URL: https://simonwillison.net/2024/Aug/30/anthropic-prompt-engineering-interactive-tutorial/
 - Added At: 2024-08-31 11:46:59
-- [Link To Text](2024-08-31-anthropic’s-prompt-engineering-interactive-tutorial_raw.md)
 
 ## TL;DR
 本教程介绍了Anthropic的提示工程，包括安装、API密钥管理、使用XML标签组织提示、避免拼写错误、利用prefill功能和预知策略，以及如何避免幻觉，通过收集证据来提高回答准确性。

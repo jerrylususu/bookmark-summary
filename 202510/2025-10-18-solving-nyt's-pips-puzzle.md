@@ -1,7 +1,6 @@
 # Solving NYT's Pips Puzzle
 - URL: https://healeycodes.com/solving-nyt-pips-puzzle
 - Added At: 2025-10-18 14:13:07
-- [Link To Text](2025-10-18-solving-nyt's-pips-puzzle_raw.md)
 
 ## TL;DR
 本文介绍了作者开发的《纽约时报》Pips 拼图求解器，包括游戏规则、深度优先搜索算法实现，以及通过剪枝、骨牌方向重复跳过和智能区域检查等优化手段，将节点数从21337降至1355，并实现交互式界面。

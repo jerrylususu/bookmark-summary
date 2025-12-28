@@ -1,7 +1,6 @@
 # How to actually use Model Context Protocol
 - URL: https://www.seangoedecke.com/how-to-actually-use-mcp/
 - Added At: 2025-07-17 13:59:28
-- [Link To Text](2025-07-17-how-to-actually-use-model-context-protocol_raw.md)
 
 ## TL;DR
 

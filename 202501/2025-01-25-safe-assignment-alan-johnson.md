@@ -1,7 +1,6 @@
 # Safe Assignment | Alan Johnson
 - URL: https://nalanj.dev/posts/safe-assignment/
 - Added At: 2025-01-25 21:54:21
-- [Link To Text](2025-01-25-safe-assignment-alan-johnson_raw.md)
 
 ## TL;DR
 Alan Johnson 讨论了 JavaScript 中新的安全赋值操作符（?=）提案，旨在简化 try/catch 块中的错误处理。他实现了一个 `tryCatch` 函数，支持同步和异步操作，减少代码冗余。虽然不确定是否会实际使用，但他认为这次探索很有趣，并邀请读者反馈。

@@ -1,7 +1,6 @@
 # too many model context protocol servers and LLM allocations on the dance floor
 - URL: https://ghuntley.com/allocations/
 - Added At: 2025-08-23 04:23:44
-- [Link To Text](2025-08-23-too-many-model-context-protocol-servers-and-llm-allocations-on-the-dance-floor_raw.md)
 
 ## TL;DR
 

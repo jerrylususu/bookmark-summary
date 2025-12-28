@@ -1,7 +1,6 @@
 # METR's AI productivity study is really good
 - URL: https://www.seangoedecke.com/impact-of-ai-study/
 - Added At: 2025-07-11 13:09:22
-- [Link To Text](2025-07-11-metr's-ai-productivity-study-is-really-good_raw.md)
 
 ## TL;DR
 

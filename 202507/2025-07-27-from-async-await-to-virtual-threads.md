@@ -1,7 +1,6 @@
 # From Async/Await to Virtual Threads
 - URL: https://lucumr.pocoo.org/2025/7/26/virtual-threads/
 - Added At: 2025-07-27 14:03:58
-- [Link To Text](2025-07-27-from-async-await-to-virtual-threads_raw.md)
 
 ## TL;DR
 

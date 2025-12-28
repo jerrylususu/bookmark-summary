@@ -1,7 +1,6 @@
 # Serving 200 million requests per day with a cgi-bin
 - URL: https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/
 - Added At: 2025-07-06 05:22:24
-- [Link To Text](2025-07-06-serving-200-million-requests-per-day-with-a-cgi-bin_raw.md)
 
 ## TL;DR
 

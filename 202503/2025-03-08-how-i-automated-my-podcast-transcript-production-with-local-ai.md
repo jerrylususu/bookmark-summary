@@ -1,7 +1,6 @@
 # How I Automated My Podcast Transcript Production With Local AI
 - URL: https://den.dev/blog/how-i-automated-podcast-transcription-with-local-ai/
 - Added At: 2025-03-08 10:56:49
-- [Link To Text](2025-03-08-how-i-automated-my-podcast-transcript-production-with-local-ai_raw.md)
 
 ## TL;DR
 作者开发开源工具roboscribe，通过整合WhisperX语音处理和Llama-3.1等大模型，实现本地AI自动化播客转录与优化。该工具可自动完成转录、时间轴对齐、说话人分离及文本清理（去除冗余、修正语法），处理35分钟音频仅需15分钟，输出质量显著提升。当前需高配GPU运行，未来计划优化适配更多设备。工具已开源（GitHub可获取）。

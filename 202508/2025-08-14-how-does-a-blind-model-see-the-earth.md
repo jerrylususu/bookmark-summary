@@ -1,7 +1,6 @@
 # How Does A Blind Model See The Earth?
 - URL: https://outsidetext.substack.com/p/how-does-a-blind-model-see-the-earth
 - Added At: 2025-08-14 14:11:35
-- [Link To Text](2025-08-14-how-does-a-blind-model-see-the-earth_raw.md)
 
 ## TL;DR
 

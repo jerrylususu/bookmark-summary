@@ -2,7 +2,6 @@
 - URL: https://mitchellh.com/writing/grapheme-clusters-in-terminals
 - Added At: 2025-11-04 15:18:51
 - Tags: #read
-- [Link To Text](2025-11-04-grapheme-clusters-and-terminal-emulators_raw.md)
 
 ## TL;DR
 终端模拟器在处理Unicode字符如表情符号时，宽度计算常出现光标移动错误。问题源于传统方案依赖单字符宽度函数，无法正确处理多码位组合。解决方案是采用字形簇技术和Mode 2027协议，确保跨终端的兼容性和对全球语言支持。建议程序优先启用新模式，并动态计算文本宽度。

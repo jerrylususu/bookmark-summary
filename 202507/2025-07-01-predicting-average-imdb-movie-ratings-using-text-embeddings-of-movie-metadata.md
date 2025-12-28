@@ -1,7 +1,6 @@
 # Predicting Average IMDb Movie Ratings Using Text Embeddings of Movie Metadata
 - URL: https://minimaxir.com/2025/06/movie-embeddings/
 - Added At: 2025-07-01 15:08:55
-- [Link To Text](2025-07-01-predicting-average-imdb-movie-ratings-using-text-embeddings-of-movie-metadata_raw.md)
 
 ## TL;DR
 

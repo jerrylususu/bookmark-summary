@@ -1,7 +1,6 @@
 # Abstraction, not syntax
 - URL: https://ruudvanasseldonk.com/2025/abstraction-not-syntax
 - Added At: 2025-10-13 14:02:24
-- [Link To Text](2025-10-13-abstraction,-not-syntax_raw.md)
 
 ## TL;DR
 配置格式的核心不是句法之争，而在于通过编程抽象（如循环、公式）消除重复，提升维护性。支持抽象的语言虽可能增加复杂性，但在复杂场景中优势显著。

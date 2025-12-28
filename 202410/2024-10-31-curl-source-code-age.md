@@ -1,7 +1,6 @@
 # curl source code age
 - URL: https://daniel.haxx.se/blog/2024/10/31/curl-source-code-age/
 - Added At: 2024-10-31 14:36:27
-- [Link To Text](2024-10-31-curl-source-code-age_raw.md)
 
 ## TL;DR
 作者通过编写脚本分析curl项目的代码年龄，使用gnuplot进行数据可视化，最终发现超过50%的代码是在2020年后编写的，约25%的代码在2014年前编写，1254行代码在2000年前编写。

@@ -1,7 +1,6 @@
 # “The Door Problem” – Liz England
 - URL: https://lizengland.com/blog/2014/04/the-door-problem/
 - Added At: 2024-08-18 05:17:17
-- [Link To Text](2024-08-18-“the-door-problem”-–-liz-england_raw.md)
 
 ## TL;DR
 文章通过“门问题”展示了游戏设计中的日常实际考虑，包括门的物理特性、玩家互动、团队协作、技术实现等多个方面，揭示了游戏设计不仅仅是创意和乐趣，还涉及到复杂的工程和团队协作。

@@ -1,7 +1,6 @@
 # Can small AI models think as well as large ones?
 - URL: https://www.seangoedecke.com/cognitive-core/
 - Added At: 2025-07-27 13:40:09
-- [Link To Text](2025-07-27-can-small-ai-models-think-as-well-as-large-ones_raw.md)
 
 ## TL;DR
 

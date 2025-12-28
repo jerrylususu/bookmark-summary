@@ -1,7 +1,6 @@
 # Agentic Coding Recommendations
 - URL: https://lucumr.pocoo.org/2025/6/12/agentic-coding/
 - Added At: 2025-06-13 14:07:14
-- [Link To Text](2025-06-13-agentic-coding-recommendations_raw.md)
 
 ## TL;DR
 

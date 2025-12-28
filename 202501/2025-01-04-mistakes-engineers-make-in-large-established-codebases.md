@@ -1,7 +1,6 @@
 # Mistakes engineers make in large established codebases
 - URL: https://www.seangoedecke.com/large-established-codebases/
 - Added At: 2025-01-04 11:09:14
-- [Link To Text](2025-01-04-mistakes-engineers-make-in-large-established-codebases_raw.md)
 
 ## TL;DR
 大型代码库的维护面临诸多挑战，如学习难度高、一致性要求严格等。一致性是避免问题、便于未来改进的关键。工程师需理解服务使用情况、依赖管理和测试限制，并谨慎处理代码移除。大型代码库通常产生公司主要价值，值得投入精力维护。在开发新功能时，必须研究现有实践并遵循模式，同时依赖监控和防御性编程来捕捉错误。

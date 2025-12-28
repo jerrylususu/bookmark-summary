@@ -1,7 +1,6 @@
 # How I'm using coding agents in September, 2025
 - URL: https://blog.fsck.com/2025/10/05/how-im-using-coding-agents-in-september-2025/
 - Added At: 2025-10-06 05:42:07
-- [Link To Text](2025-10-06-how-i'm-using-coding-agents-in-september,-2025_raw.md)
 
 ## TL;DR
 作者通过结构化多会话AI协作（设计、实施、审查）结合git隔离工作流程和工具链整合（如CodeRabbit），提升开发效率与代码质量，并强调设计细化和审查验证的重要性。

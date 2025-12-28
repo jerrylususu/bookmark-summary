@@ -1,7 +1,6 @@
 # How (Not) to Make a Game Sequel
 - URL: https://ruoyusun.com/2025/04/18/game-sequel-lessons.html
 - Added At: 2025-04-21 14:51:21
-- [Link To Text](2025-04-21-how-(not)-to-make-a-game-sequel_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # The story of Musium
 - URL: https://ruudvanasseldonk.com/2025/musium
 - Added At: 2025-09-22 14:39:26
-- [Link To Text](2025-09-22-the-story-of-musium_raw.md)
 
 ## TL;DR
 Ruud van Asseldonk使用Rust和自研工具构建了基于树莓派的音乐播放器Musium，实现本地音乐播放、元数据搜索和个性化推荐，具备良好可控性，并持续优化功能。

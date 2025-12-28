@@ -1,7 +1,6 @@
 # What I learned from making a (second) mobile app
 - URL: https://pjonori.blog/posts/what-i-learned-making-a-second-mobile-app/
 - Added At: 2025-08-28 14:34:45
-- [Link To Text](2025-08-28-what-i-learned-from-making-a-(second)-mobile-app_raw.md)
 
 ## TL;DR
 

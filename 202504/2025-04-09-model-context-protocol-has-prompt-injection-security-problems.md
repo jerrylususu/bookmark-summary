@@ -1,7 +1,6 @@
 # Model Context Protocol has prompt injection security problems
 - URL: https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/
 - Added At: 2025-04-09 14:26:23
-- [Link To Text](2025-04-09-model-context-protocol-has-prompt-injection-security-problems_raw.md)
 
 ## TL;DR
 

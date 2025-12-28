@@ -1,7 +1,6 @@
 # Vibing a Non-Trivial Ghostty Feature
 - URL: https://mitchellh.com/writing/non-trivial-vibing
 - Added At: 2025-10-12 12:32:46
-- [Link To Text](2025-10-12-vibing-a-non-trivial-ghostty-feature_raw.md)
 
 ## TL;DR
 作者Mitchellh分享使用AI辅助开发Ghostty的非侵入式macOS自动更新功能。通过拆分任务、AI生成UI原型与代码框架，并在8小时内完成开发，强调AI作为辅助工具需人工主导审核，避免更新提示打断用户。

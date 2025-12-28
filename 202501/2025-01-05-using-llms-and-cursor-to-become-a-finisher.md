@@ -1,7 +1,6 @@
 # Using LLMs and Cursor to become a finisher
 - URL: https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/
 - Added At: 2025-01-05 02:50:43
-- [Link To Text](2025-01-05-using-llms-and-cursor-to-become-a-finisher_raw.md)
 
 ## TL;DR
 作者在2024年通过使用LLMs和Cursor IDE显著提升了业余项目的开发效率，完成了多个项目的v1版本。他分享了项目开发流程和技巧，强调通过细化需求、快速初始化和迭代开发来保持动力，并建议读者尝试这些工具以提升项目完成效率。

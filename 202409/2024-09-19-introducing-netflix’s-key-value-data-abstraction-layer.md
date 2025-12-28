@@ -1,7 +1,6 @@
 # Introducing Netflix’s Key-Value Data Abstraction Layer
 - URL: https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30
 - Added At: 2024-09-19 14:59:51
-- [Link To Text](2024-09-19-introducing-netflix’s-key-value-data-abstraction-layer_raw.md)
 
 ## TL;DR
 Netflix开发了基于Data Gateway Platform的KV数据抽象服务，以简化数据访问、增强基础设施可靠性，并支持广泛的使用案例。该服务采用两级映射架构，提供高可用性、可调一致性和低延迟，抽象了底层数据库的复杂性，使应用工程师专注于业务问题。未来计划包括生命周期管理、摘要技术和新存储引擎的集成。

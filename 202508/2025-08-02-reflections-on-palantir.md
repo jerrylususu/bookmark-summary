@@ -1,7 +1,6 @@
 # Reflections on Palantir
 - URL: https://nabeelqu.substack.com/p/reflections-on-palantir
 - Added At: 2025-08-02 23:22:15
-- [Link To Text](2025-08-02-reflections-on-palantir_raw.md)
 
 ## TL;DR
 

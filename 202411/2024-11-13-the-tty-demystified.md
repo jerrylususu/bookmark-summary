@@ -1,7 +1,6 @@
 # The TTY demystified
 - URL: https://www.linusakesson.net/programming/tty/
 - Added At: 2024-11-13 14:38:07
-- [Link To Text](2024-11-13-the-tty-demystified_raw.md)
 
 ## TL;DR
 文章详细介绍了Linux和UNIX系统中的TTY子系统，包括其历史、使用场景、进程管理、信号处理、流控制和设备配置。通过解释TTY驱动、终端模拟、作业控制等概念，帮助开发者深入理解这一复杂系统。文章还提供了相关的手册页和glibc文档以供进一步学习。

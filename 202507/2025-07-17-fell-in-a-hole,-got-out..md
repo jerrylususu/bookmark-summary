@@ -1,7 +1,6 @@
 # Fell in a hole, got out.
 - URL: https://medium.com/the-coach-life/fell-in-a-hole-got-out-381356ec8d7f
 - Added At: 2025-07-17 14:24:26
-- [Link To Text](2025-07-17-fell-in-a-hole,-got-out._raw.md)
 
 ## TL;DR
 

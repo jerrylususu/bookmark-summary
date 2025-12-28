@@ -1,7 +1,6 @@
 # Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs
 - URL: https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs
 - Added At: 2025-04-14 13:30:53
-- [Link To Text](2025-04-14-stevens-a-hackable-ai-assistant-using-a-single-sqlite-table-and-a-handful-of-cron-jobs_raw.md)
 
 ## TL;DR
 

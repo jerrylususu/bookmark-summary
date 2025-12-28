@@ -1,7 +1,6 @@
 # Lessons on thinking from large language models
 - URL: https://www.seangoedecke.com/learning-from-how-llms-think/
 - Added At: 2025-02-15 11:47:56
-- [Link To Text](2025-02-15-lessons-on-thinking-from-large-language-models_raw.md)
 
 ## TL;DR
 大型语言模型（LLMs）在思考能力上有显著进步，强调实践胜于理论。LLMs易陷入“错误强化”，记录思维步骤和延迟思考可提高准确性。长期思考能力与原始智力同样重要，需通过实践和训练来提升。

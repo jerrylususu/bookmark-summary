@@ -1,7 +1,6 @@
 # Can You Get Root With Only a Cigarette Lighter? | Blog
 - URL: https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html
 - Added At: 2024-10-11 15:02:39
-- [Link To Text](2024-10-11-can-you-get-root-with-only-a-cigarette-lighter-blog_raw.md)
 
 ## TL;DR
 文章探讨了使用低成本工具如打火机进行硬件故障注入（EMFI）以获取Root权限的可能性，并通过实验验证了这一方法。作者成功利用打火机诱导内存错误，实现了CPython和Linux系统的漏洞利用，展示了其在游戏反作弊和Android设备安全检查绕过中的潜在应用。

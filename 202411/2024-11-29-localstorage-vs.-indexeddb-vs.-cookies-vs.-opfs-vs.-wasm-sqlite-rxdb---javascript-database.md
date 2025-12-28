@@ -1,7 +1,6 @@
 # LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite | RxDB - JavaScript Database
 - URL: https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html
 - Added At: 2024-11-29 14:27:44
-- [Link To Text](2024-11-29-localstorage-vs.-indexeddb-vs.-cookies-vs.-opfs-vs.-wasm-sqlite-rxdb---javascript-database_raw.md)
 
 ## TL;DR
 文章讨论了Web应用中数据存储的需求和技术演进，从早期的Cookies到现代的IndexedDB和OPFS，分析了各技术的功能、性能和限制，并展望了未来的改进方向。

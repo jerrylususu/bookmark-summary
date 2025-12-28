@@ -1,7 +1,6 @@
 # Don't feed me AI slop
 - URL: https://www.seangoedecke.com/dont-feed-me-slop/
 - Added At: 2025-08-24 04:23:32
-- [Link To Text](2025-08-24-don't-feed-me-ai-slop_raw.md)
 
 ## TL;DR
 

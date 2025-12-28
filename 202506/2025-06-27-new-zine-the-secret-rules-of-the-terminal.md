@@ -1,7 +1,6 @@
 # New zine: The Secret Rules of the Terminal
 - URL: https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/
 - Added At: 2025-06-27 15:15:12
-- [Link To Text](2025-06-27-new-zine-the-secret-rules-of-the-terminal_raw.md)
 
 ## TL;DR
 

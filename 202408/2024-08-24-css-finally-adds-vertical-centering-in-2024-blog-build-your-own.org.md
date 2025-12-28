@@ -1,7 +1,6 @@
 # CSS finally adds vertical centering in 2024 | Blog | build-your-own.org
 - URL: https://build-your-own.org/blog/20240813_css_vertical_center/
 - Added At: 2024-08-24 11:23:27
-- [Link To Text](2024-08-24-css-finally-adds-vertical-centering-in-2024-|-blog-|-build-your-own.org_raw.md)
 
 ## TL;DR
 2024年，CSS通过`align-content`属性实现默认布局中的垂直居中，支持Chrome、Firefox和Safari。新特性简化了垂直居中的实现，无需flexbox或grid布局。历史上有多种垂直居中方法，如表格单元格、绝对定位等。二维对齐涉及`align-content`、`justify-content`等属性，CSS轴术语解释了块轴和内联轴。CSS设计复杂，命名不佳，需额外努力掌握。

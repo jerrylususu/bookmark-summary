@@ -2,7 +2,6 @@
 - URL: https://lucumr.pocoo.org/2025/11/22/llm-apis/
 - Added At: 2025-11-23 10:46:21
 - Tags: #read #llm #distributed
-- [Link To Text](2025-11-23-llm-apis-are-a-synchronization-problem_raw.md)
 
 ## TL;DR
 文章指出当前LLM API设计存在底层状态与消息抽象不匹配的问题，导致同步困难和效率低下。建议借鉴本地优先软件的状态同步理念，将对话历史作为可增量同步的日志，而非全量传输，并倡导未来API转向明确状态管理的设计标准。

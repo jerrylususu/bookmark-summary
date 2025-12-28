@@ -1,7 +1,6 @@
 # CaMeL offers a promising new direction for mitigating prompt injection attacks
 - URL: https://simonwillison.net/2025/Apr/11/camel/
 - Added At: 2025-04-12 06:14:26
-- [Link To Text](2025-04-12-camel-offers-a-promising-new-direction-for-mitigating-prompt-injection-attacks_raw.md)
 
 ## TL;DR
 

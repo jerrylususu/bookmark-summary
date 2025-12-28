@@ -1,7 +1,6 @@
 # hermit-crab/ScrapeMate
 - URL: https://github.com/hermit-crab/ScrapeMate
 - Added At: 2024-11-08 14:33:40
-- [Link To Text](2024-11-08-hermit-crab-scrapemate_raw.md)
 
 ## TL;DR
 ScrapeMate是一款网页抓取助手工具，支持Chrome/Firefox扩展，提供元素选择器、预设编辑器等功能，计划增加嵌套选择器和实际提取功能。项目采用GPL-3.0许可证，主要使用JavaScript、CSS和Vue开发。

@@ -1,7 +1,6 @@
 # Learn Yjs by Jamsocket
 - URL: https://learn.yjs.dev/
 - Added At: 2025-01-25 22:20:53
-- [Link To Text](2025-01-25-learn-yjs-by-jamsocket_raw.md)
 
 ## TL;DR
 Learn Yjs 是一个交互式教程系列，专注于使用 Yjs CRDT 库构建实时协作应用。教程涵盖基础知识、分布式状态处理、CRDT 介绍及挑战解决方案，通过互动演示和代码练习帮助用户深入理解。项目由 Jamsocket 开发，使用 Astro 和 React 构建，支持实时同步和多用户互动。

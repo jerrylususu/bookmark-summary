@@ -1,7 +1,6 @@
 # Git experts should try Jujutsu · pksunkara
 - URL: https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/
 - Added At: 2025-07-10 16:11:13
-- [Link To Text](2025-07-10-git-experts-should-try-jujutsu-·-pksunkara_raw.md)
 
 ## TL;DR
 

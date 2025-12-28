@@ -1,7 +1,6 @@
 # Learnings after 4 years working with +50 companies on data engineering projects
 - URL: https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html
 - Added At: 2024-12-01 07:20:24
-- [Link To Text](2024-12-01-learnings-after-4-years-working-with-+50-companies-on-data-engineering-projects_raw.md)
 
 ## TL;DR
 作者在Tinybird工作4年，专注于实时数据工程，强调快速处理大量数据的重要性，并指出许多项目存在数据浪费和工具过度依赖的问题。他提出了数据一致性、摄取监控、质量监控等关键点，并强调硬件利用和端到端延迟的权衡。最后，他认为基本工具和硬件能力是数据工程的核心。

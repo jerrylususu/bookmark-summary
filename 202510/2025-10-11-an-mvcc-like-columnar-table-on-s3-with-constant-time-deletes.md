@@ -1,7 +1,6 @@
 # An MVCC-like columnar table on S3 with constant-time deletes
 - URL: https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/
 - Added At: 2025-10-11 14:11:41
-- [Link To Text](2025-10-11-an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes_raw.md)
 
 ## TL;DR
 本文提出了一种基于S3的MVCC列式表格式，通过不可变的数据和墓碑文件、CAS更新清单指针实现无协调的并发控制。适用于追加为主的场景，具有低写入成本，但需处理文件增长和墓碑压缩问题。

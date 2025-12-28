@@ -1,7 +1,6 @@
 # The Best Way to Use Text Embeddings Portably is With Parquet and Polars
 - URL: https://minimaxir.com/2025/02/embeddings-parquet/
 - Added At: 2025-02-25 13:50:39
-- [Link To Text](2025-02-25-the-best-way-to-use-text-embeddings-portably-is-with-parquet-and-polars_raw.md)
 
 ## TL;DR
 文章介绍了文本嵌入技术及其应用，重点讨论了如何在生成嵌入后高效存储和计算相似性。通过Magic卡牌嵌入示例，展示了使用numpy和Polars处理嵌入数据的快速方法。文章还探讨了不同存储方式的优缺点，推荐使用Parquet文件和Polars结合，提供了一种高效、易于使用的解决方案。

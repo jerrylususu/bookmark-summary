@@ -1,7 +1,6 @@
 # Jetstream: Shrinking the AT Proto Firehose by >99%
 - URL: https://jazco.dev/2024/09/24/jetstream/
 - Added At: 2024-11-20 14:05:18
-- [Link To Text](2024-11-20-jetstream-shrinking-the-at-proto-firehose-by-99%_raw.md)
 
 ## TL;DR
 Bluesky的AT Proto firehose流量因巴西禁令激增，导致基础设施压力增大。为解决此问题，开发了Jetstream，通过轻量级JSON转换和过滤，显著减少带宽和存储需求，使在廉价云基础设施上运行成为可能。

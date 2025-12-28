@@ -2,7 +2,6 @@
 - URL: https://fasterthanli.me/articles/making-our-own-spectrogram#the-gabor-limit
 - Added At: 2025-12-18 16:10:01
 - Tags: #read #rust #deepdive
-- [Link To Text](2025-12-18-making-our-own-spectrogram_raw.md)
 
 ## TL;DR
 这篇文章介绍了用Rust开发音频频谱图可视化工具的全过程，包括傅里叶变换理论、分块加窗处理、多线程架构设计，以及性能优化方案。文章通过实际代码和多种音乐频谱演示，实现了实时音频分析，并讨论了工程实践中的关键权衡。

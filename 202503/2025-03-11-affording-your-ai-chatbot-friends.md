@@ -1,7 +1,6 @@
 # Affording your AI chatbot friends
 - URL: https://xeiaso.net/talks/2025/ai-chatbot-friends/
 - Added At: 2025-03-11 14:36:25
-- [Link To Text](2025-03-11-affording-your-ai-chatbot-friends_raw.md)
 
 ## TL;DR
 本文探讨了AI聊天机器人成本与可控性的平衡策略。核心组件包括模型、推理引擎、代码及用户界面。云服务API虽便捷但存在高昂成本、隐私风险及供应商锁定问题；自托管虽可控但硬件和运维成本高。游牧计算通过多云资源灵活调配、轻量化模型及混合部署（如实例Mimi），结合输入管理、参数优化等实践，可在降低成本的同时保持控制力，关键在于分层管理数据与算力。

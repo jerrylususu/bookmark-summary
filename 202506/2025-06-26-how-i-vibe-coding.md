@@ -1,7 +1,6 @@
 # How I Vibe Coding?
 - URL: https://xuanwo.io/2025/03-how-i-vibe-coding/
 - Added At: 2025-06-26 14:45:27
-- [Link To Text](2025-06-26-how-i-vibe-coding_raw.md)
 
 ## TL;DR
 

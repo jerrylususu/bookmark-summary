@@ -1,7 +1,6 @@
 # DumPy: NumPy except it’s OK if you’re dum
 - URL: https://dynomight.net/dumpy/
 - Added At: 2025-05-23 14:52:49
-- [Link To Text](2025-05-23-dumpy-numpy-except-it’s-ok-if-you’re-dum_raw.md)
 
 ## TL;DR
 

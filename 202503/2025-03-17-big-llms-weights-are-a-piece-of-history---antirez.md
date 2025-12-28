@@ -1,7 +1,6 @@
 # Big LLMs weights are a piece of history - <antirez>
 - URL: https://antirez.com/news/147
 - Added At: 2025-03-17 14:18:22
-- [Link To Text](2025-03-17-big-llms-weights-are-a-piece-of-history---antirez_raw.md)
 
 ## TL;DR
 

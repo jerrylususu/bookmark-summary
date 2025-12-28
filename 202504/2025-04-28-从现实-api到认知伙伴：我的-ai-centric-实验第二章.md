@@ -1,7 +1,6 @@
 # 从现实 API到认知伙伴：我的 AI-Centric 实验第二章
 - URL: https://grapeot.me/life-api-part2.html
 - Added At: 2025-04-28 14:04:35
-- [Link To Text](2025-04-28-从现实-api到认知伙伴：我的-ai-centric-实验第二章_raw.md)
 
 ## TL;DR
 

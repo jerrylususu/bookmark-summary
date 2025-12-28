@@ -1,7 +1,6 @@
 # Petnames: A humane approach to secure, decentralized naming
 - URL: https://files.spritely.institute/papers/petnames.html
 - Added At: 2024-11-23 13:41:57
-- [Link To Text](2024-11-23-petnames-a-humane-approach-to-secure,-decentralized-naming_raw.md)
 
 ## TL;DR
 文章探讨了智能手机联系人列表中petnames系统的应用，用户通过分配本地化的有意义名称来管理联系人，系统自动更新和处理名称冲突，确保上下文相关性，提升用户体验。

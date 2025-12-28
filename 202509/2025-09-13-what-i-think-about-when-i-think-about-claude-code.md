@@ -1,7 +1,6 @@
 # What I think about when I think about Claude Code
 - URL: https://interconnected.org/home/2025/09/12/claude
 - Added At: 2025-09-13 09:39:10
-- [Link To Text](2025-09-13-what-i-think-about-when-i-think-about-claude-code_raw.md)
 
 ## TL;DR
 Claude Code通过终端交互和等待执行的方式，使编码过程更沉思化，需要用户清晰规划、定义问题，改变了传统编码节奏，并强调谨慎的权限控制与信任构建。

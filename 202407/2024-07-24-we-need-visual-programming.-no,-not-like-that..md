@@ -1,7 +1,6 @@
 # We need visual programming. No, not like that.
 - URL: https://blog.sbensu.com/posts/demand-for-visual-programming/
 - Added At: 2024-07-24 14:41:08
-- [Link To Text](2024-07-24-we-need-visual-programming.-no,-not-like-that._raw.md)
 
 ## TL;DR
 可视化编程应关注开发者实际需求，如代码库、网络拓扑、内存布局、状态机和请求/响应协议的可视化，而非替代代码语法和业务逻辑。现有工具如Sourcetrail、AWS服务拓扑图等已展示其价值，但仍需更多发展以满足开发者需求。

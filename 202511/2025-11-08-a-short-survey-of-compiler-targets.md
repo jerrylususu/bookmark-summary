@@ -2,7 +2,6 @@
 - URL: https://abhinavsarkar.net/notes/2025-compiler-backend-survey/
 - Added At: 2025-11-08 09:03:43
 - Tags: #read #compiler
-- [Link To Text](2025-11-08-a-short-survey-of-compiler-targets_raw.md)
 
 ## TL;DR
 本文概述了编译器后端的多种目标选项，包括机器码、中间表示、高级语言转译、虚拟机字节码、WebAssembly等，并分析其优缺点。选择时需根据性能、可移植性和开发复杂度进行权衡。

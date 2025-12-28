@@ -1,7 +1,6 @@
 # Mapping the landscape of gen-AI product user experience
 - URL: https://interconnected.org/home/2024/07/19/ai-landscape
 - Added At: 2024-07-20 14:04:19
-- [Link To Text](2024-07-20-mapping-the-landscape-of-gen-ai-product-user-experience_raw.md)
 
 ## TL;DR
 文章讨论了生成式AI产品的多样性和设计模式，从第一代AI产品地图到当前用户体验地图，涵盖了工具、副驾驶、代理和聊天等多种用户体验分类。文章还指出了用户体验的挑战，并介绍了地图的应用和局限性。

@@ -1,7 +1,6 @@
 # PyMyFlySpy: track your flight using its headrest data | Robert Heaton
 - URL: https://robertheaton.com/pymyflyspy/
 - Added At: 2024-12-06 14:46:18
-- [Link To Text](2024-12-06-pymyflyspy-track-your-flight-using-its-headrest-data-robert-heaton_raw.md)
 
 ## TL;DR
 作者为满足儿子在飞机上询问飞行位置的需求，开发了PyMyFlySpy应用，通过分析机上Wi-Fi数据端点，实时计算并显示飞行路径和指标，支持多航空公司和自定义解析器，未来计划增加事件订阅功能。

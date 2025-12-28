@@ -2,7 +2,6 @@
 - URL: https://questdb.com/blog/async-profiler-kernel-bug/
 - Added At: 2025-12-16 13:54:28
 - Tags: #read #kernel #deepdive
-- [Link To Text](2025-12-16-how-a-kernel-bug-froze-my-machine-debugging-an-async-profiler-deadlock-questdb_raw.md)
 
 ## TL;DR
 作者在使用 async-profiler 时遭遇一个由 Linux 内核 6.17 引入的 bug，导致系统死锁。该问题在于 cpu-clock 事件处理中的 hrtimer 回调陷入循环等待。解决方案是内核补丁将 hrtimer_cancel 改为非阻塞调用并引入延迟停止标志，临时规避方法是使用 -e ctimer 选项。作者通过 QEMU 和 GDB 成功调试并定位问题。

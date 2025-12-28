@@ -1,7 +1,6 @@
 # Announcing Toad - a universal UI for agentic coding in the terminal
 - URL: http://willmcgugan.github.io/announcing-toad/
 - Added At: 2025-07-24 15:06:49
-- [Link To Text](2025-07-24-announcing-toad---a-universal-ui-for-agentic-coding-in-the-terminal_raw.md)
 
 ## TL;DR
 

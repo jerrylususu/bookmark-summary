@@ -1,7 +1,6 @@
 # Liquid Glass in the Browser: Refraction with CSS and SVG — kube.io
 - URL: https://kube.io/blog/liquid-glass-css-svg
 - Added At: 2025-09-13 10:04:00
-- [Link To Text](2025-09-13-liquid-glass-in-the-browser-refraction-with-css-and-svg-—-kube.io_raw.md)
 
 ## TL;DR
 本文介绍使用CSS和SVG模拟苹果Liquid Glass折射效果，涵盖折射原理、玻璃表面建模、SVG位移图实现与高光效果，但需注意该方案仅限于Chrome环境，性能开销较大。

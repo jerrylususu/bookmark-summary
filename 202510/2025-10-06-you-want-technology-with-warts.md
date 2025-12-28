@@ -1,7 +1,6 @@
 # You Want Technology With Warts
 - URL: https://entropicthoughts.com/you-want-technology-with-warts
 - Added At: 2025-10-06 06:47:44
-- [Link To Text](2025-10-06-you-want-technology-with-warts_raw.md)
 
 ## TL;DR
 文章主张选择带有已知“缺陷”的技术（如SQLite、HTML）可带来长期稳定性和低维护成本，因为“缺陷”代表成熟与兼容性，是减少未来变更风险的关键。

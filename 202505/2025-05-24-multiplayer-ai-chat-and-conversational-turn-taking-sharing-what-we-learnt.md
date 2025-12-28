@@ -1,7 +1,6 @@
 # Multiplayer AI chat and conversational turn-taking: sharing what we learnt
 - URL: https://interconnected.org/home/2025/05/23/turntaking
 - Added At: 2025-05-24 09:58:26
-- [Link To Text](2025-05-24-multiplayer-ai-chat-and-conversational-turn-taking-sharing-what-we-learnt_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # HTTP is not simple
 - URL: https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/
 - Added At: 2025-08-09 06:42:10
-- [Link To Text](2025-08-09-http-is-not-simple_raw.md)
 
 ## TL;DR
 

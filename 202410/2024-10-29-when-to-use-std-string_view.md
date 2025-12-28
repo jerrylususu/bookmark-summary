@@ -1,7 +1,6 @@
 # When to use std::string_view
 - URL: https://learnmoderncpp.com/2024/10/29/when-to-use-stdstring_view/
 - Added At: 2024-10-29 14:20:02
-- [Link To Text](2024-10-29-when-to-use-std-string_view_raw.md)
 
 ## TL;DR
 `std::string_view` 是C++17引入的轻量级字符串视图类，适用于廉价传递多种字符串类型。它通过指针和长度实现，支持多种创建方式，但需注意其数据不保证以空字节结尾。在性能上，`std::string_view` 适用于参数类型多样的情况，而在参数多为 `std::string` 左值时，`const std::string&` 更优。

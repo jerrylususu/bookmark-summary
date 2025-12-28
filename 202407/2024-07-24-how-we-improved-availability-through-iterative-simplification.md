@@ -1,7 +1,6 @@
 # How we improved availability through iterative simplification
 - URL: https://github.blog/engineering/engineering-principles/how-we-improved-availability-through-iterative-simplification/
 - Added At: 2024-07-24 14:39:10
-- [Link To Text](2024-07-24-how-we-improved-availability-through-iterative-simplification_raw.md)
 
 ## TL;DR
 文章讨论了GitHub如何通过使用Datadog、Splunk等工具和自定义监控器来提高系统可用性和性能，特别是在优化数据库查询和移除未使用代码方面取得了显著成效。强调了投资于可观察性和逐步变更的重要性，以及持续监控对于预防性能问题恶化的关键作用。

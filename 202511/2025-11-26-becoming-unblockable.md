@@ -2,7 +2,6 @@
 - URL: https://www.seangoedecke.com/unblockable/#fnref-1
 - Added At: 2025-11-26 12:26:37
 - Tags: #read #career
-- [Link To Text](2025-11-26-becoming-unblockable_raw.md)
 
 ## TL;DR
 文章提出六项核心策略帮助职场人减少受阻：多任务并行、提前规划关键环节、优化开发工具、主动跨领域调试、建立人际关系网和高层协作。这些方法能显著提升工作效率和问题解决能力。

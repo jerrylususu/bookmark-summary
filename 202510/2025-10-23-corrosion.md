@@ -1,7 +1,6 @@
 # Corrosion
 - URL: https://fly.io/blog/corrosion/
 - Added At: 2025-10-23 15:03:30
-- [Link To Text](2025-10-23-corrosion_raw.md)
 
 ## TL;DR
 Fly.io为解决全球分布式平台状态同步问题，构建了去中心化服务发现系统Corrosion。它采用gossip协议和SQLite数据库变更传播，放弃传统分布式共识以提升性能，尽管遇到了故障并经过多次优化，现已成为一个高效可扩展的开源解决方案。

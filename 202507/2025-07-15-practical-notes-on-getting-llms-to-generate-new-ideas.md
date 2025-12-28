@@ -1,7 +1,6 @@
 # Practical notes on getting LLMs to generate new ideas
 - URL: https://www.seangoedecke.com/idea-mill/
 - Added At: 2025-07-15 14:31:24
-- [Link To Text](2025-07-15-practical-notes-on-getting-llms-to-generate-new-ideas_raw.md)
 
 ## TL;DR
 

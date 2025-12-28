@@ -1,7 +1,6 @@
 # Why are big tech companies so slow?
 - URL: https://www.seangoedecke.com/difficulty-in-big-tech/
 - Added At: 2025-01-24 13:08:39
-- [Link To Text](2025-01-24-why-are-big-tech-companies-so-slow_raw.md)
 
 ## TL;DR
 大公司开发速度慢的主要原因是功能数量庞大且复杂，新功能与现有功能的交互增加了开发难度。尽管减少功能可能简化开发，但大公司依赖功能驱动收入，因此更关注边际功能的开发。复杂性导致认知负担增加，开发速度变慢，但大公司仍愿意为高薪支付以捕获边际价值。

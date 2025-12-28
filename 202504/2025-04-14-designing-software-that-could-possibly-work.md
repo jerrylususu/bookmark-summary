@@ -1,7 +1,6 @@
 # Designing software that could possibly work
 - URL: https://www.seangoedecke.com/planning-software/
 - Added At: 2025-04-14 13:41:53
-- [Link To Text](2025-04-14-designing-software-that-could-possibly-work_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # 程序员延寿计算器 | Programmer Longevity Calculator
 - URL: https://buff.meiyongxia.com/
 - Added At: 2025-07-18 13:00:27
-- [Link To Text](2025-07-18-程序员延寿计算器-programmer-longevity-calculator_raw.md)
 
 ## TL;DR
 

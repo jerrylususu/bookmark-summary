@@ -1,7 +1,6 @@
 # Using `make` to compile C programs (for non-C-programmers)
 - URL: https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/
 - Added At: 2025-06-11 14:32:58
-- [Link To Text](2025-06-11-using-`make`-to-compile-c-programs-(for-non-c-programmers)_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # Software engineering practices
 - URL: https://simonwillison.net/2022/Oct/1/software-engineering-practices/
 - Added At: 2024-08-21 15:04:46
-- [Link To Text](2024-08-21-software-engineering-practices_raw.md)
 
 ## TL;DR
 文章讨论了软件工程实践中的一些推荐做法，包括代码与文档同库、创建测试数据的机制、可靠的数据库迁移、新项目和组件的模板、自动化代码格式化、新开发环境的测试自动化流程以及自动化预览环境。这些实践旨在提高生产力和审查质量，虽然需要前期投资，但长远来看将带来多次回报。

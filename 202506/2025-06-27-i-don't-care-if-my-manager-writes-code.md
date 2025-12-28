@@ -1,7 +1,6 @@
 # I don't care if my manager writes code
 - URL: https://www.seangoedecke.com/technical-engineering-managers/
 - Added At: 2025-06-27 15:20:29
-- [Link To Text](2025-06-27-i-don't-care-if-my-manager-writes-code_raw.md)
 
 ## TL;DR
 

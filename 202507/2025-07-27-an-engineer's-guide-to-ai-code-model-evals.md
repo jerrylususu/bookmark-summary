@@ -1,7 +1,6 @@
 # An Engineer's Guide to AI Code Model Evals
 - URL: https://addyosmani.com/blog/ai-evals/
 - Added At: 2025-07-27 15:29:49
-- [Link To Text](2025-07-27-an-engineer's-guide-to-ai-code-model-evals_raw.md)
 
 ## TL;DR
 

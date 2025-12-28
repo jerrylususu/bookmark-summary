@@ -1,7 +1,6 @@
 # The EU can be shut down with a few keystrokes
 - URL: https://www.bitecode.dev/p/the-eu-can-be-shut-down-with-a-few
 - Added At: 2025-07-19 08:47:19
-- [Link To Text](2025-07-19-the-eu-can-be-shut-down-with-a-few-keystrokes_raw.md)
 
 ## TL;DR
 

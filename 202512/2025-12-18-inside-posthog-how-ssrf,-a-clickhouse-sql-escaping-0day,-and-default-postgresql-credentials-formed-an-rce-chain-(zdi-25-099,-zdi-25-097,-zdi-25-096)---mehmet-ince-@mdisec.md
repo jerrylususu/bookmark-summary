@@ -2,7 +2,6 @@
 - URL: https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/
 - Added At: 2025-12-18 15:38:50
 - Tags: #read #deepdive #security
-- [Link To Text](2025-12-18-inside-posthog-how-ssrf,-a-clickhouse-sql-escaping-0day,-and-default-postgresql-credentials-formed-an-rce-chain-(zdi-25-099,-zdi-25-097,-zdi-25-096)---mehmet-ince-@mdisec_raw.md)
 
 ## TL;DR
 本文披露PostHog平台中存在一条组合漏殻链，利用SSRF、ClickHouse SQL注入0day与PostgreSQL默认凭证，实现远程代码执行。攻击可绕过前端验证，将Webhook重定向至内部服务并执行任意命令。漏洞已通过ZDI协调披露，凸显了系统纵深防御的多重失效。

@@ -2,7 +2,6 @@
 - URL: https://ngrok.com/blog/prompt-caching/
 - Added At: 2025-12-20 11:06:23
 - Tags: #read #llm #explainer
-- [Link To Text](2025-12-20-prompt-caching-10x-cheaper-llm-tokens,-but-how-ngrok-blog_raw.md)
 
 ## TL;DR
 文章介绍了提示缓存如何通过复用语言模型的K和V矩阵，避免重复计算输入令牌，从而降低成本90%并减少延迟。OpenAI和Anthropic的缓存策略不同，但均显著提升效率，适用于长提示场景。

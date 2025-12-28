@@ -1,7 +1,6 @@
 # Hybrid full-text search and vector search with SQLite
 - URL: https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html
 - Added At: 2024-10-05 02:11:16
-- [Link To Text](2024-10-05-hybrid-full-text-search-and-vector-search-with-sqlite_raw.md)
 
 ## TL;DR
 文章讨论了全文搜索与向量搜索的结合，通过`sqlite-vec`扩展在SQLite中实现混合搜索。全文搜索和语义搜索各有优劣，结合使用能提高搜索效果。文章还提供了构建和查询示例，并探讨了不同混合搜索方法的应用场景和未来改进方向。

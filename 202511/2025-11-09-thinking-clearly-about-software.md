@@ -2,7 +2,6 @@
 - URL: https://www.seangoedecke.com/thinking-clearly/
 - Added At: 2025-11-09 07:58:57
 - Tags: #read
-- [Link To Text](2025-11-09-thinking-clearly-about-software_raw.md)
 
 ## TL;DR
 软件工程中，清晰思考比试错更高效：它能提升沟通、促进学习、识别难点。关键在于放慢节奏、预测结果并把握系统规则，最终深化专业影响力，而非仅完成任务。

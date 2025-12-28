@@ -1,7 +1,6 @@
 # Making AI Work: Leadership, Lab, and Crowd
 - URL: https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and
 - Added At: 2025-05-22 14:07:11
-- [Link To Text](2025-05-22-making-ai-work-leadership,-lab,-and-crowd_raw.md)
 
 ## TL;DR
 

@@ -2,7 +2,6 @@
 - URL: https://simonwillison.net/2025/Dec/15/porting-justhtml/
 - Added At: 2025-12-16 13:18:24
 - Tags: #read #llm
-- [Link To Text](2025-12-16-i-ported-justhtml-from-python-to-javascript-with-codex-cli-and-gpt-5.2-in-4.5-hours_raw.md)
 
 ## TL;DR
 作者使用GPT-5.2在4.5小时内将Python库JustHTML移植为JavaScript版本，成果包含9000行代码并通过9200项测试。项目利用AI自动编写和测试代码，费用极低，凸显了AI在代码移植中的高效性，但也引发了关于伦理、版权与生成代码质量的争议。

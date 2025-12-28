@@ -1,7 +1,6 @@
 # Things You Should Never Do, Part I
 - URL: https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
 - Added At: 2024-09-04 15:28:52
-- [Link To Text](2024-09-04-things-you-should-never-do,-part-i_raw.md)
 
 ## TL;DR
 Netscape 6.0的发布因长时间未更新和重写代码策略受到批评，指出这是战略错误。重写代码导致知识丢失、市场领导地位丧失和资金浪费。文章强调代码的实际价值和重写的无理由性，提出逐步重构和部分优化的替代方案，并强调成人监督在避免此类错误中的重要性。

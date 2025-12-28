@@ -1,7 +1,6 @@
 # Headline driven development - Slava Akhmechet
 - URL: https://www.spakhm.com/headline-development
 - Added At: 2025-02-01 00:21:06
-- [Link To Text](2025-02-01-headline-driven-development---slava-akhmechet_raw.md)
 
 ## TL;DR
 标题驱动开发是一种通过将项目分解为一系列简短标题并逐个完成的软件开发流程。它强调专注单一任务、设定激进截止日期和最小化工作量，从而提高沟通效率和优先级管理能力，快速推进项目进展。

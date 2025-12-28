@@ -1,7 +1,6 @@
 # The Art of Finishing | ByteDrum
 - URL: https://www.bytedrum.com/posts/art-of-finishing/
 - Added At: 2024-09-05 14:23:49
-- [Link To Text](2024-09-05-the-art-of-finishing-|-bytedrum_raw.md)
 
 ## TL;DR
 文章探讨了编程者在面对多个未完成项目时的困境，提出了“项目海德拉效应”，并分析了未完成项目的诱惑和代价。通过定义“完成”、接受MVP、时间框定项目等策略，作者建议驯服项目海德拉，强调完成项目的重要性，并鼓励编程者改变习惯，增强“完成”能力。

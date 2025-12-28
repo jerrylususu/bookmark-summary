@@ -161,7 +161,7 @@
   - Tags: #read #llm #guide
 
 - (2025-12-08) [Adding unpack syntax to RCL](2025-12-08-adding-unpack-syntax-to-rcl.md)
-  - RCL v0.11.0引入解包功能，通过（列表/集合）和（字典）语法简化数据结构拼接。设计解决了推导冗长与联合运算符格式化问题，在保持简洁性的同时明确了集合与字典的语义差异，提升了代码可读性。
+  - RCL v0.11.0引入解包功能，通过`..`（列表/集合）和`...`（字典）语法简化数据结构拼接。设计解决了推导冗长与联合运算符格式化问题，在保持简洁性的同时明确了集合与字典的语义差异，提升了代码可读性。
   - Tags: #read #language #design
 
 - (2025-12-08) [576 - Using LLMs at Oxide / RFD / Oxide](2025-12-08-576---using-llms-at-oxide-rfd-oxide.md)
@@ -189,11 +189,11 @@
   - Tags: #read
 
 - (2025-12-06) [Writing a good CLAUDE.md](2025-12-06-writing-a-good-claude.md.md)
-  - 本文介绍了文件作为代码代理初始上下文的核心作用，强调通过定义项目的目标、技术栈和工作流程来引导代理。关键优化策略包括保持指令简洁（优先普适性、控制文件长度）、拆分任务特定内容、明确工具分工，以及手工精心设计内容，以平衡信息量和上下文效率，最大化代理效能。
+  - 本文介绍了`CLAUDE.md`文件作为代码代理初始上下文的核心作用，强调通过定义项目的目标、技术栈和工作流程来引导代理。关键优化策略包括保持指令简洁（优先普适性、控制文件长度）、拆分任务特定内容、明确工具分工，以及手工精心设计内容，以平衡信息量和上下文效率，最大化代理效能。
   - Tags: #read #llm
 
 - (2025-12-06) [A first look at Django's new background tasks](2025-12-06-a-first-look-at-django%27s-new-background-tasks.md)
-  - Django 6.0 推出内置任务框架 ，提供统一 API 标准，便于集成多种后端。支持异步任务定义与排队，但功能精简，缺少重试、编排等高级特性，适用于简单场景，复杂需求仍需 Celery 等工具。
+  - Django 6.0 推出内置任务框架 `django.tasks`，提供统一 API 标准，便于集成多种后端。支持异步任务定义与排队，但功能精简，缺少重试、编排等高级特性，适用于简单场景，复杂需求仍需 Celery 等工具。
   - Tags: #read #python
 
 - (2025-12-06) [Thoughts on Go vs. Rust vs. Zig](2025-12-06-thoughts-on-go-vs.-rust-vs.-zig.md)
@@ -233,7 +233,7 @@
   - Tags: #read #llm #eval #deepdive
 
 - (2025-12-03) [Dependency groups and uv run](2025-12-03-dependency-groups-and-uv-run.md)
-  - 本文介绍了一种基于uv工具的新型Python开发模式，利用PEP 735依赖组简化项目流程。核心是使用创建库项目，通过添加dev依赖组，运行自动处理环境和测试。模式无需手动管理虚拟环境，便于协作与打包，提升开发效率。
+  - 本文介绍了一种基于uv工具的新型Python开发模式，利用PEP 735依赖组简化项目流程。核心是使用`uv init`创建库项目，通过`uv add`添加dev依赖组，运行`uv run pytest`自动处理环境和测试。模式无需手动管理虚拟环境，便于协作与打包，提升开发效率。
   - Tags: #read #tips
 
 - (2025-12-03) [Vibe Coding: Empowering and Imprisoning - Anil Dash](2025-12-03-vibe-coding-empowering-and-imprisoning---anil-dash.md)

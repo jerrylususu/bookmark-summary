@@ -1,7 +1,6 @@
 # Wheel Reinventor's Principles // Tobias Løfgren
 - URL: https://tobloef.com/blog/wheel-reinventors-principles/
 - Added At: 2025-03-28 16:04:20
-- [Link To Text](2025-03-28-wheel-reinventor's-principles-tobias-løfgren_raw.md)
 
 ## TL;DR
 

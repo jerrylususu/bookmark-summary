@@ -1,7 +1,6 @@
 # LLMs: harmful to technical innovation?
 - URL: https://evanhahn.com/llms-and-technical-innovation/
 - Added At: 2025-02-04 07:25:09
-- [Link To Text](2025-02-04-llms-harmful-to-technical-innovation_raw.md)
 
 ## TL;DR
 LLMs因训练数据不足可能阻碍新兴技术的发展，尤其在资源和开发速度方面。然而，LLMs在其他领域仍可能推动技术进步。编程语言的选择和AI工具的支持也影响技术创新的方向。

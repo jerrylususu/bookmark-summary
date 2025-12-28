@@ -2,7 +2,6 @@
 - URL: https://www.bitecode.dev/p/justified
 - Added At: 2025-12-15 13:38:29
 - Tags: #read
-- [Link To Text](2025-12-15-justified_raw.md)
 
 ## TL;DR
 任务运行器“just”通过.justfile定义项目命令，实现跨平台任务自动化。支持变量、平台适配等高级功能，简化开发流程，是轻量高效的标准化工具。

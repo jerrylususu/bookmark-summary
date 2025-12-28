@@ -1,7 +1,6 @@
 # Git turns 20: A Q&A with Linus Torvalds
 - URL: https://github.blog/open-source/git/git-turns-20-a-qa-with-linus-torvalds/
 - Added At: 2025-04-08 14:48:46
-- [Link To Text](2025-04-08-git-turns-20-a-q&a-with-linus-torvalds_raw.md)
 
 ## TL;DR
 

@@ -2,7 +2,6 @@
 - URL: https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/
 - Added At: 2025-12-03 14:45:39
 - Tags: #read
-- [Link To Text](2025-12-03-“the-local-first-rebellion”-how-home-assistant-became-the-most-important-project-in-your-house_raw.md)
 
 ## TL;DR
 Home Assistant是开源家庭自动化平台，坚持本地化设计，保障用户隐私和离线使用。支持3000多品牌设备集成，社区驱动开发，避免云服务依赖。未来致力于结合本地AI实现更自主的智能家居体验。

@@ -1,7 +1,6 @@
 # What have we learned about building agentic AI tools?
 - URL: https://www.seangoedecke.com/ideas-in-agentic-ai-tooling/
 - Added At: 2025-10-19 13:17:01
-- [Link To Text](2025-10-19-what-have-we-learned-about-building-agentic-ai-tools_raw.md)
 
 ## TL;DR
 智能体化编程工具在2025年成熟，得益于模型和框架的优化。关键设计包括：先规划后行动、嵌套规则定制、支持插件和用户中断引导。未来将面临新设计和无监督智能体流程的挑战。

@@ -1,7 +1,6 @@
 # What is good software architecture?
 - URL: https://newsletter.pragmaticengineer.com/p/what-is-good-software-architecture
 - Added At: 2025-10-22 13:01:01
-- [Link To Text](2025-10-22-what-is-good-software-architecture_raw.md)
 
 ## TL;DR
 优秀软件架构的核心不在于专职角色或完美设计，而是实践中的权衡与协作。架构应聚焦现实问题，平衡当下与未来，注重团队共识而非纯粹技术最优解。通过原型测试和风险规划逐步改进，避免脱离实际的空想。

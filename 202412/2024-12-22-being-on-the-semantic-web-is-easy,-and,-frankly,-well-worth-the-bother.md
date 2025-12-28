@@ -1,7 +1,6 @@
 # Being on The Semantic Web is easy, and, frankly, well worth the bother
 - URL: https://csvbase.com/blog/13
 - Added At: 2024-12-22 07:18:11
-- [Link To Text](2024-12-22-being-on-the-semantic-web-is-easy,-and,-frankly,-well-worth-the-bother_raw.md)
 
 ## TL;DR
 文章探讨了Web 3.0的真正含义，指出语义网是旧的Web 3.0，现已广泛应用。通过JSON-LD格式嵌入元数据，语义网能提升社交媒体预览、搜索引擎优化和自动化工具处理能力。尽管普及低调，语义网已成为现代网络的重要组成部分，未来有望进一步推广。

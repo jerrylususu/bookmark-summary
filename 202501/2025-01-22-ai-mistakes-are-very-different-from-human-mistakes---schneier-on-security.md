@@ -1,7 +1,6 @@
 # AI Mistakes Are Very Different from Human Mistakes - Schneier on Security
 - URL: https://www.schneier.com/blog/archives/2025/01/ai-mistakes-are-very-different-from-human-mistakes.html
 - Added At: 2025-01-22 13:39:12
-- [Link To Text](2025-01-22-ai-mistakes-are-very-different-from-human-mistakes---schneier-on-security_raw.md)
 
 ## TL;DR
 AI错误与人类错误有显著差异，表现为随机性和怪异性，且不伴随无知。应对AI错误需要新的安全系统和研究方向，如使AI错误更接近人类错误或建立专门的错误纠正系统。理解AI错误的相似性和差异性有助于更好地设计和应用AI系统。

@@ -1,7 +1,6 @@
 # Questionable Advice: “How can I sniff out bad managers while interviewing for a job?”
 - URL: https://charity.wtf/2021/02/19/questionable-advice-how-can-i-sniff-out-bad-managers-while-interviewing-for-a-job/
 - Added At: 2025-06-20 13:40:57
-- [Link To Text](2025-06-20-questionable-advice-“how-can-i-sniff-out-bad-managers-while-interviewing-for-a-job-”_raw.md)
 
 ## TL;DR
 

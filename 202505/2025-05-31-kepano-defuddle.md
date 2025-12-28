@@ -1,7 +1,6 @@
 # kepano/defuddle
 - URL: https://github.com/kepano/defuddle
 - Added At: 2025-05-31 11:10:20
-- [Link To Text](2025-05-31-kepano-defuddle_raw.md)
 
 ## TL;DR
 

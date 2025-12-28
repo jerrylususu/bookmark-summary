@@ -2,7 +2,6 @@
 - URL: https://simonwillison.net/2025/Dec/14/justhtml/
 - Added At: 2025-12-15 13:46:21
 - Tags: #read #llm
-- [Link To Text](2025-12-15-justhtml-is-a-fascinating-example-of-vibe-engineering-in-action_raw.md)
 
 ## TL;DR
 Emil利用AI工具开发的JustHTML库实现了纯Python的高质量HTML解析器，展示了“氛围工程”理念：程序员专注架构设计与测试验证，AI承担编码实现，提升开发效率与代码可靠性。

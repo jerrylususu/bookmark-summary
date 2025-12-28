@@ -1,7 +1,6 @@
 # Is chain-of-thought AI reasoning a mirage?
 - URL: https://www.seangoedecke.com/real-reasoning/
 - Added At: 2025-08-13 14:09:50
-- [Link To Text](2025-08-13-is-chain-of-thought-ai-reasoning-a-mirage_raw.md)
 
 ## TL;DR
 

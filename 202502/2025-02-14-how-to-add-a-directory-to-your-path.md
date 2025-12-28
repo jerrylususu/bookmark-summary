@@ -1,7 +1,6 @@
 # How to add a directory to your PATH
 - URL: https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/
 - Added At: 2025-02-14 12:55:44
-- [Link To Text](2025-02-14-how-to-add-a-directory-to-your-path_raw.md)
 
 ## TL;DR
 文章详细介绍了如何将目录添加到系统的PATH环境变量中，涵盖了不同shell（如bash、zsh、fish）的配置文件处理方法，并提供了常见问题的解决方案和注意事项。

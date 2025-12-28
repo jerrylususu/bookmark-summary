@@ -1,7 +1,6 @@
 # Who Needs GPS? The Forgotten Story of Etak's Amazing 1985 Car Navigation System
 - URL: https://www.fastcompany.com/3047828/who-needs-gps-the-forgotten-story-of-etaks-amazing-1985-car-navigation-system
 - Added At: 2025-04-04 08:13:19
-- [Link To Text](2025-04-04-who-needs-gps-the-forgotten-story-of-etak's-amazing-1985-car-navigation-system_raw.md)
 
 ## TL;DR
 

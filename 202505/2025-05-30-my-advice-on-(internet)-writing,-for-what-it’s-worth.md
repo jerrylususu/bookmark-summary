@@ -1,7 +1,6 @@
 # My advice on (internet) writing, for what it’s worth
 - URL: https://dynomight.net/writing-advice/
 - Added At: 2025-05-30 14:04:49
-- [Link To Text](2025-05-30-my-advice-on-(internet)-writing,-for-what-it’s-worth_raw.md)
 
 ## TL;DR
 

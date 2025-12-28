@@ -1,7 +1,6 @@
 # Every webpage deserves to be a place
 - URL: https://interconnected.org/home/2024/09/05/cursor-party
 - Added At: 2024-09-06 13:20:13
-- [Link To Text](2024-09-06-every-webpage-deserves-to-be-a-place_raw.md)
 
 ## TL;DR
 作者在其博客上添加了“光标派对”功能，通过多人光标、光标聊天和实时共享文本高亮，增强了网页的互动性和阅读体验。该功能由PartyKit构建，开源且易于集成，旨在让网页体验更加自然和互动。

@@ -1,7 +1,6 @@
 # 'Make invalid states unrepresentable' considered harmful
 - URL: https://www.seangoedecke.com/invalid-states/
 - Added At: 2025-09-08 13:58:47
-- [Link To Text](2025-09-08-'make-invalid-states-unrepresentable'-considered-harmful_raw.md)
 
 ## TL;DR
 本文批判了“使无效状态无法表示”的过度应用，指出过度约束会限制系统灵活性。主张状态机、外键和协议缓冲区设计应保留一定弹性，允许处理异常与变更，以平衡严谨性与业务适应能力。

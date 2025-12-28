@@ -1,7 +1,6 @@
 # Vibe Coding for Product Managers: Stop Writing, Start Building
 - URL: https://nmn.gl/blog/vibe-coding-pm
 - Added At: 2025-07-31 13:57:09
-- [Link To Text](2025-07-31-vibe-coding-for-product-managers-stop-writing,-start-building_raw.md)
 
 ## TL;DR
 

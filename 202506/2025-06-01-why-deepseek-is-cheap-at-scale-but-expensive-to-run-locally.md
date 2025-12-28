@@ -1,7 +1,6 @@
 # Why DeepSeek is cheap at scale but expensive to run locally
 - URL: https://www.seangoedecke.com/inference-batching-and-deepseek/
 - Added At: 2025-06-01 04:16:47
-- [Link To Text](2025-06-01-why-deepseek-is-cheap-at-scale-but-expensive-to-run-locally_raw.md)
 
 ## TL;DR
 

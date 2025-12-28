@@ -1,7 +1,6 @@
 #  What I've learned about writing AI apps so far | Seldo.com
 - URL: https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far
 - Added At: 2025-01-21 13:39:00
-- [Link To Text](2025-01-21-what-i've-learned-about-writing-ai-apps-so-far-seldo.com_raw.md)
 
 ## TL;DR
 作者分享了基于大语言模型（LLM）开发AI应用的经验，强调LLM本质上是高级的文本压缩工具，擅长将大量文本转化为简洁内容，但在生成长文本或复杂任务时表现有限。开发者应明确LLM的局限性，优先使用常规编程，避免过度依赖其能力。LLM无法替代人类工作，合理设计应用场景是关键。

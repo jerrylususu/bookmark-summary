@@ -1,7 +1,6 @@
 # Arguing point-by-point considered harmful
 - URL: https://www.seangoedecke.com/point-by-point-considered-harmful/
 - Added At: 2025-06-07 05:20:28
-- [Link To Text](2025-06-07-arguing-point-by-point-considered-harmful_raw.md)
 
 ## TL;DR
 

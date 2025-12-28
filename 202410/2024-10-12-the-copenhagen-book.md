@@ -1,7 +1,6 @@
 # The Copenhagen Book
 - URL: https://thecopenhagenbook.com/
 - Added At: 2024-10-12 15:51:41
-- [Link To Text](2024-10-12-the-copenhagen-book_raw.md)
 
 ## TL;DR
 《The Copenhagen Book》是一本关于Web应用认证的开源指南，涵盖服务器端令牌、会话管理、密码认证、OAuth等多方面内容，建议与OWASP Cheat Sheet结合使用，支持社区反馈和捐赠。

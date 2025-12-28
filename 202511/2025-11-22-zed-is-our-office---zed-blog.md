@@ -2,7 +2,6 @@
 - URL: https://zed.dev/blog/zed-is-our-office
 - Added At: 2025-11-22 08:03:34
 - Tags: #read
-- [Link To Text](2025-11-22-zed-is-our-office---zed-blog_raw.md)
 
 ## TL;DR
 Zed编辑器内置团队协作功能，以频道系统为核心，支持多人实时编辑、屏幕共享及角色管理，适用于会议记录、项目协作等场景。目前处于免费alpha阶段，旨在打造无缝协作的软件开发工具。

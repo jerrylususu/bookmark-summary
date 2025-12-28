@@ -1,7 +1,6 @@
 # Living dangerously with Claude
 - URL: https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/
 - Added At: 2025-10-23 05:19:03
-- [Link To Text](2025-10-23-living-dangerously-with-claude_raw.md)
 
 ## TL;DR
 YOLO模式让AI编码代理在无人监督下高效完成复杂任务，但存在数据泄露风险。关键在于使用沙盒环境隔离运行，严格管控文件与网络访问，在保障安全前提下充分发挥其效率优势。

@@ -1,7 +1,6 @@
 # Orange Me2eets: We made an end-to-end encrypted video calling app and it was easy
 - URL: https://blog.cloudflare.com/orange-me2eets-we-made-an-end-to-end-encrypted-video-calling-app-and-it-was/
 - Added At: 2025-06-27 15:38:32
-- [Link To Text](2025-06-27-orange-me2eets-we-made-an-end-to-end-encrypted-video-calling-app-and-it-was-easy_raw.md)
 
 ## TL;DR
 

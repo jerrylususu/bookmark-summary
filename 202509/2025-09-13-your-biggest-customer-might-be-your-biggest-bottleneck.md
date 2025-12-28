@@ -1,7 +1,6 @@
 # Your Biggest Customer Might Be Your Biggest Bottleneck
 - URL: https://densumesh.dev/blog/fair-queue/
 - Added At: 2025-09-13 09:48:53
-- [Link To Text](2025-09-13-your-biggest-customer-might-be-your-biggest-bottleneck_raw.md)
 
 ## TL;DR
 博客讨论了FIFO队列在多租户系统中的缺陷，如任务阻塞问题，并提出了公平队列解决方案Broccoli，通过轮询调度确保任务公平处理，避免资源占用不均，已获得广泛关注。

@@ -1,7 +1,6 @@
 # curl bug-bounty stats | daniel.haxx.se
 - URL: https://daniel.haxx.se/blog/2024/10/09/curl-bug-bounty-stats/
 - Added At: 2024-10-09 14:53:25
-- [Link To Text](2024-10-09-curl-bug-bounty-stats-daniel.haxx.se_raw.md)
 
 ## TL;DR
 curl漏洞赏金计划自2019年启动以来，已支付84,260美元给69个CVE漏洞的发现者。资金来源包括curl基金和Internet Bug Bounty，奖励金额根据漏洞严重性从500美元到5,000美元不等。共收到477份报告，其中73份为有效安全漏洞。安全团队高效响应，平均36小时内确认漏洞。未来预计将继续收到有效报告，但严重性可能较低。

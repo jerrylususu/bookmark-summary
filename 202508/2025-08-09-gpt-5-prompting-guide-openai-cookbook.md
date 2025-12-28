@@ -1,7 +1,6 @@
 # GPT-5 prompting guide | OpenAI Cookbook
 - URL: https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide
 - Added At: 2025-08-09 07:24:06
-- [Link To Text](2025-08-09-gpt-5-prompting-guide-openai-cookbook_raw.md)
 
 ## TL;DR
 

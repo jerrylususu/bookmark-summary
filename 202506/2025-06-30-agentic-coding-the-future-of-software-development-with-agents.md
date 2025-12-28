@@ -1,7 +1,6 @@
 # Agentic Coding: The Future of Software Development with Agents
 - URL: https://simonwillison.net/2025/Jun/29/agentic-coding/
 - Added At: 2025-06-30 13:34:37
-- [Link To Text](2025-06-30-agentic-coding-the-future-of-software-development-with-agents_raw.md)
 
 ## TL;DR
 

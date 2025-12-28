@@ -1,7 +1,6 @@
 # How not to use box shadows
 - URL: https://dgerrells.com/blog/how-not-to-use-box-shadows
 - Added At: 2024-07-22 14:45:37
-- [Link To Text](2024-07-22-how-not-to-use-box-shadows_raw.md)
 
 ## TL;DR
 本文探讨了box shadows的创造性应用，包括多层叠加、颜色变化、3D效果模拟等，展示了其在图形设计中的深度和性能优势，并通过Ray Tracing实验展示了其潜力。

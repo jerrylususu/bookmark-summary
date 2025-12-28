@@ -1,7 +1,6 @@
 # Claude Code for web—a new asynchronous coding agent from Anthropic
 - URL: https://simonwillison.net/2025/Oct/20/claude-code-for-web/
 - Added At: 2025-10-21 13:34:50
-- [Link To Text](2025-10-21-claude-code-for-web—a-new-asynchronous-coding-agent-from-anthropic_raw.md)
 
 ## TL;DR
 Anthropic于2025年10月推出Claude Code for web异步编码代理，支持GitHub仓库操作与网络隔离沙盒环境。该工具提供简单任务部署、性能测试及本地CLI同步功能，通过容器化服务兼顾效率与安全性，适合快速开发测试。

@@ -1,7 +1,6 @@
 # Mission Impossible: Managing AI Agents in the Real World
 - URL: https://levelup.gitconnected.com/mission-impossible-managing-ai-agents-in-the-real-world-f8e7834833af
 - Added At: 2025-05-11 05:58:10
-- [Link To Text](2025-05-11-mission-impossible-managing-ai-agents-in-the-real-world_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # Gist of Go: Pipelines
 - URL: https://antonz.org/go-concurrency/pipelines/
 - Added At: 2024-12-12 15:55:59
-- [Link To Text](2024-12-12-gist-of-go-pipelines_raw.md)
 
 ## TL;DR
 本文是《Go并发编程》书籍的一部分，重点介绍了如何使用goroutine和channel构建并发管道，涵盖了goroutine泄露、取消通道、合并通道、管道构建及防止goroutine泄露等内容，强调了并发编程中的常见问题和解决方法。

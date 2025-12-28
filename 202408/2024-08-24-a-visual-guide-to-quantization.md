@@ -1,7 +1,6 @@
 # A Visual Guide to Quantization
 - URL: https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization
 - Added At: 2024-08-24 11:51:53
-- [Link To Text](2024-08-24-a-visual-guide-to-quantization_raw.md)
 
 ## TL;DR
 量化技术通过减少模型参数位数，显著降低内存需求，提高计算效率，同时保持模型性能。介绍了从FP16到INT8的常见数据类型，对称与非对称量化方法，以及训练后量化（PTQ）和量化感知训练（QAT）的详细过程。此外，还探讨了低于8位的量化方法如GPTQ和GGUF，以及1位量化技术BitNet。

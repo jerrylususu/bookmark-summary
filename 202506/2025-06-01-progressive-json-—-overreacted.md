@@ -1,7 +1,6 @@
 # Progressive JSON — overreacted
 - URL: https://overreacted.io/progressive-json/
 - Added At: 2025-06-01 12:57:37
-- [Link To Text](2025-06-01-progressive-json-—-overreacted_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # Reflections on OpenAI
 - URL: https://calv.info/openai-reflections
 - Added At: 2025-07-16 14:25:04
-- [Link To Text](2025-07-16-reflections-on-openai_raw.md)
 
 ## TL;DR
 

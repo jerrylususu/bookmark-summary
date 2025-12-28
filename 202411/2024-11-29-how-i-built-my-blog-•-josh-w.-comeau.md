@@ -1,7 +1,6 @@
 # How I Built My Blog • Josh W. Comeau
 - URL: https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/
 - Added At: 2024-11-29 15:13:53
-- [Link To Text](2024-11-29-how-i-built-my-blog-•-josh-w.-comeau_raw.md)
 
 ## TL;DR
 作者更新了博客，采用MDX、Next.js等技术，优化了内容管理、样式、代码片段和交互体验，新增了点赞、搜索等功能，提升了可访问性，并分享了开发经验。

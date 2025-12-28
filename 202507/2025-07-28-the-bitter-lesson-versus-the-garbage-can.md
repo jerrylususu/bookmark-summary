@@ -1,7 +1,6 @@
 # The Bitter Lesson versus The Garbage Can
 - URL: https://www.oneusefulthing.org/p/the-bitter-lesson-versus-the-garbage
 - Added At: 2025-07-28 13:45:34
-- [Link To Text](2025-07-28-the-bitter-lesson-versus-the-garbage-can_raw.md)
 
 ## TL;DR
 

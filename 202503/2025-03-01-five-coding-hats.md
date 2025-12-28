@@ -1,7 +1,6 @@
 # Five coding hats
 - URL: https://dubroy.com/blog/five-coding-hats/
 - Added At: 2025-03-01 10:52:42
-- [Link To Text](2025-03-01-five-coding-hats_raw.md)
 
 ## TL;DR
 文章探讨了五种不同的编码风格，分别对应不同场景和需求，强调根据具体任务选择合适的编码风格，以提高效率和适应性。

@@ -2,7 +2,6 @@
 - URL: https://www.anthropic.com/engineering/code-execution-with-mcp
 - Added At: 2025-11-05 13:22:48
 - Tags: #read #llm
-- [Link To Text](2025-11-05-code-execution-with-mcp-building-more-efficient-ai-agents_raw.md)
 
 ## TL;DR
 通过代码执行优化AI代理效率，将MCP工具转为代码API，使代理按需加载工具、本地处理数据。该方法大幅减少令牌消耗（如从15万降至2千），提升响应速度并增强隐私保护，但需平衡安全沙箱等实施成本。

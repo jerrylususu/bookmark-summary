@@ -1,7 +1,6 @@
 # ChatGPT Canvas can make API requests now, but it’s complicated
 - URL: https://simonwillison.net/2024/Dec/10/chatgpt-canvas/
 - Added At: 2024-12-11 14:30:01
-- [Link To Text](2024-12-11-chatgpt-canvas-can-make-api-requests-now,-but-it’s-complicated_raw.md)
 
 ## TL;DR
 ChatGPT Canvas通过Pyodide在浏览器中运行Python代码，支持网络请求，扩展了应用场景，但也带来了CORS问题和安全风险。与Code Interpreter相比，Canvas更灵活但功能受限，用户需适应新的使用规则。

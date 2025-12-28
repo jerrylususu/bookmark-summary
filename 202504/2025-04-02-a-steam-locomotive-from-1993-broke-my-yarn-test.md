@@ -1,7 +1,6 @@
 # A steam locomotive from 1993 broke my yarn test
 - URL: https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/
 - Added At: 2025-04-02 14:52:04
-- [Link To Text](2025-04-02-a-steam-locomotive-from-1993-broke-my-yarn-test_raw.md)
 
 ## TL;DR
 

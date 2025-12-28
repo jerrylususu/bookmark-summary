@@ -1,7 +1,6 @@
 # Why GitHub Actually Won
 - URL: https://blog.gitbutler.com/why-github-actually-won/
 - Added At: 2024-09-10 14:45:42
-- [Link To Text](2024-09-10-why-github-actually-won_raw.md)
 
 ## TL;DR
 GitHub成功抓住了分布式版本控制系统普及的时机，通过注重开发者体验和创新，如用户中心设计、拉取模型和美观界面，迅速成为主导平台，最终在竞争中胜出。

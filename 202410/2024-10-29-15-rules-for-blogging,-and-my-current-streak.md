@@ -1,7 +1,6 @@
 # 15 rules for blogging, and my current streak
 - URL: https://interconnected.org/home/2020/09/10/streak
 - Added At: 2024-10-29 14:33:31
-- [Link To Text](2024-10-29-15-rules-for-blogging,-and-my-current-streak_raw.md)
 
 ## TL;DR
 作者分享了其博客写作的规则和流程，包括每周发布三篇博文、每篇只讨论一个主题、简洁表达、放弃追求正确和有趣等，强调写作应面向大众且即时，同时避免写作负担。

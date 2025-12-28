@@ -33,7 +33,7 @@
   - Tags: #read #llm
 
 - (2025-02-21) [Slashing my ".bashrc" in half](2025-02-21-slashing-my-.bashrc-in-half.md)
-  - 作者通过引入Atuin、Starship等现代工具，成功简化了，减少了插件和配置，提升了效率和可维护性。这些工具提供了高性能和跨平台兼容性，减少了手动配置工作量，使得终端体验更加流畅。
+  - 作者通过引入Atuin、Starship等现代工具，成功简化了`.bashrc`，减少了插件和配置，提升了效率和可维护性。这些工具提供了高性能和跨平台兼容性，减少了手动配置工作量，使得终端体验更加流畅。
   - Tags: #read
 
 - (2025-02-19) [软件工程师的软技能指北（六）：谈薪篇](2025-02-19-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%BD%AF%E6%8A%80%E8%83%BD%E6%8C%87%E5%8C%97%EF%BC%88%E5%85%AD%EF%BC%89%EF%BC%9A%E8%B0%88%E8%96%AA%E7%AF%87.md)
@@ -53,7 +53,7 @@
   - Tags: #read #frontend
 
 - (2025-02-16) [Next-level frosted glass with backdrop-filter • Josh W. Comeau](2025-02-16-next-level-frosted-glass-with-backdrop-filter-%E2%80%A2-josh-w.-comeau.md)
-  - Josh W. Comeau分享如何使用创建逼真的磨砂玻璃效果，详解优化步骤、浏览器兼容性及3D边缘效果，并提供完整代码。
+  - Josh W. Comeau分享如何使用`backdrop-filter: blur()`创建逼真的磨砂玻璃效果，详解优化步骤、浏览器兼容性及3D边缘效果，并提供完整代码。
   - Tags: #read #frontend
 
 - (2025-02-16) [Relieving your Python packaging pain](2025-02-16-relieving-your-python-packaging-pain.md)
@@ -124,5 +124,5 @@
   - Tags: #read
 
 - (2025-02-01) [Git: avoid reset --hard, use reset --keep instead - Adam Johnson](2025-02-01-git-avoid-reset---hard%2C-use-reset---keep-instead---adam-johnson.md)
-  - 文章介绍了Git中的命令，重点对比了和选项。会丢弃未提交的更改，存在数据丢失风险，而则保留未提交的更改，更安全。建议使用并设置别名以提高效率。
+  - 文章介绍了Git中的`reset`命令，重点对比了`--hard`和`--keep`选项。`--hard`会丢弃未提交的更改，存在数据丢失风险，而`--keep`则保留未提交的更改，更安全。建议使用`--keep`并设置别名以提高效率。
   - Tags: #read #git

@@ -1,7 +1,6 @@
 # Notes from my appearance on the Software Misadventures Podcast
 - URL: https://simonwillison.net/2024/Sep/10/software-misadventures/
 - Added At: 2024-09-11 15:26:53
-- [Link To Text](2024-09-11-notes-from-my-appearance-on-the-software-misadventures-podcast_raw.md)
 
 ## TL;DR
 Simon Willison在播客中讨论了博客的重要性、LLM与专业知识的结合、聊天界面的可用性及对工作岗位的影响。他强调LLM对非母语者的帮助和提示工程的复杂性，同时指出过度依赖LLM可能导致的技能退化。他还比喻LLM为“奇怪的实习生”，具有模仿智能但缺乏创新能力。

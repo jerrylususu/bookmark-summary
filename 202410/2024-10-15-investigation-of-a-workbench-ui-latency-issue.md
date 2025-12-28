@@ -1,7 +1,6 @@
 # Investigation of a Workbench UI Latency Issue
 - URL: https://netflixtechblog.com/investigation-of-a-workbench-ui-latency-issue-faa017b4653d
 - Added At: 2024-10-15 15:03:18
-- [Link To Text](2024-10-15-investigation-of-a-workbench-ui-latency-issue_raw.md)
 
 ## TL;DR
 Netflix的Workbench产品中，JupyterLab UI因_jupyter-resource-usage_扩展的资源监控功能与不准确的CPU数量和虚拟内存使用相结合，导致延迟。通过禁用该扩展，解决了用户的问题。

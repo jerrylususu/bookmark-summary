@@ -2,7 +2,6 @@
 - URL: https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview
 - Added At: 2025-11-12 14:32:47
 - Tags: #read #llm
-- [Link To Text](2025-11-12-giving-your-ai-a-job-interview_raw.md)
 
 ## TL;DR
 基准测试易失真且忽略软技能评价，建议个人用户结合直观任务测试，企业用户需通过专家设计的场景化"AI面试"进行能力评估。

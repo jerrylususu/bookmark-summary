@@ -1,7 +1,6 @@
 # Reinvent the Wheel | Matthias Endler
 - URL: https://endler.dev/2025/reinvent-the-wheel/
 - Added At: 2025-05-31 11:45:03
-- [Link To Text](2025-05-31-reinvent-the-wheel-matthias-endler_raw.md)
 
 ## TL;DR
 

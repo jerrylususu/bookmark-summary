@@ -1,7 +1,6 @@
 # Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)
 - URL: https://www.hey.earth/posts/duckdb-doom
 - Added At: 2025-04-23 14:53:01
-- [Link To Text](2025-04-23-abusing-duckdb-wasm-by-making-sql-draw-3d-graphics-(sort-of)_raw.md)
 
 ## TL;DR
 

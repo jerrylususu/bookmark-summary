@@ -1,7 +1,6 @@
 # Cognition | Don’t Build Multi-Agents
 - URL: https://cognition.ai/blog/dont-build-multi-agents#applying-the-principles
 - Added At: 2025-06-19 14:58:43
-- [Link To Text](2025-06-19-cognition-don’t-build-multi-agents_raw.md)
 
 ## TL;DR
 

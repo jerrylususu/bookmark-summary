@@ -1,7 +1,6 @@
 # Backtraces with strace
 - URL: https://shane.ai/posts/backtraces-with-strace/
 - Added At: 2025-06-17 14:27:28
-- [Link To Text](2025-06-17-backtraces-with-strace_raw.md)
 
 ## TL;DR
 

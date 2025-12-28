@@ -1,7 +1,6 @@
 # Lessons learned in 35 years of making software
 - URL: https://dev.jimgrey.net/2024/07/03/lessons-learned-in-35-years-of-making-software/
 - Added At: 2024-08-25 06:39:29
-- [Link To Text](2024-08-25-lessons-learned-in-35-years-of-making-software_raw.md)
 
 ## TL;DR
 Jim Grey在软件行业35年的经验总结强调了软技能的重要性，提倡简单直接的工作方式，重视生产中的软件，强调建立关系网和保持可见性，鼓励追求兴趣而非仅薪资，并提倡适度追求完美和持续迭代改进。这些经验对许多读者的职业生涯产生了积极影响。

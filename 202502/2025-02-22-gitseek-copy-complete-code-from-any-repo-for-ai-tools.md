@@ -1,7 +1,6 @@
 # GitSeek | Copy Complete Code from Any Repo for AI Tools
 - URL: https://gitseek.dev
 - Added At: 2025-02-22 11:05:26
-- [Link To Text](2025-02-22-gitseek-copy-complete-code-from-any-repo-for-ai-tools_raw.md)
 
 ## TL;DR
 GitSeek是一款代码提取工具，能从任意代码库中提取代码并直接用于AI工具，支持认证、支付等常见场景的代码查找。其特性包括智能代码发现、项目架构可视化、API集成等，提供免费和专业版选择，后者包含更多提取次数和高级AI模型。

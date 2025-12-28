@@ -2,7 +2,6 @@
 - URL: https://dawranliou.com/blog/intermediate-dev/
 - Added At: 2025-11-22 07:58:30
 - Tags: #read
-- [Link To Text](2025-11-22-intermediate-developer_raw.md)
 
 ## TL;DR
 文章总结了中级开发者的成长要点：注重代码质量与团队协作，强调文档、测试和持续学习的重要性，认为沟通是编程的核心能力。

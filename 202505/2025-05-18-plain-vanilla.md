@@ -1,7 +1,6 @@
 # Plain Vanilla
 - URL: https://plainvanillaweb.com/index.html
 - Added At: 2025-05-18 11:38:45
-- [Link To Text](2025-05-18-plain-vanilla_raw.md)
 
 ## TL;DR
 

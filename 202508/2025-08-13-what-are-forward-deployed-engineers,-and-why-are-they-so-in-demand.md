@@ -1,7 +1,6 @@
 # What are Forward Deployed Engineers, and why are they so in demand?
 - URL: https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers
 - Added At: 2025-08-13 14:43:31
-- [Link To Text](2025-08-13-what-are-forward-deployed-engineers,-and-why-are-they-so-in-demand_raw.md)
 
 ## TL;DR
 

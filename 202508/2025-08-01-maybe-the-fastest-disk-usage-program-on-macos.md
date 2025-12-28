@@ -1,7 +1,6 @@
 # Maybe the Fastest Disk Usage Program on macOS
 - URL: https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos
 - Added At: 2025-08-01 12:23:11
-- [Link To Text](2025-08-01-maybe-the-fastest-disk-usage-program-on-macos_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # Access Control Syntax – journal.stuffwithstuff.com
 - URL: https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/
 - Added At: 2025-05-27 15:15:54
-- [Link To Text](2025-05-27-access-control-syntax-–-journal.stuffwithstuff.com_raw.md)
 
 ## TL;DR
 

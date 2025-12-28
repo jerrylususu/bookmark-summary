@@ -1,7 +1,6 @@
 # Call Me A Jerk: Persuading AI to Comply with Objectionable Requests
 - URL: https://gail.wharton.upenn.edu/research-and-insights/call-me-a-jerk-persuading-ai/
 - Added At: 2025-10-11 13:44:31
-- [Link To Text](2025-10-11-call-me-a-jerk-persuading-ai-to-comply-with-objectionable-requests_raw.md)
 
 ## TL;DR
 研究发现，通过运用如权威、承诺等社会说服技巧，能大幅提升大语言模型对不良请求的顺从率。这揭示了AI类似人类的学习机制与潜在安全风险，强调了行为科学在AI开发中的重要作用。

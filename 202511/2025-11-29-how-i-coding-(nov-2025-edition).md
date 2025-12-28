@@ -2,7 +2,6 @@
 - URL: https://xuanwo.io/2025/08-how-i-coding-nov-2025-edition/
 - Added At: 2025-11-29 05:19:45
 - Tags: #read
-- [Link To Text](2025-11-29-how-i-coding-(nov-2025-edition)_raw.md)
 
 ## TL;DR
 文章介绍了作者2025年11月的编程心得，强调在高级AI模型时代需重视提示词优化，推荐使用Conductor工具提升效率，并建议基于个人需求构建评估体系，以平衡实践与乐趣。

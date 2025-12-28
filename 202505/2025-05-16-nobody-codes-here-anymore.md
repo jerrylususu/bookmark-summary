@@ -1,7 +1,6 @@
 # Nobody Codes Here Anymore
 - URL: https://ghiculescu.substack.com/p/nobody-codes-here-anymore
 - Added At: 2025-05-16 14:09:23
-- [Link To Text](2025-05-16-nobody-codes-here-anymore_raw.md)
 
 ## TL;DR
 

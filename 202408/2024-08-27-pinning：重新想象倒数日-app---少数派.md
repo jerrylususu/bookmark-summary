@@ -1,7 +1,6 @@
 # Pinning：重新想象倒数日 App - 少数派
 - URL: https://sspai.com/post/91599
 - Added At: 2024-08-27 14:27:58
-- [Link To Text](2024-08-27-pinning：重新想象倒数日-app---少数派_raw.md)
 
 ## TL;DR
 文章讲述了作者从开发失败的Browser Deputy到成功推出Pinning倒数日App的过程。Pinning注重简洁设计和实用功能，支持多平台和隐私保护，提供订阅和买断选项，未来还将扩展更多功能和平台支持。作者通过Pinning实现了从产品失败到成功的转变，认为Pinning是一个高效的效率工具。

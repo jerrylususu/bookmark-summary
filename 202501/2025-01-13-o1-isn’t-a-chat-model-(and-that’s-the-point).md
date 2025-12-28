@@ -1,7 +1,6 @@
 # o1 isn’t a chat model (and that’s the point)
 - URL: https://www.latent.space/p/o1-skill-issue
 - Added At: 2025-01-13 13:34:50
-- [Link To Text](2025-01-13-o1-isn’t-a-chat-model-(and-that’s-the-point)_raw.md)
 
 ## TL;DR
 o1是一款新型AI工具，擅长生成完整报告和解决复杂问题，尤其在医学诊断和概念解释方面表现优异。然而，其写作风格单一，构建完整应用仍需迭代。用户体验上存在延迟和界面设计不足的问题。未来，o1有望在需要高延迟、深度推理的任务中发挥更大作用，开发者也将探索更多创新应用。

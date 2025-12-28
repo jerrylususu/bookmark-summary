@@ -1,7 +1,6 @@
 # 不要轻易地走进 AI Native（AI 原生） – 虹线
 - URL: https://1q43.blog/post/10736/
 - Added At: 2024-12-11 14:18:15
-- [Link To Text](2024-12-11-不要轻易地走进-ai-native（ai-原生）-–-虹线_raw.md)
 
 ## TL;DR
 文章讨论了地铁支付、Office产品、AI在文档中的角色、低代码工具、AI Native的局限性、AI产品泡沫、AI在应用中的实践及AI对白领工作的替代。核心观点是AI应作为现有成熟产品的功能，而非独立产品，且在商业决策中应优先选择成熟方案。

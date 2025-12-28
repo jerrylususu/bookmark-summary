@@ -1,7 +1,6 @@
 # Nomadic Infrastructure Design for AI Workloads | Tigris Object Storage
 - URL: https://www.tigrisdata.com/blog/nomadic-compute/
 - Added At: 2024-11-13 14:36:34
-- [Link To Text](2024-11-13-nomadic-infrastructure-design-for-ai-workloads-tigris-object-storage_raw.md)
 
 ## TL;DR
 文章通过Taco Bell比喻，阐述了如何使用简单组件构建复杂AI推理系统。讨论了计算、网络、存储的基本要素及成本优化，强调动态实例化和按需扩展的重要性，并提出减少供应商锁定的设计原则。最终，推荐使用Tigris的无出口费用存储服务，以简化数据处理成本。

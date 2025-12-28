@@ -1,7 +1,6 @@
 # From suspicion to published curl CVE
 - URL: https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/
 - Added At: 2025-09-18 14:33:14
-- [Link To Text](2025-09-18-from-suspicion-to-published-curl-cve_raw.md)
 
 ## TL;DR
 curl的CVE处理流程包括漏洞报告、评估、验证、修复、公告发布等步骤，强调透明协作。团队通过HackerOne接收报告，响应迅速，根据严重性分类修复，并同步公开信息及奖励报告者。

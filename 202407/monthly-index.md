@@ -29,7 +29,7 @@
   - Tags: #read
 
 - (2024-07-23) [Python Practical Package Packing 2024](2024-07-23-python-practical-package-packing-2024.md)
-  - 现代Python项目应使用和Poetry管理依赖和环境，避免过时的工具如和，推荐使用Poetry进行依赖解析和虚拟环境管理，以及使用和标准代码格式化工具提高代码质量。
+  - 现代Python项目应使用`pyproject.toml`和Poetry管理依赖和环境，避免过时的工具如`requirements.txt`和`setup.py`，推荐使用Poetry进行依赖解析和虚拟环境管理，以及使用`@dataclass`和标准代码格式化工具提高代码质量。
   - Tags: #python #guide
 
 - (2024-07-23) [Panic! at the Tech Job Market](2024-07-23-panic%21-at-the-tech-job-market.md)

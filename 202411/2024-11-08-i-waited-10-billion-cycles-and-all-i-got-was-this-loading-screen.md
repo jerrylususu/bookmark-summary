@@ -1,7 +1,6 @@
 # I Waited 10 Billion Cycles and All I Got Was This Loading Screen
 - URL: https://blog.preyneyv.dev/doing-less-with-more
 - Added At: 2024-11-08 14:16:36
-- [Link To Text](2024-11-08-i-waited-10-billion-cycles-and-all-i-got-was-this-loading-screen_raw.md)
 
 ## TL;DR
 文章讨论了现代硬件与软件性能之间的矛盾，指出尽管硬件速度大幅提升，许多软件应用的响应速度并未相应提高。文章分析了Web技术和Electron框架的优缺点，以及原生应用面临的挑战。最后，强调软件开发者应注重性能优化，确保用户体验流畅。

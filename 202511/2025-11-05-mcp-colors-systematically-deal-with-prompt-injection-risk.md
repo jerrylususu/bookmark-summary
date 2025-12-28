@@ -2,7 +2,6 @@
 - URL: https://timkellogg.me/blog/2025/11/03/colors
 - Added At: 2025-11-05 13:34:59
 - Tags: #read #llm #security
-- [Link To Text](2025-11-05-mcp-colors-systematically-deal-with-prompt-injection-risk_raw.md)
 
 ## TL;DR
 文章提出MCP Colors方法应对提示注入风险：通过红（不可信内容）蓝（关键操作）颜色标记隔离风险操作，简化安全评估。需人工参与威胁建模，强调安全无法完全自动化，但为通用代理提供可行路径。

@@ -1,7 +1,6 @@
 # Examples of Great URL Design
 - URL: https://blog.jim-nielsen.com/2023/examples-of-great-urls/
 - Added At: 2025-05-24 11:02:13
-- [Link To Text](2025-05-24-examples-of-great-url-design_raw.md)
 
 ## TL;DR
 

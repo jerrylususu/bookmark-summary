@@ -1,7 +1,6 @@
 # Enough AI copilots! We need AI HUDs
 - URL: https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds
 - Added At: 2025-07-28 14:07:51
-- [Link To Text](2025-07-28-enough-ai-copilots!-we-need-ai-huds_raw.md)
 
 ## TL;DR
 

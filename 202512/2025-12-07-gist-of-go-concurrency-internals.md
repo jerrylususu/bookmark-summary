@@ -2,7 +2,6 @@
 - URL: https://antonz.org/go-concurrency/internals/
 - Added At: 2025-12-07 13:18:49
 - Tags: #read #go #deepdive
-- [Link To Text](2025-12-07-gist-of-go-concurrency-internals_raw.md)
 
 ## TL;DR
 文章《Go并发内部机制》核心解析了Go语言并发实现，包括goroutine调度器、GOMAXPROCS配置、并发原语及性能工具。调度器通过少量OS线程高效运行大量goroutine，自动管理并发细节。建议借助pprof、tracing等工具优化应用，鼓励实践掌握并发编程。

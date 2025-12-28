@@ -1,7 +1,6 @@
 # Thoughts on thinking • Dustin Curtis
 - URL: https://dcurt.is/thinking
 - Added At: 2025-05-31 10:00:36
-- [Link To Text](2025-05-31-thoughts-on-thinking-•-dustin-curtis_raw.md)
 
 ## TL;DR
 

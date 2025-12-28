@@ -2,7 +2,6 @@
 - URL: https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns
 - Added At: 2025-11-22 07:39:17
 - Tags: #read #security
-- [Link To Text](2025-11-22-we-should-all-be-using-dependency-cooldowns_raw.md)
 
 ## TL;DR
 文章主张通过设定“依赖冷却期”（如7-14天）延迟引入新依赖，以避开开源供应链攻击的高风险窗口。该措施成本低、易实施，能防御多数短期攻击，虽非万能但可显著降低风险，建议广泛采用。

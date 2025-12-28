@@ -1,7 +1,6 @@
 # GitHub's CSP journey
 - URL: https://github.blog/engineering/platform-security/githubs-csp-journey/
 - Added At: 2024-09-12 14:28:54
-- [Link To Text](2024-09-12-github's-csp-journey_raw.md)
 
 ## TL;DR
 GitHub通过引入子资源完整性和内容安全策略（CSP）来增强安全性，防止内容注入和跨站脚本攻击。CSP策略包括限制JavaScript、对象、图像、连接和表单提交的源，以及防止点击劫持和插件滥用。GitHub计划继续优化CSP策略，并关注浏览器安全特性的发展。

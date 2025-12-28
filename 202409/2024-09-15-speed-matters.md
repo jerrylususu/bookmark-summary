@@ -1,7 +1,6 @@
 # Speed matters
 - URL: https://www.scattered-thoughts.net/writing/speed-matters/
 - Added At: 2024-09-15 10:45:09
-- [Link To Text](2024-09-15-speed-matters_raw.md)
 
 ## TL;DR
 文章讨论了提高工作速度的重要性，通过对比Strucjure和Rematch项目的开发速度，展示了速度提升的显著效果。原因包括设定明确目标、改进工作流程和减少低级错误。理论极限和实际影响表明，速度提升不仅能增加工作量和项目选择，还能促进学习和实验。全流程优化、反馈频率增加和工具构建进一步加速开发。微小改进的累积效应和自动化减少心理负荷，最终提升成就感和动力。

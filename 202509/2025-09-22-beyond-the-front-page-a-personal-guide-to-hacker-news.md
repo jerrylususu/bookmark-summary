@@ -1,7 +1,6 @@
 # Beyond the Front Page: A Personal Guide to Hacker News
 - URL: https://hsu.cy/2025/09/how-to-read-hn/
 - Added At: 2025-09-22 15:02:56
-- [Link To Text](2025-09-22-beyond-the-front-page-a-personal-guide-to-hacker-news_raw.md)
 
 ## TL;DR
 Hacker News通过极简设计、严格规则、算法管理和人工治理，在保持用户增长的同时维持了高质量讨论。其机制避免了“永恒的九月”问题，成为独特的技术社区案例。用户可借助工具化浏览和AI总结提升使用效率。

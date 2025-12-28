@@ -1,7 +1,6 @@
 # Why do AI models use so many em-dashes?
 - URL: https://www.seangoedecke.com/em-dashes/
 - Added At: 2025-10-30 14:05:39
-- [Link To Text](2025-10-30-why-do-ai-models-use-so-many-em-dashes_raw.md)
 
 ## TL;DR
 AI模型过度使用破折号的现象主要源于训练数据的变化。GPT-4等模型为获取高质量数据，数字化了大量19世纪末到20世纪初的书籍，这些历史文本中破折号使用率较高，导致模型习得这一习惯。强化学习人类反馈或AI内容循环也可能加剧此现象，但核心原因在于训练数据的历史语言风格影响。

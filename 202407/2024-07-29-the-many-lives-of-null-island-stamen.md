@@ -1,7 +1,6 @@
 # The Many Lives of Null Island | Stamen
 - URL: https://stamen.com/the-many-lives-of-null-island/
 - Added At: 2024-07-29 14:27:12
-- [Link To Text](2024-07-29-the-many-lives-of-null-island-|-stamen_raw.md)
 
 ## TL;DR
 Null Island是一个地图制作者间的内部笑话，位于0º纬度和0º经度，常因数据错误显示在此。实际例子包括PurpleAir传感器、Weather Underground和Strava的GPS轨迹地图。其在地图上的表现形式多样，历史悠久，形状设计独特，且具有一定的社会和文化影响。尽管地理位置偏远，Null Island已成为地图文化中的一个持久现象。

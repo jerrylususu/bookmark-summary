@@ -1,7 +1,6 @@
 # Just make it scale: An Aurora DSQL story
 - URL: https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html
 - Added At: 2025-05-27 14:18:38
-- [Link To Text](2025-05-27-just-make-it-scale-an-aurora-dsql-story_raw.md)
 
 ## TL;DR
 

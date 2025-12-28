@@ -2,7 +2,6 @@
 - URL: https://larr.net/p/namings.html
 - Added At: 2025-12-19 14:56:22
 - Tags: #read
-- [Link To Text](2025-12-19-programmers-and-software-developers-lost-the-plot-on-naming-their-tools_raw.md)
 
 ## TL;DR
 文章批评软件工具命名过于随意，主张命名应清晰描述功能，回归专业标准，减少认知负担。

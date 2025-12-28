@@ -2,7 +2,6 @@
 - URL: https://www.seangoedecke.com/ai-products/
 - Added At: 2025-11-17 14:06:52
 - Tags: #read #llm
-- [Link To Text](2025-11-17-only-three-kinds-of-ai-products-actually-work_raw.md)
 
 ## TL;DR
 当前有效的AI产品主要分为聊天机器人、自动补全和智能体三类，其中通用模型（如ChatGPT）占主导，而智能体在编程等领域展现出自主任务执行的潜力。其他方向如AI内容流和游戏仍处探索期，未来发展需突破对聊天界面的依赖，打造更贴合需求的产品形态。

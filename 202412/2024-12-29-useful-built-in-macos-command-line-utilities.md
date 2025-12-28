@@ -1,7 +1,6 @@
 # Useful built-in macOS command-line utilities
 - URL: https://weiyen.net/articles/useful-macos-cmd-line-utilities/
 - Added At: 2024-12-29 12:55:28
-- [Link To Text](2024-12-29-useful-built-in-macos-command-line-utilities_raw.md)
 
 ## TL;DR
 本文介绍了多个实用的macOS命令行工具，涵盖Keychain访问、文件操作、复制粘贴、时间管理、网络测试、防止睡眠、UUID生成等功能。还推荐了图像处理、音频管理、磁盘工具等高级命令，帮助用户更高效地管理和自动化任务。

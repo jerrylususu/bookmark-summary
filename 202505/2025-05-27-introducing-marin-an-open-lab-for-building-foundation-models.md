@@ -1,7 +1,6 @@
 # Introducing Marin: An Open Lab for Building Foundation Models
 - URL: http://marin.community/blog/2025/05/19/announcement/
 - Added At: 2025-05-27 14:24:54
-- [Link To Text](2025-05-27-introducing-marin-an-open-lab-for-building-foundation-models_raw.md)
 
 ## TL;DR
 

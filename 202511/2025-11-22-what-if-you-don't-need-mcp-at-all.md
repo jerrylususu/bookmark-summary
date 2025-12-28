@@ -2,7 +2,6 @@
 - URL: https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/
 - Added At: 2025-11-22 07:32:00
 - Tags: #read #llm
-- [Link To Text](2025-11-22-what-if-you-don't-need-mcp-at-all_raw.md)
 
 ## TL;DR
 本文提倡用自定义命令行工具和代码替代复杂的MCP服务器，以浏览器工具为例展示了简单方案的优越性。通过短小精悍的脚本实现浏览器控制、页面操作等功能，显著节省上下文资源且易于扩展。强调利用代码组合性和代理执行能力可构建高效灵活的工作流，适合需要代码执行的场景。

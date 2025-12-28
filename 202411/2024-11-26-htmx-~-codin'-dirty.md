@@ -1,7 +1,6 @@
 # </> htmx ~ Codin' Dirty
 - URL: https://htmx.org/essays/codin-dirty/
 - Added At: 2024-11-26 14:58:06
-- [Link To Text](2024-11-26-htmx-~-codin'-dirty_raw.md)
 
 ## TL;DR
 文章介绍了作者的“脏”编程方法，包括使用大函数、偏好集成测试和最小化类与接口，通过实际项目案例说明这些方法的有效性，并鼓励开发者不必拘泥于传统编程规范。

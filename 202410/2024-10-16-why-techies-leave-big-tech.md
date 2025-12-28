@@ -1,7 +1,6 @@
 # Why techies leave Big Tech
 - URL: https://newsletter.pragmaticengineer.com/p/leaving-big-tech
 - Added At: 2024-10-16 14:31:54
-- [Link To Text](2024-10-16-why-techies-leave-big-tech_raw.md)
 
 ## TL;DR
 本文探讨了技术人员离开大科技公司的原因，包括稳定性下降、职业成长受限、职业路径封闭、被迫离职、初创公司“大科技化”、薪酬下降等。通过具体案例分析，揭示了大科技公司薪酬结构和内部调动的要求，并观察到市场招聘放缓和经验需求的变化。总结指出，职业成长和薪酬影响是主要驱动因素，离开大科技公司可能是追求新目标的起点。

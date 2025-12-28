@@ -2,7 +2,6 @@
 - URL: https://apenwarr.ca/log/20090222
 - Added At: 2025-11-21 16:12:52
 - Tags: #read #people
-- [Link To Text](2025-11-21-programmers-and-sadomasochism_raw.md)
 
 ## TL;DR
 文章通过HTML属性示例，比较了严格（如XML）与宽松（如HTML）解析器的行为，主张遵循Postel定律，建议采用宽容的解析策略来提高互操作性，认为严格验证反而增加沟通成本，不利于实际应用。

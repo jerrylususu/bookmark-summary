@@ -1,7 +1,6 @@
 # The Untold Story of SQLite - CoRecursive Podcast
 - URL: https://corecursive.com/066-sqlite-with-richard-hipp/
 - Added At: 2024-12-22 07:37:01
-- [Link To Text](2024-12-22-the-untold-story-of-sqlite---corecursive-podcast_raw.md)
 
 ## TL;DR
 《CoRecursive》播客采访了SQLite开发者Richard Hipp，探讨了SQLite的起源、广泛应用及其独立开发和严格测试的成功之道。SQLite已成为全球核心基础设施，Richard通过自给自足的开发和高质量标准确保了其长期稳定性和可维护性。

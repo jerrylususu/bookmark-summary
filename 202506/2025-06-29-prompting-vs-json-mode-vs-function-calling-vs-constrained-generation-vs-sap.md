@@ -1,7 +1,6 @@
 # Prompting vs JSON Mode vs Function Calling vs Constrained Generation vs SAP
 - URL: https://www.boundaryml.com/blog/schema-aligned-parsing
 - Added At: 2025-06-29 12:06:14
-- [Link To Text](2025-06-29-prompting-vs-json-mode-vs-function-calling-vs-constrained-generation-vs-sap_raw.md)
 
 ## TL;DR
 

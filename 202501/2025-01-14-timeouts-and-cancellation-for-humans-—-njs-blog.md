@@ -1,7 +1,6 @@
 # Timeouts and cancellation for humans — njs blog
 - URL: https://vorpus.org/blog/timeouts-and-cancellation-for-humans/
 - Added At: 2025-01-14 14:45:54
-- [Link To Text](2025-01-14-timeouts-and-cancellation-for-humans-—-njs-blog_raw.md)
 
 ## TL;DR
 文章讨论了在处理外部系统交互时，超时和取消机制的重要性及其挑战。传统的超时处理方法存在局限性，而Trio库提出的取消范围（Cancel Scopes）机制通过自动化传递取消令牌，简化了代码复杂性，提升了可靠性和可维护性。该机制适用于同步单线程Python、asyncio及其他编程语言，为超时和取消处理提供了创新解决方案。

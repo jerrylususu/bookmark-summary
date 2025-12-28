@@ -2,7 +2,6 @@
 - URL: https://karpathy.bearblog.dev/year-in-review-2025/
 - Added At: 2025-12-20 10:45:51
 - Tags: #read #llm
-- [Link To Text](2025-12-20-2025-llm-year-in-review_raw.md)
 
 ## TL;DR
 2025年LLM领域六大趋势：强化学习可验证奖励(RLVR)提升推理能力，智能具有不均衡性，Cursor等应用拓宽垂直领域，Claude Code推动本地化AI发展，自然语言编程降低技术门槛，以及视觉交互模型成为新方向。领域整体快速发展，潜力与挑战并存。

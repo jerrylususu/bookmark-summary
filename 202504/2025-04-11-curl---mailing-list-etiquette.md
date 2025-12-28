@@ -1,7 +1,6 @@
 # curl - Mailing List Etiquette
 - URL: https://curl.se/mail/etiquette.html
 - Added At: 2025-04-11 15:07:27
-- [Link To Text](2025-04-11-curl---mailing-list-etiquette_raw.md)
 
 ## TL;DR
 

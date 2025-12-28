@@ -2,7 +2,6 @@
 - URL: https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/
 - Added At: 2025-12-06 15:07:36
 - Tags: #read #programming #language
-- [Link To Text](2025-12-06-thoughts-on-go-vs.-rust-vs.-zig_raw.md)
 
 ## TL;DR
 这篇文章分析了Go、Rust、Zig三种语言的设计理念：Go强调简洁与协作，Rust追求性能与安全，Zig注重显式控制。选择语言应基于项目需求与价值观匹配，而非单纯比较功能。

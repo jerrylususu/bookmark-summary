@@ -1,7 +1,6 @@
 # Stop syncing everything
 - URL: https://sqlsync.dev/posts/stop-syncing-everything/
 - Added At: 2025-04-09 14:11:50
-- [Link To Text](2025-04-09-stop-syncing-everything_raw.md)
 
 ## TL;DR
 

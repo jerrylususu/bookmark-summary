@@ -1,7 +1,6 @@
 # Exposition of Frontend Build Systems
 - URL: https://sunsetglow.net/posts/frontend-build-systems.html
 - Added At: 2024-07-27 10:39:12
-- [Link To Text](2024-07-27-exposition-of-frontend-build-systems_raw.md)
 
 ## TL;DR
 前端构建系统通过转译、打包和压缩等步骤，解决语言特性支持不足和性能问题。转译工具如Babel将现代JavaScript转换为旧版本，打包工具如Webpack合并文件减少请求，压缩工具如Terser减少文件大小。此外，元框架和构建工具提供预配置系统，源映射支持调试，热重载提高开发效率，单一代码库促进多团队协作。趋势显示，性能导向的新工具和SSR的普及是当前的发展方向。

@@ -1,7 +1,6 @@
 # The Depths of Wikipedians—Asterisk
 - URL: https://asteriskmag.com/issues/08/the-depths-of-wikipedians
 - Added At: 2024-12-11 15:00:21
-- [Link To Text](2024-12-11-the-depths-of-wikipedians—asterisk_raw.md)
 
 ## TL;DR
 Annie Rauwerda通过“Depths of Wikipedia”账号分享维基百科的晦涩内容，揭示了维基百科社区的多样性和复杂性。编辑者动机各异，编辑过程低效，规则繁多。维基百科在某些领域表现出色，但存在性别差距和质量不均问题。新编辑者需适应文化，代际差异和基金会关系也影响其未来发展。尽管LLM兴起，维基百科仍强调信息准确性。

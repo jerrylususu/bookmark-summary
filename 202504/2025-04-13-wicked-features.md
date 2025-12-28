@@ -1,7 +1,6 @@
 # Wicked features
 - URL: https://www.seangoedecke.com/wicked-features/
 - Added At: 2025-04-13 14:54:14
-- [Link To Text](2025-04-13-wicked-features_raw.md)
 
 ## TL;DR
 

@@ -2,7 +2,6 @@
 - URL: https://minimaxir.com/2025/12/nano-banana-pro/
 - Added At: 2025-12-23 14:32:52
 - Tags: #read #llm #deepdive
-- [Link To Text](2025-12-23-nano-banana-pro-is-the-best-ai-image-generator,-with-caveats_raw.md)
 
 ## TL;DR
 Google推出的Nano Banana Pro是Nano Banana升级版，图像质量、分辨率、文本渲染能力提升，支持2K/4K输出以及谷歌搜索关联、网格生成等新功能，但成本较高，对超现实风格创作支持不足，更适合高精度、商业用途场景。

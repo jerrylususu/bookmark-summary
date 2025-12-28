@@ -1,7 +1,6 @@
 # Nomadic Infrastructure Design for AI workloads
 - URL: https://xeiaso.net/talks/2025/nomadic-compute/
 - Added At: 2025-01-28 03:47:28
-- [Link To Text](2025-01-28-nomadic-infrastructure-design-for-ai-workloads_raw.md)
 
 ## TL;DR
 演讲者Xe分享了如何设计高效、低成本的生产级AI系统，重点讨论了计算、网络和存储的优化策略，如缩放到零、批量操作和加速冷启动。通过Docker镜像优化和游牧计算，系统可跨平台运行，减少对特定供应商的依赖。演讲还展示了按需启动GPU的现场演示，并提供了联系方式供观众提问。

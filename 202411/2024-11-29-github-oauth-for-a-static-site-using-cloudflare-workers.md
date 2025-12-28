@@ -1,7 +1,6 @@
 # GitHub OAuth for a static site using Cloudflare Workers
 - URL: https://til.simonwillison.net/cloudflare/workers-github-oauth
 - Added At: 2024-11-29 13:28:45
-- [Link To Text](2024-11-29-github-oauth-for-a-static-site-using-cloudflare-workers_raw.md)
 
 ## TL;DR
 作者通过Cloudflare Workers实现GitHub OAuth，解决了静态站点无法完全在客户端实现OAuth的问题，展示了如何利用Cloudflare Workers和Claude生成代码快速实现复杂的OAuth流程。

@@ -1,7 +1,6 @@
 # The Summer of Johann: prompt injections as far as the eye can see
 - URL: https://simonwillison.net/2025/Aug/15/the-summer-of-johann/
 - Added At: 2025-08-16 13:17:15
-- [Link To Text](2025-08-16-the-summer-of-johann-prompt-injections-as-far-as-the-eye-can-see_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # Algorithms we develop software by
 - URL: https://grantslatton.com/software-pathfinding
 - Added At: 2024-11-11 14:30:49
-- [Link To Text](2024-11-11-algorithms-we-develop-software-by_raw.md)
 
 ## TL;DR
 文章探讨了一种极端的软件开发方法，即每天重写代码以优化解决方案，并将其与“写两次”原则、“数量自有其质量”及“枪顶头”方法对比。强调通过重复和极端时间限制来提高工程师的解决方案寻找能力，并指出这些方法与路径寻找算法有相似之处。

@@ -1,7 +1,6 @@
 # Voice is (mostly) Bad UI
 - URL: https://shubhamjain.co/2024/04/16/voice-is-bad-ui/
 - Added At: 2024-11-15 15:32:17
-- [Link To Text](2024-11-15-voice-is-(mostly)-bad-ui_raw.md)
 
 ## TL;DR
 文章批评了Humane的AI Pin产品，认为语音作为用户界面存在局限性，如抽象思维表达困难、操作复杂、隐私问题、软件理解依赖UI、用户习惯和文化习惯难以改变，以及现实世界指令模糊性。作者认为语音界面并非未来，屏幕交互不可或缺。

@@ -1,7 +1,6 @@
 # Writing down (and searching through) every UUID · eieio.games
 - URL: https://eieio.games/blog/writing-down-every-uuid/
 - Added At: 2024-12-08 06:08:03
-- [Link To Text](2024-12-08-writing-down-(and-searching-through)-every-uuid-·-eieio.games_raw.md)
 
 ## TL;DR
 作者创建了[everyuuid.com](https://everyuuid.com/)，通过自定义滚动和Feistel密码生成随机UUID，解决了浏览器渲染限制和UUID搜索问题，未来计划增加社交和加密分析功能。

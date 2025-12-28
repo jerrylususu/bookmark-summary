@@ -2,7 +2,6 @@
 - URL: https://tonsky.me/blog/needy-programs/
 - Added At: 2025-11-14 13:16:23
 - Tags: #read
-- [Link To Text](2025-11-14-needy-programs_raw.md)
 
 ## TL;DR
 文章批评现代软件从“用户主导”转向“需求化”，通过账户、更新、通知和新功能引导四个层面，揭示应用如何侵占用户注意力。作者主张程序应回归安静、可控的体验，像基础工具一样仅响应指令。

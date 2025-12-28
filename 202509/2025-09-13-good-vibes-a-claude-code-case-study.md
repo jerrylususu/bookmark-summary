@@ -1,7 +1,6 @@
 # Good Vibes: A Claude-Code Case-Study
 - URL: https://taylor.town/diggit-000
 - Added At: 2025-09-13 09:40:00
-- [Link To Text](2025-09-13-good-vibes-a-claude-code-case-study_raw.md)
 
 ## TL;DR
 作者分享使用Claude Code在三天内构建代码分析工具的经验，强调编程需注重规划与设计，推荐Elm语言等工具，并提出迭代开发及最小化部署建议，倡导结构化结合AI辅助的高效开发方式。

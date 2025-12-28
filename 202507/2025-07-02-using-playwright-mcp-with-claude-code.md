@@ -1,7 +1,6 @@
 # Using Playwright MCP with Claude Code
 - URL: https://til.simonwillison.net/claude-code/playwright-mcp-claude-code
 - Added At: 2025-07-02 13:35:46
-- [Link To Text](2025-07-02-using-playwright-mcp-with-claude-code_raw.md)
 
 ## TL;DR
 

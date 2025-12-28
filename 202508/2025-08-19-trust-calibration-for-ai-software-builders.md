@@ -1,7 +1,6 @@
 # Trust Calibration for AI Software Builders
 - URL: https://fly.io/blog/trust-calibration-for-ai-software-builders/
 - Added At: 2025-08-19 15:03:30
-- [Link To Text](2025-08-19-trust-calibration-for-ai-software-builders_raw.md)
 
 ## TL;DR
 

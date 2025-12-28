@@ -1,7 +1,6 @@
 # It is 1939 and you want to use public-key cryptography
 - URL: https://shkspr.mobi/blog/2025/07/it-is-1939-and-you-want-to-use-public-key-cryptography/
 - Added At: 2025-07-14 13:51:39
-- [Link To Text](2025-07-14-it-is-1939-and-you-want-to-use-public-key-cryptography_raw.md)
 
 ## TL;DR
 

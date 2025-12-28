@@ -1,7 +1,6 @@
 # Highlights from the Claude 4 system prompt
 - URL: https://simonwillison.net/2025/May/25/claude-4-system-prompt/
 - Added At: 2025-05-26 13:55:26
-- [Link To Text](2025-05-26-highlights-from-the-claude-4-system-prompt_raw.md)
 
 ## TL;DR
 

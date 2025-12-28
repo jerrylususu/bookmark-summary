@@ -2,7 +2,6 @@
 - URL: https://anildash.com/2025/12/02/vibe-coding-empowering-and-imprisoning/
 - Added At: 2025-12-03 14:23:41
 - Tags: #read
-- [Link To Text](2025-12-03-vibe-coding-empowering-and-imprisoning---anil-dash_raw.md)
 
 ## TL;DR
 本文探讨AI辅助编程的双重影响：一方面提升效率、降低开发门槛；另一方面可能削弱劳动力价值、抑制创新并引发技术依赖。作者呼吁通过开源工具和教育引导，平衡技术便利性与社会公平，确保AI服务于广泛人群而非资本利益。

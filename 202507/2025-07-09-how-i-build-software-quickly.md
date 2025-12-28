@@ -1,7 +1,6 @@
 # How I build software quickly
 - URL: https://evanhahn.com/how-i-build-software-quickly/
 - Added At: 2025-07-09 12:34:24
-- [Link To Text](2025-07-09-how-i-build-software-quickly_raw.md)
 
 ## TL;DR
 

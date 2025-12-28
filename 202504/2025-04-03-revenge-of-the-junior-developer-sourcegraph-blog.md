@@ -1,7 +1,6 @@
 # Revenge of the junior developer | Sourcegraph Blog
 - URL: https://sourcegraph.com/blog/revenge-of-the-junior-developer
 - Added At: 2025-04-03 13:06:38
-- [Link To Text](2025-04-03-revenge-of-the-junior-developer-sourcegraph-blog_raw.md)
 
 ## TL;DR
 

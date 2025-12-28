@@ -1,7 +1,6 @@
 # Localhost dangers: CORS and DNS rebinding
 - URL: https://github.blog/security/application-security/localhost-dangers-cors-and-dns-rebinding/
 - Added At: 2025-04-04 07:31:01
-- [Link To Text](2025-04-04-localhost-dangers-cors-and-dns-rebinding_raw.md)
 
 ## TL;DR
 

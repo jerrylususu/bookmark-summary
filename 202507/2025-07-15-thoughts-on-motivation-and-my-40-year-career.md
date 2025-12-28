@@ -1,7 +1,6 @@
 # Thoughts on Motivation and My 40-Year Career
 - URL: https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/
 - Added At: 2025-07-15 15:10:46
-- [Link To Text](2025-07-15-thoughts-on-motivation-and-my-40-year-career_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # Writing Toy Software Is A Joy | Joshua Barretto
 - URL: https://www.jsbarretto.com/blog/software-is-joy/
 - Added At: 2025-06-16 14:06:43
-- [Link To Text](2025-06-16-writing-toy-software-is-a-joy-joshua-barretto_raw.md)
 
 ## TL;DR
 

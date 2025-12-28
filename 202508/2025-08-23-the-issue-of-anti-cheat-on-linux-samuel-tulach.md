@@ -1,7 +1,6 @@
 # The issue of anti-cheat on Linux | Samuel Tulach
 - URL: https://tulach.cc/the-issue-of-anti-cheat-on-linux/
 - Added At: 2025-08-23 11:38:05
-- [Link To Text](2025-08-23-the-issue-of-anti-cheat-on-linux-samuel-tulach_raw.md)
 
 ## TL;DR
 

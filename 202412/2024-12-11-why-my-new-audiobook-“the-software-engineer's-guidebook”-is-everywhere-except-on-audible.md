@@ -1,7 +1,6 @@
 # Why my new audiobook “The Software Engineer's Guidebook” is everywhere except on Audible
 - URL: https://newsletter.pragmaticengineer.com/p/software-engineers-guidebook-audiobook
 - Added At: 2024-12-11 14:42:24
-- [Link To Text](2024-12-11-why-my-new-audiobook-“the-software-engineer's-guidebook”-is-everywhere-except-on-audible_raw.md)
 
 ## TL;DR
 《The Software Engineer's Guidebook》有声书已发布，但未上Audible。Audible垄断市场，高抽成和慢审核对作者不利。作者通过Spotify等平台发布，鼓励读者支持竞争。

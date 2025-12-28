@@ -1,7 +1,6 @@
 # Redka: Redis re-implemented with SQL
 - URL: https://antonz.org/redka/
 - Added At: 2025-07-15 14:51:02
-- [Link To Text](2025-07-15-redka-redis-re-implemented-with-sql_raw.md)
 
 ## TL;DR
 

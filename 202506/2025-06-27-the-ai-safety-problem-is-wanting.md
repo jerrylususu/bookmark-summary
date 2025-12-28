@@ -1,7 +1,6 @@
 # The AI safety problem is wanting
 - URL: https://dynomight.net/wanting/
 - Added At: 2025-06-27 14:44:49
-- [Link To Text](2025-06-27-the-ai-safety-problem-is-wanting_raw.md)
 
 ## TL;DR
 

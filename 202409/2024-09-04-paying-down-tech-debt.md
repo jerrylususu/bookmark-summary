@@ -1,7 +1,6 @@
 # Paying down tech debt
 - URL: https://newsletter.pragmaticengineer.com/p/paying-down-tech-debt
 - Added At: 2024-09-04 15:25:20
-- [Link To Text](2024-09-04-paying-down-tech-debt_raw.md)
 
 ## TL;DR
 文章讨论了软件工程中技术债务的平衡问题，强调了技术债务的积极作用，如提升生产力和价值交付。通过可视化工具和具体策略如单元测试、重构和持续集成，文章提供了处理技术债务的方法，并强调了在短期目标与长期投资之间找到平衡的重要性。

@@ -1,7 +1,6 @@
 # Smarter than 'Ctrl+F': Linking Directly to Web Page Content
 - URL: https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html
 - Added At: 2024-12-14 13:51:15
-- [Link To Text](2024-12-14-smarter-than-'ctrl+f'-linking-directly-to-web-page-content_raw.md)
 
 ## TL;DR
 文本片段允许精确链接到网页中的特定文本，无需ID。通过特殊URL语法，浏览器可解析并高亮显示目标文本。该功能在主流浏览器中支持，但样式和行为略有差异。未来期待更多AI系统使用此功能，并希望浏览器提供更便捷的生成方式。

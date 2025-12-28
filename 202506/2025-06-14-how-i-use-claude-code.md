@@ -1,7 +1,6 @@
 # How I Use Claude Code
 - URL: https://spiess.dev/blog/how-i-use-claude-code
 - Added At: 2025-06-14 08:45:47
-- [Link To Text](2025-06-14-how-i-use-claude-code_raw.md)
 
 ## TL;DR
 

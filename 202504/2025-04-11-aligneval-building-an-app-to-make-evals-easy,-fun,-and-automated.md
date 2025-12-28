@@ -1,7 +1,6 @@
 # AlignEval: Building an App to Make Evals Easy, Fun, and Automated
 - URL: https://eugeneyan.com/writing/aligneval/
 - Added At: 2025-04-11 15:50:01
-- [Link To Text](2025-04-11-aligneval-building-an-app-to-make-evals-easy,-fun,-and-automated_raw.md)
 
 ## TL;DR
 

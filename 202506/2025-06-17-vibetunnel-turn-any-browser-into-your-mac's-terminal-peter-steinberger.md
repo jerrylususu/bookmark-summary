@@ -1,7 +1,6 @@
 # VibeTunnel: Turn Any Browser into Your Mac's Terminal | Peter Steinberger
 - URL: https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal
 - Added At: 2025-06-17 14:09:36
-- [Link To Text](2025-06-17-vibetunnel-turn-any-browser-into-your-mac's-terminal-peter-steinberger_raw.md)
 
 ## TL;DR
 

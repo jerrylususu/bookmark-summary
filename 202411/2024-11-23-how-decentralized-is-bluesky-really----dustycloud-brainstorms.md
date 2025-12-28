@@ -1,7 +1,6 @@
 # How decentralized is Bluesky really? -- Dustycloud Brainstorms
 - URL: https://dustycloud.org/blog/how-decentralized-is-bluesky/
 - Added At: 2024-11-23 00:21:26
-- [Link To Text](2024-11-23-how-decentralized-is-bluesky-really----dustycloud-brainstorms_raw.md)
 
 ## TL;DR
 Bluesky作为Twitter替代品成功吸引了大量用户，但其架构和技术实现并未真正实现去中心化和联邦化。尽管在用户体验和内容持久性方面表现出色，但其中心化问题和资源需求限制了去中心化的可能性。Bluesky应明确“可信退出”的定位，并逐步实现真正的去中心化。

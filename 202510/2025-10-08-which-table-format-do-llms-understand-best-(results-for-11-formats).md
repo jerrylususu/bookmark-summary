@@ -1,7 +1,6 @@
 # Which Table Format Do LLMs Understand Best? (Results for 11 Formats)
 - URL: https://improvingagents.com/blog/best-input-data-format-for-llms
 - Added At: 2025-10-08 02:35:54
-- [Link To Text](2025-10-08-which-table-format-do-llms-understand-best-(results-for-11-formats)_raw.md)
 
 ## TL;DR
 研究发现表格数据格式显著影响LLM理解能力。Markdown-KV准确率最高但不经济，CSV和JSONL成本低但准确性较差。推荐根据需求选择格式，优先考虑Markdown相关方案，避免默认使用CSV或JSONL。

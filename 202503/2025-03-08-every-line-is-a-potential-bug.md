@@ -1,7 +1,6 @@
 # Every Line Is a Potential Bug
 - URL: https://www.teamten.com/lawrence/writings/every_line_is_a_potential_bug.html
 - Added At: 2025-03-08 11:46:11
-- [Link To Text](2025-03-08-every-line-is-a-potential-bug_raw.md)
 
 ## TL;DR
 文章通过案例说明过度优化和代码复杂性可能引发潜在错误。原始代码虽简单但正确，评审提议动态计算等待时间时，两次修改均引入缺陷（如负数等待或无限期等待）。作者强调代码复杂性与Bug直接相关，主张仅在必要时使用最简方案，抵制冗余优化和过度设计。

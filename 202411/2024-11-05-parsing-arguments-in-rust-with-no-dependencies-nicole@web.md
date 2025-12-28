@@ -1,7 +1,6 @@
 # Parsing arguments in Rust with no dependencies | nicole@web
 - URL: https://ntietz.com/blog/parsing-arguments-rust-no-deps/?utm_source=atom&utm_medium=feed
 - Added At: 2024-11-05 13:35:50
-- [Link To Text](2024-11-05-parsing-arguments-in-rust-with-no-dependencies-nicole@web_raw.md)
 
 ## TL;DR
 文章讲述了作者与朋友合作时选择实现命令行参数解析器的过程，决定从零开始编写以深入学习。通过设计简单的解析器结构，实现位置参数和命名参数的支持，并详细描述了实现细节。尽管缺少部分功能，但无依赖的好处包括减少编译时间和bug，建议更多项目从零构建以减少依赖。

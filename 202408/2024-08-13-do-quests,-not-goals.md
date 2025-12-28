@@ -1,7 +1,6 @@
 # Do Quests, Not Goals
 - URL: https://www.raptitude.com/2024/08/do-quests-not-goals/
 - Added At: 2024-08-13 14:06:56
-- [Link To Text](2024-08-13-do-quests,-not-goals_raw.md)
 
 ## TL;DR
 文章提出将“目标”替换为“任务”，以增加追求的吸引力和实现的可能性。通过对比目标与任务的特性，强调任务的冒险性和个人转变的重要性。文章还介绍了One Big Win项目，帮助人们在日常生活中实现重要个人目标，并通过读者评论展示了任务心态的实际应用和效果。

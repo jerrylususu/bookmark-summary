@@ -1,7 +1,6 @@
 # Great software design looks underwhelming
 - URL: https://www.seangoedecke.com/great-software-design/
 - Added At: 2025-03-07 14:37:11
-- [Link To Text](2025-03-07-great-software-design-looks-underwhelming_raw.md)
 
 ## TL;DR
 优秀的设计通过结构化消除潜在故障而非依赖复杂补丁。其核心方法包括：保护高频路径（如将低效组件移出核心流程）、减少冗余组件（如重构系统为静态网站）、集中数据状态（设置单一数据源）、依赖可靠技术（如选择高稳定服务器）。设计应优先消除高风险问题，即使牺牲性能或灵活性，最终以极简架构实现系统稳定与可维护性。

@@ -1,7 +1,6 @@
 # Leader Election With S3 Conditional Writes
 - URL: https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/
 - Added At: 2024-08-31 04:39:50
-- [Link To Text](2024-08-31-leader-election-with-s3-conditional-writes_raw.md)
 
 ## TL;DR
 本文介绍了在分布式系统中实现领导者选举的方法，特别是在对象存储如S3上利用条件写入实现分布式锁的机制。通过竞争创建锁文件，节点可以成为领导者执行特定任务，同时处理锁的过期和时钟漂移问题，确保系统的正确性和吞吐量。

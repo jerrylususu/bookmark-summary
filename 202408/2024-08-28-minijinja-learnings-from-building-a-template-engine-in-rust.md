@@ -1,7 +1,6 @@
 # MiniJinja: Learnings from Building a Template Engine in Rust
 - URL: https://lucumr.pocoo.org/2024/8/27/minijinja/
 - Added At: 2024-08-28 14:50:51
-- [Link To Text](2024-08-28-minijinja:-learnings-from-building-a-template-engine-in-rust_raw.md)
 
 ## TL;DR
 MiniJinja是Rust实现的Jinja2兼容模板引擎，经过两年开发几乎实现Jinja2所有功能。它构建了基于文本生成优化的动态编程语言，通过Value类型和Object trait管理运行时值，并设计了基于栈的VM和AST字节码编译器。API设计巧妙，文档详尽，适合需要Jinja2兼容或对Rust运行时构建感兴趣的开发者。

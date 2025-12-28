@@ -1,7 +1,6 @@
 # Slashing my ".bashrc" in half
 - URL: https://www.bitecode.dev/p/slashing-my-bashrc-in-half
 - Added At: 2025-02-21 13:01:22
-- [Link To Text](2025-02-21-slashing-my-.bashrc-in-half_raw.md)
 
 ## TL;DR
 作者通过引入Atuin、Starship等现代工具，成功简化了`.bashrc`，减少了插件和配置，提升了效率和可维护性。这些工具提供了高性能和跨平台兼容性，减少了手动配置工作量，使得终端体验更加流畅。

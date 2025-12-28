@@ -1,7 +1,6 @@
 # Command Line Data Processing: Using DuckDB as a Unix Tool
 - URL: https://duckdb.org/2024/06/20/cli-data-processing-using-duckdb-as-a-unix-tool.html
 - Added At: 2024-08-24 12:47:49
-- [Link To Text](2024-08-24-command-line-data-processing:-using-duckdb-as-a-unix-tool_raw.md)
 
 ## TL;DR
 本文探讨了DuckDB作为Unix命令行工具在数据处理中的应用，比较了其与传统Unix工具的差异，展示了DuckDB的强大功能和性能优势，并提供了详细的数据处理示例。DuckDB以其SQL语法和自动优化特性，成为复杂数据处理任务的理想选择。

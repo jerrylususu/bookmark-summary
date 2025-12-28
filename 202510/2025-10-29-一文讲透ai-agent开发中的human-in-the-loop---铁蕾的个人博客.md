@@ -1,7 +1,6 @@
 # 一文讲透AI Agent开发中的human-in-the-loop - 铁蕾的个人博客
 - URL: https://zhangtielei.com/posts/blog-ai-agent-human-in-the-loop.html
 - Added At: 2025-10-29 15:24:24
-- [Link To Text](2025-10-29-一文讲透ai-agent开发中的human-in-the-loop---铁蕾的个人博客_raw.md)
 
 ## TL;DR
 本文阐述了AI Agent开发中Human-in-the-loop机制的必要性，及其技术实现关键。为解决自主性与确定性的矛盾，需在关键环节引入人工干预。实现方案根据通信通道分为两类：可会话保持（如WebSocket）时直接等待反馈；无法保持时需序列化状态并持久化存储。序列化复杂运行时状态是主要挑战，需精简设计以准确恢复状态。

@@ -1,7 +1,6 @@
 # Passkeys and Modern Authentication
 - URL: https://lucumr.pocoo.org/2025/9/2/passkeys/
 - Added At: 2025-09-02 15:15:11
-- [Link To Text](2025-09-02-passkeys-and-modern-authentication_raw.md)
 
 ## TL;DR
 

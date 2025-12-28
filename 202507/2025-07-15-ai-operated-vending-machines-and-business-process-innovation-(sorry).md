@@ -1,7 +1,6 @@
 # AI-operated vending machines and business process innovation (sorry)
 - URL: https://interconnected.org/home/2025/07/10/vending
 - Added At: 2025-07-15 14:55:00
-- [Link To Text](2025-07-15-ai-operated-vending-machines-and-business-process-innovation-(sorry)_raw.md)
 
 ## TL;DR
 

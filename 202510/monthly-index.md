@@ -109,7 +109,7 @@
   - Tags: #read #security
 
 - (2025-10-18) [The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements](2025-10-18-the-temporal-dead-zone%2C-or-why-the-typescript-codebase-is-littered-with-var-statements.md)
-  - TypeScript代码库为优化约8%性能，选择使用存在缺陷的语句替代/，以规避变量时空死区带来的运行时开销。尽管现代JavaScript推荐使用更安全的块级作用域声明，但出于性能权衡仍保留。
+  - TypeScript代码库为优化约8%性能，选择使用存在缺陷的`var`语句替代`let`/`const`，以规避变量时空死区带来的运行时开销。尽管现代JavaScript推荐使用更安全的块级作用域声明，但出于性能权衡仍保留`var`。
   - Tags: #read #js
 
 - (2025-10-18) [Use weird tests to capture tacit knowledge](2025-10-18-use-weird-tests-to-capture-tacit-knowledge.md)
@@ -189,11 +189,11 @@
   - Tags: #read #security #oss
 
 - (2025-10-11) [Quick and dirty bar-charts using HTML's meter element](2025-10-11-quick-and-dirty-bar-charts-using-html%27s-meter-element.md)
-  - 这篇文章介绍了一种利用HTML的元素和CSS的属性创建简易垂直条形图的轻量级方法。该方法无需依赖外部库，支持样式定制和交互，简单实用但样式较为基础。
+  - 这篇文章介绍了一种利用HTML的`<meter>`元素和CSS的`writing-mode`属性创建简易垂直条形图的轻量级方法。该方法无需依赖外部库，支持样式定制和交互，简单实用但样式较为基础。
   - Tags: #frontend #hack
 
 - (2025-10-10) [Finding a VS Code Memory Leak](2025-10-10-finding-a-vs-code-memory-leak.md)
-  - 作者Bruce Dawson通过观察同事电脑的高进程ID，发现VS Code因未关闭进程句柄导致内存泄漏。问题源于代码中忘记调用。经ETW分析后迅速修复，凸显资源管理和RAII重要性。
+  - 作者Bruce Dawson通过观察同事电脑的高进程ID，发现VS Code因未关闭进程句柄导致内存泄漏。问题源于代码中忘记调用`CloseHandle`。经ETW分析后迅速修复，凸显资源管理和RAII重要性。
   - Tags: #read #perf
 
 - (2025-10-10) [A new breed of analyzers](2025-10-10-a-new-breed-of-analyzers.md)

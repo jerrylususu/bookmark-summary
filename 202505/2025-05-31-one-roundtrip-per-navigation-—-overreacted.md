@@ -1,7 +1,6 @@
 # One Roundtrip Per Navigation — overreacted
 - URL: https://overreacted.io/one-roundtrip-per-navigation/
 - Added At: 2025-05-31 12:28:18
-- [Link To Text](2025-05-31-one-roundtrip-per-navigation-—-overreacted_raw.md)
 
 ## TL;DR
 

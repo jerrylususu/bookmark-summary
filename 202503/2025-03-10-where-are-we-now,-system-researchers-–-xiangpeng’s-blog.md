@@ -1,7 +1,6 @@
 # Where are we now, system researchers? – Xiangpeng’s blog
 - URL: https://blog.xiangpeng.systems/posts/system-researchers/
 - Added At: 2025-03-10 14:10:04
-- [Link To Text](2025-03-10-where-are-we-now,-system-researchers-–-xiangpeng’s-blog_raw.md)
 
 ## TL;DR
 系统研究因学术界脱离实际需求、学者缺乏工程实践能力（如编码经验不足）及论文评审侧重理论创新而实用性欠奉，导致研究价值被工业界超越。作者主张通过大规模实践（如编写代码、用户交互）积累系统性认知，重建重视实操的研究文化。

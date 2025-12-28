@@ -1,7 +1,6 @@
 # Vision Language Models (Better, faster, stronger)
 - URL: https://huggingface.co/blog/vlms-2025
 - Added At: 2025-05-14 13:42:26
-- [Link To Text](2025-05-14-vision-language-models-(better,-faster,-stronger)_raw.md)
 
 ## TL;DR
 

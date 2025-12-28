@@ -1,7 +1,6 @@
 # Things not to do as a presenter if you want a great talk recording | Christian Heilmann
 - URL: https://christianheilmann.com/2025/08/05/things-not-to-do-as-a-presenter-if-you-want-a-great-talk-recording/
 - Added At: 2025-08-05 13:51:30
-- [Link To Text](2025-08-05-things-not-to-do-as-a-presenter-if-you-want-a-great-talk-recording-christian-heilmann_raw.md)
 
 ## TL;DR
 

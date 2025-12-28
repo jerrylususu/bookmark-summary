@@ -1,7 +1,6 @@
 # Everything Must Be Paid for Twice
 - URL: https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/
 - Added At: 2025-01-11 06:40:31
-- [Link To Text](2025-01-11-everything-must-be-paid-for-twice_raw.md)
 
 ## TL;DR
 文章探讨了“双重支付理论”，即购买物品的第一价格（金钱）和使用物品的第二价格（努力和时间）。现代生活中，人们往往支付了第一价格却忽略了第二价格，导致资源浪费和未实现的潜力。通过减少不必要的购买并专注于支付第二价格，可以更充分地利用已有资源，获得更大的满足感。

@@ -1,7 +1,6 @@
 # Home | nand2tetris
 - URL: https://www.nand2tetris.org
 - Added At: 2024-11-07 15:00:52
-- [Link To Text](2024-11-07-home-nand2tetris_raw.md)
 
 ## TL;DR
 该网站提供免费开源的计算机系统构建课程，包括硬件和软件部分，适用于学生、教师和自学者。课程基于《The Elements of Computing Systems》，并在全球400多所教育机构中普及。教师可获取额外资源。

@@ -1,7 +1,6 @@
 # Performance measurements… and the people who love them
 - URL: https://blog.cloudflare.com/loving-performance-measurements/
 - Added At: 2025-05-20 14:19:00
-- [Link To Text](2025-05-20-performance-measurements…-and-the-people-who-love-them_raw.md)
 
 ## TL;DR
 

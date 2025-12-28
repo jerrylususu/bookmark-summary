@@ -1,7 +1,6 @@
 # The CAP Theorem of Clustering: Why Every Algorithm Must Sacrifice Something
 - URL: https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering
 - Added At: 2024-10-29 14:24:58
-- [Link To Text](2024-10-29-the-cap-theorem-of-clustering-why-every-algorithm-must-sacrifice-something_raw.md)
 
 ## TL;DR
 聚类算法无法同时满足尺度不变性、丰富性和一致性，Kleinberg定理揭示了这一数学缺陷。实际应用中，需根据需求选择牺牲某一属性，如单链接聚类牺牲丰富性，k-means牺牲丰富性和一致性。理解这些限制有助于设计更有效的系统。

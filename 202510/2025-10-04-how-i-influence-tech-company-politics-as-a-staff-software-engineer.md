@@ -1,7 +1,6 @@
 # How I influence tech company politics as a staff software engineer
 - URL: https://www.seangoedecke.com/how-to-influence-politics/
 - Added At: 2025-10-04 14:41:53
-- [Link To Text](2025-10-04-how-i-influence-tech-company-politics-as-a-staff-software-engineer_raw.md)
 
 ## TL;DR
 软件工程师可通过参与高价值项目、利用高层关注提出技术方案并把握时机参与，良性影响公司决策，避免政治内耗，实现技术与目标的对齐。

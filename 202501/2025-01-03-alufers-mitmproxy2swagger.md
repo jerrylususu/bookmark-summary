@@ -1,7 +1,6 @@
 # alufers/mitmproxy2swagger
 - URL: https://github.com/alufers/mitmproxy2swagger
 - Added At: 2025-01-03 15:33:27
-- [Link To Text](2025-01-03-alufers-mitmproxy2swagger_raw.md)
 
 ## TL;DR
 mitmproxy2swagger是一个自动化工具，可将mitmproxy捕获的流量或浏览器导出的HAR文件转换为OpenAPI 3.0规范，逆向工程REST API。支持Python和Docker安装，提供详细的安装和使用指南，开发者可通过poetry和pytest进行依赖管理和测试。项目采用MIT许可证。

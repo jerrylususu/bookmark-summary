@@ -1,7 +1,6 @@
 # Async, Sync, in Between
 - URL: https://antfu.me/posts/async-sync-in-between
 - Added At: 2025-03-28 16:00:19
-- [Link To Text](2025-03-28-async,-sync,-in-between_raw.md)
 
 ## TL;DR
 

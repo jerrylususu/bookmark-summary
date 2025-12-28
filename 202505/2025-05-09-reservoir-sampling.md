@@ -1,7 +1,6 @@
 # Reservoir Sampling
 - URL: https://samwho.dev/reservoir-sampling/
 - Added At: 2025-05-09 14:03:10
-- [Link To Text](2025-05-09-reservoir-sampling_raw.md)
 
 ## TL;DR
 

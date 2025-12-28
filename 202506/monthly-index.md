@@ -21,7 +21,7 @@
   - Tags: #read #llm #agent #video
 
 - (2025-06-30) [Tip: Use keyword-only arguments in Python dataclasses – ChipLog — Christian Hammond](2025-06-30-tip-use-keyword-only-arguments-in-python-dataclasses-%E2%80%93-chiplog-%E2%80%94-christian-hammond.md)
-  - Python数据类通过设置强制使用关键字参数，提升可维护性。该参数使生成的含，所有参数需显式指定，避免字段排序变动引发错误。同时允许子类自由添加必要字段，不受父类默认值顺序限制，推荐库开发者使用以确保扩展性。需Python3.10+支持，旧版本需动态设置装饰器参数但子类仍受限制，建议手动添加默认值。
+  - Python数据类通过设置`kw_only=True`强制使用关键字参数，提升可维护性。该参数使生成的`__init__()`含`*`，所有参数需显式指定，避免字段排序变动引发错误。同时允许子类自由添加必要字段，不受父类默认值顺序限制，推荐库开发者使用以确保扩展性。需Python3.10+支持，旧版本需动态设置装饰器参数但子类仍受限制，建议手动添加默认值。
   - Tags: #read #tips
 
 - (2025-06-29) [Prompting vs JSON Mode vs Function Calling vs Constrained Generation vs SAP](2025-06-29-prompting-vs-json-mode-vs-function-calling-vs-constrained-generation-vs-sap.md)
@@ -73,7 +73,7 @@
   - Tags: #read #llm
 
 - (2025-06-22) [My First Open Source AI Generated Library](2025-06-22-my-first-open-source-ai-generated-library.md)
-  - Armin Ronacher借助Claude AI开发开源库，AI完成代码编写、测试、文档等核心工作，实现解析错误XML的设计目标。项目具备零依赖、代码清晰、测试充分等特征，代码质量获专家认可媲美人工编写，但强调成果源于开发者全程把控与人机协作，而非AI独立创作。
+  - Armin Ronacher借助Claude AI开发开源库`sloppy-xml-py`，AI完成代码编写、测试、文档等核心工作，实现解析错误XML的设计目标。项目具备零依赖、代码清晰、测试充分等特征，代码质量获专家认可媲美人工编写，但强调成果源于开发者全程把控与人机协作，而非AI独立创作。
   - Tags: #read #llm
 
 - (2025-06-22) [Pure and impure software engineering](2025-06-22-pure-and-impure-software-engineering.md)
@@ -81,7 +81,7 @@
   - Tags: #read #llm #career
 
 - (2025-06-21) [CSS Classes considered harmful](2025-06-21-css-classes-considered-harmful.md)
-  - 文章指出HTML的属性存在历史局限，无法适应现代复杂交互需求。现有解决方案（如BEM、CSS Modules）存在状态管理缺失、样式膨胀等问题。建议采用HTML原生特性：1）用属性参数化控制状态（如）；2）通过自定义标签（如）替代类名标识组件；3）借助定义CSS状态伪类，实现更可靠的状态管理和样式控制。此举可避免命名冲突、减少技术债务，并利用未来CSS标准（如函数）优化实现。
+  - 文章指出HTML的`class`属性存在历史局限，无法适应现代复杂交互需求。现有解决方案（如BEM、CSS Modules）存在状态管理缺失、样式膨胀等问题。建议采用HTML原生特性：1）用`data-*`属性参数化控制状态（如`data-size`）；2）通过自定义标签（如`<my-card>`）替代类名标识组件；3）借助`element-internals`定义CSS状态伪类，实现更可靠的状态管理和样式控制。此举可避免命名冲突、减少技术债务，并利用未来CSS标准（如`attr()`函数）优化实现。
   - Tags: #read #deepdive #frontend
 
 - (2025-06-21) [Decoding Google: Converting a Black Box to a White Box](2025-06-21-decoding-google-converting-a-black-box-to-a-white-box.md)
@@ -233,7 +233,7 @@
   - Tags: #read #llm #guide
 
 - (2025-06-11) [Using `make` to compile C programs (for non-C-programmers)](2025-06-11-using-%60make%60-to-compile-c-programs-%28for-non-c-programmers%29.md)
-  - 本文总结了跨平台编译C/C++程序的步骤：安装编译器（Linux用apt，Mac需Xcode或Homebrew）、管理依赖项（注意跨平台包名差异）、运行配置脚本生成Makefile、使用加速编译、通过和环境变量解决依赖路径问题（如Mac需指定/opt/homebrew路径），以及手动安装二进制文件。建议开发者通过基础编译参数处理问题，而非深入复杂工具细节。
+  - 本文总结了跨平台编译C/C++程序的步骤：安装编译器（Linux用apt，Mac需Xcode或Homebrew）、管理依赖项（注意跨平台包名差异）、运行配置脚本生成Makefile、使用`make -j`加速编译、通过`CPPFLAGS`和`LDLIBS`环境变量解决依赖路径问题（如Mac需指定/opt/homebrew路径），以及手动安装二进制文件。建议开发者通过基础编译参数处理问题，而非深入复杂工具细节。
   - Tags: #read #guide
 
 - (2025-06-10) [The evasive evitability of enshittification](2025-06-10-the-evasive-evitability-of-enshittification.md)
@@ -277,11 +277,11 @@
   - Tags: #read #security
 
 - (2025-06-03) [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints · V8](2025-06-03-giving-v8-a-heads-up-faster-javascript-startup-with-explicit-compile-hints-%C2%B7-v8.md)
-  - V8引擎新增显式编译提示功能，允许开发者通过注释提前编译JavaScript函数，减少网页加载时的延迟。测试显示此方法可平均缩短编译时间630毫秒，但需避免过度使用以防资源浪费。未来计划支持更精准的函数级编译控制。
+  - V8引擎新增显式编译提示功能，允许开发者通过`//# allFunctionsCalledOnLoad`注释提前编译JavaScript函数，减少网页加载时的延迟。测试显示此方法可平均缩短编译时间630毫秒，但需避免过度使用以防资源浪费。未来计划支持更精准的函数级编译控制。
   - Tags: #read #js
 
 - (2025-06-03) [Directive prologues and JavaScript dark matter](2025-06-03-directive-prologues-and-javascript-dark-matter.md)
-  - 本文总结了TypeScript/JavaScript中三种特殊控制语法：JSX Pragmas通过C风格注释（如）配置转译规则，需置于文件起始；Directive Prologues如和React的等指令需置于代码开头；Magic Comments以sourcemap注释形式（如）指导编译。三者中仅指令标准化，其余依赖非标准实现，但均在代码转译或执行中扮演关键角色。
+  - 本文总结了TypeScript/JavaScript中三种特殊控制语法：JSX Pragmas通过C风格注释（如`/** @jsx h */`）配置转译规则，需置于文件起始；Directive Prologues如`"use strict"`和React的`"use client"`等指令需置于代码开头；Magic Comments以sourcemap注释形式（如`//# sourceMappingURL`）指导编译。三者中仅指令标准化，其余依赖非标准实现，但均在代码转译或执行中扮演关键角色。
   - Tags: #read #js
 
 - (2025-06-03) [My AI Skeptic Friends Are All Nuts](2025-06-03-my-ai-skeptic-friends-are-all-nuts.md)

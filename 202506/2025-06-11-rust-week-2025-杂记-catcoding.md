@@ -1,7 +1,6 @@
 # Rust Week 2025 杂记 | CatCoding
 - URL: https://catcoding.me/p/rust-week-notes/
 - Added At: 2025-06-11 14:54:24
-- [Link To Text](2025-06-11-rust-week-2025-杂记-catcoding_raw.md)
 
 ## TL;DR
 

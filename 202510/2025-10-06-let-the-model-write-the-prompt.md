@@ -1,7 +1,6 @@
 # Let the Model Write the Prompt
 - URL: https://www.dbreunig.com/2025/06/10/let-the-model-write-the-prompt.html
 - Added At: 2025-10-06 05:17:13
-- [Link To Text](2025-10-06-let-the-model-write-the-prompt_raw.md)
 
 ## TL;DR
 DSPy框架通过编程方式定义任务，取代传统提示工程，实现任务与模型解耦。它优化提示生成，提升准确率与模型兼容性，简化代码维护并支持持续改进，适用于如地理空间数据合并等任务。

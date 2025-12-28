@@ -1,7 +1,6 @@
 # The Slow Collapse of Critical Thinking in OSINT due to AI
 - URL: https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai
 - Added At: 2025-04-12 12:42:26
-- [Link To Text](2025-04-12-the-slow-collapse-of-critical-thinking-in-osint-due-to-ai_raw.md)
 
 ## TL;DR
 

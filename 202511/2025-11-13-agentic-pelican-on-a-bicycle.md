@@ -2,7 +2,6 @@
 - URL: https://www.robert-glaser.de/agentic-pelican-on-a-bicycle/
 - Added At: 2025-11-13 13:35:47
 - Tags: #read #llm
-- [Link To Text](2025-11-13-agentic-pelican-on-a-bicycle_raw.md)
 
 ## TL;DR
 通过智能体迭代测试六款多模态模型生成“鹈鹕骑自行车”SVG的能力，发现部分模型能自我改进细节，但整体构图变化有限。实验揭示了模型在视觉评估与创意任务中的能力差异，强调了迭代方法对测试自主改进潜力的价值。

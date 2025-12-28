@@ -1,7 +1,6 @@
 # Egoless Engineering
 - URL: https://egoless.engineering/#19
 - Added At: 2024-12-04 14:37:29
-- [Link To Text](2024-12-04-egoless-engineering_raw.md)
 
 ## TL;DR
 文章分享了作者在工程领域的经历，强调了无我工程和团队协作的重要性。通过多个工作实例，讨论了角色划分、组织问题和效率低下的原因。提出领导者应鼓励合作、谦逊，并建立心理安全的团队文化，以提升整体效率和创新能力。

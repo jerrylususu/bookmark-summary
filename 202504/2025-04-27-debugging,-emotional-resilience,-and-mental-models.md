@@ -1,7 +1,6 @@
 # Debugging, emotional resilience, and mental models
 - URL: https://www.seangoedecke.com/debugging/
 - Added At: 2025-04-27 13:35:25
-- [Link To Text](2025-04-27-debugging,-emotional-resilience,-and-mental-models_raw.md)
 
 ## TL;DR
 

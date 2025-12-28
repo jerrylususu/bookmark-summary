@@ -1,7 +1,6 @@
 # Some esoteric versioning schemes (monotonic moronity)
 - URL: https://shkspr.mobi/blog/2025/02/some-esoteric-versioning-schemes-monotonic-moronity/
 - Added At: 2025-02-12 13:25:14
-- [Link To Text](2025-02-12-some-esoteric-versioning-schemes-(monotonic-moronity)_raw.md)
 
 ## TL;DR
 文章探讨了多种软件版本控制方案，包括SemVer、CalVer等主要方案，以及EffVer、0Ver等替代方案，分析了各自的优缺点，提出了选择版本控制方案应根据开发者的具体需求。

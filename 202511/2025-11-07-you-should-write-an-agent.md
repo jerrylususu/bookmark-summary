@@ -2,7 +2,6 @@
 - URL: https://fly.io/blog/everyone-write-an-agent/
 - Added At: 2025-11-07 12:32:08
 - Tags: #read #llm
-- [Link To Text](2025-11-07-you-should-write-an-agent_raw.md)
 
 ## TL;DR
 通过构建简易Agent可深入理解其原理：仅需少量代码实现对话和工具调用，上下文管理决定性能上限。无需依赖复杂框架，动手实践能快速验证创新思路。当前技术仍处探索期，个人开发者具备低成本快速迭代的优势。

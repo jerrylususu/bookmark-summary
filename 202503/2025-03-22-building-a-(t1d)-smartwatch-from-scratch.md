@@ -1,7 +1,6 @@
 # Building a (T1D) Smartwatch from Scratch
 - URL: https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch
 - Added At: 2025-03-22 13:37:39
-- [Link To Text](2025-03-22-building-a-(t1d)-smartwatch-from-scratch_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # Tacit Knowledge is Dangerous
 - URL: https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/
 - Added At: 2024-08-24 11:55:35
-- [Link To Text](2024-08-24-tacit-knowledge-is-dangerous_raw.md)
 
 ## TL;DR
 文章讨论了Tacit Knowledge和Tribal Knowledge的区别，强调了书面化知识的重要性，尽管Tacit Knowledge难以书面化，但应尽力记录以提高知识可访问性和团队效率。提出通过文档和视频形式记录知识，以解决信息集中和依赖Tacit Knowledge带来的问题。

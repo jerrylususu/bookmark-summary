@@ -1,7 +1,6 @@
 # My AI Prompt Engineering Playbook for Developers
 - URL: https://nmn.gl/blog/ai-prompt-engineering
 - Added At: 2025-04-22 15:08:15
-- [Link To Text](2025-04-22-my-ai-prompt-engineering-playbook-for-developers_raw.md)
 
 ## TL;DR
 

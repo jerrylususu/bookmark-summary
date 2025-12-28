@@ -1,7 +1,6 @@
 # Spatial Joins in DuckDB
 - URL: https://duckdb.org/2025/08/08/spatial-joins.html
 - Added At: 2025-08-25 07:26:10
-- [Link To Text](2025-08-25-spatial-joins-in-duckdb_raw.md)
 
 ## TL;DR
 

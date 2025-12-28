@@ -1,7 +1,6 @@
 # NYC’s Urban Textscape
 - URL: https://pudding.cool/2025/07/street-view/
 - Added At: 2025-07-25 13:53:13
-- [Link To Text](2025-07-25-nyc’s-urban-textscape_raw.md)
 
 ## TL;DR
 

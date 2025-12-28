@@ -1,7 +1,6 @@
 # What's involved in getting a "modern" terminal setup?
 - URL: https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/
 - Added At: 2025-01-12 11:55:29
-- [Link To Text](2025-01-12-what's-involved-in-getting-a-modern-terminal-setup_raw.md)
 
 ## TL;DR
 现代终端体验需要多方面的配置，包括支持多行复制粘贴、无限历史记录、24位颜色、剪贴板集成等功能。推荐使用`fish`或`zsh`作为shell，支持24位颜色的终端模拟器，以及开箱即用的文本编辑器如`micro`或`helix`。配置过程中需注意相互影响，逐步调整，找到适合自己的稳定状态。

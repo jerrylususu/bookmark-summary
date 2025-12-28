@@ -2,7 +2,6 @@
 - URL: https://beny23.github.io/posts/capturing_a_padding_oracle/
 - Added At: 2025-11-13 14:01:12
 - Tags: #read #security
-- [Link To Text](2025-11-13-vibe-hacking-a-padding-oracle_raw.md)
 
 ## TL;DR
 这篇文章记录作者在CTF挑战中利用编码绕过、填充预言机和SQL注入等漏洞攻破一个加密粘贴板服务，成功获取四个Flag的过程。挑战暴露了错误信息泄露、加密实现缺陷及数据库安全问题，凸显了漏洞链的危害。

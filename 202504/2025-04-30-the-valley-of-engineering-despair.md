@@ -1,7 +1,6 @@
 # The valley of engineering despair
 - URL: https://www.seangoedecke.com/the-valley-of-engineering-despair/
 - Added At: 2025-04-30 11:56:51
-- [Link To Text](2025-04-30-the-valley-of-engineering-despair_raw.md)
 
 ## TL;DR
 

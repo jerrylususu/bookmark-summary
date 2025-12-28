@@ -1,7 +1,6 @@
 # Rolling the ladder up behind us
 - URL: https://xeiaso.net/blog/2025/rolling-ladder-behind-us/
 - Added At: 2025-06-21 05:46:41
-- [Link To Text](2025-06-21-rolling-the-ladder-up-behind-us_raw.md)
 
 ## TL;DR
 

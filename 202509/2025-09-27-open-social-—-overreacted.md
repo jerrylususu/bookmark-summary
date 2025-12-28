@@ -1,7 +1,6 @@
 # Open Social — overreacted
 - URL: https://overreacted.io/open-social/
 - Added At: 2025-09-27 02:36:41
-- [Link To Text](2025-09-27-open-social-—-overreacted_raw.md)
 
 ## TL;DR
 文章类比开源软件，主张社交媒体数据应开源化：用户数据个人存储、去中心互联，打破平台垄断，促进创新与互操作性。

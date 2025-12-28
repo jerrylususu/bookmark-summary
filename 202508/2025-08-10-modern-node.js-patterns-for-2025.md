@@ -1,7 +1,6 @@
 # Modern Node.js Patterns for 2025
 - URL: https://kashw1n.com/blog/nodejs-2025/
 - Added At: 2025-08-10 15:04:02
-- [Link To Text](2025-08-10-modern-node.js-patterns-for-2025_raw.md)
 
 ## TL;DR
 

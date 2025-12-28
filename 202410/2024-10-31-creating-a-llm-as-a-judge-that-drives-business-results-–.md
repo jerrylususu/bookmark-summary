@@ -1,7 +1,6 @@
 # Creating a LLM-as-a-Judge That Drives Business Results –
 - URL: https://hamel.dev/blog/posts/llm-judge/
 - Added At: 2024-10-31 14:44:25
-- [Link To Text](2024-10-31-creating-a-llm-as-a-judge-that-drives-business-results-–_raw.md)
 
 ## TL;DR
 文章提出通过“批评影子”技术解决AI团队在构建系统时的数据过载问题，包括找到领域专家、创建多样性数据集、指导专家进行通过/失败判断、修复错误、迭代构建LLM法官、进行错误分析等步骤，强调数据分析和反馈循环的重要性。

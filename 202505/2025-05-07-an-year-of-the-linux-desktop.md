@@ -1,7 +1,6 @@
 # An year of the Linux Desktop
 - URL: https://xeiaso.net/blog/2025/yotld/
 - Added At: 2025-05-07 13:47:09
-- [Link To Text](2025-05-07-an-year-of-the-linux-desktop_raw.md)
 
 ## TL;DR
 

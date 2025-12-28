@@ -1,7 +1,6 @@
 # The History of Core Web Vitals
 - URL: https://addyosmani.com/blog/core-web-vitals/
 - Added At: 2025-10-06 06:41:19
-- [Link To Text](2025-10-06-the-history-of-core-web-vitals_raw.md)
 
 ## TL;DR
 Core Web Vitals 是 Google 推出的核心网页体验评估指标，涵盖加载速度（LCP）、交互响应（FID）和视觉稳定性（CLS）。它作为搜索排名因素之一，促进开发者优化网站性能，提升了整体网络速度和用户体验。通过工具支持和数据开放，该指标成为衡量和推动网站性能的重要标准。

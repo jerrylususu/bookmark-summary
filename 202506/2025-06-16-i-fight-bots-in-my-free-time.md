@@ -1,7 +1,6 @@
 # I fight bots in my free time
 - URL: https://xeiaso.net/talks/2025/bsdcan-anubis/
 - Added At: 2025-06-16 13:36:22
-- [Link To Text](2025-06-16-i-fight-bots-in-my-free-time_raw.md)
 
 ## TL;DR
 

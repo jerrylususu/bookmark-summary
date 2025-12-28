@@ -2,7 +2,6 @@
 - URL: https://suggger.substack.com/p/the-architecture-of-not-bad-decoding
 - Added At: 2025-12-19 14:44:43
 - Tags: #read
-- [Link To Text](2025-12-19-the-architecture-of-not-bad-decoding-the-chinese-source-code-of-the-void_raw.md)
 
 ## TL;DR
 中文倾向以否定间接肯定（如“没错”），英语则偏好直接肯定（如“great”）。这种差异塑造了灰度思维与直接分类的认知模式，并影响社会互动与商业策略。语言不仅是表达工具，更潜在地决定了现实认知方式。

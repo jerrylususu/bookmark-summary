@@ -1,7 +1,6 @@
 # Building Python tools with a one-shot prompt using uv run and Claude Projects
 - URL: https://simonwillison.net/2024/Dec/19/one-shot-python-tools/
 - Added At: 2024-12-19 14:45:47
-- [Link To Text](2024-12-19-building-python-tools-with-a-one-shot-prompt-using-uv-run-and-claude-projects_raw.md)
 
 ## TL;DR
 作者分享了使用Claude和uv构建一次性Python工具的经验，通过内联依赖和uv run实现快速开发和运行，展示了如何利用LLM生成高效的单文件工具。

@@ -1,7 +1,6 @@
 # Implementers, Solvers, and Finders
 - URL: https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html
 - Added At: 2025-03-28 16:07:13
-- [Link To Text](2025-03-28-implementers,-solvers,-and-finders_raw.md)
 
 ## TL;DR
 

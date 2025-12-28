@@ -1,7 +1,6 @@
 # Impossible Components — overreacted
 - URL: https://overreacted.io/impossible-components/
 - Added At: 2025-04-23 15:20:42
-- [Link To Text](2025-04-23-impossible-components-—-overreacted_raw.md)
 
 ## TL;DR
 

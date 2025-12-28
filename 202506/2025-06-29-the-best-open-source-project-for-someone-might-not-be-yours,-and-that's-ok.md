@@ -1,7 +1,6 @@
 # The best open source project for someone might not be yours, and that's OK
 - URL: https://blog.petdance.com/2018/01/02/the-best-open-source-project-for-someone-might-not-be-yours-and-thats-ok/
 - Added At: 2025-06-29 11:12:05
-- [Link To Text](2025-06-29-the-best-open-source-project-for-someone-might-not-be-yours,-and-that's-ok_raw.md)
 
 ## TL;DR
 

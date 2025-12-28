@@ -1,7 +1,6 @@
 # Playground Wisdom: Threads Beat Async/Await
 - URL: https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/
 - Added At: 2025-01-14 14:17:29
-- [Link To Text](2025-01-14-playground-wisdom-threads-beat-async-await_raw.md)
 
 ## TL;DR
 Armin Ronacher认为async/await在大多数编程语言中是不良抽象，主张使用线程作为更好的并发模型。他指出async/await存在背压处理不足、函数着色、未解决Promise等问题，而线程提供了更灵活的挂起能力和并发处理。作者推崇Java的Project Loom等虚拟线程实现，并认为结构化并发和通道是未来并发编程的关键方向。

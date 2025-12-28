@@ -1,7 +1,6 @@
 # After months of coding with LLMs, I'm going back to using my brain • albertofortin.com
 - URL: https://albertofortin.com/writing/coding-with-ai
 - Added At: 2025-05-21 14:37:53
-- [Link To Text](2025-05-21-after-months-of-coding-with-llms,-i'm-going-back-to-using-my-brain-•-albertofortin.com_raw.md)
 
 ## TL;DR
 

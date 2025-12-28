@@ -1,7 +1,6 @@
 # My AI Skeptic Friends Are All Nuts
 - URL: https://fly.io/blog/youre-all-nuts/
 - Added At: 2025-06-03 13:47:33
-- [Link To Text](2025-06-03-my-ai-skeptic-friends-are-all-nuts_raw.md)
 
 ## TL;DR
 

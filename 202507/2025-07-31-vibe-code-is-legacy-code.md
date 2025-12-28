@@ -1,7 +1,6 @@
 # Vibe code is legacy code
 - URL: https://blog.val.town/vibe-code
 - Added At: 2025-07-31 13:51:19
-- [Link To Text](2025-07-31-vibe-code-is-legacy-code_raw.md)
 
 ## TL;DR
 

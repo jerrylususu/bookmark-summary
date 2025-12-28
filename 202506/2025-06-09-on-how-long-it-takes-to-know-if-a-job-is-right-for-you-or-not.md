@@ -1,7 +1,6 @@
 # On How Long it Takes to Know if a Job is Right for You or Not
 - URL: https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/
 - Added At: 2025-06-09 14:20:15
-- [Link To Text](2025-06-09-on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not_raw.md)
 
 ## TL;DR
 

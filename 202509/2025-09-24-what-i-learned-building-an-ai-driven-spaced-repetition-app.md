@@ -1,7 +1,6 @@
 # What I learned building an AI-driven spaced repetition app
 - URL: https://www.seangoedecke.com/autodeck/
 - Added At: 2025-09-24 03:10:31
-- [Link To Text](2025-09-24-what-i-learned-building-an-ai-driven-spaced-repetition-app_raw.md)
 
 ## TL;DR
 文章介绍了一个基于AI的间隔重复学习应用AutoDeck，通过自动生成学习卡片和简化交互提升学习效率。技术实现中使用XML流式处理卡片生成，并采用付费模式应对AI成本。作者认为AI辅助开发仍需人工干预，中等AI模型更适合此类应用。

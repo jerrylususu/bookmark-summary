@@ -1,7 +1,6 @@
 # A new breed of analyzers
 - URL: https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/
 - Added At: 2025-10-10 13:51:41
-- [Link To Text](2025-10-10-a-new-breed-of-analyzers_raw.md)
 
 ## TL;DR
 本文以curl项目为例，展示了AI代码分析工具的积极影响。AI工具高效发现了代码漏洞和问题，误报率低，覆盖范围广，为大型开源项目提供高质量辅助。尽管带来维护负担且尚未颠覆开发流程，但AI分析代表了代码审查技术的自然演进，未来有望集成进CI流程。

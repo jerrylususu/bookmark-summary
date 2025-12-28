@@ -1,7 +1,6 @@
 # How to convert a Node.js stream of event callback functions into an Async Iterator
 - URL: https://www.jbernier.com/p?id=nodejs-stream-async-iterator
 - Added At: 2024-08-16 14:37:10
-- [Link To Text](2024-08-16-how-to-convert-a-node.js-stream-of-event-callback-functions-into-an-async-iterator_raw.md)
 
 ## TL;DR
 本文介绍了如何将基于事件回调的流处理代码转换为使用`for await`循环的异步迭代器，通过封装异步生成器函数实现。示例展示了如何处理CSV文件流，并比较了两个排序后的CSV文件。最后指出`csv-parse`库已有异步迭代器API，简化了实现过程。

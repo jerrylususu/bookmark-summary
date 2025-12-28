@@ -1,7 +1,6 @@
 # How I program with LLMs
 - URL: https://crawshaw.io/blog/programming-with-llms
 - Added At: 2025-01-08 15:09:38
-- [Link To Text](2025-01-08-how-i-program-with-llms_raw.md)
 
 ## TL;DR
 作者通过实验发现，LLMs在编程中具有显著价值，尤其在自动补全、搜索和聊天驱动编程方面。LLMs能提升生产力，减少重复性工作，并生成初稿代码，尽管有时需要验证和修复。未来，编程方式可能趋向专门化，测试将更全面，代码复用减少。作者还开发了自动化工具sketch.dev，以提升LLMs在Go编程中的效率。

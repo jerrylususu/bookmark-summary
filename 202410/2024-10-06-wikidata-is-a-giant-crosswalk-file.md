@@ -1,7 +1,6 @@
 # Wikidata is a Giant Crosswalk File
 - URL: https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html
 - Added At: 2024-10-06 08:21:16
-- [Link To Text](2024-10-06-wikidata-is-a-giant-crosswalk-file_raw.md)
 
 ## TL;DR
 文章介绍了如何利用Wikidata的结构化数据构建跨平台数据表，通过DuckDB和Ruby脚本处理近140GB的JSON数据集，分割数据以避免性能问题，并探索了Wikidata的声明系统及其外部ID的应用。

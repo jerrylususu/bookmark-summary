@@ -1,7 +1,6 @@
 # Turning the Tables on AI
 - URL: https://ia.net/topics/turning-the-tables-on-ai
 - Added At: 2024-08-11 08:03:14
-- [Link To Text](2024-08-11-turning-the-tables-on-ai_raw.md)
 
 ## TL;DR
 文章讨论了AI在科技公司中的广泛应用及其对思考的影响，提出应利用AI促进思考而非替代思考。通过具体方法如使用ChatGPT克服写作障碍，强调创作与编辑的重要性，并反思AI的局限性，提倡在使用AI时增加思考和创新。

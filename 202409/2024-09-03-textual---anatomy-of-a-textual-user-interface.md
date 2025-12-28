@@ -1,7 +1,6 @@
 # Textual - Anatomy of a Textual User Interface
 - URL: https://textual.textualize.io/blog/2024/09/15/anatomy-of-a-textual-user-interface/
 - Added At: 2024-09-03 14:30:15
-- [Link To Text](2024-09-03-textual---anatomy-of-a-textual-user-interface_raw.md)
 
 ## TL;DR
 本文介绍了作者开发的一个终端AI聊天TUI，灵感来自电影《异形》中的AI角色Mother。详细讲解了代码结构、依赖项、UI组件定义、布局样式、事件处理及应用运行方法，并提供了完整代码链接和社区讨论邀请。

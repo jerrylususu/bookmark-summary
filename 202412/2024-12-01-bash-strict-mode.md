@@ -1,7 +1,6 @@
 # Bash Strict Mode
 - URL: http://redsymbol.net/articles/unofficial-bash-strict-mode/
 - Added At: 2024-12-01 07:51:39
-- [Link To Text](2024-12-01-bash-strict-mode_raw.md)
 
 ## TL;DR
 Bash Strict Mode通过`set -euo pipefail`和`IFS=$'\n\t'`设置，使脚本在遇到错误时立即失败，提高可靠性和可维护性。常见问题如未定义变量、非零退出状态等有相应解决方案，使用该模式可减少调试时间并避免生产环境中的意外问题。

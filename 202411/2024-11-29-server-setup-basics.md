@@ -1,7 +1,6 @@
 # Server Setup Basics
 - URL: https://becomesovran.com/blog/server-setup-basics.html
 - Added At: 2024-11-29 15:05:05
-- [Link To Text](2024-11-29-server-setup-basics_raw.md)
 
 ## TL;DR
 本文详细介绍了服务器设置的多个方面，包括SSH登录、用户管理、日志管理、备份策略、网络安全、NGINX设置、工具推荐、DNS基础和Docker简介，旨在提供一个全面的服务器设置指南。

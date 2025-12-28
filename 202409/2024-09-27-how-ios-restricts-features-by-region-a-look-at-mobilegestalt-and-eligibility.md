@@ -1,7 +1,6 @@
 # How iOS Restricts Features by Region: A Look at MobileGestalt and Eligibility
 - URL: https://type.cyhsu.xyz/2024/09/ios-feature-regional-lockout/
 - Added At: 2024-09-27 14:46:36
-- [Link To Text](2024-09-27-how-ios-restricts-features-by-region-a-look-at-mobilegestalt-and-eligibility_raw.md)
 
 ## TL;DR
 iPhone 16系列因区域差异导致功能受限，主要通过MobileGestalt和Eligibility系统组件实现。iOS 18.1前Apple Intelligence等功能在中国大陆和欧盟不可用。非越狱设备曾利用sparserestore漏洞解锁，但iOS 18.1已修复此漏洞。

@@ -1,7 +1,6 @@
 # I Shipped a macOS App Built Entirely by Claude Code
 - URL: https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code
 - Added At: 2025-07-07 14:38:46
-- [Link To Text](2025-07-07-i-shipped-a-macos-app-built-entirely-by-claude-code_raw.md)
 
 ## TL;DR
 

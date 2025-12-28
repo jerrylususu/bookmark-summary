@@ -1,7 +1,6 @@
 # I Counted All of the Yurts in Mongolia Using Machine Learning | Monroe Clinton
 - URL: https://monroeclinton.com/counting-all-yurts-in-mongolia/
 - Added At: 2025-06-19 14:14:45
-- [Link To Text](2025-06-19-i-counted-all-of-the-yurts-in-mongolia-using-machine-learning-monroe-clinton_raw.md)
 
 ## TL;DR
 

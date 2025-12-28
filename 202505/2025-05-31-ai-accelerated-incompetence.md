@@ -1,7 +1,6 @@
 # AI: Accelerated Incompetence
 - URL: https://www.slater.dev/accelerated-incompetence/
 - Added At: 2025-05-31 11:41:36
-- [Link To Text](2025-05-31-ai-accelerated-incompetence_raw.md)
 
 ## TL;DR
 

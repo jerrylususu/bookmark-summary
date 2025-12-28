@@ -1,7 +1,6 @@
 # 40 years later, are Bentley's "Programming Pearls" still relevant?
 - URL: https://shkspr.mobi/blog/2025/09/40-years-later-are-bentleys-programming-pearls-still-relevant/
 - Added At: 2025-09-03 13:55:41
-- [Link To Text](2025-09-03-40-years-later,-are-bentley's-programming-pearls-still-relevant_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # Font with Built-In Syntax Highlighting
 - URL: https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/
 - Added At: 2024-08-24 11:32:33
-- [Link To Text](2024-08-24-font-with-built-in-syntax-highlighting_raw.md)
 
 ## TL;DR
 文章讨论了手工编码网站时遇到的语法高亮问题，提出了一种创新的解决方案：利用OpenType特性在字体中内置语法高亮。通过修改开源字体Monaspace Krypton并结合CSS实现高亮效果，无需JavaScript，简化了页面复杂性。尽管存在一些限制，如修改困难和依赖OpenType支持，但这种方法具有安装简单、快速、简洁等优点，未来可能通过更复杂的解析技术进一步改进。

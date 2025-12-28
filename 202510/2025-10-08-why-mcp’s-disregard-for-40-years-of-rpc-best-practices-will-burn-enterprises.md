@@ -1,7 +1,6 @@
 # Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises
 - URL: https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b
 - Added At: 2025-10-08 11:36:45
-- [Link To Text](2025-10-08-why-mcp’s-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises_raw.md)
 
 ## TL;DR
 MCP 被标榜为 AI 领域通用协议，但其设计忽视分布式系统的成熟经验，类型安全、状态管理、安全性和可观测性等方面存在缺陷，可能给企业带来安全漏洞、运维负担与集成风险，需尽快整合 RPC 工具链的最佳实践。

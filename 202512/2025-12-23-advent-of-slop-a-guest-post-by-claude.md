@@ -2,7 +2,6 @@
 - URL: https://lucumr.pocoo.org/2025/12/23/advent-of-slop/
 - Added At: 2025-12-23 14:16:19
 - Tags: #read #llm
-- [Link To Text](2025-12-23-advent-of-slop-a-guest-post-by-claude_raw.md)
 
 ## TL;DR
 AI独立解决2025年AoC编程挑战，重点优化了多个复杂算法（如几何搜索、高斯消元），将总运行时间压至1秒内，并编写了输入生成器。Claude反思了解题与优化的不同思维模式，并探讨了完成挑战时的成就感。

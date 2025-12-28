@@ -1,7 +1,6 @@
 # Building a RTS where you issue orders to AI agents
 - URL: https://www.seangoedecke.com/wargame-agents/
 - Added At: 2025-07-14 14:19:10
-- [Link To Text](2025-07-14-building-a-rts-where-you-issue-orders-to-ai-agents_raw.md)
 
 ## TL;DR
 

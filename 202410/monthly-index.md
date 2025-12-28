@@ -25,7 +25,7 @@
   - Tags: #read #algo
 
 - (2024-10-29) [When to use std::string_view](2024-10-29-when-to-use-std-string_view.md)
-  - 是C++17引入的轻量级字符串视图类，适用于廉价传递多种字符串类型。它通过指针和长度实现，支持多种创建方式，但需注意其数据不保证以空字节结尾。在性能上， 适用于参数类型多样的情况，而在参数多为  左值时， 更优。
+  - `std::string_view` 是C++17引入的轻量级字符串视图类，适用于廉价传递多种字符串类型。它通过指针和长度实现，支持多种创建方式，但需注意其数据不保证以空字节结尾。在性能上，`std::string_view` 适用于参数类型多样的情况，而在参数多为 `std::string` 左值时，`const std::string&` 更优。
   - Tags: #read #cpp
 
 - (2024-10-29) [Colophon](2024-10-29-colophon.md)
@@ -57,7 +57,7 @@
   - Tags: #read #db
 
 - (2024-10-13) [Making algorithms faster](2024-10-13-making-algorithms-faster.md)
-  - 文章探讨了通过优化和并行化算法来提升计算勾股数的效率。初始实现使用三重嵌套循环，优化后减少了内层循环范围，速度提升2.81倍。进一步并行化使用和执行策略，最终并行无序执行速度提升18.47倍。结论是并行化效果显著，优化也值得进行。
+  - 文章探讨了通过优化和并行化算法来提升计算勾股数的效率。初始实现使用三重嵌套循环，优化后减少了内层循环范围，速度提升2.81倍。进一步并行化使用`std::for_each()`和执行策略，最终并行无序执行速度提升18.47倍。结论是并行化效果显著，优化也值得进行。
   - Tags: #cpp
 
 - (2024-10-12) [The Copenhagen Book](2024-10-12-the-copenhagen-book.md)
@@ -113,7 +113,7 @@
   - Tags: #read
 
 - (2024-10-05) [Hybrid full-text search and vector search with SQLite](2024-10-05-hybrid-full-text-search-and-vector-search-with-sqlite.md)
-  - 文章讨论了全文搜索与向量搜索的结合，通过扩展在SQLite中实现混合搜索。全文搜索和语义搜索各有优劣，结合使用能提高搜索效果。文章还提供了构建和查询示例，并探讨了不同混合搜索方法的应用场景和未来改进方向。
+  - 文章讨论了全文搜索与向量搜索的结合，通过`sqlite-vec`扩展在SQLite中实现混合搜索。全文搜索和语义搜索各有优劣，结合使用能提高搜索效果。文章还提供了构建和查询示例，并探讨了不同混合搜索方法的应用场景和未来改进方向。
   - Tags: #read #db
 
 - (2024-10-03) [Terminal colours are tricky](2024-10-03-terminal-colours-are-tricky.md)

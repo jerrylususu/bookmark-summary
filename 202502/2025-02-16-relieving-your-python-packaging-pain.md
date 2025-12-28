@@ -1,7 +1,6 @@
 # Relieving your Python packaging pain
 - URL: https://www.bitecode.dev/p/relieving-your-python-packaging-pain
 - Added At: 2025-02-16 06:52:36
-- [Link To Text](2025-02-16-relieving-your-python-packaging-pain_raw.md)
 
 ## TL;DR
 文章建议使用较旧的Python稳定版本，通过官方渠道安装，避免使用conda等工具，仅使用pip和venv管理包和虚拟环境，以减少Python打包问题。

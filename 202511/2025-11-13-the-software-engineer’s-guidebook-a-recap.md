@@ -2,7 +2,6 @@
 - URL: https://newsletter.pragmaticengineer.com/p/the-software-engineers-guidebook
 - Added At: 2025-11-13 14:33:19
 - Tags: #read #deepdive
-- [Link To Text](2025-11-13-the-software-engineer’s-guidebook-a-recap_raw.md)
 
 ## TL;DR
 《软件工程师指南》作者分享自出版经验：书籍基于Uber管理实践，因与传统出版社合作不顺转为自出版，通过多平台销售两年收入61万美元。自出版收益更高但需自主承担全流程，技术书籍需平衡时效性与普适性。该书成功推动行业交流，并激励技术人写作。

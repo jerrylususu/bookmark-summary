@@ -1,7 +1,6 @@
 # The Essence of Successful Abstractions — Sympolymathesy, by Chris Krycho
 - URL: https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/
 - Added At: 2025-01-24 12:45:21
-- [Link To Text](2025-01-24-the-essence-of-successful-abstractions-—-sympolymathesy,-by-chris-krycho_raw.md)
 
 ## TL;DR
 文章探讨了软件开发中复杂性的不可避免性，并介绍了如何通过类型系统、测试、Rust和TypeScript等工具来管理和隔离复杂性。Rust通过类型系统和借用检查器隔离复杂性，而TypeScript则揭示并帮助管理现有复杂性。文章强调了复杂性隔离的价值，尽管并非总能实现，但它有助于提高开发效率和代码质量。

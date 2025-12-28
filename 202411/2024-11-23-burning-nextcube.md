@@ -1,7 +1,6 @@
 # Burning NeXTCube
 - URL: https://simson.net/ref/1993/cubefire.html
 - Added At: 2024-11-23 11:24:56
-- [Link To Text](2024-11-23-burning-nextcube_raw.md)
 
 ## TL;DR
 作者Simson Garfinkel计划对NeXT Cube的镁合金外壳进行燃烧实验，以满足个人好奇心并为杂志提供素材。经过多次尝试和地点选择，最终在劳伦斯利弗莫尔国家实验室成功点燃并燃烧了NeXT Cube，尽管燃烧效果和照片质量未达预期。

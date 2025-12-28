@@ -1,7 +1,6 @@
 # OpenAPI Spec - Parameter Serialization
 - URL: https://docs.bump.sh/guides/openapi/specification/v3.1/understanding-structure/parameter-serialization/
 - Added At: 2024-09-28 11:45:48
-- [Link To Text](2024-09-28-openapi-spec---parameter-serialization_raw.md)
 
 ## TL;DR
 文章详细介绍了API参数序列化的定义、关键字（如Explode和Style）及其在不同位置（路径、查询、头部、Cookie）的应用方式。通过示例展示了如何处理不同类型的参数，并强调了选择合适风格和位置的重要性。

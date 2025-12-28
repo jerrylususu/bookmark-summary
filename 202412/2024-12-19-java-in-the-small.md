@@ -1,7 +1,6 @@
 # Java in the Small
 - URL: https://horstmann.com/unblog/2024-12-11/index.html
 - Added At: 2024-12-19 15:00:36
-- [Link To Text](2024-12-19-java-in-the-small_raw.md)
 
 ## TL;DR
 文章讨论了Java在小型程序中的适用性，强调了现代Java的改进和工具支持，如直接运行.java文件、简化代码的隐式类和记录等特性。Java在处理重复任务和探索性编程中表现出色，尽管某些功能如JSON处理和命令行工具需依赖第三方库。JBang等工具进一步提升了Java脚本的开发体验。

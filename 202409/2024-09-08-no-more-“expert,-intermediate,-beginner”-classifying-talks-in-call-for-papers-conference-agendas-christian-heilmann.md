@@ -1,7 +1,6 @@
 # No more “Expert, Intermediate, Beginner”: Classifying talks in Call for Papers/Conference agendas | Christian Heilmann
 - URL: https://christianheilmann.com/2024/09/06/no-more-expert-intermediate-beginner-classifying-talks-in-call-for-papers-conference-agendas/
 - Added At: 2024-09-08 11:20:51
-- [Link To Text](2024-09-08-no-more-“expert,-intermediate,-beginner”-classifying-talks-in-call-for-papers-conference-agendas-christian-heilmann_raw.md)
 
 ## TL;DR
 作者为解决演讲者选择困难和观众压力问题，提出用分类代替级别，如案例研究、深入探讨等，帮助观众更易选择适合的演讲。

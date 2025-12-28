@@ -1,7 +1,6 @@
 # Vibe Coding Through the Berghain Challenge - Log - nibzard
 - URL: https://nibzard.com/berghain/
 - Added At: 2025-09-12 14:57:21
-- [Link To Text](2025-09-12-vibe-coding-through-the-berghain-challenge---log---nibzard_raw.md)
 
 ## TL;DR
 Listen Labs通过“Berghain挑战”发起优化问题实验，结合AI编程代理完成98%的代码工作，辅以人类监督，借助概率模型和拉格朗日乘数法将拒绝数从1247次降至782次。实验证明AI可大幅提升开发效率，但人类直觉和策略引导仍不可或缺，体现了人机协作在实时优化中的巨大潜力。

@@ -1,7 +1,6 @@
 # A Friendly Introduction to SVG • Josh W. Comeau
 - URL: https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/
 - Added At: 2025-08-05 14:40:28
-- [Link To Text](2025-08-05-a-friendly-introduction-to-svg-•-josh-w.-comeau_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # The Reality of Tech Interviews in 2025
 - URL: https://newsletter.pragmaticengineer.com/p/the-reality-of-tech-interviews
 - Added At: 2025-04-02 15:15:57
-- [Link To Text](2025-04-02-the-reality-of-tech-interviews-in-2025_raw.md)
 
 ## TL;DR
 

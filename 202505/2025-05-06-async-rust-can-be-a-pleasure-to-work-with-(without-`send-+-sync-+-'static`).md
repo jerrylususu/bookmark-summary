@@ -1,7 +1,6 @@
 # Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)
 - URL: https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/
 - Added At: 2025-05-06 15:18:21
-- [Link To Text](2025-05-06-async-rust-can-be-a-pleasure-to-work-with-(without-`send-+-sync-+-'static`)_raw.md)
 
 ## TL;DR
 

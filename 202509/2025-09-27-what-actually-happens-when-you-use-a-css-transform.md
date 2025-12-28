@@ -1,7 +1,6 @@
 # What actually happens when you use a CSS transform
 - URL: https://alastair.is/learning-about-what-happens-when-you-use-a-css-transform/
 - Added At: 2025-09-27 03:24:07
-- [Link To Text](2025-09-27-what-actually-happens-when-you-use-a-css-transform_raw.md)
 
 ## TL;DR
 CSS transform通过创建独立图层并启用硬件加速来提升动画性能，避免频繁重绘，但需注意避免滥用导致内存增加。这是解决Web动画性能的关键机制。

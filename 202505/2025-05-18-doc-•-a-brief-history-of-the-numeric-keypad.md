@@ -1,7 +1,6 @@
 # DOC • A brief history of the numeric keypad
 - URL: https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad
 - Added At: 2025-05-18 10:52:23
-- [Link To Text](2025-05-18-doc-•-a-brief-history-of-the-numeric-keypad_raw.md)
 
 ## TL;DR
 

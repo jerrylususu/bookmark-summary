@@ -1,7 +1,6 @@
 # Linguistic Relativity and the Tyranny of the Compiler | Ingrid's Space
 - URL: https://ingrids.space/posts/tyranny-of-the-compiler/
 - Added At: 2025-06-30 14:59:50
-- [Link To Text](2025-06-30-linguistic-relativity-and-the-tyranny-of-the-compiler-ingrid's-space_raw.md)
 
 ## TL;DR
 

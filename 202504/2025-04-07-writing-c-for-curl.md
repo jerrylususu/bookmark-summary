@@ -1,7 +1,6 @@
 # Writing C for curl
 - URL: https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/
 - Added At: 2025-04-07 14:13:14
-- [Link To Text](2025-04-07-writing-c-for-curl_raw.md)
 
 ## TL;DR
 

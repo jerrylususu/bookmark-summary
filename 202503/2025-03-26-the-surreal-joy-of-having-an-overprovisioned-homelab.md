@@ -1,7 +1,6 @@
 # The surreal joy of having an overprovisioned homelab
 - URL: https://xeiaso.net/talks/2025/surreal-joy-homelab/
 - Added At: 2025-03-26 14:37:39
-- [Link To Text](2025-03-26-the-surreal-joy-of-having-an-overprovisioned-homelab_raw.md)
 
 ## TL;DR
 

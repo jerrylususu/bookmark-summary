@@ -1,7 +1,6 @@
 # Pepsi, when they don't have coke
 - URL: https://www.bitecode.dev/p/pepsi-when-they-dont-have-coke
 - Added At: 2025-10-27 14:56:03
-- [Link To Text](2025-10-27-pepsi,-when-they-don't-have-coke_raw.md)
 
 ## TL;DR
 文章分析了配置管理现状，认为现有工具如Toml、JSON、YAML在大型配置中不足。作者探讨了Cuelang和Starlark等替代方案，但认为其复杂度高、绑定有限。最终选择Python作为折中方案，虽无沙盒保护，但更实用灵活，适合多数场景。

@@ -2,7 +2,6 @@
 - URL: https://kevlinhenney.medium.com/think-for-yourself-7d129aa959e3
 - Added At: 2025-11-08 08:37:45
 - Tags: #read #llm #tips
-- [Link To Text](2025-11-08-think-for-yourself_raw.md)
 
 ## TL;DR
 开发者应批判性使用LLM生成的代码，避免盲目依赖。需主动理解、测试和改进，防止技能退化与代码质量下降，确保AI作为生产力工具而非替代品。

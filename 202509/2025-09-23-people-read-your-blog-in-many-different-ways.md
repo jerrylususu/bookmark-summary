@@ -1,7 +1,6 @@
 # People read your blog in many different ways
 - URL: https://evanhahn.com/people-read-your-blog-in-many-different-ways/
 - Added At: 2025-09-23 05:48:24
-- [Link To Text](2025-09-23-people-read-your-blog-in-many-different-ways_raw.md)
 
 ## TL;DR
 作者呼吁创作者考虑阅读方式多样性，以提升内容可及性。读者存在浏览方式、语言能力、工具使用差异，许多人并不仔细阅读。建议使用简洁语言、分段排版，并参考无障碍指南持续优化。

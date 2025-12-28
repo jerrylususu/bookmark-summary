@@ -1,7 +1,6 @@
 # Understanding AbortController in Node.js: A Complete Guide | Better Stack Community
 - URL: https://betterstack.com/community/guides/scaling-nodejs/understanding-abortcontroller/
 - Added At: 2024-09-22 10:07:13
-- [Link To Text](2024-09-22-understanding-abortcontroller-in-node.js-a-complete-guide-better-stack-community_raw.md)
 
 ## TL;DR
 本文介绍了Node.js中使用`AbortController`来取消异步操作的方法，解决了缺乏标准化中断机制的问题。通过示例展示了如何取消网络请求、管理流操作和处理错误，强调了其在提高应用程序响应性和可靠性方面的重要性。

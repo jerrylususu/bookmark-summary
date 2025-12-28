@@ -1,7 +1,6 @@
 # microsoft/vscode-copilot-chat
 - URL: https://simonwillison.net/2025/Jun/30/vscode-copilot-chat/
 - Added At: 2025-07-01 14:01:45
-- [Link To Text](2025-07-01-microsoft-vscode-copilot-chat_raw.md)
 
 ## TL;DR
 

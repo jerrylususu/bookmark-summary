@@ -2,7 +2,6 @@
 - URL: https://www.trickster.dev/post/advanced-network-traffic-interception-techniques-with-mitmproxy/
 - Added At: 2025-12-04 14:23:22
 - Tags: #read #tips #hack #network
-- [Link To Text](2025-12-04-advanced-network-traffic-interception-techniques-with-mitmproxy-–-trickster-dev_raw.md)
 
 ## TL;DR
 mitmproxy 提供了反向代理、透明代理、Wireguard VPN、SOCKS5、DNS服务、上游代理及虚拟网络接口等多种模式，支持各类网络环境下的流量拦截与分析，适用于服务器监控、移动设备调试等场景。

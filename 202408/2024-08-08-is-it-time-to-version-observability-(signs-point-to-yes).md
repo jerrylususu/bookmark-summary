@@ -1,7 +1,6 @@
 # Is It Time To Version Observability? (Signs Point To Yes)
 - URL: https://charity.wtf/2024/08/07/is-it-time-to-version-observability-signs-point-to-yes/
 - Added At: 2024-08-08 14:56:20
-- [Link To Text](2024-08-08-is-it-time-to-version-observability?-(signs-point-to-yes)_raw.md)
 
 ## TL;DR
 文章讨论了可观测性的发展，从基于指标、日志和追踪的“可观测性1.0”到基于结构化日志事件的“可观测性2.0”，强调了数据存储方式的重大变革及其对技术和社会的影响，预测未来工程团队将广泛采用基于结构化日志的工具，并呼吁行业提供更多相关工具选项。

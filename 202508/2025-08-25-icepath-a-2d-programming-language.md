@@ -1,7 +1,6 @@
 # Icepath: a 2D Programming Language
 - URL: https://healeycodes.com/icepath-a-2d-programming-language
 - Added At: 2025-08-25 07:32:10
-- [Link To Text](2025-08-25-icepath-a-2d-programming-language_raw.md)
 
 ## TL;DR
 

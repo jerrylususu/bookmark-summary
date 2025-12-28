@@ -1,7 +1,6 @@
 # Against SQL
 - URL: https://www.scattered-thoughts.net/writing/against-sql/
 - Added At: 2024-11-17 07:02:31
-- [Link To Text](2024-11-17-against-sql_raw.md)
 
 ## TL;DR
 文章讨论了关系模型的优点和SQL的局限性，指出SQL的不具表达性、不可压缩性和非渗透性等问题，以及这些局限对整个行业的影响。文章提出需要重新思考数据库、查询语言和编程语言之间的界限，并从SQL的成功和错误中学习，设计新的语言。

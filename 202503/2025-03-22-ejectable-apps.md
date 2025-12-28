@@ -1,7 +1,6 @@
 # Ejectable Apps
 - URL: https://thymer.com/local-first-ejectable
 - Added At: 2025-03-22 13:11:43
-- [Link To Text](2025-03-22-ejectable-apps_raw.md)
 
 ## TL;DR
 

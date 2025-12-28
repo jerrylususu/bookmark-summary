@@ -2,7 +2,6 @@
 - URL: https://types.kitlangton.com/
 - Added At: 2025-11-14 13:35:37
 - Tags: #guide
-- [Link To Text](2025-11-14-visual-types_raw.md)
 
 ## TL;DR
 本文介绍了TypeScript类型系统的基础与进阶概念，包括类型定义、子类型关系、复合类型，以及泛型、类型操作符、条件类型和常用工具类型等，用于构建和操作类型。

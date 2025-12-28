@@ -2,7 +2,6 @@
 - URL: https://fly.io/blog/litestream-vfs/
 - Added At: 2025-12-12 13:12:07
 - Tags: #read #db
-- [Link To Text](2025-12-12-litestream-vfs_raw.md)
 
 ## TL;DR
 Litestream VFS 是一项功能，允许用户通过SQLite的插件接口直接查询对象存储（如S3）中的SQLite备份，而无需下载整个文件。它利用LTX格式和索引优化，仅按需加载查询所需的数据页，支持历史时间点查询和快速恢复，适用于云环境临时数据库访问和容错场景。该功能只读，写操作仍由独立进程处理。

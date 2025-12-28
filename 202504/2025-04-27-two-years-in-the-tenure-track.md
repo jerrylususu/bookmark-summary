@@ -1,7 +1,6 @@
 # Two Years in the Tenure Track
 - URL: https://jwuphysics.github.io/blog/2024/01/two-years-in-the-tenure-track/
 - Added At: 2025-04-27 13:48:51
-- [Link To Text](2025-04-27-two-years-in-the-tenure-track_raw.md)
 
 ## TL;DR
 

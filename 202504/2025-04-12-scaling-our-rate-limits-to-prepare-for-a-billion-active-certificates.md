@@ -1,7 +1,6 @@
 # Scaling Our Rate Limits to Prepare for a Billion Active Certificates
 - URL: https://letsencrypt.org/2025/01/30/scaling-rate-limits/
 - Added At: 2025-04-12 12:12:10
-- [Link To Text](2025-04-12-scaling-our-rate-limits-to-prepare-for-a-billion-active-certificates_raw.md)
 
 ## TL;DR
 

@@ -2,7 +2,6 @@
 - URL: https://www.seangoedecke.com/technical-communication/#fnref-1
 - Added At: 2025-11-09 07:56:20
 - Tags: #read #people #write
-- [Link To Text](2025-11-09-to-get-better-at-technical-writing,-lower-your-expectations_raw.md)
 
 ## TL;DR
 文章建议通过降低期望来提升技术写作效果：内容简短，重点先行；省略细节，突出要点；接受沟通局限，侧重传递核心信息。清晰的思考是写作的前提，避免信息过载才能在不同背景的读者中实现有效沟通。

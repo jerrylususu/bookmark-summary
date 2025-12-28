@@ -1,7 +1,6 @@
 # How I provide technical clarity to non-technical leaders
 - URL: https://www.seangoedecke.com/clarity/
 - Added At: 2025-10-12 10:56:48
-- [Link To Text](2025-10-12-how-i-provide-technical-clarity-to-non-technical-leaders_raw.md)
 
 ## TL;DR
 技术清晰度指让非技术决策者理解软件系统，以做出明智变更决策。它通过简化沟通、隐藏复杂性实现，需要工程师具备良好判断力、技术深度和沟通自信，从而提升组织整体效能。

@@ -1,7 +1,6 @@
 # On Working with Wizards
 - URL: https://www.oneusefulthing.org/p/on-working-with-wizards
 - Added At: 2025-09-12 13:16:40
-- [Link To Text](2025-09-12-on-working-with-wizards_raw.md)
 
 ## TL;DR
 AI从合作者演变为“巫师”，展现出高效但不可控的特性，人类需面对验证困境、能力退化等挑战，并通过选择性使用、培养判断力和接受暂定信任来适应这一趋势。

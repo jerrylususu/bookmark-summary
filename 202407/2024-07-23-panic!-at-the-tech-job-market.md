@@ -1,7 +1,6 @@
 # Panic! at the Tech Job Market
 - URL: https://matt.sh/panic-at-the-job-market
 - Added At: 2024-07-23 13:16:40
-- [Link To Text](2024-07-23-panic!-at-the-tech-job-market_raw.md)
 
 ## TL;DR
 文章通过分析技术工作市场的多个方面，揭示了招聘流程的不合理性、工作描述的不切实际以及收入不平等的问题，强调了实际工作经验和能力的重要性。

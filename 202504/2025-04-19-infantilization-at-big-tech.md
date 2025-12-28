@@ -1,7 +1,6 @@
 # Infantilization at Big Tech
 - URL: https://nmn.gl/blog/big-tech-daycare
 - Added At: 2025-04-19 08:09:50
-- [Link To Text](2025-04-19-infantilization-at-big-tech_raw.md)
 
 ## TL;DR
 

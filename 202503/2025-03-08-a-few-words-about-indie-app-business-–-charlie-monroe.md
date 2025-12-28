@@ -1,7 +1,6 @@
 # A few words about indie app business – Charlie Monroe
 - URL: https://blog.charliemonroe.net/a-few-words-about-indie-app-business/
 - Added At: 2025-03-08 11:40:03
-- [Link To Text](2025-03-08-a-few-words-about-indie-app-business-–-charlie-monroe_raw.md)
 
 ## TL;DR
 该文总结独立开发者经历与经验：作者自幼编程，经历项目失败、兼职维生等挑战，最终通过调整策略实现财务自由。核心建议包括持续改进产品、平衡工作强度、谨慎合作、有效管理用户反馈及分散风险。独立开发需长期投入与高度适应力，成功关键在于耐心与现实评估，虽艰难但成果值得。

@@ -1,7 +1,6 @@
 # Delegating Complex Tasks
 - URL: https://staysaasy.com/saas/2025/03/10/delegating.html
 - Added At: 2025-03-11 14:17:25
-- [Link To Text](2025-03-11-delegating-complex-tasks_raw.md)
 
 ## TL;DR
 文章提出两种管理者授权复杂任务的方法：指数训练（通过深度一对一培训和实战机会，指数级培养专家）和次优标准化（拆解流程为步骤，建立分级审批机制提升决策效率）。强调信息透明是关键，需打破信息壁垒，优先通过流程拆分和实战授权扩大团队能力，而非追求管理者个人微优化。

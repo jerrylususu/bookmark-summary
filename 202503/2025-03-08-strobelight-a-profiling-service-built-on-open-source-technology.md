@@ -1,7 +1,6 @@
 # Strobelight: A profiling service built on open source technology
 - URL: https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/
 - Added At: 2025-03-08 11:54:50
-- [Link To Text](2025-03-08-strobelight-a-profiling-service-built-on-open-source-technology_raw.md)
 
 ## TL;DR
 Strobelight是Meta研发的高性能分析系统，整合42种开源分析工具（如eBPF、jemalloc），通过低开销的数据采集和符号化技术，实时监控CPU/内存等指标，并支持火焰图等可视化分析。其动态采样与自动调优功能可减少20% CPU消耗，单次代码优化即节省年均1.5万台服务器容量，同时提供冲突规避机制及开源扩展能力，显著提升资源利用率与开发效率。

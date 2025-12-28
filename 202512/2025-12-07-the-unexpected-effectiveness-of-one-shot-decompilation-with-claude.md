@@ -2,7 +2,6 @@
 - URL: https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/
 - Added At: 2025-12-07 12:55:39
 - Tags: #read #llm #guide
-- [Link To Text](2025-12-07-the-unexpected-effectiveness-of-one-shot-decompilation-with-claude_raw.md)
 
 ## TL;DR
 文章介绍了一种利用Claude AI在无头模式下自动化反编译的方法，通过评分器、Claude、工具集和驱动脚本协同工作，大幅提升了效率。例如，在《Snowboard Kids 2》项目中，3周内取得的进展超过过去3个月。Claude表现优于其他工具，但输出代码可读性仍需人工优化。方法强调自动化减少人力，但LLM的输出和资源限制仍是挑战。

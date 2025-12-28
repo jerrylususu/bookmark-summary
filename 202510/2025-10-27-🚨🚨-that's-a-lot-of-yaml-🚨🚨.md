@@ -1,7 +1,6 @@
 # 🚨🚨 That's a lot of YAML 🚨🚨
 - URL: https://noyaml.com/
 - Added At: 2025-10-27 14:52:39
-- [Link To Text](2025-10-27-🚨🚨-that's-a-lot-of-yaml-🚨🚨_raw.md)
 
 ## TL;DR
 文章批评YAML在开发运维中的滥用，指出其安全性低、类型解析混乱、效率低下，并通过讽刺手法揭示其不可靠性，建议慎用于关键场景。

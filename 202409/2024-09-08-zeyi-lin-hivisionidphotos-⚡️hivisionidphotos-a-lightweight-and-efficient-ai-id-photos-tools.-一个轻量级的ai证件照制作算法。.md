@@ -1,7 +1,6 @@
 # Zeyi-Lin/HivisionIDPhotos: ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - URL: https://github.com/Zeyi-Lin/HivisionIDPhotos
 - Added At: 2024-09-08 11:22:48
-- [Link To Text](2024-09-08-zeyi-lin-hivisionidphotos-⚡️hivisionidphotos-a-lightweight-and-efficient-ai-id-photos-tools.-一个轻量级的ai证件照制作算法。_raw.md)
 
 ## TL;DR
 HivisionIDPhotos项目旨在开发智能证件照制作算法，支持轻量级抠图、多种尺寸生成及美颜等功能。近期更新包括新增抠图模型和人脸检测API，提供在线体验和API服务部署。项目依赖Python 3.7+，支持多平台，可通过Gradio Demo进行本地操作。

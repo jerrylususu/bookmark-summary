@@ -1,7 +1,6 @@
 # Robin Hood Hashing should be your default Hash Table implementation
 - URL: https://www.sebastiansylvan.com/post/robin-hood-hashing-should-be-your-default-hash-table-implementation/
 - Added At: 2025-06-16 14:14:28
-- [Link To Text](2025-06-16-robin-hood-hashing-should-be-your-default-hash-table-implementation_raw.md)
 
 ## TL;DR
 

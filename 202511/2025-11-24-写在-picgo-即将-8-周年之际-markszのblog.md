@@ -2,7 +2,6 @@
 - URL: https://molunerfinn.com/8-years-of-PicGo/
 - Added At: 2025-11-24 14:43:30
 - Tags: #read
-- [Link To Text](2025-11-24-写在-picgo-即将-8-周年之际-markszのblog_raw.md)
 
 ## TL;DR
 PicGo是一款便捷的跨平台图片上传工具，自2017年起伴随开发者从学生到职场人的成长。项目经历了技术提升、生态扩展，职业变动则体现其追求技术价值与用户需求结合，坚持团队合作与生活平衡的价值观。

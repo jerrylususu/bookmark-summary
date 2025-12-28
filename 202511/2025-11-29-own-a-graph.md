@@ -2,7 +2,6 @@
 - URL: https://staysaasy.com/strategy/2025/11/25/own-a-graph.html
 - Added At: 2025-11-29 05:21:45
 - Tags: #read #career
-- [Link To Text](2025-11-29-own-a-graph_raw.md)
 
 ## TL;DR
 资深工作者应创建核心图表，以简洁沟通工作价值、获取反馈并提升业绩。建议聚焦关键指标，结合目标迭代优化，让他人引用是成功标志。缺少图表时应尽快补上。

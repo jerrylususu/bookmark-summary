@@ -1,7 +1,6 @@
 # Gaslight-driven development
 - URL: https://tonsky.me/blog/gaslight-driven-development/
 - Added At: 2025-07-17 13:31:20
-- [Link To Text](2025-07-17-gaslight-driven-development_raw.md)
 
 ## TL;DR
 

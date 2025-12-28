@@ -1,7 +1,6 @@
 # The bottom emoji breaks rust-analyzer
 - URL: https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer#the-way-forward
 - Added At: 2025-04-09 15:01:03
-- [Link To Text](2025-04-09-the-bottom-emoji-breaks-rust-analyzer_raw.md)
 
 ## TL;DR
 

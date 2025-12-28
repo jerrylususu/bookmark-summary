@@ -1,7 +1,6 @@
 # Poisoning the day
 - URL: https://ashore.io/journal/crossover-creativity/poisoning-the-day
 - Added At: 2024-11-29 14:48:02
-- [Link To Text](2024-11-29-poisoning-the-day_raw.md)
 
 ## TL;DR
 Jack Antonoff在采访中分享了其生产力策略，包括早期工作、数字极简主义和应对干扰的灵活性。他强调清醒状态对创作的重要性，并建议在干扰发生时转向轻松任务。Antonoff的观点与Jeff Bezos的时间管理策略相似，都认识到专注力的有限性。对于有孩子的父母，他建议尽早完成工作以应对孩子的干扰。总结指出，历史上伟大的成就往往在专注力较高的时段完成，每天的挑战在于在有限时间内完成尽可能多的工作。

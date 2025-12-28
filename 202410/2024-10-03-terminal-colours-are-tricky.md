@@ -1,7 +1,6 @@
 # Terminal colours are tricky
 - URL: https://jvns.ca/blog/2024/10/01/terminal-colours/
 - Added At: 2024-10-03 05:23:38
-- [Link To Text](2024-10-03-terminal-colours-are-tricky_raw.md)
 
 ## TL;DR
 文章讨论了终端配色方案的复杂性，涉及蓝黑色、亮黄色、256色、Solarized主题、vim主题匹配等多个问题，并提供了重新配置颜色、最小对比度功能等解决方案。作者强调处理这些细节虽有趣但令人沮丧，推荐使用base16-shell和base16-vim简化配置。

@@ -1,7 +1,6 @@
 # Use weird tests to capture tacit knowledge
 - URL: https://jmduke.com/posts/post/weird-tests-tacit-knowledge/
 - Added At: 2025-10-18 14:45:13
-- [Link To Text](2025-10-18-use-weird-tests-to-capture-tacit-knowledge_raw.md)
 
 ## TL;DR
 通过测试捕获代码库隐性知识，如用棘轮测试检查新增模块配置、验证枚举文档完整性，将约束自动化。测试兼具文档和左移流程作用，降低查阅成本并提前发现问题。方法简单高效，适合替代临时脚本。

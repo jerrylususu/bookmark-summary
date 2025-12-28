@@ -2,7 +2,6 @@
 - URL: https://charity.wtf/2025/12/24/on-friday-deploys-sometimes-that-puppy-needs-murdering-xpost/
 - Added At: 2025-12-24 14:30:51
 - Tags: #read #reliability
-- [Link To Text](2025-12-24-on-friday-deploys-sometimes-that-puppy-needs-murdering-(xpost)_raw.md)
 
 ## TL;DR
 作者表示部署冻结应务实看待，可作为暂时稳定手段，但反对将其道德化。建议同步冻结代码合并并定期演练部署流程以检测问题，目标是平衡稳定与变更风险，同时鼓励团队专注其他工作。

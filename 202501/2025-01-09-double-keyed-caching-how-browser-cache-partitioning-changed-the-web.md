@@ -1,7 +1,6 @@
 # Double-keyed Caching: How Browser Cache Partitioning Changed the Web
 - URL: https://addyosmani.com/blog/double-keyed-caching/
 - Added At: 2025-01-09 13:41:59
-- [Link To Text](2025-01-09-double-keyed-caching-how-browser-cache-partitioning-changed-the-web_raw.md)
 
 ## TL;DR
 双键缓存模型通过引入顶级站点和资源URL作为缓存键，有效防止跨站点跟踪和隐私泄露，但导致缓存命中率下降和网络带宽增加。为应对这一变化，建议优化域名策略、自托管关键资源、调整包边界与域边界对齐，并实施性能监控。尽管带来性能成本，双键缓存是网络隐私演变的必要步骤，未来需平衡隐私与性能。

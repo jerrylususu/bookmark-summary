@@ -1,7 +1,6 @@
 # Getting things "done" in large tech companies
 - URL: https://www.seangoedecke.com/getting-things-done/
 - Added At: 2025-05-06 13:38:19
-- [Link To Text](2025-05-06-getting-things-done-in-large-tech-companies_raw.md)
 
 ## TL;DR
 

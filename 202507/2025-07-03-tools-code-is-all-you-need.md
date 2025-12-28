@@ -1,7 +1,6 @@
 # Tools: Code Is All You Need
 - URL: https://lucumr.pocoo.org/2025/7/3/tools/
 - Added At: 2025-07-03 14:27:37
-- [Link To Text](2025-07-03-tools-code-is-all-you-need_raw.md)
 
 ## TL;DR
 

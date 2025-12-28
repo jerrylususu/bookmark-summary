@@ -1,7 +1,6 @@
 # temporal - Open Source Durable Execution
 - URL: https://temporal.io/
 - Added At: 2024-10-09 15:49:13
-- [Link To Text](2024-10-09-temporal---open-source-durable-execution_raw.md)
 
 ## TL;DR
 Temporal是一个开源的持久执行框架，通过抽象复杂性、简化代码和消除恢复逻辑，显著提高软件的可靠性和开发效率。它支持多语言开发，广泛应用于各种场景，并得到行业专家的高度评价。Temporal Cloud提供可靠的云服务，进一步简化部署和管理。

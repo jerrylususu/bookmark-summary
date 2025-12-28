@@ -1,7 +1,6 @@
 # My Thoughts on the Future of "AI"
 - URL: https://nicholas.carlini.com/writing/2025/thoughts-on-future-ai.html
 - Added At: 2025-03-19 13:58:21
-- [Link To Text](2025-03-19-my-thoughts-on-the-future-of-ai_raw.md)
 
 ## TL;DR
 

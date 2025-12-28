@@ -1,7 +1,6 @@
 # AI Seinfeld was the peak of AI-generated content. It will never happen again.
 - URL: https://minimaxir.com/2024/08/ai-seinfeld/
 - Added At: 2024-08-14 14:32:49
-- [Link To Text](2024-08-14-ai-seinfeld-was-the-peak-of-ai-generated-content.-it-will-never-happen-again._raw.md)
 
 ## TL;DR
 AI Seinfeld是一个由AI生成的24/7 Twitch频道，展示了生成AI的潜力和局限。它使用GPT-3和Azure AI技术，吸引了大量观众，但也因技术故障和不当内容被封禁。这揭示了生成AI在技术、社会和伦理层面的挑战，以及未来需要解决的问题。

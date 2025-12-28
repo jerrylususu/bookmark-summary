@@ -1,7 +1,6 @@
 # Finding a VS Code Memory Leak
 - URL: https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/
 - Added At: 2025-10-10 14:05:11
-- [Link To Text](2025-10-10-finding-a-vs-code-memory-leak_raw.md)
 
 ## TL;DR
 作者Bruce Dawson通过观察同事电脑的高进程ID，发现VS Code因未关闭进程句柄导致内存泄漏。问题源于代码中忘记调用`CloseHandle`。经ETW分析后迅速修复，凸显资源管理和RAII重要性。

@@ -1,7 +1,6 @@
 # Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas
 - URL: https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/
 - Added At: 2025-10-23 05:26:12
-- [Link To Text](2025-10-23-dane-stuckey-(openai-ciso)-on-prompt-injection-risks-for-chatgpt-atlas_raw.md)
 
 ## TL;DR
 OpenAI针对ChatGPT浏览器自动化功能的提示注入风险采取红队测试、深度防御与监视模式等防护措施。但作者对其有效性存疑，认为零日攻击风险犹存，实际防护效果有待验证，但肯定OpenAI的积极应对。

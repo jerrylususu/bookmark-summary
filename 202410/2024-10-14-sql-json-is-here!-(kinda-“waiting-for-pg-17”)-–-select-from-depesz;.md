@@ -1,7 +1,6 @@
 # SQL/JSON is here! (kinda “Waiting for Pg 17”) – select * from depesz;
 - URL: https://www.depesz.com/2024/10/11/sql-json-is-here-kinda-waiting-for-pg-17/
 - Added At: 2024-10-14 14:41:29
-- [Link To Text](2024-10-14-sql-json-is-here!-(kinda-“waiting-for-pg-17”)-–-select-from-depesz;_raw.md)
 
 ## TL;DR
 PostgreSQL通过SQL/JSON标准新增了处理JSON数据的功能，包括构造器、测试函数和查询函数，增强了处理复杂数据结构的能力。

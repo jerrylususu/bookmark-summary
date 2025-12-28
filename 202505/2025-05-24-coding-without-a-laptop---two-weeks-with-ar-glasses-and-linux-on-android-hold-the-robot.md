@@ -1,7 +1,6 @@
 # Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android | Hold The Robot
 - URL: https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/
 - Added At: 2025-05-24 10:34:28
-- [Link To Text](2025-05-24-coding-without-a-laptop---two-weeks-with-ar-glasses-and-linux-on-android-hold-the-robot_raw.md)
 
 ## TL;DR
 

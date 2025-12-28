@@ -1,7 +1,6 @@
 # My Cursor AI Workflow That Actually Works
 - URL: https://nmn.gl/blog/cursor-guide
 - Added At: 2025-03-17 13:42:31
-- [Link To Text](2025-03-17-my-cursor-ai-workflow-that-actually-works_raw.md)
 
 ## TL;DR
 

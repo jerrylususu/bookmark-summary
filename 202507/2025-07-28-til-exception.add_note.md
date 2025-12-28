@@ -1,7 +1,6 @@
 # TIL: Exception.add_note
 - URL: https://daniel.feldroy.com/posts/til-2025-05-exception-add_note
 - Added At: 2025-07-28 14:08:34
-- [Link To Text](2025-07-28-til-exception.add_note_raw.md)
 
 ## TL;DR
 

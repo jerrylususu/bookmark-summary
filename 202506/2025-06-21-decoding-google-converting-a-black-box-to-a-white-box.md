@@ -1,7 +1,6 @@
 # Decoding Google: Converting a Black Box to a White Box
 - URL: https://brutecat.com/articles/decoding-google
 - Added At: 2025-06-21 09:29:14
-- [Link To Text](2025-06-21-decoding-google-converting-a-black-box-to-a-white-box_raw.md)
 
 ## TL;DR
 

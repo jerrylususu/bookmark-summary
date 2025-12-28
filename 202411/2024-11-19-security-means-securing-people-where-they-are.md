@@ -1,7 +1,6 @@
 # Security means securing people where they are
 - URL: https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are
 - Added At: 2024-11-19 17:10:05
-- [Link To Text](2024-11-19-security-means-securing-people-where-they-are_raw.md)
 
 ## TL;DR
 文章讨论了PyPI实施PEP 740和Trusted Publishing引发的争议，强调了大规模安全的重要性，即在用户所在的地方保障他们。文章分析了用户对GitHub认证的担忧，如不公平社会压力和供应商偏见，并解释了多供应商支持和开放标准的实施。最终，文章主张实用主义，建议首先支持能最大程度受益的服务，同时不排除对其他服务的支持。

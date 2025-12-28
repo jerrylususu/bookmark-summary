@@ -1,7 +1,6 @@
 # Designing agentic loops
 - URL: https://simonwillison.net/2025/Sep/30/designing-agentic-loops/
 - Added At: 2025-10-02 13:47:43
-- [Link To Text](2025-10-02-designing-agentic-loops_raw.md)
 
 ## TL;DR
 智能体循环是利用大型语言模型通过循环运行工具实现代码生成目标的关键技能。需在安全沙盒中运行，管理凭证风险，并选择明确任务场景，以最大化效率与安全性。

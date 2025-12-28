@@ -1,7 +1,6 @@
 # TI-20250709-0001: IPv4 traffic failures for Techaro services | Anubis
 - URL: https://anubis.techaro.lol/blog/incident/TI-20250709-0001/
 - Added At: 2025-07-10 14:27:43
-- [Link To Text](2025-07-10-ti-20250709-0001-ipv4-traffic-failures-for-techaro-services-anubis_raw.md)
 
 ## TL;DR
 

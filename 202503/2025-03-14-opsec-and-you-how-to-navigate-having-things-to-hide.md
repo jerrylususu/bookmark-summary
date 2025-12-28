@@ -1,7 +1,6 @@
 # Opsec and you: how to navigate having things to hide
 - URL: https://xeiaso.net/talks/2025/opsec-and-you/
 - Added At: 2025-03-14 15:25:28
-- [Link To Text](2025-03-14-opsec-and-you-how-to-navigate-having-things-to-hide_raw.md)
 
 ## TL;DR
 本文探讨数字时代操作安全（Opsec），建议根据个人威胁模型制定策略。核心包括：使用加密通信、多因素认证、清理文件元数据；采用化名并搭配AI模糊身份；推荐Tor、Signal等工具及自托管服务；强调在隐私与便利间平衡，接受失误并通过分层防御（如加密、自动删除）降低风险。

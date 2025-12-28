@@ -1,7 +1,6 @@
 # Greppability is an underrated code metric
 - URL: https://morizbuesing.com/blog/greppability-code-metric/
 - Added At: 2024-09-04 14:19:02
-- [Link To Text](2024-09-04-greppability-is-an-underrated-code-metric_raw.md)
 
 ## TL;DR
 文章强调了代码可搜索性的重要性，提出了避免拆分标识符、在整个堆栈中使用相同名称和扁平化结构的规则，以提高代码的可维护性和安全性。

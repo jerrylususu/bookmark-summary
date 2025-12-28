@@ -1,7 +1,6 @@
 # We had an AI attempt to make a data-driven story like we do at The Pudding
 - URL: https://pudding.cool/2024/07/ai/
 - Added At: 2024-07-31 14:19:48
-- [Link To Text](2024-07-31-we-had-an-ai-attempt-to-make-a-data-driven-story-like-we-do-at-the-pudding_raw.md)
 
 ## TL;DR
 文章探讨了AI在数据驱动视觉故事讲述中的应用，通过使用Claude进行实验，评估其在创意生成、数据收集与分析、故事板与原型设计、开发与写作各阶段的表现。结果显示AI在特定任务上表现出色，但在整体项目连贯性和复杂任务处理上仍需改进，表明AI目前无法替代人类故事讲述者的精细工艺和迭代过程。未来计划将AI作为工具用于特定任务，如脚本写作和创意头脑风暴。

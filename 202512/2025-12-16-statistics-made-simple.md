@@ -2,7 +2,6 @@
 - URL: https://tonsky.me/blog/clj-simple-stats/
 - Added At: 2025-12-16 13:26:30
 - Tags: #read
-- [Link To Text](2025-12-16-statistics-made-simple_raw.md)
 
 ## TL;DR
 作者开发了轻量级网站统计工具clj-simple-stats，替代复杂方案如Google Analytics。它通过中间件简化部署，智能分类访问并优化RSS计数，提供柱状图等准确图表。具备基础筛选功能，开源可自托管。

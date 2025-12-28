@@ -1,7 +1,6 @@
 # Why reliability is hard at scale: learnings from infrastructure outages
 - URL: https://newsletter.pragmaticengineer.com/p/why-reliability-is-hard-at-scale
 - Added At: 2025-07-23 13:25:40
-- [Link To Text](2025-07-23-why-reliability-is-hard-at-scale-learnings-from-infrastructure-outages_raw.md)
 
 ## TL;DR
 

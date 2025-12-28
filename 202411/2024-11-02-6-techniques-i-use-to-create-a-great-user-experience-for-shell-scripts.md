@@ -1,7 +1,6 @@
 # 6 Techniques I Use to Create a Great User Experience for Shell Scripts
 - URL: https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts
 - Added At: 2024-11-02 07:55:52
-- [Link To Text](2024-11-02-6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts_raw.md)
 
 ## TL;DR
 作者通过参与“One Billion Row Challenge”项目，编写了一个用户体验出色的Shell脚本，并分享了六大技术：全面错误处理、多彩输出、详细进度报告、策略性错误处理、平台特定适应和时间戳文件输出。这些技术旨在提升脚本的健壮性和用户友好性。

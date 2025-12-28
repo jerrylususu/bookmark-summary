@@ -1,7 +1,6 @@
 # Everything that turned out well in my life followed the same design process
 - URL: https://www.henrikkarlsson.xyz/p/unfolding
 - Added At: 2024-12-14 14:27:22
-- [Link To Text](2024-12-14-everything-that-turned-out-well-in-my-life-followed-the-same-design-process_raw.md)
 
 ## TL;DR
 文章探讨了通过“展开”过程设计成功生活的方法，强调从环境出发，通过观察、迭代和反馈循环，逐步调整设计以契合个人需求和兴趣，最终实现与环境的高度契合。

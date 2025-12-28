@@ -2,7 +2,6 @@
 - URL: https://overreacted.io/introducing-rsc-explorer/
 - Added At: 2025-12-19 14:24:37
 - Tags: #read #deepdive #frontend
-- [Link To Text](2025-12-19-introducing-rsc-explorer-—-overreacted_raw.md)
 
 ## TL;DR
 本文介绍了开源工具RSC Explorer，它通过可视化方式帮助开发者理解React Server Components协议。该工具模拟RSC通信，展示组件序列化、异步渲染、动态组件加载及服务器动作调用等场景，旨在提供无需网络请求的教育体验。

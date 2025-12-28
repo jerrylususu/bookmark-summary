@@ -2,7 +2,6 @@
 - URL: https://lucumr.pocoo.org/2025/11/21/agents-are-hard/
 - Added At: 2025-11-22 07:29:32
 - Tags: #read #llm #deepdive #guide
-- [Link To Text](2025-11-22-agent-design-is-still-hard_raw.md)
 
 ## TL;DR
 2025年智能体开发经验显示，构建智能体仍面临多项挑战：推荐直接使用底层SDK以灵活处理工具调用与缓存；需显式管理缓存、注入引导信息强化任务推进，并通过子代理隔离失败；模型选择需兼顾成本与效能，测试尚无理想方案。整体看，智能体开发仍处精细探索阶段。

@@ -1,7 +1,6 @@
 # Building an Agent That Leverages Throwaway Code
 - URL: https://lucumr.pocoo.org/2025/10/17/code/
 - Added At: 2025-10-18 13:59:05
-- [Link To Text](2025-10-18-building-an-agent-that-leverages-throwaway-code_raw.md)
 
 ## TL;DR
 本文介绍利用Pyodide（WebAssembly版Python）构建智能体的方法，通过写入临时代码解决复杂任务。虚拟文件系统实现安全资源交互；持久化执行确保任务可恢复。此方法简单高效，已有类似应用实践。

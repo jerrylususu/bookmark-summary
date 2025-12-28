@@ -2,7 +2,6 @@
 - URL: https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/
 - Added At: 2025-12-06 15:20:51
 - Tags: #read #python
-- [Link To Text](2025-12-06-a-first-look-at-django's-new-background-tasks_raw.md)
 
 ## TL;DR
 Django 6.0 推出内置任务框架 `django.tasks`，提供统一 API 标准，便于集成多种后端。支持异步任务定义与排队，但功能精简，缺少重试、编排等高级特性，适用于简单场景，复杂需求仍需 Celery 等工具。

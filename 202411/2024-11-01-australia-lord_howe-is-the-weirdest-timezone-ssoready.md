@@ -1,7 +1,6 @@
 # Australia/Lord_Howe is the weirdest timezone | SSOReady
 - URL: https://ssoready.com/blog/engineering/truths-programmers-timezones/
 - Added At: 2024-11-01 12:55:22
-- [Link To Text](2024-11-01-australia-lord_howe-is-the-weirdest-timezone-ssoready_raw.md)
 
 ## TL;DR
 文章探讨了时区的复杂性和一些奇怪的时区规则，如尼泊尔的5小时45分钟偏移、摩洛哥和加沙的伊斯兰历调整、格陵兰的负夏令时等。这些时区在软件中通过IANA数据库管理，使用UTC偏移和设计符来标识。尽管时区规则复杂，但通过阅读标准文件可以理解和处理。

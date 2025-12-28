@@ -1,7 +1,6 @@
 # Automated Decision Logs in AI-Assisted Coding
 - URL: https://addyosmani.com/blog/automated-decision-logs/
 - Added At: 2024-11-28 13:35:12
-- [Link To Text](2024-11-28-automated-decision-logs-in-ai-assisted-coding_raw.md)
 
 ## TL;DR
 文章讨论了AI代码生成工具的使用及其潜在问题，提出通过自动决策日志（ADL）来记录AI的决策过程，以提高透明度和可追溯性。ADL帮助新成员快速上手，辅助调试，确保代码更改的可追溯性，并在工具切换或模型升级时保持一致性。文章强调了ADL在增强工程过程和知识共享中的重要性。

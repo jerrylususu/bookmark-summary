@@ -1,7 +1,6 @@
 # Franzelio - Draw Lines, Make Music, Share Your Instrument
 - URL: https://franzelio.franzai.com/
 - Added At: 2024-12-14 13:49:24
-- [Link To Text](2024-12-14-franzelio---draw-lines,-make-music,-share-your-instrument_raw.md)
 
 ## TL;DR
 Franzelio是一款2024年推出的绘画与音乐创作工具，用户通过绘制线条生成音乐并分享作品，由Franz Enzenhofer创建。

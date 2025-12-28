@@ -1,7 +1,6 @@
 # How to Fix Any Bug — overreacted
 - URL: https://overreacted.io/how-to-fix-any-bug/
 - Added At: 2025-10-21 13:55:37
-- [Link To Text](2025-10-21-how-to-fix-any-bug-—-overreacted_raw.md)
 
 ## TL;DR
 文章通过修复网页滚动Bug的案例，总结了系统性方法：先建立可客观验证的可复现案例，再逐步简化代码定位问题根源，避免盲目猜测。核心原则是简化优于理论测试，确保每一步都验证Bug存在，适用于复杂项目调试。最终通过修正React Router依赖解决问题。

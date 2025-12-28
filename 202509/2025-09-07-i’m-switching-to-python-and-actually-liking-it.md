@@ -1,7 +1,6 @@
 # I’m Switching to Python and Actually Liking It
 - URL: https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html
 - Added At: 2025-09-07 13:27:57
-- [Link To Text](2025-09-07-i’m-switching-to-python-and-actually-liking-it_raw.md)
 
 ## TL;DR
 作者分享转向Python开发AI应用的经验，推荐使用uv、ruff、ty、FastAPI等工具链，采用Monorepo结构和Docker部署，强调自动化与生产级实践。

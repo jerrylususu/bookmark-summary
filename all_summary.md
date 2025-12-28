@@ -162,7 +162,7 @@
 
 - (2025-12-08) [Adding unpack syntax to RCL](202512/2025-12-08-adding-unpack-syntax-to-rcl.md)
   - Tags: #read #language #design
-  - Summary: RCL v0.11.0引入解包功能，通过（列表/集合）和（字典）语法简化数据结构拼接。设计解决了推导冗长与联合运算符格式化问题，在保持简洁性的同时明确了集合与字典的语义差异，提升了代码可读性。
+  - Summary: RCL v0.11.0引入解包功能，通过`..`（列表/集合）和`...`（字典）语法简化数据结构拼接。设计解决了推导冗长与联合运算符格式化问题，在保持简洁性的同时明确了集合与字典的语义差异，提升了代码可读性。
 
 - (2025-12-08) [576 - Using LLMs at Oxide / RFD / Oxide](202512/2025-12-08-576---using-llms-at-oxide-rfd-oxide.md)
   - Tags: #read #llm #guide
@@ -190,11 +190,11 @@
 
 - (2025-12-06) [Writing a good CLAUDE.md](202512/2025-12-06-writing-a-good-claude.md.md)
   - Tags: #read #llm
-  - Summary: 本文介绍了文件作为代码代理初始上下文的核心作用，强调通过定义项目的目标、技术栈和工作流程来引导代理。关键优化策略包括保持指令简洁（优先普适性、控制文件长度）、拆分任务特定内容、明确工具分工，以及手工精心设计内容，以平衡信息量和上下文效率，最大化代理效能。
+  - Summary: 本文介绍了`CLAUDE.md`文件作为代码代理初始上下文的核心作用，强调通过定义项目的目标、技术栈和工作流程来引导代理。关键优化策略包括保持指令简洁（优先普适性、控制文件长度）、拆分任务特定内容、明确工具分工，以及手工精心设计内容，以平衡信息量和上下文效率，最大化代理效能。
 
 - (2025-12-06) [A first look at Django's new background tasks](202512/2025-12-06-a-first-look-at-django%27s-new-background-tasks.md)
   - Tags: #read #python
-  - Summary: Django 6.0 推出内置任务框架 ，提供统一 API 标准，便于集成多种后端。支持异步任务定义与排队，但功能精简，缺少重试、编排等高级特性，适用于简单场景，复杂需求仍需 Celery 等工具。
+  - Summary: Django 6.0 推出内置任务框架 `django.tasks`，提供统一 API 标准，便于集成多种后端。支持异步任务定义与排队，但功能精简，缺少重试、编排等高级特性，适用于简单场景，复杂需求仍需 Celery 等工具。
 
 - (2025-12-06) [Thoughts on Go vs. Rust vs. Zig](202512/2025-12-06-thoughts-on-go-vs.-rust-vs.-zig.md)
   - Tags: #read #programming #language
@@ -234,7 +234,7 @@
 
 - (2025-12-03) [Dependency groups and uv run](202512/2025-12-03-dependency-groups-and-uv-run.md)
   - Tags: #read #tips
-  - Summary: 本文介绍了一种基于uv工具的新型Python开发模式，利用PEP 735依赖组简化项目流程。核心是使用创建库项目，通过添加dev依赖组，运行自动处理环境和测试。模式无需手动管理虚拟环境，便于协作与打包，提升开发效率。
+  - Summary: 本文介绍了一种基于uv工具的新型Python开发模式，利用PEP 735依赖组简化项目流程。核心是使用`uv init`创建库项目，通过`uv add`添加dev依赖组，运行`uv run pytest`自动处理环境和测试。模式无需手动管理虚拟环境，便于协作与打包，提升开发效率。
 
 - (2025-12-03) [Vibe Coding: Empowering and Imprisoning - Anil Dash](202512/2025-12-03-vibe-coding-empowering-and-imprisoning---anil-dash.md)
   - Tags: #read
@@ -294,7 +294,7 @@
 
 - (2025-11-23) [一次性软件与被压缩的现实：AI Native 的本质是策略重构](202511/2025-11-23-%E4%B8%80%E6%AC%A1%E6%80%A7%E8%BD%AF%E4%BB%B6%E4%B8%8E%E8%A2%AB%E5%8E%8B%E7%BC%A9%E7%9A%84%E7%8E%B0%E5%AE%9E%EF%BC%9Aai-native-%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E7%AD%96%E7%95%A5%E9%87%8D%E6%9E%84.md)
   - Tags: #read #llm
-  - Summary: AI时代下，一次性软件通过低成本生成实现高解析度决策，使组织从依赖直觉转向数据驱动，推动协作透明化和代码工具化，实现决策范式升级。
+  - Summary: AI时代下，一次**性软件**通过低成本生成实现高解析度决策，使组织从依赖直觉转向数据驱动，推动协作透明化和代码工具化，实现决策范式升级。
 
 - (2025-11-22) [Zed Is Our Office - Zed Blog](202511/2025-11-22-zed-is-our-office---zed-blog.md)
   - Tags: #read
@@ -346,7 +346,7 @@
 
 - (2025-11-18) [Memory leaks: the forgotten side of web performance](202511/2025-11-18-memory-leaks-the-forgotten-side-of-web-performance.md)
   - Tags: #read #perf
-  - Summary: 本文强调Web开发中常被忽视的内存泄漏问题，指出其不易察觉但可能积累导致崩溃，修复性价比高。现有诊断工具尚不完善，作者开发的工具提供改进，建议行业关注预防性修复以提升应用质量。
+  - Summary: 本文强调Web开发中常被忽视的内存泄漏问题，指出其不易察觉但可能积累导致崩溃，修复性价比高。现有诊断工具尚不完善，作者开发的工具`fuite`提供改进，建议行业关注预防性修复以提升应用质量。
 
 - (2025-11-18) [The fate of “small” open source](202511/2025-11-18-the-fate-of-%E2%80%9Csmall%E2%80%9D-open-source.md)
   - Tags: #read #llm
@@ -674,7 +674,7 @@
 
 - (2025-10-18) [The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements](202510/2025-10-18-the-temporal-dead-zone%2C-or-why-the-typescript-codebase-is-littered-with-var-statements.md)
   - Tags: #read #js
-  - Summary: TypeScript代码库为优化约8%性能，选择使用存在缺陷的语句替代/，以规避变量时空死区带来的运行时开销。尽管现代JavaScript推荐使用更安全的块级作用域声明，但出于性能权衡仍保留。
+  - Summary: TypeScript代码库为优化约8%性能，选择使用存在缺陷的`var`语句替代`let`/`const`，以规避变量时空死区带来的运行时开销。尽管现代JavaScript推荐使用更安全的块级作用域声明，但出于性能权衡仍保留`var`。
 
 - (2025-10-18) [Use weird tests to capture tacit knowledge](202510/2025-10-18-use-weird-tests-to-capture-tacit-knowledge.md)
   - Tags: #read #tips
@@ -754,11 +754,11 @@
 
 - (2025-10-11) [Quick and dirty bar-charts using HTML's meter element](202510/2025-10-11-quick-and-dirty-bar-charts-using-html%27s-meter-element.md)
   - Tags: #frontend #hack
-  - Summary: 这篇文章介绍了一种利用HTML的元素和CSS的属性创建简易垂直条形图的轻量级方法。该方法无需依赖外部库，支持样式定制和交互，简单实用但样式较为基础。
+  - Summary: 这篇文章介绍了一种利用HTML的`<meter>`元素和CSS的`writing-mode`属性创建简易垂直条形图的轻量级方法。该方法无需依赖外部库，支持样式定制和交互，简单实用但样式较为基础。
 
 - (2025-10-10) [Finding a VS Code Memory Leak](202510/2025-10-10-finding-a-vs-code-memory-leak.md)
   - Tags: #read #perf
-  - Summary: 作者Bruce Dawson通过观察同事电脑的高进程ID，发现VS Code因未关闭进程句柄导致内存泄漏。问题源于代码中忘记调用。经ETW分析后迅速修复，凸显资源管理和RAII重要性。
+  - Summary: 作者Bruce Dawson通过观察同事电脑的高进程ID，发现VS Code因未关闭进程句柄导致内存泄漏。问题源于代码中忘记调用`CloseHandle`。经ETW分析后迅速修复，凸显资源管理和RAII重要性。
 
 - (2025-10-10) [A new breed of analyzers](202510/2025-10-10-a-new-breed-of-analyzers.md)
   - Tags: #read #security
@@ -882,7 +882,7 @@
 
 - (2025-09-19) [no-unused-binary-expressions: From code review nit to ecosystem improvements - ESLint - Pluggable JavaScript Linter](202509/2025-09-19-no-unused-binary-expressions-from-code-review-nit-to-ecosystem-improvements---eslint---pluggable-javascript-linter.md)
   - Tags: #read #security
-  - Summary: 从代码审查发现启发，作者开发了ESLint规则 ，能检测逻辑错误。该规则经4年演进，被纳入ESLint和TypeScript，在大型代码库中发现近百个错误，展现了跨团队合作与开源社区共享的重要性。
+  - Summary: 从代码审查发现启发，作者开发了ESLint规则 `no-constant-binary-expressions`，能检测逻辑错误。该规则经4年演进，被纳入ESLint和TypeScript，在大型代码库中发现近百个错误，展现了跨团队合作与开源社区共享的重要性。
 
 - (2025-09-18) [From suspicion to published curl CVE](202509/2025-09-18-from-suspicion-to-published-curl-cve.md)
   - Tags: #read #security
@@ -1138,7 +1138,7 @@
 
 - (2025-08-05) [A Friendly Introduction to SVG • Josh W. Comeau](202508/2025-08-05-a-friendly-introduction-to-svg-%E2%80%A2-josh-w.-comeau.md)
   - Tags: #read #deepdive #frontend
-  - Summary: 该文介绍了SVG的矢量特性及Web开发应用。SVG可内联HTML，通过CSS/JS动态控制属性（如填充、描边、路径），并利用实现响应式缩放。其核心元素包括基本形状（线条、矩形、圆形等）和动画技巧（如路径绘制、过渡效果），同时作为DOM节点支持交互操作，是实现复杂动态图形的实用工具。
+  - Summary: 该文介绍了SVG的矢量特性及Web开发应用。SVG可内联HTML，通过CSS/JS动态控制属性（如填充、描边、路径），并利用`viewBox`实现响应式缩放。其核心元素包括基本形状（线条、矩形、圆形等）和动画技巧（如路径绘制、过渡效果），同时作为DOM节点支持交互操作，是实现复杂动态图形的实用工具。
 
 - (2025-08-05) [Automate your project with GitHub Models in Actions](202508/2025-08-05-automate-your-project-with-github-models-in-actions.md)
   - Tags: #read #llm #guide
@@ -1174,15 +1174,15 @@
 
 - (2025-08-01) [Maybe the Fastest Disk Usage Program on macOS](202508/2025-08-01-maybe-the-fastest-disk-usage-program-on-macos.md)
   - Tags: #read #deepdive
-  - Summary: 作者开发的macOS磁盘分析工具dumac通过结合系统调用和Rust+Tokio协程，实现性能突破：批量获取文件元数据降低系统调用次数，利用轻量级并发控制减少锁竞争，最终比传统快6.4倍，较Go版方案提升13倍。实验证明macOS原生接口与Rust零开销抽象为性能核心。
+  - Summary: 作者开发的macOS磁盘分析工具dumac通过结合`getattrlistbulk`系统调用和Rust+Tokio协程，实现性能突破：批量获取文件元数据降低系统调用次数，利用轻量级并发控制减少锁竞争，最终比传统`du -sh`快6.4倍，较Go版方案提升13倍。实验证明macOS原生接口与Rust零开销抽象为性能核心。
 
 - (2025-07-31) [Reflection in C++26 (P2996)](202507/2025-07-31-reflection-in-c%2B%2B26-%28p2996%29.md)
   - Tags: #read #cpp
-  - Summary: C++26的反射特性提案P2996已通过，Clang实验分支支持。通过操作符和访问运行时元数据，可查询名称、遍历成员，动态拼接代码（如提取类型）。支持自定义注解（如）控制成员行为。例如，命令行库clap利用反射自动解析参数，简化代码。Clang率先实现，未来P3294提案将扩展功能。
+  - Summary: C++26的反射特性提案P2996已通过，Clang实验分支支持。通过`^^`操作符和`std::meta::info`访问运行时元数据，可查询名称、遍历成员，动态拼接代码（如提取类型）。支持自定义注解（如`[[=Enum::Value]]`）控制成员行为。例如，命令行库clap利用反射自动解析参数，简化代码。Clang率先实现，未来P3294提案将扩展功能。
 
 - (2025-07-31) [The Math Is Haunted — overreacted](202507/2025-07-31-the-math-is-haunted-%E2%80%94-overreacted.md)
   - Tags: #read #guide
-  - Summary: 该文介绍数学形式化语言Lean，演示其语法与机制（如、），并以错误公理示例说明形式系统潜在矛盾风险。通过费马大定理说明复杂证明依赖协作形式化进展，并推荐学习资源，强调Lean兼具编程与数学探索的趣味性。
+  - Summary: 该文介绍数学形式化语言Lean，演示其语法与`tactic`机制（如`rfl`、`rewrite`），并以错误公理示例说明形式系统潜在矛盾风险。通过费马大定理说明复杂证明依赖协作形式化进展，并推荐学习资源，强调Lean兼具编程与数学探索的趣味性。
 
 - (2025-07-31) [Agentic Coding Things That Didn’t Work](202507/2025-07-31-agentic-coding-things-that-didn%E2%80%99t-work.md)
   - Tags: #read #llm
@@ -1198,7 +1198,7 @@
 
 - (2025-07-30) [Mind the End of Your Line ∙ Adaptive Patchwork](202507/2025-07-30-mind-the-end-of-your-line-%E2%88%99-adaptive-patchwork.md)
   - Tags: #read #git #deepdive
-  - Summary: Git通过配置处理跨平台行分隔符问题，规定仓库统一使用LF，提交时转换CRLF为LF，检出时根据系统自动转回。核心配置包括（旧系统）和（推荐新系统），后者可显式定义文件转换规则，如强制转换，标记二进制文件避免误处理。需团队统一配置以避免合并冲突。
+  - Summary: Git通过配置处理跨平台行分隔符问题，规定仓库统一使用LF，提交时转换CRLF为LF，检出时根据系统自动转回。核心配置包括`core.autocrlf`（旧系统）和`.gitattributes`（推荐新系统），后者可显式定义文件转换规则，如`*.cs text`强制转换，`binary`标记二进制文件避免误处理。需团队统一配置以避免合并冲突。
 
 - (2025-07-29) [LLMs can now identify public figures in images](202507/2025-07-29-llms-can-now-identify-public-figures-in-images.md)
   - Tags: #read #llm
@@ -1210,7 +1210,7 @@
 
 - (2025-07-28) [TIL: Exception.add_note](202507/2025-07-28-til-exception.add_note.md)
   - Tags: #tips #python
-  - Summary: Python 3.11新增方法，允许通过在捕获异常时追加字符串说明。注释存储在列表中，抛出异常时会显示在原始错误信息下方。该方法继承自基类，适用于所有异常类型，便于扩展调试细节。
+  - Summary: Python 3.11新增`Exception.add_note`方法，允许通过`e.add_note("注释")`在捕获异常时追加字符串说明。注释存储在`__notes__`列表中，抛出异常时会显示在原始错误信息下方。该方法继承自`BaseException`基类，适用于所有异常类型，便于扩展调试细节。
 
 - (2025-07-28) [Enough AI copilots! We need AI HUDs](202507/2025-07-28-enough-ai-copilots%21-we-need-ai-huds.md)
   - Tags: #read #llm #design
@@ -1278,7 +1278,7 @@
 
 - (2025-07-23) [What "Parse, don't validate" means in Python?](202507/2025-07-23-what-parse%2C-don%27t-validate-means-in-python.md)
   - Tags: #read #py
-  - Summary: 本文阐述Python中“Parse don’t validate”原则，指优先将外部数据（如命令行/JSON）解析为内部类型（如或日期），而非依赖验证。解析过程中隐含类型验证（如转换失败早报错），而验证需分层规约业务条件。推荐通过、和Pydantic等工具在边界层处理数据，根据场景平衡解析复杂度，以提升安全性和容错性。
+  - Summary: 本文阐述Python中“Parse don’t validate”原则，指优先将外部数据（如命令行/JSON）解析为内部类型（如`int`或日期），而非依赖验证。解析过程中隐含类型验证（如转换失败早报错），而验证需分层规约业务条件。推荐通过`argparse`、`TypedDict`和Pydantic等工具在边界层处理数据，根据场景平衡解析复杂度，以提升安全性和容错性。
 
 - (2025-07-23) [Why reliability is hard at scale: learnings from infrastructure outages](202507/2025-07-23-why-reliability-is-hard-at-scale-learnings-from-infrastructure-outages.md)
   - Tags: #read #reliability
@@ -1290,7 +1290,7 @@
 
 - (2025-07-21) [AI代理的上下文工程：构建Manus的经验教训](202507/2025-07-21-ai%E4%BB%A3%E7%90%86%E7%9A%84%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B%EF%BC%9A%E6%9E%84%E5%BB%BAmanus%E7%9A%84%E7%BB%8F%E9%AA%8C%E6%95%99%E8%AE%AD.md)
   - Tags: #read #llm
-  - Summary: 本文总结构建AI代理Manus的上下文工程经验，提出六大核心策略：① 以工程替代模型训练，实现快速迭代；② KV缓存优化采用稳定前缀和追加式设计，提升性能；③ 状态机控制工具选择，避免工具爆炸与缓存失效；④ 文件系统存储外部记忆，压缩上下文负载；⑤ 复述关键任务+保留错误增强注意力与容错性；⑥ 多样化动作格式防止模式固化。这些原则通过系统性设计显著提升了代理效率与灵活性。
+  - Summary: 本文总结构建AI代理Manus的上下文工程经验，提出六大核心策略： ① **以工程替代模型训练**，实现快速迭代； ② **KV缓存优化**采用稳定前缀和追加式设计，提升性能； ③ **状态机控制工具选择**，避免工具爆炸与缓存失效； ④ **文件系统存储外部记忆**，压缩上下文负载； ⑤ **复述关键任务+保留错误**增强注意力与容错性； ⑥ **多样化动作格式**防止模式固化。这些原则通过系统性设计显著提升了代理效率与灵活性。
 
 - (2025-07-21) [Covers as a way of learning music and code | nicole@web](202507/2025-07-21-covers-as-a-way-of-learning-music-and-code-nicole%40web.md)
   - Tags: #read #tips
@@ -1350,7 +1350,7 @@
 
 - (2025-07-15) [Simple macOS script to extract text from images (OCR)](202507/2025-07-15-simple-macos-script-to-extract-text-from-images-%28ocr%29.md)
   - Tags: #read #tips
-  - Summary: 该文章介绍了适用于macOS的命令行OCR脚本，用户输入即可从图片提取文本。基于苹果Vision框架开发，支持多语言检测与自动纠错，但存在长破折号识别错误和准确率受图片质量影响的局限。代码由Swift编写并开源，作者邀请改进。Linux用户可尝试Frog（含Tesseract）实现类似功能。
+  - Summary: 该文章介绍了适用于macOS的命令行OCR脚本，用户输入`ocr image_path`即可从图片提取文本。基于苹果Vision框架开发，支持多语言检测与自动纠错，但存在长破折号识别错误和准确率受图片质量影响的局限。代码由Swift编写并开源，作者邀请改进。Linux用户可尝试Frog（含Tesseract）实现类似功能。
 
 - (2025-07-14) [Happy 20th birthday Django! Here’s my talk on Django Origins from Django’s 10th](202507/2025-07-14-happy-20th-birthday-django%21-here%E2%80%99s-my-talk-on-django-origins-from-django%E2%80%99s-10th.md)
   - Tags: #read
@@ -1458,7 +1458,7 @@
 
 - (2025-07-02) [Using Playwright MCP with Claude Code](202507/2025-07-02-using-playwright-mcp-with-claude-code.md)
   - Tags: #read #guide
-  - Summary: 本文介绍Playwright MCP与Claude Code的集成方法：通过命令在项目目录配置服务，使用自然语言指令操控浏览器（如「打开example.com需明确提及Playwright」），配置存储于。认证需手动登录保存Cookie。提供20+工具支持导航、截图、表单提交等操作，Claude可自动匹配工具，输入查看工具列表。
+  - Summary: 本文介绍Playwright MCP与Claude Code的集成方法：通过`claude mcp add playwright`命令在项目目录配置服务，使用自然语言指令操控浏览器（如「打开example.com需明确提及Playwright」），配置存储于`~/.claude.json`。认证需手动登录保存Cookie。提供20+工具支持导航、截图、表单提交等操作，Claude可自动匹配工具，输入`/mcp playwright`查看工具列表。
 
 - (2025-07-01) [Scribble-based forecasting and AI 2027](202507/2025-07-01-scribble-based-forecasting-and-ai-2027.md)
   - Tags: #read
@@ -1470,7 +1470,7 @@
 
 - (2025-07-01) [So you want to serialize some DER? · Alex Gaynor](202507/2025-07-01-so-you-want-to-serialize-some-der-%C2%B7-alex-gaynor.md)
   - Tags: #read
-  - Summary: 文章分析了ASN.1的DER编码在长TLV序列化中因动态长度字段导致的性能问题。早期的库通过回填优化内存，但长数据仍需重复操作。作者改用位运算预计算长度后，发现LLVM的汇编冗余，借助Alive2验证并借助AI模型Claude生成补丁优化汇编代码。最终优化策略被LLVM采纳，证明了AI与形式化工具结合在编译器优化中的潜力，同时需开发者严格审验代码。
+  - Summary: 文章分析了ASN.1的DER编码在长TLV序列化中因动态长度字段导致的性能问题。早期的`rust-asn1`库通过回填优化内存，但长数据仍需重复操作。作者改用位运算预计算长度后，发现LLVM的汇编冗余，借助Alive2验证并借助AI模型Claude生成补丁优化汇编代码。最终优化策略被LLVM采纳，证明了AI与形式化工具结合在编译器优化中的潜力，同时需开发者严格审验代码。
 
 - (2025-07-01) [Predicting Average IMDb Movie Ratings Using Text Embeddings of Movie Metadata](202507/2025-07-01-predicting-average-imdb-movie-ratings-using-text-embeddings-of-movie-metadata.md)
   - Tags: #read #data #deepdive
@@ -1506,7 +1506,7 @@
 
 - (2025-06-30) [Tip: Use keyword-only arguments in Python dataclasses – ChipLog — Christian Hammond](202506/2025-06-30-tip-use-keyword-only-arguments-in-python-dataclasses-%E2%80%93-chiplog-%E2%80%94-christian-hammond.md)
   - Tags: #read #tips
-  - Summary: Python数据类通过设置强制使用关键字参数，提升可维护性。该参数使生成的含，所有参数需显式指定，避免字段排序变动引发错误。同时允许子类自由添加必要字段，不受父类默认值顺序限制，推荐库开发者使用以确保扩展性。需Python3.10+支持，旧版本需动态设置装饰器参数但子类仍受限制，建议手动添加默认值。
+  - Summary: Python数据类通过设置`kw_only=True`强制使用关键字参数，提升可维护性。该参数使生成的`__init__()`含`*`，所有参数需显式指定，避免字段排序变动引发错误。同时允许子类自由添加必要字段，不受父类默认值顺序限制，推荐库开发者使用以确保扩展性。需Python3.10+支持，旧版本需动态设置装饰器参数但子类仍受限制，建议手动添加默认值。
 
 - (2025-06-29) [Prompting vs JSON Mode vs Function Calling vs Constrained Generation vs SAP](202506/2025-06-29-prompting-vs-json-mode-vs-function-calling-vs-constrained-generation-vs-sap.md)
   - Tags: #read #llm
@@ -1558,7 +1558,7 @@
 
 - (2025-06-22) [My First Open Source AI Generated Library](202506/2025-06-22-my-first-open-source-ai-generated-library.md)
   - Tags: #read #llm
-  - Summary: Armin Ronacher借助Claude AI开发开源库，AI完成代码编写、测试、文档等核心工作，实现解析错误XML的设计目标。项目具备零依赖、代码清晰、测试充分等特征，代码质量获专家认可媲美人工编写，但强调成果源于开发者全程把控与人机协作，而非AI独立创作。
+  - Summary: Armin Ronacher借助Claude AI开发开源库`sloppy-xml-py`，AI完成代码编写、测试、文档等核心工作，实现解析错误XML的设计目标。项目具备零依赖、代码清晰、测试充分等特征，代码质量获专家认可媲美人工编写，但强调成果源于开发者全程把控与人机协作，而非AI独立创作。
 
 - (2025-06-22) [Pure and impure software engineering](202506/2025-06-22-pure-and-impure-software-engineering.md)
   - Tags: #read #llm #career
@@ -1566,7 +1566,7 @@
 
 - (2025-06-21) [CSS Classes considered harmful](202506/2025-06-21-css-classes-considered-harmful.md)
   - Tags: #read #deepdive #frontend
-  - Summary: 文章指出HTML的属性存在历史局限，无法适应现代复杂交互需求。现有解决方案（如BEM、CSS Modules）存在状态管理缺失、样式膨胀等问题。建议采用HTML原生特性：1）用属性参数化控制状态（如）；2）通过自定义标签（如）替代类名标识组件；3）借助定义CSS状态伪类，实现更可靠的状态管理和样式控制。此举可避免命名冲突、减少技术债务，并利用未来CSS标准（如函数）优化实现。
+  - Summary: 文章指出HTML的`class`属性存在历史局限，无法适应现代复杂交互需求。现有解决方案（如BEM、CSS Modules）存在状态管理缺失、样式膨胀等问题。建议采用HTML原生特性：1）用`data-*`属性参数化控制状态（如`data-size`）；2）通过自定义标签（如`<my-card>`）替代类名标识组件；3）借助`element-internals`定义CSS状态伪类，实现更可靠的状态管理和样式控制。此举可避免命名冲突、减少技术债务，并利用未来CSS标准（如`attr()`函数）优化实现。
 
 - (2025-06-21) [Decoding Google: Converting a Black Box to a White Box](202506/2025-06-21-decoding-google-converting-a-black-box-to-a-white-box.md)
   - Tags: #read #security #deepdive
@@ -1718,7 +1718,7 @@
 
 - (2025-06-11) [Using `make` to compile C programs (for non-C-programmers)](202506/2025-06-11-using-%60make%60-to-compile-c-programs-%28for-non-c-programmers%29.md)
   - Tags: #read #guide
-  - Summary: 本文总结了跨平台编译C/C++程序的步骤：安装编译器（Linux用apt，Mac需Xcode或Homebrew）、管理依赖项（注意跨平台包名差异）、运行配置脚本生成Makefile、使用加速编译、通过和环境变量解决依赖路径问题（如Mac需指定/opt/homebrew路径），以及手动安装二进制文件。建议开发者通过基础编译参数处理问题，而非深入复杂工具细节。
+  - Summary: 本文总结了跨平台编译C/C++程序的步骤：安装编译器（Linux用apt，Mac需Xcode或Homebrew）、管理依赖项（注意跨平台包名差异）、运行配置脚本生成Makefile、使用`make -j`加速编译、通过`CPPFLAGS`和`LDLIBS`环境变量解决依赖路径问题（如Mac需指定/opt/homebrew路径），以及手动安装二进制文件。建议开发者通过基础编译参数处理问题，而非深入复杂工具细节。
 
 - (2025-06-10) [The evasive evitability of enshittification](202506/2025-06-10-the-evasive-evitability-of-enshittification.md)
   - Tags: #read #people
@@ -1762,11 +1762,11 @@
 
 - (2025-06-03) [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints · V8](202506/2025-06-03-giving-v8-a-heads-up-faster-javascript-startup-with-explicit-compile-hints-%C2%B7-v8.md)
   - Tags: #read #js
-  - Summary: V8引擎新增显式编译提示功能，允许开发者通过注释提前编译JavaScript函数，减少网页加载时的延迟。测试显示此方法可平均缩短编译时间630毫秒，但需避免过度使用以防资源浪费。未来计划支持更精准的函数级编译控制。
+  - Summary: V8引擎新增显式编译提示功能，允许开发者通过`//# allFunctionsCalledOnLoad`注释提前编译JavaScript函数，减少网页加载时的延迟。测试显示此方法可平均缩短编译时间630毫秒，但需避免过度使用以防资源浪费。未来计划支持更精准的函数级编译控制。
 
 - (2025-06-03) [Directive prologues and JavaScript dark matter](202506/2025-06-03-directive-prologues-and-javascript-dark-matter.md)
   - Tags: #read #js
-  - Summary: 本文总结了TypeScript/JavaScript中三种特殊控制语法：JSX Pragmas通过C风格注释（如）配置转译规则，需置于文件起始；Directive Prologues如和React的等指令需置于代码开头；Magic Comments以sourcemap注释形式（如）指导编译。三者中仅指令标准化，其余依赖非标准实现，但均在代码转译或执行中扮演关键角色。
+  - Summary: 本文总结了TypeScript/JavaScript中三种特殊控制语法：JSX Pragmas通过C风格注释（如`/** @jsx h */`）配置转译规则，需置于文件起始；Directive Prologues如`"use strict"`和React的`"use client"`等指令需置于代码开头；Magic Comments以sourcemap注释形式（如`//# sourceMappingURL`）指导编译。三者中仅指令标准化，其余依赖非标准实现，但均在代码转译或执行中扮演关键角色。
 
 - (2025-06-03) [My AI Skeptic Friends Are All Nuts](202506/2025-06-03-my-ai-skeptic-friends-are-all-nuts.md)
   - Tags: #read #llm
@@ -1790,7 +1790,7 @@
 
 - (2025-05-31) [Type Inference in Rust and C++](202505/2025-05-31-type-inference-in-rust-and-c%2B%2B.md)
   - Tags: #read #language
-  - Summary: C++和Rust在类型推导机制上体现不同设计哲学：C++通过和模板推导实现局部类型推断，支持重载和隐式转换，但复杂模板可能导致晦涩错误；Rust采用全局Hindley-Milner系统，通过函数级上下文推导类型，禁止重载并强制显式 trait 约束，确保一致性但牺牲灵活性。两者权衡灵活性与复杂度，而Swift尝试混合设计加剧了编译性能问题，凸显语言设计的核心取舍。
+  - Summary: C++和Rust在类型推导机制上体现不同设计哲学：C++通过`auto`和模板推导实现局部类型推断，支持重载和隐式转换，但复杂模板可能导致晦涩错误；Rust采用全局Hindley-Milner系统，通过函数级上下文推导类型，禁止重载并强制显式 trait 约束，确保一致性但牺牲灵活性。两者权衡灵活性与复杂度，而Swift尝试混合设计加剧了编译性能问题，凸显语言设计的核心取舍。
 
 - (2025-05-31) [Get out of my <head>](202505/2025-05-31-get-out-of-my-head.md)
   - Tags: #read #frontend
@@ -1810,7 +1810,7 @@
 
 - (2025-05-31) [TIL: timeout in Bash scripts | Heitor's log](202505/2025-05-31-til-timeout-in-bash-scripts-heitor%27s-log.md)
   - Tags: #read #tips
-  - Summary: 本文总结了解决Bash脚本中循环无限等待的问题。原脚本因服务器异常可能无限卡死，直接使用无效，因为是内置命令。解决方案包括：将循环嵌入子进程（如）或分离为独立脚本后调用，从而实现超时控制避免脚本僵死。
+  - Summary: 本文总结了解决Bash脚本中`until curl`循环无限等待的问题。原脚本因服务器异常可能无限卡死，直接使用`timeout`无效，因为`until`是内置命令。解决方案包括：将循环嵌入子进程（如`timeout 1m bash -c "循环命令"`）或分离为独立脚本后调用，从而实现超时控制避免脚本僵死。
 
 - (2025-05-31) [CAPTCHAs are over (in ticketing) - pretix – behind the scenes](202505/2025-05-31-captchas-are-over-%28in-ticketing%29---pretix-%E2%80%93-behind-the-scenes.md)
   - Tags: #read
@@ -1818,7 +1818,7 @@
 
 - (2025-05-31) [In C++, use exchange or swap with nullopt to move out of std::optional - Keunwoo Lee's Minimum Viable Homepage](202505/2025-05-31-in-c%2B%2B%2C-use-exchange-or-swap-with-nullopt-to-move-out-of-std-optional---keunwoo-lee%27s-minimum-viable-homepage.md)
   - Tags: #read #cpp
-  - Summary: 使用可安全转移的值并将其置为，避免残留engaged状态引发未定义行为。单纯移动对象或其值会导致原对象仍显示有效但内部为空，需手动修复，但不如直接。优先选用确保安全简洁；仅在性能敏感场景考虑，但需注意代码可读性。测试表明和能有效重置原optional，其他方法不可取。
+  - Summary: 使用`std::exchange`可安全转移`std::optional`的值并将其置为`nullopt`，避免残留engaged状态引发未定义行为。单纯移动对象或其值会导致原对象仍显示有效但内部为空，需手动`.reset()`修复，但不如`exchange`直接。优先选用`exchange`确保安全简洁；仅在性能敏感场景考虑`std::swap`，但需注意代码可读性。测试表明`exchange`和`swap`能有效重置原optional，其他方法不可取。
 
 - (2025-05-31) [XKCD's "Is It Worth the Time?" Considered Harmful](202505/2025-05-31-xkcd%27s-is-it-worth-the-time-considered-harmful.md)
   - Tags: #read
@@ -1910,7 +1910,7 @@
 
 - (2025-05-24) [轻量级地克隆一个 Git 仓库](202505/2025-05-24-%E8%BD%BB%E9%87%8F%E7%BA%A7%E5%9C%B0%E5%85%8B%E9%9A%86%E4%B8%80%E4%B8%AA-git-%E4%BB%93%E5%BA%93.md)
   - Tags: #read #guide
-  - Summary: 本文介绍了多种轻量级Git克隆方法：浅层克隆（）仅获取最新数据；无内容克隆（）跳过文件内容；稀疏检出选择特定目录。通过参数组合（如+）可最小化下载量，但需权衡历史记录、文件完整性及网络条件选择合适方案。
+  - Summary: 本文介绍了多种轻量级Git克隆方法：浅层克隆（`--depth=1`）仅获取最新数据；无内容克隆（`--filter=blob:none`）跳过文件内容；稀疏检出选择特定目录。通过参数组合（如`--no-checkout`+`--sparse`）可最小化下载量，但需权衡历史记录、文件完整性及网络条件选择合适方案。
 
 - (2025-05-24) [Multiplayer AI chat and conversational turn-taking: sharing what we learnt](202505/2025-05-24-multiplayer-ai-chat-and-conversational-turn-taking-sharing-what-we-learnt.md)
   - Tags: #read #llm
@@ -1986,8 +1986,7 @@
 
 - (2025-05-11) [Making PyPI's test suite 81% faster](202505/2025-05-11-making-pypi%27s-test-suite-81%25-faster.md)
   - Tags: #read #perf
-  - Summary: Trail of Bits与PyPI通过并行测试（pytest-xdist）、Python3.12的sys.monitoring覆盖率技术、精简测试路径(testpaths)及移除冗余依赖等优化，将测试执行时间缩短81%至30秒，测试用例数反增20%（4700条）。优化平衡了性能与安全（100%覆盖率），并感谢社区对数据库同步和DNS缓存的改进贡献。
-（99字）
+  - Summary: Trail of Bits与PyPI通过并行测试（pytest-xdist）、Python3.12的sys.monitoring覆盖率技术、精简测试路径(testpaths)及移除冗余依赖等优化，将测试执行时间缩短81%至30秒，测试用例数反增20%（4700条）。优化平衡了性能与安全（100%覆盖率），并感谢社区对数据库同步和DNS缓存的改进贡献。 （99字）
 
 - (2025-05-11) [Mission Impossible: Managing AI Agents in the Real World](202505/2025-05-11-mission-impossible-managing-ai-agents-in-the-real-world.md)
   - Tags: #read #llm
@@ -2007,7 +2006,7 @@
 
 - (2025-05-09) [Reservoir Sampling](202505/2025-05-09-reservoir-sampling.md)
   - Tags: #deepdive #explain #visual
-  - Summary: 水库抽样是一种在数据流中实现公平抽样的算法，适用于未知数据总量的场景。其核心是对第个元素以（抽1个）或（抽个）的概率动态替换已有样本，确保每个元素被选中的概率均等。该算法内存恒定，常用于日志服务等需实时处理且限制存储的场景，在流量平稳时保留全部数据，高峰时丢弃冗余信息，但存在分块传输的时延缺陷。实际应用需结合加权或优先级规则，以应对复杂需求。
+  - Summary: 水库抽样是一种在数据流中实现公平抽样的算法，适用于未知数据总量的场景。其核心是对第`n`个元素以`1/n`（抽1个）或`k/n`（抽`k`个）的概率动态替换已有样本，确保每个元素被选中的概率均等。该算法内存恒定，常用于日志服务等需实时处理且限制存储的场景，在流量平稳时保留全部数据，高峰时丢弃冗余信息，但存在分块传输的时延缺陷。实际应用需结合加权或优先级规则，以应对复杂需求。
 
 - (2025-05-09) [Claude’s System Prompt: Chatbots Are More Than Just Models](202505/2025-05-09-claude%E2%80%99s-system-prompt-chatbots-are-more-than-just-models.md)
   - Tags: #read #llm
@@ -2027,7 +2026,7 @@
 
 - (2025-05-06) [Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)](202505/2025-05-06-async-rust-can-be-a-pleasure-to-work-with-%28without-%60send-%2B-sync-%2B-%27static%60%29.md)
   - Tags: #read #rust
-  - Summary: 在Rust异步编程中，通过结构化并发和线程每核心模型可规避对++'static依赖。结构化并发自动管理子任务生命周期，简化资源清理与错误处理；绑定单线程的运行时（如Glommio）无需任务实现，降低代码复杂度。实验表明，轻量任务场景下该模式性能更优，但负载不均时工作窃取模式（如Tokio）更适用。现有框架多强制+'static要求，需探索新方案实现开发效率与性能的平衡。
+  - Summary: 在Rust异步编程中，通过结构化并发和线程每核心模型可规避对`Send`+`Sync`+'static依赖。结构化并发自动管理子任务生命周期，简化资源清理与错误处理；绑定单线程的运行时（如Glommio）无需任务实现`Send`，降低代码复杂度。实验表明，轻量任务场景下该模式性能更优，但负载不均时工作窃取模式（如Tokio）更适用。现有框架多强制`Send`+'static要求，需探索新方案实现开发效率与性能的平衡。
 
 - (2025-05-06) [Dummy's Guide to Modern Samplers](202505/2025-05-06-dummy%27s-guide-to-modern-samplers.md)
   - Tags: #deepdive #llm
@@ -2071,7 +2070,7 @@
 
 - (2025-04-25) [Senior engineers should make side bets](202504/2025-04-25-senior-engineers-should-make-side-bets.md)
   - Tags: #read #career
-  - Summary: 请提供具体的列表内容，我才能为你生成简短总结。
+  - Summary: </think> 请提供具体的列表内容，我才能为你生成简短总结。
 
 - (2025-04-24) [Accurate Benchmarking](202504/2025-04-24-accurate-benchmarking.md)
   - Tags: #read
@@ -2083,7 +2082,7 @@
 
 - (2025-04-24) [Better typography with text-wrap pretty](202504/2025-04-24-better-typography-with-text-wrap-pretty.md)
   - Tags: #read #frontend #deepdive
-  - Summary: Safari Technology Preview 216引入CSS属性优化排版，其中通过全局多行算法减少短行、参差边缘及排版间隙，提升可读性，适合长文本；则均衡短文本行距，适合标题但可能缩窄段落宽度。此属性性能强于Chrome等竞品，开发者可采用(默认)、(逐行断行)等值适配不同场景，未来将扩展支持并分段优化长文本，建议通过在线工具测试并反馈效果。
+  - Summary: Safari Technology Preview 216引入CSS属性`text-wrap`优化排版，其中`pretty`通过全局多行算法减少短行、参差边缘及排版间隙，提升可读性，适合长文本；`balance`则均衡短文本行距，适合标题但可能缩窄段落宽度。此属性性能强于Chrome等竞品，开发者可采用`auto`(默认)、`stable`(逐行断行)等值适配不同场景，未来将扩展支持并分段优化长文本，建议通过在线工具测试并反馈效果。
 
 - (2025-04-24) [让你的 RSS/Atom feed 更好看](202504/2025-04-24-%E8%AE%A9%E4%BD%A0%E7%9A%84-rss-atom-feed-%E6%9B%B4%E5%A5%BD%E7%9C%8B.md)
   - Tags: #read
@@ -2215,7 +2214,7 @@
 
 - (2025-04-09) [The bottom emoji breaks rust-analyzer](202504/2025-04-09-the-bottom-emoji-breaks-rust-analyzer.md)
   - Tags: #read
-  - Summary: 该文介绍了在Emacs中配置rust-analyzer时遇到的崩溃问题，当输入UTF-8表情符号（如）时，因LSP客户端（lsp-mode）发送非法字节偏移量导致服务端断言失败。解决方案包括：通过软链或配置正确指向rustup管理的最新版本分析器，升级工具链及插件，并确保文本操作符合Unicode字符边界规范。文章强调了编码兼容性和协议规范遵循的重要性。
+  - Summary: 该文介绍了在Emacs中配置rust-analyzer时遇到的崩溃问题，当输入UTF-8表情符号（如`🥺`）时，因LSP客户端（lsp-mode）发送非法字节偏移量导致服务端断言失败。解决方案包括：通过软链或配置正确指向rustup管理的最新版本分析器，升级工具链及插件，并确保文本操作符合Unicode字符边界规范。文章强调了编码兼容性和协议规范遵循的重要性。
 
 - (2025-04-09) [Model Context Protocol has prompt injection security problems](202504/2025-04-09-model-context-protocol-has-prompt-injection-security-problems.md)
   - Tags: #read #llm #security
@@ -2239,7 +2238,7 @@
 
 - (2025-04-07) [Cover Flow with Modern CSS: Scroll-Driven Animations in Action](202504/2025-04-07-cover-flow-with-modern-css-scroll-driven-animations-in-action.md)
   - Tags: #read #frontend
-  - Summary: 本文总结了利用现代CSS技术（如CSS Scroll Snap和Scroll-Driven Animations API）实现Cover Flow效果的方法。其通过水平滚动吸附、3D变换和反射效果，结合绑定动画，解决了传统JavaScript方案的性能问题。核心步骤包括HTML结构布局、CSS视图时间线及关键帧动画，并通过优化渲染，同时兼顾可访问性（键盘导航、ARIA语义）和移动端适配。现代CSS方案以简洁代码实现60fps流畅效果，性能优于传统技术。
+  - Summary: 本文总结了利用现代CSS技术（如CSS Scroll Snap和Scroll-Driven Animations API）实现Cover Flow效果的方法。其通过水平滚动吸附、3D变换和反射效果，结合`view()`绑定动画，解决了传统JavaScript方案的性能问题。核心步骤包括HTML结构布局、CSS视图时间线及关键帧动画，并通过`will-change`优化渲染，同时兼顾可访问性（键盘导航、ARIA语义）和移动端适配。现代CSS方案以简洁代码实现60fps流畅效果，性能优于传统技术。
 
 - (2025-04-07) [AI 辅助创作的伦理问题](202504/2025-04-07-ai-%E8%BE%85%E5%8A%A9%E5%88%9B%E4%BD%9C%E7%9A%84%E4%BC%A6%E7%90%86%E9%97%AE%E9%A2%98.md)
   - Tags: #read #llm
@@ -2267,7 +2266,7 @@
 
 - (2025-04-04) [Localhost dangers: CORS and DNS rebinding](202504/2025-04-04-localhost-dangers-cors-and-dns-rebinding.md)
   - Tags: #read #security
-  - Summary: 本文探讨了CORS配置错误与DNS重绑定攻击的风险及防御策略。CORS若错误设置通配符、宽松域名匹配或允许来源，可能导致凭证泄露或权限提升；DNS重绑定攻击则通过动态DNS切换绕过浏览器限制，访问内网服务。防御需严格精确配置CORS参数，强制关键接口身份验证，验证头，并禁止本地服务暴露敏感功能。近年案例如Cognita与Tamagui漏洞均因配置疏漏引发严重安全后果。（99字）
+  - Summary: 本文探讨了CORS配置错误与DNS重绑定攻击的风险及防御策略。CORS若错误设置通配符、宽松域名匹配或允许`null`来源，可能导致凭证泄露或权限提升；DNS重绑定攻击则通过动态DNS切换绕过浏览器限制，访问内网服务。防御需严格精确配置CORS参数，强制关键接口身份验证，验证`Host`头，并禁止本地服务暴露敏感功能。近年案例如Cognita与Tamagui漏洞均因配置疏漏引发严重安全后果。（99字）
 
 - (2025-04-03) [Minimal CSS-only blurry image placeholders](202504/2025-04-03-minimal-css-only-blurry-image-placeholders.md)
   - Tags: #deepdive #frontend
@@ -2283,11 +2282,11 @@
 
 - (2025-04-02) [连字（Ligature）那些事儿](202504/2025-04-02-%E8%BF%9E%E5%AD%97%EF%BC%88ligature%EF%BC%89%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md)
   - Tags: #read
-  - Summary: 连字技术通过合并字符提升排版美观与效率，历史可追溯至楔形文字，活字印刷将其标准化。在数字时代，OpenType字体通过GSUB表定义连字规则，开发者可通过CSS3的控制标准、上下文、装饰及历史连字类型，中文合体字亦体现类似理念。该技术平衡视觉流畅性与字符含义，持续拓展应用场景。
+  - Summary: 连字技术通过合并字符提升排版美观与效率，历史可追溯至楔形文字，活字印刷将其标准化。在数字时代，OpenType字体通过GSUB表定义连字规则，开发者可通过CSS3的`font-variant-ligatures`控制标准、上下文、装饰及历史连字类型，中文合体字亦体现类似理念。该技术平衡视觉流畅性与字符含义，持续拓展应用场景。
 
 - (2025-04-02) [A steam locomotive from 1993 broke my yarn test](202504/2025-04-02-a-steam-locomotive-from-1993-broke-my-yarn-test.md)
   - Tags: #deepdive #read
-  - Summary: 作者在运行Jest测试时遭遇27秒定时崩溃问题，排查发现是jest-changed-files插件误将系统命令（蒸汽火车动画）识别为Git检测工具，导致进程被劫持。通过重命名命令或升级Jest补丁解决，事件凸显开源生态中的罕见命名冲突风险，以及系统级调试工具的重要性。
+  - Summary: 作者在运行Jest测试时遭遇27秒定时崩溃问题，排查发现是jest-changed-files插件误将系统命令`sl`（蒸汽火车动画）识别为Git检测工具，导致进程被劫持。通过重命名`sl`命令或升级Jest补丁解决，事件凸显开源生态中的罕见命名冲突风险，以及系统级调试工具的重要性。
 
 - (2025-03-31) [Building native packages is complicated](202503/2025-03-31-building-native-packages-is-complicated.md)
   - Tags: #read
@@ -2303,7 +2302,7 @@
 
 - (2025-03-28) [Async, Sync, in Between](202503/2025-03-28-async%2C-sync%2C-in-between.md)
   - Tags: #read #frontend
-  - Summary: 现代编程中，同步与异步函数混用易引发“异步蔓延”，导致代码级联修改和冗余。通过生成器函数实现自适应执行：根据调用上下文动态选择同步或异步模式，减少代码重复及重构负担。但存在约120ns性能开销，且需显式设计兼容逻辑。该方案适用于需兼容同步/异步场景的库或插件系统。
+  - Summary: 现代编程中，同步与异步函数混用易引发“异步蔓延”，导致代码级联修改和冗余。`quansync`通过生成器函数实现自适应执行：根据调用上下文动态选择同步或异步模式，减少代码重复及重构负担。但存在约120ns性能开销，且需显式设计兼容逻辑。该方案适用于需兼容同步/异步场景的库或插件系统。
 
 - (2025-03-26) [The surreal joy of having an overprovisioned homelab](202503/2025-03-26-the-surreal-joy-of-having-an-overprovisioned-homelab.md)
   - Tags: #read #deepdive
@@ -2455,7 +2454,7 @@
 
 - (2025-03-06) [Why "alias" is my last resort for aliases](202503/2025-03-06-why-alias-is-my-last-resort-for-aliases.md)
   - Tags: #read #guide
-  - Summary: 作者从使用转向脚本实现命令别名，脚本无需重新加载、支持多种编程语言且可处理复杂逻辑，虽然性能稍逊但提供了更多灵活性和功能。
+  - Summary: 作者从使用`alias`转向脚本实现命令别名，脚本无需重新加载、支持多种编程语言且可处理复杂逻辑，虽然性能稍逊但提供了更多灵活性和功能。
 
 - (2025-03-05) [The Hierarchy of Hazard Controls](202503/2025-03-05-the-hierarchy-of-hazard-controls.md)
   - Tags: #read
@@ -2471,7 +2470,7 @@
 
 - (2025-03-01) [Optimizing with Novel Calendrical Algorithms](202503/2025-03-01-optimizing-with-novel-calendrical-algorithms.md)
   - Tags: #read #deepdive
-  - Summary: 作者通过性能审计，设计了新的日期时间算法，优化了 crate的性能，最终实现比现有算法快57.5%，且无分支，过程复杂但结果显著。
+  - Summary: 作者通过性能审计，设计了新的日期时间算法，优化了`time` crate的性能，最终实现比现有算法快57.5%，且无分支，过程复杂但结果显著。
 
 - (2025-03-01) [Five coding hats](202503/2025-03-01-five-coding-hats.md)
   - Tags: #read #guide
@@ -2519,7 +2518,7 @@
 
 - (2025-02-21) [Slashing my ".bashrc" in half](202502/2025-02-21-slashing-my-.bashrc-in-half.md)
   - Tags: #read
-  - Summary: 作者通过引入Atuin、Starship等现代工具，成功简化了，减少了插件和配置，提升了效率和可维护性。这些工具提供了高性能和跨平台兼容性，减少了手动配置工作量，使得终端体验更加流畅。
+  - Summary: 作者通过引入Atuin、Starship等现代工具，成功简化了`.bashrc`，减少了插件和配置，提升了效率和可维护性。这些工具提供了高性能和跨平台兼容性，减少了手动配置工作量，使得终端体验更加流畅。
 
 - (2025-02-19) [软件工程师的软技能指北（六）：谈薪篇](202502/2025-02-19-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%BD%AF%E6%8A%80%E8%83%BD%E6%8C%87%E5%8C%97%EF%BC%88%E5%85%AD%EF%BC%89%EF%BC%9A%E8%B0%88%E8%96%AA%E7%AF%87.md)
   - Tags: #read #career
@@ -2539,7 +2538,7 @@
 
 - (2025-02-16) [Next-level frosted glass with backdrop-filter • Josh W. Comeau](202502/2025-02-16-next-level-frosted-glass-with-backdrop-filter-%E2%80%A2-josh-w.-comeau.md)
   - Tags: #read #frontend
-  - Summary: Josh W. Comeau分享如何使用创建逼真的磨砂玻璃效果，详解优化步骤、浏览器兼容性及3D边缘效果，并提供完整代码。
+  - Summary: Josh W. Comeau分享如何使用`backdrop-filter: blur()`创建逼真的磨砂玻璃效果，详解优化步骤、浏览器兼容性及3D边缘效果，并提供完整代码。
 
 - (2025-02-16) [Relieving your Python packaging pain](202502/2025-02-16-relieving-your-python-packaging-pain.md)
   - Tags: #read #python #guide
@@ -2610,15 +2609,15 @@
 
 - (2025-02-01) [Git: avoid reset --hard, use reset --keep instead - Adam Johnson](202502/2025-02-01-git-avoid-reset---hard%2C-use-reset---keep-instead---adam-johnson.md)
   - Tags: #read #git
-  - Summary: 文章介绍了Git中的命令，重点对比了和选项。会丢弃未提交的更改，存在数据丢失风险，而则保留未提交的更改，更安全。建议使用并设置别名以提高效率。
+  - Summary: 文章介绍了Git中的`reset`命令，重点对比了`--hard`和`--keep`选项。`--hard`会丢弃未提交的更改，存在数据丢失风险，而`--keep`则保留未提交的更改，更安全。建议使用`--keep`并设置别名以提高效率。
 
 - (2025-01-31) [The surprising way to save memory with BytesIO](202501/2025-01-31-the-surprising-way-to-save-memory-with-bytesio.md)
   - Tags: #read #py
-  - Summary: 是Python中用于内存中存储字节数据的类。使用会导致内存使用量翻倍，而和方法则更高效，前者返回视图，后者返回对象且不增加内存。建议避免使用，优先使用或以最小化内存开销。
+  - Summary: `BytesIO`是Python中用于内存中存储字节数据的类。使用`BytesIO.read()`会导致内存使用量翻倍，而`getbuffer()`和`getvalue()`方法则更高效，前者返回`memoryview`视图，后者返回`bytes`对象且不增加内存。建议避免使用`read()`，优先使用`getvalue()`或`getbuffer()`以最小化内存开销。
 
 - (2025-01-28) [DeepSeek FAQ](202501/2025-01-28-deepseek-faq.md)
   - Tags: #read
-  - Summary: DeepSeek发布了多个高效AI模型，如和，通过技术创新如DeepSeekMoE和DeepSeekMLA显著降低了训练和推理成本。在芯片禁令背景下，DeepSeek优化模型架构，展示了在受限硬件上实现高性能的可能性。其开源策略与OpenAI的闭源形成对比，推动了AI模型的普及和成本降低，预示着AI领域接近通用人工智能的实现。
+  - Summary: DeepSeek发布了多个高效AI模型，如`R1`和`V3`，通过技术创新如DeepSeekMoE和DeepSeekMLA显著降低了训练和推理成本。在芯片禁令背景下，DeepSeek优化模型架构，展示了在受限硬件上实现高性能的可能性。其开源策略与OpenAI的闭源形成对比，推动了AI模型的普及和成本降低，预示着AI领域接近通用人工智能的实现。
 
 - (2025-01-28) [Nomadic Infrastructure Design for AI workloads](202501/2025-01-28-nomadic-infrastructure-design-for-ai-workloads.md)
   - Tags: #read
@@ -2642,7 +2641,7 @@
 
 - (2025-01-25) [Safe Assignment | Alan Johnson](202501/2025-01-25-safe-assignment-alan-johnson.md)
   - Tags: #read #js
-  - Summary: Alan Johnson 讨论了 JavaScript 中新的安全赋值操作符（?=）提案，旨在简化 try/catch 块中的错误处理。他实现了一个  函数，支持同步和异步操作，减少代码冗余。虽然不确定是否会实际使用，但他认为这次探索很有趣，并邀请读者反馈。
+  - Summary: Alan Johnson 讨论了 JavaScript 中新的安全赋值操作符（?=）提案，旨在简化 try/catch 块中的错误处理。他实现了一个 `tryCatch` 函数，支持同步和异步操作，减少代码冗余。虽然不确定是否会实际使用，但他认为这次探索很有趣，并邀请读者反馈。
 
 - (2025-01-25) [A WebAssembly compiler that fits in a tweet](202501/2025-01-25-a-webassembly-compiler-that-fits-in-a-tweet.md)
   - Tags: #read #web
@@ -2694,7 +2693,7 @@
 
 - (2025-01-14) [Notes on structured concurrency, or: Go statement considered harmful — njs blog](202501/2025-01-14-notes-on-structured-concurrency%2C-or-go-statement-considered-harmful-%E2%80%94-njs-blog.md)
   - Tags: #read #language
-  - Summary: 文章总结了并发API的常见实现方式，介绍了Trio库的Nursery机制及其优势，讨论了语句的历史与问题，并类比了语句的破坏性。Nursery机制通过结构化并发控制流，解决了语句带来的问题，保留了函数抽象，支持自动资源清理和错误传播。未来，移除语句有望提升并发编程的可靠性和可维护性。
+  - Summary: 文章总结了并发API的常见实现方式，介绍了Trio库的Nursery机制及其优势，讨论了`goto`语句的历史与问题，并类比了`go`语句的破坏性。Nursery机制通过结构化并发控制流，解决了`go`语句带来的问题，保留了函数抽象，支持自动资源清理和错误传播。未来，移除`go`语句有望提升并发编程的可靠性和可维护性。
 
 - (2025-01-14) [浅谈DSPy和自动化提示词工程（中） - 铁蕾的个人博客](202501/2025-01-14-%E6%B5%85%E8%B0%88dspy%E5%92%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%EF%BC%88%E4%B8%AD%EF%BC%89---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
   - Tags: #read #llm
@@ -2718,7 +2717,7 @@
 
 - (2025-01-12) [What's involved in getting a "modern" terminal setup?](202501/2025-01-12-what%27s-involved-in-getting-a-modern-terminal-setup.md)
   - Tags: #read
-  - Summary: 现代终端体验需要多方面的配置，包括支持多行复制粘贴、无限历史记录、24位颜色、剪贴板集成等功能。推荐使用或作为shell，支持24位颜色的终端模拟器，以及开箱即用的文本编辑器如或。配置过程中需注意相互影响，逐步调整，找到适合自己的稳定状态。
+  - Summary: 现代终端体验需要多方面的配置，包括支持多行复制粘贴、无限历史记录、24位颜色、剪贴板集成等功能。推荐使用`fish`或`zsh`作为shell，支持24位颜色的终端模拟器，以及开箱即用的文本编辑器如`micro`或`helix`。配置过程中需注意相互影响，逐步调整，找到适合自己的稳定状态。
 
 - (2025-01-11) [Start Presentations on the Second Slide](202501/2025-01-11-start-presentations-on-the-second-slide.md)
   - Tags: #read #hack
@@ -2738,7 +2737,7 @@
 
 - (2025-01-08) [Why is hash(-1) == hash(-2) in Python?](202501/2025-01-08-why-is-hash%28-1%29-%3D%3D-hash%28-2%29-in-python.md)
   - Tags: #read #py
-  - Summary: 作者在Reddit上发现Python中和都返回的现象，通过查看Python源码发现被用作错误标志，因此哈希函数返回以避免冲突。文章强调了阅读源码的重要性，并鼓励通过源码解决问题。
+  - Summary: 作者在Reddit上发现Python中`hash(-1)`和`hash(-2)`都返回`-2`的现象，通过查看Python源码发现`-1`被用作错误标志，因此哈希函数返回`-2`以避免冲突。文章强调了阅读源码的重要性，并鼓励通过源码解决问题。
 
 - (2025-01-08) [How I program with LLMs](202501/2025-01-08-how-i-program-with-llms.md)
   - Tags: #read #llm
@@ -2894,7 +2893,7 @@
 
 - (2024-12-13) ["Rules" that terminal programs follow](202412/2024-12-13-rules-that-terminal-programs-follow.md)
   - Tags: #read #deepdive
-  - Summary: 文章讨论了终端程序的职责划分和常见行为规则，包括响应、、等操作，使用16种颜色，支持readline键绑定等。这些规则描述了程序的常见行为，但并非强制标准，用户需逐步学习并识别例外。
+  - Summary: 文章讨论了终端程序的职责划分和常见行为规则，包括响应`Ctrl-C`、`q`、`Ctrl-D`等操作，使用16种颜色，支持readline键绑定等。这些规则描述了程序的常见行为，但并非强制标准，用户需逐步学习并识别例外。
 
 - (2024-12-12) [Gist of Go: Pipelines](202412/2024-12-12-gist-of-go-pipelines.md)
   - Tags: #read #golang
@@ -2922,7 +2921,7 @@
 
 - (2024-12-08) [Writing down (and searching through) every UUID · eieio.games](202412/2024-12-08-writing-down-%28and-searching-through%29-every-uuid-%C2%B7-eieio.games.md)
   - Tags: #read #frontend
-  - Summary: 作者创建了everyuuid.com，通过自定义滚动和Feistel密码生成随机UUID，解决了浏览器渲染限制和UUID搜索问题，未来计划增加社交和加密分析功能。
+  - Summary: 作者创建了[everyuuid.com](https://everyuuid.com/)，通过自定义滚动和Feistel密码生成随机UUID，解决了浏览器渲染限制和UUID搜索问题，未来计划增加社交和加密分析功能。
 
 - (2024-12-07) [避免在分布式系统中回退](202412/2024-12-07-%E9%81%BF%E5%85%8D%E5%9C%A8%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%9B%9E%E9%80%80.md)
   - Tags: #read #distributed
@@ -2930,7 +2929,7 @@
 
 - (2024-12-07) [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights | Robert Heaton](202412/2024-12-07-pyskywifi-completely-free%2C-unbelievably-stupid-wi-fi-on-long-haul-flights-robert-heaton.md)
   - Tags: #read #hack
-  - Summary: 作者在飞机上通过飞行里程账户发现了一个Wi-Fi登录页面的漏洞，进而开发了PySkyWiFi，利用该账户实现互联网访问。通过编写命令行工具和简化版的TCP/IP协议，作者在飞行中实现了即时消息传递、实时新闻获取等功能，并计划未来通过HTTP 请求进一步优化。
+  - Summary: 作者在飞机上通过飞行里程账户发现了一个Wi-Fi登录页面的漏洞，进而开发了PySkyWiFi，利用该账户实现互联网访问。通过编写命令行工具和简化版的TCP/IP协议，作者在飞行中实现了即时消息传递、实时新闻获取等功能，并计划未来通过HTTP `CONNECT`请求进一步优化。
 
 - (2024-12-06) [PyMyFlySpy: track your flight using its headrest data | Robert Heaton](202412/2024-12-06-pymyflyspy-track-your-flight-using-its-headrest-data-robert-heaton.md)
   - Tags: #read
@@ -2950,7 +2949,7 @@
 
 - (2024-12-01) [Bash Strict Mode](202412/2024-12-01-bash-strict-mode.md)
   - Tags: #guide
-  - Summary: Bash Strict Mode通过和设置，使脚本在遇到错误时立即失败，提高可靠性和可维护性。常见问题如未定义变量、非零退出状态等有相应解决方案，使用该模式可减少调试时间并避免生产环境中的意外问题。
+  - Summary: Bash Strict Mode通过`set -euo pipefail`和`IFS=$'\n\t'`设置，使脚本在遇到错误时立即失败，提高可靠性和可维护性。常见问题如未定义变量、非零退出状态等有相应解决方案，使用该模式可减少调试时间并避免生产环境中的意外问题。
 
 - (2024-12-01) [Learnings after 4 years working with +50 companies on data engineering projects](202412/2024-12-01-learnings-after-4-years-working-with-%2B50-companies-on-data-engineering-projects.md)
   - Tags: #read
@@ -2958,7 +2957,7 @@
 
 - (2024-11-30) [Why pipes sometimes get "stuck": buffering](202411/2024-11-30-why-pipes-sometimes-get-stuck-buffering.md)
   - Tags: #read #deepdive
-  - Summary: 文章讨论了终端命令管道输出卡住的问题，主要原因是程序的缓冲机制。通过分析缓冲行为和编程语言中的缓冲控制，提出了多种解决方案，如使用、等，并建议引入标准环境变量来禁用缓冲。
+  - Summary: 文章讨论了终端命令管道输出卡住的问题，主要原因是程序的缓冲机制。通过分析缓冲行为和编程语言中的缓冲控制，提出了多种解决方案，如使用`grep --line-buffered`、`stdbuf -o0`等，并建议引入标准环境变量来禁用缓冲。
 
 - (2024-11-29) [How I Built My Blog • Josh W. Comeau](202411/2024-11-29-how-i-built-my-blog-%E2%80%A2-josh-w.-comeau.md)
   - Tags: #read #frontend #deepdive
@@ -3010,7 +3009,7 @@
 
 - (2024-11-24) [@celine/celine](202411/2024-11-24-%40celine-celine.md)
   - Tags: #tools #frontend
-  - Summary: @celine/celine 是一个用于构建 HTML 笔记本的库，支持  和  属性，旨在简化研究成果的 HTML 发布。它封装了 Observable Notebook 运行时，提供反应性单元格和丰富的 API 接口，支持多种字体和样式，并兼容多个第三方库。
+  - Summary: @celine/celine 是一个用于构建 HTML 笔记本的库，支持 `display: block` 和 `contenteditable` 属性，旨在简化研究成果的 HTML 发布。它封装了 Observable Notebook 运行时，提供反应性单元格和丰富的 API 接口，支持多种字体和样式，并兼容多个第三方库。
 
 - (2024-11-24) [Introduction to lcl.host – Anchor](202411/2024-11-24-introduction-to-lcl.host-%E2%80%93-anchor.md)
   - Tags: #tools
@@ -3042,7 +3041,7 @@
 
 - (2024-11-22) [OK, I can partly explain the LLM chess weirdness now](202411/2024-11-22-ok%2C-i-can-partly-explain-the-llm-chess-weirdness-now.md)
   - Tags: #read
-  - Summary: 文章探讨了大型语言模型（LLMs）在棋类游戏中的表现，特别是的优异表现。通过实验和理论分析，发现提示调整和示例提供能显著提升模型表现，而OpenAI作弊的可能性极低。最终理论指出，基础模型在棋类数据上训练得更好，但聊天模型在指令调优后表现下降。未来工作将探索更多提示和示例组合，以进一步提升模型表现。
+  - Summary: 文章探讨了大型语言模型（LLMs）在棋类游戏中的表现，特别是`gpt-3.5-turbo-instruct`的优异表现。通过实验和理论分析，发现提示调整和示例提供能显著提升模型表现，而OpenAI作弊的可能性极低。最终理论指出，基础模型在棋类数据上训练得更好，但聊天模型在指令调优后表现下降。未来工作将探索更多提示和示例组合，以进一步提升模型表现。
 
 - (2024-11-20) [Understanding the BM25 full text search algorithm](202411/2024-11-20-understanding-the-bm25-full-text-search-algorithm.md)
   - Tags: #deepdive #algo
@@ -3058,7 +3057,7 @@
 
 - (2024-11-19) [download-esm: a tool for downloading ECMAScript modules](202411/2024-11-19-download-esm-a-tool-for-downloading-ecmascript-modules.md)
   - Tags: #tools
-  - Summary: 是一个CLI工具，用于下载ECMAScript模块版本的npm包及其依赖，并重写导入语句。作者开发此工具以简化开发流程，避免依赖CDN和本地构建脚本的问题。工具通过Python编写，支持安装和使用简单，已成功测试多个包，并欢迎社区参与改进。
+  - Summary: `download-esm`是一个CLI工具，用于下载ECMAScript模块版本的npm包及其依赖，并重写导入语句。作者开发此工具以简化开发流程，避免依赖CDN和本地构建脚本的问题。工具通过Python编写，支持安装和使用简单，已成功测试多个包，并欢迎社区参与改进。
 
 - (2024-11-19) [Importing a frontend Javascript library without a build system](202411/2024-11-19-importing-a-frontend-javascript-library-without-a-build-system.md)
   - Tags: #guide #frontend
@@ -3145,7 +3144,7 @@
 
 - (2024-11-08) [Makefiles for Web Work](202411/2024-11-08-makefiles-for-web-work.md)
   - Tags: #read
-  - Summary: 是一个历史悠久的构建工具，适用于多种语言项目，具有速度快、语言无关和简单可扩展等优势。它通过Makefile提供一致的命令接口，简化开发流程，但需注意Windows兼容性和复杂构建的管理。
+  - Summary: `make`是一个历史悠久的构建工具，适用于多种语言项目，具有速度快、语言无关和简单可扩展等优势。它通过Makefile提供一致的命令接口，简化开发流程，但需注意Windows兼容性和复杂构建的管理。
 
 - (2024-11-07) [Home | nand2tetris](202411/2024-11-07-home-nand2tetris.md)
   - Tags: #books
@@ -3209,7 +3208,7 @@
 
 - (2024-10-29) [When to use std::string_view](202410/2024-10-29-when-to-use-std-string_view.md)
   - Tags: #read #cpp
-  - Summary: 是C++17引入的轻量级字符串视图类，适用于廉价传递多种字符串类型。它通过指针和长度实现，支持多种创建方式，但需注意其数据不保证以空字节结尾。在性能上， 适用于参数类型多样的情况，而在参数多为  左值时， 更优。
+  - Summary: `std::string_view` 是C++17引入的轻量级字符串视图类，适用于廉价传递多种字符串类型。它通过指针和长度实现，支持多种创建方式，但需注意其数据不保证以空字节结尾。在性能上，`std::string_view` 适用于参数类型多样的情况，而在参数多为 `std::string` 左值时，`const std::string&` 更优。
 
 - (2024-10-29) [Colophon](202410/2024-10-29-colophon.md)
   - Tags: #read
@@ -3241,7 +3240,7 @@
 
 - (2024-10-13) [Making algorithms faster](202410/2024-10-13-making-algorithms-faster.md)
   - Tags: #cpp
-  - Summary: 文章探讨了通过优化和并行化算法来提升计算勾股数的效率。初始实现使用三重嵌套循环，优化后减少了内层循环范围，速度提升2.81倍。进一步并行化使用和执行策略，最终并行无序执行速度提升18.47倍。结论是并行化效果显著，优化也值得进行。
+  - Summary: 文章探讨了通过优化和并行化算法来提升计算勾股数的效率。初始实现使用三重嵌套循环，优化后减少了内层循环范围，速度提升2.81倍。进一步并行化使用`std::for_each()`和执行策略，最终并行无序执行速度提升18.47倍。结论是并行化效果显著，优化也值得进行。
 
 - (2024-10-12) [The Copenhagen Book](202410/2024-10-12-the-copenhagen-book.md)
   - Tags: #books
@@ -3297,7 +3296,7 @@
 
 - (2024-10-05) [Hybrid full-text search and vector search with SQLite](202410/2024-10-05-hybrid-full-text-search-and-vector-search-with-sqlite.md)
   - Tags: #read #db
-  - Summary: 文章讨论了全文搜索与向量搜索的结合，通过扩展在SQLite中实现混合搜索。全文搜索和语义搜索各有优劣，结合使用能提高搜索效果。文章还提供了构建和查询示例，并探讨了不同混合搜索方法的应用场景和未来改进方向。
+  - Summary: 文章讨论了全文搜索与向量搜索的结合，通过`sqlite-vec`扩展在SQLite中实现混合搜索。全文搜索和语义搜索各有优劣，结合使用能提高搜索效果。文章还提供了构建和查询示例，并探讨了不同混合搜索方法的应用场景和未来改进方向。
 
 - (2024-10-03) [Terminal colours are tricky](202410/2024-10-03-terminal-colours-are-tricky.md)
   - Tags: #read
@@ -3369,7 +3368,7 @@
 
 - (2024-09-22) [CSS for printing to paper](202409/2024-09-22-css-for-printing-to-paper.md)
   - Tags: #frontend #guide #deepdive
-  - Summary: 本文介绍了使用HTML和CSS控制网页打印外观的基础知识和实用技巧，包括规则、媒体查询、元素定位、多页文档处理等，并提供了示例文件和备忘单。
+  - Summary: 本文介绍了使用HTML和CSS控制网页打印外观的基础知识和实用技巧，包括`@page`规则、`@media print`媒体查询、元素定位、多页文档处理等，并提供了示例文件和备忘单。
 
 - (2024-09-22) [Deploying Web Apps with Caddy: A Beginner's Guide | Better Stack Community](202409/2024-09-22-deploying-web-apps-with-caddy-a-beginner%27s-guide-better-stack-community.md)
   - Tags: #read
@@ -3377,7 +3376,7 @@
 
 - (2024-09-22) [Understanding AbortController in Node.js: A Complete Guide | Better Stack Community](202409/2024-09-22-understanding-abortcontroller-in-node.js-a-complete-guide-better-stack-community.md)
   - Tags: #read #node
-  - Summary: 本文介绍了Node.js中使用来取消异步操作的方法，解决了缺乏标准化中断机制的问题。通过示例展示了如何取消网络请求、管理流操作和处理错误，强调了其在提高应用程序响应性和可靠性方面的重要性。
+  - Summary: 本文介绍了Node.js中使用`AbortController`来取消异步操作的方法，解决了缺乏标准化中断机制的问题。通过示例展示了如何取消网络请求、管理流操作和处理错误，强调了其在提高应用程序响应性和可靠性方面的重要性。
 
 - (2024-09-22) [Good Refactoring vs Bad Refactoring](202409/2024-09-22-good-refactoring-vs-bad-refactoring.md)
   - Tags: #read
@@ -3405,7 +3404,7 @@
 
 - (2024-09-15) [Optimizing Javascript for fun and for profit](202409/2024-09-15-optimizing-javascript-for-fun-and-for-profit.md)
   - Tags: #read #guide #js
-  - Summary: 本文详细介绍了JavaScript代码优化的多种策略，包括避免不必要的工作、字符串比较、对象形状、数组/对象方法、间接访问、缓存未命中、大对象、、字符串操作、专业化、数据结构选择等，并强调了基准测试的重要性。
+  - Summary: 本文详细介绍了JavaScript代码优化的多种策略，包括避免不必要的工作、字符串比较、对象形状、数组/对象方法、间接访问、缓存未命中、大对象、`eval`、字符串操作、专业化、数据结构选择等，并强调了基准测试的重要性。
 
 - (2024-09-15) [Advanced Shell Scripting Techniques: Automating Complex Tasks with Bash](202409/2024-09-15-advanced-shell-scripting-techniques-automating-complex-tasks-with-bash.md)
   - Tags: #read #guide
@@ -3437,7 +3436,7 @@
 
 - (2024-09-09) [Making progress on side projects with content-driven development | nicole@web](202409/2024-09-09-making-progress-on-side-projects-with-content-driven-development-nicole%40web.md)
   - Tags: #read
-  - Summary: 导航到目标页面时发生超时错误，状态码42206，超时时间为30000毫秒。
+  - Summary: 导航到目标页面`http://blog/making-progress-with-content-driven-development/`时发生超时错误，状态码42206，超时时间为30000毫秒。
 
 - (2024-09-09) [聊聊自动化 PDF 渲染方案](202409/2024-09-09-%E8%81%8A%E8%81%8A%E8%87%AA%E5%8A%A8%E5%8C%96-pdf-%E6%B8%B2%E6%9F%93%E6%96%B9%E6%A1%88.md)
   - Tags: #read
@@ -3553,7 +3552,7 @@
 
 - (2024-08-24) [CSS finally adds vertical centering in 2024 | Blog | build-your-own.org](202408/2024-08-24-css-finally-adds-vertical-centering-in-2024-blog-build-your-own.org.md)
   - Tags: #frontend
-  - Summary: 2024年，CSS通过属性实现默认布局中的垂直居中，支持Chrome、Firefox和Safari。新特性简化了垂直居中的实现，无需flexbox或grid布局。历史上有多种垂直居中方法，如表格单元格、绝对定位等。二维对齐涉及、等属性，CSS轴术语解释了块轴和内联轴。CSS设计复杂，命名不佳，需额外努力掌握。
+  - Summary: 2024年，CSS通过`align-content`属性实现默认布局中的垂直居中，支持Chrome、Firefox和Safari。新特性简化了垂直居中的实现，无需flexbox或grid布局。历史上有多种垂直居中方法，如表格单元格、绝对定位等。二维对齐涉及`align-content`、`justify-content`等属性，CSS轴术语解释了块轴和内联轴。CSS设计复杂，命名不佳，需额外努力掌握。
 
 - (2024-08-23) [Continuous reinvention: A brief history of block storage at AWS](202408/2024-08-23-continuous-reinvention-a-brief-history-of-block-storage-at-aws.md)
   - Tags: #read
@@ -3573,11 +3572,11 @@
 
 - (2024-08-16) [How to convert a Node.js stream of event callback functions into an Async Iterator](202408/2024-08-16-how-to-convert-a-node.js-stream-of-event-callback-functions-into-an-async-iterator.md)
   - Tags: #hack
-  - Summary: 本文介绍了如何将基于事件回调的流处理代码转换为使用循环的异步迭代器，通过封装异步生成器函数实现。示例展示了如何处理CSV文件流，并比较了两个排序后的CSV文件。最后指出库已有异步迭代器API，简化了实现过程。
+  - Summary: 本文介绍了如何将基于事件回调的流处理代码转换为使用`for await`循环的异步迭代器，通过封装异步生成器函数实现。示例展示了如何处理CSV文件流，并比较了两个排序后的CSV文件。最后指出`csv-parse`库已有异步迭代器API，简化了实现过程。
 
 - (2024-08-16) [One Thing Nobody Explained To You About TypeScript](202408/2024-08-16-one-thing-nobody-explained-to-you-about-typescript.md)
   - Tags: #guide
-  - Summary: 作者分享了使用TypeScript的经验，特别是在配置上的误解和解决方法。通过创建多个文件并正确使用属性，解决了类型冲突问题，提高了开发效率。
+  - Summary: 作者分享了使用TypeScript的经验，特别是在`tsconfig.json`配置上的误解和解决方法。通过创建多个`tsconfig.json`文件并正确使用`references`属性，解决了类型冲突问题，提高了开发效率。
 
 - (2024-08-14) [Optimizing SPA load times with async chunks preloading](202408/2024-08-14-optimizing-spa-load-times-with-async-chunks-preloading.md)
   - Tags: #hack #frontend
@@ -3621,7 +3620,7 @@
 
 - (2024-08-06) [How to Get or Create in PostgreSQL](202408/2024-08-06-how-to-get-or-create-in-postgresql.md)
   - Tags: #deepdive #db
-  - Summary: 文章讨论了在PostgreSQL中实现"get or create"操作的方法，包括创建标签表、插入标签、提供幂等性、处理竞争条件、使用唯一约束违规、避免膨胀、理解子语句可见性、避免并发问题、优雅处理冲突、避免模式更改等。强调了唯一约束违规可能导致膨胀，子句并发执行不保证完全一致性，需要唯一或排除约束，而不需要。
+  - Summary: 文章讨论了在PostgreSQL中实现"get or create"操作的方法，包括创建标签表、插入标签、提供幂等性、处理竞争条件、使用唯一约束违规、避免膨胀、理解子语句可见性、避免并发问题、优雅处理冲突、避免模式更改等。强调了唯一约束违规可能导致膨胀，`WITH`子句并发执行不保证完全一致性，`INSERT ON CONFLICT`需要唯一或排除约束，而`MERGE`不需要。
 
 - (2024-08-01) [Build your own SQS or Kafka with Postgres](202408/2024-08-01-build-your-own-sqs-or-kafka-with-postgres.md)
   - Tags: #read #hack #db
@@ -3657,7 +3656,7 @@
 
 - (2024-07-23) [Python Practical Package Packing 2024](202407/2024-07-23-python-practical-package-packing-2024.md)
   - Tags: #python #guide
-  - Summary: 现代Python项目应使用和Poetry管理依赖和环境，避免过时的工具如和，推荐使用Poetry进行依赖解析和虚拟环境管理，以及使用和标准代码格式化工具提高代码质量。
+  - Summary: 现代Python项目应使用`pyproject.toml`和Poetry管理依赖和环境，避免过时的工具如`requirements.txt`和`setup.py`，推荐使用Poetry进行依赖解析和虚拟环境管理，以及使用`@dataclass`和标准代码格式化工具提高代码质量。
 
 - (2024-07-23) [Panic! at the Tech Job Market](202407/2024-07-23-panic%21-at-the-tech-job-market.md)
   - Tags: #read #job

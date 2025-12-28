@@ -1,7 +1,6 @@
 # AWS Lambda turns 10: A rare look at the doc that started it
 - URL: https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html
 - Added At: 2024-11-15 14:05:20
-- [Link To Text](2024-11-15-aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it_raw.md)
 
 ## TL;DR
 AWS Lambda 十周年回顾展示了其从解决EC2效率问题到成为成熟服务的演变，通过技术创新和客户反馈不断优化，提供简化开发、自动扩展、成本效益和安全性等优势，未来将继续创新以满足客户需求。

@@ -1,7 +1,6 @@
 # If you are good at code review, you will be good at using AI agents
 - URL: https://www.seangoedecke.com/ai-agents-and-code-review/
 - Added At: 2025-09-20 14:00:07
-- [Link To Text](2025-09-20-if-you-are-good-at-code-review,-you-will-be-good-at-using-ai-agents_raw.md)
 
 ## TL;DR
 文章强调，擅长代码审查的开发者能更好地监督AI编程助手（如Copilot）的输出，避免其产生无效或复杂的设计，从而提高开发效率和代码质量。当前AI工具尚未成熟，仍需人类主导判断和监督。

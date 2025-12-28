@@ -1,7 +1,6 @@
 # being too ambitious is a clever form of self-sabotage
 - URL: https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form
 - Added At: 2025-07-13 08:56:49
-- [Link To Text](2025-07-13-being-too-ambitious-is-a-clever-form-of-self-sabotage_raw.md)
 
 ## TL;DR
 

@@ -2,7 +2,6 @@
 - URL: https://blog.cloudflare.com/r2-sql-aggregations/
 - Added At: 2025-12-18 14:42:44
 - Tags: #read #db
-- [Link To Text](2025-12-18-announcing-support-for-group-by,-sum,-and-other-aggregation-queries-in-r2-sql_raw.md)
 
 ## TL;DR
 Cloudflare R2 SQL 新增支持的聚合查询功能包含GROUP BY、SUM等，利用Scatter-Gather和Shuffling两种分布式策略处理数据，帮助用户快速获取大数据摘要并支持报告生成和异常检测。该功能已上线，适用于R2存储的Parquet文件。

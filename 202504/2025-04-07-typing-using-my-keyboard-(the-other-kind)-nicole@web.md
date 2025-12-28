@@ -1,7 +1,6 @@
 # Typing using my keyboard (the other kind) | nicole@web
 - URL: /blog/typing-using-my-keyboard-the-other-kind/
 - Added At: 2025-04-07 14:29:20
-- [Link To Text](2025-04-07-typing-using-my-keyboard-(the-other-kind)-nicole@web_raw.md)
 
 ## TL;DR
 

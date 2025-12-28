@@ -1,7 +1,6 @@
 # You can’t vibe code a prompt | Building with AI
 - URL: https://incident.io/you-cant-vibe-code-a-prompt
 - Added At: 2025-03-26 14:24:44
-- [Link To Text](2025-03-26-you-can’t-vibe-code-a-prompt-building-with-ai_raw.md)
 
 ## TL;DR
 

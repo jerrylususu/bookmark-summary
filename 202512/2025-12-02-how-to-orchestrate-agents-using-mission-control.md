@@ -2,7 +2,6 @@
 - URL: https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/
 - Added At: 2025-12-02 15:41:14
 - Tags: #read #llm #guide
-- [Link To Text](2025-12-02-how-to-orchestrate-agents-using-mission-control_raw.md)
 
 ## TL;DR
 GitHub Copilot的Mission Control功能通过统一界面管理多个AI代理，实现并行工作流。关键点包括：编写清晰提示、自定义代理以确保一致性、主动监控并干预问题、高效审查PR。其优势在于提升效率，实现批量处理和并行工作。

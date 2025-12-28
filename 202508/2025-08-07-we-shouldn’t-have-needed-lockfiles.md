@@ -1,7 +1,6 @@
 # We shouldn’t have needed lockfiles
 - URL: https://tonsky.me/blog/lockfiles/
 - Added At: 2025-08-07 14:23:53
-- [Link To Text](2025-08-07-we-shouldn’t-have-needed-lockfiles_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # Building Multi-Agent Systems (Part 2)
 - URL: https://blog.sshh.io/p/building-multi-agent-systems-part
 - Added At: 2025-11-02 11:29:15
-- [Link To Text](2025-11-02-building-multi-agent-systems-(part-2)_raw.md)
 
 ## TL;DR
 自多智能体系统系列首篇发布以来，基于LLM的智能体架构在工具调用能力和长时间运行方面显著进步，其核心思想——任务分解和协作——已成为标准，但架构设计变得更加灵活。重点从复杂流程设计转向提供上下文和目标的“上下文工程”，使智能体更加自主。同时，新挑战出现在系统控制、安全性和长时间任务的用户体验上。

@@ -1,7 +1,6 @@
 # Why You Are Probably An NPC
 - URL: https://www.gurwinder.blog/p/why-you-are-probably-an-npc
 - Added At: 2024-12-29 13:05:00
-- [Link To Text](2024-12-29-why-you-are-probably-an-npc_raw.md)
 
 ## TL;DR
 随着心理学和算法的进步，人类行为越来越像机器人，表现出高度可预测的模式。大脑的“认知吝啬”原则使人们倾向于采取思维捷径，导致行为像游戏中的NPC。文章将NPC分为五种类型，并指出其行为根源在于人类的本能和信息过载。通过优先级划分和对抗性学习，可以避免成为NPC，形成更有根据的观点。

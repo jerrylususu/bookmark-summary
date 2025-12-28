@@ -1,7 +1,6 @@
 # Mind the End of Your Line ∙ Adaptive Patchwork
 - URL: https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/
 - Added At: 2025-07-30 13:43:38
-- [Link To Text](2025-07-30-mind-the-end-of-your-line-∙-adaptive-patchwork_raw.md)
 
 ## TL;DR
 

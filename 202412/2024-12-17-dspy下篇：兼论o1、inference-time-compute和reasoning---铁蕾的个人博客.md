@@ -1,7 +1,6 @@
 # DSPy下篇：兼论o1、Inference-time Compute和Reasoning - 铁蕾的个人博客
 - URL: http://zhangtielei.com/posts/blog-dspy-internals-3.html
 - Added At: 2024-12-17 16:16:13
-- [Link To Text](2024-12-17-dspy下篇：兼论o1、inference-time-compute和reasoning---铁蕾的个人博客_raw.md)
 
 ## TL;DR
 本文总结了DSPy的设计思想，探讨了其在AI领域的应用，包括算力投入阶段、模块化与多阶段优化、RL与推理等。文章还讨论了DSPy的开发模式启示和存在的问题，指出AI技术将通过新的软件形式提升问题处理效率。

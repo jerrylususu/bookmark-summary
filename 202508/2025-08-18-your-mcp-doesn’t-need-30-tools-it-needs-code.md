@@ -1,7 +1,6 @@
 # Your MCP Doesn’t Need 30 Tools: It Needs Code
 - URL: https://lucumr.pocoo.org/2025/8/18/code-mcps/
 - Added At: 2025-08-18 13:54:58
-- [Link To Text](2025-08-18-your-mcp-doesn’t-need-30-tools-it-needs-code_raw.md)
 
 ## TL;DR
 

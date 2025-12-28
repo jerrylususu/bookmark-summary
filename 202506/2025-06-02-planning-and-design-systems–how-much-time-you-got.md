@@ -1,7 +1,6 @@
 # Planning and design systems–how much time you got?
 - URL: https://pjonori.blog/posts/design-system-planning/
 - Added At: 2025-06-02 07:22:50
-- [Link To Text](2025-06-02-planning-and-design-systems–how-much-time-you-got_raw.md)
 
 ## TL;DR
 

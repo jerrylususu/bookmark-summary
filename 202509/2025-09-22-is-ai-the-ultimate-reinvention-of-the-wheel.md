@@ -1,7 +1,6 @@
 # Is AI the Ultimate Reinvention of the Wheel?
 - URL: https://dodov.dev/blog/is-ai-the-ultimate-reinvention-of-the-wheel
 - Added At: 2025-09-22 14:54:22
-- [Link To Text](2025-09-22-is-ai-the-ultimate-reinvention-of-the-wheel_raw.md)
 
 ## TL;DR
 人工智能无法突破训练数据边界，依赖人类提供信息，无法实现真正的自主探索。尽管技术改进可扩展上下文，但受计算成本和人脑复杂性限制，可能失去效率优势。AI的价值或许在于其高效解决特定问题，而非模仿人脑。

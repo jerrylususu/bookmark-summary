@@ -2,7 +2,6 @@
 - URL: https://rfd.shared.oxide.computer/rfd/0576
 - Added At: 2025-12-08 13:56:16
 - Tags: #read #llm #guide
-- [Link To Text](2025-12-08-576---using-llms-at-oxide-rfd-oxide_raw.md)
 
 ## TL;DR
 文章总结了大型语言模型在阅读、编辑、写作、代码审查、调试和编程等场景下的应用，强调LLM应作为辅助工具而非替代品。关键在于平衡效益与风险，注意数据隐私、内容真实性和人类主导作用，避免过度依赖。

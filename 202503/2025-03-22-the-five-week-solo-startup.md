@@ -1,7 +1,6 @@
 # The Five-Week Solo Startup
 - URL: https://taylor.town/5w
 - Added At: 2025-03-22 13:08:14
-- [Link To Text](2025-03-22-the-five-week-solo-startup_raw.md)
 
 ## TL;DR
 

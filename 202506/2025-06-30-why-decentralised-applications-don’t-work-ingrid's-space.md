@@ -1,7 +1,6 @@
 # Why Decentralised Applications Don’t Work | Ingrid's Space
 - URL: https://ingrids.space/posts/why-distributed-systems-dont-work/
 - Added At: 2025-06-30 14:55:48
-- [Link To Text](2025-06-30-why-decentralised-applications-don’t-work-ingrid's-space_raw.md)
 
 ## TL;DR
 

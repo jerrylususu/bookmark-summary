@@ -1,7 +1,6 @@
 # We Can Just Measure Things
 - URL: https://lucumr.pocoo.org/2025/6/17/measuring/
 - Added At: 2025-06-17 13:49:15
-- [Link To Text](2025-06-17-we-can-just-measure-things_raw.md)
 
 ## TL;DR
 

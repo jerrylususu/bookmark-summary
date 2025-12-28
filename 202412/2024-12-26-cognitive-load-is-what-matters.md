@@ -1,7 +1,6 @@
 # Cognitive load is what matters
 - URL: https://minds.md/zakirullin/cognitive#long
 - Added At: 2024-12-26 14:01:08
-- [Link To Text](2024-12-26-cognitive-load-is-what-matters_raw.md)
 
 ## TL;DR
 文章探讨了软件开发中认知负荷的概念及其影响，提出了减少认知负荷的多种实践方法，包括优化代码结构、简化条件语句、避免过度分层和依赖框架等。通过降低外在认知负荷，开发者可以提高代码的可维护性和理解性，从而减少时间和成本。

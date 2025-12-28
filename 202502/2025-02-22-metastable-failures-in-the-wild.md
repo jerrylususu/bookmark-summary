@@ -1,7 +1,6 @@
 # Metastable failures in the wild
 - URL: http://muratbuffalo.blogspot.com/2023/09/metastable-failures-in-wild.html
 - Added At: 2025-02-22 10:18:35
-- [Link To Text](2025-02-22-metastable-failures-in-the-wild_raw.md)
 
 ## TL;DR
 文章探讨了亚稳态故障的形成及其在现实系统中的表现，提出了四种分类，并强调打破持续效应的重要性，以恢复系统稳定。

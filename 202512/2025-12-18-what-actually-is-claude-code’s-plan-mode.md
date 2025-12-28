@@ -2,7 +2,6 @@
 - URL: https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/
 - Added At: 2025-12-18 15:20:18
 - Tags: #read #llm
-- [Link To Text](2025-12-18-what-actually-is-claude-code’s-plan-mode_raw.md)
 
 ## TL;DR
 本文解析了Claude的“计划模式”，指出它通过系统提示和文件系统路径管理生成Markdown计划，依赖于UI实现审批流程。作者认为这一模式核心功能可通过自定义提示模拟，但集成UX是其独特之处，不过个人更偏好灵活的自然语言编辑方式。

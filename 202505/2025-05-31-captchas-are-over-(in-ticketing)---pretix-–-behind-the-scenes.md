@@ -1,7 +1,6 @@
 # CAPTCHAs are over (in ticketing) - pretix – behind the scenes
 - URL: https://behind.pretix.eu/2025/05/23/captchas-are-over/
 - Added At: 2025-05-31 10:58:13
-- [Link To Text](2025-05-31-captchas-are-over-(in-ticketing)---pretix-–-behind-the-scenes_raw.md)
 
 ## TL;DR
 

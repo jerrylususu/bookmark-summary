@@ -1,7 +1,6 @@
 # Do you need permission from the government to do independent research?
 - URL: https://dynomight.net/irb/
 - Added At: 2025-02-14 13:23:54
-- [Link To Text](2025-02-14-do-you-need-permission-from-the-government-to-do-independent-research_raw.md)
 
 ## TL;DR
 文章探讨了独立研究中机构审查委员会（IRB）审批的复杂性和必要性，指出几乎所有涉及人类受试者的研究都需要某种形式的IRB审批，涵盖联邦、州法律及FDA的独立规定。

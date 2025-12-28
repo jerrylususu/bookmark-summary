@@ -1,7 +1,6 @@
 # How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2
 - URL: https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/
 - Added At: 2025-10-17 14:41:14
-- [Link To Text](2025-10-17-how-a-20-year-old-bug-in-gta-san-andreas-surfaced-in-windows-11-24h2_raw.md)
 
 ## TL;DR
 Windows 11 24H2更新暴露了《GTA圣安地列斯》中长达20年的隐藏bug，导致Skimmer水上飞机无法生成。原因是游戏配置文件缺失参数，加上Windows系统更新改变了栈空间使用方式，使未初始化变量异常扩大。修复方法可通过社区补丁或手动修改配置文件解决，突显代码健壮性和社区维护的重要性。

@@ -1,7 +1,6 @@
 # The Future Isn't Model Agnostic
 - URL: https://fly.io/blog/the-future-isn-t-model-agnostic/
 - Added At: 2025-08-11 13:40:00
-- [Link To Text](2025-08-11-the-future-isn't-model-agnostic_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # Perplexity: Interactive language modeling visualization
 - URL: https://perplexity.vercel.app/
 - Added At: 2025-03-09 15:20:41
-- [Link To Text](2025-03-09-perplexity-interactive-language-modeling-visualization_raw.md)
 
 ## TL;DR
 用户开发了基于GPT-2的可视化工具，通过高亮与注释展示文本生成过程中的词预测概率。当输入数列时，模型准确性随序列递增；随机词汇组合重复输入后，模型能快速学习模式（验证Transformer的归纳能力）。工具在浏览器端运行，采用transformers.js和Oak框架，注重隐私保护。

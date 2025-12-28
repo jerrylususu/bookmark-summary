@@ -1,7 +1,6 @@
 # LLMs can now identify public figures in images
 - URL: https://minimaxir.com/2025/07/llms-identify-people/
 - Added At: 2025-07-29 13:48:22
-- [Link To Text](2025-07-29-llms-can-now-identify-public-figures-in-images_raw.md)
 
 ## TL;DR
 

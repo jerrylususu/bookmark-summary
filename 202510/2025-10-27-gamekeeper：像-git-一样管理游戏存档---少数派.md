@@ -1,7 +1,6 @@
 # Gamekeeper：像 Git 一样管理游戏存档 - 少数派
 - URL: https://sspai.com/post/102928
 - Added At: 2025-10-27 15:04:32
-- [Link To Text](2025-10-27-gamekeeper：像-git-一样管理游戏存档---少数派_raw.md)
 
 ## TL;DR
 Gamekeeper 是一款受 Git 启发设计的游戏存档管理工具，能自动识别存档、支持多分支管理和差异存储，帮助玩家高效管理多结局和存档历史。未来计划增加云同步和分享功能。目前免费可用。

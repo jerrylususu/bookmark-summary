@@ -1,7 +1,6 @@
 # Optimizing with Novel Calendrical Algorithms
 - URL: https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/
 - Added At: 2025-03-01 11:08:06
-- [Link To Text](2025-03-01-optimizing-with-novel-calendrical-algorithms_raw.md)
 
 ## TL;DR
 作者通过性能审计，设计了新的日期时间算法，优化了`time` crate的性能，最终实现比现有算法快57.5%，且无分支，过程复杂但结果显著。

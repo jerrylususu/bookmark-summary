@@ -1,7 +1,6 @@
 # How many pillars of observability can you fit on the head of a pin?
 - URL: https://charity.wtf/2025/10/30/the-pillar-is-a-lie/
 - Added At: 2025-10-30 14:10:21
-- [Link To Text](2025-10-30-how-many-pillars-of-observability-can-you-fit-on-the-head-of-a-pin_raw.md)
 
 ## TL;DR
 作者批判“可观测性支柱”为营销术语，提倡用“信号”概念统一存储数据，避免多支柱模型导致的隔阂与高成本，强调OpenTelemetry等统一方案更高效。

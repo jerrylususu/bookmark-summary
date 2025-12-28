@@ -1,7 +1,6 @@
 # How I Coding? (Oct 2025 Edition)
 - URL: https://xuanwo.io/2025/07-how-i-coding-oct-2025-edition/
 - Added At: 2025-10-27 14:04:06
-- [Link To Text](2025-10-27-how-i-coding-(oct-2025-edition)_raw.md)
 
 ## TL;DR
 作者强调2025年编程中应秉持“慢即是快”心态，关注高质量输出而非速度。工具沿用Codex等，集成体验各异，GitHub审查质量高。建议聚焦顶尖模型并减少AI相关输入，将精力放在核心开发上。

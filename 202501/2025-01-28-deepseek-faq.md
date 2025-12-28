@@ -1,7 +1,6 @@
 # DeepSeek FAQ
 - URL: https://stratechery.com/2025/deepseek-faq/
 - Added At: 2025-01-28 04:01:12
-- [Link To Text](2025-01-28-deepseek-faq_raw.md)
 
 ## TL;DR
 DeepSeek发布了多个高效AI模型，如`R1`和`V3`，通过技术创新如DeepSeekMoE和DeepSeekMLA显著降低了训练和推理成本。在芯片禁令背景下，DeepSeek优化模型架构，展示了在受限硬件上实现高性能的可能性。其开源策略与OpenAI的闭源形成对比，推动了AI模型的普及和成本降低，预示着AI领域接近通用人工智能的实现。

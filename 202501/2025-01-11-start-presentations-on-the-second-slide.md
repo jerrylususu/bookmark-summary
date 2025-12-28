@@ -1,7 +1,6 @@
 # Start Presentations on the Second Slide
 - URL: https://tidyfirst.substack.com/p/start-presentations-on-the-second
 - Added At: 2025-01-11 07:25:01
-- [Link To Text](2025-01-11-start-presentations-on-the-second-slide_raw.md)
 
 ## TL;DR
 文章探讨了在技术演示中如何通过调整演示顺序来吸引观众注意力。建议将第二张幻灯片（通常是问题或挑战）放在开头，以立即引起观众兴趣。这种方法能激发程序员的解决问题欲望，使他们对背景信息和解决方案产生兴趣，从而提高演示效果。

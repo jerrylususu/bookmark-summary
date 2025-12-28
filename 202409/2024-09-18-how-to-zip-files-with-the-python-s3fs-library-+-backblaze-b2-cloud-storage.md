@@ -1,7 +1,6 @@
 # How to Zip Files with the Python S3fs Library + Backblaze B2 Cloud Storage
 - URL: https://www.backblaze.com/blog/how-to-zip-files-with-the-python-s3fs-library-backblaze-b2-cloud-storage/
 - Added At: 2024-09-18 14:49:44
-- [Link To Text](2024-09-18-how-to-zip-files-with-the-python-s3fs-library-+-backblaze-b2-cloud-storage_raw.md)
 
 ## TL;DR
 文章介绍了如何通过S3Fs库高效地将多个文件压缩成.zip格式并提供下载，避免了传统方法中对本地存储和内存的依赖，推荐开发者在云对象存储应用中使用此类工具。

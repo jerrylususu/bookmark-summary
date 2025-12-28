@@ -1,7 +1,6 @@
 # Everything’s a bug (or an issue) | Bozeman Pass, Inc.
 - URL: https://www.bozemanpass.com/everythings-a-bug-or-an-issue/
 - Added At: 2025-06-14 08:39:23
-- [Link To Text](2025-06-14-everything’s-a-bug-(or-an-issue)-bozeman-pass,-inc._raw.md)
 
 ## TL;DR
 

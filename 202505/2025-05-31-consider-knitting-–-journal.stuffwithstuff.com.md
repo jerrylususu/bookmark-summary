@@ -1,7 +1,6 @@
 #  Consider Knitting – journal.stuffwithstuff.com
 - URL: https://journal.stuffwithstuff.com/2025/05/30/consider-knitting/
 - Added At: 2025-05-31 09:41:37
-- [Link To Text](2025-05-31-consider-knitting-–-journal.stuffwithstuff.com_raw.md)
 
 ## TL;DR
 

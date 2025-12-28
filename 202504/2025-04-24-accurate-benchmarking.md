@@ -1,7 +1,6 @@
 # Accurate Benchmarking
 - URL: https://ates.dev/posts/2025-01-12-accurate-benchmarking/
 - Added At: 2025-04-24 14:13:15
-- [Link To Text](2025-04-24-accurate-benchmarking_raw.md)
 
 ## TL;DR
 

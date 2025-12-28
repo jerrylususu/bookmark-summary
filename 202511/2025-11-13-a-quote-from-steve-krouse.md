@@ -2,7 +2,6 @@
 - URL: https://simonwillison.net/2025/Nov/12/steve-krouse/
 - Added At: 2025-11-13 13:28:50
 - Tags: #read #llm
-- [Link To Text](2025-11-13-a-quote-from-steve-krouse_raw.md)
 
 ## TL;DR
 MCP协议利用LLM动态推理机制，实现快速迭代且无需担心兼容性问题，相比传统API具有更高灵活性和开发效率。

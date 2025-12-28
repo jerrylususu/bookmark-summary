@@ -1,7 +1,6 @@
 # Steve Ballmer was an underrated CEO
 - URL: https://danluu.com/ballmer/
 - Added At: 2024-11-17 06:35:05
-- [Link To Text](2024-11-17-steve-ballmer-was-an-underrated-ceo_raw.md)
 
 ## TL;DR
 文章反驳了普遍认为Steve Ballmer是微软停滞不前的CEO的观点，指出他在任期间财务表现出色，进行了如Bing、Azure、Office 365等长期投资，为微软的长期成功奠定了基础，尽管有些失误，但总体贡献积极。

@@ -2,7 +2,6 @@
 - URL: https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
 - Added At: 2025-11-11 13:27:39
 - Tags: #read #llm
-- [Link To Text](2025-11-11-understanding-spec-driven-development-kiro,-spec-kit,-and-tessl_raw.md)
 
 ## TL;DR
 规范驱动开发（SDD）提倡先写规范再生成代码。目前工具有Kiro、spec-kit和Tessl，但多数仅实现“规范优先”层次。现有SDD面临工作流程僵化、文件冗长、AI不确定性明显等问题，实际应用中易导致审查负担重和过度工程。预期未来工具需更灵活迭代并优化规范管理。

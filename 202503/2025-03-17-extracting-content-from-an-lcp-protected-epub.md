@@ -1,7 +1,6 @@
 # Extracting content from an LCP "protected" ePub
 - URL: https://shkspr.mobi/blog/2025/03/towards-extracting-content-from-an-lcp-protected-epub/
 - Added At: 2025-03-17 14:12:37
-- [Link To Text](2025-03-17-extracting-content-from-an-lcp-protected-epub_raw.md)
 
 ## TL;DR
 

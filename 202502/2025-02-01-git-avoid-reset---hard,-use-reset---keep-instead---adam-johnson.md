@@ -1,7 +1,6 @@
 # Git: avoid reset --hard, use reset --keep instead - Adam Johnson
 - URL: https://adamj.eu/tech/2024/09/02/git-avoid-reset-hard-use-keep/
 - Added At: 2025-02-01 00:18:08
-- [Link To Text](2025-02-01-git-avoid-reset---hard,-use-reset---keep-instead---adam-johnson_raw.md)
 
 ## TL;DR
 文章介绍了Git中的`reset`命令，重点对比了`--hard`和`--keep`选项。`--hard`会丢弃未提交的更改，存在数据丢失风险，而`--keep`则保留未提交的更改，更安全。建议使用`--keep`并设置别名以提高效率。

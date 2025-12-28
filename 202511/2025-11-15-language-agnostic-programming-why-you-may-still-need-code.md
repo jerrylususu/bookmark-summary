@@ -2,7 +2,6 @@
 - URL: https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/
 - Added At: 2025-11-15 09:25:10
 - Tags: #read #llm
-- [Link To Text](2025-11-15-language-agnostic-programming-why-you-may-still-need-code_raw.md)
 
 ## TL;DR
 文章探讨了AI在代码生成中的作用与局限，提出语言无关编程的设想：AI可能生成一种精确代码（如Rust），但开发者可通过语言模型实时转换为熟悉语言进行调试。该模式有望降低编程门槛，但仍面临技术挑战，未来关系尚不确定。

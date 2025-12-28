@@ -1,7 +1,6 @@
 # Collection of insane and fun facts about SQLite - blag
 - URL: https://avi.im/blag/2024/sqlite-facts/
 - Added At: 2025-01-11 06:58:23
-- [Link To Text](2025-01-11-collection-of-insane-and-fun-facts-about-sqlite---blag_raw.md)
 
 ## TL;DR
 SQLite是全球最广泛使用的数据库，由三人团队维护，起源于美国军舰上的需求。它采用公共领域许可证，不接受外部贡献，测试代码量远超实际代码量。SQLite通过销售许可证和支持服务盈利，性能优异，但存在一些限制。其独特性和高效性使其在数据库领域占据重要地位。

@@ -2,7 +2,6 @@
 - URL: https://www.0xkato.xyz/linux-boot/
 - Added At: 2025-11-02 13:33:40
 - Tags: #read #linux #deepdive
-- [Link To Text](2025-11-02-the-linux-boot-process-from-power-button-to-kernel_raw.md)
 
 ## TL;DR
 计算机启动过程从CPU复位、固件自检开始，逐步解压并加载内核，切换运行模式（实模式到保护模式再到长模式），最终移交控制权给操作系统内核。

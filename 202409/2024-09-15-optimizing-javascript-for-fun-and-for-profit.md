@@ -1,7 +1,6 @@
 # Optimizing Javascript for fun and for profit
 - URL: https://romgrk.com/posts/optimizing-javascript
 - Added At: 2024-09-15 12:12:37
-- [Link To Text](2024-09-15-optimizing-javascript-for-fun-and-for-profit_raw.md)
 
 ## TL;DR
 本文详细介绍了JavaScript代码优化的多种策略，包括避免不必要的工作、字符串比较、对象形状、数组/对象方法、间接访问、缓存未命中、大对象、`eval`、字符串操作、专业化、数据结构选择等，并强调了基准测试的重要性。

@@ -1,7 +1,6 @@
 # Asymmetry of verification and verifier’s law — Jason Wei
 - URL: https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law
 - Added At: 2025-08-10 14:56:36
-- [Link To Text](2025-08-10-asymmetry-of-verification-and-verifier’s-law-—-jason-wei_raw.md)
 
 ## TL;DR
 

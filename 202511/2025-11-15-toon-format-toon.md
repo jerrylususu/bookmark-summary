@@ -2,7 +2,6 @@
 - URL: https://github.com/toon-format/toon
 - Added At: 2025-11-15 04:07:32
 - Tags: #tools #hack
-- [Link To Text](2025-11-15-toon-format-toon_raw.md)
 
 ## TL;DR
 TOON是一种面向大语言模型的紧凑数据格式，结合YAML的缩进和CSV的表格特点，可节省30-60%的令牌数量。适用于结构统一的对象数组，在提升LLM数据查询准确性的同时降低使用成本。提供TypeScript SDK和CLI工具支持。

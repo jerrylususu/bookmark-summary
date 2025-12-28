@@ -1,7 +1,6 @@
 # How I Think About Debt
 - URL: https://collabfund.com/blog/how-i-think-about-debt/
 - Added At: 2024-09-28 11:31:54
-- [Link To Text](2024-09-28-how-i-think-about-debt_raw.md)
 
 ## TL;DR
 文章探讨了债务对未来的影响，指出债务限制了希望和可承受的生活波动范围。通过日本“shinise”企业的案例，强调了无债务和持有大量现金的重要性。作者认为，尽管债务在特定情况下有用，但它也限制了个人的选择和灵活性，尤其是在面对未来不可避免的波动事件时。

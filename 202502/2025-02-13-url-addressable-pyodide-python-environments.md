@@ -1,7 +1,6 @@
 # URL-addressable Pyodide Python environments
 - URL: https://simonwillison.net/2025/Feb/13/url-addressable-python/
 - Added At: 2025-02-13 14:17:33
-- [Link To Text](2025-02-13-url-addressable-pyodide-python-environments_raw.md)
 
 ## TL;DR
 作者在使用Datasette Lite时发现并修复了一个Bug，展示了URL可寻址的Python环境的优势。文章详细描述了Datasette Lite的功能、插件支持及修复Bug的过程，强调了WebAssembly在复现和保存Bug方面的潜力。

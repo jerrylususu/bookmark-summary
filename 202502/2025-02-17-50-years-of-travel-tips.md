@@ -1,7 +1,6 @@
 # 50 Years of Travel Tips
 - URL: https://kk.org/thetechnium/50-years-of-travel-tips/
 - Added At: 2025-02-17 14:31:54
-- [Link To Text](2025-02-17-50-years-of-travel-tips_raw.md)
 
 ## TL;DR
 作者分享了50年的旅行经验，建议围绕兴趣规划行程，灵活应对开放时间，体验当地家庭生活，参加当地婚礼，使用Google地图和Google Translate，轻装上阵，避免专业导游，信任当地人，记录旅行回忆等。

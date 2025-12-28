@@ -1,7 +1,6 @@
 # How we built our multi-agent research system
 - URL: https://www.anthropic.com/engineering/built-multi-agent-research-system
 - Added At: 2025-06-15 10:49:24
-- [Link To Text](2025-06-15-how-we-built-our-multi-agent-research-system_raw.md)
 
 ## TL;DR
 

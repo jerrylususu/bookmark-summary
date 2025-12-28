@@ -1,7 +1,6 @@
 # Get out of my <head>
 - URL: https://getoutofmyhead.dev/
 - Added At: 2025-05-31 11:49:10
-- [Link To Text](2025-05-31-get-out-of-my-head_raw.md)
 
 ## TL;DR
 

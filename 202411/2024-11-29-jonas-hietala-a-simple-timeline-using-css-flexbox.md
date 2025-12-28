@@ -1,7 +1,6 @@
 # Jonas Hietala: A simple timeline using CSS flexbox
 - URL: https://www.jonashietala.se/blog/2024/08/25/a_simple_timeline_using_css_flexbox/
 - Added At: 2024-11-29 14:59:01
-- [Link To Text](2024-11-29-jonas-hietala-a-simple-timeline-using-css-flexbox_raw.md)
 
 ## TL;DR
 作者在更新个人网站时，利用CSS的flexbox特性创建了一个简单的时间线，列出了生活中的重要事件。通过HTML结构和CSS样式，实现了时间线的线条、事件标记和内容的对齐，并使用媒体查询实现了响应式布局。

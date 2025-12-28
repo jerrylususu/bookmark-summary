@@ -1,7 +1,6 @@
 # Double Shipping
 - URL: https://zachholman.com/posts/double-shipping
 - Added At: 2024-11-27 15:13:41
-- [Link To Text](2024-11-27-double-shipping_raw.md)
 
 ## TL;DR
 文章讨论了通过双重发布策略、公开演讲的扩展影响、长期积累效应和两步发布策略来增加内容和产品的曝光率。通过案例分析展示了这些策略的有效性，并建议避免滥用多次发布，保持持续动力和新价值添加。

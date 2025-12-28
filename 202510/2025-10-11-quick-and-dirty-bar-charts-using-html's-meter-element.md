@@ -1,7 +1,6 @@
 # Quick and dirty bar-charts using HTML's meter element
 - URL: https://shkspr.mobi/blog/2025/10/quick-and-dirty-bar-charts-using-htmls-meter-element/
 - Added At: 2025-10-11 13:08:53
-- [Link To Text](2025-10-11-quick-and-dirty-bar-charts-using-html's-meter-element_raw.md)
 
 ## TL;DR
 这篇文章介绍了一种利用HTML的`<meter>`元素和CSS的`writing-mode`属性创建简易垂直条形图的轻量级方法。该方法无需依赖外部库，支持样式定制和交互，简单实用但样式较为基础。

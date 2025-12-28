@@ -2,7 +2,6 @@
 - URL: https://optional.is/required/2009/12/03/welcome-the-entire-land/
 - Added At: 2025-11-15 09:30:36
 - Tags: #read
-- [Link To Text](2025-11-15-welcome,-the-entire-land_raw.md)
 
 ## TL;DR
 作者在布莱顿参会后受启发，将编程传统“Hello World”译为古埃及象形文字，最终设计成T恤图案并免费分享，以趣味方式连接古老文化与现代技术。

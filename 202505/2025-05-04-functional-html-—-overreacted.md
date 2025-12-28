@@ -1,7 +1,6 @@
 # Functional HTML — overreacted
 - URL: https://overreacted.io/functional-html/
 - Added At: 2025-05-04 15:13:18
-- [Link To Text](2025-05-04-functional-html-—-overreacted_raw.md)
 
 ## TL;DR
 

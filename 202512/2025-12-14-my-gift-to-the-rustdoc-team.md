@@ -2,7 +2,6 @@
 - URL: https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team#solutions
 - Added At: 2025-12-14 13:29:17
 - Tags: #read #deepdive
-- [Link To Text](2025-12-14-my-gift-to-the-rustdoc-team_raw.md)
 
 ## TL;DR
 Arborium 是为 Rust 文档网站 docs.rs 开发的语法高亮工具，支持 96 种语言，通过 tree-sitter 实现高性能解析。文章分析了三种集成方案，推荐在 docs.rs 构建时进行后端处理以兼顾性能和安全。该项目已在 GitHub 开源，旨在提升 Rust 文档的可读性。

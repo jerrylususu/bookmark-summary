@@ -1,7 +1,6 @@
 # llm-docsmith | MPN
 - URL: https://mathpn.com/posts/llm-docsmith/
 - Added At: 2025-04-11 14:22:29
-- [Link To Text](2025-04-11-llm-docsmith-mpn_raw.md)
 
 ## TL;DR
 

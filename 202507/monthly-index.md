@@ -1,11 +1,11 @@
 # 2025-07 Monthly Index
 
 - (2025-07-31) [Reflection in C++26 (P2996)](2025-07-31-reflection-in-c%2B%2B26-%28p2996%29.md)
-  - C++26的反射特性提案P2996已通过，Clang实验分支支持。通过操作符和访问运行时元数据，可查询名称、遍历成员，动态拼接代码（如提取类型）。支持自定义注解（如）控制成员行为。例如，命令行库clap利用反射自动解析参数，简化代码。Clang率先实现，未来P3294提案将扩展功能。
+  - C++26的反射特性提案P2996已通过，Clang实验分支支持。通过`^^`操作符和`std::meta::info`访问运行时元数据，可查询名称、遍历成员，动态拼接代码（如提取类型）。支持自定义注解（如`[[=Enum::Value]]`）控制成员行为。例如，命令行库clap利用反射自动解析参数，简化代码。Clang率先实现，未来P3294提案将扩展功能。
   - Tags: #read #cpp
 
 - (2025-07-31) [The Math Is Haunted — overreacted](2025-07-31-the-math-is-haunted-%E2%80%94-overreacted.md)
-  - 该文介绍数学形式化语言Lean，演示其语法与机制（如、），并以错误公理示例说明形式系统潜在矛盾风险。通过费马大定理说明复杂证明依赖协作形式化进展，并推荐学习资源，强调Lean兼具编程与数学探索的趣味性。
+  - 该文介绍数学形式化语言Lean，演示其语法与`tactic`机制（如`rfl`、`rewrite`），并以错误公理示例说明形式系统潜在矛盾风险。通过费马大定理说明复杂证明依赖协作形式化进展，并推荐学习资源，强调Lean兼具编程与数学探索的趣味性。
   - Tags: #read #guide
 
 - (2025-07-31) [Agentic Coding Things That Didn’t Work](2025-07-31-agentic-coding-things-that-didn%E2%80%99t-work.md)
@@ -21,7 +21,7 @@
   - Tags: #read
 
 - (2025-07-30) [Mind the End of Your Line ∙ Adaptive Patchwork](2025-07-30-mind-the-end-of-your-line-%E2%88%99-adaptive-patchwork.md)
-  - Git通过配置处理跨平台行分隔符问题，规定仓库统一使用LF，提交时转换CRLF为LF，检出时根据系统自动转回。核心配置包括（旧系统）和（推荐新系统），后者可显式定义文件转换规则，如强制转换，标记二进制文件避免误处理。需团队统一配置以避免合并冲突。
+  - Git通过配置处理跨平台行分隔符问题，规定仓库统一使用LF，提交时转换CRLF为LF，检出时根据系统自动转回。核心配置包括`core.autocrlf`（旧系统）和`.gitattributes`（推荐新系统），后者可显式定义文件转换规则，如`*.cs text`强制转换，`binary`标记二进制文件避免误处理。需团队统一配置以避免合并冲突。
   - Tags: #read #git #deepdive
 
 - (2025-07-29) [LLMs can now identify public figures in images](2025-07-29-llms-can-now-identify-public-figures-in-images.md)
@@ -33,7 +33,7 @@
   - Tags: #read #js #deepdive
 
 - (2025-07-28) [TIL: Exception.add_note](2025-07-28-til-exception.add_note.md)
-  - Python 3.11新增方法，允许通过在捕获异常时追加字符串说明。注释存储在列表中，抛出异常时会显示在原始错误信息下方。该方法继承自基类，适用于所有异常类型，便于扩展调试细节。
+  - Python 3.11新增`Exception.add_note`方法，允许通过`e.add_note("注释")`在捕获异常时追加字符串说明。注释存储在`__notes__`列表中，抛出异常时会显示在原始错误信息下方。该方法继承自`BaseException`基类，适用于所有异常类型，便于扩展调试细节。
   - Tags: #tips #python
 
 - (2025-07-28) [Enough AI copilots! We need AI HUDs](2025-07-28-enough-ai-copilots%21-we-need-ai-huds.md)
@@ -101,7 +101,7 @@
   - Tags: #read #llm
 
 - (2025-07-23) [What "Parse, don't validate" means in Python?](2025-07-23-what-parse%2C-don%27t-validate-means-in-python.md)
-  - 本文阐述Python中“Parse don’t validate”原则，指优先将外部数据（如命令行/JSON）解析为内部类型（如或日期），而非依赖验证。解析过程中隐含类型验证（如转换失败早报错），而验证需分层规约业务条件。推荐通过、和Pydantic等工具在边界层处理数据，根据场景平衡解析复杂度，以提升安全性和容错性。
+  - 本文阐述Python中“Parse don’t validate”原则，指优先将外部数据（如命令行/JSON）解析为内部类型（如`int`或日期），而非依赖验证。解析过程中隐含类型验证（如转换失败早报错），而验证需分层规约业务条件。推荐通过`argparse`、`TypedDict`和Pydantic等工具在边界层处理数据，根据场景平衡解析复杂度，以提升安全性和容错性。
   - Tags: #read #py
 
 - (2025-07-23) [Why reliability is hard at scale: learnings from infrastructure outages](2025-07-23-why-reliability-is-hard-at-scale-learnings-from-infrastructure-outages.md)
@@ -113,7 +113,7 @@
   - Tags: #read
 
 - (2025-07-21) [AI代理的上下文工程：构建Manus的经验教训](2025-07-21-ai%E4%BB%A3%E7%90%86%E7%9A%84%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B%EF%BC%9A%E6%9E%84%E5%BB%BAmanus%E7%9A%84%E7%BB%8F%E9%AA%8C%E6%95%99%E8%AE%AD.md)
-  - 本文总结构建AI代理Manus的上下文工程经验，提出六大核心策略：① 以工程替代模型训练，实现快速迭代；② KV缓存优化采用稳定前缀和追加式设计，提升性能；③ 状态机控制工具选择，避免工具爆炸与缓存失效；④ 文件系统存储外部记忆，压缩上下文负载；⑤ 复述关键任务+保留错误增强注意力与容错性；⑥ 多样化动作格式防止模式固化。这些原则通过系统性设计显著提升了代理效率与灵活性。
+  - 本文总结构建AI代理Manus的上下文工程经验，提出六大核心策略： ① **以工程替代模型训练**，实现快速迭代； ② **KV缓存优化**采用稳定前缀和追加式设计，提升性能； ③ **状态机控制工具选择**，避免工具爆炸与缓存失效； ④ **文件系统存储外部记忆**，压缩上下文负载； ⑤ **复述关键任务+保留错误**增强注意力与容错性； ⑥ **多样化动作格式**防止模式固化。这些原则通过系统性设计显著提升了代理效率与灵活性。
   - Tags: #read #llm
 
 - (2025-07-21) [Covers as a way of learning music and code | nicole@web](2025-07-21-covers-as-a-way-of-learning-music-and-code-nicole%40web.md)
@@ -173,7 +173,7 @@
   - Tags: #read #llm
 
 - (2025-07-15) [Simple macOS script to extract text from images (OCR)](2025-07-15-simple-macos-script-to-extract-text-from-images-%28ocr%29.md)
-  - 该文章介绍了适用于macOS的命令行OCR脚本，用户输入即可从图片提取文本。基于苹果Vision框架开发，支持多语言检测与自动纠错，但存在长破折号识别错误和准确率受图片质量影响的局限。代码由Swift编写并开源，作者邀请改进。Linux用户可尝试Frog（含Tesseract）实现类似功能。
+  - 该文章介绍了适用于macOS的命令行OCR脚本，用户输入`ocr image_path`即可从图片提取文本。基于苹果Vision框架开发，支持多语言检测与自动纠错，但存在长破折号识别错误和准确率受图片质量影响的局限。代码由Swift编写并开源，作者邀请改进。Linux用户可尝试Frog（含Tesseract）实现类似功能。
   - Tags: #read #tips
 
 - (2025-07-14) [Happy 20th birthday Django! Here’s my talk on Django Origins from Django’s 10th](2025-07-14-happy-20th-birthday-django%21-here%E2%80%99s-my-talk-on-django-origins-from-django%E2%80%99s-10th.md)
@@ -281,7 +281,7 @@
   - Tags: #read #llm
 
 - (2025-07-02) [Using Playwright MCP with Claude Code](2025-07-02-using-playwright-mcp-with-claude-code.md)
-  - 本文介绍Playwright MCP与Claude Code的集成方法：通过命令在项目目录配置服务，使用自然语言指令操控浏览器（如「打开example.com需明确提及Playwright」），配置存储于。认证需手动登录保存Cookie。提供20+工具支持导航、截图、表单提交等操作，Claude可自动匹配工具，输入查看工具列表。
+  - 本文介绍Playwright MCP与Claude Code的集成方法：通过`claude mcp add playwright`命令在项目目录配置服务，使用自然语言指令操控浏览器（如「打开example.com需明确提及Playwright」），配置存储于`~/.claude.json`。认证需手动登录保存Cookie。提供20+工具支持导航、截图、表单提交等操作，Claude可自动匹配工具，输入`/mcp playwright`查看工具列表。
   - Tags: #read #guide
 
 - (2025-07-01) [Scribble-based forecasting and AI 2027](2025-07-01-scribble-based-forecasting-and-ai-2027.md)
@@ -293,7 +293,7 @@
   - Tags: #read #guide #deepdive
 
 - (2025-07-01) [So you want to serialize some DER? · Alex Gaynor](2025-07-01-so-you-want-to-serialize-some-der-%C2%B7-alex-gaynor.md)
-  - 文章分析了ASN.1的DER编码在长TLV序列化中因动态长度字段导致的性能问题。早期的库通过回填优化内存，但长数据仍需重复操作。作者改用位运算预计算长度后，发现LLVM的汇编冗余，借助Alive2验证并借助AI模型Claude生成补丁优化汇编代码。最终优化策略被LLVM采纳，证明了AI与形式化工具结合在编译器优化中的潜力，同时需开发者严格审验代码。
+  - 文章分析了ASN.1的DER编码在长TLV序列化中因动态长度字段导致的性能问题。早期的`rust-asn1`库通过回填优化内存，但长数据仍需重复操作。作者改用位运算预计算长度后，发现LLVM的汇编冗余，借助Alive2验证并借助AI模型Claude生成补丁优化汇编代码。最终优化策略被LLVM采纳，证明了AI与形式化工具结合在编译器优化中的潜力，同时需开发者严格审验代码。
   - Tags: #read
 
 - (2025-07-01) [Predicting Average IMDb Movie Ratings Using Text Embeddings of Movie Metadata](2025-07-01-predicting-average-imdb-movie-ratings-using-text-embeddings-of-movie-metadata.md)

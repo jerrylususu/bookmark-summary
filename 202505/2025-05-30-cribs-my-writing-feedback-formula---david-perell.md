@@ -1,7 +1,6 @@
 # CRIBS: My Writing Feedback Formula - David Perell
 - URL: https://perell.com/note/cribs-my-writing-feedback-formula/
 - Added At: 2025-05-30 14:07:02
-- [Link To Text](2025-05-30-cribs-my-writing-feedback-formula---david-perell_raw.md)
 
 ## TL;DR
 

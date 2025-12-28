@@ -1,7 +1,6 @@
 # LLMs as Parts of Systems - Marc's Blog
 - URL: https://brooker.co.za/blog/2025/08/12/llms-as-components.html
 - Added At: 2025-10-06 06:27:18
-- [Link To Text](2025-10-06-llms-as-parts-of-systems---marc's-blog_raw.md)
 
 ## TL;DR
 大型语言模型（LLM）与外部工具（如代码解释器、SMT求解器）结合能构建更强大、高效的系统，整体效果超越单一LLM，符合“整体大于部分之和”的系统设计原则。

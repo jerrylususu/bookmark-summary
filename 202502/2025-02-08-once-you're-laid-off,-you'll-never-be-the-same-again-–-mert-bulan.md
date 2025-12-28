@@ -1,7 +1,6 @@
 # Once You're Laid Off, You'll Never Be the Same Again – Mert Bulan
 - URL: https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/
 - Added At: 2025-02-08 14:32:20
-- [Link To Text](2025-02-08-once-you're-laid-off,-you'll-never-be-the-same-again-–-mert-bulan_raw.md)
 
 ## TL;DR
 作者分享了被裁经历，感到难以置信和困惑，尽管公司财务良好。裁员前有预警信号，如活动取消和模糊的会议。裁员让作者反思工作的意义，建议其他员工遵守合同工时、避免过度付出，并持续寻找新机会。裁员后，作者对工作的看法发生了根本改变，认为工作仅仅是谋生手段。

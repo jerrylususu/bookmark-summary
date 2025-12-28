@@ -1,7 +1,6 @@
 # Are you more likely to die on your birthday?
 - URL: https://pudding.cool/2025/04/birthday-effect/
 - Added At: 2025-05-09 14:07:07
-- [Link To Text](2025-05-09-are-you-more-likely-to-die-on-your-birthday_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # Seeing like a software company
 - URL: https://www.seangoedecke.com/seeing-like-a-software-company/
 - Added At: 2025-09-03 14:25:36
-- [Link To Text](2025-09-03-seeing-like-a-software-company_raw.md)
 
 ## TL;DR
 

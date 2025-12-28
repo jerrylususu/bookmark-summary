@@ -2,7 +2,6 @@
 - URL: https://karpathy.bearblog.dev/digital-hygiene/
 - Added At: 2025-11-15 09:36:29
 - Tags: #read #security
-- [Link To Text](2025-11-15-digital-hygiene_raw.md)
 
 ## TL;DR
 《数字卫生》文章从密码管理、身份验证、设备安全到通信隐私等多方面，提供实用建议以提升网络安全性。强调使用密码管理器、硬件密钥、加密工具和隐私优先服务，倡导自律防护以减少数据泄露和欺诈风险。

@@ -1,7 +1,6 @@
 # In defense of shallow technical knowledge
 - URL: https://www.seangoedecke.com/shallow-technical-knowledge/
 - Added At: 2025-05-25 09:25:59
-- [Link To Text](2025-05-25-in-defense-of-shallow-technical-knowledge_raw.md)
 
 ## TL;DR
 

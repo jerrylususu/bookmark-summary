@@ -2,7 +2,6 @@
 - URL: https://pluralistic.net/2025/12/05/pop-that-bubble/
 - Added At: 2025-12-08 13:43:49
 - Tags: #read
-- [Link To Text](2025-12-08-pluralistic-the-reverse-centaur’s-guide-to-criticizing-ai-(05-dec-2025)-–-pluralistic-daily-links-from-cory-doctorow_raw.md)
 
 ## TL;DR
 Cory Doctorow指出，AI热炒的背后是大型科技公司为维持股市增长制造的泡沫，而非真实创新。AI技术可能导致人类沦为机器附庸，且因统计模型本质存在局限。他反对技术取代人力的宿命论，主张通过抵制劣质AI产品和阶级合作应对危害，而非依赖版权限制。

@@ -1,7 +1,6 @@
 # Turning a conference talk into an annotated presentation - Jacob Kaplan-Moss
 - URL: https://jacobian.org/til/talk-to-writeup-workflow/
 - Added At: 2024-10-09 15:21:49
-- [Link To Text](2024-10-09-turning-a-conference-talk-into-an-annotated-presentation---jacob-kaplan-moss_raw.md)
 
 ## TL;DR
 作者利用现代AI工具将会议演讲视频转化为书面版本，通过Keynote准备演讲稿、下载和处理视频、生成和清理转录，最终手动编辑和完善内容，使其更适合书面阅读。

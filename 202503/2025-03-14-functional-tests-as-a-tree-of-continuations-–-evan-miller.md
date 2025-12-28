@@ -1,7 +1,6 @@
 # Functional Tests As A Tree Of Continuations – Evan Miller
 - URL: https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html
 - Added At: 2025-03-14 15:00:46
-- [Link To Text](2025-03-14-functional-tests-as-a-tree-of-continuations-–-evan-miller_raw.md)
 
 ## TL;DR
 本文提出功能测试"延续树"方法，通过树形结构将每个步骤设为节点，子节点继承父节点数据库快照状态，使测试代码量从O(N²)降至O(N)。该方法消除冗余代码，精准定位故障，支持跨步骤数据对比，且结构直观对应用户操作流程。其基于数据库版本控制实现，在Chicago Boss框架中通过嵌套回调构建树形测试结构，显著提升测试效率。

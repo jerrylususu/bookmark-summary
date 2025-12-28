@@ -1,7 +1,6 @@
 # Claude Code Best Practices
 - URL: https://www.anthropic.com/engineering/claude-code-best-practices
 - Added At: 2025-04-21 14:32:01
-- [Link To Text](2025-04-21-claude-code-best-practices_raw.md)
 
 ## TL;DR
 

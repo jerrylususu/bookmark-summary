@@ -2,7 +2,6 @@
 - URL: https://lucumr.pocoo.org/2025/12/13/skills-vs-mcp/
 - Added At: 2025-12-14 13:12:42
 - Tags: #read #llm
-- [Link To Text](2025-12-14-skills-vs-dynamic-mcp-loadouts_raw.md)
 
 ## TL;DR
 本文比较了AI工具调用中的技能系统和MCP协议，指出技能通过简短摘要和AI自适应使用现有工具，比依赖静态定义和正则匹配的MCP更灵活高效。作者基于实践经验，倾向让AI自主维护技能，避免MCP的兼容性和成本问题，认为技能系统在当前更具优势。

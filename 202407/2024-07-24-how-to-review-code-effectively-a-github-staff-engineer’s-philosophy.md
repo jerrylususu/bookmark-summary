@@ -1,7 +1,6 @@
 # How to review code effectively: A GitHub staff engineer’s philosophy
 - URL: https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/
 - Added At: 2024-07-24 14:42:39
-- [Link To Text](2024-07-24-how-to-review-code-effectively:-a-github-staff-engineer’s-philosophy_raw.md)
 
 ## TL;DR
 代码审查是提高软件质量的关键，通过GitHub的拉取请求系统，可以有效管理和优化审查流程。良好的审查应清晰沟通、提供具体示例，并避免偏见。自我审查和使用自动化工具能进一步提升审查效率和价值。

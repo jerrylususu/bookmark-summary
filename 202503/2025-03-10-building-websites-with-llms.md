@@ -1,7 +1,6 @@
 # Building Websites With LLMS
 - URL: https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/
 - Added At: 2025-03-10 14:06:23
-- [Link To Text](2025-03-10-building-websites-with-llms_raw.md)
 
 ## TL;DR
 本文提出LLMS网站构建方法，通过多小HTML页面结合CSS过渡技术替代复杂JavaScript交互，简化开发并提升体验。案例显示，用静态生成独立页面管理过滤与导航功能，减少代码且维护更易，更适合静态网站，虽存在跳转局限但更简洁直观，符合Web粒度特性。

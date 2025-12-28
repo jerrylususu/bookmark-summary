@@ -1,7 +1,6 @@
 # Continuous reinvention: A brief history of block storage at AWS
 - URL: https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html
 - Added At: 2024-08-23 14:51:40
-- [Link To Text](2024-08-23-continuous-reinvention:-a-brief-history-of-block-storage-at-aws_raw.md)
 
 ## TL;DR
 本文由AWS的EBS团队成员Marc Olson撰写，回顾了EBS从依赖共享硬盘的简单块存储服务发展为每日处理超过140万亿次操作的庞大网络存储系统的历程。文章强调了排队理论、全面仪器化、增量改进的重要性，以及约束如何激发创新，并分享了从HDD到SSD的技术转变、性能优化、团队重组和领导力发展的经验，展望了未来的持续创新和迭代。

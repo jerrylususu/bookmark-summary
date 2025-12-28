@@ -1,7 +1,6 @@
 # XKCD's "Is It Worth the Time?" Considered Harmful
 - URL: https://will-keleher.com/posts/its-not-worth-the-time-yet.html
 - Added At: 2025-05-31 10:16:47
-- [Link To Text](2025-05-31-xkcd's-is-it-worth-the-time-considered-harmful_raw.md)
 
 ## TL;DR
 

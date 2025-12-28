@@ -1,7 +1,6 @@
 # Some notes on upgrading Hugo
 - URL: https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/
 - Added At: 2024-10-08 16:02:29
-- [Link To Text](2024-10-08-some-notes-on-upgrading-hugo_raw.md)
 
 ## TL;DR
 作者从Hugo v0.40升级到v0.135，经历了模板语法、页面数据、Markdown渲染器等多方面的变更。主要挑战包括从Blackfriday到Goldmark的转换，导致大量Markdown文件需更新。通过详细对比和配置调整，作者成功完成升级，并认为新渲染器修复了旧问题，对未来有益。

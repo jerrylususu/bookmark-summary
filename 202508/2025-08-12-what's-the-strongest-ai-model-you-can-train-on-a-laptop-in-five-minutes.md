@@ -1,7 +1,6 @@
 # What's the strongest AI model you can train on a laptop in five minutes?
 - URL: https://www.seangoedecke.com/model-on-a-mbp/
 - Added At: 2025-08-12 14:56:53
-- [Link To Text](2025-08-12-what's-the-strongest-ai-model-you-can-train-on-a-laptop-in-five-minutes_raw.md)
 
 ## TL;DR
 

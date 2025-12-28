@@ -1,7 +1,6 @@
 # Bootstrapping HTTP/1.1, HTTP/2, and HTTP/3
 - URL: https://www.netmeister.org/blog/http-123.html
 - Added At: 2025-05-29 14:30:03
-- [Link To Text](2025-05-29-bootstrapping-http-1.1,-http-2,-and-http-3_raw.md)
 
 ## TL;DR
 

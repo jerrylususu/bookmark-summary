@@ -2,7 +2,6 @@
 - URL: https://flower.codes/2025/10/23/onion-mirror.html
 - Added At: 2025-11-08 08:52:28
 - Tags: #read
-- [Link To Text](2025-11-08-spinning-up-an-onion-mirror-is-stupid-easy-flower.codes_raw.md)
 
 ## TL;DR
 本文介绍了基于 Debian 系统和 Caddy 服务器快速创建.onion镜像网站的步骤，包括安装并配置 Tor、获取.onion地址、调整 Caddy 设置和添加Onion-Location提示，过程简单实用，旨在提升网站的可访问性与抗审查能力。

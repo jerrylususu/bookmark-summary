@@ -1,7 +1,6 @@
 # Don’t build your castle in other people’s kingdoms – How To Market A Game
 - URL: https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/
 - Added At: 2025-04-12 12:34:46
-- [Link To Text](2025-04-12-don’t-build-your-castle-in-other-people’s-kingdoms-–-how-to-market-a-game_raw.md)
 
 ## TL;DR
 

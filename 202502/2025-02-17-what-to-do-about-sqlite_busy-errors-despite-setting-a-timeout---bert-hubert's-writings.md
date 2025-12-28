@@ -1,7 +1,6 @@
 # What to do about SQLITE_BUSY errors despite setting a timeout - Bert Hubert's writings
 - URL: https://berthub.eu/articles/posts/a-brief-post-on-sqlite3-database-locked-despite-timeout/
 - Added At: 2025-02-17 14:19:03
-- [Link To Text](2025-02-17-what-to-do-about-sqlite_busy-errors-despite-setting-a-timeout---bert-hubert's-writings_raw.md)
 
 ## TL;DR
 文章讨论了SQLite中的SQLITE_BUSY错误，尤其是在WAL模式下的事务升级问题，并提供了避免该错误的解决方案，如使用BEGIN IMMEDIATE和减少写操作。

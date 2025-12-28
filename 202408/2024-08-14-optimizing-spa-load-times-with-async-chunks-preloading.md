@@ -1,7 +1,6 @@
 # Optimizing SPA load times with async chunks preloading
 - URL: https://mmazzarolo.com/blog/2024-08-13-async-chunk-preloading-on-load/
 - Added At: 2024-08-14 14:56:33
-- [Link To Text](2024-08-14-optimizing-spa-load-times-with-async-chunks-preloading_raw.md)
 
 ## TL;DR
 文章讨论了优化单页应用（SPA）加载时间的方法，包括通过预加载异步页面chunk来避免加载延迟，使用Rsbuild等工具注入自定义脚本，以及基于路由的代码拆分策略。此外，还提到了进一步改进的建议，如强化路由逻辑、压缩注入脚本和使用Service Worker预缓存。

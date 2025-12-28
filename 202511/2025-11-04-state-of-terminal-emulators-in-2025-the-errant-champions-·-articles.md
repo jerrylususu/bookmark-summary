@@ -2,7 +2,6 @@
 - URL: https://www.jeffquast.com/post/state-of-terminal-emulation-2025/
 - Added At: 2025-11-04 15:12:25
 - Tags: #read #guide
-- [Link To Text](2025-11-04-state-of-terminal-emulators-in-2025-the-errant-champions-·-articles_raw.md)
 
 ## TL;DR
 2023年测试的后续更新：使用改进的ucs-detect工具评估终端Unicode支持。Ghostty和Kitty表现最佳，但终端处理零宽度字符等问题仍存挑战。文本尺寸协议有望改善复杂脚本显示，推动超越等宽限制。测试发现性能和兼容性存在差异。

@@ -1,7 +1,6 @@
 # Revocation Confusion
 - URL: https://nullpxl.com/post/revocation-confusion/
 - Added At: 2025-10-18 15:35:34
-- [Link To Text](2025-10-18-revocation-confusion_raw.md)
 
 ## TL;DR
 这篇短文通过Flair航空网站案例，分析了SSL证书吊销问题。文章指出，浏览器对吊销证书处理不一（如Firefox拦截而Chrome忽略），导致用户困惑，并强调需改进证书机制和浏览器一致性以平衡安全与体验。

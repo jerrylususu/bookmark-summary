@@ -1,7 +1,6 @@
 # The age of average — Alex Murrell
 - URL: https://www.alexmurrell.co.uk/articles/the-age-of-average
 - Added At: 2024-12-14 14:19:06
-- [Link To Text](2024-12-14-the-age-of-average-—-alex-murrell_raw.md)
 
 ## TL;DR
 文章探讨了全球范围内艺术、室内设计、建筑、汽车、外貌、媒体内容和品牌等多个领域的趋同现象，揭示了尽管人们自认为独特，但实际上在审美和生活方式上存在高度相似性。

@@ -2,7 +2,6 @@
 - URL: https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks
 - Added At: 2025-12-22 14:23:42
 - Tags: #read #llm
-- [Link To Text](2025-12-22-the-shape-of-ai-jaggedness,-bottlenecks-and-salients_raw.md)
 
 ## TL;DR
 文章探讨了人工智能能力的三个特性：参差不齐（AI在不同任务表现差异大），瓶颈（AI能因固有限制或流程因素难以自动化），以及突出部（关键瓶颈突破可促进AI跃进。总体认为AI扩展将带来人机协作，而非全替代，未来应关注瓶颈变化来预测发展。

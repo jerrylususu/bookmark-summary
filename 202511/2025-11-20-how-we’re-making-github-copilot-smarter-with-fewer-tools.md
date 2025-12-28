@@ -2,7 +2,6 @@
 - URL: https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/
 - Added At: 2025-11-20 15:06:08
 - Tags: #read #llm
-- [Link To Text](2025-11-20-how-we’re-making-github-copilot-smarter-with-fewer-tools_raw.md)
 
 ## TL;DR
 GitHub Copilot通过自适应工具聚类、嵌入引导工具路由和精简默认工具集三大技术优化，显著提升了响应速度和工具选择效率。改进后，工具使用覆盖率提升至94.5%，延迟降低，为未来智能代理工作流打下基础。

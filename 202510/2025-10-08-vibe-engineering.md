@@ -1,7 +1,6 @@
 # Vibe engineering
 - URL: https://simonwillison.net/2025/Oct/7/vibe-engineering/
 - Added At: 2025-10-08 02:29:50
-- [Link To Text](2025-10-08-vibe-engineering_raw.md)
 
 ## TL;DR
 Vibe engineering是一种由经验丰富的工程师主导的AI辅助开发方式，强调对软件质量和流程的高度控制，需要结合传统软件工程最佳实践（如测试、文档、审查等）与LLM工具的高效协作，以提升开发的专业性和产出质量。

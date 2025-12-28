@@ -1,7 +1,6 @@
 # Where Should Visual Programming Go?
 - URL: https://tonsky.me/blog/diagrams/
 - Added At: 2024-08-25 06:32:27
-- [Link To Text](2024-08-25-where-should-visual-programming-go?_raw.md)
 
 ## TL;DR
 文章讨论了图表在编程中的应用，提出不应完全替代代码，而应在适当的地方添加图形以增强理解和代码清晰化。通过不同级别的图表与代码关系（从独立存在到图表即代码），探讨了图表与代码的最佳结合方式。最终建议图表应作为与文本并存的独立工具，而不是替代品，并强调某些情况下图表比代码更有用。

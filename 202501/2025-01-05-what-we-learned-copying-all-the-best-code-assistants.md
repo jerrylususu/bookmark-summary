@@ -1,7 +1,6 @@
 # What we learned copying all the best code assistants
 - URL: https://blog.val.town/blog/fast-follow/
 - Added At: 2025-01-05 02:53:40
-- [Link To Text](2025-01-05-what-we-learned-copying-all-the-best-code-assistants_raw.md)
 
 ## TL;DR
 Val Town团队通过不断集成最新代码生成工具（如GitHub Copilot、ChatGPT、Claude Artifacts等），优化代码补全和生成体验。他们开发了Townie工具，支持快速生成全栈应用，并计划引入多文件编辑和自动错误修复功能。团队致力于提供无需部署的托管服务和API，未来将继续开发完全集成的Web AI代码编辑器，保持合作精神并鼓励用户反馈。

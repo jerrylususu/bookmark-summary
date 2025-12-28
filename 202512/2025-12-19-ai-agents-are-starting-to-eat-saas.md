@@ -2,7 +2,6 @@
 - URL: https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/
 - Added At: 2025-12-19 14:41:55
 - Tags: #read
-- [Link To Text](2025-12-19-ai-agents-are-starting-to-eat-saas_raw.md)
 
 ## TL;DR
 AI代理正颠覆SaaS行业，使企业更易自建定制化工具替代通用SaaS，导致后者客户增长和收入保留率下降。高可用性、网络效应等护城河强的SaaS受影响较小，但后台类工具风险最高。SaaS市场将面临重组，企业需评估技术能力以应对变化。

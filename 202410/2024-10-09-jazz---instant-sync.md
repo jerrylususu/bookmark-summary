@@ -1,7 +1,6 @@
 # jazz - Instant sync
 - URL: https://jazz.tools/
 - Added At: 2024-10-09 16:05:10
-- [Link To Text](2024-10-09-jazz---instant-sync_raw.md)
 
 ## TL;DR
 Jazz是一个开源框架，旨在简化本地优先应用程序的开发，减少后端复杂性。它提供实时同步、存储、认证等功能，支持多种数据结构和协作特性。Jazz Mesh作为默认同步和存储节点，免费使用。开发工具包括Jazz Toolkit，支持多平台开发。

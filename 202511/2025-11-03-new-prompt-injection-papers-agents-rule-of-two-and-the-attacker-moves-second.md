@@ -2,7 +2,6 @@
 - URL: https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/
 - Added At: 2025-11-03 13:44:49
 - Tags: #read #llm #security
-- [Link To Text](2025-11-03-new-prompt-injection-papers-agents-rule-of-two-and-the-attacker-moves-second_raw.md)
 
 ## TL;DR
 两篇AI安全论文指出提示注入仍是未解难题：Meta提出“规则二”限制AI代理权限组合以降低风险；多机构研究显示现有防御在自适应攻击下成功率超90%，验证了通过设计而非依赖防御的实用安全思路。

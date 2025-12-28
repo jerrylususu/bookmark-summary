@@ -1,7 +1,6 @@
 # TIL: timeout in Bash scripts | Heitor's log
 - URL: https://heitorpb.github.io/bla/timeout/
 - Added At: 2025-05-31 11:04:19
-- [Link To Text](2025-05-31-til-timeout-in-bash-scripts-heitor's-log_raw.md)
 
 ## TL;DR
 

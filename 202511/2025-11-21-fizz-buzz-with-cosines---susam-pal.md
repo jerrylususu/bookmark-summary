@@ -2,7 +2,6 @@
 - URL: https://susam.net/fizz-buzz-with-cosines.html
 - Added At: 2025-11-21 15:38:19
 - Tags: #read #math #hack
-- [Link To Text](2025-11-21-fizz-buzz-with-cosines---susam-pal_raw.md)
 
 ## TL;DR
 本文通过数学建模将Fizz Buzz问题转化为有限傅里叶级数，利用余弦函数构造闭合表达式，并用Python代码实现。这种方法将简单游戏抽象为三角函数组合，展现了数学趣味性而非实用性。

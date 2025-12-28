@@ -1,7 +1,6 @@
 # How to Get or Create in PostgreSQL
 - URL: https://hakibenita.com/postgresql-get-or-create
 - Added At: 2024-08-06 14:44:52
-- [Link To Text](2024-08-06-how-to-get-or-create-in-postgresql_raw.md)
 
 ## TL;DR
 文章讨论了在PostgreSQL中实现"get or create"操作的方法，包括创建标签表、插入标签、提供幂等性、处理竞争条件、使用唯一约束违规、避免膨胀、理解子语句可见性、避免并发问题、优雅处理冲突、避免模式更改等。强调了唯一约束违规可能导致膨胀，`WITH`子句并发执行不保证完全一致性，`INSERT ON CONFLICT`需要唯一或排除约束，而`MERGE`不需要。

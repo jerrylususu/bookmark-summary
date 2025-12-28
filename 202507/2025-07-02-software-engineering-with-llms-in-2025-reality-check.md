@@ -1,7 +1,6 @@
 # Software engineering with LLMs in 2025: reality check
 - URL: https://newsletter.pragmaticengineer.com/p/software-engineering-with-llms-in-2025
 - Added At: 2025-07-02 14:28:52
-- [Link To Text](2025-07-02-software-engineering-with-llms-in-2025-reality-check_raw.md)
 
 ## TL;DR
 

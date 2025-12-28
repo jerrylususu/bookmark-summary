@@ -1,7 +1,6 @@
 # Everything I know about good API design
 - URL: https://www.seangoedecke.com/good-api-design/
 - Added At: 2025-08-25 07:07:26
-- [Link To Text](2025-08-25-everything-i-know-about-good-api-design_raw.md)
 
 ## TL;DR
 

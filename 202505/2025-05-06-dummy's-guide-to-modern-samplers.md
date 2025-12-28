@@ -1,7 +1,6 @@
 # Dummy's Guide to Modern Samplers
 - URL: https://rentry.co/samplers
 - Added At: 2025-05-06 14:00:59
-- [Link To Text](2025-05-06-dummy's-guide-to-modern-samplers_raw.md)
 
 ## TL;DR
 

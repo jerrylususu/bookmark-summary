@@ -1,7 +1,6 @@
 # I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory
 - URL: https://joshfonseca.com/blogs/animal-crossing-llm
 - Added At: 2025-09-10 14:01:54
-- [Link To Text](2025-09-10-i-replaced-animal-crossing's-dialogue-with-a-live-llm-by-hacking-gamecube-memory_raw.md)
 
 ## TL;DR
 作者通过逆向工程修改《动物森友会》内存系统，在不触及游戏原始代码的情况下，以Python脚本与模拟器共享内存，成功接入了云端LLM模型，实现了AI驱动动态对话，带来角色实时讨论新闻和群体行为等新玩法。

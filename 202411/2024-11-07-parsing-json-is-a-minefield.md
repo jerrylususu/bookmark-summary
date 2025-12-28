@@ -1,7 +1,6 @@
 # Parsing JSON is a Minefield
 - URL: https://seriot.ch/projects/parsing_json.html
 - Added At: 2024-11-07 14:59:17
-- [Link To Text](2024-11-07-parsing-json-is-a-minefield_raw.md)
 
 ## TL;DR
 文章《解析JSON是一场地雷战》详细探讨了JSON解析的复杂性，指出JSON规范分散且不精确，导致解析器行为不一致。通过300多个测试文件，文章展示了不同解析器在处理相同输入时的差异，强调了互操作性问题。作者还开发了STJSON解析器，并建议进一步研究JSON相关领域。

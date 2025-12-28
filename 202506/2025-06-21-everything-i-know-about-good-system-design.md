@@ -1,7 +1,6 @@
 # Everything I know about good system design
 - URL: https://www.seangoedecke.com/good-system-design/
 - Added At: 2025-06-21 05:55:43
-- [Link To Text](2025-06-21-everything-i-know-about-good-system-design_raw.md)
 
 ## TL;DR
 

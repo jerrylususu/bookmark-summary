@@ -1,7 +1,6 @@
 # The Math Is Haunted — overreacted
 - URL: https://overreacted.io/the-math-is-haunted/
 - Added At: 2025-07-31 14:05:28
-- [Link To Text](2025-07-31-the-math-is-haunted-—-overreacted_raw.md)
 
 ## TL;DR
 

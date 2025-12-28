@@ -2,7 +2,6 @@
 - URL: https://ruudvanasseldonk.com/2025/adding-unpack-to-rcl
 - Added At: 2025-12-08 14:01:12
 - Tags: #read #language #design
-- [Link To Text](2025-12-08-adding-unpack-syntax-to-rcl_raw.md)
 
 ## TL;DR
 RCL v0.11.0引入解包功能，通过`..`（列表/集合）和`...`（字典）语法简化数据结构拼接。设计解决了推导冗长与联合运算符格式化问题，在保持简洁性的同时明确了集合与字典的语义差异，提升了代码可读性。

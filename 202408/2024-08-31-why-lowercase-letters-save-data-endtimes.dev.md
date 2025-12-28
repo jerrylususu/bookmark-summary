@@ -1,7 +1,6 @@
 # why lowercase letters save data | endtimes.dev
 - URL: https://endtimes.dev/why-lowercase-letters-save-data/
 - Added At: 2024-08-31 11:41:32
-- [Link To Text](2024-08-31-why-lowercase-letters-save-data-|-endtimes.dev_raw.md)
 
 ## TL;DR
 文章讨论了通过将大写字母替换为小写字母来节省数据的方法，解释了压缩算法如Deflate的工作原理，并通过实际案例展示了数据节省的效果。强调了系统性优化对提高网站效率和减少能耗的重要性。

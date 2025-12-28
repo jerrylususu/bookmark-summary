@@ -1,7 +1,6 @@
 # Protecting your time from predators in large tech companies
 - URL: https://www.seangoedecke.com/predators/
 - Added At: 2025-01-19 09:08:17
-- [Link To Text](2025-01-19-protecting-your-time-from-predators-in-large-tech-companies_raw.md)
 
 ## TL;DR
 在大型科技公司中，软件工程师需要谨慎管理时间，避免被“时间掠夺者”利用。帮助他人虽有益，但不应影响核心项目责任。识别并应对低努力请求，保护时间，专注于主要工作。

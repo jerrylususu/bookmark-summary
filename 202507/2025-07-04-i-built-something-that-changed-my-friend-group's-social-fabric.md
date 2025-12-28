@@ -1,7 +1,6 @@
 # I built something that changed my friend group's social fabric
 - URL: https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/
 - Added At: 2025-07-04 14:23:06
-- [Link To Text](2025-07-04-i-built-something-that-changed-my-friend-group's-social-fabric_raw.md)
 
 ## TL;DR
 

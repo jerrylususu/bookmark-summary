@@ -2,7 +2,6 @@
 - URL: /python/writing-justhtml-with-coding-agents/
 - Added At: 2025-12-15 13:49:03
 - Tags: #read #llm #deepdive
-- [Link To Text](2025-12-15-how-i-wrote-justhtml-using-coding-agents---friendly-bit_raw.md)
 
 ## TL;DR
 参数验证失败：url参数中的域名"python"无法DNS解析为有效IP地址，导致400错误。

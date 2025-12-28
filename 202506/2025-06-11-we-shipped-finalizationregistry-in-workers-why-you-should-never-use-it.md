@@ -1,7 +1,6 @@
 # We shipped FinalizationRegistry in Workers: why you should never use it
 - URL: https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/
 - Added At: 2025-06-11 15:24:48
-- [Link To Text](2025-06-11-we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it_raw.md)
 
 ## TL;DR
 

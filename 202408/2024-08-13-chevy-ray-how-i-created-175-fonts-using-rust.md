@@ -1,7 +1,6 @@
 # Chevy Ray | How I Created 175 Fonts Using Rust
 - URL: https://chevyray.dev/blog/creating-175-fonts/
 - Added At: 2024-08-13 14:07:51
-- [Link To Text](2024-08-13-chevy-ray-|-how-i-created-175-fonts-using-rust_raw.md)
 
 ## TL;DR
 文章讲述了作者如何通过自学字体设计知识和开发Rust程序，创建并发布175个像素字体的全过程，包括字体设计的学习、照片参考的使用、Rust程序的开发与应用、字距调整的自动化、质量控制的改进以及最终的部署与发布。

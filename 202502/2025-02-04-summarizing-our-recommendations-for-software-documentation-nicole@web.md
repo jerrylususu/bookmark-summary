@@ -1,7 +1,6 @@
 # Summarizing our recommendations for software documentation | nicole@web
 - URL: https://ntietz.com/blog/our-case-study-on-software-documentation/
 - Added At: 2025-02-04 08:22:27
-- [Link To Text](2025-02-04-summarizing-our-recommendations-for-software-documentation-nicole@web_raw.md)
 
 ## TL;DR
 本文通过案例研究探讨了软件文档在敏捷初创企业中的作用，提出了高层文档、设计评审等关键建议，并通过访谈总结出协作、学习等价值观，强调了文档的重要性及其对团队和流程的影响。

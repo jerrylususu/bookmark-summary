@@ -1,7 +1,6 @@
 # 夏日游泳（交通）条例 Summer Swimming (Traffic) Ordinance
 - URL: https://hsu.cy/2025/08/summerpool/
 - Added At: 2025-08-09 06:15:08
-- [Link To Text](2025-08-09-夏日游泳（交通）条例-summer-swimming-(traffic)-ordinance_raw.md)
 
 ## TL;DR
 

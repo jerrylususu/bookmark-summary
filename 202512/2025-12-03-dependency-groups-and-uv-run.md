@@ -2,7 +2,6 @@
 - URL: https://til.simonwillison.net/uv/dependency-groups
 - Added At: 2025-12-03 14:33:24
 - Tags: #read #tips
-- [Link To Text](2025-12-03-dependency-groups-and-uv-run_raw.md)
 
 ## TL;DR
 本文介绍了一种基于uv工具的新型Python开发模式，利用PEP 735依赖组简化项目流程。核心是使用`uv init`创建库项目，通过`uv add`添加dev依赖组，运行`uv run pytest`自动处理环境和测试。模式无需手动管理虚拟环境，便于协作与打包，提升开发效率。

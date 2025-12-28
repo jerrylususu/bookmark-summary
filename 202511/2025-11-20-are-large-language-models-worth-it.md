@@ -2,7 +2,6 @@
 - URL: https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html
 - Added At: 2025-11-20 14:13:03
 - Tags: #read #llm
-- [Link To Text](2025-11-20-are-large-language-models-worth-it_raw.md)
 
 ## TL;DR
 网站nicholas.carlini.com因疑似遭受DoS攻击（DOM元素过多）被阻止匿名访问，封禁持续至2039年底，错误代码45102。

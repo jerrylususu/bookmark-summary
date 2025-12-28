@@ -1,7 +1,6 @@
 # A Practitioner's Guide to Wide Events | Jeremy Morrell
 - URL: https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/
 - Added At: 2025-10-30 14:39:35
-- [Link To Text](2025-10-30-a-practitioner's-guide-to-wide-events-jeremy-morrell_raw.md)
 
 ## TL;DR
 宽事件是一种增强系统可观测性的方法，通过记录每个工作单元的全部相关数据形成一个完整事件，便于查询分析。实施包括选择工具、编写代码添加丰富属性、掌握查询技巧。此方法可大幅提升调试效率。

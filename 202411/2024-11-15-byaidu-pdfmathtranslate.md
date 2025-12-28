@@ -1,7 +1,6 @@
 # Byaidu/PDFMathTranslate
 - URL: https://github.com/Byaidu/PDFMathTranslate
 - Added At: 2024-11-15 15:35:35
-- [Link To Text](2024-11-15-byaidu-pdfmathtranslate_raw.md)
 
 ## TL;DR
 PDFMathTranslate 是一个用于 PDF 科学论文翻译和双语对比的工具，支持保留公式、图表和目录，兼容多种翻译服务如 Google、DeepL、Ollama 和 OpenAI。安装需 Python 3.8-3.12，可通过命令行执行翻译，支持部分翻译和指定语言。感谢多个开源项目的支持。

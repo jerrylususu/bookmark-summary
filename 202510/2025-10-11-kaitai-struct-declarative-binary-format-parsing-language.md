@@ -1,7 +1,6 @@
 # Kaitai Struct: declarative binary format parsing language
 - URL: https://kaitai.io/#what-is-it
 - Added At: 2025-10-11 13:54:13
-- [Link To Text](2025-10-11-kaitai-struct-declarative-binary-format-parsing-language_raw.md)
 
 ## TL;DR
 Kaitai Struct是一种声明式语言，用于描述二进制数据结构，通过编写.ksy格式文件，可编译生成多种编程语言的解析代码，实现跨平台复用。它简化了二进制格式解析开发，提高效率和可靠性，适用于文件分析、网络检测等场景。

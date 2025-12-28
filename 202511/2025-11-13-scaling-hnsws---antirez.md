@@ -2,7 +2,6 @@
 - URL: https://antirez.com/news/156
 - Added At: 2025-11-13 14:26:17
 - Tags: #read #deepdive
-- [Link To Text](2025-11-13-scaling-hnsws---antirez_raw.md)
 
 ## TL;DR
 Redis 创始人 antirez 总结了在 Redis 中实现 HNSW 的经验，基于低延迟需求介绍了内存优化（如 8 位量化）、并发操作支持、删除节点处理、多进程扩展、快速加载、JSON 过滤等优化措施。通过优化，Redis 的 HNSW 实现了高吞吐和良好伸缩性，适用于大规模向量检索场景。

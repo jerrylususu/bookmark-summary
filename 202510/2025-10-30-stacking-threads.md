@@ -1,7 +1,6 @@
 # Stacking Threads
 - URL: https://www.netmeister.org/blog/thread-stacks.html
 - Added At: 2025-10-30 14:28:25
-- [Link To Text](2025-10-30-stacking-threads_raw.md)
 
 ## TL;DR
 该文章分析了多线程程序中线程栈和线程控制块在进程内存中的布局差异，指出不同操作系统（如Linux、macOS、FreeBSD等）的线程栈放置位置与TCB管理方式显著不同。跨平台编程需注意内存布局随机性、栈位置不固定等特性，强调操作系统抽象层的复杂性。

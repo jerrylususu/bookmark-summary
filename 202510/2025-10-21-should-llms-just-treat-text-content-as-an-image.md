@@ -1,7 +1,6 @@
 # Should LLMs just treat text content as an image?
 - URL: https://www.seangoedecke.com/text-tokens-as-image-tokens/
 - Added At: 2025-10-21 13:38:51
-- [Link To Text](2025-10-21-should-llms-just-treat-text-content-as-an-image_raw.md)
 
 ## TL;DR
 光学压缩将文本转为图像输入多模态大模型，有望提升数据处理效率。这种图像令牌比文本令牌更高效，类似人类视觉处理方式。虽有应用探索，但训练难度与效果仍需验证，潜力待进一步研究。

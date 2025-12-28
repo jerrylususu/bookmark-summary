@@ -1,7 +1,6 @@
 # A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox
 - URL: https://www.henrikkarlsson.xyz/p/search-query
 - Added At: 2024-12-14 14:25:44
-- [Link To Text](2024-12-14-a-blog-post-is-a-very-long-and-complex-search-query-to-find-fascinating-people-and-make-them-route-interesting-stuff-to-your-inbox_raw.md)
 
 ## TL;DR
 作者通过写作与互联网互动，发现写作不仅是表达思想，更是连接志同道合者的工具，帮助建立社区并塑造新文化。

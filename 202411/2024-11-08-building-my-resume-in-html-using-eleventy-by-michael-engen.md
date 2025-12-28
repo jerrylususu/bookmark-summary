@@ -1,7 +1,6 @@
 # Building My Resume in HTML using Eleventy by Michael Engen
 - URL: https://michaelengen.com/posts/my-eleventy-resume/
 - Added At: 2024-11-08 14:20:20
-- [Link To Text](2024-11-08-building-my-resume-in-html-using-eleventy-by-michael-engen_raw.md)
 
 ## TL;DR
 作者通过HTML和CSS构建简历，利用Eleventy生成器和JSON数据，实现灵活布局和可访问性，并自动化PDF生成，项目已开源。

@@ -2,7 +2,6 @@
 - URL: https://pagewatch.ai/blog/post/llm-text-as-image-tokens/
 - Added At: 2025-11-15 09:33:08
 - Tags: #read #llm
-- [Link To Text](2025-11-15-can-you-save-on-llm-tokens-using-images-instead-of-text_raw.md)
 
 ## TL;DR
 研究探索了将文本转为图像以减少大语言模型提示令牌消耗的方法。实验发现，图像输入虽能节省部分提示令牌，但多数模型会生成更多高成本的完成令牌，且处理时间翻倍，综合性价比低，实际价值有限。

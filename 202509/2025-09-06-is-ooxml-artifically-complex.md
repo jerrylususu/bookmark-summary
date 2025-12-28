@@ -1,7 +1,6 @@
 # Is OOXML Artifically Complex?
 - URL: https://hsu.cy/2025/09/is-ooxml-artificially-complex/#%E5%BC%95%E8%A8%80
 - Added At: 2025-09-06 13:42:56
-- [Link To Text](2025-09-06-is-ooxml-artifically-complex_raw.md)
 
 ## TL;DR
 OOXML的复杂性源于微软自身实现便利与历史包袱，并非蓄意破坏。它将Office内部数据结构直接序列化，标准质量差且制定过程充满争议。微软此举更多是应对反垄断和开放标准压力的防御策略。这种“自私的疏忽”虽非蓄意，却客观上阻碍了竞争。

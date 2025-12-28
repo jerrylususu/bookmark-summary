@@ -1,7 +1,6 @@
 # Senior engineers should make side bets
 - URL: https://www.seangoedecke.com/side-bets/
 - Added At: 2025-04-25 13:38:21
-- [Link To Text](2025-04-25-senior-engineers-should-make-side-bets_raw.md)
 
 ## TL;DR
 

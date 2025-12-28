@@ -1,7 +1,6 @@
 # CSS Classes considered harmful
 - URL: https://www.keithcirkel.co.uk/css-classes-considered-harmful/
 - Added At: 2025-06-21 10:04:39
-- [Link To Text](2025-06-21-css-classes-considered-harmful_raw.md)
 
 ## TL;DR
 

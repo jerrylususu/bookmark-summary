@@ -1,7 +1,6 @@
 # What is "good taste" in software engineering?
 - URL: https://www.seangoedecke.com/taste/
 - Added At: 2025-09-28 12:59:23
-- [Link To Text](2025-09-28-what-is-good-taste-in-software-engineering_raw.md)
 
 ## TL;DR
 技术品味与技术技能不同，体现为对代码美感、设计权衡和价值观的审慎选择。好品味基于情境评估工程价值组合，而非机械套用“最佳实践”，需通过多样实践、灵活性培养和实际项目验证来提升。成熟工程师能灵活权衡，避免僵化偏好。

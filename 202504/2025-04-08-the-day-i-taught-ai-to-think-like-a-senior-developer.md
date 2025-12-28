@@ -1,7 +1,6 @@
 # The day I taught AI to think like a Senior Developer
 - URL: https://nmn.gl/blog/ai-understand-senior-developer
 - Added At: 2025-04-08 14:12:49
-- [Link To Text](2025-04-08-the-day-i-taught-ai-to-think-like-a-senior-developer_raw.md)
 
 ## TL;DR
 

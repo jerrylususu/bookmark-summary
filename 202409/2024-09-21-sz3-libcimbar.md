@@ -1,7 +1,6 @@
 # sz3/libcimbar
 - URL: https://github.com/sz3/libcimbar
 - Added At: 2024-09-21 10:09:16
-- [Link To Text](2024-09-21-sz3-libcimbar_raw.md)
 
 ## TL;DR
 libcimbar是一个针对颜色图标矩阵条码的优化实现项目，基于MPL-2.0许可证，拥有2.3k星标和145分叉。项目提供多种导航选项，包括代码、问题、拉取请求等，当前分支信息显示此提交不属于此仓库的任何分支。

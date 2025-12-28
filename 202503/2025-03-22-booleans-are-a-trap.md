@@ -1,7 +1,6 @@
 # Booleans Are a Trap
 - URL: https://katafrakt.me/2024/11/09/booleans-are-a-trap/
 - Added At: 2025-03-22 13:31:14
-- [Link To Text](2025-03-22-booleans-are-a-trap_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # How Hard Should Your Employer Work To Retain You?
 - URL: https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/
 - Added At: 2024-10-11 15:37:04
-- [Link To Text](2024-10-11-how-hard-should-your-employer-work-to-retain-you_raw.md)
 
 ## TL;DR
 文章讨论了公司在留住关键人才上的策略，强调员工应基于职业满足和家庭需求做出决策，公司需确保岗位匹配和公平补偿，管理者应提供职业机会和诚实反馈，同时行业应转向公平透明的薪酬体系。

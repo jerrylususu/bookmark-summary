@@ -1,7 +1,6 @@
 # I used o3 to profile myself from my saved Pocket links
 - URL: https://noperator.dev/posts/o3-pocket-profile/
 - Added At: 2025-07-12 10:03:26
-- [Link To Text](2025-07-12-i-used-o3-to-profile-myself-from-my-saved-pocket-links_raw.md)
 
 ## TL;DR
 

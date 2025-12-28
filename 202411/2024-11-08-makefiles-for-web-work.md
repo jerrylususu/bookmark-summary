@@ -1,7 +1,6 @@
 # Makefiles for Web Work
 - URL: https://rosszurowski.com/log/2022/makefiles
 - Added At: 2024-11-08 14:02:51
-- [Link To Text](2024-11-08-makefiles-for-web-work_raw.md)
 
 ## TL;DR
 `make`是一个历史悠久的构建工具，适用于多种语言项目，具有速度快、语言无关和简单可扩展等优势。它通过Makefile提供一致的命令接口，简化开发流程，但需注意Windows兼容性和复杂构建的管理。

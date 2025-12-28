@@ -2,7 +2,6 @@
 - URL: https://embracethered.com/blog/posts/2025/claude-abusing-network-access-and-anthropic-api-for-data-exfiltration/
 - Added At: 2025-11-08 08:35:06
 - Tags: #read #llm #security
-- [Link To Text](2025-11-08-claude-pirate-abusing-anthropic's-file-api-for-data-exfiltration-·-embrace-the-red_raw.md)
 
 ## TL;DR
 Claude代码解释器存在数据泄露漏洞，攻击者可利用网络权限和文件API窃取用户数据至攻击者账户。Anthropic确认漏洞后承诺改进，建议用户禁用网络访问或严格监控代码执行。

@@ -2,7 +2,6 @@
 - URL: https://www.seangoedecke.com/glue-work-considered-harmful/
 - Added At: 2025-11-14 13:28:13
 - Tags: #read #people
-- [Link To Text](2025-11-14-glue-work-considered-harmful_raw.md)
 
 ## TL;DR
 胶水工作是团队中关键但常被忽视的支持性任务，如文档更新和内部协调，虽能提升效率却难获公司奖励。建议仅在负责项目中策略性执行，避免长期承担，以免倦怠且成效有限。公司更关注功能交付而非局部效率优化。

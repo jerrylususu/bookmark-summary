@@ -1,7 +1,6 @@
 # OpenAI DevDay 2024 live blog
 - URL: https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/
 - Added At: 2024-10-02 13:47:10
-- [Link To Text](2024-10-02-openai-devday-2024-live-blog_raw.md)
 
 ## TL;DR
 文章详细介绍了OpenAI的o1模型在多个领域的应用和更新，包括实时API的引入、模型定制、价格调整、模型蒸馏工具的发布，以及结构化输出和多模态应用的讨论。重点展示了o1在语音输入输出、AI助手、语言学习等场景的实际应用，并强调了模型微调和价格优化的重要性。

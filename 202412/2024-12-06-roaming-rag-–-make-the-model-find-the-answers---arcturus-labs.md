@@ -1,7 +1,6 @@
 # Roaming RAG – Make the Model Find the Answers - Arcturus Labs
 - URL: http://arcturus-labs.com/blog/2024/11/21/roaming-rag--make-_the-model_-find-the-answers/
 - Added At: 2024-12-06 14:27:37
-- [Link To Text](2024-12-06-roaming-rag-–-make-the-model-find-the-answers---arcturus-labs_raw.md)
 
 ## TL;DR
 文章介绍了Roaming RAG，一种利用LLM助手浏览结构化文档以寻找答案的方法，无需复杂的检索基础设施，适用于法律代码、技术书籍等结构良好的文档。通过简化文档结构和使用唯一标识符，助手能有效导航并回答问题，提供更丰富的上下文信息。

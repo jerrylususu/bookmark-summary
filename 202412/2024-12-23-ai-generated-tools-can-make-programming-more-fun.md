@@ -1,7 +1,6 @@
 # AI-generated tools can make programming more fun
 - URL: https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger.html
 - Added At: 2024-12-23 15:01:30
-- [Link To Text](2024-12-23-ai-generated-tools-can-make-programming-more-fun_raw.md)
 
 ## TL;DR
 作者通过AI辅助开发了一个自定义调试器UI，帮助解决了Prolog解释器中的调试难题，提升了编程效率和乐趣，实现了快速迭代和个性化工具构建。

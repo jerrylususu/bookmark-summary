@@ -1,7 +1,6 @@
 # Train 400x faster Static Embedding Models with Sentence Transformers
 - URL: https://huggingface.co/blog/static-embeddings
 - Added At: 2025-08-14 15:12:21
-- [Link To Text](2025-08-14-train-400x-faster-static-embedding-models-with-sentence-transformers_raw.md)
 
 ## TL;DR
 

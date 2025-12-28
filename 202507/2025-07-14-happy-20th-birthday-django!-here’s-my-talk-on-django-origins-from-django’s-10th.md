@@ -1,7 +1,6 @@
 # Happy 20th birthday Django! Here’s my talk on Django Origins from Django’s 10th
 - URL: https://simonwillison.net/2025/Jul/13/django-birthday/
 - Added At: 2025-07-14 15:13:00
-- [Link To Text](2025-07-14-happy-20th-birthday-django!-here’s-my-talk-on-django-origins-from-django’s-10th_raw.md)
 
 ## TL;DR
 

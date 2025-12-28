@@ -1,7 +1,6 @@
 # DeepSearch/DeepResearch 实施实用指南
 - URL: https://jina.ai/news/a-practical-guide-to-implementing-deepsearch-deepresearch/
 - Added At: 2025-03-05 13:15:08
-- [Link To Text](2025-03-05-deepsearch-deepresearch-实施实用指南_raw.md)
 
 ## TL;DR
 DeepSearch是2025年新兴的搜索标准，通过迭代搜索、阅读和推理提供高质量答案。它集成了测试时计算和延迟满足技术，主要区别于DeepResearch，后者生成结构化长篇研究报告。实现细节包括系统提示、查询重写和网页内容抓取等。

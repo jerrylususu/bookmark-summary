@@ -1,7 +1,6 @@
 # It all matters and none of it matters
 - URL: https://interconnected.org/home/2025/08/04/cricket
 - Added At: 2025-08-05 13:53:02
-- [Link To Text](2025-08-05-it-all-matters-and-none-of-it-matters_raw.md)
 
 ## TL;DR
 

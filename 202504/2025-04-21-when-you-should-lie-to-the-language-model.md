@@ -1,7 +1,6 @@
 # When you should lie to the language model
 - URL: https://www.seangoedecke.com/lying-to-llms/
 - Added At: 2025-04-21 14:13:30
-- [Link To Text](2025-04-21-when-you-should-lie-to-the-language-model_raw.md)
 
 ## TL;DR
 

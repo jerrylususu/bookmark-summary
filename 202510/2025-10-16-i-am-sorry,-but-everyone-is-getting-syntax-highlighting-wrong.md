@@ -1,7 +1,6 @@
 # I am sorry, but everyone is getting syntax highlighting wrong
 - URL: https://tonsky.me/blog/syntax-highlighting/
 - Added At: 2025-10-16 14:40:58
-- [Link To Text](2025-10-16-i-am-sorry,-but-everyone-is-getting-syntax-highlighting-wrong_raw.md)
 
 ## TL;DR
 文章批评了语法高亮的滥用问题，指出过度高亮和颜色种类过多会降低代码识别效率。提出了限制颜色数量、选择性高亮关键元素及优化视觉效果等原则，并给出了实践案例。强调语法高亮应注重实用性，而非装饰性。

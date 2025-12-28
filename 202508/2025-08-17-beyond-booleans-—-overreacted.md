@@ -1,7 +1,6 @@
 # Beyond Booleans — overreacted
 - URL: https://overreacted.io/beyond-booleans/
 - Added At: 2025-08-17 09:59:07
-- [Link To Text](2025-08-17-beyond-booleans-—-overreacted_raw.md)
 
 ## TL;DR
 

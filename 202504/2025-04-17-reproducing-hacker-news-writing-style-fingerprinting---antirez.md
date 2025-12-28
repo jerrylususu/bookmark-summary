@@ -1,7 +1,6 @@
 # Reproducing Hacker News writing style fingerprinting - <antirez>
 - URL: https://antirez.com/news/150
 - Added At: 2025-04-17 14:25:41
-- [Link To Text](2025-04-17-reproducing-hacker-news-writing-style-fingerprinting---antirez_raw.md)
 
 ## TL;DR
 

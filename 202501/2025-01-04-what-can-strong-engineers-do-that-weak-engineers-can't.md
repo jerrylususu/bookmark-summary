@@ -1,7 +1,6 @@
 # What can strong engineers do that weak engineers can't?
 - URL: https://www.seangoedecke.com/weak-engineers/
 - Added At: 2025-01-04 04:50:10
-- [Link To Text](2025-01-04-what-can-strong-engineers-do-that-weak-engineers-can't_raw.md)
 
 ## TL;DR
 文章讨论了工程师的能力差异，强调强工程师的核心在于完成其他工程师无法完成的任务，如复杂项目交付和解决难题。普通工程师能处理大多数常规任务，而弱工程师几乎无法完成任何任务。文章还提供了与弱高级工程师合作的建议，强调保持职业态度和保护团队时间。结论呼吁工程师扩大自己的能力范围，并在与弱工程师合作时保持友好但保护自己的时间。

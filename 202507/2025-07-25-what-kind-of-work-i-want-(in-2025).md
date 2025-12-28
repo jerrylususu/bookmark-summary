@@ -1,7 +1,6 @@
 # What kind of work I want (in 2025)
 - URL: https://www.seangoedecke.com/my-engineering-values-2025/
 - Added At: 2025-07-25 12:52:52
-- [Link To Text](2025-07-25-what-kind-of-work-i-want-(in-2025)_raw.md)
 
 ## TL;DR
 

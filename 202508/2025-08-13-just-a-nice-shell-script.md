@@ -1,7 +1,6 @@
 # Just a nice shell script
 - URL: https://www.bitecode.dev/p/just-a-nice-shell-script
 - Added At: 2025-08-13 14:29:06
-- [Link To Text](2025-08-13-just-a-nice-shell-script_raw.md)
 
 ## TL;DR
 

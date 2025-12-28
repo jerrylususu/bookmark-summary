@@ -1,7 +1,6 @@
 # Filtered for bottom-up global monitoring
 - URL: https://interconnected.org/home/2025/08/01/filtered
 - Added At: 2025-08-02 11:26:42
-- [Link To Text](2025-08-02-filtered-for-bottom-up-global-monitoring_raw.md)
 
 ## TL;DR
 

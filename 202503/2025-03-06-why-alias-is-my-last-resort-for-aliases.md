@@ -1,7 +1,6 @@
 # Why "alias" is my last resort for aliases
 - URL: https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/
 - Added At: 2025-03-06 14:05:15
-- [Link To Text](2025-03-06-why-alias-is-my-last-resort-for-aliases_raw.md)
 
 ## TL;DR
 作者从使用`alias`转向脚本实现命令别名，脚本无需重新加载、支持多种编程语言且可处理复杂逻辑，虽然性能稍逊但提供了更多灵活性和功能。

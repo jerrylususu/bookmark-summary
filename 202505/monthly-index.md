@@ -5,7 +5,7 @@
   - Tags: #read #frontend
 
 - (2025-05-31) [Type Inference in Rust and C++](2025-05-31-type-inference-in-rust-and-c%2B%2B.md)
-  - C++和Rust在类型推导机制上体现不同设计哲学：C++通过和模板推导实现局部类型推断，支持重载和隐式转换，但复杂模板可能导致晦涩错误；Rust采用全局Hindley-Milner系统，通过函数级上下文推导类型，禁止重载并强制显式 trait 约束，确保一致性但牺牲灵活性。两者权衡灵活性与复杂度，而Swift尝试混合设计加剧了编译性能问题，凸显语言设计的核心取舍。
+  - C++和Rust在类型推导机制上体现不同设计哲学：C++通过`auto`和模板推导实现局部类型推断，支持重载和隐式转换，但复杂模板可能导致晦涩错误；Rust采用全局Hindley-Milner系统，通过函数级上下文推导类型，禁止重载并强制显式 trait 约束，确保一致性但牺牲灵活性。两者权衡灵活性与复杂度，而Swift尝试混合设计加剧了编译性能问题，凸显语言设计的核心取舍。
   - Tags: #read #language
 
 - (2025-05-31) [Get out of my <head>](2025-05-31-get-out-of-my-head.md)
@@ -25,7 +25,7 @@
   - Tags: #tools
 
 - (2025-05-31) [TIL: timeout in Bash scripts | Heitor's log](2025-05-31-til-timeout-in-bash-scripts-heitor%27s-log.md)
-  - 本文总结了解决Bash脚本中循环无限等待的问题。原脚本因服务器异常可能无限卡死，直接使用无效，因为是内置命令。解决方案包括：将循环嵌入子进程（如）或分离为独立脚本后调用，从而实现超时控制避免脚本僵死。
+  - 本文总结了解决Bash脚本中`until curl`循环无限等待的问题。原脚本因服务器异常可能无限卡死，直接使用`timeout`无效，因为`until`是内置命令。解决方案包括：将循环嵌入子进程（如`timeout 1m bash -c "循环命令"`）或分离为独立脚本后调用，从而实现超时控制避免脚本僵死。
   - Tags: #read #tips
 
 - (2025-05-31) [CAPTCHAs are over (in ticketing) - pretix – behind the scenes](2025-05-31-captchas-are-over-%28in-ticketing%29---pretix-%E2%80%93-behind-the-scenes.md)
@@ -33,7 +33,7 @@
   - Tags: #read
 
 - (2025-05-31) [In C++, use exchange or swap with nullopt to move out of std::optional - Keunwoo Lee's Minimum Viable Homepage](2025-05-31-in-c%2B%2B%2C-use-exchange-or-swap-with-nullopt-to-move-out-of-std-optional---keunwoo-lee%27s-minimum-viable-homepage.md)
-  - 使用可安全转移的值并将其置为，避免残留engaged状态引发未定义行为。单纯移动对象或其值会导致原对象仍显示有效但内部为空，需手动修复，但不如直接。优先选用确保安全简洁；仅在性能敏感场景考虑，但需注意代码可读性。测试表明和能有效重置原optional，其他方法不可取。
+  - 使用`std::exchange`可安全转移`std::optional`的值并将其置为`nullopt`，避免残留engaged状态引发未定义行为。单纯移动对象或其值会导致原对象仍显示有效但内部为空，需手动`.reset()`修复，但不如`exchange`直接。优先选用`exchange`确保安全简洁；仅在性能敏感场景考虑`std::swap`，但需注意代码可读性。测试表明`exchange`和`swap`能有效重置原optional，其他方法不可取。
   - Tags: #read #cpp
 
 - (2025-05-31) [XKCD's "Is It Worth the Time?" Considered Harmful](2025-05-31-xkcd%27s-is-it-worth-the-time-considered-harmful.md)
@@ -125,7 +125,7 @@
   - Tags: #read
 
 - (2025-05-24) [轻量级地克隆一个 Git 仓库](2025-05-24-%E8%BD%BB%E9%87%8F%E7%BA%A7%E5%9C%B0%E5%85%8B%E9%9A%86%E4%B8%80%E4%B8%AA-git-%E4%BB%93%E5%BA%93.md)
-  - 本文介绍了多种轻量级Git克隆方法：浅层克隆（）仅获取最新数据；无内容克隆（）跳过文件内容；稀疏检出选择特定目录。通过参数组合（如+）可最小化下载量，但需权衡历史记录、文件完整性及网络条件选择合适方案。
+  - 本文介绍了多种轻量级Git克隆方法：浅层克隆（`--depth=1`）仅获取最新数据；无内容克隆（`--filter=blob:none`）跳过文件内容；稀疏检出选择特定目录。通过参数组合（如`--no-checkout`+`--sparse`）可最小化下载量，但需权衡历史记录、文件完整性及网络条件选择合适方案。
   - Tags: #read #guide
 
 - (2025-05-24) [Multiplayer AI chat and conversational turn-taking: sharing what we learnt](2025-05-24-multiplayer-ai-chat-and-conversational-turn-taking-sharing-what-we-learnt.md)
@@ -201,8 +201,7 @@
   - Tags: #read
 
 - (2025-05-11) [Making PyPI's test suite 81% faster](2025-05-11-making-pypi%27s-test-suite-81%25-faster.md)
-  - Trail of Bits与PyPI通过并行测试（pytest-xdist）、Python3.12的sys.monitoring覆盖率技术、精简测试路径(testpaths)及移除冗余依赖等优化，将测试执行时间缩短81%至30秒，测试用例数反增20%（4700条）。优化平衡了性能与安全（100%覆盖率），并感谢社区对数据库同步和DNS缓存的改进贡献。
-（99字）
+  - Trail of Bits与PyPI通过并行测试（pytest-xdist）、Python3.12的sys.monitoring覆盖率技术、精简测试路径(testpaths)及移除冗余依赖等优化，将测试执行时间缩短81%至30秒，测试用例数反增20%（4700条）。优化平衡了性能与安全（100%覆盖率），并感谢社区对数据库同步和DNS缓存的改进贡献。 （99字）
   - Tags: #read #perf
 
 - (2025-05-11) [Mission Impossible: Managing AI Agents in the Real World](2025-05-11-mission-impossible-managing-ai-agents-in-the-real-world.md)
@@ -222,7 +221,7 @@
   - Tags: #read
 
 - (2025-05-09) [Reservoir Sampling](2025-05-09-reservoir-sampling.md)
-  - 水库抽样是一种在数据流中实现公平抽样的算法，适用于未知数据总量的场景。其核心是对第个元素以（抽1个）或（抽个）的概率动态替换已有样本，确保每个元素被选中的概率均等。该算法内存恒定，常用于日志服务等需实时处理且限制存储的场景，在流量平稳时保留全部数据，高峰时丢弃冗余信息，但存在分块传输的时延缺陷。实际应用需结合加权或优先级规则，以应对复杂需求。
+  - 水库抽样是一种在数据流中实现公平抽样的算法，适用于未知数据总量的场景。其核心是对第`n`个元素以`1/n`（抽1个）或`k/n`（抽`k`个）的概率动态替换已有样本，确保每个元素被选中的概率均等。该算法内存恒定，常用于日志服务等需实时处理且限制存储的场景，在流量平稳时保留全部数据，高峰时丢弃冗余信息，但存在分块传输的时延缺陷。实际应用需结合加权或优先级规则，以应对复杂需求。
   - Tags: #deepdive #explain #visual
 
 - (2025-05-09) [Claude’s System Prompt: Chatbots Are More Than Just Models](2025-05-09-claude%E2%80%99s-system-prompt-chatbots-are-more-than-just-models.md)
@@ -242,7 +241,7 @@
   - Tags: #read #linux
 
 - (2025-05-06) [Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)](2025-05-06-async-rust-can-be-a-pleasure-to-work-with-%28without-%60send-%2B-sync-%2B-%27static%60%29.md)
-  - 在Rust异步编程中，通过结构化并发和线程每核心模型可规避对++'static依赖。结构化并发自动管理子任务生命周期，简化资源清理与错误处理；绑定单线程的运行时（如Glommio）无需任务实现，降低代码复杂度。实验表明，轻量任务场景下该模式性能更优，但负载不均时工作窃取模式（如Tokio）更适用。现有框架多强制+'static要求，需探索新方案实现开发效率与性能的平衡。
+  - 在Rust异步编程中，通过结构化并发和线程每核心模型可规避对`Send`+`Sync`+'static依赖。结构化并发自动管理子任务生命周期，简化资源清理与错误处理；绑定单线程的运行时（如Glommio）无需任务实现`Send`，降低代码复杂度。实验表明，轻量任务场景下该模式性能更优，但负载不均时工作窃取模式（如Tokio）更适用。现有框架多强制`Send`+'static要求，需探索新方案实现开发效率与性能的平衡。
   - Tags: #read #rust
 
 - (2025-05-06) [Dummy's Guide to Modern Samplers](2025-05-06-dummy%27s-guide-to-modern-samplers.md)

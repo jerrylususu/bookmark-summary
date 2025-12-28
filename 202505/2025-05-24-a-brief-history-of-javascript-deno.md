@@ -1,7 +1,6 @@
 # A brief history of JavaScript | Deno
 - URL: https://deno.com/blog/history-of-javascript
 - Added At: 2025-05-24 11:39:58
-- [Link To Text](2025-05-24-a-brief-history-of-javascript-deno_raw.md)
 
 ## TL;DR
 

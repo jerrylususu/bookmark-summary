@@ -1,7 +1,6 @@
 # A Local-First Case Study | jakelazaroff.com
 - URL: https://jakelazaroff.com/words/a-local-first-case-study/
 - Added At: 2024-10-02 13:57:22
-- [Link To Text](2024-10-02-a-local-first-case-study-jakelazaroff.com_raw.md)
 
 ## TL;DR
 作者因不满现有旅行规划工具，开发了本地优先的网页应用Waypoint，结合富文本编辑器和地图，实现快速数据输入和结构化行程规划，并支持实时协作和离线编辑，展示了本地优先架构的可行性和优势。

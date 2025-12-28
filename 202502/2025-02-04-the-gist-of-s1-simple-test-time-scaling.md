@@ -1,7 +1,6 @@
 # The gist of s1: simple test time scaling
 - URL: https://xeiaso.net/notes/2025/s1-simple-test-time-scaling/
 - Added At: 2025-02-04 08:14:17
-- [Link To Text](2025-02-04-the-gist-of-s1-simple-test-time-scaling_raw.md)
 
 ## TL;DR
 文章讨论了通过提示AI模型继续思考来提高其回答准确性的方法，特别适用于复杂问题。该方法在数学竞赛问题上显著提高了模型性能，作者认为这种方法简单有效，并计划在未来研究中应用。

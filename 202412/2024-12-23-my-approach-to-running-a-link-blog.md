@@ -1,7 +1,6 @@
 # My approach to running a link blog
 - URL: https://simonwillison.net/2024/Dec/22/link-blog/
 - Added At: 2024-12-23 15:11:54
-- [Link To Text](2024-12-23-my-approach-to-running-a-link-blog_raw.md)
 
 ## TL;DR
 作者从2003年开始运营链接博客，记录发现的内容并附上评论。2024年升级支持Markdown，增加创作者信息、引用段落等，提升内容丰富性。技术上基于Django，实现图片处理、搜索和草稿功能。鼓励通过链接博客分享有趣内容，为社区贡献价值。

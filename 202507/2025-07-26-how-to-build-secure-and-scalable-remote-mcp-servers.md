@@ -1,7 +1,6 @@
 # How to build secure and scalable remote MCP servers
 - URL: https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/
 - Added At: 2025-07-26 10:26:32
-- [Link To Text](2025-07-26-how-to-build-secure-and-scalable-remote-mcp-servers_raw.md)
 
 ## TL;DR
 

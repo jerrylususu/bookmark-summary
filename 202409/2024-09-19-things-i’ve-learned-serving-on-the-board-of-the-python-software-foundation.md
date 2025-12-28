@@ -1,7 +1,6 @@
 # Things I’ve learned serving on the board of the Python Software Foundation
 - URL: https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/
 - Added At: 2024-09-19 14:13:46
-- [Link To Text](2024-09-19-things-i’ve-learned-serving-on-the-board-of-the-python-software-foundation_raw.md)
 
 ## TL;DR
 Python Software Foundation (PSF) 是一个非营利组织，致力于推广和保护Python编程语言，支持全球Python社区。PSF通过董事会和执行董事管理，资金主要来自赞助和捐赠，用于支持PyPI、PyCon US等项目。PSF还通过工作组和资助项目促进社区发展，并提供财务和法律支持给其他组织。

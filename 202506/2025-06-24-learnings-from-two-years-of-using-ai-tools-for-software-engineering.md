@@ -1,7 +1,6 @@
 # Learnings from two years of using AI tools for software engineering
 - URL: https://newsletter.pragmaticengineer.com/p/two-years-of-using-ai
 - Added At: 2025-06-24 14:59:12
-- [Link To Text](2025-06-24-learnings-from-two-years-of-using-ai-tools-for-software-engineering_raw.md)
 
 ## TL;DR
 

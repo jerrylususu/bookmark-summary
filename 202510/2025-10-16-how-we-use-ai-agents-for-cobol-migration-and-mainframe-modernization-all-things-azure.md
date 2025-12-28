@@ -1,7 +1,6 @@
 # How We Use AI Agents for COBOL Migration and Mainframe Modernization | All things Azure
 - URL: https://devblogs.microsoft.com/all-things-azure/how-we-use-ai-agents-for-cobol-migration-and-mainframe-modernization/
 - Added At: 2025-10-16 14:56:54
-- [Link To Text](2025-10-16-how-we-use-ai-agents-for-cobol-migration-and-mainframe-modernization-all-things-azure_raw.md)
 
 ## TL;DR
 微软推出CAMF框架，利用多个AI智能体协作实现COBOL代码向Java的自动化迁移，解决了COBOL系统现代化中的专家稀缺和成本高的问题，已在真实项目中验证可行性，并可扩展至其他遗留系统改造。

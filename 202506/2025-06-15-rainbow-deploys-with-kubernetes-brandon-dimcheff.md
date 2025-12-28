@@ -1,7 +1,6 @@
 # Rainbow Deploys with Kubernetes | Brandon Dimcheff
 - URL: https://brandon.dimcheff.com/2018/02/rainbow-deploys-with-kubernetes/
 - Added At: 2025-06-15 10:51:04
-- [Link To Text](2025-06-15-rainbow-deploys-with-kubernetes-brandon-dimcheff_raw.md)
 
 ## TL;DR
 

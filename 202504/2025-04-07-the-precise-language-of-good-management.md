@@ -1,7 +1,6 @@
 # The Precise Language Of Good Management
 - URL: https://staysaasy.com/management/2025/04/06/precise-language.html
 - Added At: 2025-04-07 14:02:40
-- [Link To Text](2025-04-07-the-precise-language-of-good-management_raw.md)
 
 ## TL;DR
 

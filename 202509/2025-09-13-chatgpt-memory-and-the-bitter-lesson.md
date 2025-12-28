@@ -1,7 +1,6 @@
 # ChatGPT Memory and the Bitter Lesson
 - URL: https://shloked.com/writing/chatgpt-memory-bitter-lesson
 - Added At: 2025-09-13 09:27:21
-- [Link To Text](2025-09-13-chatgpt-memory-and-the-bitter-lesson_raw.md)
 
 ## TL;DR
 ChatGPT的记忆架构采用交互元数据、近期对话、用户设定和自动生成的用户知识四层结构，优先依赖模型自身能力处理记忆，而非外部检索系统。其策略基于模型智能提升和算力扩展，但面临信息更新与准确性验证等挑战。

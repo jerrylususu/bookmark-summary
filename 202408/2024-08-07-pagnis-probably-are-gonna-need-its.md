@@ -1,7 +1,6 @@
 # PAGNIs: Probably Are Gonna Need Its
 - URL: https://simonwillison.net/2021/Jul/1/pagnis/
 - Added At: 2024-08-07 14:48:38
-- [Link To Text](2024-08-07-pagnis:-probably-are-gonna-need-its_raw.md)
 
 ## TL;DR
 文章讨论了YAGNI原则及其例外，介绍了PAGNIs概念，强调了移动应用kill-switch、自动化部署、持续集成与测试框架、API分页和详细日志的重要性，并推荐了Django SQL Dashboard等工具，指出这些实践虽初期成本高，但长远回报显著。

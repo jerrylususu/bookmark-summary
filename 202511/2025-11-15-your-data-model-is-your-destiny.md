@@ -2,7 +2,6 @@
 - URL: https://notes.mtb.xyz/p/your-data-model-is-your-destiny
 - Added At: 2025-11-15 09:21:10
 - Tags: #read #design
-- [Link To Text](2025-11-15-your-data-model-is-your-destiny_raw.md)
 
 ## TL;DR
 初创企业的成功往往取决于其数据模型的战略选择。在颠覆性市场或垂直领域，独特数据模型能形成难以复制的核心优势，如Slack、Notion等公司的案例所示。一旦正确构建，数据模型将推动产品功能的自然整合与持续创新，成为企业的长期护城河。

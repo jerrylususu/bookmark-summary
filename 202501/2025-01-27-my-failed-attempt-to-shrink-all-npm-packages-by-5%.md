@@ -1,7 +1,6 @@
 # My failed attempt to shrink all npm packages by 5%
 - URL: https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/
 - Added At: 2025-01-27 12:51:42
-- [Link To Text](2025-01-27-my-failed-attempt-to-shrink-all-npm-packages-by-5%_raw.md)
 
 ## TL;DR
 作者提出使用Zopfli压缩工具减少npm包大小的提案，实验证明可行且能减少约6.2%的大小。尽管提案被npm维护者拒绝，作者从中学会了如何提交RFC，并认识到实施改进需权衡利弊。尽管提案未通过，作者仍在自己项目中继续使用Zopfli进行优化。

@@ -1,7 +1,6 @@
 # Conflating Overture Places Using DuckDB, Ollama, Embeddings, and More
 - URL: https://www.dbreunig.com/2024/09/27/conflating-overture-points-of-interests-with-duckdb-ollama-and-more.html
 - Added At: 2024-10-01 03:46:44
-- [Link To Text](2024-10-01-conflating-overture-places-using-duckdb,-ollama,-embeddings,-and-more_raw.md)
 
 ## TL;DR
 文章讨论了地理空间数据合并的挑战，介绍了使用DuckDB、Ollama和Python在本地机器上合并阿拉米达县餐厅检查数据与Overture Maps地点数据的方法。通过H3瓦片分组和多步骤合并管道（包括精确名称匹配、字符串相似度和嵌入模型），显著提高了数据匹配率。嵌入模型因其易用性和高效性被推荐为合并工具，未来可进一步优化。

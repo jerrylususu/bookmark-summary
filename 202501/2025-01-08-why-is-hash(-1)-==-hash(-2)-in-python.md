@@ -1,7 +1,6 @@
 # Why is hash(-1) == hash(-2) in Python?
 - URL: https://omairmajid.com/posts/2021-07-16-why-is-hash-in-python/
 - Added At: 2025-01-08 15:26:34
-- [Link To Text](2025-01-08-why-is-hash(-1)-==-hash(-2)-in-python_raw.md)
 
 ## TL;DR
 作者在Reddit上发现Python中`hash(-1)`和`hash(-2)`都返回`-2`的现象，通过查看Python源码发现`-1`被用作错误标志，因此哈希函数返回`-2`以避免冲突。文章强调了阅读源码的重要性，并鼓励通过源码解决问题。

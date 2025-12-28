@@ -1,7 +1,6 @@
 # Notes on structured concurrency, or: Go statement considered harmful — njs blog
 - URL: https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
 - Added At: 2025-01-14 14:33:53
-- [Link To Text](2025-01-14-notes-on-structured-concurrency,-or-go-statement-considered-harmful-—-njs-blog_raw.md)
 
 ## TL;DR
 文章总结了并发API的常见实现方式，介绍了Trio库的Nursery机制及其优势，讨论了`goto`语句的历史与问题，并类比了`go`语句的破坏性。Nursery机制通过结构化并发控制流，解决了`go`语句带来的问题，保留了函数抽象，支持自动资源清理和错误传播。未来，移除`go`语句有望提升并发编程的可靠性和可维护性。

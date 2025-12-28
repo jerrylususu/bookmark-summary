@@ -1,7 +1,6 @@
 # Knives and battleships
 - URL: https://world.hey.com/jason/knives-and-battleships-ac8dc8c2
 - Added At: 2025-07-26 10:20:49
-- [Link To Text](2025-07-26-knives-and-battleships_raw.md)
 
 ## TL;DR
 

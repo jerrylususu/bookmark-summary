@@ -1,7 +1,6 @@
 # Exploring Typst, a new typesetting system similar to LaTeX - jreyesr's blog
 - URL: https://blog.jreyesr.com/posts/typst/#vs-word-google-docs-and-text-processors
 - Added At: 2024-11-16 13:20:49
-- [Link To Text](2024-11-16-exploring-typst,-a-new-typesetting-system-similar-to-latex---jreyesr's-blog_raw.md)
 
 ## TL;DR
 Typst是一个现代化的排版系统，旨在解决LaTeX的复杂性和老旧生态问题，提供简洁语法、实时预览和跨平台支持，适合初学者和非专业用户，未来有望在学术和专业文档领域获得更多用户。

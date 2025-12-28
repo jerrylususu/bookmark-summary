@@ -1,7 +1,6 @@
 # Making PyPI's test suite 81% faster
 - URL: https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/
 - Added At: 2025-05-11 06:38:21
-- [Link To Text](2025-05-11-making-pypi's-test-suite-81%-faster_raw.md)
 
 ## TL;DR
 

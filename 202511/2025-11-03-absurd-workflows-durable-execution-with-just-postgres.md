@@ -2,7 +2,6 @@
 - URL: https://lucumr.pocoo.org/2025/11/3/absurd-workflows/
 - Added At: 2025-11-03 14:22:30
 - Tags: #read #distributed #hack
-- [Link To Text](2025-11-03-absurd-workflows-durable-execution-with-just-postgres_raw.md)
 
 ## TL;DR
 Absurd是一个轻量级持久化执行库，仅依赖Postgres实现可靠的工作流和AI代理。它将任务分解为步骤，利用Postgres的队列和状态存储功能，在故障时支持任务重试和状态恢复，无需第三方服务，简化部署和运维。

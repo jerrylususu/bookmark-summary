@@ -1,7 +1,6 @@
 # Preferring throwaway code over design docs
 - URL: https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs
 - Added At: 2024-12-16 15:18:18
-- [Link To Text](2024-12-16-preferring-throwaway-code-over-design-docs_raw.md)
 
 ## TL;DR
 文章探讨了软件开发中设计与代码的关系，强调通过“编码狂欢”发现设计，而非依赖设计文档。提出使用草稿PR进行原型开发，尽早达成共识，并通过PR作为动态文档。设计文档在特定场景下有用，但容易过时，代码更具说服力。

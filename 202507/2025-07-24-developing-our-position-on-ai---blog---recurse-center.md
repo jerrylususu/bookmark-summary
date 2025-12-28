@@ -1,7 +1,6 @@
 # Developing our position on AI - Blog - Recurse Center
 - URL: https://www.recurse.com/blog/191-developing-our-position-on-ai#footnote-return-p191f6
 - Added At: 2025-07-24 14:52:14
-- [Link To Text](2025-07-24-developing-our-position-on-ai---blog---recurse-center_raw.md)
 
 ## TL;DR
 

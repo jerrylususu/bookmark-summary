@@ -2,7 +2,6 @@
 - URL: https://nolanlawson.com/2022/01/05/memory-leaks-the-forgotten-side-of-web-performance/
 - Added At: 2025-11-18 15:11:27
 - Tags: #read #perf
-- [Link To Text](2025-11-18-memory-leaks-the-forgotten-side-of-web-performance_raw.md)
 
 ## TL;DR
 本文强调Web开发中常被忽视的内存泄漏问题，指出其不易察觉但可能积累导致崩溃，修复性价比高。现有诊断工具尚不完善，作者开发的工具`fuite`提供改进，建议行业关注预防性修复以提升应用质量。

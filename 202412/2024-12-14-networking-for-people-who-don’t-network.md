@@ -1,7 +1,6 @@
 # Networking For People Who Don’t Network
 - URL: https://staysaasy.com/networking/2024/12/11/networking-for-people-who-dont-network.html
 - Added At: 2024-12-14 12:56:10
-- [Link To Text](2024-12-14-networking-for-people-who-don’t-network_raw.md)
 
 ## TL;DR
 文章强调了建立和维护网络的重要性，通过与同事和职场外的人积极互动，分享个人信息，定期见面，避免怪异行为，可以有效扩展和维护网络，从而提升工作和生活质量。

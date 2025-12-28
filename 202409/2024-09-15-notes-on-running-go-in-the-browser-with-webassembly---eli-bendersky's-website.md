@@ -1,7 +1,6 @@
 # Notes on running Go in the browser with WebAssembly - Eli Bendersky's website
 - URL: https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/
 - Added At: 2024-09-15 03:39:12
-- [Link To Text](2024-09-15-notes-on-running-go-in-the-browser-with-webassembly---eli-bendersky's-website_raw.md)
 
 ## TL;DR
 本文总结了通过WebAssembly在浏览器中运行Go的模式，包括从JS调用Go、DOM操作、完整示例、使用TinyGo优化、Web Worker解决阻塞问题等，并提供了GitHub代码示例。

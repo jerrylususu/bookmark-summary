@@ -1,7 +1,6 @@
 # The Future is NOT Self-Hosted
 - URL: https://www.drewlyton.com/story/the-future-is-not-self-hosted/
 - Added At: 2025-09-01 13:56:20
-- [Link To Text](2025-09-01-the-future-is-not-self-hosted_raw.md)
 
 ## TL;DR
 

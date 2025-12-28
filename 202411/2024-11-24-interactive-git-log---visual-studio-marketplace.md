@@ -1,7 +1,6 @@
 # Interactive Git Log - Visual Studio Marketplace
 - URL: https://marketplace.visualstudio.com/items?itemName=interactive-smartlog.interactive-smartlog
 - Added At: 2024-11-24 04:32:48
-- [Link To Text](2024-11-24-interactive-git-log---visual-studio-marketplace_raw.md)
 
 ## TL;DR
 Interactive Git Log (IGL) 是一款VSCode插件，通过图形界面简化Git操作，包括文件变更显示、分支管理、冲突解决和提交堆栈编辑，显著提升开发效率。

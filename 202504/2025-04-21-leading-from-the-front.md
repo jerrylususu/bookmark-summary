@@ -1,7 +1,6 @@
 # Leading From The Front
 - URL: https://staysaasy.com/management/2025/04/20/leading-from-the-front.html
 - Added At: 2025-04-21 14:10:09
-- [Link To Text](2025-04-21-leading-from-the-front_raw.md)
 
 ## TL;DR
 

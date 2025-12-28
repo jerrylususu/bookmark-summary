@@ -1,7 +1,6 @@
 # Deploying Web Apps with Caddy: A Beginner's Guide | Better Stack Community
 - URL: https://betterstack.com/community/guides/web-servers/caddy/
 - Added At: 2024-09-22 10:16:11
-- [Link To Text](2024-09-22-deploying-web-apps-with-caddy-a-beginner's-guide-better-stack-community_raw.md)
 
 ## TL;DR
 Caddy是一个开源的Go语言Web服务器，以其自动HTTPS设置和简化的配置著称。文章详细介绍了Caddy的特性、优势及其在Docker中的运行、HTTPS设置、静态文件服务、日志记录、反向代理和监控等功能。通过这些内容，读者可以全面了解Caddy，并掌握其部署和管理Web应用程序的能力。

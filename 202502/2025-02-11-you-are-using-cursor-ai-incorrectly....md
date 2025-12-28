@@ -1,7 +1,6 @@
 # You are using Cursor AI incorrectly...
 - URL: https://ghuntley.com/stdlib/
 - Added At: 2025-02-11 14:01:37
-- [Link To Text](2025-02-11-you-are-using-cursor-ai-incorrectly..._raw.md)
 
 ## TL;DR
 文章探讨了如何通过构建标准库和自动化流程来最大化Cursor的潜力，指出了常见误区并展示了Cursor Rules的强大功能，同时展望了未来的自动化和自主化发展方向。

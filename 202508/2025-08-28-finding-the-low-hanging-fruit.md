@@ -1,7 +1,6 @@
 # Finding the low-hanging fruit
 - URL: https://www.seangoedecke.com/low-hanging-fruit/
 - Added At: 2025-08-28 14:22:01
-- [Link To Text](2025-08-28-finding-the-low-hanging-fruit_raw.md)
 
 ## TL;DR
 

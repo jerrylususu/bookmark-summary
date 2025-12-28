@@ -2,7 +2,6 @@
 - URL: https://www.tigrisdata.com/blog/bucket-forking-deep-dive/
 - Added At: 2025-11-05 13:51:59
 - Tags: #read #deepdive
-- [Link To Text](2025-11-05-immutable-by-design-the-deep-tech-behind-tigris-bucket-forking-tigris-object-storage_raw.md)
 
 ## TL;DR
 Tigris对象存储的核心技术“存储桶分叉”基于数据不可变性设计，利用快照、写入前日志和有序键结构实现高效时间旅行和数据隔离。该技术支持TB级数据瞬间分叉，提供高安全性和性能，适用于AI实验等场景，未来将扩展功能以突破现有限制。

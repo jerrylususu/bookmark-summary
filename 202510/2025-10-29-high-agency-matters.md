@@ -1,7 +1,6 @@
 # High Agency Matters
 - URL: https://addyosmani.com/blog/high-agency-matters/
 - Added At: 2025-10-29 15:39:24
-- [Link To Text](2025-10-29-high-agency-matters_raw.md)
 
 ## TL;DR
 文章强调，个人能动性（主动行动和担当）比高智商更能决定长期成功。高能动性者通过执行力、坚持和风险承担创造实际成果，而智力易导致分析瘫痪。在AI时代，能动性作为人类独特优势愈发重要，应优先培养。

@@ -1,7 +1,6 @@
 # A WebAssembly compiler that fits in a tweet
 - URL: https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/
 - Added At: 2025-01-25 21:24:06
-- [Link To Text](2025-01-25-a-webassembly-compiler-that-fits-in-a-tweet_raw.md)
 
 ## TL;DR
 该项目通过JavaScript实现了一个极简的WebAssembly编译器，将逆波兰表示法的算术表达式编译为WebAssembly模块。通过一系列代码优化技巧，编译器从最初的269字节优化至192字节。文章详细解析了优化过程、隐式设计决策以及未实现的优化技巧，并推荐了相关学习资源。最终，项目不仅展示了WebAssembly的内部机制，还为未来改进提供了方向。

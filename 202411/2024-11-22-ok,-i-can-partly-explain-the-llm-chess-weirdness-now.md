@@ -1,7 +1,6 @@
 # OK, I can partly explain the LLM chess weirdness now
 - URL: https://dynomight.net/more-chess/
 - Added At: 2024-11-22 13:36:45
-- [Link To Text](2024-11-22-ok,-i-can-partly-explain-the-llm-chess-weirdness-now_raw.md)
 
 ## TL;DR
 文章探讨了大型语言模型（LLMs）在棋类游戏中的表现，特别是`gpt-3.5-turbo-instruct`的优异表现。通过实验和理论分析，发现提示调整和示例提供能显著提升模型表现，而OpenAI作弊的可能性极低。最终理论指出，基础模型在棋类数据上训练得更好，但聊天模型在指令调优后表现下降。未来工作将探索更多提示和示例组合，以进一步提升模型表现。

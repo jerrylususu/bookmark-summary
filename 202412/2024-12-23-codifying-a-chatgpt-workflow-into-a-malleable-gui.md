@@ -1,7 +1,6 @@
 # Codifying a ChatGPT workflow into a malleable GUI
 - URL: https://www.geoffreylitt.com/2023/07/25/building-personal-tools-on-the-fly-with-llms
 - Added At: 2024-12-23 15:05:01
-- [Link To Text](2024-12-23-codifying-a-chatgpt-workflow-into-a-malleable-gui_raw.md)
 
 ## TL;DR
 文章探讨了利用大语言模型（LLMs）如GPT-4构建个人定制GUI工具的可能性，通过实际案例展示了如何优化工作流，减少手动操作，提升效率，并展望了未来非程序员参与自定义工具开发的前景。

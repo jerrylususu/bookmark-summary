@@ -1,7 +1,6 @@
 # Suffering-oriented programming - thoughts from the red planet - thoughts from the red planet
 - URL: http://nathanmarz.com/blog/suffering-oriented-programming.html
 - Added At: 2025-04-24 13:54:54
-- [Link To Text](2025-04-24-suffering-oriented-programming---thoughts-from-the-red-planet---thoughts-from-the-red-planet_raw.md)
 
 ## TL;DR
 

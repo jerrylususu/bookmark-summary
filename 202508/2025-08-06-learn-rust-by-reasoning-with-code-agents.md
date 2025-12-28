@@ -1,7 +1,6 @@
 # Learn Rust by Reasoning with Code Agents
 - URL: https://xuanwo.io/2025/05-learn-rust-by-reasoning-with-code-agents/
 - Added At: 2025-08-06 15:12:19
-- [Link To Text](2025-08-06-learn-rust-by-reasoning-with-code-agents_raw.md)
 
 ## TL;DR
 

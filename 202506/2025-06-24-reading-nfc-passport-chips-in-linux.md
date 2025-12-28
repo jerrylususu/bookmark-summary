@@ -1,7 +1,6 @@
 # Reading NFC Passport Chips in Linux
 - URL: https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/
 - Added At: 2025-06-24 15:11:36
-- [Link To Text](2025-06-24-reading-nfc-passport-chips-in-linux_raw.md)
 
 ## TL;DR
 

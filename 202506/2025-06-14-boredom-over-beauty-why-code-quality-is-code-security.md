@@ -1,7 +1,6 @@
 # Boredom Over Beauty: Why Code Quality is Code Security
 - URL: https://blog.asymmetric.re/boredom-over-beauty-why-code-quality-is-code-security/
 - Added At: 2025-06-14 09:32:51
-- [Link To Text](2025-06-14-boredom-over-beauty-why-code-quality-is-code-security_raw.md)
 
 ## TL;DR
 

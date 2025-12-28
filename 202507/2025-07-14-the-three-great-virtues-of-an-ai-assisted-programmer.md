@@ -1,7 +1,6 @@
 # The three great virtues of an AI-assisted programmer
 - URL: https://www.seangoedecke.com/llm-user-virtues/
 - Added At: 2025-07-14 14:21:02
-- [Link To Text](2025-07-14-the-three-great-virtues-of-an-ai-assisted-programmer_raw.md)
 
 ## TL;DR
 

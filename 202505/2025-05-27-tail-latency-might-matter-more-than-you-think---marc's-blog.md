@@ -1,7 +1,6 @@
 # Tail Latency Might Matter More Than You Think - Marc's Blog
 - URL: https://brooker.co.za/blog/2021/04/19/latency.html
 - Added At: 2025-05-27 14:54:13
-- [Link To Text](2025-05-27-tail-latency-might-matter-more-than-you-think---marc's-blog_raw.md)
 
 ## TL;DR
 

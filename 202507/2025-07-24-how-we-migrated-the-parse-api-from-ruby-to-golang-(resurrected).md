@@ -1,7 +1,6 @@
 # How We Migrated the Parse API From Ruby to Golang (Resurrected)
 - URL: https://charity.wtf/2025/07/24/how-we-migrated-the-parse-api-from-ruby-to-golang-resurrected/
 - Added At: 2025-07-24 15:50:07
-- [Link To Text](2025-07-24-how-we-migrated-the-parse-api-from-ruby-to-golang-(resurrected)_raw.md)
 
 ## TL;DR
 

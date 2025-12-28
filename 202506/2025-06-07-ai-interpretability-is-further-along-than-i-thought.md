@@ -1,7 +1,6 @@
 # AI interpretability is further along than I thought
 - URL: https://www.seangoedecke.com/ai-interpretability/
 - Added At: 2025-06-07 14:28:07
-- [Link To Text](2025-06-07-ai-interpretability-is-further-along-than-i-thought_raw.md)
 
 ## TL;DR
 

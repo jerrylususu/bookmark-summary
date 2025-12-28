@@ -2,7 +2,6 @@
 - URL: https://minimaxir.com/2025/11/nano-banana-prompts/
 - Added At: 2025-11-14 13:13:34
 - Tags: #read #llm #guide
-- [Link To Text](2025-11-14-nano-banana-can-be-prompt-engineered-for-extremely-nuanced-ai-image-generation_raw.md)
 
 ## TL;DR
 Google推出的Nano Banana图像生成模型基于自回归技术，能精确遵循复杂提示并生成高质量图像，如处理荒诞请求和多指令编辑。模型优势包括强大的文本理解和免费使用，但存在风格转换弱、渲染文字出错及生成速度慢等局限。

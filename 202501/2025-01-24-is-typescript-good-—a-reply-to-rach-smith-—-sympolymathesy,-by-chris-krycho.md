@@ -1,7 +1,6 @@
 # Is TypeScript Good?—A Reply to Rach Smith — Sympolymathesy, by Chris Krycho
 - URL: https://v5.chriskrycho.com/journal/is-typescript-good/
 - Added At: 2025-01-24 13:55:18
-- [Link To Text](2025-01-24-is-typescript-good-—a-reply-to-rach-smith-—-sympolymathesy,-by-chris-krycho_raw.md)
 
 ## TL;DR
 文章讨论了TypeScript在JavaScript开发中的实用性，强调了其错误捕捉、代码可持续性和系统“库存”提升的价值。作者Chris Krycho认同TypeScript可能引发“聪明代码”陷阱，但也指出其在提高代码质量和未来扩展能力方面的优势。文章建议在引入TypeScript时平衡短期功能交付和长期维护投入，强调其对代码库长期可持续性的重要性。

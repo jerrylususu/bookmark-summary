@@ -1,7 +1,6 @@
 # A black cat in 2032 bytes
 - URL: https://evanhahn.com/light-switch/
 - Added At: 2024-12-27 14:14:45
-- [Link To Text](2024-12-27-a-black-cat-in-2032-bytes_raw.md)
 
 ## TL;DR
 作者为Taper杂志创作了名为“Light Switch”的作品，通过图像压缩、数据URL嵌入、动画效果和代码优化等技术手段，将作品控制在2048字节以内。作品核心是一只黑猫，通过多次优化和调整，最终实现了生动的眨眼效果和灯光控制。作者感谢了合作伙伴、Taper团队和猫咪Kyppie的贡献。

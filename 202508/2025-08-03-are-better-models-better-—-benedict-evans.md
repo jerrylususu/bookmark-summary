@@ -1,7 +1,6 @@
 # Are better models better? — Benedict Evans
 - URL: https://www.ben-evans.com/benedictevans/2025/1/the-problem-with-better-models
 - Added At: 2025-08-03 15:25:49
-- [Link To Text](2025-08-03-are-better-models-better-—-benedict-evans_raw.md)
 
 ## TL;DR
 

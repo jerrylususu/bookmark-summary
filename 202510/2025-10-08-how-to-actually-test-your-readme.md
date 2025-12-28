@@ -1,7 +1,6 @@
 # How to *actually* test your readme
 - URL: https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/
 - Added At: 2025-10-08 02:31:31
-- [Link To Text](2025-10-08-how-to-actually-test-your-readme_raw.md)
 
 ## TL;DR
 在空白虚拟机中测试README，按步骤操作并记录命令，适配不同用户水平，确保安装过程可重现，提升文档可靠性。

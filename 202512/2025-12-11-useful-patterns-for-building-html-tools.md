@@ -2,7 +2,6 @@
 - URL: https://simonwillison.net/2025/Dec/10/html-tools/
 - Added At: 2025-12-11 12:23:09
 - Tags: #read #tips #deepdive #frontend
-- [Link To Text](2025-12-11-useful-patterns-for-building-html-tools_raw.md)
 
 ## TL;DR
 该文介绍了HTML工具的定义和开发模式，强调单一文件结构，避免复杂框架，并使用CDN和浏览器原生功能实现轻量化开发。建议通过LLM辅助快速构建实用工具，并分享了具体实现技巧和示例。

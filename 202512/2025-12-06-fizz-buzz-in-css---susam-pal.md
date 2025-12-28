@@ -2,7 +2,6 @@
 - URL: https://susam.net/fizz-buzz-in-css.html
 - Added At: 2025-12-06 09:52:11
 - Tags: #read #hack #frontend
-- [Link To Text](2025-12-06-fizz-buzz-in-css---susam-pal_raw.md)
 
 ## TL;DR
 本文介绍仅用CSS实现Fizz Buzz序列的4行代码方案。通过CSS计数器、伪元素和选择器组合，在特定倍数项显示数字和替换文本。作者鼓励尝试更简洁的写法，并提供了参考链接。

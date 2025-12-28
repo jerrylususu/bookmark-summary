@@ -1,7 +1,6 @@
 # Developers, Reinvented – Thomas Dohmke
 - URL: https://ashtom.github.io/developers-reinvented
 - Added At: 2025-08-09 14:14:27
-- [Link To Text](2025-08-09-developers,-reinvented-–-thomas-dohmke_raw.md)
 
 ## TL;DR
 

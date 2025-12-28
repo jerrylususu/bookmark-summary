@@ -1,7 +1,6 @@
 # Graphing Calculator Story
 - URL: https://www.pacifict.com/story/
 - Added At: 2025-03-06 14:29:23
-- [Link To Text](2025-03-06-graphing-calculator-story_raw.md)
 
 ## TL;DR
 Ron Avitzur在Apple秘密开发图形计算器，失业后潜入公司继续工作，获得同事支持，最终项目成功成为Macintosh的一部分，推动了教育软件发展，尽管过程充满法律和伦理争议。

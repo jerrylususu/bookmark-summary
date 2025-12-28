@@ -1,7 +1,6 @@
 # rate limiter – smudge.ai blog
 - URL: https://smudge.ai/blog/ratelimit-algorithms
 - Added At: 2025-05-09 15:39:33
-- [Link To Text](2025-05-09-rate-limiter-–-smudge.ai-blog_raw.md)
 
 ## TL;DR
 

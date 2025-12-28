@@ -1,7 +1,6 @@
 # Pure and impure software engineering
 - URL: https://www.seangoedecke.com/pure-and-impure-engineering/
 - Added At: 2025-06-22 13:54:27
-- [Link To Text](2025-06-22-pure-and-impure-software-engineering_raw.md)
 
 ## TL;DR
 

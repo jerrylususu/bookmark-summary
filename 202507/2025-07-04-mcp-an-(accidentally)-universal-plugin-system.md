@@ -1,7 +1,6 @@
 # MCP: An (Accidentally) Universal Plugin System
 - URL: https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin
 - Added At: 2025-07-04 14:43:32
-- [Link To Text](2025-07-04-mcp-an-(accidentally)-universal-plugin-system_raw.md)
 
 ## TL;DR
 

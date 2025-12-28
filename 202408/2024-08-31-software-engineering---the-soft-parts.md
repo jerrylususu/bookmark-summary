@@ -1,7 +1,6 @@
 # Software Engineering - The Soft Parts
 - URL: https://addyosmani.com/blog/software-engineering-soft-parts/#quote-17
 - Added At: 2024-08-31 05:18:26
-- [Link To Text](2024-08-31-software-engineering---the-soft-parts_raw.md)
 
 ## TL;DR
 文章讨论了软件工程师应具备的多方面软技能，包括经验积累、技术掌握、批判性思维、基础知识的重要性、用户为中心的设计、技能升级、持续学习、项目管理、技术复杂性处理、项目实施、系统调试、设计文档编写、沟通技巧、决策能力、领导力、职业发展、指导与被指导、团队效率、工作与生活平衡、项目评估与管理、技术债务处理、执行效率以及问题导向的思维方式。强调了持续学习、用户同理心、有效沟通和批判性思维的重要性，并提倡在职业生涯中不断自我提升和适应变化。

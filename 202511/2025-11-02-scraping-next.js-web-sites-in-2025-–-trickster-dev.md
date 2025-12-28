@@ -1,7 +1,6 @@
 # Scraping Next.js web sites in 2025 – Trickster Dev
 - URL: https://www.trickster.dev/post/scraping-nextjs-web-sites-in-2025/
 - Added At: 2025-11-02 11:12:07
-- [Link To Text](2025-11-02-scraping-next.js-web-sites-in-2025-–-trickster-dev_raw.md)
 
 ## TL;DR
 文章介绍了使用Python库njsparser抓取Next.js网站的方法，重点解析其Flight Data等数据序列化格式。工具可简化从HTML中提取分块数据的过程，适用于现代前端框架的数据抓取场景。

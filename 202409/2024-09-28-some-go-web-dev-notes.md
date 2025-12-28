@@ -1,7 +1,6 @@
 # Some Go web dev notes
 - URL: https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/
 - Added At: 2024-09-28 03:26:52
-- [Link To Text](2024-09-28-some-go-web-dev-notes_raw.md)
 
 ## TL;DR
 文章总结了Go 1.22的路由改进、sqlc代码生成工具、SQLite优化技巧、Go 1.19的内存限制设置、Go开发网站的优势及对Go新特性的关注。强调了Go在简化开发、优化性能和易于维护方面的优势。

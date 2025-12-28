@@ -1,7 +1,6 @@
 # Can LLMs write better code if you keep asking them to “write better code”?
 - URL: https://minimaxir.com/2025/01/write-better-code/
 - Added At: 2025-01-03 15:34:47
-- [Link To Text](2025-01-03-can-llms-write-better-code-if-you-keep-asking-them-to-“write-better-code”_raw.md)
 
 ## TL;DR
 2023年11月，OpenAI在ChatGPT中集成了DALL-E 3的图像生成功能，展示了LLM在生成内容时的迭代能力。随后，实验探讨了通过不断要求LLM“write better code”来改进代码质量的可能性。实验使用Claude 3.5 Sonnet生成Python代码，并通过多次迭代优化代码性能，最终提升100倍。实验表明，提示工程可以显著加速代码优化，但仍需人工干预以确保代码的正确性和效率。所有代码和实验数据可在GitHub上获取。

@@ -1,7 +1,6 @@
 # How Core Git Developers Configure Git
 - URL: https://blog.gitbutler.com/how-git-core-devs-configure-git/
 - Added At: 2025-02-26 14:26:05
-- [Link To Text](2025-02-26-how-core-git-developers-configure-git_raw.md)
 
 ## TL;DR
 文章探讨了Git的多种配置设置，建议修改某些默认值以提升用户体验，并列出了核心开发人员常用的配置。特别推荐了一些明显提升Git体验的设置，如更好的diff、推送和获取配置。

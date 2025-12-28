@@ -1,7 +1,6 @@
 # The kids are alright
 - URL: https://www.bitecode.dev/p/the-kids-are-alright
 - Added At: 2025-08-24 04:31:05
-- [Link To Text](2025-08-24-the-kids-are-alright_raw.md)
 
 ## TL;DR
 

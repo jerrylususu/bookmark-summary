@@ -1,7 +1,6 @@
 # Using GitHub Pages as a URL shortener / redirection service | Christian Heilmann
 - URL: https://christianheilmann.com/2025/08/11/using-github-pages-as-a-url-shortener-redirection-service/
 - Added At: 2025-08-12 15:13:14
-- [Link To Text](2025-08-12-using-github-pages-as-a-url-shortener-redirection-service-christian-heilmann_raw.md)
 
 ## TL;DR
 

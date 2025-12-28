@@ -2,7 +2,6 @@
 - URL: https://lemire.me/blog/2025/12/05/why-speed-matters/
 - Added At: 2025-12-07 12:52:53
 - Tags: #read
-- [Link To Text](2025-12-07-why-speed-matters_raw.md)
 
 ## TL;DR
 该文章指出网页“Robot Challenge Screen”显示安全验证界面，可能要求授权或完成验证码才能访问。

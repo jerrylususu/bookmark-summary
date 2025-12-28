@@ -1,7 +1,6 @@
 # Do the simplest thing that could possibly work
 - URL: https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/
 - Added At: 2025-08-28 14:03:16
-- [Link To Text](2025-08-28-do-the-simplest-thing-that-could-possibly-work_raw.md)
 
 ## TL;DR
 

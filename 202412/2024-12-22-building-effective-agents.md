@@ -1,7 +1,6 @@
 # Building effective agents
 - URL: https://www.anthropic.com/research/building-effective-agents
 - Added At: 2024-12-22 07:12:22
-- [Link To Text](2024-12-22-building-effective-agents_raw.md)
 
 ## TL;DR
 Anthropic分享了构建大型语言模型代理的经验，强调简单、可组合的模式，建议从简单解决方案开始，逐步增加复杂性，并提供了实用的构建块和模式组合建议。

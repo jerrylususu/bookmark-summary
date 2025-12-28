@@ -1,7 +1,6 @@
 # How I ship projects at big tech companies
 - URL: https://www.seangoedecke.com/how-to-ship/
 - Added At: 2024-11-12 14:08:47
-- [Link To Text](2024-11-12-how-i-ship-projects-at-big-tech-companies_raw.md)
 
 ## TL;DR
 文章强调项目交付的困难性，需将交付设为首要任务，并获得领导层的认可。沟通和建立信任至关重要，技术工作重点在于预见问题和制定备选方案。早期部署和灵活应对是关键策略。

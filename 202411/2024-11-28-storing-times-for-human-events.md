@@ -1,7 +1,6 @@
 # Storing times for human events
 - URL: https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/
 - Added At: 2024-11-28 13:31:23
-- [Link To Text](2024-11-28-storing-times-for-human-events_raw.md)
 
 ## TL;DR
 文章讨论了在事件网站中存储事件时间的复杂性，强调了用户错误和国际时区变化带来的挑战。作者建议记录用户的原始意图和事件地点，同时计算并存储UTC时间，以避免时区问题和用户错误。

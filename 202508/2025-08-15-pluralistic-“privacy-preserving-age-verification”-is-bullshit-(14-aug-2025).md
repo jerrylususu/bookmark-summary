@@ -1,7 +1,6 @@
 # Pluralistic: “Privacy preserving age verification” is bullshit (14 Aug 2025) 
 - URL: https://pluralistic.net/2025/08/14/bellovin/
 - Added At: 2025-08-15 14:05:11
-- [Link To Text](2025-08-15-pluralistic-“privacy-preserving-age-verification”-is-bullshit-(14-aug-2025)_raw.md)
 
 ## TL;DR
 

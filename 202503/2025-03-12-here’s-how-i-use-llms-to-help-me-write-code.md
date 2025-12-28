@@ -1,7 +1,6 @@
 # Here’s how I use LLMs to help me write code
 - URL: https://simonwillison.net/2025/Mar/11/using-llms-for-code/
 - Added At: 2025-03-12 14:37:07
-- [Link To Text](2025-03-12-here’s-how-i-use-llms-to-help-me-write-code_raw.md)
 
 ## TL;DR
 高效利用LLMs编程需明确其辅助角色，结合训练数据时效性选择可靠方案，通过多路径验证、精准指令及工具（如代码沙箱）优化开发。强调强制测试验证、人类主导关键决策，利用上下文迭代与反馈提升效率，同时警惕模型幻觉与安全风险。

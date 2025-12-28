@@ -1,7 +1,6 @@
 # UI tip: maybe don't round percentages to 0% or 100%
 - URL: https://evanhahn.com/maybe-dont-round-percentages-to-0-or-100-percent/
 - Added At: 2025-04-19 08:03:31
-- [Link To Text](2025-04-19-ui-tip-maybe-don't-round-percentages-to-0%-or-100%_raw.md)
 
 ## TL;DR
 

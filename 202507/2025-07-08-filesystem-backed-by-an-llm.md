@@ -1,7 +1,6 @@
 # Filesystem Backed by an LLM
 - URL: https://healeycodes.com/filesystem-backed-by-an-llm
 - Added At: 2025-07-08 14:19:46
-- [Link To Text](2025-07-08-filesystem-backed-by-an-llm_raw.md)
 
 ## TL;DR
 

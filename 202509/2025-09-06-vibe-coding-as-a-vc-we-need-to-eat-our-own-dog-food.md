@@ -1,7 +1,6 @@
 # Vibe-Coding as a VC: We Need to Eat Our Own Dog Food
 - URL: https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start
 - Added At: 2025-09-06 14:02:12
-- [Link To Text](2025-09-06-vibe-coding-as-a-vc-we-need-to-eat-our-own-dog-food_raw.md)
 
 ## TL;DR
 一位风险投资家在假期利用AI工具（特别是Claude Code）进行“情感编程”，重构其VC公司工作流程。他构建了一个AI驱动的知识库系统，替代传统CRM，实现了信息聚合、高效迭代和个性化体验。作者强调AI虽加速开发，但仍需技术知识应对其局限性、成本和快速迭代的工具市场。

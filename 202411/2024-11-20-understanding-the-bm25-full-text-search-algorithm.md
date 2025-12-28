@@ -1,7 +1,6 @@
 # Understanding the BM25 full text search algorithm
 - URL: https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/
 - Added At: 2024-11-20 14:30:29
-- [Link To Text](2024-11-20-understanding-the-bm25-full-text-search-algorithm_raw.md)
 
 ## TL;DR
 文章介绍了BM25算法在全文搜索中的应用，特别是其在个性化推荐系统中的潜力。BM25通过概率排序原则和多个组件（如IDF、词频和文档长度归一化）来计算文档与查询的相关性。尽管BM25分数可在同一文档集合内比较，但不能跨集合或时间比较。文章还推荐了进一步阅读资源以深入了解BM25。

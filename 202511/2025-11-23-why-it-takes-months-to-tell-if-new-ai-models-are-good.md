@@ -2,7 +2,6 @@
 - URL: https://www.seangoedecke.com/are-new-models-good/
 - Added At: 2025-11-23 10:36:54
 - Tags: #read #llm #eval
-- [Link To Text](2025-11-23-why-it-takes-months-to-tell-if-new-ai-models-are-good_raw.md)
 
 ## TL;DR
 评估AI模型质量面临三大难题：现有基准易被操纵且脱离实际，主观判断不可靠，真实场景测试又耗时费力。当模型智能超越人类后，进步更难被感知，导致AI是否停滞的争议无解。

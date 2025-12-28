@@ -1,7 +1,6 @@
 # Diffusion models explained simply
 - URL: https://www.seangoedecke.com/diffusion-models-explained/
 - Added At: 2025-05-19 13:55:57
-- [Link To Text](2025-05-19-diffusion-models-explained-simply_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # strace tips for better debugging
 - URL: https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/
 - Added At: 2025-06-17 14:21:54
-- [Link To Text](2025-06-17-strace-tips-for-better-debugging_raw.md)
 
 ## TL;DR
 

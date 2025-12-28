@@ -1,7 +1,6 @@
 # The Last Programmers || Xipu Li
 - URL: https://www.xipu.li/posts/the-last-programmers
 - Added At: 2025-09-12 14:24:20
-- [Link To Text](2025-09-12-the-last-programmers-xipu-li_raw.md)
 
 ## TL;DR
 从亚马逊转投创业公司后，作者发现AI工具能大幅提升开发效率，软件行业竞争核心转向需求判断和产品分发，未来程序员需更关注用户体验与市场策略，而非纯粹编码。

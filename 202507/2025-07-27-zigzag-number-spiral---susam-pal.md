@@ -1,7 +1,6 @@
 # Zigzag Number Spiral - Susam Pal
 - URL: https://susam.net/zigzag-number-spiral.html
 - Added At: 2025-07-27 13:44:12
-- [Link To Text](2025-07-27-zigzag-number-spiral---susam-pal_raw.md)
 
 ## TL;DR
 

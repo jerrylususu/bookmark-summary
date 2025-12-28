@@ -1,7 +1,6 @@
 # How I program with Agents
 - URL: https://crawshaw.io/blog/programming-with-agents
 - Added At: 2025-06-10 14:46:39
-- [Link To Text](2025-06-10-how-i-program-with-agents_raw.md)
 
 ## TL;DR
 

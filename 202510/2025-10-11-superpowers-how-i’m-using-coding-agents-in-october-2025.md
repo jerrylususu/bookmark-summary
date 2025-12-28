@@ -1,7 +1,6 @@
 # Superpowers: How I’m using coding agents in October 2025
 - URL: https://simonwillison.net/2025/Oct/10/superpowers/
 - Added At: 2025-10-11 13:40:18
-- [Link To Text](2025-10-11-superpowers-how-i’m-using-coding-agents-in-october-2025_raw.md)
 
 ## TL;DR
 Jesse Vincent开发了Superpowers插件，通过TDD、流程图、情感日志等系统化方法优化Claude Code使用。该插件轻量开源，支持根因追踪等功能，帮助开发者提升编码效率。

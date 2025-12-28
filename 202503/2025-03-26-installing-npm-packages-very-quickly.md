@@ -1,7 +1,6 @@
 # Installing NPM Packages Very Quickly
 - URL: https://healeycodes.com/installing-npm-packages-very-quickly
 - Added At: 2025-03-26 14:06:42
-- [Link To Text](2025-03-26-installing-npm-packages-very-quickly_raw.md)
 
 ## TL;DR
 

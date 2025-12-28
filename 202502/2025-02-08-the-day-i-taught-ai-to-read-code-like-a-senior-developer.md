@@ -1,7 +1,6 @@
 # The day I taught AI to read code like a Senior Developer
 - URL: https://nmn.gl/blog/ai-senior-developer
 - Added At: 2025-02-08 14:17:01
-- [Link To Text](2025-02-08-the-day-i-taught-ai-to-read-code-like-a-senior-developer_raw.md)
 
 ## TL;DR
 文章探讨了如何通过上下文感知和模式匹配提升AI对React代码的理解，使其更像资深开发者，而非初级开发者。实验证明，这种改进显著提升了AI的分析能力，并能捕捉未明确训练的内容，强调了代码理解的重要性。

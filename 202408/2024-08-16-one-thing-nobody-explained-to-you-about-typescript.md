@@ -1,7 +1,6 @@
 # One Thing Nobody Explained To You About TypeScript
 - URL: https://kettanaito.com/blog/one-thing-nobody-explained-to-you-about-typescript
 - Added At: 2024-08-16 14:32:04
-- [Link To Text](2024-08-16-one-thing-nobody-explained-to-you-about-typescript_raw.md)
 
 ## TL;DR
 作者分享了使用TypeScript的经验，特别是在`tsconfig.json`配置上的误解和解决方法。通过创建多个`tsconfig.json`文件并正确使用`references`属性，解决了类型冲突问题，提高了开发效率。

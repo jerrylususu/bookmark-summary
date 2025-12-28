@@ -1,7 +1,6 @@
 # Everything I've learned so far about running local LLMs
 - URL: https://nullprogram.com/blog/2024/11/10/
 - Added At: 2024-11-11 14:15:02
-- [Link To Text](2024-11-11-everything-i've-learned-so-far-about-running-local-llms_raw.md)
 
 ## TL;DR
 作者探索了LLM的快速发展，强调了技术进步的迅速和避免供应商锁定的必要性。他推荐使用llama.cpp和Hugging Face上的模型，并介绍了多种LLM的实际应用和局限性。

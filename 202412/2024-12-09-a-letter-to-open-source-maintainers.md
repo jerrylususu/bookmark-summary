@@ -1,7 +1,6 @@
 # A letter to open-source maintainers
 - URL: https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/
 - Added At: 2024-12-09 14:36:22
-- [Link To Text](2024-12-09-a-letter-to-open-source-maintainers_raw.md)
 
 ## TL;DR
 文章鼓励开源维护者建立健康、可持续的项目基线，强调开源即完成的原则，提醒维护者不必过度承担责任，不快乐时可以选择离开。文章还提供了离开前的准备步骤和继续维护的建议，强调项目可持续性和选择合适许可证的重要性。

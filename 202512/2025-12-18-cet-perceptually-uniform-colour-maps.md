@@ -2,7 +2,6 @@
 - URL: https://colorcet.com/
 - Added At: 2025-12-18 16:01:35
 - Tags: #tools
-- [Link To Text](2025-12-18-cet-perceptually-uniform-colour-maps_raw.md)
 
 ## TL;DR
 CET配色方案通过感知均匀设计解决数据可视化中的对比度不均问题，包含线性、发散、彩虹等类型，适用于一般数据、参考数值及色盲友好场景，并提供了相关工具与资源。

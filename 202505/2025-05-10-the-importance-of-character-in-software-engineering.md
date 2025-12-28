@@ -1,7 +1,6 @@
 # The importance of character in software engineering
 - URL: https://www.seangoedecke.com/character-in-software-engineering/
 - Added At: 2025-05-10 11:03:36
-- [Link To Text](2025-05-10-the-importance-of-character-in-software-engineering_raw.md)
 
 ## TL;DR
 

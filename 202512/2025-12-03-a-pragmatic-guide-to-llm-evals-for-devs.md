@@ -2,7 +2,6 @@
 - URL: https://newsletter.pragmaticengineer.com/p/evals
 - Added At: 2025-12-03 14:40:45
 - Tags: #read #llm #eval #deepdive
-- [Link To Text](2025-12-03-a-pragmatic-guide-to-llm-evals-for-devs_raw.md)
 
 ## TL;DR
 本文总结了LLM应用开发中的评估核心流程：通过错误分析系统化识别主要失败模式（如构建数据查看器、开放式与轴向编码），结合代码化测试和LLM评判员工具，实现数据驱动的持续优化，取代主观开发模式。

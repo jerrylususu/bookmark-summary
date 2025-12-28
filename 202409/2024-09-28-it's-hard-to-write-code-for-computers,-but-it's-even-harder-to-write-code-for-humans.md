@@ -1,7 +1,6 @@
 # It's hard to write code for computers, but it's even harder to write code for humans
 - URL: https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html
 - Added At: 2024-09-28 03:32:46
-- [Link To Text](2024-09-28-it's-hard-to-write-code-for-computers,-but-it's-even-harder-to-write-code-for-humans_raw.md)
 
 ## TL;DR
 文章讨论了编程难度、入门体验、学习方式、成功引导、概念简化、命名原则、可编程性、魔法与默认值等多个方面，强调了设计友好用户体验的重要性，特别是针对首次用户，并提出了未来可能探讨的话题。

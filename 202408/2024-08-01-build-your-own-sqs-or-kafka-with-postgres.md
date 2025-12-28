@@ -1,7 +1,6 @@
 # Build your own SQS or Kafka with Postgres
 - URL: https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/
 - Added At: 2024-08-01 14:56:39
-- [Link To Text](2024-08-01-build-your-own-sqs-or-kafka-with-postgres_raw.md)
 
 ## TL;DR
 本文介绍了如何利用Postgres构建类似SQS和Kafka的消息系统，包括队列创建、消息接收、FIFO实现、死信队列、分区与并发处理等，并对比了Postgres与SQS、Kafka的优势与劣势。此外，还探讨了结合Kafka和SQS的消费模式，以及Sequin项目的设计理念和当前状态。

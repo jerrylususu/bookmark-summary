@@ -1,7 +1,6 @@
 # Vibe scraping and vibe coding a schedule app for Open Sauce 2025 entirely on my phone
 - URL: https://simonwillison.net/2025/Jul/17/vibe-scraping/
 - Added At: 2025-07-18 13:23:08
-- [Link To Text](2025-07-18-vibe-scraping-and-vibe-coding-a-schedule-app-for-open-sauce-2025-entirely-on-my-phone_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # Inside GitHub: How we hardened our SAML implementation
 - URL: https://github.blog/security/web-application-security/inside-github-how-we-hardened-our-saml-implementation/
 - Added At: 2025-05-28 14:12:07
-- [Link To Text](2025-05-28-inside-github-how-we-hardened-our-saml-implementation_raw.md)
 
 ## TL;DR
 

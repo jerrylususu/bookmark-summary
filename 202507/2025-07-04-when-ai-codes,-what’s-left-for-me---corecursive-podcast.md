@@ -1,7 +1,6 @@
 # When AI Codes, What’s Left for me? - CoRecursive Podcast
 - URL: https://corecursive.com/coding-agents/
 - Added At: 2025-07-04 14:38:58
-- [Link To Text](2025-07-04-when-ai-codes,-what’s-left-for-me---corecursive-podcast_raw.md)
 
 ## TL;DR
 

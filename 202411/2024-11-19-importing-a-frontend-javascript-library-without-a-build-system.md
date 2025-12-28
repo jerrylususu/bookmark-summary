@@ -1,7 +1,6 @@
 # Importing a frontend Javascript library without a build system
 - URL: https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/
 - Added At: 2024-11-19 16:27:52
-- [Link To Text](2024-11-19-importing-a-frontend-javascript-library-without-a-build-system_raw.md)
 
 ## TL;DR
 本文介绍了在没有构建系统的情况下如何导入前端JavaScript库，详细说明了不同文件类型（如UMD、ES模块、CommonJS）的使用方法，并推荐了多种工具（如importmaps、esm.sh、download-esm）来帮助开发者实现这一目标。

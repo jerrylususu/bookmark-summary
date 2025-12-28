@@ -1,7 +1,6 @@
 # Getting DeepSeek-OCR working on an NVIDIA Spark via brute force using Claude Code
 - URL: https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/
 - Added At: 2025-10-21 13:31:33
-- [Link To Text](2025-10-21-getting-deepseek-ocr-working-on-an-nvidia-spark-via-brute-force-using-claude-code_raw.md)
 
 ## TL;DR
 作者在NVIDIA Spark设备上使用Claude Code成功部署DeepSeek-OCR模型。通过Docker容器自动化配置环境，关键解决了PyTorch版本与GPU兼容性问题。经测试"Free OCR"提示词效果最佳，整个流程仅需少量人工干预，验证了自动化工具的可行性。

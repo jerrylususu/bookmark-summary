@@ -1,7 +1,6 @@
 # NotebookLM’s automatically generated podcasts are surprisingly effective
 - URL: https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/
 - Added At: 2024-09-30 13:39:30
-- [Link To Text](2024-09-30-notebooklm’s-automatically-generated-podcasts-are-surprisingly-effective_raw.md)
 
 ## TL;DR
 Google的NotebookLM推出“Audio Overview”功能，用户可生成定制播客，由AI主持人进行自然对话。该功能基于Gemini 1.5 Pro LLM和SoundStorm技术，生成速度快且对话质量高。用户反馈显示AI生成的播客引发有趣讨论，未来需提高辨别AI生成内容的能力。

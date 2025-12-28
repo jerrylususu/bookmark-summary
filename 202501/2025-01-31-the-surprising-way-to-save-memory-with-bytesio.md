@@ -1,7 +1,6 @@
 # The surprising way to save memory with BytesIO
 - URL: https://pythonspeed.com/articles/bytesio-reduce-memory-usage/
 - Added At: 2025-01-31 08:47:05
-- [Link To Text](2025-01-31-the-surprising-way-to-save-memory-with-bytesio_raw.md)
 
 ## TL;DR
 `BytesIO`是Python中用于内存中存储字节数据的类。使用`BytesIO.read()`会导致内存使用量翻倍，而`getbuffer()`和`getvalue()`方法则更高效，前者返回`memoryview`视图，后者返回`bytes`对象且不增加内存。建议避免使用`read()`，优先使用`getvalue()`或`getbuffer()`以最小化内存开销。

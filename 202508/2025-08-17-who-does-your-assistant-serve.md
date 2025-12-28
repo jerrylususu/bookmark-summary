@@ -1,7 +1,6 @@
 # Who does your assistant serve?
 - URL: https://xeiaso.net/blog/2025/who-assistant-serve/
 - Added At: 2025-08-17 14:55:45
-- [Link To Text](2025-08-17-who-does-your-assistant-serve_raw.md)
 
 ## TL;DR
 

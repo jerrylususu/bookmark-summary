@@ -1,7 +1,6 @@
 # AI-assisted coding for teams that can't get away with vibes - nilenso blog
 - URL: http://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/
 - Added At: 2025-06-11 14:45:57
-- [Link To Text](2025-06-11-ai-assisted-coding-for-teams-that-can't-get-away-with-vibes---nilenso-blog_raw.md)
 
 ## TL;DR
 

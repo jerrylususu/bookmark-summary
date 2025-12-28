@@ -1,7 +1,6 @@
 # Type Inference in Rust and C++
 - URL: https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp//
 - Added At: 2025-05-31 12:12:48
-- [Link To Text](2025-05-31-type-inference-in-rust-and-c++_raw.md)
 
 ## TL;DR
 

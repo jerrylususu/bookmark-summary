@@ -1,7 +1,6 @@
 # So you want to serialize some DER? · Alex Gaynor
 - URL: https://alexgaynor.net/2025/jun/20/serialize-some-der/
 - Added At: 2025-07-01 15:11:30
-- [Link To Text](2025-07-01-so-you-want-to-serialize-some-der-·-alex-gaynor_raw.md)
 
 ## TL;DR
 

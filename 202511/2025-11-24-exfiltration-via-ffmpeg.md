@@ -2,7 +2,6 @@
 - URL: https://beny23.github.io/posts/ffmpeg_exfil/
 - Added At: 2025-11-24 14:32:00
 - Tags: #read #security #hack
-- [Link To Text](2025-11-24-exfiltration-via-ffmpeg_raw.md)
 
 ## TL;DR
 允许用户自定义ffmpeg参数存在安全风险：攻击者可能利用-attach参数窃取本地文件或发起SSRF攻击，通过tcp/tls协议外泄数据。建议严格过滤参数并加强网络隔离防御。

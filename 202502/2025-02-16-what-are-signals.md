@@ -1,7 +1,6 @@
 # What are Signals?
 - URL: https://playfulprogramming.com/posts/what-are-signals
 - Added At: 2025-02-16 07:20:43
-- [Link To Text](2025-02-16-what-are-signals_raw.md)
 
 ## TL;DR
 信号在现代前端框架中广泛应用，提供状态管理和订阅机制。它包括基础信号、计算属性和副作用，能自动跟踪依赖变化并避免glitch问题。信号正被提议纳入JavaScript标准库，具有强大的响应式能力。

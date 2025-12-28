@@ -1,7 +1,6 @@
 # Tip: Use keyword-only arguments in Python dataclasses – ChipLog — Christian Hammond
 - URL: https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/
 - Added At: 2025-06-30 13:30:30
-- [Link To Text](2025-06-30-tip-use-keyword-only-arguments-in-python-dataclasses-–-chiplog-—-christian-hammond_raw.md)
 
 ## TL;DR
 

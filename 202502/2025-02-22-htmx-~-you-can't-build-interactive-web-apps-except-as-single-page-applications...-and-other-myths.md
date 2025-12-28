@@ -1,7 +1,6 @@
 # </> htmx ~ You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths
 - URL: https://htmx.org/essays/you-cant/
 - Added At: 2025-02-22 11:04:14
-- [Link To Text](2025-02-22-htmx-~-you-can't-build-interactive-web-apps-except-as-single-page-applications...-and-other-myths_raw.md)
 
 ## TL;DR
 文章探讨了多页面应用（MPA）和HTMX在现代浏览器中的应用，反驳了MPA性能差、不能离线操作等常见误解。通过使用Service workers、Speculation Rules API等技术，MPA可以实现高效的页面切换和离线功能，用户体验不亚于单页应用（SPA）。

@@ -2,7 +2,6 @@
 - URL: https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over
 - Added At: 2025-12-19 14:50:07
 - Tags: #read
-- [Link To Text](2025-12-19-graphql-the-enterprise-honeymoon-is-over_raw.md)
 
 ## TL;DR
 文章认为GraphQL在企业应用中优势有限。尽管旨在减少数据过度获取，但多数场景已被BFF架构解决。GraphQL反而带来更高实现复杂度、可观测性差、缓存脆弱及维护成本。企业更需稳定和效率，而非技术优雅，因此GraphQL适用面窄。

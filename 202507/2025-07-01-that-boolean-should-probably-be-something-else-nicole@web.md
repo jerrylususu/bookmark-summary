@@ -1,7 +1,6 @@
 # That boolean should probably be something else | nicole@web
 - URL: https://ntietz.com/blog/that-boolean-should-probably-be-something-else/
 - Added At: 2025-07-01 13:41:39
-- [Link To Text](2025-07-01-that-boolean-should-probably-be-something-else-nicole@web_raw.md)
 
 ## TL;DR
 

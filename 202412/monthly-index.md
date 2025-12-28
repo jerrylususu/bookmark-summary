@@ -117,7 +117,7 @@
   - Tags: #read #guide #life
 
 - (2024-12-13) ["Rules" that terminal programs follow](2024-12-13-rules-that-terminal-programs-follow.md)
-  - 文章讨论了终端程序的职责划分和常见行为规则，包括响应、、等操作，使用16种颜色，支持readline键绑定等。这些规则描述了程序的常见行为，但并非强制标准，用户需逐步学习并识别例外。
+  - 文章讨论了终端程序的职责划分和常见行为规则，包括响应`Ctrl-C`、`q`、`Ctrl-D`等操作，使用16种颜色，支持readline键绑定等。这些规则描述了程序的常见行为，但并非强制标准，用户需逐步学习并识别例外。
   - Tags: #read #deepdive
 
 - (2024-12-12) [Gist of Go: Pipelines](2024-12-12-gist-of-go-pipelines.md)
@@ -145,7 +145,7 @@
   - Tags: #read
 
 - (2024-12-08) [Writing down (and searching through) every UUID · eieio.games](2024-12-08-writing-down-%28and-searching-through%29-every-uuid-%C2%B7-eieio.games.md)
-  - 作者创建了everyuuid.com，通过自定义滚动和Feistel密码生成随机UUID，解决了浏览器渲染限制和UUID搜索问题，未来计划增加社交和加密分析功能。
+  - 作者创建了[everyuuid.com](https://everyuuid.com/)，通过自定义滚动和Feistel密码生成随机UUID，解决了浏览器渲染限制和UUID搜索问题，未来计划增加社交和加密分析功能。
   - Tags: #read #frontend
 
 - (2024-12-07) [避免在分布式系统中回退](2024-12-07-%E9%81%BF%E5%85%8D%E5%9C%A8%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%9B%9E%E9%80%80.md)
@@ -153,7 +153,7 @@
   - Tags: #read #distributed
 
 - (2024-12-07) [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights | Robert Heaton](2024-12-07-pyskywifi-completely-free%2C-unbelievably-stupid-wi-fi-on-long-haul-flights-robert-heaton.md)
-  - 作者在飞机上通过飞行里程账户发现了一个Wi-Fi登录页面的漏洞，进而开发了PySkyWiFi，利用该账户实现互联网访问。通过编写命令行工具和简化版的TCP/IP协议，作者在飞行中实现了即时消息传递、实时新闻获取等功能，并计划未来通过HTTP 请求进一步优化。
+  - 作者在飞机上通过飞行里程账户发现了一个Wi-Fi登录页面的漏洞，进而开发了PySkyWiFi，利用该账户实现互联网访问。通过编写命令行工具和简化版的TCP/IP协议，作者在飞行中实现了即时消息传递、实时新闻获取等功能，并计划未来通过HTTP `CONNECT`请求进一步优化。
   - Tags: #read #hack
 
 - (2024-12-06) [PyMyFlySpy: track your flight using its headrest data | Robert Heaton](2024-12-06-pymyflyspy-track-your-flight-using-its-headrest-data-robert-heaton.md)
@@ -173,7 +173,7 @@
   - Tags: #read
 
 - (2024-12-01) [Bash Strict Mode](2024-12-01-bash-strict-mode.md)
-  - Bash Strict Mode通过和设置，使脚本在遇到错误时立即失败，提高可靠性和可维护性。常见问题如未定义变量、非零退出状态等有相应解决方案，使用该模式可减少调试时间并避免生产环境中的意外问题。
+  - Bash Strict Mode通过`set -euo pipefail`和`IFS=$'\n\t'`设置，使脚本在遇到错误时立即失败，提高可靠性和可维护性。常见问题如未定义变量、非零退出状态等有相应解决方案，使用该模式可减少调试时间并避免生产环境中的意外问题。
   - Tags: #guide
 
 - (2024-12-01) [Learnings after 4 years working with +50 companies on data engineering projects](2024-12-01-learnings-after-4-years-working-with-%2B50-companies-on-data-engineering-projects.md)

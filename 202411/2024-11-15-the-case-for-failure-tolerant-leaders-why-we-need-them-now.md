@@ -1,7 +1,6 @@
 # The Case for Failure-Tolerant Leaders: Why we need them now
 - URL: https://praachi.work/blog/failure-tolerant-leaders
 - Added At: 2024-11-15 15:44:08
-- [Link To Text](2024-11-15-the-case-for-failure-tolerant-leaders-why-we-need-them-now_raw.md)
 
 ## TL;DR
 文章探讨了失败在创新和领导力中的重要性，指出大多数组织因害怕失败而抑制创新。容忍失败的领导者通过创建安全环境，视失败为成长机会，区分失败类型，并保持高标准，促进持续学习和改进。成功领导者通过参与而非评判，鼓励创新，并在经历失败中成长。结论强调了在追求更好过程中愿意失败的领导者的必要性，以及过于害怕尝试的文化带来的风险。

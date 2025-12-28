@@ -1,7 +1,6 @@
 # In Praise of “Normal” Engineers
 - URL: https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/
 - Added At: 2025-06-20 13:35:44
-- [Link To Text](2025-06-20-in-praise-of-“normal”-engineers_raw.md)
 
 ## TL;DR
 

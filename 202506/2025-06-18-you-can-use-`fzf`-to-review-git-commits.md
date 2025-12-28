@@ -1,7 +1,6 @@
 # You can use `fzf` to review git commits
 - URL: https://jvns.ca/til/fzf-preview-git-commits/
 - Added At: 2025-06-18 13:21:19
-- [Link To Text](2025-06-18-you-can-use-`fzf`-to-review-git-commits_raw.md)
 
 ## TL;DR
 

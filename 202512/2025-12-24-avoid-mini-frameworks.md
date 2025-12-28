@@ -2,7 +2,6 @@
 - URL: https://laike9m.com/blog/avoid-mini-frameworks,171/
 - Added At: 2025-12-24 13:59:10
 - Tags: #read #tips
-- [Link To Text](2025-12-24-avoid-mini-frameworks_raw.md)
 
 ## TL;DR
 文章批判“迷你框架”因其常引入不必要复杂性，导致维护困难与效率下降。建议优先采用库或慎重设计新框架，避免包装现有技术栈以减少兼容性问题。

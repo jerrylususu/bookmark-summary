@@ -1,7 +1,6 @@
 # Avoiding becoming the lone dependency peg with load-bearing anime
 - URL: https://xeiaso.net/blog/2025/avoiding-becoming-peg-dependency/
 - Added At: 2025-05-24 09:31:01
-- [Link To Text](2025-05-24-avoiding-becoming-the-lone-dependency-peg-with-load-bearing-anime_raw.md)
 
 ## TL;DR
 

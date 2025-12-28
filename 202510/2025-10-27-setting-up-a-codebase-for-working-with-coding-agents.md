@@ -1,7 +1,6 @@
 # Setting up a codebase for working with coding agents
 - URL: https://simonwillison.net/2025/Oct/25/coding-agent-tips/
 - Added At: 2025-10-27 14:10:31
-- [Link To Text](2025-10-27-setting-up-a-codebase-for-working-with-coding-agents_raw.md)
 
 ## TL;DR
 为提高AI编程效率，需要优化代码库设置，包括自动化测试、交互式测试、问题管理、轻量文档、代码质量工具和详细错误信息，这些措施同时提升项目的可维护性。

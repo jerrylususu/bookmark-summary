@@ -1,7 +1,6 @@
 # This is what it looks like to be colorblind
 - URL: https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle
 - Added At: 2025-03-16 07:38:03
-- [Link To Text](2025-03-16-this-is-what-it-looks-like-to-be-colorblind_raw.md)
 
 ## TL;DR
 色盲者常面临辨色困扰（如机票低价日期混淆、停车指示误读），全球约3.5亿人受影响，99%为红绿色盲。设计师过度依赖红绿对立色加剧问题，需采用文字、纹理等非颜色标识辅助。EnChroma眼镜等工具效果有限，近年部分产品（如Wordle色盲模式）改进，但需更深度包容设计，体现共情与多元需求。

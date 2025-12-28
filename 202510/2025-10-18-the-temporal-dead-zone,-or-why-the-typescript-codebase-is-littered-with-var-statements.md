@@ -1,7 +1,6 @@
 # The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements
 - URL: https://vincentrolfs.dev/blog/ts-var
 - Added At: 2025-10-18 15:30:26
-- [Link To Text](2025-10-18-the-temporal-dead-zone,-or-why-the-typescript-codebase-is-littered-with-var-statements_raw.md)
 
 ## TL;DR
 TypeScript代码库为优化约8%性能，选择使用存在缺陷的`var`语句替代`let`/`const`，以规避变量时空死区带来的运行时开销。尽管现代JavaScript推荐使用更安全的块级作用域声明，但出于性能权衡仍保留`var`。

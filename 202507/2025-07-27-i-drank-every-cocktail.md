@@ -1,7 +1,6 @@
 # I Drank Every Cocktail
 - URL: https://aaronson.org/blog/i-drank-every-cocktail
 - Added At: 2025-07-27 15:39:22
-- [Link To Text](2025-07-27-i-drank-every-cocktail_raw.md)
 
 ## TL;DR
 

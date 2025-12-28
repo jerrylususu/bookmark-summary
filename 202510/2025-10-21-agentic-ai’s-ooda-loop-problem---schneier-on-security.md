@@ -1,7 +1,6 @@
 # Agentic AI’s OODA Loop Problem - Schneier on Security
 - URL: https://www.schneier.com/blog/archives/2025/10/agentic-ais-ooda-loop-problem.html
 - Added At: 2025-10-21 13:53:08
-- [Link To Text](2025-10-21-agentic-ai’s-ooda-loop-problem---schneier-on-security_raw.md)
 
 ## TL;DR
 本文分析AI代理在对抗环境中的安全风险，指出OODA循环各阶段易受攻击，如数据投毒、提示注入等。根源在于模型无法保障语义完整性，且安全常为性能让步。需重新设计架构，将完整性内嵌。

@@ -2,7 +2,6 @@
 - URL: https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html
 - Added At: 2025-12-09 12:22:36
 - Tags: #read
-- [Link To Text](2025-12-09-prediction-ai-will-make-formal-verification-go-mainstream-—-martin-kleppmann’s-blog_raw.md)
 
 ## TL;DR
 AI将推动形式化验证从边缘技术走向主流。原本因高成本和难度仅见于研究，但AI能大幅降低验证成本，并因自动代码生成而产生验证需求。未来挑战在于定义规范和文化接受，但形式化验证有望成为软件开发标准。

@@ -1,7 +1,6 @@
 # Agentic Coding Things That Didn’t Work
 - URL: https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/
 - Added At: 2025-07-31 14:01:45
-- [Link To Text](2025-07-31-agentic-coding-things-that-didn’t-work_raw.md)
 
 ## TL;DR
 

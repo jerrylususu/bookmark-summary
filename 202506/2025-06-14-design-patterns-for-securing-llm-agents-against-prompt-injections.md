@@ -1,7 +1,6 @@
 # Design Patterns for Securing LLM Agents against Prompt Injections
 - URL: https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/
 - Added At: 2025-06-14 02:11:23
-- [Link To Text](2025-06-14-design-patterns-for-securing-llm-agents-against-prompt-injections_raw.md)
 
 ## TL;DR
 

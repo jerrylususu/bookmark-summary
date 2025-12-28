@@ -1,7 +1,6 @@
 # GenAI Image Showdown
 - URL: https://genai-showdown.specr.net/image-editing
 - Added At: 2025-10-27 14:21:21
-- [Link To Text](2025-10-27-genai-image-showdown_raw.md)
 
 ## TL;DR
 GenAI图像编辑对决测试了7款模型的文本指令编辑能力。在13项挑战中，Seedream 4以9项领先，表现最佳。模型普遍擅长风格合成和元素添加，但在空间调整、多元素协同编辑等精细任务上仍有不足。

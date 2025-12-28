@@ -1,7 +1,6 @@
 # Spec-driven development: Using Markdown as a programming language when building with AI
 - URL: https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/
 - Added At: 2025-10-02 13:53:53
-- [Link To Text](2025-10-02-spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai_raw.md)
 
 ## TL;DR
 本文提出一种基于Markdown的规格驱动开发模式，用Markdown编写应用需求与设计作为AI编程代理（如 Copilot）的输入，自动生成代码。这种方法提升文档代码一致性、支持跨语言移植，但在规模扩展和测试方面仍存挑战。

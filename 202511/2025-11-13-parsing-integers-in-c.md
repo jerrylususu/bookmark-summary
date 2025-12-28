@@ -2,7 +2,6 @@
 - URL: https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/
 - Added At: 2025-11-13 13:37:38
 - Tags: #read #c
-- [Link To Text](2025-11-13-parsing-integers-in-c_raw.md)
 
 ## TL;DR
 C语言标准库的整数解析函数如atoi和strtol存在错误处理不严、易溢出等问题。curl项目为增强安全性实现了自定义解析函数，严格处理溢出和输入格式，并已全面替换标准库函数。

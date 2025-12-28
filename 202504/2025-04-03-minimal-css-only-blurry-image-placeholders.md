@@ -1,7 +1,6 @@
 # Minimal CSS-only blurry image placeholders
 - URL: https://leanrada.com/notes/css-only-lqip/
 - Added At: 2025-04-03 13:21:49
-- [Link To Text](2025-04-03-minimal-css-only-blurry-image-placeholders_raw.md)
 
 ## TL;DR
 

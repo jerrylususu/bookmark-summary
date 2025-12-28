@@ -1,7 +1,6 @@
 # My LLM codegen workflow atm
 - URL: https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/
 - Added At: 2025-02-22 05:08:41
-- [Link To Text](2025-02-22-my-llm-codegen-workflow-atm_raw.md)
 
 ## TL;DR
 本文介绍了使用大语言模型进行代码生成的工作流程，包括头脑风暴、规划和执行，适用于Greenfield和非Greenfield开发。强调了提示词魔法和规划的重要性，同时提到当前LLM工作流主要为单人模式，期待多人协作的改进。

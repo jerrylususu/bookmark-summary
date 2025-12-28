@@ -1,7 +1,6 @@
 # Being Glue — No Idea Blog
 - URL: https://www.noidea.dog/glue
 - Added At: 2024-10-30 13:57:41
-- [Link To Text](2024-10-30-being-glue-—-no-idea-blog_raw.md)
 
 ## TL;DR
 文章讨论了软件工程师的非编码职责（胶水工作）的重要性，指出这些工作对团队成功至关重要，但常被忽视。强调公平分配胶水工作，避免职业发展受限，并建议通过职业对话和展示工作影响来应对晋升困境。

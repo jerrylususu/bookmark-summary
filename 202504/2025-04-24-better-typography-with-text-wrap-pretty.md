@@ -1,7 +1,6 @@
 # Better typography with text-wrap pretty
 - URL: https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/
 - Added At: 2025-04-24 13:35:55
-- [Link To Text](2025-04-24-better-typography-with-text-wrap-pretty_raw.md)
 
 ## TL;DR
 

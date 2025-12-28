@@ -1,7 +1,6 @@
 # Diskcache, more than caching
 - URL: https://www.bitecode.dev/p/diskcache-more-than-caching
 - Added At: 2025-10-19 13:40:42
-- [Link To Text](2025-10-19-diskcache,-more-than-caching_raw.md)
 
 ## TL;DR
 Diskcache是基于SQLite的Python键值存储库，支持缓存、事务、标签、队列、锁等高级功能，适用于多进程并发环境。具备函数缓存、防惊群机制和流量控制等工具，轻量高效，适合中小型应用开发。

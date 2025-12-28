@@ -1,7 +1,6 @@
 # to-userscript/docs/architecture.md at main · Explosion-Scratch/to-userscript
 - URL: https://github.com/Explosion-Scratch/to-userscript/blob/main/docs/article.md
 - Added At: 2025-06-29 11:27:22
-- [Link To Text](2025-06-29-to-userscript-docs-architecture.md-at-main-·-explosion-scratch-to-userscript_raw.md)
 
 ## TL;DR
 

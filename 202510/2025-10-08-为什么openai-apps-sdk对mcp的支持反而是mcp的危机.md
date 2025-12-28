@@ -1,7 +1,6 @@
 # 为什么OpenAI Apps SDK对MCP的支持反而是MCP的危机
 - URL: https://grapeot.me/mcp-revisited.html
 - Added At: 2025-10-08 11:33:13
-- [Link To Text](2025-10-08-为什么openai-apps-sdk对mcp的支持反而是mcp的危机_raw.md)
 
 ## TL;DR
 OpenAI的Apps SDK扩展了MCP，引入私有dialect以绕过context window限制，但导致协议分裂和生态绑定。MCP面临设计偏科研、缺乏工程考量的问题，可能走向类似SQL的厂商碎片化。未来或出现更高层抽象协议来统一变种，结果取决于技术演进和厂商博弈。

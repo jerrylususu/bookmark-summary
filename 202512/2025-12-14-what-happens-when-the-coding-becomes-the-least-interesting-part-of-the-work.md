@@ -2,7 +2,6 @@
 - URL: https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660
 - Added At: 2025-12-14 13:18:01
 - Tags: #read #llm
-- [Link To Text](2025-12-14-what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work_raw.md)
 
 ## TL;DR
 编程代理将改变软件开发，编码不再是核心挑战，重点转向资深工程师的思考能力：问题分析、决策与权衡。资深工程师借助AI提升效率，行业结构或将精简，初级工程师面临替代风险。未来一年，即使AI停滞，变革仍将加速。

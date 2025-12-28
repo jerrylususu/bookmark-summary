@@ -1,7 +1,6 @@
 # Python Practical Package Packing 2024
 - URL: https://matt.sh/python-project-structure-2024
 - Added At: 2024-07-23 14:10:07
-- [Link To Text](2024-07-23-python-practical-package-packing-2024_raw.md)
 
 ## TL;DR
 现代Python项目应使用`pyproject.toml`和Poetry管理依赖和环境，避免过时的工具如`requirements.txt`和`setup.py`，推荐使用Poetry进行依赖解析和虚拟环境管理，以及使用`@dataclass`和标准代码格式化工具提高代码质量。

@@ -1,7 +1,6 @@
 # Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger
 - URL: https://steipete.me/posts/just-talk-to-it
 - Added At: 2025-10-15 16:47:01
-- [Link To Text](2025-10-15-just-talk-to-it---the-no-bs-way-of-agentic-engineering-peter-steinberger_raw.md)
 
 ## TL;DR
 Peter Steinberger分享了基于GPT-5-codex的代理人工程实践经验，强调"直接对话"的高效工作流。他使用codex CLI并行处理任务，通过截图简化提示，自动管理代码提交与重构。主张避免过度工程化，认为Claude等工具效率低下，推荐通过自然对话协作，保持工作流简洁直观。

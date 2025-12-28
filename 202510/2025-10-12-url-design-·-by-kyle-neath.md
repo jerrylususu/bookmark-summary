@@ -1,7 +1,6 @@
 # URL Design · by Kyle Neath
 - URL: https://warpspire.com/posts/url-design
 - Added At: 2025-10-12 13:25:46
-- [Link To Text](2025-10-12-url-design-·-by-kyle-neath_raw.md)
 
 ## TL;DR
 URL设计对网站可用性至关重要，应精心规划而非随意生成。建议使用简洁可读的URL结构、稳定命名空间和查询字符串，并确保每个页面有唯一URL。发布后保持URL稳定，利用HTML5 API管理动态内容。关键在于平衡技术实现与用户体验。

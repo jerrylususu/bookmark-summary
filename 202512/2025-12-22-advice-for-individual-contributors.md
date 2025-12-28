@@ -2,7 +2,6 @@
 - URL: https://staysaasy.com/management/2025/12/20/ic-advice.html
 - Added At: 2025-12-22 15:11:48
 - Tags: #read #people
-- [Link To Text](2025-12-22-advice-for-individual-contributors_raw.md)
 
 ## TL;DR
 个人贡献者应通过利用自身优势、展现领导力、明确责任、定期汇报和主动与高层沟通，来实现突破性成果并提升工作影响力与职业发展。

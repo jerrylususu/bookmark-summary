@@ -1,7 +1,6 @@
 # Cover Flow with Modern CSS: Scroll-Driven Animations in Action
 - URL: https://addyosmani.com/blog/coverflow/
 - Added At: 2025-04-07 15:02:52
-- [Link To Text](2025-04-07-cover-flow-with-modern-css-scroll-driven-animations-in-action_raw.md)
 
 ## TL;DR
 

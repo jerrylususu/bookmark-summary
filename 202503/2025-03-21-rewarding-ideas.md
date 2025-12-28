@@ -1,7 +1,6 @@
 # Rewarding ideas
 - URL: https://dynomight.net/ideas/
 - Added At: 2025-03-21 13:45:15
-- [Link To Text](2025-03-21-rewarding-ideas_raw.md)
 
 ## TL;DR
 

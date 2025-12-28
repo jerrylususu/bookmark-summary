@@ -1,7 +1,6 @@
 # Smuggling arbitrary data through an emoji
 - URL: https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/
 - Added At: 2025-03-01 10:44:49
-- [Link To Text](2025-03-01-smuggling-arbitrary-data-through-an-emoji_raw.md)
 
 ## TL;DR
 文章探讨了在表情符号中编码任意数据的可能性，利用Unicode变体选择器实现隐藏信息，并提供了Rust代码示例。讨论了潜在滥用的风险及LLM对此类数据的处理能力。

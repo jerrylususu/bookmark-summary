@@ -1,7 +1,6 @@
 # The reality of long-term software maintenance from the maintainer's perspective
 - URL: https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892
 - Added At: 2025-03-01 13:23:15
-- [Link To Text](2025-03-01-the-reality-of-long-term-software-maintenance-from-the-maintainer's-perspective_raw.md)
 
 ## TL;DR
 本文通过作者维护大型软件项目的经验，揭示了长期维护的复杂性，强调初始代码仅占工作量的一小部分，后续维护才是主要挑战。文章通过建筑类比和实际案例，说明了外部贡献者提交的代码可能带来长期负担，呼吁对软件改进持更现实的态度。

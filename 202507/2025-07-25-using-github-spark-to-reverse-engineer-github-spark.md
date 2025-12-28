@@ -1,7 +1,6 @@
 # Using GitHub Spark to reverse engineer GitHub Spark
 - URL: https://simonwillison.net/2025/Jul/24/github-spark/
 - Added At: 2025-07-25 13:42:16
-- [Link To Text](2025-07-25-using-github-spark-to-reverse-engineer-github-spark_raw.md)
 
 ## TL;DR
 

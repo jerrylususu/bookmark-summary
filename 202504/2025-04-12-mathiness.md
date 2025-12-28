@@ -1,7 +1,6 @@
 # Mathiness
 - URL: https://www.votito.com/methods/mathiness/
 - Added At: 2025-04-12 12:38:32
-- [Link To Text](2025-04-12-mathiness_raw.md)
 
 ## TL;DR
 

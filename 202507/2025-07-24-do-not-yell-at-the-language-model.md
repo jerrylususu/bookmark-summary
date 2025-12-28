@@ -1,7 +1,6 @@
 # Do not yell at the language model
 - URL: https://www.seangoedecke.com/do-not-yell-at-the-language-model/
 - Added At: 2025-07-24 13:35:14
-- [Link To Text](2025-07-24-do-not-yell-at-the-language-model_raw.md)
 
 ## TL;DR
 

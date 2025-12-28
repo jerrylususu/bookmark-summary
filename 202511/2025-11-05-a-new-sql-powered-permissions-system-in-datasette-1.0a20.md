@@ -2,7 +2,6 @@
 - URL: https://simonwillison.net/2025/Nov/4/datasette-10a20/
 - Added At: 2025-11-05 13:20:00
 - Tags: #read #llm #tips
-- [Link To Text](2025-11-05-a-new-sql-powered-permissions-system-in-datasette-1.0a20_raw.md)
 
 ## TL;DR
 Datasette 1.0a20 重构了权限系统，将权限检查从逐条函数调用改为基于SQLite查询，提升效率。新系统支持层次化权限、插件扩展和资源批量过滤，并增加调试工具。版本变更较大，提供升级指南与AI辅助开发工具，目标在社区升级插件后发布1.0正式版。

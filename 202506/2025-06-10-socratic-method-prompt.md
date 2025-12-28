@@ -1,7 +1,6 @@
 # Socratic method prompt
 - URL: https://gist.github.com/Dowwie/5a66cd8df639e4c98043fc7f507dab9e
 - Added At: 2025-06-10 14:32:54
-- [Link To Text](2025-06-10-socratic-method-prompt_raw.md)
 
 ## TL;DR
 

@@ -2,7 +2,6 @@
 - URL: https://lethain.com/good-eng-mgmt-is-a-fad/
 - Added At: 2025-11-24 14:58:21
 - Tags: #read #career
-- [Link To Text](2025-11-24-good-engineering-management-is-a-fad_raw.md)
 
 ## TL;DR
 文章指出，工程管理的“良好管理”标准实为受商业现实驱动的暂时潮流，不同时期的需求会变化。作者建议培养八项核心与成长技能（如执行、清晰度、应对模糊性），并强调自我认知与职业规划，以灵活应对行业变化，避免固守过时理念。核心是适应力胜过盲目追随潮流。

@@ -2,7 +2,6 @@
 - URL: https://effect.kitlangton.com/
 - Added At: 2025-11-14 13:57:14
 - Tags: #guide
-- [Link To Text](2025-11-14-visual-effect---interactive-effect-playground_raw.md)
 
 ## TL;DR
 本文概述了 TypeScript 库 Effect 的主要功能模块，包括构造器、并发处理、错误管理、调度机制、引用和资源作用域，通过代码示例直观展示用法。

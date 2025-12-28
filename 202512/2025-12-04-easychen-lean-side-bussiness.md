@@ -2,7 +2,6 @@
 - URL: https://github.com/easychen/lean-side-bussiness
 - Added At: 2025-12-04 13:55:57
 - Tags: #books
-- [Link To Text](2025-12-04-easychen-lean-side-bussiness_raw.md)
 
 ## TL;DR
 《精益副业：程序员如何优雅地做副业》是easychen的开源项目，基于精益创业理念，为程序员提供系统化副业指导。内容包括副业价值、时间管理、知识变现和产品开发，通过案例解析独立开发与网课变现流程，社区反响活跃，适合技术从业者参考。

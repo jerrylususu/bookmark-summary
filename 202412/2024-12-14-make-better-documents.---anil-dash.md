@@ -1,7 +1,6 @@
 # Make better documents. - Anil Dash
 - URL: https://www.anildash.com//2024/03/10/make-better-documents/
 - Added At: 2024-12-14 13:29:09
-- [Link To Text](2024-12-14-make-better-documents.---anil-dash_raw.md)
 
 ## TL;DR
 文章讨论了文档制作中的常见问题，强调了了解受众和目标的重要性，建议从共情和视角出发，避免过度格式化，合理利用空白和项目符号，有目的地使用图像，掌握工具，注意信息顺序和排序，明确结论，提供导航，提出可回答的问题，重申使命和目标，并正确命名文档。

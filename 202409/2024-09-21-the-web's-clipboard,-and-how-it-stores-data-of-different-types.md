@@ -1,7 +1,6 @@
 # The web's clipboard, and how it stores data of different types
 - URL: undefined/blog/clipboard
 - Added At: 2024-09-21 13:18:14
-- [Link To Text](2024-09-21-the-web's-clipboard,-and-how-it-stores-data-of-different-types_raw.md)
 
 ## TL;DR
 文章描述了一个AssertionFailureError错误，状态码为42206，主要原因是导航超时和无效URL。建议检查URL正确性、增加超时时间及确保网络稳定。

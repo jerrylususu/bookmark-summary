@@ -1,7 +1,6 @@
 # Steam's 'Open in Desktop' Button
 - URL: https://parsiya.net/blog/steam-open-desktop/
 - Added At: 2025-04-11 16:27:34
-- [Link To Text](2025-04-11-steam's-'open-in-desktop'-button_raw.md)
 
 ## TL;DR
 

@@ -1,7 +1,6 @@
 # The 70% problem: Hard truths about AI-assisted coding
 - URL: https://addyo.substack.com/p/the-70-problem-hard-truths-about
 - Added At: 2025-01-04 05:07:47
-- [Link To Text](2025-01-04-the-70%-problem-hard-truths-about-ai-assisted-coding_raw.md)
 
 ## TL;DR
 AI辅助开发显著提升了生产力，但软件质量未显著改善。高级工程师通过AI加速已知任务和原型设计，而初级工程师则面临代码质量低和学习障碍的问题。AI工具的最佳用途是作为经验丰富开发者的原型加速器和学习辅助工具。未来，AI将具备更高的自主性和多模态能力，但创建高质量软件仍需人类的同理心和工程纪律。AI的真正价值在于加速迭代和实验，而非替代良好的软件实践。

@@ -1,7 +1,6 @@
 # Continuous AI in software engineering
 - URL: https://www.seangoedecke.com/continuous-ai/
 - Added At: 2025-07-02 13:53:23
-- [Link To Text](2025-07-02-continuous-ai-in-software-engineering_raw.md)
 
 ## TL;DR
 

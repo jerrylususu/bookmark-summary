@@ -1,7 +1,6 @@
 # Building a web search engine from scratch in two months with 3 billion neural embeddings
 - URL: https://blog.wilsonl.in/search-engine/
 - Added At: 2025-08-14 14:19:47
-- [Link To Text](2025-08-14-building-a-web-search-engine-from-scratch-in-two-months-with-3-billion-neural-embeddings_raw.md)
 
 ## TL;DR
 

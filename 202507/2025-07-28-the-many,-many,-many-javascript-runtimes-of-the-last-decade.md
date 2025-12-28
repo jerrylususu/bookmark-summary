@@ -1,7 +1,6 @@
 # The many, many, many JavaScript runtimes of the last decade
 - URL: https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/
 - Added At: 2025-07-28 14:09:59
-- [Link To Text](2025-07-28-the-many,-many,-many-javascript-runtimes-of-the-last-decade_raw.md)
 
 ## TL;DR
 

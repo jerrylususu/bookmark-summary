@@ -2,7 +2,6 @@
 - URL: https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/
 - Added At: 2025-11-15 09:40:22
 - Tags: #read #money
-- [Link To Text](2025-11-15-using-the-web-monetization-api-for-fun-and-profit_raw.md)
 
 ## TL;DR
 Web Monetization API 允许用户按浏览时长或一次性支付来资助内容创作者。用户需安装扩展并配置钱包，发布者通过在网页中添加标签接收款项。该功能支持动态内容调整，有潜力推动网络小额支付发展。

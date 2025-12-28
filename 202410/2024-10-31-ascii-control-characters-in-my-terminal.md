@@ -1,7 +1,6 @@
 # ASCII control characters in my terminal
 - URL: https://jvns.ca/blog/2024/10/31/ascii-control-characters/
 - Added At: 2024-10-31 14:37:32
-- [Link To Text](2024-10-31-ascii-control-characters-in-my-terminal_raw.md)
 
 ## TL;DR
 文章探讨了终端控制字符的用途、分类及其在不同操作系统中的处理方式，介绍了ASCII控制字符表和键盘快捷键冲突问题，并提供了识别和处理控制字符的工具和方法。作者认为这些内容虽有趣，但日常使用中了解基本控制字符功能即可。

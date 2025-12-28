@@ -2,7 +2,6 @@
 - URL: https://xeiaso.net/notes/2025/assisted-by-footer/
 - Added At: 2025-11-03 13:42:20
 - Tags: #read #llm
-- [Link To Text](2025-11-03-using-assisted-by-commit-footers-instead-of-banning-ai-tools_raw.md)
 
 ## TL;DR
 反对全面禁止AI投稿，建议要求贡献者用“Assisted-by”脚注公开使用的AI工具，便于审查与追踪，平衡创新与风险。

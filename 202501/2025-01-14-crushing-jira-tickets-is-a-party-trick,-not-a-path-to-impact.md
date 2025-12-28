@@ -1,7 +1,6 @@
 # Crushing JIRA tickets is a party trick, not a path to impact
 - URL: https://www.seangoedecke.com/party-tricks/
 - Added At: 2025-01-14 13:30:53
-- [Link To Text](2025-01-14-crushing-jira-tickets-is-a-party-trick,-not-a-path-to-impact_raw.md)
 
 ## TL;DR
 文章强调了工程师应关注对公司战略有重大影响的项目，而非仅仅完成JIRA票务。建议定期评估工作的重要性，果断放弃不再重要的任务，不依赖管理层的明确指示，并谨慎推动新想法。

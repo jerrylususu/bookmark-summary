@@ -1,7 +1,6 @@
 # How I Use Every Claude Code Feature
 - URL: https://blog.sshh.io/p/how-i-use-every-claude-code-feature
 - Added At: 2025-11-02 11:20:35
-- [Link To Text](2025-11-02-how-i-use-every-claude-code-feature_raw.md)
 
 ## TL;DR
 本文总结了Claude Code的高效使用方法，重点包括：通过CLAUDE.md文件维护项目规范，利用上下文管理保持会话连贯，避免过度依赖自定义命令与子代理。建议结合钩子机制优化工作流，使用SDK快速开发工具，并集成GitHub Actions实现自动化。强调以实际产出为导向，逐步完善AI辅助的工程流程。

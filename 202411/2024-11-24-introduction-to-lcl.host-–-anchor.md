@@ -1,7 +1,6 @@
 # Introduction to lcl.host – Anchor
 - URL: https://anchor.dev/docs/lcl-host/why-lcl
 - Added At: 2024-11-24 04:36:17
-- [Link To Text](2024-11-24-introduction-to-lcl.host-–-anchor_raw.md)
 
 ## TL;DR
 lcl.host是Anchor团队开发的本地HTTPS设置工具，通过私有CA技术确保开发与生产环境一致性，解决混合内容、CORS错误等问题。它支持HTTP/2、安全Cookies、OAuth回调等需求，提供自动证书配置和续订，简化开发流程。

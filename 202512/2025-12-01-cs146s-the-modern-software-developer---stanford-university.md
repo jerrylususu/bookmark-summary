@@ -2,7 +2,6 @@
 - URL: https://themodernsoftware.dev/
 - Added At: 2025-12-01 16:04:33
 - Tags: #read #guide
-- [Link To Text](2025-12-01-cs146s-the-modern-software-developer---stanford-university_raw.md)
 
 ## TL;DR
 斯坦福大学CS146S《现代软件开发者》课程（2025秋）教授如何利用AI工具与软件工程结合，提升开发效率。内容涵盖LLM应用、自动化测试、智能体编程等10周主题，强调实践项目与行业案例，适合有编程基础的学生参与。

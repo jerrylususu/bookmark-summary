@@ -1,7 +1,6 @@
 # The "think" tool: Enabling Claude to stop and think
 - URL: https://www.anthropic.com/engineering/claude-think-tool
 - Added At: 2025-03-22 12:26:25
-- [Link To Text](2025-03-22-the-think-tool-enabling-claude-to-stop-and-think_raw.md)
 
 ## TL;DR
 

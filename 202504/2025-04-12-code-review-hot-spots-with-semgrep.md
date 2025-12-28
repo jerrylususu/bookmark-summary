@@ -1,7 +1,6 @@
 # Code Review Hot Spots with Semgrep
 - URL: https://parsiya.net/blog/2022-04-07-code-review-hot-spots-with-semgrep/
 - Added At: 2025-04-12 12:55:14
-- [Link To Text](2025-04-12-code-review-hot-spots-with-semgrep_raw.md)
 
 ## TL;DR
 

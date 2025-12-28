@@ -1,7 +1,6 @@
 # Systems: What does a board of directors do? - Anil Dash
 - URL: https://www.anildash.com//2024/06/20/dash-board/
 - Added At: 2024-12-14 13:05:44
-- [Link To Text](2024-12-14-systems-what-does-a-board-of-directors-do---anil-dash_raw.md)
 
 ## TL;DR
 董事会负责确保组织高效运作，涵盖领导、资源、风险和愿景等方面。其运作包括定期会议、信息简报和战略讨论，成员需具备专业知识和积极参与。董事会类型多样，成员选拔应注重多样性和公平性，以提升透明度和有效性。

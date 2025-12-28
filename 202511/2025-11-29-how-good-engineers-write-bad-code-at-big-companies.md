@@ -2,7 +2,6 @@
 - URL: https://www.seangoedecke.com/bad-code-at-big-companies/
 - Added At: 2025-11-29 05:14:58
 - Tags: #read #career #people
-- [Link To Text](2025-11-29-how-good-engineers-write-bad-code-at-big-companies_raw.md)
 
 ## TL;DR
 大公司代码质量差主要源于组织结构问题：高人员流动率、忽略专业积累、资深工程师负担过重及工作压力，公司为了组织灵活性牺牲代码质量。个人难以改变，需积极适应和积累专长。

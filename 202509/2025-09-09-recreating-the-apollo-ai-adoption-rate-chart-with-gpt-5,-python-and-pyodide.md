@@ -1,7 +1,6 @@
 # Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide
 - URL: https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/
 - Added At: 2025-09-09 13:34:38
-- [Link To Text](2025-09-09-recreating-the-apollo-ai-adoption-rate-chart-with-gpt-5,-python-and-pyodide_raw.md)
 
 ## TL;DR
 作者利用GPT-5和Pyodide成功复现阿波罗全球管理公司的AI采用率图表。通过搜索数据源、Python处理和移动平均调整实现精确重现，验证了GPT-5与浏览器端Python数据可视化的能力。

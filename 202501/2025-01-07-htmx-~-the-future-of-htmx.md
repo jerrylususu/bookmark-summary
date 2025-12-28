@@ -1,7 +1,6 @@
 # htmx ~ The future of htmx
 - URL: https://htmx.org/essays/future/
 - Added At: 2025-01-07 14:02:28
-- [Link To Text](2025-01-07-htmx-~-the-future-of-htmx_raw.md)
 
 ## TL;DR
 htmx起源于intercooler.js，旨在模仿jQuery的易用性和稳定性，成为构建长期在线网站的有用工具。htmx团队强调API稳定性，避免频繁更新，并通过扩展API和改进工具来增强功能。未来，htmx计划通过标准化和推广超媒体理念，进一步融入Web平台。

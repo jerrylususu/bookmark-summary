@@ -1,7 +1,6 @@
 # The lethal trifecta for AI agents: private data, untrusted content, and external communication
 - URL: https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
 - Added At: 2025-06-16 13:26:24
-- [Link To Text](2025-06-16-the-lethal-trifecta-for-ai-agents-private-data,-untrusted-content,-and-external-communication_raw.md)
 
 ## TL;DR
 

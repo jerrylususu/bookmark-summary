@@ -1,7 +1,6 @@
 # Claude Skills are awesome, maybe a bigger deal than MCP
 - URL: https://simonwillison.net/2025/Oct/16/claude-skills/
 - Added At: 2025-10-17 13:14:46
-- [Link To Text](2025-10-17-claude-skills-are-awesome,-maybe-a-bigger-deal-than-mcp_raw.md)
 
 ## TL;DR
 Claude Skills是Anthropic推出的轻量化AI技能框架，通过Markdown文件和脚本即可扩展模型的专业任务能力。相比复杂协议MCP，它具有简单高效、跨模型通用的优势，未来或引发技能生态爆发式增长。设计核心在于利用模型自主推理能力，降低开发门槛。

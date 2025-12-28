@@ -1,7 +1,6 @@
 # Simple macOS script to extract text from images (OCR)
 - URL: https://evanhahn.com/mac-ocr-script/
 - Added At: 2025-07-15 14:11:50
-- [Link To Text](2025-07-15-simple-macos-script-to-extract-text-from-images-(ocr)_raw.md)
 
 ## TL;DR
 

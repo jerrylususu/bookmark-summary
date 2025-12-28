@@ -1,7 +1,6 @@
 # Seafaring for Women in Software Engineering - Part I - Performance & Promotion
 - URL: https://beabytes.com/seafaring-part-i/
 - Added At: 2024-09-06 15:08:46
-- [Link To Text](2024-09-06-seafaring-for-women-in-software-engineering---part-i---performance-&-promotion_raw.md)
 
 ## TL;DR
 文章通过职业晋升案例和职场管理误区，强调了主动争取晋升和加薪的重要性。针对女性在科技行业的现状，提供了绩效追踪、主动沟通和自我倡导的策略。总结指出，个人应视职业为船，自己是船长，通过积累经验，更好地掌控职业方向。

@@ -2,7 +2,6 @@
 - URL: https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/
 - Added At: 2025-11-06 14:08:44
 - Tags: #read #frontend
-- [Link To Text](2025-11-06-making-xml-human-readable-without-xslt_raw.md)
 
 ## TL;DR
 本文指出XSLT在现代浏览器中已趋于淘汰，建议优先使用服务器端将XML转换为HTML。若需客户端处理，可用JavaScript动态生成HTML，或通过CSS简单样式化XML，但功能有限。

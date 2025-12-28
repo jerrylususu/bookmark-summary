@@ -1,7 +1,6 @@
 # 怎么让AI不偷懒：为Codex构建系统性的Wide Research能力
 - URL: https://grapeot.me/wide-research.html
 - Added At: 2025-10-18 14:03:02
-- [Link To Text](2025-10-18-怎么让ai不偷懒：为codex构建系统性的wide-research能力_raw.md)
 
 ## TL;DR
 本文通过分析AI处理长任务时“偷懒”的架构性问题，提出分治策略：将大规模任务分解为子问题由轻量级AI处理，再汇总润色。作者以Codex为例实现自动化工答流程，展示了改进AI系统设计和工作流对提升执行效率的关键作用。

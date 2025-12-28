@@ -1,7 +1,6 @@
 # My Approach to Building Large Technical Projects
 - URL: https://mitchellh.com/writing/building-large-technical-projects
 - Added At: 2024-12-29 08:36:48
-- [Link To Text](2024-12-29-my-approach-to-building-large-technical-projects_raw.md)
 
 ## TL;DR
 文章总结了启动和推进大型技术项目的策略，强调将大任务分解为小任务以保持动力，通过早期成果和自动化测试验证进展，并尽快达到演示阶段。作者建议在个人项目中优先构建所需功能，并尽早使用自己的软件，以发现和解决问题。整个过程注重实际成果和持续迭代，以保持动力和推进项目进展。

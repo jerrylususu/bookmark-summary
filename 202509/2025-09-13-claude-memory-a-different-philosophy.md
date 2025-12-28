@@ -1,7 +1,6 @@
 # Claude Memory: A Different Philosophy
 - URL: https://shloked.com/writing/claude-memory
 - Added At: 2025-09-13 09:23:20
-- [Link To Text](2025-09-13-claude-memory-a-different-philosophy_raw.md)
 
 ## TL;DR
 文章对比了ChatGPT和Claude在记忆系统设计上的差异：ChatGPT自动加载记忆以降低使用门槛，而Claude需用户手动调用并更注重隐私和控制。两种设计基于不同用户群体和产品定位，目前AI记忆机制仍在快速迭代中。

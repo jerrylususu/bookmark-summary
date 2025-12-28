@@ -1,7 +1,6 @@
 # How ChatGPT Remembers You: A Deep Dive into Its Memory and Chat History Features ·  Embrace The Red
 - URL: https://embracethered.com/blog/posts/2025/chatgpt-how-does-chat-history-memory-preferences-work/
 - Added At: 2025-05-22 13:46:04
-- [Link To Text](2025-05-22-how-chatgpt-remembers-you-a-deep-dive-into-its-memory-and-chat-history-features-·-embrace-the-red_raw.md)
 
 ## TL;DR
 

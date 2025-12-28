@@ -1,7 +1,6 @@
 # Next-level frosted glass with backdrop-filter • Josh W. Comeau
 - URL: https://www.joshwcomeau.com/css/backdrop-filter/
 - Added At: 2025-02-16 07:09:05
-- [Link To Text](2025-02-16-next-level-frosted-glass-with-backdrop-filter-•-josh-w.-comeau_raw.md)
 
 ## TL;DR
 Josh W. Comeau分享如何使用`backdrop-filter: blur()`创建逼真的磨砂玻璃效果，详解优化步骤、浏览器兼容性及3D边缘效果，并提供完整代码。

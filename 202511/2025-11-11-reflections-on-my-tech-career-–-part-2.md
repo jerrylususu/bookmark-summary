@@ -2,7 +2,6 @@
 - URL: https://randomascii.wordpress.com/2025/11/10/reflections-on-my-tech-career-part-2/
 - Added At: 2025-11-11 13:59:45
 - Tags: #read #people #deepdive
-- [Link To Text](2025-11-11-reflections-on-my-tech-career-–-part-2_raw.md)
 
 ## TL;DR
 作者回顾了在多家科技公司的职业生涯，强调技术贡献与职业选择。他参与多款游戏开发与优化，通过自学解决难题，但反思因忠诚或管理问题停留过久。建议持续学习、平衡生活，并利用跳槽提升薪酬。最终因个人原因退休，专注爱好。

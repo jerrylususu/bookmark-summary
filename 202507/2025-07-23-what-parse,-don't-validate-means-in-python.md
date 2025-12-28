@@ -1,7 +1,6 @@
 # What "Parse, don't validate" means in Python?
 - URL: https://www.bitecode.dev/p/what-parse-dont-validate-means-in
 - Added At: 2025-07-23 13:35:18
-- [Link To Text](2025-07-23-what-parse,-don't-validate-means-in-python_raw.md)
 
 ## TL;DR
 

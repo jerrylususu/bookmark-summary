@@ -2,7 +2,6 @@
 - URL: https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/
 - Added At: 2025-11-18 15:08:44
 - Tags: #read #llm
-- [Link To Text](2025-11-18-the-fate-of-“small”-open-source_raw.md)
 
 ## TL;DR
 文章讨论了AI代码生成工具对小而精的开源库的冲击。作者认为，虽然AI提高了效率，却削弱了代码的教育意义，并可能带来依赖转移问题。未来开源应聚焦于AI难以替代的复杂创新领域，以此保持人类创造力的独特价值。

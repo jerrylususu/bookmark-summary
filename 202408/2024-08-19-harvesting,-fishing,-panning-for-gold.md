@@ -1,7 +1,6 @@
 # Harvesting, Fishing, Panning for Gold
 - URL: https://staysaasy.com/strategy/2024/08/18/harvesting-fishing-panning-for-gold.html
 - Added At: 2024-08-19 14:11:20
-- [Link To Text](2024-08-19-harvesting,-fishing,-panning-for-gold_raw.md)
 
 ## TL;DR
 文章讨论了创业中解决难题的三种策略：采草莓（依赖毅力解决常规问题）、钓鱼（需技能和运气的探索性问题）和淘金（高风险高回报的创新尝试）。强调了根据问题特性选择正确策略的重要性，并提出了相应的战略考虑。

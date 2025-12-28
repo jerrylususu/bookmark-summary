@@ -2,7 +2,6 @@
 - URL: https://alex-jacobs.com/posts/the-case-against-pgvector/
 - Added At: 2025-11-04 14:31:20
 - Tags: #read #db #deepdive
-- [Link To Text](2025-11-04-the-case-against-pgvector-alex-jacobs_raw.md)
 
 ## TL;DR
 文章总结了pgvector在生产环境中的核心问题：索引选择困难（IVFFlat需重建、HNSW消耗大）、实时搜索性能差、查询优化复杂、功能缺失（如混合搜索需自行实现）。作者认为尽管pgvector适合少数有专家团队的场景，但多数情况下专用向量数据库更简单经济。

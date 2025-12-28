@@ -1,7 +1,6 @@
 # @celine/celine
 - URL: https://maxbo.me/celine/
 - Added At: 2024-11-24 07:30:53
-- [Link To Text](2024-11-24-@celine-celine_raw.md)
 
 ## TL;DR
 @celine/celine 是一个用于构建 HTML 笔记本的库，支持 `display: block` 和 `contenteditable` 属性，旨在简化研究成果的 HTML 发布。它封装了 Observable Notebook 运行时，提供反应性单元格和丰富的 API 接口，支持多种字体和样式，并兼容多个第三方库。

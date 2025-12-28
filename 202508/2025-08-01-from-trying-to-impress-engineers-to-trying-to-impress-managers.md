@@ -1,7 +1,6 @@
 # From trying to impress engineers to trying to impress managers
 - URL: https://www.seangoedecke.com/impressing-people/
 - Added At: 2025-08-01 13:03:55
-- [Link To Text](2025-08-01-from-trying-to-impress-engineers-to-trying-to-impress-managers_raw.md)
 
 ## TL;DR
 

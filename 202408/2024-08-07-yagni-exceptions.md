@@ -1,7 +1,6 @@
 # YAGNI exceptions
 - URL: https://lukeplant.me.uk/blog/posts/yagni-exceptions/
 - Added At: 2024-08-07 14:51:26
-- [Link To Text](2024-08-07-yagni-exceptions_raw.md)
 
 ## TL;DR
 文章讨论了YAGNI原则的例外情况，包括Zero One Many规则、版本控制、日志记录、时间戳、数据收集和关系数据库的使用，强调在软件开发中应提前考虑这些事项以应对未来需求。

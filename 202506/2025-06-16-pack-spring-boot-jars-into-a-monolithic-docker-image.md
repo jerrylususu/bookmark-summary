@@ -1,7 +1,6 @@
 # Pack Spring Boot JARs into a monolithic Docker image
 - URL: https://miao1007.github.io/f90ce500-08b5-11f0-b358-6fc945929be4/
 - Added At: 2025-06-16 13:56:48
-- [Link To Text](2025-06-16-pack-spring-boot-jars-into-a-monolithic-docker-image_raw.md)
 
 ## TL;DR
 

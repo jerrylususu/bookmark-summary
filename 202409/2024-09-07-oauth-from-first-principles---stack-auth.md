@@ -1,7 +1,6 @@
 # OAuth from First Principles - Stack Auth
 - URL: https://stack-auth.com/blog/oauth-from-first-principles
 - Added At: 2024-09-07 10:44:45
-- [Link To Text](2024-09-07-oauth-from-first-principles---stack-auth_raw.md)
 
 ## TL;DR
 文章通过分析一个有缺陷的OAuth实现，详细解释了OAuth的工作原理及其安全改进措施，包括访问令牌、授权码流程、PKCE等，最终建议不要自行实现OAuth客户端，推荐阅读相关RFC文档。

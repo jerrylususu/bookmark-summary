@@ -1,7 +1,6 @@
 # The Joel Test: 12 Steps to Better Code
 - URL: https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 - Added At: 2024-09-15 12:07:05
-- [Link To Text](2024-09-15-the-joel-test-12-steps-to-better-code_raw.md)
 
 ## TL;DR
 Joel测试通过12个问题评估软件团队质量，涵盖源代码控制、一键构建、每日构建等关键实践，评分标准为12分完美，11分可接受，10分或更低问题严重。实践包括使用源代码控制、一键构建、每日构建等，以提高代码质量和团队效率。

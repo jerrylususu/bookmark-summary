@@ -2,7 +2,6 @@
 - URL: https://interconnected.org/home/2025/11/28/plumbing
 - Added At: 2025-11-30 12:16:15
 - Tags: #read #llm
-- [Link To Text](2025-11-30-context-plumbing_raw.md)
 
 ## TL;DR
 作者强调AI系统的核心在于意图识别和动态上下文管理。意图识别需抢占用户需求瞬间，上下文需通过实时管道传递以避免延迟。基于Cloudflare的成功实践验证了该架构的有效性。

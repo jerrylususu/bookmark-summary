@@ -1,7 +1,6 @@
 # My First Open Source AI Generated Library
 - URL: https://simonwillison.net/2025/Jun/21/my-first-open-source-ai-generated-library/
 - Added At: 2025-06-22 13:59:44
-- [Link To Text](2025-06-22-my-first-open-source-ai-generated-library_raw.md)
 
 ## TL;DR
 

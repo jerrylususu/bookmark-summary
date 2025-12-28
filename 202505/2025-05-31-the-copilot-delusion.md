@@ -1,7 +1,6 @@
 # The Copilot Delusion
 - URL: https://deplet.ing/the-copilot-delusion/
 - Added At: 2025-05-31 10:13:59
-- [Link To Text](2025-05-31-the-copilot-delusion_raw.md)
 
 ## TL;DR
 

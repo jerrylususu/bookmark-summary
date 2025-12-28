@@ -1,7 +1,6 @@
 # Anyway, the wind blows
 - URL: https://shkspr.mobi/blog/2024/11/anyway-the-wind-blows/
 - Added At: 2024-11-11 15:06:00
-- [Link To Text](2024-11-11-anyway,-the-wind-blows_raw.md)
 
 ## TL;DR
 泰晤士河口天气站因固件错误引发连锁反应，导致泰晤士河屏障误启动、船舶事故、亚马逊仓库故障、全球股市暴跌及核潜艇误射核弹，最终引发全球性灾难。

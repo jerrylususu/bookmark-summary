@@ -1,7 +1,6 @@
 # Writing Code Is Easy. Reading It Isn’t.
 - URL: https://idiallo.com/blog/writing-code-is-easy-reading-is-hard
 - Added At: 2025-10-01 15:03:43
-- [Link To Text](2025-10-01-writing-code-is-easy.-reading-it-isn’t._raw.md)
 
 ## TL;DR
 软件开发的核心瓶颈是理解代码，而非编写代码。生成式AI虽能加快代码产出，却增加了理解负担。未来工具应更注重帮助开发者构建心理模型，以提升整体效率。

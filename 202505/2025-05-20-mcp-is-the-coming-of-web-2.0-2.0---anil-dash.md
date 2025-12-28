@@ -1,7 +1,6 @@
 # MCP is the coming of Web 2.0 2.0 - Anil Dash
 - URL: https://www.anildash.com//2025/05/20/mcp-web20-20/
 - Added At: 2025-05-20 14:25:45
-- [Link To Text](2025-05-20-mcp-is-the-coming-of-web-2.0-2.0---anil-dash_raw.md)
 
 ## TL;DR
 

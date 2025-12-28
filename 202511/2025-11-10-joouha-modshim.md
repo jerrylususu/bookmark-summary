@@ -2,7 +2,6 @@
 - URL: https://github.com/joouha/modshim
 - Added At: 2025-11-10 13:42:20
 - Tags: #py #tools
-- [Link To Text](2025-11-10-joouha-modshim_raw.md)
 
 ## TL;DR
 Modshim 是为Python模块提供轻量级增强的框架，无需修改原始代码。通过创建隔离的合并模块，它能修复bug、添加功能，相比猴子补丁或代码分叉更安全和易维护。

@@ -1,7 +1,6 @@
 # The Cursed Art of Streaming HTML – rinici.de
 - URL: https://rinici.de/posts/streaming-html
 - Added At: 2025-03-08 10:50:18
-- [Link To Text](2025-03-08-the-cursed-art-of-streaming-html-–-rinici.de_raw.md)
 
 ## TL;DR
 文章介绍一种无需JavaScript或WebSockets的流式传输HTML技术，通过浏览器保持连接特性逐段推送内容实现实时更新。其核心技术包括框架流式接口（如Node.js的res.write）、iframe隔离聊天内容追加新消息，解决响应流未关闭及表单刷新问题。兼容旧版浏览器，支持分块加载但需注意XSS防护，附代码示例。

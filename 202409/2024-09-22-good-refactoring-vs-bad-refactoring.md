@@ -1,7 +1,6 @@
 # Good Refactoring vs Bad Refactoring
 - URL: https://www.builder.io/blog/good-vs-bad-refactoring
 - Added At: 2024-09-22 09:58:47
-- [Link To Text](2024-09-22-good-refactoring-vs-bad-refactoring_raw.md)
 
 ## TL;DR
 文章讨论了重构代码的常见错误，如大幅度改变编码风格、不必要的抽象、增加不一致性等，强调了理解代码和业务背景的重要性，以避免引入不必要的复杂性和不一致性。

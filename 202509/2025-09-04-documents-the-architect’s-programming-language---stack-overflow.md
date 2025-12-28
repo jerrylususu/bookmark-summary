@@ -1,7 +1,6 @@
 # Documents: The architect’s programming language - Stack Overflow
 - URL: https://stackoverflow.blog/2025/08/20/documents-the-architect-s-programming-language/
 - Added At: 2025-09-04 13:07:42
-- [Link To Text](2025-09-04-documents-the-architect’s-programming-language---stack-overflow_raw.md)
 
 ## TL;DR
 

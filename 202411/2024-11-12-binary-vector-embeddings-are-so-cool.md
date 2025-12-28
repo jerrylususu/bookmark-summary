@@ -1,7 +1,6 @@
 # Binary vector embeddings are so cool
 - URL: https://emschwartz.me/binary-vector-embeddings-are-so-cool/
 - Added At: 2024-11-12 14:01:24
-- [Link To Text](2024-11-12-binary-vector-embeddings-are-so-cool_raw.md)
 
 ## TL;DR
 二进制向量嵌入通过量化技术实现了32倍压缩和25倍检索速度提升，同时保持95%以上检索准确率。该技术类似于JPEG压缩，能在大幅减小尺寸的同时保持高信息保留率，适用于个性化内容流等应用。

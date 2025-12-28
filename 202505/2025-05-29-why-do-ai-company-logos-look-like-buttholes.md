@@ -1,7 +1,6 @@
 # Why do AI company logos look like buttholes?
 - URL: https://velvetshark.com/ai-company-logos-that-look-like-buttholes
 - Added At: 2025-05-29 14:00:27
-- [Link To Text](2025-05-29-why-do-ai-company-logos-look-like-buttholes_raw.md)
 
 ## TL;DR
 

@@ -2,7 +2,6 @@
 - URL: https://grapeot.me/nano-banana-pro.html
 - Added At: 2025-12-09 12:20:05
 - Tags: #read #llm #guide
-- [Link To Text](2025-12-09-使用nano-banana-pro生成整套ppt：疯狂，挑战和工作流_raw.md)
 
 ## TL;DR
 本文介绍了使用Nano Banana Pro生成PPT的工作流，从传统拼凑转向整体渲染，解决了风格不一致、内容不可靠等问题。通过工程化方法构建可复用的生成引擎，交付生成能力而非静态成品，实现高效、统一的幻灯片制作。

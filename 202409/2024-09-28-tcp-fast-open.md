@@ -1,7 +1,6 @@
 # TCP Fast Open
 - URL: https://dbwu.tech/posts/network/what-is-tcp-fast-open/
 - Added At: 2024-09-28 11:47:36
-- [Link To Text](2024-09-28-tcp-fast-open_raw.md)
 
 ## TL;DR
 文章介绍了TCP Fast Open (TFO) 技术，通过在TCP三次握手过程中允许发送数据，减少首次数据发送的延迟。TFO在首次连接时生成并保存TFO Cookie，后续连接中携带该Cookie和数据，实现快速握手。文章还讨论了TFO的优点和局限性，并通过Linux环境下的实验展示了TFO的实现和效果。

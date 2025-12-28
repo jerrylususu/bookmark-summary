@@ -2,7 +2,6 @@
 - URL: https://dynomight.net/worse/
 - Added At: 2025-11-21 15:53:38
 - Tags: #read
-- [Link To Text](2025-11-21-make-product-worse,-get-money_raw.md)
 
 ## TL;DR
 文章探讨产品服务质量差的原因，指出商家虽有动机降低质量，但问题在于竞争缺失或消费者需求偏好。核心因素包括：消费者追求低价、信息不对称、品味差异和市场垄断，这些因素共同导致劣质服务持续存在。

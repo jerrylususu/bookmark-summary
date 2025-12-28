@@ -1,7 +1,6 @@
 # JSX Over The Wire — overreacted
 - URL: https://overreacted.io/jsx-over-the-wire/#the-data-always-flows-down
 - Added At: 2025-04-16 14:48:52
-- [Link To Text](2025-04-16-jsx-over-the-wire-—-overreacted_raw.md)
 
 ## TL;DR
 

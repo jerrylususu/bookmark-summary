@@ -2,7 +2,6 @@
 - URL: https://anildash.com/2025/12/05/talk-about-us-without-us/
 - Added At: 2025-12-06 09:39:36
 - Tags: #read #people
-- [Link To Text](2025-12-06-they-have-to-be-able-to-talk-about-us-without-us---anil-dash_raw.md)
 
 ## TL;DR
 文章指出有效沟通的核心是让信息简洁、有感染力，便于听众自主传播。关键原则包括立足价值观、清晰叙事、保持一致性、允许个性化表达，并强调通过情感共鸣和协作扩大影响力。

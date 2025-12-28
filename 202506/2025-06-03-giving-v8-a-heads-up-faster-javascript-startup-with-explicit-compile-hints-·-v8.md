@@ -1,7 +1,6 @@
 # Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints · V8
 - URL: https://v8.dev/blog/explicit-compile-hints
 - Added At: 2025-06-03 14:38:44
-- [Link To Text](2025-06-03-giving-v8-a-heads-up-faster-javascript-startup-with-explicit-compile-hints-·-v8_raw.md)
 
 ## TL;DR
 

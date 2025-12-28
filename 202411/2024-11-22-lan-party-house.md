@@ -1,7 +1,6 @@
 # LAN Party House
 - URL: https://lanparty.house/
 - Added At: 2024-11-22 13:51:41
-- [Link To Text](2024-11-22-lan-party-house_raw.md)
 
 ## TL;DR
 文章详细描述了一座专为游戏设计的房屋，包括地下游戏室、楼上办公室、引擎室等设施，配备了先进的游戏设备和网络配置。房屋还设有客厅、猫道、儿童卧室等生活区域，以及专为LAN派对设计的游戏环境。设计团队由Kenton Varda和Jade Wang领导，房屋总成本为七位数，2023年完工。

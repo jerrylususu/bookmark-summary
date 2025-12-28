@@ -1,7 +1,6 @@
 # Is the LLM response wrong, or have you just failed to iterate it?
 - URL: https://mikecaulfield.substack.com/p/is-the-llm-response-wrong-or-have
 - Added At: 2025-09-08 14:27:56
-- [Link To Text](2025-09-08-is-the-llm-response-wrong,-or-have-you-just-failed-to-iterate-it_raw.md)
 
 ## TL;DR
 文章讨论了一张二战飞行员照片的误判案例，说明LLM的初步回应常因信息混杂而错误，但通过迭代查询（如排序提示）可以提升准确率。建议用户主动推动多轮查询来验证事实，而非直接接受初始答案。

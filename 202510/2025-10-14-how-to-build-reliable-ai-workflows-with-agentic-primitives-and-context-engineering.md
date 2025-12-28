@@ -1,7 +1,6 @@
 # How to build reliable AI workflows with agentic primitives and context engineering
 - URL: https://github.blog/ai-and-ml/github-copilot/how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering/
 - Added At: 2025-10-14 14:21:53
-- [Link To Text](2025-10-14-how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering_raw.md)
 
 ## TL;DR
 本文提出构建可靠AI工作流的三层框架：Markdown提示工程、代理原语系统化与上下文工程管理，结合工具链和包管理支持，旨在实现AI开发从实验到可重复工程实践的转变，提升可预测性与可扩展性。

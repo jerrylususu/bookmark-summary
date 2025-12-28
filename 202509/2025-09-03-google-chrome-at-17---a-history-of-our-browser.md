@@ -1,7 +1,6 @@
 # Google Chrome at 17 - A history of our browser
 - URL: https://addyosmani.com/blog/chrome-17th/
 - Added At: 2025-09-03 15:06:43
-- [Link To Text](2025-09-03-google-chrome-at-17---a-history-of-our-browser_raw.md)
 
 ## TL;DR
 

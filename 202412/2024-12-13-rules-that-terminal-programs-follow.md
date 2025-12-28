@@ -1,7 +1,6 @@
 # "Rules" that terminal programs follow
 - URL: https://jvns.ca/blog/2024/11/26/terminal-rules/
 - Added At: 2024-12-13 16:42:15
-- [Link To Text](2024-12-13-rules-that-terminal-programs-follow_raw.md)
 
 ## TL;DR
 文章讨论了终端程序的职责划分和常见行为规则，包括响应`Ctrl-C`、`q`、`Ctrl-D`等操作，使用16种颜色，支持readline键绑定等。这些规则描述了程序的常见行为，但并非强制标准，用户需逐步学习并识别例外。

@@ -1,7 +1,6 @@
 # Why pipes sometimes get "stuck": buffering
 - URL: https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/
 - Added At: 2024-11-30 04:45:36
-- [Link To Text](2024-11-30-why-pipes-sometimes-get-stuck-buffering_raw.md)
 
 ## TL;DR
 文章讨论了终端命令管道输出卡住的问题，主要原因是程序的缓冲机制。通过分析缓冲行为和编程语言中的缓冲控制，提出了多种解决方案，如使用`grep --line-buffered`、`stdbuf -o0`等，并建议引入标准环境变量来禁用缓冲。

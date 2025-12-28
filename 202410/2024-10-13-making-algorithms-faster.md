@@ -1,7 +1,6 @@
 # Making algorithms faster
 - URL: https://learnmoderncpp.com/2024/10/12/making-algorithms-faster/
 - Added At: 2024-10-13 11:10:50
-- [Link To Text](2024-10-13-making-algorithms-faster_raw.md)
 
 ## TL;DR
 文章探讨了通过优化和并行化算法来提升计算勾股数的效率。初始实现使用三重嵌套循环，优化后减少了内层循环范围，速度提升2.81倍。进一步并行化使用`std::for_each()`和执行策略，最终并行无序执行速度提升18.47倍。结论是并行化效果显著，优化也值得进行。

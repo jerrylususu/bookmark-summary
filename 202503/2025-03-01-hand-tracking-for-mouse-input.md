@@ -1,7 +1,6 @@
 # Hand Tracking for Mouse Input
 - URL: https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html
 - Added At: 2025-03-01 10:10:38
-- [Link To Text](2025-03-01-hand-tracking-for-mouse-input_raw.md)
 
 ## TL;DR
 本文作者尝试使用手势控制鼠标输入，通过MediaPipe检测手部位置，Python模拟鼠标操作，解决了延迟、抖动等问题，最终实现了类似Apple Vision Pro的手势控制鼠标功能，代码开源。

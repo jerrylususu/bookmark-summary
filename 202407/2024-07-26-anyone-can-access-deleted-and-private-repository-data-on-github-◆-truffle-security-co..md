@@ -1,7 +1,6 @@
 # Anyone can Access Deleted and Private Repository Data on GitHub ◆ Truffle Security Co.
 - URL: https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github
 - Added At: 2024-07-26 15:06:54
-- [Link To Text](2024-07-26-anyone-can-access-deleted-and-private-repository-data-on-github-◆-truffle-security-co._raw.md)
 
 ## TL;DR
 GitHub允许访问已删除和私有仓库的数据，这些数据永久可用。通过跨分支对象引用（CFOR）漏洞，用户可以访问不应见的提交数据。常见工作流程中，分叉和删除仓库后，提交的代码仍可访问，导致API密钥等敏感信息泄露。GitHub已知此设计并文档化，用户应预期上述情况发生。

@@ -2,7 +2,6 @@
 - URL: https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html
 - Added At: 2025-12-22 14:53:48
 - Tags: #read
-- [Link To Text](2025-12-22-blog-2025-12-an-svg-is-all-you-need.mld_raw.md)
 
 ## TL;DR
 SVG格式在科学数据可视化中具有巨大潜力，尤其适合构建持久、可交互的知识系统。它能实现数据探索和即时反馈，无需服务器支持，并与版本控制、权限管理等原则天然契合，增强了科学传播的交互性和持久性。

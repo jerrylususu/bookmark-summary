@@ -1,7 +1,6 @@
 # Microservices Are a Tax Your Startup Probably Can’t Afford
 - URL: https://nexo.sh/posts/microservices-for-startups/
 - Added At: 2025-05-09 13:38:33
-- [Link To Text](2025-05-09-microservices-are-a-tax-your-startup-probably-can’t-afford_raw.md)
 
 ## TL;DR
 
