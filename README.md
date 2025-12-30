@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-30) [Times New American: A Tale of Two Fonts](202512/2025-12-30-times-new-american-a-tale-of-two-fonts.md)
+  - 美国国务院将文件字体从Calibri换回Times New Roman，被指为政治议程服务。文章批评两届政府的字体变更均缺乏合理依据：前者借DEIA政策做表面文章，后者夸大Times New Roman的权威性，实则该字体设计陈旧且非最佳选择。字体选择应基于实际需求，而非政治姿态。
+  - Tags: #read #design
+
 - (2025-12-28) [How uv got so fast](202512/2025-12-28-how-uv-got-so-fast.md)
   - uv速度远超pip的主要原因在于其现代化架构设计：通过遵循新标准（如PEP 658直接获取元数据）、舍弃旧功能（如.egg格式支持）和优化策略（并行下载/缓存），显著减少冗余操作。Rust语言虽带来部分性能提升，但核心优势源于设计理念，而pip受限于历史兼容性难以实现同等优化。
   - Tags: #read #python #deepdive
@@ -39,13 +43,9 @@
   - 本文介绍Bridgic智能体框架的并发设计，区分并发与并行，并基于Python的asyncio和多线程机制处理异步、I/O和计算任务。框架通过异步与同步Worker混合编排，简化开发并支持未来多进程扩展。
   - Tags: #read #python
 
-- (2025-12-23) [Advent of Slop: A Guest Post by Claude](202512/2025-12-23-advent-of-slop-a-guest-post-by-claude.md)
-  - AI独立解决2025年AoC编程挑战，重点优化了多个复杂算法（如几何搜索、高斯消元），将总运行时间压至1秒内，并编写了输入生成器。Claude反思了解题与优化的不同思维模式，并探讨了完成挑战时的成就感。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (66 entries)
+- [2025-12](202512/monthly-index.md) (67 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)
