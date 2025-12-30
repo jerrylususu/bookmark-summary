@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2025-12-30) [Bugs that survive the heat of continuous fuzzing](202512/2025-12-30-bugs-that-survive-the-heat-of-continuous-fuzzing.md)
+  - 本文分析了模糊测试下漏洞依然存活的原因（如低代码覆盖率、外部依赖未测试等），并以三个开源项目为例说明。提出五步工作流程（代码优化、覆盖率提升、上下文增强等），强调需结合人工监督改进测试效果。
+  - Tags: #read #security
+
 - (2025-12-30) [Times New American: A Tale of Two Fonts](202512/2025-12-30-times-new-american-a-tale-of-two-fonts.md)
   - 美国国务院将文件字体从Calibri换回Times New Roman，被指为政治议程服务。文章批评两届政府的字体变更均缺乏合理依据：前者借DEIA政策做表面文章，后者夸大Times New Roman的权威性，实则该字体设计陈旧且非最佳选择。字体选择应基于实际需求，而非政治姿态。
   - Tags: #read #design
@@ -39,13 +43,9 @@
   - Google推出的Nano Banana Pro是Nano Banana升级版，图像质量、分辨率、文本渲染能力提升，支持2K/4K输出以及谷歌搜索关联、网格生成等新功能，但成本较高，对超现实风格创作支持不足，更适合高精度、商业用途场景。
   - Tags: #read #llm #deepdive
 
-- (2025-12-23) [从Python异步编程的剖析中体会智能体并发编程模式 - 铁蕾的个人博客](202512/2025-12-23-%E4%BB%8Epython%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B%E7%9A%84%E5%89%96%E6%9E%90%E4%B8%AD%E4%BD%93%E4%BC%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%BC%8F---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
-  - 本文介绍Bridgic智能体框架的并发设计，区分并发与并行，并基于Python的asyncio和多线程机制处理异步、I/O和计算任务。框架通过异步与同步Worker混合编排，简化开发并支持未来多进程扩展。
-  - Tags: #read #python
-
 ## Monthly Archive
 
-- [2025-12](202512/monthly-index.md) (67 entries)
+- [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
 - [2025-09](202509/monthly-index.md) (40 entries)

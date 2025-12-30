@@ -1,5 +1,9 @@
 # 2025-12 Monthly Index
 
+- (2025-12-30) [Bugs that survive the heat of continuous fuzzing](2025-12-30-bugs-that-survive-the-heat-of-continuous-fuzzing.md)
+  - 本文分析了模糊测试下漏洞依然存活的原因（如低代码覆盖率、外部依赖未测试等），并以三个开源项目为例说明。提出五步工作流程（代码优化、覆盖率提升、上下文增强等），强调需结合人工监督改进测试效果。
+  - Tags: #read #security
+
 - (2025-12-30) [Times New American: A Tale of Two Fonts](2025-12-30-times-new-american-a-tale-of-two-fonts.md)
   - 美国国务院将文件字体从Calibri换回Times New Roman，被指为政治议程服务。文章批评两届政府的字体变更均缺乏合理依据：前者借DEIA政策做表面文章，后者夸大Times New Roman的权威性，实则该字体设计陈旧且非最佳选择。字体选择应基于实际需求，而非政治姿态。
   - Tags: #read #design

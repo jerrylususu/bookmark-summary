@@ -9046,5 +9046,15 @@
       "read",
       "design"
     ]
+  },
+  {
+    "month": "202512",
+    "title": "Bugs that survive the heat of continuous fuzzing",
+    "url": "https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/",
+    "timestamp": 1767104134,
+    "tags": [
+      "read",
+      "security"
+    ]
   }
 ]
