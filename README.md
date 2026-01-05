@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-05) [It’s hard to justify Tahoe icons](202601/2026-01-05-it%E2%80%99s-hard-to-justify-tahoe-icons.md)
+  - 作者批评macOS Tahoe新增菜单图标存在功能性、一致性和可用性缺陷，认为其违背经典设计原则，导致识别困难、逻辑混乱，并呼吁设计师避免类似错误。
+  - Tags: #read #visual #design
+
 - (2026-01-05) [Facilitating AI adoption at Imprint](202601/2026-01-05-facilitating-ai-adoption-at-imprint.md)
   - 作者总结了18个月在内部推动AI采用的经验，强调务实迭代和领导亲身体验。关键策略包括消除采用障碍、全公司定制化部署和领导以身作则。具体措施涉及工具标准化、提示词管理、代理开发等。核心观点是AI采用需结合实际问题、持续学习和高效协作，避免形式主义。
   - Tags: #read #llm #deepdive
@@ -39,13 +43,9 @@
   - 这篇文章分析了资本主义消费主义与共产主义宏大叙事对现代人生活的冲击，指出中产阶级在高负债、低韧性的脆弱处境中，容易受外部冲击影响。作者提出应对策略包括构建稳健财务结构、培养非货币化能力、降低快乐阈值，主张依靠具体可验证的资源与技能，增强内在反脆弱性。核心是避免依赖外部宏大叙事，成为难以被击垮的个体。
   - Tags: #read
 
-- (2025-12-24) [On Friday Deploys: Sometimes that Puppy Needs Murdering (xpost)](202512/2025-12-24-on-friday-deploys-sometimes-that-puppy-needs-murdering-%28xpost%29.md)
-  - 作者表示部署冻结应务实看待，可作为暂时稳定手段，但反对将其道德化。建议同步冻结代码合并并定期演练部署流程以检测问题，目标是平衡稳定与变更风险，同时鼓励团队专注其他工作。
-  - Tags: #read #reliability
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (3 entries)
+- [2026-01](202601/monthly-index.md) (4 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

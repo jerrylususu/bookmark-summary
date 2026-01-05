@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-05) [It’s hard to justify Tahoe icons](2026-01-05-it%E2%80%99s-hard-to-justify-tahoe-icons.md)
+  - 作者批评macOS Tahoe新增菜单图标存在功能性、一致性和可用性缺陷，认为其违背经典设计原则，导致识别困难、逻辑混乱，并呼吁设计师避免类似错误。
+  - Tags: #read #visual #design
+
 - (2026-01-05) [Facilitating AI adoption at Imprint](2026-01-05-facilitating-ai-adoption-at-imprint.md)
   - 作者总结了18个月在内部推动AI采用的经验，强调务实迭代和领导亲身体验。关键策略包括消除采用障碍、全公司定制化部署和领导以身作则。具体措施涉及工具标准化、提示词管理、代理开发等。核心观点是AI采用需结合实际问题、持续学习和高效协作，避免形式主义。
   - Tags: #read #llm #deepdive
