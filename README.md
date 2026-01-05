@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-05) [The future of agentic coding: conductors to orchestrators](202601/2026-01-05-the-future-of-agentic-coding-conductors-to-orchestrators.md)
+  - 文章比较了AI辅助编程的两种模式：Conductor（实时指导单一AI，控制精细但效率低）和Orchestrator（协调多个AI并行工作，自动化程度高）。未来趋势是开发者角色转向任务管理与质量审查，实现规模化开发，但人类仍需主导关键决策与创新。
+  - Tags: #read #llm
+
 - (2025-12-30) [Bugs that survive the heat of continuous fuzzing](202512/2025-12-30-bugs-that-survive-the-heat-of-continuous-fuzzing.md)
   - 本文分析了模糊测试下漏洞依然存活的原因（如低代码覆盖率、外部依赖未测试等），并以三个开源项目为例说明。提出五步工作流程（代码优化、覆盖率提升、上下文增强等），强调需结合人工监督改进测试效果。
   - Tags: #read #security
@@ -39,12 +43,9 @@
   - 文章批判“迷你框架”因其常引入不必要复杂性，导致维护困难与效率下降。建议优先采用库或慎重设计新框架，避免包装现有技术栈以减少兼容性问题。
   - Tags: #read #tips
 
-- (2025-12-23) [Nano Banana Pro is the best AI image generator, with caveats](202512/2025-12-23-nano-banana-pro-is-the-best-ai-image-generator%2C-with-caveats.md)
-  - Google推出的Nano Banana Pro是Nano Banana升级版，图像质量、分辨率、文本渲染能力提升，支持2K/4K输出以及谷歌搜索关联、网格生成等新功能，但成本较高，对超现实风格创作支持不足，更适合高精度、商业用途场景。
-  - Tags: #read #llm #deepdive
-
 ## Monthly Archive
 
+- [2026-01](202601/monthly-index.md) (1 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

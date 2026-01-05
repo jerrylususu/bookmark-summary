@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-05) [The future of agentic coding: conductors to orchestrators](202601/2026-01-05-the-future-of-agentic-coding-conductors-to-orchestrators.md)
+  - Tags: #read #llm
+  - Summary: 文章比较了AI辅助编程的两种模式：Conductor（实时指导单一AI，控制精细但效率低）和Orchestrator（协调多个AI并行工作，自动化程度高）。未来趋势是开发者角色转向任务管理与质量审查，实现规模化开发，但人类仍需主导关键决策与创新。
+
 - (2025-12-30) [Bugs that survive the heat of continuous fuzzing](202512/2025-12-30-bugs-that-survive-the-heat-of-continuous-fuzzing.md)
   - Tags: #read #security
   - Summary: 本文分析了模糊测试下漏洞依然存活的原因（如低代码覆盖率、外部依赖未测试等），并以三个开源项目为例说明。提出五步工作流程（代码优化、覆盖率提升、上下文增强等），强调需结合人工监督改进测试效果。

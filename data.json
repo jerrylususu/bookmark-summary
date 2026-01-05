@@ -9056,5 +9056,15 @@
       "read",
       "security"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "The future of agentic coding: conductors to orchestrators",
+    "url": "https://addyosmani.com/blog/future-agentic-coding/",
+    "timestamp": 1767629041,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
