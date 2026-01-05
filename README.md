@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-05) [My LLM coding workflow going into 2026](202601/2026-01-05-my-llm-coding-workflow-going-into-2026.md)
+  - AI应被视为需明确指导的编程伙伴，而非全自动工具。2026年实践显示，通过分解任务、提供详细上下文、结合测试与自动化工具，并保持人工监督，可最大化AI辅助编程效率。开发者需主导工作流，并对代码质量负责。
+  - Tags: #read #llm #guide
+
 - (2026-01-05) [The future of agentic coding: conductors to orchestrators](202601/2026-01-05-the-future-of-agentic-coding-conductors-to-orchestrators.md)
   - 文章比较了AI辅助编程的两种模式：Conductor（实时指导单一AI，控制精细但效率低）和Orchestrator（协调多个AI并行工作，自动化程度高）。未来趋势是开发者角色转向任务管理与质量审查，实现规模化开发，但人类仍需主导关键决策与创新。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 大型软件因功能复杂、迭代迅速和知识分散，常无人能完全理解其内部运作。文档更新滞后且工程师之间隐性知识依赖重，导致系统的认知盲区普遍存在。因此，能准确回答相关问题具有重要价值。
   - Tags: #read
 
-- (2025-12-24) [Avoid Mini-frameworks](202512/2025-12-24-avoid-mini-frameworks.md)
-  - 文章批判“迷你框架”因其常引入不必要复杂性，导致维护困难与效率下降。建议优先采用库或慎重设计新框架，避免包装现有技术栈以减少兼容性问题。
-  - Tags: #read #tips
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (1 entries)
+- [2026-01](202601/monthly-index.md) (2 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

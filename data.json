@@ -9066,5 +9066,16 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "My LLM coding workflow going into 2026",
+    "url": "https://addyosmani.com/blog/ai-coding-workflow/",
+    "timestamp": 1767629247,
+    "tags": [
+      "read",
+      "llm",
+      "guide"
+    ]
   }
 ]
