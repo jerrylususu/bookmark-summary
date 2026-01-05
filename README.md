@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-05) [Facilitating AI adoption at Imprint](202601/2026-01-05-facilitating-ai-adoption-at-imprint.md)
+  - 作者总结了18个月在内部推动AI采用的经验，强调务实迭代和领导亲身体验。关键策略包括消除采用障碍、全公司定制化部署和领导以身作则。具体措施涉及工具标准化、提示词管理、代理开发等。核心观点是AI采用需结合实际问题、持续学习和高效协作，避免形式主义。
+  - Tags: #read #llm #deepdive
+
 - (2026-01-05) [My LLM coding workflow going into 2026](202601/2026-01-05-my-llm-coding-workflow-going-into-2026.md)
   - AI应被视为需明确指导的编程伙伴，而非全自动工具。2026年实践显示，通过分解任务、提供详细上下文、结合测试与自动化工具，并保持人工监督，可最大化AI辅助编程效率。开发者需主导工作流，并对代码质量负责。
   - Tags: #read #llm #guide
@@ -39,13 +43,9 @@
   - 作者表示部署冻结应务实看待，可作为暂时稳定手段，但反对将其道德化。建议同步冻结代码合并并定期演练部署流程以检测问题，目标是平衡稳定与变更风险，同时鼓励团队专注其他工作。
   - Tags: #read #reliability
 
-- (2025-12-24) [Nobody knows how large software products work](202512/2025-12-24-nobody-knows-how-large-software-products-work.md)
-  - 大型软件因功能复杂、迭代迅速和知识分散，常无人能完全理解其内部运作。文档更新滞后且工程师之间隐性知识依赖重，导致系统的认知盲区普遍存在。因此，能准确回答相关问题具有重要价值。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (2 entries)
+- [2026-01](202601/monthly-index.md) (3 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
