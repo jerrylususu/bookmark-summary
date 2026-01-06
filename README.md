@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-06) [Freestyle linked lists tricks](202601/2026-01-06-freestyle-linked-lists-tricks.md)
+  - 本文介绍了链表的高级优化技巧，在保持基础结构不变的前提下，通过构建哈希Trie或索引表将查找复杂度从O(n)优化到O(1)或O(log n)，适用于静态或频繁查询场景，支持多映射和遍历操作。
+  - Tags: #read #c
+
 - (2026-01-05) [21 Lessons From 14 Years at Google](202601/2026-01-05-21-lessons-from-14-years-at-google.md)
   - 谷歌前员工总结14年职业经验，强调持续学习与团队协作。核心包括：职业成长靠积累，避免工作过度；团队合作重共识、透明与贡献可视；工程决策以用户为中心，代码清晰优先；管理需对齐目标、简化流程。整体倡导谦逊、服务用户的心态。
   - Tags: #read #guide
@@ -39,13 +43,9 @@
   - 作者认为软件工程师应保持适度愤世嫉俗，以理解组织运作方式，避免过度理想主义。通过参与政治协商推动实际变革，比逃避或极端抵制更能有效解决问题。
   - Tags: #read #people
 
-- (2025-12-28) [AI智能体纪元或将从2026开始归零 - 铁蕾的个人博客](202512/2025-12-28-ai%E6%99%BA%E8%83%BD%E4%BD%93%E7%BA%AA%E5%85%83%E6%88%96%E5%B0%86%E4%BB%8E2026%E5%BC%80%E5%A7%8B%E5%BD%92%E9%9B%B6---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
-  - AI智能体正推动软件开发方式变革，2025年被预测为“智能体元年”。技术虽面临错误累积、适应性架构等挑战，但已展现自主灵活落地的潜力，预示着一个更智能的新阶段到来。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (5 entries)
+- [2026-01](202601/monthly-index.md) (6 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

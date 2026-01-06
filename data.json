@@ -9109,5 +9109,15 @@
       "read",
       "guide"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Freestyle linked lists tricks",
+    "url": "https://nullprogram.com/blog/2025/12/31/",
+    "timestamp": 1767712228,
+    "tags": [
+      "read",
+      "c"
+    ]
   }
 ]

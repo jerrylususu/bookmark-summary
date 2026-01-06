@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-06) [Freestyle linked lists tricks](2026-01-06-freestyle-linked-lists-tricks.md)
+  - 本文介绍了链表的高级优化技巧，在保持基础结构不变的前提下，通过构建哈希Trie或索引表将查找复杂度从O(n)优化到O(1)或O(log n)，适用于静态或频繁查询场景，支持多映射和遍历操作。
+  - Tags: #read #c
+
 - (2026-01-05) [21 Lessons From 14 Years at Google](2026-01-05-21-lessons-from-14-years-at-google.md)
   - 谷歌前员工总结14年职业经验，强调持续学习与团队协作。核心包括：职业成长靠积累，避免工作过度；团队合作重共识、透明与贡献可视；工程决策以用户为中心，代码清晰优先；管理需对齐目标、简化流程。整体倡导谦逊、服务用户的心态。
   - Tags: #read #guide
