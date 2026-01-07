@@ -9128,5 +9128,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "A field guide to sandboxes for AI",
+    "url": "https://luiscardoso.dev/blog/sandboxes-for-ai",
+    "timestamp": 1767794612,
+    "tags": [
+      "read",
+      "deepdive",
+      "security"
+    ]
   }
 ]

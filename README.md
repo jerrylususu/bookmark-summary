@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-07) [A field guide to sandboxes for AI](202601/2026-01-07-a-field-guide-to-sandboxes-for-ai.md)
+  - 此内容为错误页面提示，因请求过多（错误码429）无法加载博客文章，仅显示安全检查标题和令牌信息。
+  - Tags: #read #deepdive #security
+
 - (2026-01-07) [Fast Code, Expensive Confidence: Building Software With LLMs | Dmitry Danilov](202601/2026-01-07-fast-code%2C-expensive-confidence-building-software-with-llms-dmitry-danilov.md)
   - 本文指出，LLM加速了代码生成但也增加了风险，软件架构因此更加关键。强调模块化、标准接口和强类型语言能缩小上下文范围、降低错误，同时验证和测试成为核心优势。架构确保AI生成代码的可靠迭代，而非盲目加速。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 美国国务院将文件字体从Calibri换回Times New Roman，被指为政治议程服务。文章批评两届政府的字体变更均缺乏合理依据：前者借DEIA政策做表面文章，后者夸大Times New Roman的权威性，实则该字体设计陈旧且非最佳选择。字体选择应基于实际需求，而非政治姿态。
   - Tags: #read #design
 
-- (2025-12-28) [How uv got so fast](202512/2025-12-28-how-uv-got-so-fast.md)
-  - uv速度远超pip的主要原因在于其现代化架构设计：通过遵循新标准（如PEP 658直接获取元数据）、舍弃旧功能（如.egg格式支持）和优化策略（并行下载/缓存），显著减少冗余操作。Rust语言虽带来部分性能提升，但核心优势源于设计理念，而pip受限于历史兼容性难以实现同等优化。
-  - Tags: #read #python #deepdive
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (7 entries)
+- [2026-01](202601/monthly-index.md) (8 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

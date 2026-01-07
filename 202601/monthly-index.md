@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-07) [A field guide to sandboxes for AI](2026-01-07-a-field-guide-to-sandboxes-for-ai.md)
+  - 此内容为错误页面提示，因请求过多（错误码429）无法加载博客文章，仅显示安全检查标题和令牌信息。
+  - Tags: #read #deepdive #security
+
 - (2026-01-07) [Fast Code, Expensive Confidence: Building Software With LLMs | Dmitry Danilov](2026-01-07-fast-code%2C-expensive-confidence-building-software-with-llms-dmitry-danilov.md)
   - 本文指出，LLM加速了代码生成但也增加了风险，软件架构因此更加关键。强调模块化、标准接口和强类型语言能缩小上下文范围、降低错误，同时验证和测试成为核心优势。架构确保AI生成代码的可靠迭代，而非盲目加速。
   - Tags: #read
