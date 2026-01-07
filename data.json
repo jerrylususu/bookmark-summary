@@ -9119,5 +9119,14 @@
       "read",
       "c"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Fast Code, Expensive Confidence: Building Software With LLMs | Dmitry Danilov",
+    "url": "https://ddanilov.me/how-llms-affect-software-architecture",
+    "timestamp": 1767794112,
+    "tags": [
+      "read"
+    ]
   }
 ]

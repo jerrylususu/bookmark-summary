@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-07) [Fast Code, Expensive Confidence: Building Software With LLMs | Dmitry Danilov](202601/2026-01-07-fast-code%2C-expensive-confidence-building-software-with-llms-dmitry-danilov.md)
+  - 本文指出，LLM加速了代码生成但也增加了风险，软件架构因此更加关键。强调模块化、标准接口和强类型语言能缩小上下文范围、降低错误，同时验证和测试成为核心优势。架构确保AI生成代码的可靠迭代，而非盲目加速。
+  - Tags: #read
+
 - (2026-01-06) [Freestyle linked lists tricks](202601/2026-01-06-freestyle-linked-lists-tricks.md)
   - 本文介绍了链表的高级优化技巧，在保持基础结构不变的前提下，通过构建哈希Trie或索引表将查找复杂度从O(n)优化到O(1)或O(log n)，适用于静态或频繁查询场景，支持多映射和遍历操作。
   - Tags: #read #c
@@ -39,13 +43,9 @@
   - uv速度远超pip的主要原因在于其现代化架构设计：通过遵循新标准（如PEP 658直接获取元数据）、舍弃旧功能（如.egg格式支持）和优化策略（并行下载/缓存），显著减少冗余操作。Rust语言虽带来部分性能提升，但核心优势源于设计理念，而pip受限于历史兼容性难以实现同等优化。
   - Tags: #read #python #deepdive
 
-- (2025-12-28) [Software engineers should be a little bit cynical](202512/2025-12-28-software-engineers-should-be-a-little-bit-cynical.md)
-  - 作者认为软件工程师应保持适度愤世嫉俗，以理解组织运作方式，避免过度理想主义。通过参与政治协商推动实际变革，比逃避或极端抵制更能有效解决问题。
-  - Tags: #read #people
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (6 entries)
+- [2026-01](202601/monthly-index.md) (7 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

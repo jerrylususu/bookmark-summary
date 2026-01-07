@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-07) [Fast Code, Expensive Confidence: Building Software With LLMs | Dmitry Danilov](202601/2026-01-07-fast-code%2C-expensive-confidence-building-software-with-llms-dmitry-danilov.md)
+  - Tags: #read
+  - Summary: 本文指出，LLM加速了代码生成但也增加了风险，软件架构因此更加关键。强调模块化、标准接口和强类型语言能缩小上下文范围、降低错误，同时验证和测试成为核心优势。架构确保AI生成代码的可靠迭代，而非盲目加速。
+
 - (2026-01-06) [Freestyle linked lists tricks](202601/2026-01-06-freestyle-linked-lists-tricks.md)
   - Tags: #read #c
   - Summary: 本文介绍了链表的高级优化技巧，在保持基础结构不变的前提下，通过构建哈希Trie或索引表将查找复杂度从O(n)优化到O(1)或O(log n)，适用于静态或频繁查询场景，支持多映射和遍历操作。
