@@ -9181,5 +9181,15 @@
       "read",
       "perf"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "HTTP caching, a refresher · Dan Cătălin Burzo",
+    "url": "https://danburzo.ro/http-caching-refresher/",
+    "timestamp": 1767969249,
+    "tags": [
+      "read",
+      "deepdive"
+    ]
   }
 ]

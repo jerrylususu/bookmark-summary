@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-09) [HTTP caching, a refresher · Dan Cătălin Burzo](202601/2026-01-09-http-caching%2C-a-refresher-%C2%B7-dan-c%C4%83t%C4%83lin-burzo.md)
+  - 本文基于RFC 9111标准，解析了HTTP缓存的运行机制，包括缓存新鲜度判断、存储控制、关键Cache-Control指令及其应用场景。文章强调缓存默认启用，但需结合浏览器和中间件的实际兼容性谨慎配置。
+  - Tags: #read #deepdive
+
 - (2026-01-09) [Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole | Royal Bhati's Blog](202601/2026-01-09-why-object-of-arrays-%28soa-pattern%29-beat-interleaved-arrays-a-javascript-performance-rabbit-hole-royal-bhati%27s-blog.md)
   - 通过对比数组结构（AoS）和结构数组（SoA）在JavaScript中的性能，发现SoA模式速度提升4倍，优势源于减少对象分配、优化循环和属性访问。SoA核心通过连续内存布局降低开销，更适合大数据场景。
   - Tags: #read #perf
@@ -39,13 +43,9 @@
   - 作者批评macOS Tahoe新增菜单图标存在功能性、一致性和可用性缺陷，认为其违背经典设计原则，导致识别困难、逻辑混乱，并呼吁设计师避免类似错误。
   - Tags: #read #visual #design
 
-- (2026-01-05) [Facilitating AI adoption at Imprint](202601/2026-01-05-facilitating-ai-adoption-at-imprint.md)
-  - 作者总结了18个月在内部推动AI采用的经验，强调务实迭代和领导亲身体验。关键策略包括消除采用障碍、全公司定制化部署和领导以身作则。具体措施涉及工具标准化、提示词管理、代理开发等。核心观点是AI采用需结合实际问题、持续学习和高效协作，避免形式主义。
-  - Tags: #read #llm #deepdive
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (12 entries)
+- [2026-01](202601/monthly-index.md) (13 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

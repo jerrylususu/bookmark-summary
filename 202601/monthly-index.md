@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-09) [HTTP caching, a refresher · Dan Cătălin Burzo](2026-01-09-http-caching%2C-a-refresher-%C2%B7-dan-c%C4%83t%C4%83lin-burzo.md)
+  - 本文基于RFC 9111标准，解析了HTTP缓存的运行机制，包括缓存新鲜度判断、存储控制、关键Cache-Control指令及其应用场景。文章强调缓存默认启用，但需结合浏览器和中间件的实际兼容性谨慎配置。
+  - Tags: #read #deepdive
+
 - (2026-01-09) [Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole | Royal Bhati's Blog](2026-01-09-why-object-of-arrays-%28soa-pattern%29-beat-interleaved-arrays-a-javascript-performance-rabbit-hole-royal-bhati%27s-blog.md)
   - 通过对比数组结构（AoS）和结构数组（SoA）在JavaScript中的性能，发现SoA模式速度提升4倍，优势源于减少对象分配、优化循环和属性访问。SoA核心通过连续内存布局降低开销，更适合大数据场景。
   - Tags: #read #perf
