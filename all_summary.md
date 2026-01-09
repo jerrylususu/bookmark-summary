@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-09) [Opus 4.5 is going to change everything](202601/2026-01-09-opus-4.5-is-going-to-change-everything.md)
+  - Tags: #read #llm
+  - Summary: Burke Holland通过亲身体验Claude Opus 4.5 AI编码代理，认为它已能完全替代开发者，可高效完成图像转换、视频编辑、社交媒体工具等复杂项目。作者强调需转向"AI可维护"的编程范式，优化代码结构以适应AI迭代，同时警惕安全风险。
+
 - (2026-01-09) [How Markdown took over the world - Anil Dash](202601/2026-01-09-how-markdown-took-over-the-world---anil-dash.md)
   - Tags: #read #deepdive #history
   - Summary: Markdown是一种轻量级标记语言，2004年由John Gruber创建，旨在简化文本格式化。它因简洁、开源、恰逢博客兴起而迅速普及，成为开发者及日常工具的通用格式。其成功源于解决实际需求、开放社区协作和免费共享精神。

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-09) [Opus 4.5 is going to change everything](202601/2026-01-09-opus-4.5-is-going-to-change-everything.md)
+  - Burke Holland通过亲身体验Claude Opus 4.5 AI编码代理，认为它已能完全替代开发者，可高效完成图像转换、视频编辑、社交媒体工具等复杂项目。作者强调需转向"AI可维护"的编程范式，优化代码结构以适应AI迭代，同时警惕安全风险。
+  - Tags: #read #llm
+
 - (2026-01-09) [How Markdown took over the world - Anil Dash](202601/2026-01-09-how-markdown-took-over-the-world---anil-dash.md)
   - Markdown是一种轻量级标记语言，2004年由John Gruber创建，旨在简化文本格式化。它因简洁、开源、恰逢博客兴起而迅速普及，成为开发者及日常工具的通用格式。其成功源于解决实际需求、开放社区协作和免费共享精神。
   - Tags: #read #deepdive #history
@@ -39,13 +43,9 @@
   - AI应被视为需明确指导的编程伙伴，而非全自动工具。2026年实践显示，通过分解任务、提供详细上下文、结合测试与自动化工具，并保持人工监督，可最大化AI辅助编程效率。开发者需主导工作流，并对代码质量负责。
   - Tags: #read #llm #guide
 
-- (2026-01-05) [The future of agentic coding: conductors to orchestrators](202601/2026-01-05-the-future-of-agentic-coding-conductors-to-orchestrators.md)
-  - 文章比较了AI辅助编程的两种模式：Conductor（实时指导单一AI，控制精细但效率低）和Orchestrator（协调多个AI并行工作，自动化程度高）。未来趋势是开发者角色转向任务管理与质量审查，实现规模化开发，但人类仍需主导关键决策与创新。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (10 entries)
+- [2026-01](202601/monthly-index.md) (11 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
