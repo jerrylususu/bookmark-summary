@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-09) [How Markdown took over the world - Anil Dash](202601/2026-01-09-how-markdown-took-over-the-world---anil-dash.md)
+  - Tags: #read #deepdive #history
+  - Summary: Markdown是一种轻量级标记语言，2004年由John Gruber创建，旨在简化文本格式化。它因简洁、开源、恰逢博客兴起而迅速普及，成为开发者及日常工具的通用格式。其成功源于解决实际需求、开放社区协作和免费共享精神。
+
 - (2026-01-09) [Your AI coding agents need a manager](202601/2026-01-09-your-ai-coding-agents-need-a-manager.md)
   - Tags: #read #llm #agent
   - Summary: 随着AI编程代理普及，开发者需转变为AI管理者的角色。关键管理技能包括清晰沟通、任务委派、验证和异步协调。文章建议先用少量代理处理后台任务，再逐步管理并行工作，重点强调查过程把控和质量验证，而非依赖工具本身。

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-09) [How Markdown took over the world - Anil Dash](202601/2026-01-09-how-markdown-took-over-the-world---anil-dash.md)
+  - Markdown是一种轻量级标记语言，2004年由John Gruber创建，旨在简化文本格式化。它因简洁、开源、恰逢博客兴起而迅速普及，成为开发者及日常工具的通用格式。其成功源于解决实际需求、开放社区协作和免费共享精神。
+  - Tags: #read #deepdive #history
+
 - (2026-01-09) [Your AI coding agents need a manager](202601/2026-01-09-your-ai-coding-agents-need-a-manager.md)
   - 随着AI编程代理普及，开发者需转变为AI管理者的角色。关键管理技能包括清晰沟通、任务委派、验证和异步协调。文章建议先用少量代理处理后台任务，再逐步管理并行工作，重点强调查过程把控和质量验证，而非依赖工具本身。
   - Tags: #read #llm #agent
@@ -39,13 +43,9 @@
   - 文章比较了AI辅助编程的两种模式：Conductor（实时指导单一AI，控制精细但效率低）和Orchestrator（协调多个AI并行工作，自动化程度高）。未来趋势是开发者角色转向任务管理与质量审查，实现规模化开发，但人类仍需主导关键决策与创新。
   - Tags: #read #llm
 
-- (2025-12-30) [Bugs that survive the heat of continuous fuzzing](202512/2025-12-30-bugs-that-survive-the-heat-of-continuous-fuzzing.md)
-  - 本文分析了模糊测试下漏洞依然存活的原因（如低代码覆盖率、外部依赖未测试等），并以三个开源项目为例说明。提出五步工作流程（代码优化、覆盖率提升、上下文增强等），强调需结合人工监督改进测试效果。
-  - Tags: #read #security
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (9 entries)
+- [2026-01](202601/monthly-index.md) (10 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
