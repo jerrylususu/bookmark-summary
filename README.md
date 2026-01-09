@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-09) [Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole | Royal Bhati's Blog](202601/2026-01-09-why-object-of-arrays-%28soa-pattern%29-beat-interleaved-arrays-a-javascript-performance-rabbit-hole-royal-bhati%27s-blog.md)
+  - 通过对比数组结构（AoS）和结构数组（SoA）在JavaScript中的性能，发现SoA模式速度提升4倍，优势源于减少对象分配、优化循环和属性访问。SoA核心通过连续内存布局降低开销，更适合大数据场景。
+  - Tags: #read #perf
+
 - (2026-01-09) [Opus 4.5 is going to change everything](202601/2026-01-09-opus-4.5-is-going-to-change-everything.md)
   - Burke Holland通过亲身体验Claude Opus 4.5 AI编码代理，认为它已能完全替代开发者，可高效完成图像转换、视频编辑、社交媒体工具等复杂项目。作者强调需转向"AI可维护"的编程范式，优化代码结构以适应AI迭代，同时警惕安全风险。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 作者总结了18个月在内部推动AI采用的经验，强调务实迭代和领导亲身体验。关键策略包括消除采用障碍、全公司定制化部署和领导以身作则。具体措施涉及工具标准化、提示词管理、代理开发等。核心观点是AI采用需结合实际问题、持续学习和高效协作，避免形式主义。
   - Tags: #read #llm #deepdive
 
-- (2026-01-05) [My LLM coding workflow going into 2026](202601/2026-01-05-my-llm-coding-workflow-going-into-2026.md)
-  - AI应被视为需明确指导的编程伙伴，而非全自动工具。2026年实践显示，通过分解任务、提供详细上下文、结合测试与自动化工具，并保持人工监督，可最大化AI辅助编程效率。开发者需主导工作流，并对代码质量负责。
-  - Tags: #read #llm #guide
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (11 entries)
+- [2026-01](202601/monthly-index.md) (12 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

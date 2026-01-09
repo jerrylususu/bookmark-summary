@@ -9171,5 +9171,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole | Royal Bhati's Blog",
+    "url": "https://royalbhati.com/posts/js-array-vs-typedarray",
+    "timestamp": 1767969002,
+    "tags": [
+      "read",
+      "perf"
+    ]
   }
 ]
