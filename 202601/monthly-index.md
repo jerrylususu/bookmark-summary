@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-09) [Your AI coding agents need a manager](2026-01-09-your-ai-coding-agents-need-a-manager.md)
+  - 随着AI编程代理普及，开发者需转变为AI管理者的角色。关键管理技能包括清晰沟通、任务委派、验证和异步协调。文章建议先用少量代理处理后台任务，再逐步管理并行工作，重点强调查过程把控和质量验证，而非依赖工具本身。
+  - Tags: #read #llm #agent
+
 - (2026-01-07) [A field guide to sandboxes for AI](2026-01-07-a-field-guide-to-sandboxes-for-ai.md)
   - 此内容为错误页面提示，因请求过多（错误码429）无法加载博客文章，仅显示安全检查标题和令牌信息。
   - Tags: #read #deepdive #security

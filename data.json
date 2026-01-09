@@ -9139,5 +9139,16 @@
       "deepdive",
       "security"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Your AI coding agents need a manager",
+    "url": "https://addyosmani.com/blog/coding-agents-manager/",
+    "timestamp": 1767965921,
+    "tags": [
+      "read",
+      "llm",
+      "agent"
+    ]
   }
 ]
