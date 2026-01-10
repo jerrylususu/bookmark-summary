@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-10) [Fly’s new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time](202601/2026-01-10-fly%E2%80%99s-new-sprites.dev-addresses-both-developer-sandboxes-and-api-sandboxes-at-the-same-time.md)
+  - Tags: #read #llm #security
+  - Summary: Fly.io推出Sprites.dev，提供持久化沙盒环境与API服务，支持快速创建、检查点回滚和安全运行代码。旨在通过按需计费和隔离环境，为开发者及API用户提供安全、经济的沙盒解决方案。
+
 - (2026-01-09) [HTTP caching, a refresher · Dan Cătălin Burzo](202601/2026-01-09-http-caching%2C-a-refresher-%C2%B7-dan-c%C4%83t%C4%83lin-burzo.md)
   - Tags: #read #deepdive
   - Summary: 本文基于RFC 9111标准，解析了HTTP缓存的运行机制，包括缓存新鲜度判断、存储控制、关键Cache-Control指令及其应用场景。文章强调缓存默认启用，但需结合浏览器和中间件的实际兼容性谨慎配置。

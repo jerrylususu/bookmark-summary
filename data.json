@@ -9191,5 +9191,16 @@
       "read",
       "deepdive"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Fly’s new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time",
+    "url": "https://simonwillison.net/2026/Jan/9/sprites-dev/",
+    "timestamp": 1768043368,
+    "tags": [
+      "read",
+      "llm",
+      "security"
+    ]
   }
 ]

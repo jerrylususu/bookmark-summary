@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-10) [Fly’s new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time](202601/2026-01-10-fly%E2%80%99s-new-sprites.dev-addresses-both-developer-sandboxes-and-api-sandboxes-at-the-same-time.md)
+  - Fly.io推出Sprites.dev，提供持久化沙盒环境与API服务，支持快速创建、检查点回滚和安全运行代码。旨在通过按需计费和隔离环境，为开发者及API用户提供安全、经济的沙盒解决方案。
+  - Tags: #read #llm #security
+
 - (2026-01-09) [HTTP caching, a refresher · Dan Cătălin Burzo](202601/2026-01-09-http-caching%2C-a-refresher-%C2%B7-dan-c%C4%83t%C4%83lin-burzo.md)
   - 本文基于RFC 9111标准，解析了HTTP缓存的运行机制，包括缓存新鲜度判断、存储控制、关键Cache-Control指令及其应用场景。文章强调缓存默认启用，但需结合浏览器和中间件的实际兼容性谨慎配置。
   - Tags: #read #deepdive
@@ -39,13 +43,9 @@
   - 谷歌前员工总结14年职业经验，强调持续学习与团队协作。核心包括：职业成长靠积累，避免工作过度；团队合作重共识、透明与贡献可视；工程决策以用户为中心，代码清晰优先；管理需对齐目标、简化流程。整体倡导谦逊、服务用户的心态。
   - Tags: #read #guide
 
-- (2026-01-05) [It’s hard to justify Tahoe icons](202601/2026-01-05-it%E2%80%99s-hard-to-justify-tahoe-icons.md)
-  - 作者批评macOS Tahoe新增菜单图标存在功能性、一致性和可用性缺陷，认为其违背经典设计原则，导致识别困难、逻辑混乱，并呼吁设计师避免类似错误。
-  - Tags: #read #visual #design
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (13 entries)
+- [2026-01](202601/monthly-index.md) (14 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
