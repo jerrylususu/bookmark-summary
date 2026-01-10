@@ -9213,5 +9213,15 @@
       "deepdive",
       "frontend"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "John Carmack on Inlined Code",
+    "url": "http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html",
+    "timestamp": 1768059480,
+    "tags": [
+      "read",
+      "design"
+    ]
   }
 ]

@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-10) [John Carmack on Inlined Code](202601/2026-01-10-john-carmack-on-inlined-code.md)
+  - Tags: #read #design
+  - Summary: 约翰·卡马克认为内联代码能减少状态依赖和bug，提升可读性与性能。建议优先内联单次调用函数，用注释分隔代码块，并注重纯函数与一致性执行路径。需根据场景权衡内联与模块化，特别适用于游戏开发等实时系统。
+
 - (2026-01-10) [A complete guide to the HTML number input](202601/2026-01-10-a-complete-guide-to-the-html-number-input.md)
   - Tags: #read #deepdive #frontend
   - Summary: 本文全面介绍了HTML数字输入框的特性、使用方法和注意事项，包括如何自定义按钮、处理本地化、验证数据和移动端支持，强调在现代浏览器中合理使用可以提升用户体验。
