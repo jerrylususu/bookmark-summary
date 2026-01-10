@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-10) [A complete guide to the HTML number input](202601/2026-01-10-a-complete-guide-to-the-html-number-input.md)
+  - 本文全面介绍了HTML数字输入框的特性、使用方法和注意事项，包括如何自定义按钮、处理本地化、验证数据和移动端支持，强调在现代浏览器中合理使用可以提升用户体验。
+  - Tags: #read #deepdive #frontend
+
 - (2026-01-10) [Fly’s new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time](202601/2026-01-10-fly%E2%80%99s-new-sprites.dev-addresses-both-developer-sandboxes-and-api-sandboxes-at-the-same-time.md)
   - Fly.io推出Sprites.dev，提供持久化沙盒环境与API服务，支持快速创建、检查点回滚和安全运行代码。旨在通过按需计费和隔离环境，为开发者及API用户提供安全、经济的沙盒解决方案。
   - Tags: #read #llm #security
@@ -39,13 +43,9 @@
   - 本文介绍了链表的高级优化技巧，在保持基础结构不变的前提下，通过构建哈希Trie或索引表将查找复杂度从O(n)优化到O(1)或O(log n)，适用于静态或频繁查询场景，支持多映射和遍历操作。
   - Tags: #read #c
 
-- (2026-01-05) [21 Lessons From 14 Years at Google](202601/2026-01-05-21-lessons-from-14-years-at-google.md)
-  - 谷歌前员工总结14年职业经验，强调持续学习与团队协作。核心包括：职业成长靠积累，避免工作过度；团队合作重共识、透明与贡献可视；工程决策以用户为中心，代码清晰优先；管理需对齐目标、简化流程。整体倡导谦逊、服务用户的心态。
-  - Tags: #read #guide
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (14 entries)
+- [2026-01](202601/monthly-index.md) (15 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

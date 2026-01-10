@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-10) [A complete guide to the HTML number input](202601/2026-01-10-a-complete-guide-to-the-html-number-input.md)
+  - Tags: #read #deepdive #frontend
+  - Summary: 本文全面介绍了HTML数字输入框的特性、使用方法和注意事项，包括如何自定义按钮、处理本地化、验证数据和移动端支持，强调在现代浏览器中合理使用可以提升用户体验。
+
 - (2026-01-10) [Fly’s new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time](202601/2026-01-10-fly%E2%80%99s-new-sprites.dev-addresses-both-developer-sandboxes-and-api-sandboxes-at-the-same-time.md)
   - Tags: #read #llm #security
   - Summary: Fly.io推出Sprites.dev，提供持久化沙盒环境与API服务，支持快速创建、检查点回滚和安全运行代码。旨在通过按需计费和隔离环境，为开发者及API用户提供安全、经济的沙盒解决方案。

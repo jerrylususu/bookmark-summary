@@ -9202,5 +9202,16 @@
       "llm",
       "security"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "A complete guide to the HTML number input",
+    "url": "https://olliewilliams.xyz/blog/guide-to-html-number-input/",
+    "timestamp": 1768059259,
+    "tags": [
+      "read",
+      "deepdive",
+      "frontend"
+    ]
   }
 ]
