@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-11) [Don't fall into the anti-AI hype - <antirez>](202601/2026-01-11-don%27t-fall-into-the-anti-ai-hype---antirez.md)
+  - Tags: #read #llm
+  - Summary: AI将彻底改变编程，从手动写代码转向理解问题并指导AI生成代码，效率极大提升。作者认为AI不可逆转，呼吁积极适应以提升效率，同时关注技术垄断和就业冲击等社会问题，需政策配合实现平衡发展。
+
 - (2026-01-11) [A Survey of Dynamic Array Structures](202601/2026-01-11-a-survey-of-dynamic-array-structures.md)
   - Tags: #read #deepdive
   - Summary: 文章系统比较了六类动态数组结构，包括双倍复制数组、内存池数组、分块数组、链接块数组、树结构数组和指数数组，分析了各自的设计特点、优缺点及适用场景。作者倾向于使用内存池管理，强调需根据数据连续性、指针稳定性和内存效率等需求权衡选择。

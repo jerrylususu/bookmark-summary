@@ -9251,5 +9251,15 @@
       "read",
       "deepdive"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Don't fall into the anti-AI hype - <antirez>",
+    "url": "https://antirez.com/news/158",
+    "timestamp": 1768140939,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-11) [Don't fall into the anti-AI hype - <antirez>](202601/2026-01-11-don%27t-fall-into-the-anti-ai-hype---antirez.md)
+  - AI将彻底改变编程，从手动写代码转向理解问题并指导AI生成代码，效率极大提升。作者认为AI不可逆转，呼吁积极适应以提升效率，同时关注技术垄断和就业冲击等社会问题，需政策配合实现平衡发展。
+  - Tags: #read #llm
+
 - (2026-01-11) [A Survey of Dynamic Array Structures](202601/2026-01-11-a-survey-of-dynamic-array-structures.md)
   - 文章系统比较了六类动态数组结构，包括双倍复制数组、内存池数组、分块数组、链接块数组、树结构数组和指数数组，分析了各自的设计特点、优缺点及适用场景。作者倾向于使用内存池管理，强调需根据数据连续性、指针稳定性和内存效率等需求权衡选择。
   - Tags: #read #deepdive
@@ -39,13 +43,9 @@
   - Burke Holland通过亲身体验Claude Opus 4.5 AI编码代理，认为它已能完全替代开发者，可高效完成图像转换、视频编辑、社交媒体工具等复杂项目。作者强调需转向"AI可维护"的编程范式，优化代码结构以适应AI迭代，同时警惕安全风险。
   - Tags: #read #llm
 
-- (2026-01-09) [How Markdown took over the world - Anil Dash](202601/2026-01-09-how-markdown-took-over-the-world---anil-dash.md)
-  - Markdown是一种轻量级标记语言，2004年由John Gruber创建，旨在简化文本格式化。它因简洁、开源、恰逢博客兴起而迅速普及，成为开发者及日常工具的通用格式。其成功源于解决实际需求、开放社区协作和免费共享精神。
-  - Tags: #read #deepdive #history
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (19 entries)
+- [2026-01](202601/monthly-index.md) (20 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
