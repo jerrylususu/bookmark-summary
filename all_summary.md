@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-11) [A Survey of Dynamic Array Structures](202601/2026-01-11-a-survey-of-dynamic-array-structures.md)
+  - Tags: #read #deepdive
+  - Summary: 文章系统比较了六类动态数组结构，包括双倍复制数组、内存池数组、分块数组、链接块数组、树结构数组和指数数组，分析了各自的设计特点、优缺点及适用场景。作者倾向于使用内存池管理，强调需根据数据连续性、指针稳定性和内存效率等需求权衡选择。
+
 - (2026-01-11) [Writing First, Tooling Second - Susam's Maze](202601/2026-01-11-writing-first%2C-tooling-second---susam%27s-maze.md)
   - Tags: #read
   - Summary: 建立个人网站应优先写作而非纠结工具选择。从纯HTML起步，发布至少5篇文章后再考虑工具优化，避免过度工程化。内容是核心，工具应服务于表达而非取代创作。

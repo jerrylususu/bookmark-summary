@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-11) [A Survey of Dynamic Array Structures](202601/2026-01-11-a-survey-of-dynamic-array-structures.md)
+  - 文章系统比较了六类动态数组结构，包括双倍复制数组、内存池数组、分块数组、链接块数组、树结构数组和指数数组，分析了各自的设计特点、优缺点及适用场景。作者倾向于使用内存池管理，强调需根据数据连续性、指针稳定性和内存效率等需求权衡选择。
+  - Tags: #read #deepdive
+
 - (2026-01-11) [Writing First, Tooling Second - Susam's Maze](202601/2026-01-11-writing-first%2C-tooling-second---susam%27s-maze.md)
   - 建立个人网站应优先写作而非纠结工具选择。从纯HTML起步，发布至少5篇文章后再考虑工具优化，避免过度工程化。内容是核心，工具应服务于表达而非取代创作。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Markdown是一种轻量级标记语言，2004年由John Gruber创建，旨在简化文本格式化。它因简洁、开源、恰逢博客兴起而迅速普及，成为开发者及日常工具的通用格式。其成功源于解决实际需求、开放社区协作和免费共享精神。
   - Tags: #read #deepdive #history
 
-- (2026-01-09) [Your AI coding agents need a manager](202601/2026-01-09-your-ai-coding-agents-need-a-manager.md)
-  - 随着AI编程代理普及，开发者需转变为AI管理者的角色。关键管理技能包括清晰沟通、任务委派、验证和异步协调。文章建议先用少量代理处理后台任务，再逐步管理并行工作，重点强调查过程把控和质量验证，而非依赖工具本身。
-  - Tags: #read #llm #agent
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (18 entries)
+- [2026-01](202601/monthly-index.md) (19 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
