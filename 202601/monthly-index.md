@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-11) [A Software Library with No Code](2026-01-11-a-software-library-with-no-code.md)
+  - 作者提出“无代码”软件库（如whenwords），仅依赖规格说明和测试用例，通过AI自动生成代码。这种方法适合简单工具，但复杂、高性能或需社区支持的场景仍需传统代码库。AI或改变编码方式，但代码实现和社区价值不会消失。
+  - Tags: #read
+
 - (2026-01-10) [John Carmack on Inlined Code](2026-01-10-john-carmack-on-inlined-code.md)
   - 约翰·卡马克认为内联代码能减少状态依赖和bug，提升可读性与性能。建议优先内联单次调用函数，用注释分隔代码块，并注重纯函数与一致性执行路径。需根据场景权衡内联与模块化，特别适用于游戏开发等实时系统。
   - Tags: #read #design

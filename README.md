@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-11) [A Software Library with No Code](202601/2026-01-11-a-software-library-with-no-code.md)
+  - 作者提出“无代码”软件库（如whenwords），仅依赖规格说明和测试用例，通过AI自动生成代码。这种方法适合简单工具，但复杂、高性能或需社区支持的场景仍需传统代码库。AI或改变编码方式，但代码实现和社区价值不会消失。
+  - Tags: #read
+
 - (2026-01-10) [John Carmack on Inlined Code](202601/2026-01-10-john-carmack-on-inlined-code.md)
   - 约翰·卡马克认为内联代码能减少状态依赖和bug，提升可读性与性能。建议优先内联单次调用函数，用注释分隔代码块，并注重纯函数与一致性执行路径。需根据场景权衡内联与模块化，特别适用于游戏开发等实时系统。
   - Tags: #read #design
@@ -39,13 +43,9 @@
   - 此内容为错误页面提示，因请求过多（错误码429）无法加载博客文章，仅显示安全检查标题和令牌信息。
   - Tags: #read #deepdive #security
 
-- (2026-01-07) [Fast Code, Expensive Confidence: Building Software With LLMs | Dmitry Danilov](202601/2026-01-07-fast-code%2C-expensive-confidence-building-software-with-llms-dmitry-danilov.md)
-  - 本文指出，LLM加速了代码生成但也增加了风险，软件架构因此更加关键。强调模块化、标准接口和强类型语言能缩小上下文范围、降低错误，同时验证和测试成为核心优势。架构确保AI生成代码的可靠迭代，而非盲目加速。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (16 entries)
+- [2026-01](202601/monthly-index.md) (17 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
