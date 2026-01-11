@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-11) [Writing First, Tooling Second - Susam's Maze](202601/2026-01-11-writing-first%2C-tooling-second---susam%27s-maze.md)
+  - Tags: #read
+  - Summary: 建立个人网站应优先写作而非纠结工具选择。从纯HTML起步，发布至少5篇文章后再考虑工具优化，避免过度工程化。内容是核心，工具应服务于表达而非取代创作。
+
 - (2026-01-11) [A Software Library with No Code](202601/2026-01-11-a-software-library-with-no-code.md)
   - Tags: #read
   - Summary: 作者提出“无代码”软件库（如whenwords），仅依赖规格说明和测试用例，通过AI自动生成代码。这种方法适合简单工具，但复杂、高性能或需社区支持的场景仍需传统代码库。AI或改变编码方式，但代码实现和社区价值不会消失。
