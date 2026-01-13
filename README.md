@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-13) [How to know if that job will crush your soul - Anil Dash](202601/2026-01-13-how-to-know-if-that-job-will-crush-your-soul---anil-dash.md)
+  - 文章提出七个评估工作机会的关键问题：从社会价值、资金来源、核心假设、员工体验、纠错能力、实际薪酬到职业发展，帮助求职者全面判断职位是否值得选择，强调坚持高标准以避免职业风险。
+  - Tags: #read #career
+
 - (2026-01-11) [Don't fall into the anti-AI hype - <antirez>](202601/2026-01-11-don%27t-fall-into-the-anti-ai-hype---antirez.md)
   - AI将彻底改变编程，从手动写代码转向理解问题并指导AI生成代码，效率极大提升。作者认为AI不可逆转，呼吁积极适应以提升效率，同时关注技术垄断和就业冲击等社会问题，需政策配合实现平衡发展。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 通过对比数组结构（AoS）和结构数组（SoA）在JavaScript中的性能，发现SoA模式速度提升4倍，优势源于减少对象分配、优化循环和属性访问。SoA核心通过连续内存布局降低开销，更适合大数据场景。
   - Tags: #read #perf
 
-- (2026-01-09) [Opus 4.5 is going to change everything](202601/2026-01-09-opus-4.5-is-going-to-change-everything.md)
-  - Burke Holland通过亲身体验Claude Opus 4.5 AI编码代理，认为它已能完全替代开发者，可高效完成图像转换、视频编辑、社交媒体工具等复杂项目。作者强调需转向"AI可维护"的编程范式，优化代码结构以适应AI迭代，同时警惕安全风险。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (20 entries)
+- [2026-01](202601/monthly-index.md) (21 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
