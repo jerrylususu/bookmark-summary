@@ -9271,5 +9271,16 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Porting MiniJinja to Go With an Agent",
+    "url": "https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/",
+    "timestamp": 1768397929,
+    "tags": [
+      "read",
+      "llm",
+      "agent"
+    ]
   }
 ]

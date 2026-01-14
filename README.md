@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-14) [Porting MiniJinja to Go With an Agent](202601/2026-01-14-porting-minijinja-to-go-with-an-agent.md)
+  - 作者通过AI代理在约45分钟内将MiniJinja从Rust移植到Go，使用测试驱动方法完成核心功能。过程中AI灵活调整设计以符合Go习惯，作者在细节上少量干预。移植成本约60美元，作者认为AI降低了跨语言门槛，但削弱了社区贡献的意义。
+  - Tags: #read #llm #agent
+
 - (2026-01-13) [How to know if that job will crush your soul - Anil Dash](202601/2026-01-13-how-to-know-if-that-job-will-crush-your-soul---anil-dash.md)
   - 文章提出七个评估工作机会的关键问题：从社会价值、资金来源、核心假设、员工体验、纠错能力、实际薪酬到职业发展，帮助求职者全面判断职位是否值得选择，强调坚持高标准以避免职业风险。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 本文基于RFC 9111标准，解析了HTTP缓存的运行机制，包括缓存新鲜度判断、存储控制、关键Cache-Control指令及其应用场景。文章强调缓存默认启用，但需结合浏览器和中间件的实际兼容性谨慎配置。
   - Tags: #read #deepdive
 
-- (2026-01-09) [Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole | Royal Bhati's Blog](202601/2026-01-09-why-object-of-arrays-%28soa-pattern%29-beat-interleaved-arrays-a-javascript-performance-rabbit-hole-royal-bhati%27s-blog.md)
-  - 通过对比数组结构（AoS）和结构数组（SoA）在JavaScript中的性能，发现SoA模式速度提升4倍，优势源于减少对象分配、优化循环和属性访问。SoA核心通过连续内存布局降低开销，更适合大数据场景。
-  - Tags: #read #perf
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (21 entries)
+- [2026-01](202601/monthly-index.md) (22 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
