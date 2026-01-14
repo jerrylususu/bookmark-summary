@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-14) [How to write a good spec for AI agents](202601/2026-01-14-how-to-write-a-good-spec-for-ai-agents.md)
+  - 本文提出了一套为AI代理编写规格说明的框架，强调通过四方面设计高质量文档：从高层愿景出发逐步细化、采用结构化文档分领域覆盖需求、模块化拆分任务以避免指令过载、以及内置约束与领域知识以提升质量。核心在于平衡指导清晰度和计算负载，使AI在边界内高效工作。
+  - Tags: #read #llm #guide
+
 - (2026-01-14) [Monky Business: Creating a Cistercian Numerals Generator | Christian Heilmann](202601/2026-01-14-monky-business-creating-a-cistercian-numerals-generator-christian-heilmann.md)
   - 本文介绍了西多会数字生成器的开发，该系统能将1-9999的数字转换为基于线条组合的字符。生成器提供在线工具和时钟应用，支持多种输出格式。开发过程通过手动分析符号结构实现核心逻辑，代码开源可用。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文全面介绍了HTML数字输入框的特性、使用方法和注意事项，包括如何自定义按钮、处理本地化、验证数据和移动端支持，强调在现代浏览器中合理使用可以提升用户体验。
   - Tags: #read #deepdive #frontend
 
-- (2026-01-10) [Fly’s new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time](202601/2026-01-10-fly%E2%80%99s-new-sprites.dev-addresses-both-developer-sandboxes-and-api-sandboxes-at-the-same-time.md)
-  - Fly.io推出Sprites.dev，提供持久化沙盒环境与API服务，支持快速创建、检查点回滚和安全运行代码。旨在通过按需计费和隔离环境，为开发者及API用户提供安全、经济的沙盒解决方案。
-  - Tags: #read #llm #security
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (23 entries)
+- [2026-01](202601/monthly-index.md) (24 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

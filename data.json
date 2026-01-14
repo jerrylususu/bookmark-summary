@@ -9291,5 +9291,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "How to write a good spec for AI agents",
+    "url": "https://addyosmani.com/blog/good-spec/",
+    "timestamp": 1768398890,
+    "tags": [
+      "read",
+      "llm",
+      "guide"
+    ]
   }
 ]

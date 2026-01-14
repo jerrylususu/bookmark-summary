@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-14) [How to write a good spec for AI agents](202601/2026-01-14-how-to-write-a-good-spec-for-ai-agents.md)
+  - Tags: #read #llm #guide
+  - Summary: 本文提出了一套为AI代理编写规格说明的框架，强调通过四方面设计高质量文档：从高层愿景出发逐步细化、采用结构化文档分领域覆盖需求、模块化拆分任务以避免指令过载、以及内置约束与领域知识以提升质量。核心在于平衡指导清晰度和计算负载，使AI在边界内高效工作。
+
 - (2026-01-14) [Monky Business: Creating a Cistercian Numerals Generator | Christian Heilmann](202601/2026-01-14-monky-business-creating-a-cistercian-numerals-generator-christian-heilmann.md)
   - Tags: #read
   - Summary: 本文介绍了西多会数字生成器的开发，该系统能将1-9999的数字转换为基于线条组合的字符。生成器提供在线工具和时钟应用，支持多种输出格式。开发过程通过手动分析符号结构实现核心逻辑，代码开源可用。
