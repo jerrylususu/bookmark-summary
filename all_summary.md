@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-14) [Monky Business: Creating a Cistercian Numerals Generator | Christian Heilmann](202601/2026-01-14-monky-business-creating-a-cistercian-numerals-generator-christian-heilmann.md)
+  - Tags: #read
+  - Summary: 本文介绍了西多会数字生成器的开发，该系统能将1-9999的数字转换为基于线条组合的字符。生成器提供在线工具和时钟应用，支持多种输出格式。开发过程通过手动分析符号结构实现核心逻辑，代码开源可用。
+
 - (2026-01-14) [Porting MiniJinja to Go With an Agent](202601/2026-01-14-porting-minijinja-to-go-with-an-agent.md)
   - Tags: #read #llm #agent
   - Summary: 作者通过AI代理在约45分钟内将MiniJinja从Rust移植到Go，使用测试驱动方法完成核心功能。过程中AI灵活调整设计以符合Go习惯，作者在细节上少量干预。移植成本约60美元，作者认为AI降低了跨语言门槛，但削弱了社区贡献的意义。

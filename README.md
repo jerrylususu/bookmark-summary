@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-14) [Monky Business: Creating a Cistercian Numerals Generator | Christian Heilmann](202601/2026-01-14-monky-business-creating-a-cistercian-numerals-generator-christian-heilmann.md)
+  - 本文介绍了西多会数字生成器的开发，该系统能将1-9999的数字转换为基于线条组合的字符。生成器提供在线工具和时钟应用，支持多种输出格式。开发过程通过手动分析符号结构实现核心逻辑，代码开源可用。
+  - Tags: #read
+
 - (2026-01-14) [Porting MiniJinja to Go With an Agent](202601/2026-01-14-porting-minijinja-to-go-with-an-agent.md)
   - 作者通过AI代理在约45分钟内将MiniJinja从Rust移植到Go，使用测试驱动方法完成核心功能。过程中AI灵活调整设计以符合Go习惯，作者在细节上少量干预。移植成本约60美元，作者认为AI降低了跨语言门槛，但削弱了社区贡献的意义。
   - Tags: #read #llm #agent
@@ -39,13 +43,9 @@
   - Fly.io推出Sprites.dev，提供持久化沙盒环境与API服务，支持快速创建、检查点回滚和安全运行代码。旨在通过按需计费和隔离环境，为开发者及API用户提供安全、经济的沙盒解决方案。
   - Tags: #read #llm #security
 
-- (2026-01-09) [HTTP caching, a refresher · Dan Cătălin Burzo](202601/2026-01-09-http-caching%2C-a-refresher-%C2%B7-dan-c%C4%83t%C4%83lin-burzo.md)
-  - 本文基于RFC 9111标准，解析了HTTP缓存的运行机制，包括缓存新鲜度判断、存储控制、关键Cache-Control指令及其应用场景。文章强调缓存默认启用，但需结合浏览器和中间件的实际兼容性谨慎配置。
-  - Tags: #read #deepdive
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (22 entries)
+- [2026-01](202601/monthly-index.md) (23 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
