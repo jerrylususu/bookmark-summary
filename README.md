@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-15) [What came first- the CNAME or the A record](202601/2026-01-15-what-came-first--the-cname-or-the-a-record.md)
+  - 2026年1月，Cloudflare因优化代码意外改动CNAME记录顺序，导致部分DNS客户端解析失败。问题源于RFC对记录顺序规定模糊，旧客户端依赖固定顺序解析。事后Cloudflare恢复原有顺序，并向IETF提交草案推动标准化。
+  - Tags: #read #network
+
 - (2026-01-14) [How to write a good spec for AI agents](202601/2026-01-14-how-to-write-a-good-spec-for-ai-agents.md)
   - 本文提出了一套为AI代理编写规格说明的框架，强调通过四方面设计高质量文档：从高层愿景出发逐步细化、采用结构化文档分领域覆盖需求、模块化拆分任务以避免指令过载、以及内置约束与领域知识以提升质量。核心在于平衡指导清晰度和计算负载，使AI在边界内高效工作。
   - Tags: #read #llm #guide
@@ -39,13 +43,9 @@
   - 约翰·卡马克认为内联代码能减少状态依赖和bug，提升可读性与性能。建议优先内联单次调用函数，用注释分隔代码块，并注重纯函数与一致性执行路径。需根据场景权衡内联与模块化，特别适用于游戏开发等实时系统。
   - Tags: #read #design
 
-- (2026-01-10) [A complete guide to the HTML number input](202601/2026-01-10-a-complete-guide-to-the-html-number-input.md)
-  - 本文全面介绍了HTML数字输入框的特性、使用方法和注意事项，包括如何自定义按钮、处理本地化、验证数据和移动端支持，强调在现代浏览器中合理使用可以提升用户体验。
-  - Tags: #read #deepdive #frontend
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (24 entries)
+- [2026-01](202601/monthly-index.md) (25 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

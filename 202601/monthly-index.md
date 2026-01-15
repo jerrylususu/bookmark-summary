@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-15) [What came first- the CNAME or the A record](2026-01-15-what-came-first--the-cname-or-the-a-record.md)
+  - 2026年1月，Cloudflare因优化代码意外改动CNAME记录顺序，导致部分DNS客户端解析失败。问题源于RFC对记录顺序规定模糊，旧客户端依赖固定顺序解析。事后Cloudflare恢复原有顺序，并向IETF提交草案推动标准化。
+  - Tags: #read #network
+
 - (2026-01-14) [How to write a good spec for AI agents](2026-01-14-how-to-write-a-good-spec-for-ai-agents.md)
   - 本文提出了一套为AI代理编写规格说明的框架，强调通过四方面设计高质量文档：从高层愿景出发逐步细化、采用结构化文档分领域覆盖需求、模块化拆分任务以避免指令过载、以及内置约束与领域知识以提升质量。核心在于平衡指导清晰度和计算负载，使AI在边界内高效工作。
   - Tags: #read #llm #guide

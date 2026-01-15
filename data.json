@@ -9302,5 +9302,15 @@
       "llm",
       "guide"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "What came first- the CNAME or the A record",
+    "url": "https://blog.cloudflare.com/cname-a-record-order-dns-standards/",
+    "timestamp": 1768486407,
+    "tags": [
+      "read",
+      "network"
+    ]
   }
 ]
