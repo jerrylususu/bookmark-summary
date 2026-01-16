@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-16) [Tormentmaxxing 'simple requests'](202601/2026-01-16-tormentmaxxing-%27simple-requests%27.md)
+  - Tags: #read #llm
+  - Summary: 本文探讨了深度工作被打断导致效率损失的问题，尤其在创业公司环境中。作者提出“tormentmaxxing”概念，利用AI工具自动化任务以减少中断，尽管对AI伦理有顾虑，但强调智能工作的重要性。
+
 - (2026-01-15) [What came first- the CNAME or the A record](202601/2026-01-15-what-came-first--the-cname-or-the-a-record.md)
   - Tags: #read #network
   - Summary: 2026年1月，Cloudflare因优化代码意外改动CNAME记录顺序，导致部分DNS客户端解析失败。问题源于RFC对记录顺序规定模糊，旧客户端依赖固定顺序解析。事后Cloudflare恢复原有顺序，并向IETF提交草案推动标准化。

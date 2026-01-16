@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-16) [Tormentmaxxing 'simple requests'](202601/2026-01-16-tormentmaxxing-%27simple-requests%27.md)
+  - 本文探讨了深度工作被打断导致效率损失的问题，尤其在创业公司环境中。作者提出“tormentmaxxing”概念，利用AI工具自动化任务以减少中断，尽管对AI伦理有顾虑，但强调智能工作的重要性。
+  - Tags: #read #llm
+
 - (2026-01-15) [What came first- the CNAME or the A record](202601/2026-01-15-what-came-first--the-cname-or-the-a-record.md)
   - 2026年1月，Cloudflare因优化代码意外改动CNAME记录顺序，导致部分DNS客户端解析失败。问题源于RFC对记录顺序规定模糊，旧客户端依赖固定顺序解析。事后Cloudflare恢复原有顺序，并向IETF提交草案推动标准化。
   - Tags: #read #network
@@ -39,13 +43,9 @@
   - 作者提出“无代码”软件库（如whenwords），仅依赖规格说明和测试用例，通过AI自动生成代码。这种方法适合简单工具，但复杂、高性能或需社区支持的场景仍需传统代码库。AI或改变编码方式，但代码实现和社区价值不会消失。
   - Tags: #read
 
-- (2026-01-10) [John Carmack on Inlined Code](202601/2026-01-10-john-carmack-on-inlined-code.md)
-  - 约翰·卡马克认为内联代码能减少状态依赖和bug，提升可读性与性能。建议优先内联单次调用函数，用注释分隔代码块，并注重纯函数与一致性执行路径。需根据场景权衡内联与模块化，特别适用于游戏开发等实时系统。
-  - Tags: #read #design
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (25 entries)
+- [2026-01](202601/monthly-index.md) (26 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
