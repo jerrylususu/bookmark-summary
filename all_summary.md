@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-17) [The natural home for AI agents is your Reminders app](202601/2026-01-17-the-natural-home-for-ai-agents-is-your-reminders-app.md)
+  - Tags: #read #agent
+  - Summary: 文章探讨AI代理的协调问题，建议通过扩展苹果Reminders等提醒应用作为共享任务管理器，使AI代理能读写任务、处理子任务，从而降低行政负担并提升效率。
+
 - (2026-01-17) [The Design & Implementation of Sprites](202601/2026-01-17-the-design-%26-implementation-of-sprites.md)
   - Tags: #read #arch #deepdive
   - Summary: Sprites 是 Fly.io 推出的新型 Linux 虚拟机，设计为一次性计算机，具有秒级创建、持久存储和低成本特性。其实现基于无容器镜像、对象存储和内部编排，适用于原型开发和交互式任务，与 Fly Machines 互补，未来可无缝转换到生产环境。

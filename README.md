@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-17) [The natural home for AI agents is your Reminders app](202601/2026-01-17-the-natural-home-for-ai-agents-is-your-reminders-app.md)
+  - 文章探讨AI代理的协调问题，建议通过扩展苹果Reminders等提醒应用作为共享任务管理器，使AI代理能读写任务、处理子任务，从而降低行政负担并提升效率。
+  - Tags: #read #agent
+
 - (2026-01-17) [The Design & Implementation of Sprites](202601/2026-01-17-the-design-%26-implementation-of-sprites.md)
   - Sprites 是 Fly.io 推出的新型 Linux 虚拟机，设计为一次性计算机，具有秒级创建、持久存储和低成本特性。其实现基于无容器镜像、对象存储和内部编排，适用于原型开发和交互式任务，与 Fly Machines 互补，未来可无缝转换到生产环境。
   - Tags: #read #arch #deepdive
@@ -39,13 +43,9 @@
   - 文章系统比较了六类动态数组结构，包括双倍复制数组、内存池数组、分块数组、链接块数组、树结构数组和指数数组，分析了各自的设计特点、优缺点及适用场景。作者倾向于使用内存池管理，强调需根据数据连续性、指针稳定性和内存效率等需求权衡选择。
   - Tags: #read #deepdive
 
-- (2026-01-11) [Writing First, Tooling Second - Susam's Maze](202601/2026-01-11-writing-first%2C-tooling-second---susam%27s-maze.md)
-  - 建立个人网站应优先写作而非纠结工具选择。从纯HTML起步，发布至少5篇文章后再考虑工具优化，避免过度工程化。内容是核心，工具应服务于表达而非取代创作。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (27 entries)
+- [2026-01](202601/monthly-index.md) (28 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
