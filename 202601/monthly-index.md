@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-17) [My Claude Code Workflow And Personal Tips](2026-01-17-my-claude-code-workflow-and-personal-tips.md)
+  - 本文介绍作者使用Claude Code和Cursor的AI编码工作流程，核心是通过ROADMAP.md文件进行结构化规划，结合任务管理和实用技巧，提升开发效率。
+  - Tags: #read #llm #guide
+
 - (2026-01-17) [Minimal GitHub Workflow - Susam Pal](2026-01-17-minimal-github-workflow---susam-pal.md)
   - 本文通过逐步实验，从空文件开始构建GitHub工作流，最终成功运行"hello, world"示例。关键发现是：最小配置需包含on事件触发器、jobs定义、job ID、runs-on环境、steps步骤和run命令。
   - Tags: #read

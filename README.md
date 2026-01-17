@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-17) [My Claude Code Workflow And Personal Tips](202601/2026-01-17-my-claude-code-workflow-and-personal-tips.md)
+  - 本文介绍作者使用Claude Code和Cursor的AI编码工作流程，核心是通过ROADMAP.md文件进行结构化规划，结合任务管理和实用技巧，提升开发效率。
+  - Tags: #read #llm #guide
+
 - (2026-01-17) [Minimal GitHub Workflow - Susam Pal](202601/2026-01-17-minimal-github-workflow---susam-pal.md)
   - 本文通过逐步实验，从空文件开始构建GitHub工作流，最终成功运行"hello, world"示例。关键发现是：最小配置需包含on事件触发器、jobs定义、job ID、runs-on环境、steps步骤和run命令。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 作者通过AI代理在约45分钟内将MiniJinja从Rust移植到Go，使用测试驱动方法完成核心功能。过程中AI灵活调整设计以符合Go习惯，作者在细节上少量干预。移植成本约60美元，作者认为AI降低了跨语言门槛，但削弱了社区贡献的意义。
   - Tags: #read #llm #agent
 
-- (2026-01-13) [How to know if that job will crush your soul - Anil Dash](202601/2026-01-13-how-to-know-if-that-job-will-crush-your-soul---anil-dash.md)
-  - 文章提出七个评估工作机会的关键问题：从社会价值、资金来源、核心假设、员工体验、纠错能力、实际薪酬到职业发展，帮助求职者全面判断职位是否值得选择，强调坚持高标准以避免职业风险。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (30 entries)
+- [2026-01](202601/monthly-index.md) (31 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
