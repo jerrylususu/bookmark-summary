@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-17) [The Design & Implementation of Sprites](2026-01-17-the-design-%26-implementation-of-sprites.md)
+  - Sprites 是 Fly.io 推出的新型 Linux 虚拟机，设计为一次性计算机，具有秒级创建、持久存储和低成本特性。其实现基于无容器镜像、对象存储和内部编排，适用于原型开发和交互式任务，与 Fly Machines 互补，未来可无缝转换到生产环境。
+  - Tags: #read #arch #deepdive
+
 - (2026-01-16) [Tormentmaxxing 'simple requests'](2026-01-16-tormentmaxxing-%27simple-requests%27.md)
   - 本文探讨了深度工作被打断导致效率损失的问题，尤其在创业公司环境中。作者提出“tormentmaxxing”概念，利用AI工具自动化任务以减少中断，尽管对AI伦理有顾虑，但强调智能工作的重要性。
   - Tags: #read #llm

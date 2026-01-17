@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-17) [The Design & Implementation of Sprites](202601/2026-01-17-the-design-%26-implementation-of-sprites.md)
+  - Sprites 是 Fly.io 推出的新型 Linux 虚拟机，设计为一次性计算机，具有秒级创建、持久存储和低成本特性。其实现基于无容器镜像、对象存储和内部编排，适用于原型开发和交互式任务，与 Fly Machines 互补，未来可无缝转换到生产环境。
+  - Tags: #read #arch #deepdive
+
 - (2026-01-16) [Tormentmaxxing 'simple requests'](202601/2026-01-16-tormentmaxxing-%27simple-requests%27.md)
   - 本文探讨了深度工作被打断导致效率损失的问题，尤其在创业公司环境中。作者提出“tormentmaxxing”概念，利用AI工具自动化任务以减少中断，尽管对AI伦理有顾虑，但强调智能工作的重要性。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 建立个人网站应优先写作而非纠结工具选择。从纯HTML起步，发布至少5篇文章后再考虑工具优化，避免过度工程化。内容是核心，工具应服务于表达而非取代创作。
   - Tags: #read
 
-- (2026-01-11) [A Software Library with No Code](202601/2026-01-11-a-software-library-with-no-code.md)
-  - 作者提出“无代码”软件库（如whenwords），仅依赖规格说明和测试用例，通过AI自动生成代码。这种方法适合简单工具，但复杂、高性能或需社区支持的场景仍需传统代码库。AI或改变编码方式，但代码实现和社区价值不会消失。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (26 entries)
+- [2026-01](202601/monthly-index.md) (27 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

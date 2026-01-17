@@ -9322,5 +9322,16 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "The Design & Implementation of Sprites",
+    "url": "https://fly.io/blog/design-and-implementation/",
+    "timestamp": 1768631890,
+    "tags": [
+      "read",
+      "arch",
+      "deepdive"
+    ]
   }
 ]
