@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-17) [The Most Important Teams in Tech](202601/2026-01-17-the-most-important-teams-in-tech.md)
+  - 在B2B软件公司中，工程和销售团队是核心：工程负责产品构建，销售驱动增长；其他团队需提供支持。核心团队必须持续改进，避免失败风险。
+  - Tags: #read #career
+
 - (2026-01-17) [The natural home for AI agents is your Reminders app](202601/2026-01-17-the-natural-home-for-ai-agents-is-your-reminders-app.md)
   - 文章探讨AI代理的协调问题，建议通过扩展苹果Reminders等提醒应用作为共享任务管理器，使AI代理能读写任务、处理子任务，从而降低行政负担并提升效率。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - AI将彻底改变编程，从手动写代码转向理解问题并指导AI生成代码，效率极大提升。作者认为AI不可逆转，呼吁积极适应以提升效率，同时关注技术垄断和就业冲击等社会问题，需政策配合实现平衡发展。
   - Tags: #read #llm
 
-- (2026-01-11) [A Survey of Dynamic Array Structures](202601/2026-01-11-a-survey-of-dynamic-array-structures.md)
-  - 文章系统比较了六类动态数组结构，包括双倍复制数组、内存池数组、分块数组、链接块数组、树结构数组和指数数组，分析了各自的设计特点、优缺点及适用场景。作者倾向于使用内存池管理，强调需根据数据连续性、指针稳定性和内存效率等需求权衡选择。
-  - Tags: #read #deepdive
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (28 entries)
+- [2026-01](202601/monthly-index.md) (29 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

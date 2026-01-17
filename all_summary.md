@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-17) [The Most Important Teams in Tech](202601/2026-01-17-the-most-important-teams-in-tech.md)
+  - Tags: #read #career
+  - Summary: 在B2B软件公司中，工程和销售团队是核心：工程负责产品构建，销售驱动增长；其他团队需提供支持。核心团队必须持续改进，避免失败风险。
+
 - (2026-01-17) [The natural home for AI agents is your Reminders app](202601/2026-01-17-the-natural-home-for-ai-agents-is-your-reminders-app.md)
   - Tags: #read #agent
   - Summary: 文章探讨AI代理的协调问题，建议通过扩展苹果Reminders等提醒应用作为共享任务管理器，使AI代理能读写任务、处理子任务，从而降低行政负担并提升效率。
