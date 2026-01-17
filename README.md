@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-17) [Minimal GitHub Workflow - Susam Pal](202601/2026-01-17-minimal-github-workflow---susam-pal.md)
+  - 本文通过逐步实验，从空文件开始构建GitHub工作流，最终成功运行"hello, world"示例。关键发现是：最小配置需包含on事件触发器、jobs定义、job ID、runs-on环境、steps步骤和run命令。
+  - Tags: #read
+
 - (2026-01-17) [The Most Important Teams in Tech](202601/2026-01-17-the-most-important-teams-in-tech.md)
   - 在B2B软件公司中，工程和销售团队是核心：工程负责产品构建，销售驱动增长；其他团队需提供支持。核心团队必须持续改进，避免失败风险。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 文章提出七个评估工作机会的关键问题：从社会价值、资金来源、核心假设、员工体验、纠错能力、实际薪酬到职业发展，帮助求职者全面判断职位是否值得选择，强调坚持高标准以避免职业风险。
   - Tags: #read #career
 
-- (2026-01-11) [Don't fall into the anti-AI hype - <antirez>](202601/2026-01-11-don%27t-fall-into-the-anti-ai-hype---antirez.md)
-  - AI将彻底改变编程，从手动写代码转向理解问题并指导AI生成代码，效率极大提升。作者认为AI不可逆转，呼吁积极适应以提升效率，同时关注技术垄断和就业冲击等社会问题，需政策配合实现平衡发展。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (29 entries)
+- [2026-01](202601/monthly-index.md) (30 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

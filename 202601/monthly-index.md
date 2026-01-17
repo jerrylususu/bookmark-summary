@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-17) [Minimal GitHub Workflow - Susam Pal](2026-01-17-minimal-github-workflow---susam-pal.md)
+  - 本文通过逐步实验，从空文件开始构建GitHub工作流，最终成功运行"hello, world"示例。关键发现是：最小配置需包含on事件触发器、jobs定义、job ID、runs-on环境、steps步骤和run命令。
+  - Tags: #read
+
 - (2026-01-17) [The Most Important Teams in Tech](2026-01-17-the-most-important-teams-in-tech.md)
   - 在B2B软件公司中，工程和销售团队是核心：工程负责产品构建，销售驱动增长；其他团队需提供支持。核心团队必须持续改进，避免失败风险。
   - Tags: #read #career
