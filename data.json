@@ -9373,5 +9373,16 @@
       "llm",
       "guide"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "A Social Filesystem — overreacted",
+    "url": "https://overreacted.io/a-social-filesystem/",
+    "timestamp": 1768746217,
+    "tags": [
+      "read",
+      "distributed",
+      "deepdive"
+    ]
   }
 ]

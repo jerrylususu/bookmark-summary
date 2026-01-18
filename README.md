@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-18) [A Social Filesystem — overreacted](202601/2026-01-18-a-social-filesystem-%E2%80%94-overreacted.md)
+  - Dan Abramov探讨社交文件系统概念，主张将社交数据视为文件，通过AT协议实现用户数据所有权和开放互操作，类似传统文件系统的自由与兼容性。
+  - Tags: #read #distributed #deepdive
+
 - (2026-01-17) [My Claude Code Workflow And Personal Tips](202601/2026-01-17-my-claude-code-workflow-and-personal-tips.md)
   - 本文介绍作者使用Claude Code和Cursor的AI编码工作流程，核心是通过ROADMAP.md文件进行结构化规划，结合任务管理和实用技巧，提升开发效率。
   - Tags: #read #llm #guide
@@ -39,13 +43,9 @@
   - 本文介绍了西多会数字生成器的开发，该系统能将1-9999的数字转换为基于线条组合的字符。生成器提供在线工具和时钟应用，支持多种输出格式。开发过程通过手动分析符号结构实现核心逻辑，代码开源可用。
   - Tags: #read
 
-- (2026-01-14) [Porting MiniJinja to Go With an Agent](202601/2026-01-14-porting-minijinja-to-go-with-an-agent.md)
-  - 作者通过AI代理在约45分钟内将MiniJinja从Rust移植到Go，使用测试驱动方法完成核心功能。过程中AI灵活调整设计以符合Go习惯，作者在细节上少量干预。移植成本约60美元，作者认为AI降低了跨语言门槛，但削弱了社区贡献的意义。
-  - Tags: #read #llm #agent
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (31 entries)
+- [2026-01](202601/monthly-index.md) (32 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
