@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-19) [从“代码补全”到“全托管 Agent”：我的 2025 AI Coding 进化论 - 白宦成](202601/2026-01-19-%E4%BB%8E%E2%80%9C%E4%BB%A3%E7%A0%81%E8%A1%A5%E5%85%A8%E2%80%9D%E5%88%B0%E2%80%9C%E5%85%A8%E6%89%98%E7%AE%A1-agent%E2%80%9D%EF%BC%9A%E6%88%91%E7%9A%84-2025-ai-coding-%E8%BF%9B%E5%8C%96%E8%AE%BA---%E7%99%BD%E5%AE%A6%E6%88%90.md)
+  - Tags: #read #llm #agent
+  - Summary: 白宦成分享2025年使用AI编码工具的经历，强调L3 Agent模式提升效率、降低开发门槛。作者建议工程师适应角色转变，从代码Review起步，确保AI生成代码质量。用好AI工具是未来发展的关键。
+
 - (2026-01-18) [A Social Filesystem — overreacted](202601/2026-01-18-a-social-filesystem-%E2%80%94-overreacted.md)
   - Tags: #read #distributed #deepdive
   - Summary: Dan Abramov探讨社交文件系统概念，主张将社交数据视为文件，通过AT协议实现用户数据所有权和开放互操作，类似传统文件系统的自由与兼容性。
