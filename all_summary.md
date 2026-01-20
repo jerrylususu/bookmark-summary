@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-20) [LocSend · 局域网极速传文件与消息](202601/2026-01-20-locsend-%C2%B7-%E5%B1%80%E5%9F%9F%E7%BD%91%E6%9E%81%E9%80%9F%E4%BC%A0%E6%96%87%E4%BB%B6%E4%B8%8E%E6%B6%88%E6%81%AF.md)
+  - Tags: #tools
+  - Summary: LocSend 是一款基于 WebRTC 的快速文件传输工具，支持局域网或 IPv6 公网的点对点传输，无需注册和云服务器，采用端到端加密确保安全。提供离线版和在线版，适合不同场景，兼容多平台和多种文件类型。
+
 - (2026-01-20) [I'm addicted to being useful](202601/2026-01-20-i%27m-addicted-to-being-useful.md)
   - Tags: #read #career
   - Summary: 文章探讨软件工程师的内在驱动力：作者自称沉迷于被需要和解决问题的满足感，引用文学比喻说明工作与个人特质的契合，建议通过时间管理和专注核心任务来驾驭这种内部强迫。

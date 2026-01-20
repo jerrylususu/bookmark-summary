@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-20) [LocSend · 局域网极速传文件与消息](202601/2026-01-20-locsend-%C2%B7-%E5%B1%80%E5%9F%9F%E7%BD%91%E6%9E%81%E9%80%9F%E4%BC%A0%E6%96%87%E4%BB%B6%E4%B8%8E%E6%B6%88%E6%81%AF.md)
+  - LocSend 是一款基于 WebRTC 的快速文件传输工具，支持局域网或 IPv6 公网的点对点传输，无需注册和云服务器，采用端到端加密确保安全。提供离线版和在线版，适合不同场景，兼容多平台和多种文件类型。
+  - Tags: #tools
+
 - (2026-01-20) [I'm addicted to being useful](202601/2026-01-20-i%27m-addicted-to-being-useful.md)
   - 文章探讨软件工程师的内在驱动力：作者自称沉迷于被需要和解决问题的满足感，引用文学比喻说明工作与个人特质的契合，建议通过时间管理和专注核心任务来驾驭这种内部强迫。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 本文探讨了深度工作被打断导致效率损失的问题，尤其在创业公司环境中。作者提出“tormentmaxxing”概念，利用AI工具自动化任务以减少中断，尽管对AI伦理有顾虑，但强调智能工作的重要性。
   - Tags: #read #llm
 
-- (2026-01-15) [What came first- the CNAME or the A record](202601/2026-01-15-what-came-first--the-cname-or-the-a-record.md)
-  - 2026年1月，Cloudflare因优化代码意外改动CNAME记录顺序，导致部分DNS客户端解析失败。问题源于RFC对记录顺序规定模糊，旧客户端依赖固定顺序解析。事后Cloudflare恢复原有顺序，并向IETF提交草案推动标准化。
-  - Tags: #read #network
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (34 entries)
+- [2026-01](202601/monthly-index.md) (35 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
