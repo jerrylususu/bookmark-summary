@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-20) [I'm addicted to being useful](202601/2026-01-20-i%27m-addicted-to-being-useful.md)
+  - 文章探讨软件工程师的内在驱动力：作者自称沉迷于被需要和解决问题的满足感，引用文学比喻说明工作与个人特质的契合，建议通过时间管理和专注核心任务来驾驭这种内部强迫。
+  - Tags: #read #career
+
 - (2026-01-19) [从“代码补全”到“全托管 Agent”：我的 2025 AI Coding 进化论 - 白宦成](202601/2026-01-19-%E4%BB%8E%E2%80%9C%E4%BB%A3%E7%A0%81%E8%A1%A5%E5%85%A8%E2%80%9D%E5%88%B0%E2%80%9C%E5%85%A8%E6%89%98%E7%AE%A1-agent%E2%80%9D%EF%BC%9A%E6%88%91%E7%9A%84-2025-ai-coding-%E8%BF%9B%E5%8C%96%E8%AE%BA---%E7%99%BD%E5%AE%A6%E6%88%90.md)
   - 白宦成分享2025年使用AI编码工具的经历，强调L3 Agent模式提升效率、降低开发门槛。作者建议工程师适应角色转变，从代码Review起步，确保AI生成代码质量。用好AI工具是未来发展的关键。
   - Tags: #read #llm #agent
@@ -39,13 +43,9 @@
   - 2026年1月，Cloudflare因优化代码意外改动CNAME记录顺序，导致部分DNS客户端解析失败。问题源于RFC对记录顺序规定模糊，旧客户端依赖固定顺序解析。事后Cloudflare恢复原有顺序，并向IETF提交草案推动标准化。
   - Tags: #read #network
 
-- (2026-01-14) [How to write a good spec for AI agents](202601/2026-01-14-how-to-write-a-good-spec-for-ai-agents.md)
-  - 本文提出了一套为AI代理编写规格说明的框架，强调通过四方面设计高质量文档：从高层愿景出发逐步细化、采用结构化文档分领域覆盖需求、模块化拆分任务以避免指令过载、以及内置约束与领域知识以提升质量。核心在于平衡指导清晰度和计算负载，使AI在边界内高效工作。
-  - Tags: #read #llm #guide
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (33 entries)
+- [2026-01](202601/monthly-index.md) (34 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
