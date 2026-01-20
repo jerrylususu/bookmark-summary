@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-20) [The Art of Nested Code Fencing in Markdown - Susam Pal](202601/2026-01-20-the-art-of-nested-code-fencing-in-markdown---susam-pal.md)
+  - Susam Pal的文章探讨了如何在CommonMark和GFM Markdown中安全嵌套代码块分隔符，如三重反引号。通过使用代字号或多重反引号作为分隔符，避免渲染错误，帮助用户正确展示代码示例。基于CommonMark规范。
+  - Tags: #read #tips
+
 - (2026-01-20) [LocSend · 局域网极速传文件与消息](202601/2026-01-20-locsend-%C2%B7-%E5%B1%80%E5%9F%9F%E7%BD%91%E6%9E%81%E9%80%9F%E4%BC%A0%E6%96%87%E4%BB%B6%E4%B8%8E%E6%B6%88%E6%81%AF.md)
   - LocSend 是一款基于 WebRTC 的快速文件传输工具，支持局域网或 IPv6 公网的点对点传输，无需注册和云服务器，采用端到端加密确保安全。提供离线版和在线版，适合不同场景，兼容多平台和多种文件类型。
   - Tags: #tools
@@ -39,13 +43,9 @@
   - Sprites 是 Fly.io 推出的新型 Linux 虚拟机，设计为一次性计算机，具有秒级创建、持久存储和低成本特性。其实现基于无容器镜像、对象存储和内部编排，适用于原型开发和交互式任务，与 Fly Machines 互补，未来可无缝转换到生产环境。
   - Tags: #read #arch #deepdive
 
-- (2026-01-16) [Tormentmaxxing 'simple requests'](202601/2026-01-16-tormentmaxxing-%27simple-requests%27.md)
-  - 本文探讨了深度工作被打断导致效率损失的问题，尤其在创业公司环境中。作者提出“tormentmaxxing”概念，利用AI工具自动化任务以减少中断，尽管对AI伦理有顾虑，但强调智能工作的重要性。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (35 entries)
+- [2026-01](202601/monthly-index.md) (36 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
