@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-21) [Giving University Exams in the Age of Chatbots](202601/2026-01-21-giving-university-exams-in-the-age-of-chatbots.md)
+  - Tags: #read
+  - Summary: 文章介绍作者在大学课程中创新的考试方式：允许使用所有资源，包括聊天机器人，但需负责任声明。学生大多不使用聊天机器人，成绩更优。考试强调协作和思考过程记录，促进学习。作者反思技术使用，主张教育应鼓励负责任创新。
+
 - (2026-01-20) [The Art of Nested Code Fencing in Markdown - Susam Pal](202601/2026-01-20-the-art-of-nested-code-fencing-in-markdown---susam-pal.md)
   - Tags: #read #tips
   - Summary: Susam Pal的文章探讨了如何在CommonMark和GFM Markdown中安全嵌套代码块分隔符，如三重反引号。通过使用代字号或多重反引号作为分隔符，避免渲染错误，帮助用户正确展示代码示例。基于CommonMark规范。
