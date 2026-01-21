@@ -9433,5 +9433,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent",
+    "url": "https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/",
+    "timestamp": 1769002123,
+    "tags": [
+      "read",
+      "guide"
+    ]
   }
 ]

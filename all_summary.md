@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-21) [AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent](202601/2026-01-21-ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent.md)
+  - Tags: #read #guide
+  - Summary: GitHub Security Lab 开发了基于 AI 的漏洞分类方法，利用开源 Taskflow Agent 和 LLM 自动化处理 CodeQL 警报。通过分解任务步骤，减少了假阳性，自 2025 年 8 月以来发现约 30 个真实漏洞。相关代码开源，支持社区扩展。
+
 - (2026-01-21) [Giving University Exams in the Age of Chatbots](202601/2026-01-21-giving-university-exams-in-the-age-of-chatbots.md)
   - Tags: #read
   - Summary: 文章介绍作者在大学课程中创新的考试方式：允许使用所有资源，包括聊天机器人，但需负责任声明。学生大多不使用聊天机器人，成绩更优。考试强调协作和思考过程记录，促进学习。作者反思技术使用，主张教育应鼓励负责任创新。
