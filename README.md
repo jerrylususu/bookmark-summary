@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-22) [Codeless: From idea to software - Anil Dash](202601/2026-01-22-codeless-from-idea-to-software---anil-dash.md)
+  - 无代码技术通过AI编排编码机器人，基于英语描述自动生成软件。核心创新是编排和容错机制，特点包括开源免费、处理AI幻觉。它能赋权个人，提高创新效率，但面临设置复杂、成本高等挑战，有潜力重塑软件开发。
+  - Tags: #read #llm
+
 - (2026-01-21) [AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent](202601/2026-01-21-ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent.md)
   - GitHub Security Lab 开发了基于 AI 的漏洞分类方法，利用开源 Taskflow Agent 和 LLM 自动化处理 CodeQL 警报。通过分解任务步骤，减少了假阳性，自 2025 年 8 月以来发现约 30 个真实漏洞。相关代码开源，支持社区扩展。
   - Tags: #read #guide
@@ -39,13 +43,9 @@
   - 本文通过逐步实验，从空文件开始构建GitHub工作流，最终成功运行"hello, world"示例。关键发现是：最小配置需包含on事件触发器、jobs定义、job ID、runs-on环境、steps步骤和run命令。
   - Tags: #read
 
-- (2026-01-17) [The Most Important Teams in Tech](202601/2026-01-17-the-most-important-teams-in-tech.md)
-  - 在B2B软件公司中，工程和销售团队是核心：工程负责产品构建，销售驱动增长；其他团队需提供支持。核心团队必须持续改进，避免失败风险。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (38 entries)
+- [2026-01](202601/monthly-index.md) (39 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
