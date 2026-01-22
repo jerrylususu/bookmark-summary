@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-22) [The Product-Minded Engineer: The importance of good errors and warnings](202601/2026-01-22-the-product-minded-engineer-the-importance-of-good-errors-and-warnings.md)
+  - 本文强调产品导向工程师需重视错误警告设计。在AI时代，清晰、可操作的消息能提升用户体验、减少成本，通过系统分类、早期验证实现。书中建议工程师培养产品意识，构建健壮产品。
+  - Tags: #read #deepdive
+
 - (2026-01-22) [Codeless: From idea to software - Anil Dash](202601/2026-01-22-codeless-from-idea-to-software---anil-dash.md)
   - 无代码技术通过AI编排编码机器人，基于英语描述自动生成软件。核心创新是编排和容错机制，特点包括开源免费、处理AI幻觉。它能赋权个人，提高创新效率，但面临设置复杂、成本高等挑战，有潜力重塑软件开发。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 本文介绍作者使用Claude Code和Cursor的AI编码工作流程，核心是通过ROADMAP.md文件进行结构化规划，结合任务管理和实用技巧，提升开发效率。
   - Tags: #read #llm #guide
 
-- (2026-01-17) [Minimal GitHub Workflow - Susam Pal](202601/2026-01-17-minimal-github-workflow---susam-pal.md)
-  - 本文通过逐步实验，从空文件开始构建GitHub工作流，最终成功运行"hello, world"示例。关键发现是：最小配置需包含on事件触发器、jobs定义、job ID、runs-on环境、steps步骤和run命令。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (39 entries)
+- [2026-01](202601/monthly-index.md) (40 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

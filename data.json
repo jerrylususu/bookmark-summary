@@ -9453,5 +9453,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "The Product-Minded Engineer: The importance of good errors and warnings",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-product-minded-engineer",
+    "timestamp": 1769090482,
+    "tags": [
+      "read",
+      "deepdive"
+    ]
   }
 ]

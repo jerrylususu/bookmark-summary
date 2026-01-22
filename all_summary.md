@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-22) [The Product-Minded Engineer: The importance of good errors and warnings](202601/2026-01-22-the-product-minded-engineer-the-importance-of-good-errors-and-warnings.md)
+  - Tags: #read #deepdive
+  - Summary: 本文强调产品导向工程师需重视错误警告设计。在AI时代，清晰、可操作的消息能提升用户体验、减少成本，通过系统分类、早期验证实现。书中建议工程师培养产品意识，构建健壮产品。
+
 - (2026-01-22) [Codeless: From idea to software - Anil Dash](202601/2026-01-22-codeless-from-idea-to-software---anil-dash.md)
   - Tags: #read #llm
   - Summary: 无代码技术通过AI编排编码机器人，基于英语描述自动生成软件。核心创新是编排和容错机制，特点包括开源免费、处理AI幻觉。它能赋权个人，提高创新效率，但面临设置复杂、成本高等挑战，有潜力重塑软件开发。
