@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-23) [Why read novels?](202601/2026-01-23-why-read-novels.md)
+  - Tags: #read
+  - Summary: 文章探讨阅读小说的价值，作者通过多个理论分析，如提升心灵空间、减少被动消费等，认为没有单一原因，但阅读能带来积极体验，促进主动思考。
+
 - (2026-01-23) [Interfaces and traits in C](202601/2026-01-23-interfaces-and-traits-in-c.md)
   - Tags: #read #c #deepdive
   - Summary: 本文探讨了在C语言中实现类似Go和Rust接口多态的方法，比较了多种实现方式，推荐使用方法表（vtable）作为高效安全的实用方案，尽管不如原生语言优雅。

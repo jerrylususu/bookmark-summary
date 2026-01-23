@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-23) [Why read novels?](202601/2026-01-23-why-read-novels.md)
+  - 文章探讨阅读小说的价值，作者通过多个理论分析，如提升心灵空间、减少被动消费等，认为没有单一原因，但阅读能带来积极体验，促进主动思考。
+  - Tags: #read
+
 - (2026-01-23) [Interfaces and traits in C](202601/2026-01-23-interfaces-and-traits-in-c.md)
   - 本文探讨了在C语言中实现类似Go和Rust接口多态的方法，比较了多种实现方式，推荐使用方法表（vtable）作为高效安全的实用方案，尽管不如原生语言优雅。
   - Tags: #read #c #deepdive
@@ -39,13 +43,9 @@
   - LocSend 是一款基于 WebRTC 的快速文件传输工具，支持局域网或 IPv6 公网的点对点传输，无需注册和云服务器，采用端到端加密确保安全。提供离线版和在线版，适合不同场景，兼容多平台和多种文件类型。
   - Tags: #tools
 
-- (2026-01-20) [I'm addicted to being useful](202601/2026-01-20-i%27m-addicted-to-being-useful.md)
-  - 文章探讨软件工程师的内在驱动力：作者自称沉迷于被需要和解决问题的满足感，引用文学比喻说明工作与个人特质的契合，建议通过时间管理和专注核心任务来驾驭这种内部强迫。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (43 entries)
+- [2026-01](202601/monthly-index.md) (44 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
