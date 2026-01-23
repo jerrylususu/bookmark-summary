@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-23) [Interfaces and traits in C](2026-01-23-interfaces-and-traits-in-c.md)
+  - 本文探讨了在C语言中实现类似Go和Rust接口多态的方法，比较了多种实现方式，推荐使用方法表（vtable）作为高效安全的实用方案，尽管不如原生语言优雅。
+  - Tags: #read #c #deepdive
+
 - (2026-01-23) [Previewing Claude Code for web branches with GitHub Pages](2026-01-23-previewing-claude-code-for-web-branches-with-github-pages.md)
   - 作者西蒙·威利森通过GitHub Pages部署私有仓库分支，解决了在Claude Code中开发HTML时预览困难的问题。该方法支持持续会话、自动刷新预览，且无时间限制，实用方便。
   - Tags: #read #tips

@@ -9483,5 +9483,16 @@
       "read",
       "tips"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Interfaces and traits in C",
+    "url": "https://antonz.org/interfaces-in-c/",
+    "timestamp": 1769174849,
+    "tags": [
+      "read",
+      "c",
+      "deepdive"
+    ]
   }
 ]

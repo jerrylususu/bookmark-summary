@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-23) [Interfaces and traits in C](202601/2026-01-23-interfaces-and-traits-in-c.md)
+  - 本文探讨了在C语言中实现类似Go和Rust接口多态的方法，比较了多种实现方式，推荐使用方法表（vtable）作为高效安全的实用方案，尽管不如原生语言优雅。
+  - Tags: #read #c #deepdive
+
 - (2026-01-23) [Previewing Claude Code for web branches with GitHub Pages](202601/2026-01-23-previewing-claude-code-for-web-branches-with-github-pages.md)
   - 作者西蒙·威利森通过GitHub Pages部署私有仓库分支，解决了在Claude Code中开发HTML时预览困难的问题。该方法支持持续会话、自动刷新预览，且无时间限制，实用方便。
   - Tags: #read #tips
@@ -39,13 +43,9 @@
   - 文章探讨软件工程师的内在驱动力：作者自称沉迷于被需要和解决问题的满足感，引用文学比喻说明工作与个人特质的契合，建议通过时间管理和专注核心任务来驾驭这种内部强迫。
   - Tags: #read #career
 
-- (2026-01-19) [从“代码补全”到“全托管 Agent”：我的 2025 AI Coding 进化论 - 白宦成](202601/2026-01-19-%E4%BB%8E%E2%80%9C%E4%BB%A3%E7%A0%81%E8%A1%A5%E5%85%A8%E2%80%9D%E5%88%B0%E2%80%9C%E5%85%A8%E6%89%98%E7%AE%A1-agent%E2%80%9D%EF%BC%9A%E6%88%91%E7%9A%84-2025-ai-coding-%E8%BF%9B%E5%8C%96%E8%AE%BA---%E7%99%BD%E5%AE%A6%E6%88%90.md)
-  - 白宦成分享2025年使用AI编码工具的经历，强调L3 Agent模式提升效率、降低开发门槛。作者建议工程师适应角色转变，从代码Review起步，确保AI生成代码质量。用好AI工具是未来发展的关键。
-  - Tags: #read #llm #agent
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (42 entries)
+- [2026-01](202601/monthly-index.md) (43 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
