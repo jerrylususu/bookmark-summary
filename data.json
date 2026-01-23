@@ -9473,5 +9473,15 @@
       "read",
       "hack"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Previewing Claude Code for web branches with GitHub Pages",
+    "url": "https://til.simonwillison.net/claude-code/preview-github-pages",
+    "timestamp": 1769173337,
+    "tags": [
+      "read",
+      "tips"
+    ]
   }
 ]

@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-23) [Previewing Claude Code for web branches with GitHub Pages](2026-01-23-previewing-claude-code-for-web-branches-with-github-pages.md)
+  - 作者西蒙·威利森通过GitHub Pages部署私有仓库分支，解决了在Claude Code中开发HTML时预览困难的问题。该方法支持持续会话、自动刷新预览，且无时间限制，实用方便。
+  - Tags: #read #tips
+
 - (2026-01-23) [SSH has no Host header - exe.dev blog](2026-01-23-ssh-has-no-host-header---exe.dev-blog.md)
   - exe.dev平台SSH协议缺乏Host头，无法区分虚拟机。解决方案是采用共享IPv4地址池，通过DNS CNAME记录和用户公钥与IP组合路由连接。该定制方案确保域名行为一致，适用于其特定需求。
   - Tags: #read #hack
