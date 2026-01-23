@@ -9463,5 +9463,15 @@
       "read",
       "deepdive"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "SSH has no Host header - exe.dev blog",
+    "url": "https://blog.exe.dev/ssh-host-header",
+    "timestamp": 1769173278,
+    "tags": [
+      "read",
+      "hack"
+    ]
   }
 ]

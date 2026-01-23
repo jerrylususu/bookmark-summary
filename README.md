@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-23) [SSH has no Host header - exe.dev blog](202601/2026-01-23-ssh-has-no-host-header---exe.dev-blog.md)
+  - exe.dev平台SSH协议缺乏Host头，无法区分虚拟机。解决方案是采用共享IPv4地址池，通过DNS CNAME记录和用户公钥与IP组合路由连接。该定制方案确保域名行为一致，适用于其特定需求。
+  - Tags: #read #hack
+
 - (2026-01-22) [The Product-Minded Engineer: The importance of good errors and warnings](202601/2026-01-22-the-product-minded-engineer-the-importance-of-good-errors-and-warnings.md)
   - 本文强调产品导向工程师需重视错误警告设计。在AI时代，清晰、可操作的消息能提升用户体验、减少成本，通过系统分类、早期验证实现。书中建议工程师培养产品意识，构建健壮产品。
   - Tags: #read #deepdive
@@ -39,13 +43,9 @@
   - Dan Abramov探讨社交文件系统概念，主张将社交数据视为文件，通过AT协议实现用户数据所有权和开放互操作，类似传统文件系统的自由与兼容性。
   - Tags: #read #distributed #deepdive
 
-- (2026-01-17) [My Claude Code Workflow And Personal Tips](202601/2026-01-17-my-claude-code-workflow-and-personal-tips.md)
-  - 本文介绍作者使用Claude Code和Cursor的AI编码工作流程，核心是通过ROADMAP.md文件进行结构化规划，结合任务管理和实用技巧，提升开发效率。
-  - Tags: #read #llm #guide
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (40 entries)
+- [2026-01](202601/monthly-index.md) (41 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
