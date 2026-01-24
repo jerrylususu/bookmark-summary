@@ -9523,5 +9523,14 @@
       "read",
       "frontend"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Personal infrastructure setup 2026",
+    "url": "https://linderud.dev/blog/personal-infrastructure-setup-2026/",
+    "timestamp": 1769230837,
+    "tags": [
+      "read"
+    ]
   }
 ]

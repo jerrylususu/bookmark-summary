@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-24) [Personal infrastructure setup 2026](202601/2026-01-24-personal-infrastructure-setup-2026.md)
+  - Morten Linderud在2026年的个人基础设施设置旨在自托管邮件、博客等服务，使用Incus管理容器和虚拟机，Opentofu实现自动化。硬件包括NAS和NUC设备，网络通过WireGuard VPN和Nginx代理解决ISP限制。设置强调简单可靠，代码开源供学习。
+  - Tags: #read
+
 - (2026-01-24) [A Few Things About the Anchor Element’s href You Might Not Have Known](202601/2026-01-24-a-few-things-about-the-anchor-element%E2%80%99s-href-you-might-not-have-known.md)
   - 文章探讨了HTML锚元素href属性的多种用法，包括协议链接、特殊值行为（如href="#"滚动到顶部）、数据URL和媒体片段等，作者通过JavaScript测试验证了这些行为的准确性。
   - Tags: #read #frontend
@@ -39,13 +43,9 @@
   - GitHub Security Lab 开发了基于 AI 的漏洞分类方法，利用开源 Taskflow Agent 和 LLM 自动化处理 CodeQL 警报。通过分解任务步骤，减少了假阳性，自 2025 年 8 月以来发现约 30 个真实漏洞。相关代码开源，支持社区扩展。
   - Tags: #read #guide
 
-- (2026-01-21) [Giving University Exams in the Age of Chatbots](202601/2026-01-21-giving-university-exams-in-the-age-of-chatbots.md)
-  - 文章介绍作者在大学课程中创新的考试方式：允许使用所有资源，包括聊天机器人，但需负责任声明。学生大多不使用聊天机器人，成绩更优。考试强调协作和思考过程记录，促进学习。作者反思技术使用，主张教育应鼓励负责任创新。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (46 entries)
+- [2026-01](202601/monthly-index.md) (47 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

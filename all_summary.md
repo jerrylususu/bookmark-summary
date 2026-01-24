@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-24) [Personal infrastructure setup 2026](202601/2026-01-24-personal-infrastructure-setup-2026.md)
+  - Tags: #read
+  - Summary: Morten Linderud在2026年的个人基础设施设置旨在自托管邮件、博客等服务，使用Incus管理容器和虚拟机，Opentofu实现自动化。硬件包括NAS和NUC设备，网络通过WireGuard VPN和Nginx代理解决ISP限制。设置强调简单可靠，代码开源供学习。
+
 - (2026-01-24) [A Few Things About the Anchor Element’s href You Might Not Have Known](202601/2026-01-24-a-few-things-about-the-anchor-element%E2%80%99s-href-you-might-not-have-known.md)
   - Tags: #read #frontend
   - Summary: 文章探讨了HTML锚元素href属性的多种用法，包括协议链接、特殊值行为（如href="#"滚动到顶部）、数据URL和媒体片段等，作者通过JavaScript测试验证了这些行为的准确性。
