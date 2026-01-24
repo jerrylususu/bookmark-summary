@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-24) [Common misunderstandings about large software companies – Vallified](202601/2026-01-24-common-misunderstandings-about-large-software-companies-%E2%80%93-vallified.md)
+  - Philip O'Toole的文章反驳了对大型软件公司的常见误解。作者指出，批评者常忽略规模带来的结构性原因：会议多为协调必需，高管主导是决策关键，流程确保可靠性。这些是组织逻辑的体现，应先理解运作逻辑而非简单指责。
+  - Tags: #read
+
 - (2026-01-24) [Light Mode InFFFFFFlation — Will Richardson](202601/2026-01-24-light-mode-infffffflation-%E2%80%94-will-richardson.md)
   - 文章分析MacOS界面亮度从2009年Snow Leopard起逐年上升，设计师偏好亮色致界面过亮，用户被迫使用深色模式。作者建议采用50%灰色以改善视觉舒适度，并呼吁回归平衡设计。
   - Tags: #read #design
@@ -39,13 +43,9 @@
   - 本文强调产品导向工程师需重视错误警告设计。在AI时代，清晰、可操作的消息能提升用户体验、减少成本，通过系统分类、早期验证实现。书中建议工程师培养产品意识，构建健壮产品。
   - Tags: #read #deepdive
 
-- (2026-01-22) [Codeless: From idea to software - Anil Dash](202601/2026-01-22-codeless-from-idea-to-software---anil-dash.md)
-  - 无代码技术通过AI编排编码机器人，基于英语描述自动生成软件。核心创新是编排和容错机制，特点包括开源免费、处理AI幻觉。它能赋权个人，提高创新效率，但面临设置复杂、成本高等挑战，有潜力重塑软件开发。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (48 entries)
+- [2026-01](202601/monthly-index.md) (49 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

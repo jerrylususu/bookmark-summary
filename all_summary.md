@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-24) [Common misunderstandings about large software companies – Vallified](202601/2026-01-24-common-misunderstandings-about-large-software-companies-%E2%80%93-vallified.md)
+  - Tags: #read
+  - Summary: Philip O'Toole的文章反驳了对大型软件公司的常见误解。作者指出，批评者常忽略规模带来的结构性原因：会议多为协调必需，高管主导是决策关键，流程确保可靠性。这些是组织逻辑的体现，应先理解运作逻辑而非简单指责。
+
 - (2026-01-24) [Light Mode InFFFFFFlation — Will Richardson](202601/2026-01-24-light-mode-infffffflation-%E2%80%94-will-richardson.md)
   - Tags: #read #design
   - Summary: 文章分析MacOS界面亮度从2009年Snow Leopard起逐年上升，设计师偏好亮色致界面过亮，用户被迫使用深色模式。作者建议采用50%灰色以改善视觉舒适度，并呼吁回归平衡设计。
