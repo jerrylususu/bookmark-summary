@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-24) [A Few Things About the Anchor Element’s href You Might Not Have Known](2026-01-24-a-few-things-about-the-anchor-element%E2%80%99s-href-you-might-not-have-known.md)
+  - 文章探讨了HTML锚元素href属性的多种用法，包括协议链接、特殊值行为（如href="#"滚动到顶部）、数据URL和媒体片段等，作者通过JavaScript测试验证了这些行为的准确性。
+  - Tags: #read #frontend
+
 - (2026-01-24) [How I estimate work as a staff software engineer](2026-01-24-how-i-estimate-work-as-a-staff-software-engineer.md)
   - 文章作者指出软件项目估算本质上不可行，因未知工作占主导，无法精确预测。估算实为组织政治工具，用于资源协商；作者建议通过风险分析和多方案评估来支持决策，而非追求准确时间。
   - Tags: #read #career

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-24) [A Few Things About the Anchor Element’s href You Might Not Have Known](202601/2026-01-24-a-few-things-about-the-anchor-element%E2%80%99s-href-you-might-not-have-known.md)
+  - 文章探讨了HTML锚元素href属性的多种用法，包括协议链接、特殊值行为（如href="#"滚动到顶部）、数据URL和媒体片段等，作者通过JavaScript测试验证了这些行为的准确性。
+  - Tags: #read #frontend
+
 - (2026-01-24) [How I estimate work as a staff software engineer](202601/2026-01-24-how-i-estimate-work-as-a-staff-software-engineer.md)
   - 文章作者指出软件项目估算本质上不可行，因未知工作占主导，无法精确预测。估算实为组织政治工具，用于资源协商；作者建议通过风险分析和多方案评估来支持决策，而非追求准确时间。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 文章介绍作者在大学课程中创新的考试方式：允许使用所有资源，包括聊天机器人，但需负责任声明。学生大多不使用聊天机器人，成绩更优。考试强调协作和思考过程记录，促进学习。作者反思技术使用，主张教育应鼓励负责任创新。
   - Tags: #read
 
-- (2026-01-20) [The Art of Nested Code Fencing in Markdown - Susam Pal](202601/2026-01-20-the-art-of-nested-code-fencing-in-markdown---susam-pal.md)
-  - Susam Pal的文章探讨了如何在CommonMark和GFM Markdown中安全嵌套代码块分隔符，如三重反引号。通过使用代字号或多重反引号作为分隔符，避免渲染错误，帮助用户正确展示代码示例。基于CommonMark规范。
-  - Tags: #read #tips
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (45 entries)
+- [2026-01](202601/monthly-index.md) (46 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

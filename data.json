@@ -9513,5 +9513,15 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "A Few Things About the Anchor Element’s href You Might Not Have Known",
+    "url": "https://blog.jim-nielsen.com/2025/href-value-possibilities/",
+    "timestamp": 1769230103,
+    "tags": [
+      "read",
+      "frontend"
+    ]
   }
 ]
