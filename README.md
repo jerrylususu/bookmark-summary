@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-24) [How I estimate work as a staff software engineer](202601/2026-01-24-how-i-estimate-work-as-a-staff-software-engineer.md)
+  - 文章作者指出软件项目估算本质上不可行，因未知工作占主导，无法精确预测。估算实为组织政治工具，用于资源协商；作者建议通过风险分析和多方案评估来支持决策，而非追求准确时间。
+  - Tags: #read #career
+
 - (2026-01-23) [Why read novels?](202601/2026-01-23-why-read-novels.md)
   - 文章探讨阅读小说的价值，作者通过多个理论分析，如提升心灵空间、减少被动消费等，认为没有单一原因，但阅读能带来积极体验，促进主动思考。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Susam Pal的文章探讨了如何在CommonMark和GFM Markdown中安全嵌套代码块分隔符，如三重反引号。通过使用代字号或多重反引号作为分隔符，避免渲染错误，帮助用户正确展示代码示例。基于CommonMark规范。
   - Tags: #read #tips
 
-- (2026-01-20) [LocSend · 局域网极速传文件与消息](202601/2026-01-20-locsend-%C2%B7-%E5%B1%80%E5%9F%9F%E7%BD%91%E6%9E%81%E9%80%9F%E4%BC%A0%E6%96%87%E4%BB%B6%E4%B8%8E%E6%B6%88%E6%81%AF.md)
-  - LocSend 是一款基于 WebRTC 的快速文件传输工具，支持局域网或 IPv6 公网的点对点传输，无需注册和云服务器，采用端到端加密确保安全。提供离线版和在线版，适合不同场景，兼容多平台和多种文件类型。
-  - Tags: #tools
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (44 entries)
+- [2026-01](202601/monthly-index.md) (45 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

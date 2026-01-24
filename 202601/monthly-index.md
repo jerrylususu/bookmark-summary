@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-24) [How I estimate work as a staff software engineer](2026-01-24-how-i-estimate-work-as-a-staff-software-engineer.md)
+  - 文章作者指出软件项目估算本质上不可行，因未知工作占主导，无法精确预测。估算实为组织政治工具，用于资源协商；作者建议通过风险分析和多方案评估来支持决策，而非追求准确时间。
+  - Tags: #read #career
+
 - (2026-01-23) [Why read novels?](2026-01-23-why-read-novels.md)
   - 文章探讨阅读小说的价值，作者通过多个理论分析，如提升心灵空间、减少被动消费等，认为没有单一原因，但阅读能带来积极体验，促进主动思考。
   - Tags: #read
