@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-24) [Light Mode InFFFFFFlation — Will Richardson](2026-01-24-light-mode-infffffflation-%E2%80%94-will-richardson.md)
+  - 文章分析MacOS界面亮度从2009年Snow Leopard起逐年上升，设计师偏好亮色致界面过亮，用户被迫使用深色模式。作者建议采用50%灰色以改善视觉舒适度，并呼吁回归平衡设计。
+  - Tags: #read #design
+
 - (2026-01-24) [Personal infrastructure setup 2026](2026-01-24-personal-infrastructure-setup-2026.md)
   - Morten Linderud在2026年的个人基础设施设置旨在自托管邮件、博客等服务，使用Incus管理容器和虚拟机，Opentofu实现自动化。硬件包括NAS和NUC设备，网络通过WireGuard VPN和Nginx代理解决ISP限制。设置强调简单可靠，代码开源供学习。
   - Tags: #read
