@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-25) [The Value of Things – journal.stuffwithstuff.com](202601/2026-01-25-the-value-of-things-%E2%80%93-journal.stuffwithstuff.com.md)
+  - Tags: #read
+  - Summary: 文章探讨生成式 AI 对价值的影响，区分效用（实用性）和意义（情感价值）。AI 能提升效用效率，但会稀释意义。建议在实用任务中使用 AI，在情感连接中避免依赖，以平衡价值。
+
 - (2026-01-24) [Common misunderstandings about large software companies – Vallified](202601/2026-01-24-common-misunderstandings-about-large-software-companies-%E2%80%93-vallified.md)
   - Tags: #read
   - Summary: Philip O'Toole的文章反驳了对大型软件公司的常见误解。作者指出，批评者常忽略规模带来的结构性原因：会议多为协调必需，高管主导是决策关键，流程确保可靠性。这些是组织逻辑的体现，应先理解运作逻辑而非简单指责。

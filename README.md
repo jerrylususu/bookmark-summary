@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-25) [The Value of Things – journal.stuffwithstuff.com](202601/2026-01-25-the-value-of-things-%E2%80%93-journal.stuffwithstuff.com.md)
+  - 文章探讨生成式 AI 对价值的影响，区分效用（实用性）和意义（情感价值）。AI 能提升效用效率，但会稀释意义。建议在实用任务中使用 AI，在情感连接中避免依赖，以平衡价值。
+  - Tags: #read
+
 - (2026-01-24) [Common misunderstandings about large software companies – Vallified](202601/2026-01-24-common-misunderstandings-about-large-software-companies-%E2%80%93-vallified.md)
   - Philip O'Toole的文章反驳了对大型软件公司的常见误解。作者指出，批评者常忽略规模带来的结构性原因：会议多为协调必需，高管主导是决策关键，流程确保可靠性。这些是组织逻辑的体现，应先理解运作逻辑而非简单指责。
   - Tags: #read
@@ -39,13 +43,9 @@
   - exe.dev平台SSH协议缺乏Host头，无法区分虚拟机。解决方案是采用共享IPv4地址池，通过DNS CNAME记录和用户公钥与IP组合路由连接。该定制方案确保域名行为一致，适用于其特定需求。
   - Tags: #read #hack
 
-- (2026-01-22) [The Product-Minded Engineer: The importance of good errors and warnings](202601/2026-01-22-the-product-minded-engineer-the-importance-of-good-errors-and-warnings.md)
-  - 本文强调产品导向工程师需重视错误警告设计。在AI时代，清晰、可操作的消息能提升用户体验、减少成本，通过系统分类、早期验证实现。书中建议工程师培养产品意识，构建健壮产品。
-  - Tags: #read #deepdive
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (49 entries)
+- [2026-01](202601/monthly-index.md) (50 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
