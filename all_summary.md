@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-26) [State of the Windows: What is going on with Windows 11?](202601/2026-01-26-state-of-the-windows-what-is-going-on-with-windows-11.md)
+  - Tags: #read
+  - Summary: 文章批评Windows 11自2023年质量下降，更新频发错误、系统臃肿运行慢、AI功能强制集成但实用性低，微软被指忽视用户体验，呼吁回归稳定可靠系统。
+
 - (2026-01-26) [the browser is the sandbox](202601/2026-01-26-the-browser-is-the-sandbox.md)
   - Tags: #read #llm #deepdive
   - Summary: 文章探讨浏览器作为沙箱运行AI自动化任务的安全潜力，通过文件系统API、内容安全策略和代码隔离机制（如Web Workers）来降低风险。作者以Co-do项目为例指出浏览器沙箱可行，但需厂商改进以提升安全性。

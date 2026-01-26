@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-26) [State of the Windows: What is going on with Windows 11?](202601/2026-01-26-state-of-the-windows-what-is-going-on-with-windows-11.md)
+  - 文章批评Windows 11自2023年质量下降，更新频发错误、系统臃肿运行慢、AI功能强制集成但实用性低，微软被指忽视用户体验，呼吁回归稳定可靠系统。
+  - Tags: #read
+
 - (2026-01-26) [the browser is the sandbox](202601/2026-01-26-the-browser-is-the-sandbox.md)
   - 文章探讨浏览器作为沙箱运行AI自动化任务的安全潜力，通过文件系统API、内容安全策略和代码隔离机制（如Web Workers）来降低风险。作者以Co-do项目为例指出浏览器沙箱可行，但需厂商改进以提升安全性。
   - Tags: #read #llm #deepdive
@@ -39,13 +43,9 @@
   - 文章探讨阅读小说的价值，作者通过多个理论分析，如提升心灵空间、减少被动消费等，认为没有单一原因，但阅读能带来积极体验，促进主动思考。
   - Tags: #read
 
-- (2026-01-23) [Interfaces and traits in C](202601/2026-01-23-interfaces-and-traits-in-c.md)
-  - 本文探讨了在C语言中实现类似Go和Rust接口多态的方法，比较了多种实现方式，推荐使用方法表（vtable）作为高效安全的实用方案，尽管不如原生语言优雅。
-  - Tags: #read #c #deepdive
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (52 entries)
+- [2026-01](202601/monthly-index.md) (53 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
