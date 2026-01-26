@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-26) [You have to know how to drive the car](202601/2026-01-26-you-have-to-know-how-to-drive-the-car.md)
+  - 本文以“开车”为喻，强调软件工程师必须理解公司内部政治和流程，才能实现晋升、工作平衡或用户价值等目标。若不掌握，可能失败或被边缘化；唯一避免方式是离开大公司，但会失去影响力。留下则必须学习运作机制。
+  - Tags: #read #career
+
 - (2026-01-25) [The Value of Things – journal.stuffwithstuff.com](202601/2026-01-25-the-value-of-things-%E2%80%93-journal.stuffwithstuff.com.md)
   - 文章探讨生成式 AI 对价值的影响，区分效用（实用性）和意义（情感价值）。AI 能提升效用效率，但会稀释意义。建议在实用任务中使用 AI，在情感连接中避免依赖，以平衡价值。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 作者西蒙·威利森通过GitHub Pages部署私有仓库分支，解决了在Claude Code中开发HTML时预览困难的问题。该方法支持持续会话、自动刷新预览，且无时间限制，实用方便。
   - Tags: #read #tips
 
-- (2026-01-23) [SSH has no Host header - exe.dev blog](202601/2026-01-23-ssh-has-no-host-header---exe.dev-blog.md)
-  - exe.dev平台SSH协议缺乏Host头，无法区分虚拟机。解决方案是采用共享IPv4地址池，通过DNS CNAME记录和用户公钥与IP组合路由连接。该定制方案确保域名行为一致，适用于其特定需求。
-  - Tags: #read #hack
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (50 entries)
+- [2026-01](202601/monthly-index.md) (51 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

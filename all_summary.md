@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-26) [You have to know how to drive the car](202601/2026-01-26-you-have-to-know-how-to-drive-the-car.md)
+  - Tags: #read #career
+  - Summary: 本文以“开车”为喻，强调软件工程师必须理解公司内部政治和流程，才能实现晋升、工作平衡或用户价值等目标。若不掌握，可能失败或被边缘化；唯一避免方式是离开大公司，但会失去影响力。留下则必须学习运作机制。
+
 - (2026-01-25) [The Value of Things – journal.stuffwithstuff.com](202601/2026-01-25-the-value-of-things-%E2%80%93-journal.stuffwithstuff.com.md)
   - Tags: #read
   - Summary: 文章探讨生成式 AI 对价值的影响，区分效用（实用性）和意义（情感价值）。AI 能提升效用效率，但会稀释意义。建议在实用任务中使用 AI，在情感连接中避免依赖，以平衡价值。
