@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-26) [the browser is the sandbox](202601/2026-01-26-the-browser-is-the-sandbox.md)
+  - 文章探讨浏览器作为沙箱运行AI自动化任务的安全潜力，通过文件系统API、内容安全策略和代码隔离机制（如Web Workers）来降低风险。作者以Co-do项目为例指出浏览器沙箱可行，但需厂商改进以提升安全性。
+  - Tags: #read #llm #deepdive
+
 - (2026-01-26) [You have to know how to drive the car](202601/2026-01-26-you-have-to-know-how-to-drive-the-car.md)
   - 本文以“开车”为喻，强调软件工程师必须理解公司内部政治和流程，才能实现晋升、工作平衡或用户价值等目标。若不掌握，可能失败或被边缘化；唯一避免方式是离开大公司，但会失去影响力。留下则必须学习运作机制。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 本文探讨了在C语言中实现类似Go和Rust接口多态的方法，比较了多种实现方式，推荐使用方法表（vtable）作为高效安全的实用方案，尽管不如原生语言优雅。
   - Tags: #read #c #deepdive
 
-- (2026-01-23) [Previewing Claude Code for web branches with GitHub Pages](202601/2026-01-23-previewing-claude-code-for-web-branches-with-github-pages.md)
-  - 作者西蒙·威利森通过GitHub Pages部署私有仓库分支，解决了在Claude Code中开发HTML时预览困难的问题。该方法支持持续会话、自动刷新预览，且无时间限制，实用方便。
-  - Tags: #read #tips
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (51 entries)
+- [2026-01](202601/monthly-index.md) (52 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

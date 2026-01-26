@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-26) [the browser is the sandbox](2026-01-26-the-browser-is-the-sandbox.md)
+  - 文章探讨浏览器作为沙箱运行AI自动化任务的安全潜力，通过文件系统API、内容安全策略和代码隔离机制（如Web Workers）来降低风险。作者以Co-do项目为例指出浏览器沙箱可行，但需厂商改进以提升安全性。
+  - Tags: #read #llm #deepdive
+
 - (2026-01-26) [You have to know how to drive the car](2026-01-26-you-have-to-know-how-to-drive-the-car.md)
   - 本文以“开车”为喻，强调软件工程师必须理解公司内部政治和流程，才能实现晋升、工作平衡或用户价值等目标。若不掌握，可能失败或被边缘化；唯一避免方式是离开大公司，但会失去影响力。留下则必须学习运作机制。
   - Tags: #read #career

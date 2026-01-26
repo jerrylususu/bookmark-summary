@@ -9570,5 +9570,16 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "the browser is the sandbox",
+    "url": "https://aifoc.us/the-browser-is-the-sandbox/",
+    "timestamp": 1769434382,
+    "tags": [
+      "read",
+      "llm",
+      "deepdive"
+    ]
   }
 ]
