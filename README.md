@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-27) [Tips for getting coding agents to write good Python tests](202601/2026-01-27-tips-for-getting-coding-agents-to-write-good-python-tests.md)
+  - 本文分享了让AI代理编写高质量Python测试的技巧，包括选择Python语言利用丰富数据、使用pytest工具优化代码、在良好测试环境中促进学习，以及模仿现有项目模式。
+  - Tags: #read #llm #guide
+
 - (2026-01-26) [State of the Windows: What is going on with Windows 11?](202601/2026-01-26-state-of-the-windows-what-is-going-on-with-windows-11.md)
   - 文章批评Windows 11自2023年质量下降，更新频发错误、系统臃肿运行慢、AI功能强制集成但实用性低，微软被指忽视用户体验，呼吁回归稳定可靠系统。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章作者指出软件项目估算本质上不可行，因未知工作占主导，无法精确预测。估算实为组织政治工具，用于资源协商；作者建议通过风险分析和多方案评估来支持决策，而非追求准确时间。
   - Tags: #read #career
 
-- (2026-01-23) [Why read novels?](202601/2026-01-23-why-read-novels.md)
-  - 文章探讨阅读小说的价值，作者通过多个理论分析，如提升心灵空间、减少被动消费等，认为没有单一原因，但阅读能带来积极体验，促进主动思考。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (53 entries)
+- [2026-01](202601/monthly-index.md) (54 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

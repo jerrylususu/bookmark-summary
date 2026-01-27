@@ -9590,5 +9590,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Tips for getting coding agents to write good Python tests",
+    "url": "https://simonwillison.net/2026/Jan/26/tests/",
+    "timestamp": 1769520368,
+    "tags": [
+      "read",
+      "llm",
+      "guide"
+    ]
   }
 ]

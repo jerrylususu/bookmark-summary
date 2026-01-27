@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-27) [Tips for getting coding agents to write good Python tests](202601/2026-01-27-tips-for-getting-coding-agents-to-write-good-python-tests.md)
+  - Tags: #read #llm #guide
+  - Summary: 本文分享了让AI代理编写高质量Python测试的技巧，包括选择Python语言利用丰富数据、使用pytest工具优化代码、在良好测试环境中促进学习，以及模仿现有项目模式。
+
 - (2026-01-26) [State of the Windows: What is going on with Windows 11?](202601/2026-01-26-state-of-the-windows-what-is-going-on-with-windows-11.md)
   - Tags: #read
   - Summary: 文章批评Windows 11自2023年质量下降，更新频发错误、系统臃肿运行慢、AI功能强制集成但实用性低，微软被指忽视用户体验，呼吁回归稳定可靠系统。
