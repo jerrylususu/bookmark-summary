@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-28) [Management as AI superpower](2026-01-28-management-as-ai-superpower.md)
+  - 基于宾大实验，EMBA学生利用AI工具在四天内快速创建初创原型。AI委托决策需权衡任务时间、成功率和处理时间。管理技能如清晰指令和评估能提升AI效率，成为AI时代的核心优势，预示未来工作可能转向管理AI代理。
+  - Tags: #read #llm
+
 - (2026-01-28) [One Human + One Agent = One Browser From Scratch](2026-01-28-one-human-%2B-one-agent-%3D-one-browser-from-scratch.md)
   - 本文记录作者与LLM代理在三天内合作开发跨平台浏览器的经历，支持HTML/CSS渲染，代码超2万行。实验表明一人一代理模式高效，协作质量比代理数量更重要。
   - Tags: #read #agent

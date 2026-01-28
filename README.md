@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-28) [Management as AI superpower](202601/2026-01-28-management-as-ai-superpower.md)
+  - 基于宾大实验，EMBA学生利用AI工具在四天内快速创建初创原型。AI委托决策需权衡任务时间、成功率和处理时间。管理技能如清晰指令和评估能提升AI效率，成为AI时代的核心优势，预示未来工作可能转向管理AI代理。
+  - Tags: #read #llm
+
 - (2026-01-28) [One Human + One Agent = One Browser From Scratch](202601/2026-01-28-one-human-%2B-one-agent-%3D-one-browser-from-scratch.md)
   - 本文记录作者与LLM代理在三天内合作开发跨平台浏览器的经历，支持HTML/CSS渲染，代码超2万行。实验表明一人一代理模式高效，协作质量比代理数量更重要。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - Morten Linderud在2026年的个人基础设施设置旨在自托管邮件、博客等服务，使用Incus管理容器和虚拟机，Opentofu实现自动化。硬件包括NAS和NUC设备，网络通过WireGuard VPN和Nginx代理解决ISP限制。设置强调简单可靠，代码开源供学习。
   - Tags: #read
 
-- (2026-01-24) [A Few Things About the Anchor Element’s href You Might Not Have Known](202601/2026-01-24-a-few-things-about-the-anchor-element%E2%80%99s-href-you-might-not-have-known.md)
-  - 文章探讨了HTML锚元素href属性的多种用法，包括协议链接、特殊值行为（如href="#"滚动到顶部）、数据URL和媒体片段等，作者通过JavaScript测试验证了这些行为的准确性。
-  - Tags: #read #frontend
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (55 entries)
+- [2026-01](202601/monthly-index.md) (56 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)
