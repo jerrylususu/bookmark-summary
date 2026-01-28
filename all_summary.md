@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-28) [How to do Parallelization Right with Promise.all](202601/2026-01-28-how-to-do-parallelization-right-with-promise.all.md)
+  - Tags: #read #tips
+  - Summary: 在JavaScript中，错误地在Promise.all中使用await会导致并行化失效，代码顺序执行。正确做法是直接传递Promise，或使用parallelize函数进行类型检查，以提升性能并避免错误。
+
 - (2026-01-28) [Management as AI superpower](202601/2026-01-28-management-as-ai-superpower.md)
   - Tags: #read #llm
   - Summary: 基于宾大实验，EMBA学生利用AI工具在四天内快速创建初创原型。AI委托决策需权衡任务时间、成功率和处理时间。管理技能如清晰指令和评估能提升AI效率，成为AI时代的核心优势，预示未来工作可能转向管理AI代理。

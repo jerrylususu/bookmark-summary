@@ -9621,5 +9621,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "How to do Parallelization Right with Promise.all",
+    "url": "https://dodov.dev/blog/how-to-do-parallelization-right-with-promise-all",
+    "timestamp": 1769604306,
+    "tags": [
+      "read",
+      "tips"
+    ]
   }
 ]
