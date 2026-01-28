@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-28) [One Human + One Agent = One Browser From Scratch](202601/2026-01-28-one-human-%2B-one-agent-%3D-one-browser-from-scratch.md)
+  - 本文记录作者与LLM代理在三天内合作开发跨平台浏览器的经历，支持HTML/CSS渲染，代码超2万行。实验表明一人一代理模式高效，协作质量比代理数量更重要。
+  - Tags: #read #agent
+
 - (2026-01-27) [Tips for getting coding agents to write good Python tests](202601/2026-01-27-tips-for-getting-coding-agents-to-write-good-python-tests.md)
   - 本文分享了让AI代理编写高质量Python测试的技巧，包括选择Python语言利用丰富数据、使用pytest工具优化代码、在良好测试环境中促进学习，以及模仿现有项目模式。
   - Tags: #read #llm #guide
@@ -39,13 +43,9 @@
   - 文章探讨了HTML锚元素href属性的多种用法，包括协议链接、特殊值行为（如href="#"滚动到顶部）、数据URL和媒体片段等，作者通过JavaScript测试验证了这些行为的准确性。
   - Tags: #read #frontend
 
-- (2026-01-24) [How I estimate work as a staff software engineer](202601/2026-01-24-how-i-estimate-work-as-a-staff-software-engineer.md)
-  - 文章作者指出软件项目估算本质上不可行，因未知工作占主导，无法精确预测。估算实为组织政治工具，用于资源协商；作者建议通过风险分析和多方案评估来支持决策，而非追求准确时间。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (54 entries)
+- [2026-01](202601/monthly-index.md) (55 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

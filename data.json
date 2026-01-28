@@ -9601,5 +9601,15 @@
       "llm",
       "guide"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "One Human + One Agent = One Browser From Scratch",
+    "url": "https://emsh.cat/one-human-one-agent-one-browser/",
+    "timestamp": 1769603782,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

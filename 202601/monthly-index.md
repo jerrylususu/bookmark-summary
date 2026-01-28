@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-28) [One Human + One Agent = One Browser From Scratch](2026-01-28-one-human-%2B-one-agent-%3D-one-browser-from-scratch.md)
+  - 本文记录作者与LLM代理在三天内合作开发跨平台浏览器的经历，支持HTML/CSS渲染，代码超2万行。实验表明一人一代理模式高效，协作质量比代理数量更重要。
+  - Tags: #read #agent
+
 - (2026-01-27) [Tips for getting coding agents to write good Python tests](2026-01-27-tips-for-getting-coding-agents-to-write-good-python-tests.md)
   - 本文分享了让AI代理编写高质量Python测试的技巧，包括选择Python语言利用丰富数据、使用pytest工具优化代码、在良好测试环境中促进学习，以及模仿现有项目模式。
   - Tags: #read #llm #guide
