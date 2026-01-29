@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-29) [From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner](202601/2026-01-29-from-pixels-to-characters-the-engineering-behind-github-copilot-cli%E2%80%99s-animated-ascii-banner.md)
+  - GitHub Copilot CLI 团队开发动画ASCII横幅，面临终端环境限制如颜色不一致和可访问性挑战。他们利用自定义工具和TypeScript代码处理动画与兼容性，最终实现可维护架构并开源工具，为CLI开发提供宝贵经验。
+  - Tags: #read #design #deepdive
+
 - (2026-01-28) [How to do Parallelization Right with Promise.all](202601/2026-01-28-how-to-do-parallelization-right-with-promise.all.md)
   - 在JavaScript中，错误地在Promise.all中使用await会导致并行化失效，代码顺序执行。正确做法是直接传递Promise，或使用parallelize函数进行类型检查，以提升性能并避免错误。
   - Tags: #read #tips
@@ -39,13 +43,9 @@
   - Philip O'Toole的文章反驳了对大型软件公司的常见误解。作者指出，批评者常忽略规模带来的结构性原因：会议多为协调必需，高管主导是决策关键，流程确保可靠性。这些是组织逻辑的体现，应先理解运作逻辑而非简单指责。
   - Tags: #read
 
-- (2026-01-24) [Light Mode InFFFFFFlation — Will Richardson](202601/2026-01-24-light-mode-infffffflation-%E2%80%94-will-richardson.md)
-  - 文章分析MacOS界面亮度从2009年Snow Leopard起逐年上升，设计师偏好亮色致界面过亮，用户被迫使用深色模式。作者建议采用50%灰色以改善视觉舒适度，并呼吁回归平衡设计。
-  - Tags: #read #design
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (57 entries)
+- [2026-01](202601/monthly-index.md) (58 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

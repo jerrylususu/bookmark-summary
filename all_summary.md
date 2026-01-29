@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-29) [From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner](202601/2026-01-29-from-pixels-to-characters-the-engineering-behind-github-copilot-cli%E2%80%99s-animated-ascii-banner.md)
+  - Tags: #read #design #deepdive
+  - Summary: GitHub Copilot CLI 团队开发动画ASCII横幅，面临终端环境限制如颜色不一致和可访问性挑战。他们利用自定义工具和TypeScript代码处理动画与兼容性，最终实现可维护架构并开源工具，为CLI开发提供宝贵经验。
+
 - (2026-01-28) [How to do Parallelization Right with Promise.all](202601/2026-01-28-how-to-do-parallelization-right-with-promise.all.md)
   - Tags: #read #tips
   - Summary: 在JavaScript中，错误地在Promise.all中使用await会导致并行化失效，代码顺序执行。正确做法是直接传递Promise，或使用parallelize函数进行类型检查，以提升性能并避免错误。

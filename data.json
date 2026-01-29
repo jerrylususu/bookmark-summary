@@ -9631,5 +9631,16 @@
       "read",
       "tips"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner",
+    "url": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
+    "timestamp": 1769696798,
+    "tags": [
+      "read",
+      "design",
+      "deepdive"
+    ]
   }
 ]
