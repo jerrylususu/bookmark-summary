@@ -9651,5 +9651,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Some notes on starting to use Django",
+    "url": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
+    "timestamp": 1769699951,
+    "tags": [
+      "read",
+      "tips",
+      "python"
+    ]
   }
 ]

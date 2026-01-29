@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-29) [Some notes on starting to use Django](202601/2026-01-29-some-notes-on-starting-to-use-django.md)
+  - Julia Evans分享了学习Django框架的积极体验，赞赏其显式文件结构、强大ORM、自动迁移和丰富内置功能，文档质量高。尽管对settings.py的全局变量设计略有担忧，但总体满意，计划继续探索表单验证等特性。
+  - Tags: #read #tips #python
+
 - (2026-01-29) [We have a Discord now. You can view the Q&A from Google. | Tigris Object Storage](202601/2026-01-29-we-have-a-discord-now.-you-can-view-the-q%26a-from-google.-tigris-object-storage.md)
   - Tigris Data 使用 ETL 框架将论坛问答数据迁移到 Discord，通过 AI 处理文本和生成头像，集成 Answer Overflow 实现公开搜索，成功提升社区参与度。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文以“开车”为喻，强调软件工程师必须理解公司内部政治和流程，才能实现晋升、工作平衡或用户价值等目标。若不掌握，可能失败或被边缘化；唯一避免方式是离开大公司，但会失去影响力。留下则必须学习运作机制。
   - Tags: #read #career
 
-- (2026-01-25) [The Value of Things – journal.stuffwithstuff.com](202601/2026-01-25-the-value-of-things-%E2%80%93-journal.stuffwithstuff.com.md)
-  - 文章探讨生成式 AI 对价值的影响，区分效用（实用性）和意义（情感价值）。AI 能提升效用效率，但会稀释意义。建议在实用任务中使用 AI，在情感连接中避免依赖，以平衡价值。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (59 entries)
+- [2026-01](202601/monthly-index.md) (60 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-29) [Some notes on starting to use Django](2026-01-29-some-notes-on-starting-to-use-django.md)
+  - Julia Evans分享了学习Django框架的积极体验，赞赏其显式文件结构、强大ORM、自动迁移和丰富内置功能，文档质量高。尽管对settings.py的全局变量设计略有担忧，但总体满意，计划继续探索表单验证等特性。
+  - Tags: #read #tips #python
+
 - (2026-01-29) [We have a Discord now. You can view the Q&A from Google. | Tigris Object Storage](2026-01-29-we-have-a-discord-now.-you-can-view-the-q%26a-from-google.-tigris-object-storage.md)
   - Tigris Data 使用 ETL 框架将论坛问答数据迁移到 Discord，通过 AI 处理文本和生成头像，集成 Answer Overflow 实现公开搜索，成功提升社区参与度。
   - Tags: #read
