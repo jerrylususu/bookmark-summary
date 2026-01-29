@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-29) [We have a Discord now. You can view the Q&A from Google. | Tigris Object Storage](202601/2026-01-29-we-have-a-discord-now.-you-can-view-the-q%26a-from-google.-tigris-object-storage.md)
+  - Tigris Data 使用 ETL 框架将论坛问答数据迁移到 Discord，通过 AI 处理文本和生成头像，集成 Answer Overflow 实现公开搜索，成功提升社区参与度。
+  - Tags: #read
+
 - (2026-01-29) [From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner](202601/2026-01-29-from-pixels-to-characters-the-engineering-behind-github-copilot-cli%E2%80%99s-animated-ascii-banner.md)
   - GitHub Copilot CLI 团队开发动画ASCII横幅，面临终端环境限制如颜色不一致和可访问性挑战。他们利用自定义工具和TypeScript代码处理动画与兼容性，最终实现可维护架构并开源工具，为CLI开发提供宝贵经验。
   - Tags: #read #design #deepdive
@@ -39,13 +43,9 @@
   - 文章探讨生成式 AI 对价值的影响，区分效用（实用性）和意义（情感价值）。AI 能提升效用效率，但会稀释意义。建议在实用任务中使用 AI，在情感连接中避免依赖，以平衡价值。
   - Tags: #read
 
-- (2026-01-24) [Common misunderstandings about large software companies – Vallified](202601/2026-01-24-common-misunderstandings-about-large-software-companies-%E2%80%93-vallified.md)
-  - Philip O'Toole的文章反驳了对大型软件公司的常见误解。作者指出，批评者常忽略规模带来的结构性原因：会议多为协调必需，高管主导是决策关键，流程确保可靠性。这些是组织逻辑的体现，应先理解运作逻辑而非简单指责。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (58 entries)
+- [2026-01](202601/monthly-index.md) (59 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

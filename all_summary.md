@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-29) [We have a Discord now. You can view the Q&A from Google. | Tigris Object Storage](202601/2026-01-29-we-have-a-discord-now.-you-can-view-the-q%26a-from-google.-tigris-object-storage.md)
+  - Tags: #read
+  - Summary: Tigris Data 使用 ETL 框架将论坛问答数据迁移到 Discord，通过 AI 处理文本和生成头像，集成 Answer Overflow 实现公开搜索，成功提升社区参与度。
+
 - (2026-01-29) [From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner](202601/2026-01-29-from-pixels-to-characters-the-engineering-behind-github-copilot-cli%E2%80%99s-animated-ascii-banner.md)
   - Tags: #read #design #deepdive
   - Summary: GitHub Copilot CLI 团队开发动画ASCII横幅，面临终端环境限制如颜色不一致和可访问性挑战。他们利用自定义工具和TypeScript代码处理动画与兼容性，最终实现可维护架构并开源工具，为CLI开发提供宝贵经验。
