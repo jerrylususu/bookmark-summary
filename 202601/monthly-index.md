@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-31) [Automatic programming - <antirez>](2026-01-31-automatic-programming---antirez.md)
+  - 本文介绍自动编程概念，即AI辅助编程中人类通过愿景和引导发挥核心作用。作者区分自动编程与用户参与度低的氛围编程，强调高质量软件需严格遵循用户意图，生成代码可视为用户产物。以Redis为例，说明软件成功依赖创意。结论是编程自动化，但愿景仍需人类主导。
+  - Tags: #read #llm
+
 - (2026-01-29) [Some notes on starting to use Django](2026-01-29-some-notes-on-starting-to-use-django.md)
   - Julia Evans分享了学习Django框架的积极体验，赞赏其显式文件结构、强大ORM、自动迁移和丰富内置功能，文档质量高。尽管对settings.py的全局变量设计略有担忧，但总体满意，计划继续探索表单验证等特性。
   - Tags: #read #tips #python

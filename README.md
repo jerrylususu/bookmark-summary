@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-31) [Automatic programming - <antirez>](202601/2026-01-31-automatic-programming---antirez.md)
+  - 本文介绍自动编程概念，即AI辅助编程中人类通过愿景和引导发挥核心作用。作者区分自动编程与用户参与度低的氛围编程，强调高质量软件需严格遵循用户意图，生成代码可视为用户产物。以Redis为例，说明软件成功依赖创意。结论是编程自动化，但愿景仍需人类主导。
+  - Tags: #read #llm
+
 - (2026-01-29) [Some notes on starting to use Django](202601/2026-01-29-some-notes-on-starting-to-use-django.md)
   - Julia Evans分享了学习Django框架的积极体验，赞赏其显式文件结构、强大ORM、自动迁移和丰富内置功能，文档质量高。尽管对settings.py的全局变量设计略有担忧，但总体满意，计划继续探索表单验证等特性。
   - Tags: #read #tips #python
@@ -39,13 +43,9 @@
   - 文章探讨浏览器作为沙箱运行AI自动化任务的安全潜力，通过文件系统API、内容安全策略和代码隔离机制（如Web Workers）来降低风险。作者以Co-do项目为例指出浏览器沙箱可行，但需厂商改进以提升安全性。
   - Tags: #read #llm #deepdive
 
-- (2026-01-26) [You have to know how to drive the car](202601/2026-01-26-you-have-to-know-how-to-drive-the-car.md)
-  - 本文以“开车”为喻，强调软件工程师必须理解公司内部政治和流程，才能实现晋升、工作平衡或用户价值等目标。若不掌握，可能失败或被边缘化；唯一避免方式是离开大公司，但会失去影响力。留下则必须学习运作机制。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (60 entries)
+- [2026-01](202601/monthly-index.md) (61 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

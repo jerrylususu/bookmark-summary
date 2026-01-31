@@ -9662,5 +9662,15 @@
       "tips",
       "python"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Automatic programming - <antirez>",
+    "url": "https://antirez.com/news/159",
+    "timestamp": 1769870088,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
