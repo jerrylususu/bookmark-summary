@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-31) [How does AI impact skill formation?](202601/2026-01-31-how-does-ai-impact-skill-formation.md)
+  - 论文发现AI用户完成任务速度未提升且技能下降，主要因半数用户无效使用AI；剔除后速度可提高25%。学习效果在适度使用AI时较好，完全依赖则差。作者认为AI加速交付价值更重要，建议研究长期使用模式。
+  - Tags: #read #llm
+
 - (2026-01-31) [Automatic programming - <antirez>](202601/2026-01-31-automatic-programming---antirez.md)
   - 本文介绍自动编程概念，即AI辅助编程中人类通过愿景和引导发挥核心作用。作者区分自动编程与用户参与度低的氛围编程，强调高质量软件需严格遵循用户意图，生成代码可视为用户产物。以Redis为例，说明软件成功依赖创意。结论是编程自动化，但愿景仍需人类主导。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 文章批评Windows 11自2023年质量下降，更新频发错误、系统臃肿运行慢、AI功能强制集成但实用性低，微软被指忽视用户体验，呼吁回归稳定可靠系统。
   - Tags: #read
 
-- (2026-01-26) [the browser is the sandbox](202601/2026-01-26-the-browser-is-the-sandbox.md)
-  - 文章探讨浏览器作为沙箱运行AI自动化任务的安全潜力，通过文件系统API、内容安全策略和代码隔离机制（如Web Workers）来降低风险。作者以Co-do项目为例指出浏览器沙箱可行，但需厂商改进以提升安全性。
-  - Tags: #read #llm #deepdive
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (61 entries)
+- [2026-01](202601/monthly-index.md) (62 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-31) [How does AI impact skill formation?](202601/2026-01-31-how-does-ai-impact-skill-formation.md)
+  - Tags: #read #llm
+  - Summary: 论文发现AI用户完成任务速度未提升且技能下降，主要因半数用户无效使用AI；剔除后速度可提高25%。学习效果在适度使用AI时较好，完全依赖则差。作者认为AI加速交付价值更重要，建议研究长期使用模式。
+
 - (2026-01-31) [Automatic programming - <antirez>](202601/2026-01-31-automatic-programming---antirez.md)
   - Tags: #read #llm
   - Summary: 本文介绍自动编程概念，即AI辅助编程中人类通过愿景和引导发挥核心作用。作者区分自动编程与用户参与度低的氛围编程，强调高质量软件需严格遵循用户意图，生成代码可视为用户产物。以Redis为例，说明软件成功依赖创意。结论是编程自动化，但愿景仍需人类主导。
