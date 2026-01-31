@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-31) [Teach, Don't Tell / Steve Losh](202601/2026-01-31-teach%2C-don%27t-tell-steve-losh.md)
+  - Steve Losh的文章强调技术文档应以教学为核心，旨在引导用户从新手成长为专家。他指出应避免依赖源码或API文档等错误做法，建议通过结构化部分如初次接触、快速入门和核心教学，提供渐进式学习体验。
+  - Tags: #read #deepdive #guide
+
 - (2026-01-31) [“You Had One Job”: Why Twenty Years of DevOps Has Failed to Do it](202601/2026-01-31-%E2%80%9Cyou-had-one-job%E2%80%9D-why-twenty-years-of-devops-has-failed-to-do-it.md)
   - 过去二十年，DevOps未能实现开发与生产环境间的反馈循环，因工具不成熟。AI技术现已成熟，自动化了仪器化和分析，降低开发者负担，实现快速迭代。未来挑战包括代码冗余风险，但DevOps通过AI进化，强调协作与持续改进。
   - Tags: #read #devops
@@ -39,13 +43,9 @@
   - GitHub Copilot CLI 团队开发动画ASCII横幅，面临终端环境限制如颜色不一致和可访问性挑战。他们利用自定义工具和TypeScript代码处理动画与兼容性，最终实现可维护架构并开源工具，为CLI开发提供宝贵经验。
   - Tags: #read #design #deepdive
 
-- (2026-01-28) [How to do Parallelization Right with Promise.all](202601/2026-01-28-how-to-do-parallelization-right-with-promise.all.md)
-  - 在JavaScript中，错误地在Promise.all中使用await会导致并行化失效，代码顺序执行。正确做法是直接传递Promise，或使用parallelize函数进行类型检查，以提升性能并避免错误。
-  - Tags: #read #tips
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (66 entries)
+- [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

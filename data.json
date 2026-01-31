@@ -9722,5 +9722,16 @@
       "read",
       "devops"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Teach, Don't Tell / Steve Losh",
+    "url": "https://stevelosh.com/blog/2013/09/teach-dont-tell/",
+    "timestamp": 1769873932,
+    "tags": [
+      "read",
+      "deepdive",
+      "guide"
+    ]
   }
 ]
