@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-31) [Guest Post: How I Scanned all of GitHub’s “Oops Commits” for Leaked Secrets ◆ Truffle Security Co.](202601/2026-01-31-guest-post-how-i-scanned-all-of-github%E2%80%99s-%E2%80%9Coops-commits%E2%80%9D-for-leaked-secrets-%E2%97%86-truffle-security-co..md)
+  - 本文介绍了如何扫描GitHub上因强制推送删除的提交（Oops Commits）以发现泄露的秘密。作者开发了开源工具Force Push Scanner，通过分析GitHub Archive数据，成功检测出价值约25,000美元的漏洞赏金秘密，强调秘密一旦提交就必须立即撤销，并呼吁开发者提高安全意识。
+  - Tags: #read #deepdive #security
+
 - (2026-01-31) [Selectively Disabling HTTP/1.0 and HTTP/1.1 - Mark McBride](202601/2026-01-31-selectively-disabling-http-1.0-and-http-1.1---mark-mcbride.md)
   - 文章总结Mark McBride选择性禁用HTTP/1.X的经验。启用HTTP/3后，恶意流量多通过HTTP/1.X传输。作者实验两种方法：排除法（排除坏用户代理）比包含法更灵活，能有效减少恶意请求，建议结合日志监控和速率限制以平衡安全与可用性。
   - Tags: #read #network
@@ -39,13 +43,9 @@
   - 本文记录作者与LLM代理在三天内合作开发跨平台浏览器的经历，支持HTML/CSS渲染，代码超2万行。实验表明一人一代理模式高效，协作质量比代理数量更重要。
   - Tags: #read #agent
 
-- (2026-01-27) [Tips for getting coding agents to write good Python tests](202601/2026-01-27-tips-for-getting-coding-agents-to-write-good-python-tests.md)
-  - 本文分享了让AI代理编写高质量Python测试的技巧，包括选择Python语言利用丰富数据、使用pytest工具优化代码、在良好测试环境中促进学习，以及模仿现有项目模式。
-  - Tags: #read #llm #guide
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (63 entries)
+- [2026-01](202601/monthly-index.md) (64 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

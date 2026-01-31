@@ -9692,5 +9692,16 @@
       "read",
       "network"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Guest Post: How I Scanned all of GitHub’s “Oops Commits” for Leaked Secrets ◆ Truffle Security Co.",
+    "url": "https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets",
+    "timestamp": 1769871638,
+    "tags": [
+      "read",
+      "deepdive",
+      "security"
+    ]
   }
 ]
