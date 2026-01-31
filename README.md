@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-31) [My Favorite Self-Hosted Apps Launched in 2025](202601/2026-01-31-my-favorite-self-hosted-apps-launched-in-2025.md)
+  - 本文基于2025年自托管应用筛选，从约900个新应用中挑选出20个突出应用，涵盖Docker管理、PDF工具、书籍管理、笔记应用等领域，这些应用以概念、质量或设计见长。
+  - Tags: #read
+
 - (2026-01-31) [Guest Post: How I Scanned all of GitHub’s “Oops Commits” for Leaked Secrets ◆ Truffle Security Co.](202601/2026-01-31-guest-post-how-i-scanned-all-of-github%E2%80%99s-%E2%80%9Coops-commits%E2%80%9D-for-leaked-secrets-%E2%97%86-truffle-security-co..md)
   - 本文介绍了如何扫描GitHub上因强制推送删除的提交（Oops Commits）以发现泄露的秘密。作者开发了开源工具Force Push Scanner，通过分析GitHub Archive数据，成功检测出价值约25,000美元的漏洞赏金秘密，强调秘密一旦提交就必须立即撤销，并呼吁开发者提高安全意识。
   - Tags: #read #deepdive #security
@@ -39,13 +43,9 @@
   - 基于宾大实验，EMBA学生利用AI工具在四天内快速创建初创原型。AI委托决策需权衡任务时间、成功率和处理时间。管理技能如清晰指令和评估能提升AI效率，成为AI时代的核心优势，预示未来工作可能转向管理AI代理。
   - Tags: #read #llm
 
-- (2026-01-28) [One Human + One Agent = One Browser From Scratch](202601/2026-01-28-one-human-%2B-one-agent-%3D-one-browser-from-scratch.md)
-  - 本文记录作者与LLM代理在三天内合作开发跨平台浏览器的经历，支持HTML/CSS渲染，代码超2万行。实验表明一人一代理模式高效，协作质量比代理数量更重要。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (64 entries)
+- [2026-01](202601/monthly-index.md) (65 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

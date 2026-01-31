@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-31) [My Favorite Self-Hosted Apps Launched in 2025](202601/2026-01-31-my-favorite-self-hosted-apps-launched-in-2025.md)
+  - Tags: #read
+  - Summary: 本文基于2025年自托管应用筛选，从约900个新应用中挑选出20个突出应用，涵盖Docker管理、PDF工具、书籍管理、笔记应用等领域，这些应用以概念、质量或设计见长。
+
 - (2026-01-31) [Guest Post: How I Scanned all of GitHub’s “Oops Commits” for Leaked Secrets ◆ Truffle Security Co.](202601/2026-01-31-guest-post-how-i-scanned-all-of-github%E2%80%99s-%E2%80%9Coops-commits%E2%80%9D-for-leaked-secrets-%E2%97%86-truffle-security-co..md)
   - Tags: #read #deepdive #security
   - Summary: 本文介绍了如何扫描GitHub上因强制推送删除的提交（Oops Commits）以发现泄露的秘密。作者开发了开源工具Force Push Scanner，通过分析GitHub Archive数据，成功检测出价值约25,000美元的漏洞赏金秘密，强调秘密一旦提交就必须立即撤销，并呼吁开发者提高安全意识。
