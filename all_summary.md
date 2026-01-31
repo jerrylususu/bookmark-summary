@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-01-31) [“You Had One Job”: Why Twenty Years of DevOps Has Failed to Do it](202601/2026-01-31-%E2%80%9Cyou-had-one-job%E2%80%9D-why-twenty-years-of-devops-has-failed-to-do-it.md)
+  - Tags: #read #devops
+  - Summary: 过去二十年，DevOps未能实现开发与生产环境间的反馈循环，因工具不成熟。AI技术现已成熟，自动化了仪器化和分析，降低开发者负担，实现快速迭代。未来挑战包括代码冗余风险，但DevOps通过AI进化，强调协作与持续改进。
+
 - (2026-01-31) [My Favorite Self-Hosted Apps Launched in 2025](202601/2026-01-31-my-favorite-self-hosted-apps-launched-in-2025.md)
   - Tags: #read
   - Summary: 本文基于2025年自托管应用筛选，从约900个新应用中挑选出20个突出应用，涵盖Docker管理、PDF工具、书籍管理、笔记应用等领域，这些应用以概念、质量或设计见长。
