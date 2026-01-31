@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-01-31) [Selectively Disabling HTTP/1.0 and HTTP/1.1 - Mark McBride](202601/2026-01-31-selectively-disabling-http-1.0-and-http-1.1---mark-mcbride.md)
+  - 文章总结Mark McBride选择性禁用HTTP/1.X的经验。启用HTTP/3后，恶意流量多通过HTTP/1.X传输。作者实验两种方法：排除法（排除坏用户代理）比包含法更灵活，能有效减少恶意请求，建议结合日志监控和速率限制以平衡安全与可用性。
+  - Tags: #read #network
+
 - (2026-01-31) [How does AI impact skill formation?](202601/2026-01-31-how-does-ai-impact-skill-formation.md)
   - 论文发现AI用户完成任务速度未提升且技能下降，主要因半数用户无效使用AI；剔除后速度可提高25%。学习效果在适度使用AI时较好，完全依赖则差。作者认为AI加速交付价值更重要，建议研究长期使用模式。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 本文分享了让AI代理编写高质量Python测试的技巧，包括选择Python语言利用丰富数据、使用pytest工具优化代码、在良好测试环境中促进学习，以及模仿现有项目模式。
   - Tags: #read #llm #guide
 
-- (2026-01-26) [State of the Windows: What is going on with Windows 11?](202601/2026-01-26-state-of-the-windows-what-is-going-on-with-windows-11.md)
-  - 文章批评Windows 11自2023年质量下降，更新频发错误、系统臃肿运行慢、AI功能强制集成但实用性低，微软被指忽视用户体验，呼吁回归稳定可靠系统。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-01](202601/monthly-index.md) (62 entries)
+- [2026-01](202601/monthly-index.md) (63 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
 - [2025-10](202510/monthly-index.md) (67 entries)

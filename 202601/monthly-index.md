@@ -1,5 +1,9 @@
 # 2026-01 Monthly Index
 
+- (2026-01-31) [Selectively Disabling HTTP/1.0 and HTTP/1.1 - Mark McBride](2026-01-31-selectively-disabling-http-1.0-and-http-1.1---mark-mcbride.md)
+  - 文章总结Mark McBride选择性禁用HTTP/1.X的经验。启用HTTP/3后，恶意流量多通过HTTP/1.X传输。作者实验两种方法：排除法（排除坏用户代理）比包含法更灵活，能有效减少恶意请求，建议结合日志监控和速率限制以平衡安全与可用性。
+  - Tags: #read #network
+
 - (2026-01-31) [How does AI impact skill formation?](2026-01-31-how-does-ai-impact-skill-formation.md)
   - 论文发现AI用户完成任务速度未提升且技能下降，主要因半数用户无效使用AI；剔除后速度可提高25%。学习效果在适度使用AI时较好，完全依赖则差。作者认为AI加速交付价值更重要，建议研究长期使用模式。
   - Tags: #read #llm

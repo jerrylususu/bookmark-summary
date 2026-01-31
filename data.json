@@ -9682,5 +9682,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202601",
+    "title": "Selectively Disabling HTTP/1.0 and HTTP/1.1 - Mark McBride",
+    "url": "https://markmcb.com/web/selectively_disabling_http_1/",
+    "timestamp": 1769871252,
+    "tags": [
+      "read",
+      "network"
+    ]
   }
 ]
