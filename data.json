@@ -9733,5 +9733,16 @@
       "deepdive",
       "guide"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Pi: The Minimal Agent Within OpenClaw",
+    "url": "https://lucumr.pocoo.org/2026/1/31/pi/",
+    "timestamp": 1770040328,
+    "tags": [
+      "read",
+      "llm",
+      "agent"
+    ]
   }
 ]

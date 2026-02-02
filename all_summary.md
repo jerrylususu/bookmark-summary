@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-02) [Pi: The Minimal Agent Within OpenClaw](202602/2026-02-02-pi-the-minimal-agent-within-openclaw.md)
+  - Tags: #read #llm #agent
+  - Summary: Pi是Mario Zechner开发的极简编码代理，作为OpenClaw项目的核心，强调代码自我编写和扩展功能。Armin Ronacher痴迷于其简约设计、高可靠性及AI代理的未来潜力。
+
 - (2026-01-31) [Teach, Don't Tell / Steve Losh](202601/2026-01-31-teach%2C-don%27t-tell-steve-losh.md)
   - Tags: #read #deepdive #guide
   - Summary: Steve Losh的文章强调技术文档应以教学为核心，旨在引导用户从新手成长为专家。他指出应避免依赖源码或API文档等错误做法，建议通过结构化部分如初次接触、快速入门和核心教学，提供渐进式学习体验。

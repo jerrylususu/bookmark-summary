@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-02) [Pi: The Minimal Agent Within OpenClaw](202602/2026-02-02-pi-the-minimal-agent-within-openclaw.md)
+  - Pi是Mario Zechner开发的极简编码代理，作为OpenClaw项目的核心，强调代码自我编写和扩展功能。Armin Ronacher痴迷于其简约设计、高可靠性及AI代理的未来潜力。
+  - Tags: #read #llm #agent
+
 - (2026-01-31) [Teach, Don't Tell / Steve Losh](202601/2026-01-31-teach%2C-don%27t-tell-steve-losh.md)
   - Steve Losh的文章强调技术文档应以教学为核心，旨在引导用户从新手成长为专家。他指出应避免依赖源码或API文档等错误做法，建议通过结构化部分如初次接触、快速入门和核心教学，提供渐进式学习体验。
   - Tags: #read #deepdive #guide
@@ -39,12 +43,9 @@
   - Tigris Data 使用 ETL 框架将论坛问答数据迁移到 Discord，通过 AI 处理文本和生成头像，集成 Answer Overflow 实现公开搜索，成功提升社区参与度。
   - Tags: #read
 
-- (2026-01-29) [From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner](202601/2026-01-29-from-pixels-to-characters-the-engineering-behind-github-copilot-cli%E2%80%99s-animated-ascii-banner.md)
-  - GitHub Copilot CLI 团队开发动画ASCII横幅，面临终端环境限制如颜色不一致和可访问性挑战。他们利用自定义工具和TypeScript代码处理动画与兼容性，最终实现可维护架构并开源工具，为CLI开发提供宝贵经验。
-  - Tags: #read #design #deepdive
-
 ## Monthly Archive
 
+- [2026-02](202602/monthly-index.md) (1 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
