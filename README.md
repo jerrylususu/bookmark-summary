@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-02) [Self-Improving Coding Agents](202602/2026-02-02-self-improving-coding-agents.md)
+  - 本文介绍自我改进的编程代理，利用AI在循环中自动编码、测试和交付代码。通过原子化任务、持久化管理、自动化验证及风险控制，提升开发效率与安全性。
+  - Tags: #read #llm #agent #deepdive
+
 - (2026-02-02) [Pi: The Minimal Agent Within OpenClaw](202602/2026-02-02-pi-the-minimal-agent-within-openclaw.md)
   - Pi是Mario Zechner开发的极简编码代理，作为OpenClaw项目的核心，强调代码自我编写和扩展功能。Armin Ronacher痴迷于其简约设计、高可靠性及AI代理的未来潜力。
   - Tags: #read #llm #agent
@@ -39,13 +43,9 @@
   - Julia Evans分享了学习Django框架的积极体验，赞赏其显式文件结构、强大ORM、自动迁移和丰富内置功能，文档质量高。尽管对settings.py的全局变量设计略有担忧，但总体满意，计划继续探索表单验证等特性。
   - Tags: #read #tips #python
 
-- (2026-01-29) [We have a Discord now. You can view the Q&A from Google. | Tigris Object Storage](202601/2026-01-29-we-have-a-discord-now.-you-can-view-the-q%26a-from-google.-tigris-object-storage.md)
-  - Tigris Data 使用 ETL 框架将论坛问答数据迁移到 Discord，通过 AI 处理文本和生成头像，集成 Answer Overflow 实现公开搜索，成功提升社区参与度。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (1 entries)
+- [2026-02](202602/monthly-index.md) (2 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

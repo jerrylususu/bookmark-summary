@@ -9744,5 +9744,17 @@
       "llm",
       "agent"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Self-Improving Coding Agents",
+    "url": "https://addyosmani.com/blog/self-improving-agents/",
+    "timestamp": 1770040980,
+    "tags": [
+      "read",
+      "llm",
+      "agent",
+      "deepdive"
+    ]
   }
 ]
