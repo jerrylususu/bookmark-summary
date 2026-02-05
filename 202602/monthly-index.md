@@ -1,7 +1,11 @@
 # 2026-02 Monthly Index
 
+- (2026-02-05) [Get all the reactions to your GitHub content using GraphQL](2026-02-05-get-all-the-reactions-to-your-github-content-using-graphql.md)
+  - 本文介绍通过GraphQL API和GitHub CLI手动获取GitHub内容（如问题、PRs和评论）的反应，因平台无通知功能。提供查询示例，但指出限制如仅能获取近期数据、效率低下，语气幽默并批评GraphQL复杂性。
+  - Tags: #read #hack
+
 - (2026-02-05) [Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel](2026-02-05-distributing-go-binaries-like-sqlite-scanner-through-pypi-using-go-to-wheel.md)
-  - 本文介绍go-to-wheel工具，它能自动将Go二进制打包为Python wheel并通过PyPI分发，简化安装（如`uvx sqlite-scanner`），使Go高性能工具无缝集成到Python项目中。
+  - 本文介绍go-to-wheel工具，它能自动将Go二进制打包为Python wheel并通过PyPI分发，简化安装（如），使Go高性能工具无缝集成到Python项目中。
   - Tags: #read #tips
 
 - (2026-02-05) [Getting the main thing right](2026-02-05-getting-the-main-thing-right.md)

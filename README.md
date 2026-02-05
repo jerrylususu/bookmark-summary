@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-05) [Get all the reactions to your GitHub content using GraphQL](202602/2026-02-05-get-all-the-reactions-to-your-github-content-using-graphql.md)
+  - 本文介绍通过GraphQL API和GitHub CLI手动获取GitHub内容（如问题、PRs和评论）的反应，因平台无通知功能。提供查询示例，但指出限制如仅能获取近期数据、效率低下，语气幽默并批评GraphQL复杂性。
+  - Tags: #read #hack
+
 - (2026-02-05) [Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel](202602/2026-02-05-distributing-go-binaries-like-sqlite-scanner-through-pypi-using-go-to-wheel.md)
-  - 本文介绍go-to-wheel工具，它能自动将Go二进制打包为Python wheel并通过PyPI分发，简化安装（如`uvx sqlite-scanner`），使Go高性能工具无缝集成到Python项目中。
+  - 本文介绍go-to-wheel工具，它能自动将Go二进制打包为Python wheel并通过PyPI分发，简化安装（如），使Go高性能工具无缝集成到Python项目中。
   - Tags: #read #tips
 
 - (2026-02-05) [Getting the main thing right](202602/2026-02-05-getting-the-main-thing-right.md)
@@ -39,13 +43,9 @@
   - 本文介绍了如何扫描GitHub上因强制推送删除的提交（Oops Commits）以发现泄露的秘密。作者开发了开源工具Force Push Scanner，通过分析GitHub Archive数据，成功检测出价值约25,000美元的漏洞赏金秘密，强调秘密一旦提交就必须立即撤销，并呼吁开发者提高安全意识。
   - Tags: #read #deepdive #security
 
-- (2026-01-31) [Selectively Disabling HTTP/1.0 and HTTP/1.1 - Mark McBride](202601/2026-01-31-selectively-disabling-http-1.0-and-http-1.1---mark-mcbride.md)
-  - 文章总结Mark McBride选择性禁用HTTP/1.X的经验。启用HTTP/3后，恶意流量多通过HTTP/1.X传输。作者实验两种方法：排除法（排除坏用户代理）比包含法更灵活，能有效减少恶意请求，建议结合日志监控和速率限制以平衡安全与可用性。
-  - Tags: #read #network
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (5 entries)
+- [2026-02](202602/monthly-index.md) (6 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
