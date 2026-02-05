@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-05) [(Un)portable defer in C](202602/2026-02-05-%28un%29portable-defer-in-c.md)
+  - Tags: #read #c
+  - Summary: 文章探讨C语言中`defer`功能的非标准实现，比较多种方案后推荐Simplified GCC/Clang版本，跨平台时可选Stack版本，认为现有实现已足够，无需等待C标准。
+
 - (2026-02-05) [Get all the reactions to your GitHub content using GraphQL](202602/2026-02-05-get-all-the-reactions-to-your-github-content-using-graphql.md)
   - Tags: #read #hack
   - Summary: 本文介绍通过GraphQL API和GitHub CLI手动获取GitHub内容（如问题、PRs和评论）的反应，因平台无通知功能。提供查询示例，但指出限制如仅能获取近期数据、效率低下，语气幽默并批评GraphQL复杂性。

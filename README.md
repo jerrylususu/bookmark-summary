@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-05) [(Un)portable defer in C](202602/2026-02-05-%28un%29portable-defer-in-c.md)
+  - 文章探讨C语言中`defer`功能的非标准实现，比较多种方案后推荐Simplified GCC/Clang版本，跨平台时可选Stack版本，认为现有实现已足够，无需等待C标准。
+  - Tags: #read #c
+
 - (2026-02-05) [Get all the reactions to your GitHub content using GraphQL](202602/2026-02-05-get-all-the-reactions-to-your-github-content-using-graphql.md)
   - 本文介绍通过GraphQL API和GitHub CLI手动获取GitHub内容（如问题、PRs和评论）的反应，因平台无通知功能。提供查询示例，但指出限制如仅能获取近期数据、效率低下，语气幽默并批评GraphQL复杂性。
   - Tags: #read #hack
@@ -39,13 +43,9 @@
   - 本文基于2025年自托管应用筛选，从约900个新应用中挑选出20个突出应用，涵盖Docker管理、PDF工具、书籍管理、笔记应用等领域，这些应用以概念、质量或设计见长。
   - Tags: #read
 
-- (2026-01-31) [Guest Post: How I Scanned all of GitHub’s “Oops Commits” for Leaked Secrets ◆ Truffle Security Co.](202601/2026-01-31-guest-post-how-i-scanned-all-of-github%E2%80%99s-%E2%80%9Coops-commits%E2%80%9D-for-leaked-secrets-%E2%97%86-truffle-security-co..md)
-  - 本文介绍了如何扫描GitHub上因强制推送删除的提交（Oops Commits）以发现泄露的秘密。作者开发了开源工具Force Push Scanner，通过分析GitHub Archive数据，成功检测出价值约25,000美元的漏洞赏金秘密，强调秘密一旦提交就必须立即撤销，并呼吁开发者提高安全意识。
-  - Tags: #read #deepdive #security
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (6 entries)
+- [2026-02](202602/monthly-index.md) (7 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
