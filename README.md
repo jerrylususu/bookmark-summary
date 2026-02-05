@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-05) [Remote Book Scanning with 1DollarScan and Optimizing Scanned PDFs](202602/2026-02-05-remote-book-scanning-with-1dollarscan-and-optimizing-scanned-pdfs.md)
+  - 作者使用1DollarScan扫描旧教材，成本25.2美元、耗时两周，但PDF质量差。通过工具优化后文件减小90%，可读性提升。讨论版权风险，个人使用或属合理使用，服务评价B-，建议改进价格和效率。
+  - Tags: #read #guide
+
 - (2026-02-02) [Self-Improving Coding Agents](202602/2026-02-02-self-improving-coding-agents.md)
   - 本文介绍自我改进的编程代理，利用AI在循环中自动编码、测试和交付代码。通过原子化任务、持久化管理、自动化验证及风险控制，提升开发效率与安全性。
   - Tags: #read #llm #agent #deepdive
@@ -39,13 +43,9 @@
   - 本文介绍自动编程概念，即AI辅助编程中人类通过愿景和引导发挥核心作用。作者区分自动编程与用户参与度低的氛围编程，强调高质量软件需严格遵循用户意图，生成代码可视为用户产物。以Redis为例，说明软件成功依赖创意。结论是编程自动化，但愿景仍需人类主导。
   - Tags: #read #llm
 
-- (2026-01-29) [Some notes on starting to use Django](202601/2026-01-29-some-notes-on-starting-to-use-django.md)
-  - Julia Evans分享了学习Django框架的积极体验，赞赏其显式文件结构、强大ORM、自动迁移和丰富内置功能，文档质量高。尽管对settings.py的全局变量设计略有担忧，但总体满意，计划继续探索表单验证等特性。
-  - Tags: #read #tips #python
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (2 entries)
+- [2026-02](202602/monthly-index.md) (3 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
