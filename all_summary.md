@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-05) [Getting the main thing right](202602/2026-02-05-getting-the-main-thing-right.md)
+  - Tags: #read #career
+  - Summary: 文章强调项目成功的关键是专注于核心目标（主要事情），而非次要细节，类似帕累托原则。建议通过案例分析识别主要事情，科技公司中常为交付项目。需克服不适和变化，保持灵活性，多思考焦点问题以高效实现目标。
+
 - (2026-02-05) [Remote Book Scanning with 1DollarScan and Optimizing Scanned PDFs](202602/2026-02-05-remote-book-scanning-with-1dollarscan-and-optimizing-scanned-pdfs.md)
   - Tags: #read #guide
   - Summary: 作者使用1DollarScan扫描旧教材，成本25.2美元、耗时两周，但PDF质量差。通过工具优化后文件减小90%，可读性提升。讨论版权风险，个人使用或属合理使用，服务评价B-，建议改进价格和效率。

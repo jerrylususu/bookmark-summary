@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-05) [Getting the main thing right](202602/2026-02-05-getting-the-main-thing-right.md)
+  - 文章强调项目成功的关键是专注于核心目标（主要事情），而非次要细节，类似帕累托原则。建议通过案例分析识别主要事情，科技公司中常为交付项目。需克服不适和变化，保持灵活性，多思考焦点问题以高效实现目标。
+  - Tags: #read #career
+
 - (2026-02-05) [Remote Book Scanning with 1DollarScan and Optimizing Scanned PDFs](202602/2026-02-05-remote-book-scanning-with-1dollarscan-and-optimizing-scanned-pdfs.md)
   - 作者使用1DollarScan扫描旧教材，成本25.2美元、耗时两周，但PDF质量差。通过工具优化后文件减小90%，可读性提升。讨论版权风险，个人使用或属合理使用，服务评价B-，建议改进价格和效率。
   - Tags: #read #guide
@@ -39,13 +43,9 @@
   - 论文发现AI用户完成任务速度未提升且技能下降，主要因半数用户无效使用AI；剔除后速度可提高25%。学习效果在适度使用AI时较好，完全依赖则差。作者认为AI加速交付价值更重要，建议研究长期使用模式。
   - Tags: #read #llm
 
-- (2026-01-31) [Automatic programming - <antirez>](202601/2026-01-31-automatic-programming---antirez.md)
-  - 本文介绍自动编程概念，即AI辅助编程中人类通过愿景和引导发挥核心作用。作者区分自动编程与用户参与度低的氛围编程，强调高质量软件需严格遵循用户意图，生成代码可视为用户产物。以Redis为例，说明软件成功依赖创意。结论是编程自动化，但愿景仍需人类主导。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (3 entries)
+- [2026-02](202602/monthly-index.md) (4 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
