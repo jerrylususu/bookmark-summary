@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-05) [Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel](202602/2026-02-05-distributing-go-binaries-like-sqlite-scanner-through-pypi-using-go-to-wheel.md)
+  - Tags: #read #tips
+  - Summary: 本文介绍go-to-wheel工具，它能自动将Go二进制打包为Python wheel并通过PyPI分发，简化安装（如`uvx sqlite-scanner`），使Go高性能工具无缝集成到Python项目中。
+
 - (2026-02-05) [Getting the main thing right](202602/2026-02-05-getting-the-main-thing-right.md)
   - Tags: #read #career
   - Summary: 文章强调项目成功的关键是专注于核心目标（主要事情），而非次要细节，类似帕累托原则。建议通过案例分析识别主要事情，科技公司中常为交付项目。需克服不适和变化，保持灵活性，多思考焦点问题以高效实现目标。

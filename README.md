@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-05) [Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel](202602/2026-02-05-distributing-go-binaries-like-sqlite-scanner-through-pypi-using-go-to-wheel.md)
+  - 本文介绍go-to-wheel工具，它能自动将Go二进制打包为Python wheel并通过PyPI分发，简化安装（如`uvx sqlite-scanner`），使Go高性能工具无缝集成到Python项目中。
+  - Tags: #read #tips
+
 - (2026-02-05) [Getting the main thing right](202602/2026-02-05-getting-the-main-thing-right.md)
   - 文章强调项目成功的关键是专注于核心目标（主要事情），而非次要细节，类似帕累托原则。建议通过案例分析识别主要事情，科技公司中常为交付项目。需克服不适和变化，保持灵活性，多思考焦点问题以高效实现目标。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 文章总结Mark McBride选择性禁用HTTP/1.X的经验。启用HTTP/3后，恶意流量多通过HTTP/1.X传输。作者实验两种方法：排除法（排除坏用户代理）比包含法更灵活，能有效减少恶意请求，建议结合日志监控和速率限制以平衡安全与可用性。
   - Tags: #read #network
 
-- (2026-01-31) [How does AI impact skill formation?](202601/2026-01-31-how-does-ai-impact-skill-formation.md)
-  - 论文发现AI用户完成任务速度未提升且技能下降，主要因半数用户无效使用AI；剔除后速度可提高25%。学习效果在适度使用AI时较好，完全依赖则差。作者认为AI加速交付价值更重要，建议研究长期使用模式。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (4 entries)
+- [2026-02](202602/monthly-index.md) (5 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

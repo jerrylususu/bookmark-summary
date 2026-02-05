@@ -9776,5 +9776,15 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel",
+    "url": "https://simonwillison.net/2026/Feb/4/distributing-go-binaries/",
+    "timestamp": 1770299290,
+    "tags": [
+      "read",
+      "tips"
+    ]
   }
 ]
