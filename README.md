@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-06) [Claude Code Swarms](202602/2026-02-06-claude-code-swarms.md)
+  - 文章介绍Claude Code的代理团队功能，允许多个AI代理并行协作，提升复杂任务效率，但成本较高且为实验性功能，需明确任务分解并适合调试、审查等场景。
+  - Tags: #read #agent #deepdive
+
 - (2026-02-06) [My AI Adoption Journey](202602/2026-02-06-my-ai-adoption-journey.md)
   - 作者米切尔分享了从怀疑到成功集成AI工具的旅程，通过六个步骤（如使用代理、外包任务和优化机制），最终提升了工作效率和专注度。
   - Tags: #read #llm #agent #deepdive
@@ -39,13 +43,9 @@
   - Steve Losh的文章强调技术文档应以教学为核心，旨在引导用户从新手成长为专家。他指出应避免依赖源码或API文档等错误做法，建议通过结构化部分如初次接触、快速入门和核心教学，提供渐进式学习体验。
   - Tags: #read #deepdive #guide
 
-- (2026-01-31) [“You Had One Job”: Why Twenty Years of DevOps Has Failed to Do it](202601/2026-01-31-%E2%80%9Cyou-had-one-job%E2%80%9D-why-twenty-years-of-devops-has-failed-to-do-it.md)
-  - 过去二十年，DevOps未能实现开发与生产环境间的反馈循环，因工具不成熟。AI技术现已成熟，自动化了仪器化和分析，降低开发者负担，实现快速迭代。未来挑战包括代码冗余风险，但DevOps通过AI进化，强调协作与持续改进。
-  - Tags: #read #devops
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (8 entries)
+- [2026-02](202602/monthly-index.md) (9 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

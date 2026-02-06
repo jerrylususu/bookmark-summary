@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-06) [Claude Code Swarms](2026-02-06-claude-code-swarms.md)
+  - 文章介绍Claude Code的代理团队功能，允许多个AI代理并行协作，提升复杂任务效率，但成本较高且为实验性功能，需明确任务分解并适合调试、审查等场景。
+  - Tags: #read #agent #deepdive
+
 - (2026-02-06) [My AI Adoption Journey](2026-02-06-my-ai-adoption-journey.md)
   - 作者米切尔分享了从怀疑到成功集成AI工具的旅程，通过六个步骤（如使用代理、外包任务和优化机制），最终提升了工作效率和专注度。
   - Tags: #read #llm #agent #deepdive
