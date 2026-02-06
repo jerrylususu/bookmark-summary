@@ -9806,5 +9806,17 @@
       "read",
       "c"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "My AI Adoption Journey",
+    "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
+    "timestamp": 1770382294,
+    "tags": [
+      "read",
+      "llm",
+      "agent",
+      "deepdive"
+    ]
   }
 ]

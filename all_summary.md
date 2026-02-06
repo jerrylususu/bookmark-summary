@@ -1,8 +1,12 @@
 # All Bookmarks Summary
 
+- (2026-02-06) [My AI Adoption Journey](202602/2026-02-06-my-ai-adoption-journey.md)
+  - Tags: #read #llm #agent #deepdive
+  - Summary: 作者米切尔分享了从怀疑到成功集成AI工具的旅程，通过六个步骤（如使用代理、外包任务和优化机制），最终提升了工作效率和专注度。
+
 - (2026-02-05) [(Un)portable defer in C](202602/2026-02-05-%28un%29portable-defer-in-c.md)
   - Tags: #read #c
-  - Summary: 文章探讨C语言中`defer`功能的非标准实现，比较多种方案后推荐Simplified GCC/Clang版本，跨平台时可选Stack版本，认为现有实现已足够，无需等待C标准。
+  - Summary: 文章探讨C语言中功能的非标准实现，比较多种方案后推荐Simplified GCC/Clang版本，跨平台时可选Stack版本，认为现有实现已足够，无需等待C标准。
 
 - (2026-02-05) [Get all the reactions to your GitHub content using GraphQL](202602/2026-02-05-get-all-the-reactions-to-your-github-content-using-graphql.md)
   - Tags: #read #hack

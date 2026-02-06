@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-06) [My AI Adoption Journey](202602/2026-02-06-my-ai-adoption-journey.md)
+  - 作者米切尔分享了从怀疑到成功集成AI工具的旅程，通过六个步骤（如使用代理、外包任务和优化机制），最终提升了工作效率和专注度。
+  - Tags: #read #llm #agent #deepdive
+
 - (2026-02-05) [(Un)portable defer in C](202602/2026-02-05-%28un%29portable-defer-in-c.md)
-  - 文章探讨C语言中`defer`功能的非标准实现，比较多种方案后推荐Simplified GCC/Clang版本，跨平台时可选Stack版本，认为现有实现已足够，无需等待C标准。
+  - 文章探讨C语言中功能的非标准实现，比较多种方案后推荐Simplified GCC/Clang版本，跨平台时可选Stack版本，认为现有实现已足够，无需等待C标准。
   - Tags: #read #c
 
 - (2026-02-05) [Get all the reactions to your GitHub content using GraphQL](202602/2026-02-05-get-all-the-reactions-to-your-github-content-using-graphql.md)
@@ -39,13 +43,9 @@
   - 过去二十年，DevOps未能实现开发与生产环境间的反馈循环，因工具不成熟。AI技术现已成熟，自动化了仪器化和分析，降低开发者负担，实现快速迭代。未来挑战包括代码冗余风险，但DevOps通过AI进化，强调协作与持续改进。
   - Tags: #read #devops
 
-- (2026-01-31) [My Favorite Self-Hosted Apps Launched in 2025](202601/2026-01-31-my-favorite-self-hosted-apps-launched-in-2025.md)
-  - 本文基于2025年自托管应用筛选，从约900个新应用中挑选出20个突出应用，涵盖Docker管理、PDF工具、书籍管理、笔记应用等领域，这些应用以概念、质量或设计见长。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (7 entries)
+- [2026-02](202602/monthly-index.md) (8 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
