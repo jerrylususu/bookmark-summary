@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-07) [10 个 NotebookLM 专家级高质量提示词 - 小众软件](202602/2026-02-07-10-%E4%B8%AA-notebooklm-%E4%B8%93%E5%AE%B6%E7%BA%A7%E9%AB%98%E8%B4%A8%E9%87%8F%E6%8F%90%E7%A4%BA%E8%AF%8D---%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6.md)
+  - 这篇文章介绍了10个专为NotebookLM设计的提示词，旨在基于用户资料进行精准分析，避免AI自由发挥。提示词涵盖洞见提炼、矛盾识别、计划制定等，适用于学术研究或商业分析，提升答案的可靠性和实用性。
+  - Tags: #read #llm #tips
+
 - (2026-02-06) [Claude Code Swarms](202602/2026-02-06-claude-code-swarms.md)
   - 文章介绍Claude Code的代理团队功能，允许多个AI代理并行协作，提升复杂任务效率，但成本较高且为实验性功能，需明确任务分解并适合调试、审查等场景。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - Pi是Mario Zechner开发的极简编码代理，作为OpenClaw项目的核心，强调代码自我编写和扩展功能。Armin Ronacher痴迷于其简约设计、高可靠性及AI代理的未来潜力。
   - Tags: #read #llm #agent
 
-- (2026-01-31) [Teach, Don't Tell / Steve Losh](202601/2026-01-31-teach%2C-don%27t-tell-steve-losh.md)
-  - Steve Losh的文章强调技术文档应以教学为核心，旨在引导用户从新手成长为专家。他指出应避免依赖源码或API文档等错误做法，建议通过结构化部分如初次接触、快速入门和核心教学，提供渐进式学习体验。
-  - Tags: #read #deepdive #guide
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (9 entries)
+- [2026-02](202602/monthly-index.md) (10 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
