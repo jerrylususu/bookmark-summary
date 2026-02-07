@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-07) [Lessons Learned Shipping 500 Units of my First Hardware Product](202602/2026-02-07-lessons-learned-shipping-500-units-of-my-first-hardware-product.md)
+  - Simon Berens从软件工程师转行，2025年推出Brighter灯具，众筹成功。制造中面临亮度不足、关税飙升等挑战，通过亲赴工厂协调解决。核心教训是硬件周期长、错误容忍度低，需严格管理供应链。产品最终获好评，体现硬件创业的成就感。
+  - Tags: #read
+
 - (2026-02-07) [10 个 NotebookLM 专家级高质量提示词 - 小众软件](202602/2026-02-07-10-%E4%B8%AA-notebooklm-%E4%B8%93%E5%AE%B6%E7%BA%A7%E9%AB%98%E8%B4%A8%E9%87%8F%E6%8F%90%E7%A4%BA%E8%AF%8D---%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6.md)
   - 这篇文章介绍了10个专为NotebookLM设计的提示词，旨在基于用户资料进行精准分析，避免AI自由发挥。提示词涵盖洞见提炼、矛盾识别、计划制定等，适用于学术研究或商业分析，提升答案的可靠性和实用性。
   - Tags: #read #llm #tips
@@ -39,13 +43,9 @@
   - 本文介绍自我改进的编程代理，利用AI在循环中自动编码、测试和交付代码。通过原子化任务、持久化管理、自动化验证及风险控制，提升开发效率与安全性。
   - Tags: #read #llm #agent #deepdive
 
-- (2026-02-02) [Pi: The Minimal Agent Within OpenClaw](202602/2026-02-02-pi-the-minimal-agent-within-openclaw.md)
-  - Pi是Mario Zechner开发的极简编码代理，作为OpenClaw项目的核心，强调代码自我编写和扩展功能。Armin Ronacher痴迷于其简约设计、高可靠性及AI代理的未来潜力。
-  - Tags: #read #llm #agent
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (10 entries)
+- [2026-02](202602/monthly-index.md) (11 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

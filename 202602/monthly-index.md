@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-07) [Lessons Learned Shipping 500 Units of my First Hardware Product](2026-02-07-lessons-learned-shipping-500-units-of-my-first-hardware-product.md)
+  - Simon Berens从软件工程师转行，2025年推出Brighter灯具，众筹成功。制造中面临亮度不足、关税飙升等挑战，通过亲赴工厂协调解决。核心教训是硬件周期长、错误容忍度低，需严格管理供应链。产品最终获好评，体现硬件创业的成就感。
+  - Tags: #read
+
 - (2026-02-07) [10 个 NotebookLM 专家级高质量提示词 - 小众软件](2026-02-07-10-%E4%B8%AA-notebooklm-%E4%B8%93%E5%AE%B6%E7%BA%A7%E9%AB%98%E8%B4%A8%E9%87%8F%E6%8F%90%E7%A4%BA%E8%AF%8D---%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6.md)
   - 这篇文章介绍了10个专为NotebookLM设计的提示词，旨在基于用户资料进行精准分析，避免AI自由发挥。提示词涵盖洞见提炼、矛盾识别、计划制定等，适用于学术研究或商业分析，提升答案的可靠性和实用性。
   - Tags: #read #llm #tips
