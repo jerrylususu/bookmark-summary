@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-07) [Building a full-text search engine in 150 lines of Python code](202602/2026-02-07-building-a-full-text-search-engine-in-150-lines-of-python-code.md)
+  - 本文介绍如何用Python在150行代码内构建简单全文搜索引擎，使用维基百科数据，涵盖数据解析、倒排索引、布尔搜索和TF-IDF排名。引擎在内存中快速处理百万文档，但非生产级，代码已开源。
+  - Tags: #read #deepdive
+
 - (2026-02-07) [Lessons Learned Shipping 500 Units of my First Hardware Product](202602/2026-02-07-lessons-learned-shipping-500-units-of-my-first-hardware-product.md)
   - Simon Berens从软件工程师转行，2025年推出Brighter灯具，众筹成功。制造中面临亮度不足、关税飙升等挑战，通过亲赴工厂协调解决。核心教训是硬件周期长、错误容忍度低，需严格管理供应链。产品最终获好评，体现硬件创业的成就感。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 作者使用1DollarScan扫描旧教材，成本25.2美元、耗时两周，但PDF质量差。通过工具优化后文件减小90%，可读性提升。讨论版权风险，个人使用或属合理使用，服务评价B-，建议改进价格和效率。
   - Tags: #read #guide
 
-- (2026-02-02) [Self-Improving Coding Agents](202602/2026-02-02-self-improving-coding-agents.md)
-  - 本文介绍自我改进的编程代理，利用AI在循环中自动编码、测试和交付代码。通过原子化任务、持久化管理、自动化验证及风险控制，提升开发效率与安全性。
-  - Tags: #read #llm #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (11 entries)
+- [2026-02](202602/monthly-index.md) (12 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

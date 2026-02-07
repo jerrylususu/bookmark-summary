@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-07) [Building a full-text search engine in 150 lines of Python code](2026-02-07-building-a-full-text-search-engine-in-150-lines-of-python-code.md)
+  - 本文介绍如何用Python在150行代码内构建简单全文搜索引擎，使用维基百科数据，涵盖数据解析、倒排索引、布尔搜索和TF-IDF排名。引擎在内存中快速处理百万文档，但非生产级，代码已开源。
+  - Tags: #read #deepdive
+
 - (2026-02-07) [Lessons Learned Shipping 500 Units of my First Hardware Product](2026-02-07-lessons-learned-shipping-500-units-of-my-first-hardware-product.md)
   - Simon Berens从软件工程师转行，2025年推出Brighter灯具，众筹成功。制造中面临亮度不足、关税飙升等挑战，通过亲赴工厂协调解决。核心教训是硬件周期长、错误容忍度低，需严格管理供应链。产品最终获好评，体现硬件创业的成就感。
   - Tags: #read

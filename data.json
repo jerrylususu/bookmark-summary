@@ -9849,5 +9849,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Building a full-text search engine in 150 lines of Python code",
+    "url": "https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/",
+    "timestamp": 1770476822,
+    "tags": [
+      "read",
+      "deepdive"
+    ]
   }
 ]
