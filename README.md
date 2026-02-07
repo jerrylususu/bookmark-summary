@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-07) [Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back.](202602/2026-02-07-microsoft-has-killed-widgets-six-times.-here%27s-why-they-keep-coming-back..md)
+  - Microsoft自1997年起六次尝试在Windows中引入部件功能，均因性能、安全、空间等问题失败。每次重生吸取教训，当前版本优化为轻量、原生渲染和用户可控设计。
+  - Tags: #read #ui #design #history #deepdive
+
 - (2026-02-07) [Building a full-text search engine in 150 lines of Python code](202602/2026-02-07-building-a-full-text-search-engine-in-150-lines-of-python-code.md)
   - 本文介绍如何用Python在150行代码内构建简单全文搜索引擎，使用维基百科数据，涵盖数据解析、倒排索引、布尔搜索和TF-IDF排名。引擎在内存中快速处理百万文档，但非生产级，代码已开源。
   - Tags: #read #deepdive
@@ -39,13 +43,9 @@
   - 文章强调项目成功的关键是专注于核心目标（主要事情），而非次要细节，类似帕累托原则。建议通过案例分析识别主要事情，科技公司中常为交付项目。需克服不适和变化，保持灵活性，多思考焦点问题以高效实现目标。
   - Tags: #read #career
 
-- (2026-02-05) [Remote Book Scanning with 1DollarScan and Optimizing Scanned PDFs](202602/2026-02-05-remote-book-scanning-with-1dollarscan-and-optimizing-scanned-pdfs.md)
-  - 作者使用1DollarScan扫描旧教材，成本25.2美元、耗时两周，但PDF质量差。通过工具优化后文件减小90%，可读性提升。讨论版权风险，个人使用或属合理使用，服务评价B-，建议改进价格和效率。
-  - Tags: #read #guide
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (12 entries)
+- [2026-02](202602/monthly-index.md) (13 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

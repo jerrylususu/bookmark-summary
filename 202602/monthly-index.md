@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-07) [Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back.](2026-02-07-microsoft-has-killed-widgets-six-times.-here%27s-why-they-keep-coming-back..md)
+  - Microsoft自1997年起六次尝试在Windows中引入部件功能，均因性能、安全、空间等问题失败。每次重生吸取教训，当前版本优化为轻量、原生渲染和用户可控设计。
+  - Tags: #read #ui #design #history #deepdive
+
 - (2026-02-07) [Building a full-text search engine in 150 lines of Python code](2026-02-07-building-a-full-text-search-engine-in-150-lines-of-python-code.md)
   - 本文介绍如何用Python在150行代码内构建简单全文搜索引擎，使用维基百科数据，涵盖数据解析、倒排索引、布尔搜索和TF-IDF排名。引擎在内存中快速处理百万文档，但非生产级，代码已开源。
   - Tags: #read #deepdive
