@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-07) [Your Job Isn't Disappearing. It's Shrinking Around You in Real Time](2026-02-07-your-job-isn%27t-disappearing.-it%27s-shrinking-around-you-in-real-time.md)
+  - AI时代导致工作角色“缩小”，专业技能被自动化削弱，引发职业身份危机。常见适应策略无效，有效方案是创造新角色，利用AI移除约束、扩大规模，专注于决策层。长远需放弃旧身份，持续发现新机遇。
+  - Tags: #read #career
+
 - (2026-02-07) [Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back.](2026-02-07-microsoft-has-killed-widgets-six-times.-here%27s-why-they-keep-coming-back..md)
   - Microsoft自1997年起六次尝试在Windows中引入部件功能，均因性能、安全、空间等问题失败。每次重生吸取教训，当前版本优化为轻量、原生渲染和用户可控设计。
   - Tags: #read #ui #design #history #deepdive

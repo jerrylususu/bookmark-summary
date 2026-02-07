@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-07) [Your Job Isn't Disappearing. It's Shrinking Around You in Real Time](202602/2026-02-07-your-job-isn%27t-disappearing.-it%27s-shrinking-around-you-in-real-time.md)
+  - AI时代导致工作角色“缩小”，专业技能被自动化削弱，引发职业身份危机。常见适应策略无效，有效方案是创造新角色，利用AI移除约束、扩大规模，专注于决策层。长远需放弃旧身份，持续发现新机遇。
+  - Tags: #read #career
+
 - (2026-02-07) [Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back.](202602/2026-02-07-microsoft-has-killed-widgets-six-times.-here%27s-why-they-keep-coming-back..md)
   - Microsoft自1997年起六次尝试在Windows中引入部件功能，均因性能、安全、空间等问题失败。每次重生吸取教训，当前版本优化为轻量、原生渲染和用户可控设计。
   - Tags: #read #ui #design #history #deepdive
@@ -39,13 +43,9 @@
   - 本文介绍go-to-wheel工具，它能自动将Go二进制打包为Python wheel并通过PyPI分发，简化安装（如），使Go高性能工具无缝集成到Python项目中。
   - Tags: #read #tips
 
-- (2026-02-05) [Getting the main thing right](202602/2026-02-05-getting-the-main-thing-right.md)
-  - 文章强调项目成功的关键是专注于核心目标（主要事情），而非次要细节，类似帕累托原则。建议通过案例分析识别主要事情，科技公司中常为交付项目。需克服不适和变化，保持灵活性，多思考焦点问题以高效实现目标。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (13 entries)
+- [2026-02](202602/monthly-index.md) (14 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
