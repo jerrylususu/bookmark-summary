@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-08) [crawshaw - 2026-02-08](202602/2026-02-08-crawshaw---2026-02-08.md)
+  - Tags: #read
+  - Summary: 作者回顾了八个月的AI代理编程体验，指出模型能力提升但框架变化不大，强调需用前沿模型。他建议用虚拟机作沙盒，分享了快速构建工具的经历，并认为软件形态应优先考虑程序员体验，因用户将通过代理交互。最后，他表达了AI代理带来的编程乐趣，认为反LLM观点难以理解。
+
 - (2026-02-08) [Large tech companies don't need heroes](202602/2026-02-08-large-tech-companies-don%27t-need-heroes.md)
   - Tags: #read #career
   - Summary: 大型科技公司的成功由系统流程和激励决定，超出个人控制。英雄主义源于工程师不满，但无法带来长期收益，反掩盖缺陷，易被利用。建议工程师抵制冲动，关注实际奖励，接受低效率常态。

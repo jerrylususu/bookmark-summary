@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-08) [crawshaw - 2026-02-08](202602/2026-02-08-crawshaw---2026-02-08.md)
+  - 作者回顾了八个月的AI代理编程体验，指出模型能力提升但框架变化不大，强调需用前沿模型。他建议用虚拟机作沙盒，分享了快速构建工具的经历，并认为软件形态应优先考虑程序员体验，因用户将通过代理交互。最后，他表达了AI代理带来的编程乐趣，认为反LLM观点难以理解。
+  - Tags: #read
+
 - (2026-02-08) [Large tech companies don't need heroes](202602/2026-02-08-large-tech-companies-don%27t-need-heroes.md)
   - 大型科技公司的成功由系统流程和激励决定，超出个人控制。英雄主义源于工程师不满，但无法带来长期收益，反掩盖缺陷，易被利用。建议工程师抵制冲动，关注实际奖励，接受低效率常态。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 文章探讨C语言中功能的非标准实现，比较多种方案后推荐Simplified GCC/Clang版本，跨平台时可选Stack版本，认为现有实现已足够，无需等待C标准。
   - Tags: #read #c
 
-- (2026-02-05) [Get all the reactions to your GitHub content using GraphQL](202602/2026-02-05-get-all-the-reactions-to-your-github-content-using-graphql.md)
-  - 本文介绍通过GraphQL API和GitHub CLI手动获取GitHub内容（如问题、PRs和评论）的反应，因平台无通知功能。提供查询示例，但指出限制如仅能获取近期数据、效率低下，语气幽默并批评GraphQL复杂性。
-  - Tags: #read #hack
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (15 entries)
+- [2026-02](202602/monthly-index.md) (16 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
