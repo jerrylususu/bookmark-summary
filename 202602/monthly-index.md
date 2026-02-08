@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-08) [Large tech companies don't need heroes](2026-02-08-large-tech-companies-don%27t-need-heroes.md)
+  - 大型科技公司的成功由系统流程和激励决定，超出个人控制。英雄主义源于工程师不满，但无法带来长期收益，反掩盖缺陷，易被利用。建议工程师抵制冲动，关注实际奖励，接受低效率常态。
+  - Tags: #read #career
+
 - (2026-02-07) [Your Job Isn't Disappearing. It's Shrinking Around You in Real Time](2026-02-07-your-job-isn%27t-disappearing.-it%27s-shrinking-around-you-in-real-time.md)
   - AI时代导致工作角色“缩小”，专业技能被自动化削弱，引发职业身份危机。常见适应策略无效，有效方案是创造新角色，利用AI移除约束、扩大规模，专注于决策层。长远需放弃旧身份，持续发现新机遇。
   - Tags: #read #career

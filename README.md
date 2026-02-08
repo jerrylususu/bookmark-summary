@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-08) [Large tech companies don't need heroes](202602/2026-02-08-large-tech-companies-don%27t-need-heroes.md)
+  - 大型科技公司的成功由系统流程和激励决定，超出个人控制。英雄主义源于工程师不满，但无法带来长期收益，反掩盖缺陷，易被利用。建议工程师抵制冲动，关注实际奖励，接受低效率常态。
+  - Tags: #read #career
+
 - (2026-02-07) [Your Job Isn't Disappearing. It's Shrinking Around You in Real Time](202602/2026-02-07-your-job-isn%27t-disappearing.-it%27s-shrinking-around-you-in-real-time.md)
   - AI时代导致工作角色“缩小”，专业技能被自动化削弱，引发职业身份危机。常见适应策略无效，有效方案是创造新角色，利用AI移除约束、扩大规模，专注于决策层。长远需放弃旧身份，持续发现新机遇。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 本文介绍通过GraphQL API和GitHub CLI手动获取GitHub内容（如问题、PRs和评论）的反应，因平台无通知功能。提供查询示例，但指出限制如仅能获取近期数据、效率低下，语气幽默并批评GraphQL复杂性。
   - Tags: #read #hack
 
-- (2026-02-05) [Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel](202602/2026-02-05-distributing-go-binaries-like-sqlite-scanner-through-pypi-using-go-to-wheel.md)
-  - 本文介绍go-to-wheel工具，它能自动将Go二进制打包为Python wheel并通过PyPI分发，简化安装（如），使Go高性能工具无缝集成到Python项目中。
-  - Tags: #read #tips
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (14 entries)
+- [2026-02](202602/monthly-index.md) (15 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
