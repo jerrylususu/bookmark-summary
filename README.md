@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-09) [A Language For Agents](202602/2026-02-09-a-language-for-agents.md)
+  - 文章探讨了面向智能体的编程语言设计，指出新语言需针对智能体优化，以降低编码成本并提升可理解性。智能体偏好明确语法、局部推理等特性，厌恶宏、别名等复杂元素。随着软件开发量激增，新语言有望因智能体性能的可量化评估而涌现。
+  - Tags: #read #llm #agent
+
 - (2026-02-08) [crawshaw - 2026-02-08](202602/2026-02-08-crawshaw---2026-02-08.md)
   - 作者回顾了八个月的AI代理编程体验，指出模型能力提升但框架变化不大，强调需用前沿模型。他建议用虚拟机作沙盒，分享了快速构建工具的经历，并认为软件形态应优先考虑程序员体验，因用户将通过代理交互。最后，他表达了AI代理带来的编程乐趣，认为反LLM观点难以理解。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 作者米切尔分享了从怀疑到成功集成AI工具的旅程，通过六个步骤（如使用代理、外包任务和优化机制），最终提升了工作效率和专注度。
   - Tags: #read #llm #agent #deepdive
 
-- (2026-02-05) [(Un)portable defer in C](202602/2026-02-05-%28un%29portable-defer-in-c.md)
-  - 文章探讨C语言中功能的非标准实现，比较多种方案后推荐Simplified GCC/Clang版本，跨平台时可选Stack版本，认为现有实现已足够，无需等待C标准。
-  - Tags: #read #c
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (16 entries)
+- [2026-02](202602/monthly-index.md) (17 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

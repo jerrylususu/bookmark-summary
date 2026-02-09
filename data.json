@@ -9901,5 +9901,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "A Language For Agents",
+    "url": "https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/",
+    "timestamp": 1770643522,
+    "tags": [
+      "read",
+      "llm",
+      "agent"
+    ]
   }
 ]
