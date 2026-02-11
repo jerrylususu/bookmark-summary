@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-11) [On screwing up](202602/2026-02-11-on-screwing-up.md)
+  - 本文通过作者亲身经历，强调职场犯错后应控制情绪、及时沟通并接受后果，指出正确处理错误比避免错误更重要，以维护信任并促进职业成长。
+  - Tags: #read #career
+
 - (2026-02-09) [A Language For Agents](202602/2026-02-09-a-language-for-agents.md)
   - 文章探讨了面向智能体的编程语言设计，指出新语言需针对智能体优化，以降低编码成本并提升可理解性。智能体偏好明确语法、局部推理等特性，厌恶宏、别名等复杂元素。随着软件开发量激增，新语言有望因智能体性能的可量化评估而涌现。
   - Tags: #read #llm #agent
@@ -39,13 +43,9 @@
   - 文章介绍Claude Code的代理团队功能，允许多个AI代理并行协作，提升复杂任务效率，但成本较高且为实验性功能，需明确任务分解并适合调试、审查等场景。
   - Tags: #read #agent #deepdive
 
-- (2026-02-06) [My AI Adoption Journey](202602/2026-02-06-my-ai-adoption-journey.md)
-  - 作者米切尔分享了从怀疑到成功集成AI工具的旅程，通过六个步骤（如使用代理、外包任务和优化机制），最终提升了工作效率和专注度。
-  - Tags: #read #llm #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (17 entries)
+- [2026-02](202602/monthly-index.md) (18 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

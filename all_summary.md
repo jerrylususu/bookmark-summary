@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-11) [On screwing up](202602/2026-02-11-on-screwing-up.md)
+  - Tags: #read #career
+  - Summary: 本文通过作者亲身经历，强调职场犯错后应控制情绪、及时沟通并接受后果，指出正确处理错误比避免错误更重要，以维护信任并促进职业成长。
+
 - (2026-02-09) [A Language For Agents](202602/2026-02-09-a-language-for-agents.md)
   - Tags: #read #llm #agent
   - Summary: 文章探讨了面向智能体的编程语言设计，指出新语言需针对智能体优化，以降低编码成本并提升可理解性。智能体偏好明确语法、局部推理等特性，厌恶宏、别名等复杂元素。随着软件开发量激增，新语言有望因智能体性能的可量化评估而涌现。
