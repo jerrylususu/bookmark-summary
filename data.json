@@ -9932,5 +9932,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Introducing Showboat and Rodney, so agents can demo what they’ve built",
+    "url": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/",
+    "timestamp": 1770812279,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

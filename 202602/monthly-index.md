@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-11) [Introducing Showboat and Rodney, so agents can demo what they’ve built](2026-02-11-introducing-showboat-and-rodney%2C-so-agents-can-demo-what-they%E2%80%99ve-built.md)
+  - 本文介绍了两个新工具Showboat和Rodney，用于帮助编码代理向人类展示其构建成果。Showboat通过生成包含命令输出和图像的Markdown文档来演示工作，而Rodney则是一个CLI浏览器自动化工具，用于网页交互和截图。这两个工具旨在弥补自动化测试的不足，通过手动验证增强对代理工作成果的信任。
+  - Tags: #read #agent
+
 - (2026-02-11) [Humanity's last programming language](2026-02-11-humanity%27s-last-programming-language.md)
   - 文章提出“Markdownlang”编程范式，将文档与代码结合，由AI执行，旨在简化开发。但作者担忧其可能加剧程序员职业危机，改变软件标准，引发社会影响。
   - Tags: #read #llm
