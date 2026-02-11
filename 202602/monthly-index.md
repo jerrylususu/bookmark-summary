@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-11) [Humanity's last programming language](2026-02-11-humanity%27s-last-programming-language.md)
+  - 文章提出“Markdownlang”编程范式，将文档与代码结合，由AI执行，旨在简化开发。但作者担忧其可能加剧程序员职业危机，改变软件标准，引发社会影响。
+  - Tags: #read #llm
+
 - (2026-02-11) [On screwing up](2026-02-11-on-screwing-up.md)
   - 本文通过作者亲身经历，强调职场犯错后应控制情绪、及时沟通并接受后果，指出正确处理错误比避免错误更重要，以维护信任并促进职业成长。
   - Tags: #read #career

@@ -9922,5 +9922,15 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Humanity's last programming language",
+    "url": "https://xeiaso.net/blog/2026/markdownlang/",
+    "timestamp": 1770812050,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-11) [Humanity's last programming language](202602/2026-02-11-humanity%27s-last-programming-language.md)
+  - 文章提出“Markdownlang”编程范式，将文档与代码结合，由AI执行，旨在简化开发。但作者担忧其可能加剧程序员职业危机，改变软件标准，引发社会影响。
+  - Tags: #read #llm
+
 - (2026-02-11) [On screwing up](202602/2026-02-11-on-screwing-up.md)
   - 本文通过作者亲身经历，强调职场犯错后应控制情绪、及时沟通并接受后果，指出正确处理错误比避免错误更重要，以维护信任并促进职业成长。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 这篇文章介绍了10个专为NotebookLM设计的提示词，旨在基于用户资料进行精准分析，避免AI自由发挥。提示词涵盖洞见提炼、矛盾识别、计划制定等，适用于学术研究或商业分析，提升答案的可靠性和实用性。
   - Tags: #read #llm #tips
 
-- (2026-02-06) [Claude Code Swarms](202602/2026-02-06-claude-code-swarms.md)
-  - 文章介绍Claude Code的代理团队功能，允许多个AI代理并行协作，提升复杂任务效率，但成本较高且为实验性功能，需明确任务分解并适合调试、审查等场景。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (18 entries)
+- [2026-02](202602/monthly-index.md) (19 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
