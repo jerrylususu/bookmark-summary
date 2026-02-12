@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-12) [charles leifer | cysqlite - a new sqlite driver](202602/2026-02-12-charles-leifer-cysqlite---a-new-sqlite-driver.md)
+  - cysqlite 是一个全新的 DB-API 兼容 SQLite 驱动，旨在替代标准库 sqlite3 和 pysqlite3。它简化了事务处理，支持高级功能如虚拟表，并为 Peewee ORM 提供了更好的集成，解决了标准库在事务和数据类型处理上的不足。
+  - Tags: #read #python
+
 - (2026-02-12) [Skills in OpenAI API](202602/2026-02-12-skills-in-openai-api.md)
   - 技能是包含指令和脚本的可重用文件包，通过SKILL.md定义，适用于重复性工作流。它与系统提示和工具不同，用于打包稳定流程。创建时需上传文件夹或zip包，通过API调用并挂载到执行环境，例如生成CSV洞察报告。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - AI时代导致工作角色“缩小”，专业技能被自动化削弱，引发职业身份危机。常见适应策略无效，有效方案是创造新角色，利用AI移除约束、扩大规模，专注于决策层。长远需放弃旧身份，持续发现新机遇。
   - Tags: #read #career
 
-- (2026-02-07) [Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back.](202602/2026-02-07-microsoft-has-killed-widgets-six-times.-here%27s-why-they-keep-coming-back..md)
-  - Microsoft自1997年起六次尝试在Windows中引入部件功能，均因性能、安全、空间等问题失败。每次重生吸取教训，当前版本优化为轻量、原生渲染和用户可控设计。
-  - Tags: #read #ui #design #history #deepdive
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (22 entries)
+- [2026-02](202602/monthly-index.md) (23 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

@@ -9962,5 +9962,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "charles leifer | cysqlite - a new sqlite driver",
+    "url": "https://charlesleifer.com/blog/cysqlite---a-new-sqlite-driver/",
+    "timestamp": 1770908897,
+    "tags": [
+      "read",
+      "python"
+    ]
   }
 ]

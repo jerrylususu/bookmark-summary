@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-12) [charles leifer | cysqlite - a new sqlite driver](2026-02-12-charles-leifer-cysqlite---a-new-sqlite-driver.md)
+  - cysqlite 是一个全新的 DB-API 兼容 SQLite 驱动，旨在替代标准库 sqlite3 和 pysqlite3。它简化了事务处理，支持高级功能如虚拟表，并为 Peewee ORM 提供了更好的集成，解决了标准库在事务和数据类型处理上的不足。
+  - Tags: #read #python
+
 - (2026-02-12) [Skills in OpenAI API](2026-02-12-skills-in-openai-api.md)
   - 技能是包含指令和脚本的可重用文件包，通过SKILL.md定义，适用于重复性工作流。它与系统提示和工具不同，用于打包稳定流程。创建时需上传文件夹或zip包，通过API调用并挂载到执行环境，例如生成CSV洞察报告。
   - Tags: #read #agent
