@@ -9952,5 +9952,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Skills in OpenAI API",
+    "url": "https://developers.openai.com/cookbook/examples/skills_in_api/",
+    "timestamp": 1770904532,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

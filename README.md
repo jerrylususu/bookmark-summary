@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-12) [Skills in OpenAI API](202602/2026-02-12-skills-in-openai-api.md)
+  - 技能是包含指令和脚本的可重用文件包，通过SKILL.md定义，适用于重复性工作流。它与系统提示和工具不同，用于打包稳定流程。创建时需上传文件夹或zip包，通过API调用并挂载到执行环境，例如生成CSV洞察报告。
+  - Tags: #read #agent
+
 - (2026-02-12) [Coding agents as the new compilers - Anil Dash](202602/2026-02-12-coding-agents-as-the-new-compilers---anil-dash.md)
   - 文章将编码智能体比作新一代编译器，指出软件开发正进入“无代码编译”阶段，开发者从编写代码转向定义规范与协作。作者呼吁使用开源模型以保持技术自主，并强调主动掌握AI方向，聚焦问题本质以创造更优质的产品。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - Microsoft自1997年起六次尝试在Windows中引入部件功能，均因性能、安全、空间等问题失败。每次重生吸取教训，当前版本优化为轻量、原生渲染和用户可控设计。
   - Tags: #read #ui #design #history #deepdive
 
-- (2026-02-07) [Building a full-text search engine in 150 lines of Python code](202602/2026-02-07-building-a-full-text-search-engine-in-150-lines-of-python-code.md)
-  - 本文介绍如何用Python在150行代码内构建简单全文搜索引擎，使用维基百科数据，涵盖数据解析、倒排索引、布尔搜索和TF-IDF排名。引擎在内存中快速处理百万文档，但非生产级，代码已开源。
-  - Tags: #read #deepdive
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (21 entries)
+- [2026-02](202602/monthly-index.md) (22 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
