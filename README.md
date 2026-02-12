@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-12) [Coding agents as the new compilers - Anil Dash](202602/2026-02-12-coding-agents-as-the-new-compilers---anil-dash.md)
+  - 文章将编码智能体比作新一代编译器，指出软件开发正进入“无代码编译”阶段，开发者从编写代码转向定义规范与协作。作者呼吁使用开源模型以保持技术自主，并强调主动掌握AI方向，聚焦问题本质以创造更优质的产品。
+  - Tags: #read #agent
+
 - (2026-02-11) [Introducing Showboat and Rodney, so agents can demo what they’ve built](202602/2026-02-11-introducing-showboat-and-rodney%2C-so-agents-can-demo-what-they%E2%80%99ve-built.md)
   - 本文介绍了两个新工具Showboat和Rodney，用于帮助编码代理向人类展示其构建成果。Showboat通过生成包含命令输出和图像的Markdown文档来演示工作，而Rodney则是一个CLI浏览器自动化工具，用于网页交互和截图。这两个工具旨在弥补自动化测试的不足，通过手动验证增强对代理工作成果的信任。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文介绍如何用Python在150行代码内构建简单全文搜索引擎，使用维基百科数据，涵盖数据解析、倒排索引、布尔搜索和TF-IDF排名。引擎在内存中快速处理百万文档，但非生产级，代码已开源。
   - Tags: #read #deepdive
 
-- (2026-02-07) [Lessons Learned Shipping 500 Units of my First Hardware Product](202602/2026-02-07-lessons-learned-shipping-500-units-of-my-first-hardware-product.md)
-  - Simon Berens从软件工程师转行，2025年推出Brighter灯具，众筹成功。制造中面临亮度不足、关税飙升等挑战，通过亲赴工厂协调解决。核心教训是硬件周期长、错误容忍度低，需严格管理供应链。产品最终获好评，体现硬件创业的成就感。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (20 entries)
+- [2026-02](202602/monthly-index.md) (21 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

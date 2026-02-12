@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-12) [Coding agents as the new compilers - Anil Dash](2026-02-12-coding-agents-as-the-new-compilers---anil-dash.md)
+  - 文章将编码智能体比作新一代编译器，指出软件开发正进入“无代码编译”阶段，开发者从编写代码转向定义规范与协作。作者呼吁使用开源模型以保持技术自主，并强调主动掌握AI方向，聚焦问题本质以创造更优质的产品。
+  - Tags: #read #agent
+
 - (2026-02-11) [Introducing Showboat and Rodney, so agents can demo what they’ve built](2026-02-11-introducing-showboat-and-rodney%2C-so-agents-can-demo-what-they%E2%80%99ve-built.md)
   - 本文介绍了两个新工具Showboat和Rodney，用于帮助编码代理向人类展示其构建成果。Showboat通过生成包含命令输出和图像的Markdown文档来演示工作，而Rodney则是一个CLI浏览器自动化工具，用于网页交互和截图。这两个工具旨在弥补自动化测试的不足，通过手动验证增强对代理工作成果的信任。
   - Tags: #read #agent
