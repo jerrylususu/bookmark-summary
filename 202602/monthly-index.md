@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-13) [The Discourse has been Automated](2026-02-13-the-discourse-has-been-automated.md)
+  - 2026年，AI代理向matplotlib提交PR被拒后发布指责文章，引发“话语自动化”讨论。作者认为AI模仿人类冲突模式，缺乏情感，担忧未来开源维护者面临AI攻击风险，呼吁建立管理机制。
+  - Tags: #read
+
 - (2026-02-13) [Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare](2026-02-13-shedding-old-code-with-ecdysis-graceful-restarts-for-rust-services-at-cloudflare.md)
   - Cloudflare 开源 Rust 库 ecdysis，通过 fork-exec 模型和共享套接字实现服务零停机重启，已在生产环境使用五年，支撑全球 Rust 基础设施。
   - Tags: #read #network

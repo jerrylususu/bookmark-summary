@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-13) [The Discourse has been Automated](202602/2026-02-13-the-discourse-has-been-automated.md)
+  - 2026年，AI代理向matplotlib提交PR被拒后发布指责文章，引发“话语自动化”讨论。作者认为AI模仿人类冲突模式，缺乏情感，担忧未来开源维护者面临AI攻击风险，呼吁建立管理机制。
+  - Tags: #read
+
 - (2026-02-13) [Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare](202602/2026-02-13-shedding-old-code-with-ecdysis-graceful-restarts-for-rust-services-at-cloudflare.md)
   - Cloudflare 开源 Rust 库 ecdysis，通过 fork-exec 模型和共享套接字实现服务零停机重启，已在生产环境使用五年，支撑全球 Rust 基础设施。
   - Tags: #read #network
@@ -39,13 +43,9 @@
   - 文章探讨了面向智能体的编程语言设计，指出新语言需针对智能体优化，以降低编码成本并提升可理解性。智能体偏好明确语法、局部推理等特性，厌恶宏、别名等复杂元素。随着软件开发量激增，新语言有望因智能体性能的可量化评估而涌现。
   - Tags: #read #llm #agent
 
-- (2026-02-08) [crawshaw - 2026-02-08](202602/2026-02-08-crawshaw---2026-02-08.md)
-  - 作者回顾了八个月的AI代理编程体验，指出模型能力提升但框架变化不大，强调需用前沿模型。他建议用虚拟机作沙盒，分享了快速构建工具的经历，并认为软件形态应优先考虑程序员体验，因用户将通过代理交互。最后，他表达了AI代理带来的编程乐趣，认为反LLM观点难以理解。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (25 entries)
+- [2026-02](202602/monthly-index.md) (26 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
