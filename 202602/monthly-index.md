@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-13) [ReMemory - Split a secret among people you trust](2026-02-13-rememory---split-a-secret-among-people-you-trust.md)
+  - ReMemory 是一款基于 Shamir's Secret Sharing 算法的开源工具，用于在信任的人之间分割密钥以加密文件。它支持设置阈值（如5人中的3人）来恢复文件，每个接收者获得独立的离线恢复包，无需服务器或互联网即可在浏览器中工作。工具完全本地运行，数据不离开设备，恢复过程不依赖网站，专注于安全的分布式秘密管理，而非云服务或备份。
+  - Tags: #tools
+
 - (2026-02-12) [charles leifer | cysqlite - a new sqlite driver](2026-02-12-charles-leifer-cysqlite---a-new-sqlite-driver.md)
   - cysqlite 是一个全新的 DB-API 兼容 SQLite 驱动，旨在替代标准库 sqlite3 和 pysqlite3。它简化了事务处理，支持高级功能如虚拟表，并为 Peewee ORM 提供了更好的集成，解决了标准库在事务和数据类型处理上的不足。
   - Tags: #read #python

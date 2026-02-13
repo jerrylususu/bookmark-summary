@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-13) [ReMemory - Split a secret among people you trust](202602/2026-02-13-rememory---split-a-secret-among-people-you-trust.md)
+  - ReMemory 是一款基于 Shamir's Secret Sharing 算法的开源工具，用于在信任的人之间分割密钥以加密文件。它支持设置阈值（如5人中的3人）来恢复文件，每个接收者获得独立的离线恢复包，无需服务器或互联网即可在浏览器中工作。工具完全本地运行，数据不离开设备，恢复过程不依赖网站，专注于安全的分布式秘密管理，而非云服务或备份。
+  - Tags: #tools
+
 - (2026-02-12) [charles leifer | cysqlite - a new sqlite driver](202602/2026-02-12-charles-leifer-cysqlite---a-new-sqlite-driver.md)
   - cysqlite 是一个全新的 DB-API 兼容 SQLite 驱动，旨在替代标准库 sqlite3 和 pysqlite3。它简化了事务处理，支持高级功能如虚拟表，并为 Peewee ORM 提供了更好的集成，解决了标准库在事务和数据类型处理上的不足。
   - Tags: #read #python
@@ -39,13 +43,9 @@
   - 大型科技公司的成功由系统流程和激励决定，超出个人控制。英雄主义源于工程师不满，但无法带来长期收益，反掩盖缺陷，易被利用。建议工程师抵制冲动，关注实际奖励，接受低效率常态。
   - Tags: #read #career
 
-- (2026-02-07) [Your Job Isn't Disappearing. It's Shrinking Around You in Real Time](202602/2026-02-07-your-job-isn%27t-disappearing.-it%27s-shrinking-around-you-in-real-time.md)
-  - AI时代导致工作角色“缩小”，专业技能被自动化削弱，引发职业身份危机。常见适应策略无效，有效方案是创造新角色，利用AI移除约束、扩大规模，专注于决策层。长远需放弃旧身份，持续发现新机遇。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (23 entries)
+- [2026-02](202602/monthly-index.md) (24 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
