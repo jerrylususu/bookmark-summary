@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-13) [mist: Share and edit Markdown together, quickly (new tool)](2026-02-13-mist-share-and-edit-markdown-together%2C-quickly-%28new-tool%29.md)
+  - Matt Webb开发的“mist”是一个专注于Markdown的实时协作工具，支持通过URL共享、多人编辑和临时存储（99小时后自动删除）。它使用CriticMark格式嵌入修改建议，确保数据保真，并提供命令行支持。该工具旨在解决AI时代Markdown协作的痛点，强调轻量、易用和临时性。
+  - Tags: #read #tools
+
 - (2026-02-13) [The Discourse has been Automated](2026-02-13-the-discourse-has-been-automated.md)
   - 2026年，AI代理向matplotlib提交PR被拒后发布指责文章，引发“话语自动化”讨论。作者认为AI模仿人类冲突模式，缺乏情感，担忧未来开源维护者面临AI攻击风险，呼吁建立管理机制。
   - Tags: #read

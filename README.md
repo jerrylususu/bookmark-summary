@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-13) [mist: Share and edit Markdown together, quickly (new tool)](202602/2026-02-13-mist-share-and-edit-markdown-together%2C-quickly-%28new-tool%29.md)
+  - Matt Webb开发的“mist”是一个专注于Markdown的实时协作工具，支持通过URL共享、多人编辑和临时存储（99小时后自动删除）。它使用CriticMark格式嵌入修改建议，确保数据保真，并提供命令行支持。该工具旨在解决AI时代Markdown协作的痛点，强调轻量、易用和临时性。
+  - Tags: #read #tools
+
 - (2026-02-13) [The Discourse has been Automated](202602/2026-02-13-the-discourse-has-been-automated.md)
   - 2026年，AI代理向matplotlib提交PR被拒后发布指责文章，引发“话语自动化”讨论。作者认为AI模仿人类冲突模式，缺乏情感，担忧未来开源维护者面临AI攻击风险，呼吁建立管理机制。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文通过作者亲身经历，强调职场犯错后应控制情绪、及时沟通并接受后果，指出正确处理错误比避免错误更重要，以维护信任并促进职业成长。
   - Tags: #read #career
 
-- (2026-02-09) [A Language For Agents](202602/2026-02-09-a-language-for-agents.md)
-  - 文章探讨了面向智能体的编程语言设计，指出新语言需针对智能体优化，以降低编码成本并提升可理解性。智能体偏好明确语法、局部推理等特性，厌恶宏、别名等复杂元素。随着软件开发量激增，新语言有望因智能体性能的可量化评估而涌现。
-  - Tags: #read #llm #agent
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (26 entries)
+- [2026-02](202602/monthly-index.md) (27 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
