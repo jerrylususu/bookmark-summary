@@ -9981,5 +9981,15 @@
     "tags": [
       "tools"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
+    "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
+    "timestamp": 1770996156,
+    "tags": [
+      "read",
+      "network"
+    ]
   }
 ]

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-13) [Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare](202602/2026-02-13-shedding-old-code-with-ecdysis-graceful-restarts-for-rust-services-at-cloudflare.md)
+  - Cloudflare 开源 Rust 库 ecdysis，通过 fork-exec 模型和共享套接字实现服务零停机重启，已在生产环境使用五年，支撑全球 Rust 基础设施。
+  - Tags: #read #network
+
 - (2026-02-13) [ReMemory - Split a secret among people you trust](202602/2026-02-13-rememory---split-a-secret-among-people-you-trust.md)
   - ReMemory 是一款基于 Shamir's Secret Sharing 算法的开源工具，用于在信任的人之间分割密钥以加密文件。它支持设置阈值（如5人中的3人）来恢复文件，每个接收者获得独立的离线恢复包，无需服务器或互联网即可在浏览器中工作。工具完全本地运行，数据不离开设备，恢复过程不依赖网站，专注于安全的分布式秘密管理，而非云服务或备份。
   - Tags: #tools
@@ -39,13 +43,9 @@
   - 作者回顾了八个月的AI代理编程体验，指出模型能力提升但框架变化不大，强调需用前沿模型。他建议用虚拟机作沙盒，分享了快速构建工具的经历，并认为软件形态应优先考虑程序员体验，因用户将通过代理交互。最后，他表达了AI代理带来的编程乐趣，认为反LLM观点难以理解。
   - Tags: #read
 
-- (2026-02-08) [Large tech companies don't need heroes](202602/2026-02-08-large-tech-companies-don%27t-need-heroes.md)
-  - 大型科技公司的成功由系统流程和激励决定，超出个人控制。英雄主义源于工程师不满，但无法带来长期收益，反掩盖缺陷，易被利用。建议工程师抵制冲动，关注实际奖励，接受低效率常态。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (24 entries)
+- [2026-02](202602/monthly-index.md) (25 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

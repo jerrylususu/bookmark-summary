@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-13) [Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare](202602/2026-02-13-shedding-old-code-with-ecdysis-graceful-restarts-for-rust-services-at-cloudflare.md)
+  - Tags: #read #network
+  - Summary: Cloudflare 开源 Rust 库 ecdysis，通过 fork-exec 模型和共享套接字实现服务零停机重启，已在生产环境使用五年，支撑全球 Rust 基础设施。
+
 - (2026-02-13) [ReMemory - Split a secret among people you trust](202602/2026-02-13-rememory---split-a-secret-among-people-you-trust.md)
   - Tags: #tools
   - Summary: ReMemory 是一款基于 Shamir's Secret Sharing 算法的开源工具，用于在信任的人之间分割密钥以加密文件。它支持设置阈值（如5人中的3人）来恢复文件，每个接收者获得独立的离线恢复包，无需服务器或互联网即可在浏览器中工作。工具完全本地运行，数据不离开设备，恢复过程不依赖网站，专注于安全的分布式秘密管理，而非云服务或备份。
