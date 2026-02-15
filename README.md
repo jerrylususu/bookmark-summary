@@ -3,6 +3,18 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-15) [设计数据密集型应用（第二版）](202602/2026-02-15-%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E5%AF%86%E9%9B%86%E5%9E%8B%E5%BA%94%E7%94%A8%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md)
+  - 《设计数据密集型应用（第二版）》是 Martin Kleppmann 所著经典技术书籍的中文翻译版本，由冯若航（Vonng）主译，目前处于第二版翻译预览阶段。该书系统性地探讨了数据密集型应用的设计原理与实践，内容分为三大部分：
+
+第一部分“数据系统基础”涵盖数据系统架构权衡、非功能性需求、数据模型与查询语言、存储与检索、编码与演化等核心主题。
+
+第二部分“分布式数据”深入讨论复制、分片、事务、分布式系统常见问题以及一致性与共识机制。
+
+第三部分“派生数据”聚焦批处理、流处理、流式系统哲学及如何确保系统正确性。
+
+此外，本书还包含术语表、索引、后记及贡献者列表。翻译工作由社区协作完成，持续进行优化与校订，并提供简体中文、繁体中文及初版链接。译者强调翻译出于学习目的，不追求商业利益，并呼吁有能力者购买正版支持原作者。
+  - Tags: #book
+
 - (2026-02-15) [OpenClaw深度分析：为什么突然就火了，以及对我们意味着什么](202602/2026-02-15-openclaw%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AA%81%E7%84%B6%E5%B0%B1%E7%81%AB%E4%BA%86%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%AF%B9%E6%88%91%E4%BB%AC%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88.md)
   - OpenClaw的爆火源于将Agentic AI与通信软件结合，实现了能力的“平权化”传播。其成功依赖于统一入口、持久记忆和Skills生态，但也存在界面瓶颈、记忆黑盒和安全风险等限制。进阶用户应理解其哲学，融入现有工作流，构建更高效、安全的个性化Agent系统。
   - Tags: #read #agent #deepdive
@@ -39,13 +51,9 @@
   - 文章将编码智能体比作新一代编译器，指出软件开发正进入“无代码编译”阶段，开发者从编写代码转向定义规范与协作。作者呼吁使用开源模型以保持技术自主，并强调主动掌握AI方向，聚焦问题本质以创造更优质的产品。
   - Tags: #read #agent
 
-- (2026-02-11) [Introducing Showboat and Rodney, so agents can demo what they’ve built](202602/2026-02-11-introducing-showboat-and-rodney%2C-so-agents-can-demo-what-they%E2%80%99ve-built.md)
-  - 本文介绍了两个新工具Showboat和Rodney，用于帮助编码代理向人类展示其构建成果。Showboat通过生成包含命令输出和图像的Markdown文档来演示工作，而Rodney则是一个CLI浏览器自动化工具，用于网页交互和截图。这两个工具旨在弥补自动化测试的不足，通过手动验证增强对代理工作成果的信任。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (29 entries)
+- [2026-02](202602/monthly-index.md) (30 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

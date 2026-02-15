@@ -10031,5 +10031,14 @@
       "agent",
       "deepdive"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "设计数据密集型应用（第二版）",
+    "url": "http://ddia.vonng.com/",
+    "timestamp": 1771160899,
+    "tags": [
+      "book"
+    ]
   }
 ]
