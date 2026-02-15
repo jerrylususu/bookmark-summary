@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-15) [OpenClaw深度分析：为什么突然就火了，以及对我们意味着什么](202602/2026-02-15-openclaw%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AA%81%E7%84%B6%E5%B0%B1%E7%81%AB%E4%BA%86%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%AF%B9%E6%88%91%E4%BB%AC%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88.md)
+  - OpenClaw的爆火源于将Agentic AI与通信软件结合，实现了能力的“平权化”传播。其成功依赖于统一入口、持久记忆和Skills生态，但也存在界面瓶颈、记忆黑盒和安全风险等限制。进阶用户应理解其哲学，融入现有工作流，构建更高效、安全的个性化Agent系统。
+  - Tags: #read #agent #deepdive
+
 - (2026-02-15) [Two different tricks for fast LLM inference](202602/2026-02-15-two-different-tricks-for-fast-llm-inference.md)
   - 文章对比了Anthropic与OpenAI的“快速模式”技术路径：Anthropic通过降低批处理大小提升单个用户速度，但成本增加；OpenAI则借助Cerebras硬件与模型蒸馏实现超低延迟。作者认为OpenAI方案更具突破性，但指出快速推理可能并非主流需求，因准确性常优先于速度。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 本文介绍了两个新工具Showboat和Rodney，用于帮助编码代理向人类展示其构建成果。Showboat通过生成包含命令输出和图像的Markdown文档来演示工作，而Rodney则是一个CLI浏览器自动化工具，用于网页交互和截图。这两个工具旨在弥补自动化测试的不足，通过手动验证增强对代理工作成果的信任。
   - Tags: #read #agent
 
-- (2026-02-11) [Humanity's last programming language](202602/2026-02-11-humanity%27s-last-programming-language.md)
-  - 文章提出“Markdownlang”编程范式，将文档与代码结合，由AI执行，旨在简化开发。但作者担忧其可能加剧程序员职业危机，改变软件标准，引发社会影响。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (28 entries)
+- [2026-02](202602/monthly-index.md) (29 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

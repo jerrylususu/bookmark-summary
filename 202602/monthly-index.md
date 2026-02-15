@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-15) [OpenClaw深度分析：为什么突然就火了，以及对我们意味着什么](2026-02-15-openclaw%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AA%81%E7%84%B6%E5%B0%B1%E7%81%AB%E4%BA%86%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%AF%B9%E6%88%91%E4%BB%AC%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88.md)
+  - OpenClaw的爆火源于将Agentic AI与通信软件结合，实现了能力的“平权化”传播。其成功依赖于统一入口、持久记忆和Skills生态，但也存在界面瓶颈、记忆黑盒和安全风险等限制。进阶用户应理解其哲学，融入现有工作流，构建更高效、安全的个性化Agent系统。
+  - Tags: #read #agent #deepdive
+
 - (2026-02-15) [Two different tricks for fast LLM inference](2026-02-15-two-different-tricks-for-fast-llm-inference.md)
   - 文章对比了Anthropic与OpenAI的“快速模式”技术路径：Anthropic通过降低批处理大小提升单个用户速度，但成本增加；OpenAI则借助Cerebras硬件与模型蒸馏实现超低延迟。作者认为OpenAI方案更具突破性，但指出快速推理可能并非主流需求，因准确性常优先于速度。
   - Tags: #read #llm
