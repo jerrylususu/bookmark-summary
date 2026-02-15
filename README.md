@@ -3,15 +3,15 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-15) [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](202602/2026-02-15-how-generative-and-agentic-ai-shift-concern-from-technical-debt-to-cognitive-debt.md)
+  - 文章探讨AI生成代码如何将软件开发中的技术债转化为认知债，强调开发者对系统理解的缺失可能比代码质量问题更危险。建议通过确保变更理解、记录决策原因和加强团队共享知识来应对，并呼吁进一步研究认知债的衡量与预防。
+  - Tags: #read
+
 - (2026-02-15) [设计数据密集型应用（第二版）](202602/2026-02-15-%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E5%AF%86%E9%9B%86%E5%9E%8B%E5%BA%94%E7%94%A8%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md)
   - 《设计数据密集型应用（第二版）》是 Martin Kleppmann 所著经典技术书籍的中文翻译版本，由冯若航（Vonng）主译，目前处于第二版翻译预览阶段。该书系统性地探讨了数据密集型应用的设计原理与实践，内容分为三大部分：
-
 第一部分“数据系统基础”涵盖数据系统架构权衡、非功能性需求、数据模型与查询语言、存储与检索、编码与演化等核心主题。
-
 第二部分“分布式数据”深入讨论复制、分片、事务、分布式系统常见问题以及一致性与共识机制。
-
 第三部分“派生数据”聚焦批处理、流处理、流式系统哲学及如何确保系统正确性。
-
 此外，本书还包含术语表、索引、后记及贡献者列表。翻译工作由社区协作完成，持续进行优化与校订，并提供简体中文、繁体中文及初版链接。译者强调翻译出于学习目的，不追求商业利益，并呼吁有能力者购买正版支持原作者。
   - Tags: #book
 
@@ -47,13 +47,9 @@
   - 技能是包含指令和脚本的可重用文件包，通过SKILL.md定义，适用于重复性工作流。它与系统提示和工具不同，用于打包稳定流程。创建时需上传文件夹或zip包，通过API调用并挂载到执行环境，例如生成CSV洞察报告。
   - Tags: #read #agent
 
-- (2026-02-12) [Coding agents as the new compilers - Anil Dash](202602/2026-02-12-coding-agents-as-the-new-compilers---anil-dash.md)
-  - 文章将编码智能体比作新一代编译器，指出软件开发正进入“无代码编译”阶段，开发者从编写代码转向定义规范与协作。作者呼吁使用开源模型以保持技术自主，并强调主动掌握AI方向，聚焦问题本质以创造更优质的产品。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (30 entries)
+- [2026-02](202602/monthly-index.md) (31 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
