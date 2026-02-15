@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-15) [Two different tricks for fast LLM inference](202602/2026-02-15-two-different-tricks-for-fast-llm-inference.md)
+  - 文章对比了Anthropic与OpenAI的“快速模式”技术路径：Anthropic通过降低批处理大小提升单个用户速度，但成本增加；OpenAI则借助Cerebras硬件与模型蒸馏实现超低延迟。作者认为OpenAI方案更具突破性，但指出快速推理可能并非主流需求，因准确性常优先于速度。
+  - Tags: #read #llm
+
 - (2026-02-13) [mist: Share and edit Markdown together, quickly (new tool)](202602/2026-02-13-mist-share-and-edit-markdown-together%2C-quickly-%28new-tool%29.md)
   - Matt Webb开发的“mist”是一个专注于Markdown的实时协作工具，支持通过URL共享、多人编辑和临时存储（99小时后自动删除）。它使用CriticMark格式嵌入修改建议，确保数据保真，并提供命令行支持。该工具旨在解决AI时代Markdown协作的痛点，强调轻量、易用和临时性。
   - Tags: #read #tools
@@ -39,13 +43,9 @@
   - 文章提出“Markdownlang”编程范式，将文档与代码结合，由AI执行，旨在简化开发。但作者担忧其可能加剧程序员职业危机，改变软件标准，引发社会影响。
   - Tags: #read #llm
 
-- (2026-02-11) [On screwing up](202602/2026-02-11-on-screwing-up.md)
-  - 本文通过作者亲身经历，强调职场犯错后应控制情绪、及时沟通并接受后果，指出正确处理错误比避免错误更重要，以维护信任并促进职业成长。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (27 entries)
+- [2026-02](202602/monthly-index.md) (28 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

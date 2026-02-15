@@ -10010,5 +10010,15 @@
       "read",
       "tools"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Two different tricks for fast LLM inference",
+    "url": "https://www.seangoedecke.com/fast-llm-inference/",
+    "timestamp": 1771126181,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
