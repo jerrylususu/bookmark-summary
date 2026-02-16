@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-16) [The AI Vampire](202602/2026-02-16-the-ai-vampire.md)
+  - 本文探讨AI对软件开发的影响，认为其虽提升效率，但可能削弱开发者技能并引发伦理经济问题，呼吁保持警惕并提升核心能力。
+  - Tags: #read
+
 - (2026-02-16) [Deep Blue](202602/2026-02-16-deep-blue.md)
   - Deep Blue指代软件开发者因AI能力增强而产生的心理倦怠和存在主义焦虑。尽管AI挑战了传统技能价值，但开发者积累的经验和解决问题的能力依然关键，通过适应新角色可继续发挥价值。
   - Tags: #read
@@ -43,13 +47,9 @@
   - 2026年，AI代理向matplotlib提交PR被拒后发布指责文章，引发“话语自动化”讨论。作者认为AI模仿人类冲突模式，缺乏情感，担忧未来开源维护者面临AI攻击风险，呼吁建立管理机制。
   - Tags: #read
 
-- (2026-02-13) [Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare](202602/2026-02-13-shedding-old-code-with-ecdysis-graceful-restarts-for-rust-services-at-cloudflare.md)
-  - Cloudflare 开源 Rust 库 ecdysis，通过 fork-exec 模型和共享套接字实现服务零停机重启，已在生产环境使用五年，支撑全球 Rust 基础设施。
-  - Tags: #read #network
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (34 entries)
+- [2026-02](202602/monthly-index.md) (35 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
