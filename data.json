@@ -10060,5 +10060,15 @@
       "deepdive",
       "web"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Bias Toward Action",
+    "url": "https://addyosmani.com/blog/bias-towards-action/",
+    "timestamp": 1771217298,
+    "tags": [
+      "read",
+      "devops"
+    ]
   }
 ]

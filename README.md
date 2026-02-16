@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-16) [Bias Toward Action](202602/2026-02-16-bias-toward-action.md)
+  - “行动偏向”强调在安全护栏下采取最小可行步骤，通过渐进发布、可逆设计、错误预算和基础设施保障，实现快速学习与风险可控，避免鲁莽行事。
+  - Tags: #read #devops
+
 - (2026-02-16) [Gwtar: a static efficient single-file HTML format](202602/2026-02-16-gwtar-a-static-efficient-single-file-html-format.md)
   - Gwtar 是一种新型单文件 HTML 归档格式，通过拼接 HTML 与 tarball 并利用 JavaScript 拦截资源请求，实现静态自包含与按需懒加载的平衡。它解决了大型网页归档的效率问题，但受限于浏览器安全策略和服务器对 Range 请求的支持。
   - Tags: #tools #deepdive #web
@@ -43,13 +47,9 @@
   - ReMemory 是一款基于 Shamir's Secret Sharing 算法的开源工具，用于在信任的人之间分割密钥以加密文件。它支持设置阈值（如5人中的3人）来恢复文件，每个接收者获得独立的离线恢复包，无需服务器或互联网即可在浏览器中工作。工具完全本地运行，数据不离开设备，恢复过程不依赖网站，专注于安全的分布式秘密管理，而非云服务或备份。
   - Tags: #tools
 
-- (2026-02-12) [charles leifer | cysqlite - a new sqlite driver](202602/2026-02-12-charles-leifer-cysqlite---a-new-sqlite-driver.md)
-  - cysqlite 是一个全新的 DB-API 兼容 SQLite 驱动，旨在替代标准库 sqlite3 和 pysqlite3。它简化了事务处理，支持高级功能如虚拟表，并为 Peewee ORM 提供了更好的集成，解决了标准库在事务和数据类型处理上的不足。
-  - Tags: #read #python
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (32 entries)
+- [2026-02](202602/monthly-index.md) (33 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
