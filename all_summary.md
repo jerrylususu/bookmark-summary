@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-16) [Deep Blue](202602/2026-02-16-deep-blue.md)
+  - Tags: #read
+  - Summary: Deep Blue指代软件开发者因AI能力增强而产生的心理倦怠和存在主义焦虑。尽管AI挑战了传统技能价值，但开发者积累的经验和解决问题的能力依然关键，通过适应新角色可继续发挥价值。
+
 - (2026-02-16) [Bias Toward Action](202602/2026-02-16-bias-toward-action.md)
   - Tags: #read #devops
   - Summary: “行动偏向”强调在安全护栏下采取最小可行步骤，通过渐进发布、可逆设计、错误预算和基础设施保障，实现快速学习与风险可控，避免鲁莽行事。

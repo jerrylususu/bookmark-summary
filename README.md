@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-16) [Deep Blue](202602/2026-02-16-deep-blue.md)
+  - Deep Blue指代软件开发者因AI能力增强而产生的心理倦怠和存在主义焦虑。尽管AI挑战了传统技能价值，但开发者积累的经验和解决问题的能力依然关键，通过适应新角色可继续发挥价值。
+  - Tags: #read
+
 - (2026-02-16) [Bias Toward Action](202602/2026-02-16-bias-toward-action.md)
   - “行动偏向”强调在安全护栏下采取最小可行步骤，通过渐进发布、可逆设计、错误预算和基础设施保障，实现快速学习与风险可控，避免鲁莽行事。
   - Tags: #read #devops
@@ -43,13 +47,9 @@
   - Cloudflare 开源 Rust 库 ecdysis，通过 fork-exec 模型和共享套接字实现服务零停机重启，已在生产环境使用五年，支撑全球 Rust 基础设施。
   - Tags: #read #network
 
-- (2026-02-13) [ReMemory - Split a secret among people you trust](202602/2026-02-13-rememory---split-a-secret-among-people-you-trust.md)
-  - ReMemory 是一款基于 Shamir's Secret Sharing 算法的开源工具，用于在信任的人之间分割密钥以加密文件。它支持设置阈值（如5人中的3人）来恢复文件，每个接收者获得独立的离线恢复包，无需服务器或互联网即可在浏览器中工作。工具完全本地运行，数据不离开设备，恢复过程不依赖网站，专注于安全的分布式秘密管理，而非云服务或备份。
-  - Tags: #tools
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (33 entries)
+- [2026-02](202602/monthly-index.md) (34 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

@@ -10070,5 +10070,14 @@
       "read",
       "devops"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Deep Blue",
+    "url": "https://simonwillison.net/2026/Feb/15/deep-blue/",
+    "timestamp": 1771217326,
+    "tags": [
+      "read"
+    ]
   }
 ]
