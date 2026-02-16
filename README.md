@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-16) [Gwtar: a static efficient single-file HTML format](202602/2026-02-16-gwtar-a-static-efficient-single-file-html-format.md)
+  - Gwtar 是一种新型单文件 HTML 归档格式，通过拼接 HTML 与 tarball 并利用 JavaScript 拦截资源请求，实现静态自包含与按需懒加载的平衡。它解决了大型网页归档的效率问题，但受限于浏览器安全策略和服务器对 Range 请求的支持。
+  - Tags: #tools #deepdive #web
+
 - (2026-02-15) [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](202602/2026-02-15-how-generative-and-agentic-ai-shift-concern-from-technical-debt-to-cognitive-debt.md)
   - 文章探讨AI生成代码如何将软件开发中的技术债转化为认知债，强调开发者对系统理解的缺失可能比代码质量问题更危险。建议通过确保变更理解、记录决策原因和加强团队共享知识来应对，并呼吁进一步研究认知债的衡量与预防。
   - Tags: #read
@@ -43,13 +47,9 @@
   - cysqlite 是一个全新的 DB-API 兼容 SQLite 驱动，旨在替代标准库 sqlite3 和 pysqlite3。它简化了事务处理，支持高级功能如虚拟表，并为 Peewee ORM 提供了更好的集成，解决了标准库在事务和数据类型处理上的不足。
   - Tags: #read #python
 
-- (2026-02-12) [Skills in OpenAI API](202602/2026-02-12-skills-in-openai-api.md)
-  - 技能是包含指令和脚本的可重用文件包，通过SKILL.md定义，适用于重复性工作流。它与系统提示和工具不同，用于打包稳定流程。创建时需上传文件夹或zip包，通过API调用并挂载到执行环境，例如生成CSV洞察报告。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (31 entries)
+- [2026-02](202602/monthly-index.md) (32 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

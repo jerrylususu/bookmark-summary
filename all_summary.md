@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-16) [Gwtar: a static efficient single-file HTML format](202602/2026-02-16-gwtar-a-static-efficient-single-file-html-format.md)
+  - Tags: #tools #deepdive #web
+  - Summary: Gwtar 是一种新型单文件 HTML 归档格式，通过拼接 HTML 与 tarball 并利用 JavaScript 拦截资源请求，实现静态自包含与按需懒加载的平衡。它解决了大型网页归档的效率问题，但受限于浏览器安全策略和服务器对 Range 请求的支持。
+
 - (2026-02-15) [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](202602/2026-02-15-how-generative-and-agentic-ai-shift-concern-from-technical-debt-to-cognitive-debt.md)
   - Tags: #read
   - Summary: 文章探讨AI生成代码如何将软件开发中的技术债转化为认知债，强调开发者对系统理解的缺失可能比代码质量问题更危险。建议通过确保变更理解、记录决策原因和加强团队共享知识来应对，并呼吁进一步研究认知债的衡量与预防。

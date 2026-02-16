@@ -10049,5 +10049,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Gwtar: a static efficient single-file HTML format",
+    "url": "https://gwern.net/gwtar",
+    "timestamp": 1771209841,
+    "tags": [
+      "tools",
+      "deepdive",
+      "web"
+    ]
   }
 ]
