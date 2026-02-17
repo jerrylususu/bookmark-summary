@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-17) [LLM-generated skills work, if you generate them afterwards](2026-02-17-llm-generated-skills-work%2C-if-you-generate-them-afterwards.md)
+  - 本文探讨了LLM生成技能的有效性，指出任务前生成技能无益，而任务后生成技能能有效提炼解决问题过程中获得的知识，从而提升新任务表现。
+  - Tags: #read #llm
+
 - (2026-02-16) [The AI Vampire](2026-02-16-the-ai-vampire.md)
   - 本文探讨AI对软件开发的影响，认为其虽提升效率，但可能削弱开发者技能并引发伦理经济问题，呼吁保持警惕并提升核心能力。
   - Tags: #read

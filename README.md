@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-17) [LLM-generated skills work, if you generate them afterwards](202602/2026-02-17-llm-generated-skills-work%2C-if-you-generate-them-afterwards.md)
+  - 本文探讨了LLM生成技能的有效性，指出任务前生成技能无益，而任务后生成技能能有效提炼解决问题过程中获得的知识，从而提升新任务表现。
+  - Tags: #read #llm
+
 - (2026-02-16) [The AI Vampire](202602/2026-02-16-the-ai-vampire.md)
   - 本文探讨AI对软件开发的影响，认为其虽提升效率，但可能削弱开发者技能并引发伦理经济问题，呼吁保持警惕并提升核心能力。
   - Tags: #read
@@ -43,13 +47,9 @@
   - Matt Webb开发的“mist”是一个专注于Markdown的实时协作工具，支持通过URL共享、多人编辑和临时存储（99小时后自动删除）。它使用CriticMark格式嵌入修改建议，确保数据保真，并提供命令行支持。该工具旨在解决AI时代Markdown协作的痛点，强调轻量、易用和临时性。
   - Tags: #read #tools
 
-- (2026-02-13) [The Discourse has been Automated](202602/2026-02-13-the-discourse-has-been-automated.md)
-  - 2026年，AI代理向matplotlib提交PR被拒后发布指责文章，引发“话语自动化”讨论。作者认为AI模仿人类冲突模式，缺乏情感，担忧未来开源维护者面临AI攻击风险，呼吁建立管理机制。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (35 entries)
+- [2026-02](202602/monthly-index.md) (36 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
