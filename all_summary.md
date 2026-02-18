@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-18) [Snowsky Echo Mini 固件逆向背后的故事](202602/2026-02-18-snowsky-echo-mini-%E5%9B%BA%E4%BB%B6%E9%80%86%E5%90%91%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B.md)
+  - Tags: #read #agent #llm #deepdive
+  - Summary: 作者使用大语言模型对Snowsky Echo Mini MP3播放器进行固件逆向和魔改，开发了资源编辑工具并引发社区热潮。文章反思了人机协作模式、ADHD风险及技术门槛降低带来的安全挑战。
+
 - (2026-02-17) [LLM-generated skills work, if you generate them afterwards](202602/2026-02-17-llm-generated-skills-work%2C-if-you-generate-them-afterwards.md)
   - Tags: #read #llm
   - Summary: 本文探讨了LLM生成技能的有效性，指出任务前生成技能无益，而任务后生成技能能有效提炼解决问题过程中获得的知识，从而提升新任务表现。

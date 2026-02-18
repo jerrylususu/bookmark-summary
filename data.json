@@ -10098,5 +10098,17 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Snowsky Echo Mini 固件逆向背后的故事",
+    "url": "https://roriri.one/2026/02/02/echo-mini-sre",
+    "timestamp": 1771377899,
+    "tags": [
+      "read",
+      "agent",
+      "llm",
+      "deepdive"
+    ]
   }
 ]
