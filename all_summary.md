@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-20) [bliki: Open Space](202602/2026-02-20-bliki-open-space.md)
+  - Tags: #read
+  - Summary: Open Space 是一种自组织会议方法，由 Harrison Owen 开发，核心是提供基本框架，由参与者自行提议和安排主题，强调自主性和流动性，适用于不同规模的活动，能提高参与度并减少组织工作。
+
 - (2026-02-20) [Fragments: February 18](202602/2026-02-20-fragments-february-18.md)
   - Tags: #read
   - Summary: Martin Fowler在2026年2月18日的“Fragments”系列文章中，探讨了AI对软件开发的影响。文章指出AI是现有流程的“加速器”，会放大优缺点，因此传统工程实践（如TDD）更为关键。文章总结了行业现状、工作模式转变（更看重通才）、代码质量与安全的重要性、开发流程的调整以及未来成本的不确定性。作者强调开发者应冷静应对，专注于最大化AI效益并控制成本。
