@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-20) [The First 10-Year Evolution of Stripe’s Payments API](202602/2026-02-20-the-first-10-year-evolution-of-stripe%E2%80%99s-payments-api.md)
+  - Stripe支付API历经十年演变，从简单信用卡支付起步，逐步支持多种支付方式。为应对复杂性，Stripe先后推出Source API和PaymentMethod/PaymentIntent新架构，通过统一状态机简化集成。这一过程揭示了API设计需平衡易用性与功能，并强调避免产品债务、保持一致性等原则，最终实现简单性与强大功能的统一。
+  - Tags: #read #api #deepdive
+
 - (2026-02-20) [bliki: Open Space](202602/2026-02-20-bliki-open-space.md)
   - Open Space 是一种自组织会议方法，由 Harrison Owen 开发，核心是提供基本框架，由参与者自行提议和安排主题，强调自主性和流动性，适用于不同规模的活动，能提高参与度并减少组织工作。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Gwtar 是一种新型单文件 HTML 归档格式，通过拼接 HTML 与 tarball 并利用 JavaScript 拦截资源请求，实现静态自包含与按需懒加载的平衡。它解决了大型网页归档的效率问题，但受限于浏览器安全策略和服务器对 Range 请求的支持。
   - Tags: #tools #deepdive #web
 
-- (2026-02-15) [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](202602/2026-02-15-how-generative-and-agentic-ai-shift-concern-from-technical-debt-to-cognitive-debt.md)
-  - 文章探讨AI生成代码如何将软件开发中的技术债转化为认知债，强调开发者对系统理解的缺失可能比代码质量问题更危险。建议通过确保变更理解、记录决策原因和加强团队共享知识来应对，并呼吁进一步研究认知债的衡量与预防。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (40 entries)
+- [2026-02](202602/monthly-index.md) (41 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

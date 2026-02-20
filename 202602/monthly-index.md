@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-20) [The First 10-Year Evolution of Stripe’s Payments API](2026-02-20-the-first-10-year-evolution-of-stripe%E2%80%99s-payments-api.md)
+  - Stripe支付API历经十年演变，从简单信用卡支付起步，逐步支持多种支付方式。为应对复杂性，Stripe先后推出Source API和PaymentMethod/PaymentIntent新架构，通过统一状态机简化集成。这一过程揭示了API设计需平衡易用性与功能，并强调避免产品债务、保持一致性等原则，最终实现简单性与强大功能的统一。
+  - Tags: #read #api #deepdive
+
 - (2026-02-20) [bliki: Open Space](2026-02-20-bliki-open-space.md)
   - Open Space 是一种自组织会议方法，由 Harrison Owen 开发，核心是提供基本框架，由参与者自行提议和安排主题，强调自主性和流动性，适用于不同规模的活动，能提高参与度并减少组织工作。
   - Tags: #read

@@ -10137,5 +10137,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "The First 10-Year Evolution of Stripe’s Payments API",
+    "url": "https://blog.bytebytego.com/p/the-first-10-year-evolution-of-stripes",
+    "timestamp": 1771552796,
+    "tags": [
+      "read",
+      "api",
+      "deepdive"
+    ]
   }
 ]
