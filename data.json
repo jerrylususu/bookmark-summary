@@ -10110,5 +10110,14 @@
       "llm",
       "deepdive"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Notes on clarifying man pages",
+    "url": "https://jvns.ca/blog/2026/02/18/man-pages/",
+    "timestamp": 1771548359,
+    "tags": [
+      "read"
+    ]
   }
 ]

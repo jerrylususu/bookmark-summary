@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-20) [Notes on clarifying man pages](202602/2026-02-20-notes-on-clarifying-man-pages.md)
+  - 本文探讨了改进 man pages 可读性和实用性的设计思路，包括选项摘要、分类组织、丰富示例、目录链接和表格化数据等方法，旨在提升信息检索效率和用户体验。
+  - Tags: #read
+
 - (2026-02-18) [Snowsky Echo Mini 固件逆向背后的故事](202602/2026-02-18-snowsky-echo-mini-%E5%9B%BA%E4%BB%B6%E9%80%86%E5%90%91%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B.md)
   - 作者使用大语言模型对Snowsky Echo Mini MP3播放器进行固件逆向和魔改，开发了资源编辑工具并引发社区热潮。文章反思了人机协作模式、ADHD风险及技术门槛降低带来的安全挑战。
   - Tags: #read #agent #llm #deepdive
@@ -43,13 +47,9 @@
   - OpenClaw的爆火源于将Agentic AI与通信软件结合，实现了能力的“平权化”传播。其成功依赖于统一入口、持久记忆和Skills生态，但也存在界面瓶颈、记忆黑盒和安全风险等限制。进阶用户应理解其哲学，融入现有工作流，构建更高效、安全的个性化Agent系统。
   - Tags: #read #agent #deepdive
 
-- (2026-02-15) [Two different tricks for fast LLM inference](202602/2026-02-15-two-different-tricks-for-fast-llm-inference.md)
-  - 文章对比了Anthropic与OpenAI的“快速模式”技术路径：Anthropic通过降低批处理大小提升单个用户速度，但成本增加；OpenAI则借助Cerebras硬件与模型蒸馏实现超低延迟。作者认为OpenAI方案更具突破性，但指出快速推理可能并非主流需求，因准确性常优先于速度。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (37 entries)
+- [2026-02](202602/monthly-index.md) (38 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

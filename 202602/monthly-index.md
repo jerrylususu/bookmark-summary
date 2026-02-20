@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-20) [Notes on clarifying man pages](2026-02-20-notes-on-clarifying-man-pages.md)
+  - 本文探讨了改进 man pages 可读性和实用性的设计思路，包括选项摘要、分类组织、丰富示例、目录链接和表格化数据等方法，旨在提升信息检索效率和用户体验。
+  - Tags: #read
+
 - (2026-02-18) [Snowsky Echo Mini 固件逆向背后的故事](2026-02-18-snowsky-echo-mini-%E5%9B%BA%E4%BB%B6%E9%80%86%E5%90%91%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B.md)
   - 作者使用大语言模型对Snowsky Echo Mini MP3播放器进行固件逆向和魔改，开发了资源编辑工具并引发社区热潮。文章反思了人机协作模式、ADHD风险及技术门槛降低带来的安全挑战。
   - Tags: #read #agent #llm #deepdive
