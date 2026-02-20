@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-20) [Fragments: February 18](202602/2026-02-20-fragments-february-18.md)
+  - Martin Fowler在2026年2月18日的“Fragments”系列文章中，探讨了AI对软件开发的影响。文章指出AI是现有流程的“加速器”，会放大优缺点，因此传统工程实践（如TDD）更为关键。文章总结了行业现状、工作模式转变（更看重通才）、代码质量与安全的重要性、开发流程的调整以及未来成本的不确定性。作者强调开发者应冷静应对，专注于最大化AI效益并控制成本。
+  - Tags: #read
+
 - (2026-02-20) [Notes on clarifying man pages](202602/2026-02-20-notes-on-clarifying-man-pages.md)
   - 本文探讨了改进 man pages 可读性和实用性的设计思路，包括选项摘要、分类组织、丰富示例、目录链接和表格化数据等方法，旨在提升信息检索效率和用户体验。
   - Tags: #read
@@ -43,13 +47,9 @@
 此外，本书还包含术语表、索引、后记及贡献者列表。翻译工作由社区协作完成，持续进行优化与校订，并提供简体中文、繁体中文及初版链接。译者强调翻译出于学习目的，不追求商业利益，并呼吁有能力者购买正版支持原作者。
   - Tags: #book
 
-- (2026-02-15) [OpenClaw深度分析：为什么突然就火了，以及对我们意味着什么](202602/2026-02-15-openclaw%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AA%81%E7%84%B6%E5%B0%B1%E7%81%AB%E4%BA%86%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%AF%B9%E6%88%91%E4%BB%AC%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88.md)
-  - OpenClaw的爆火源于将Agentic AI与通信软件结合，实现了能力的“平权化”传播。其成功依赖于统一入口、持久记忆和Skills生态，但也存在界面瓶颈、记忆黑盒和安全风险等限制。进阶用户应理解其哲学，融入现有工作流，构建更高效、安全的个性化Agent系统。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (38 entries)
+- [2026-02](202602/monthly-index.md) (39 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

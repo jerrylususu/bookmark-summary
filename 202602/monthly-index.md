@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-20) [Fragments: February 18](2026-02-20-fragments-february-18.md)
+  - Martin Fowler在2026年2月18日的“Fragments”系列文章中，探讨了AI对软件开发的影响。文章指出AI是现有流程的“加速器”，会放大优缺点，因此传统工程实践（如TDD）更为关键。文章总结了行业现状、工作模式转变（更看重通才）、代码质量与安全的重要性、开发流程的调整以及未来成本的不确定性。作者强调开发者应冷静应对，专注于最大化AI效益并控制成本。
+  - Tags: #read
+
 - (2026-02-20) [Notes on clarifying man pages](2026-02-20-notes-on-clarifying-man-pages.md)
   - 本文探讨了改进 man pages 可读性和实用性的设计思路，包括选项摘要、分类组织、丰富示例、目录链接和表格化数据等方法，旨在提升信息检索效率和用户体验。
   - Tags: #read
