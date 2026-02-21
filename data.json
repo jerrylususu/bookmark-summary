@@ -10148,5 +10148,16 @@
       "api",
       "deepdive"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "以一个简单任务为例看AI落地的关键决策",
+    "url": "./ai-key-decisions.html",
+    "timestamp": 1771674927,
+    "tags": [
+      "read",
+      "llm",
+      "agent"
+    ]
   }
 ]

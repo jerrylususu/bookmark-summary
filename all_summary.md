@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-21) [以一个简单任务为例看AI落地的关键决策](202602/2026-02-21-%E4%BB%A5%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E4%BB%BB%E5%8A%A1%E4%B8%BA%E4%BE%8B%E7%9C%8Bai%E8%90%BD%E5%9C%B0%E7%9A%84%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96.md)
+  - Tags: #read #llm #agent
+  - Summary: 该错误表明URL参数无效，因域名无法解析，通常因缺少协议或域名格式错误。建议检查并修正URL格式，确保其为完整有效地址。
+
 - (2026-02-20) [The First 10-Year Evolution of Stripe’s Payments API](202602/2026-02-20-the-first-10-year-evolution-of-stripe%E2%80%99s-payments-api.md)
   - Tags: #read #api #deepdive
   - Summary: Stripe支付API历经十年演变，从简单信用卡支付起步，逐步支持多种支付方式。为应对复杂性，Stripe先后推出Source API和PaymentMethod/PaymentIntent新架构，通过统一状态机简化集成。这一过程揭示了API设计需平衡易用性与功能，并强调避免产品债务、保持一致性等原则，最终实现简单性与强大功能的统一。

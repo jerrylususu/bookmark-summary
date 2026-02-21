@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-21) [以一个简单任务为例看AI落地的关键决策](202602/2026-02-21-%E4%BB%A5%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E4%BB%BB%E5%8A%A1%E4%B8%BA%E4%BE%8B%E7%9C%8Bai%E8%90%BD%E5%9C%B0%E7%9A%84%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96.md)
+  - 该错误表明URL参数无效，因域名无法解析，通常因缺少协议或域名格式错误。建议检查并修正URL格式，确保其为完整有效地址。
+  - Tags: #read #llm #agent
+
 - (2026-02-20) [The First 10-Year Evolution of Stripe’s Payments API](202602/2026-02-20-the-first-10-year-evolution-of-stripe%E2%80%99s-payments-api.md)
   - Stripe支付API历经十年演变，从简单信用卡支付起步，逐步支持多种支付方式。为应对复杂性，Stripe先后推出Source API和PaymentMethod/PaymentIntent新架构，通过统一状态机简化集成。这一过程揭示了API设计需平衡易用性与功能，并强调避免产品债务、保持一致性等原则，最终实现简单性与强大功能的统一。
   - Tags: #read #api #deepdive
@@ -39,13 +43,9 @@
   - “行动偏向”强调在安全护栏下采取最小可行步骤，通过渐进发布、可逆设计、错误预算和基础设施保障，实现快速学习与风险可控，避免鲁莽行事。
   - Tags: #read #devops
 
-- (2026-02-16) [Gwtar: a static efficient single-file HTML format](202602/2026-02-16-gwtar-a-static-efficient-single-file-html-format.md)
-  - Gwtar 是一种新型单文件 HTML 归档格式，通过拼接 HTML 与 tarball 并利用 JavaScript 拦截资源请求，实现静态自包含与按需懒加载的平衡。它解决了大型网页归档的效率问题，但受限于浏览器安全策略和服务器对 Range 请求的支持。
-  - Tags: #tools #deepdive #web
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (41 entries)
+- [2026-02](202602/monthly-index.md) (42 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
