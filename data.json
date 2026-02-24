@@ -10159,5 +10159,16 @@
       "llm",
       "agent"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Writing about Agentic Engineering Patterns",
+    "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
+    "timestamp": 1771932478,
+    "tags": [
+      "read",
+      "agent",
+      "books"
+    ]
   }
 ]

@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-24) [Writing about Agentic Engineering Patterns](202602/2026-02-24-writing-about-agentic-engineering-patterns.md)
+  - Tags: #read #agent #books
+  - Summary: Simon Willison启动了“代理工程模式”项目，旨在系统化记录使用编码代理（如Claude Code）进行软件开发的实践。该项目与“氛围编程”区分，聚焦专业工程师如何利用代理提升效率。目前发布了两章，探讨代码生成成本和测试驱动开发，并计划以每周1-2章的速度更新，内容由作者撰写，使用LLM辅助校对。
+
 - (2026-02-21) [以一个简单任务为例看AI落地的关键决策](202602/2026-02-21-%E4%BB%A5%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E4%BB%BB%E5%8A%A1%E4%B8%BA%E4%BE%8B%E7%9C%8Bai%E8%90%BD%E5%9C%B0%E7%9A%84%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96.md)
   - Tags: #read #llm #agent
   - Summary: 该错误表明URL参数无效，因域名无法解析，通常因缺少协议或域名格式错误。建议检查并修正URL格式，确保其为完整有效地址。
