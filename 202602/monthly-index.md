@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-24) [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them - Quesma Blog](2026-02-24-we-hid-backdoors-in-~40mb-binaries-and-asked-ai-%2B-ghidra-to-find-them---quesma-blog.md)
+  - 该研究评估AI代理在二进制逆向工程中检测后门的能力。通过构建BinaryAudit基准测试，发现最佳模型检测成功率仅49%，且误报率高达28%，表明当前AI辅助分析仍不成熟，无法作为生产环境的可靠安全工具，但可为开发者提供初步审计支持。
+  - Tags: #read #agent #security
+
 - (2026-02-24) [What's so hard about continuous learning?](2026-02-24-what%27s-so-hard-about-continuous-learning.md)
   - 连续学习指模型部署后持续更新权重，但面临技术难题、微调无效、安全风险和可移植性差等障碍，核心难点在于自动避免性能退化，目前仍需人工干预，尚未成熟。
   - Tags: #read #llm

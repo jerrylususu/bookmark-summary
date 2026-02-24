@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-24) [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them - Quesma Blog](202602/2026-02-24-we-hid-backdoors-in-~40mb-binaries-and-asked-ai-%2B-ghidra-to-find-them---quesma-blog.md)
+  - 该研究评估AI代理在二进制逆向工程中检测后门的能力。通过构建BinaryAudit基准测试，发现最佳模型检测成功率仅49%，且误报率高达28%，表明当前AI辅助分析仍不成熟，无法作为生产环境的可靠安全工具，但可为开发者提供初步审计支持。
+  - Tags: #read #agent #security
+
 - (2026-02-24) [What's so hard about continuous learning?](202602/2026-02-24-what%27s-so-hard-about-continuous-learning.md)
   - 连续学习指模型部署后持续更新权重，但面临技术难题、微调无效、安全风险和可移植性差等障碍，核心难点在于自动避免性能退化，目前仍需人工干预，尚未成熟。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 本文探讨了LLM生成技能的有效性，指出任务前生成技能无益，而任务后生成技能能有效提炼解决问题过程中获得的知识，从而提升新任务表现。
   - Tags: #read #llm
 
-- (2026-02-16) [The AI Vampire](202602/2026-02-16-the-ai-vampire.md)
-  - 本文探讨AI对软件开发的影响，认为其虽提升效率，但可能削弱开发者技能并引发伦理经济问题，呼吁保持警惕并提升核心能力。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (44 entries)
+- [2026-02](202602/monthly-index.md) (45 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

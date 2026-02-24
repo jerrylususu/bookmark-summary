@@ -10180,5 +10180,16 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them - Quesma Blog",
+    "url": "https://quesma.com/blog/introducing-binaryaudit/",
+    "timestamp": 1771933702,
+    "tags": [
+      "read",
+      "agent",
+      "security"
+    ]
   }
 ]
