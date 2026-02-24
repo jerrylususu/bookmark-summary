@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-24) [Some Silly Z3 Scripts I Wrote](2026-02-24-some-silly-z3-scripts-i-wrote.md)
+  - 本文介绍了Z3 SMT求解器及其在数学、金融、逆向工程等领域的应用，通过Python脚本展示了其使用方法，并为《逻辑程序员》一书选择了更实用的示例，同时提供了相关学习资源。
+  - Tags: #read
+
 - (2026-02-24) [Do AI models still keep getting better, or have they plateaued?](2026-02-24-do-ai-models-still-keep-getting-better%2C-or-have-they-plateaued.md)
   - 文章通过自定义基准测试评估多个AI模型，发现Claude、Gemini和Kimi等模型表现突出，表明AI仍在进步，未进入平台期。
   - Tags: #read #llm #eval

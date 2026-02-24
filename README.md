@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-24) [Some Silly Z3 Scripts I Wrote](202602/2026-02-24-some-silly-z3-scripts-i-wrote.md)
+  - 本文介绍了Z3 SMT求解器及其在数学、金融、逆向工程等领域的应用，通过Python脚本展示了其使用方法，并为《逻辑程序员》一书选择了更实用的示例，同时提供了相关学习资源。
+  - Tags: #read
+
 - (2026-02-24) [Do AI models still keep getting better, or have they plateaued?](202602/2026-02-24-do-ai-models-still-keep-getting-better%2C-or-have-they-plateaued.md)
   - 文章通过自定义基准测试评估多个AI模型，发现Claude、Gemini和Kimi等模型表现突出，表明AI仍在进步，未进入平台期。
   - Tags: #read #llm #eval
@@ -39,13 +43,9 @@
   - Stripe支付API历经十年演变，从简单信用卡支付起步，逐步支持多种支付方式。为应对复杂性，Stripe先后推出Source API和PaymentMethod/PaymentIntent新架构，通过统一状态机简化集成。这一过程揭示了API设计需平衡易用性与功能，并强调避免产品债务、保持一致性等原则，最终实现简单性与强大功能的统一。
   - Tags: #read #api #deepdive
 
-- (2026-02-20) [bliki: Open Space](202602/2026-02-20-bliki-open-space.md)
-  - Open Space 是一种自组织会议方法，由 Harrison Owen 开发，核心是提供基本框架，由参与者自行提议和安排主题，强调自主性和流动性，适用于不同规模的活动，能提高参与度并减少组织工作。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (49 entries)
+- [2026-02](202602/monthly-index.md) (50 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

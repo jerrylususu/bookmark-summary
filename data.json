@@ -10234,5 +10234,14 @@
       "llm",
       "eval"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Some Silly Z3 Scripts I Wrote",
+    "url": "https://www.hillelwayne.com/post/z3-examples/",
+    "timestamp": 1771935286,
+    "tags": [
+      "read"
+    ]
   }
 ]
