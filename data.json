@@ -10170,5 +10170,15 @@
       "agent",
       "books"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "What's so hard about continuous learning?",
+    "url": "https://www.seangoedecke.com/continuous-learning/",
+    "timestamp": 1771932856,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]

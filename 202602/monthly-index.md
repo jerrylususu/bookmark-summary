@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-24) [What's so hard about continuous learning?](2026-02-24-what%27s-so-hard-about-continuous-learning.md)
+  - 连续学习指模型部署后持续更新权重，但面临技术难题、微调无效、安全风险和可移植性差等障碍，核心难点在于自动避免性能退化，目前仍需人工干预，尚未成熟。
+  - Tags: #read #llm
+
 - (2026-02-24) [Writing about Agentic Engineering Patterns](2026-02-24-writing-about-agentic-engineering-patterns.md)
   - Simon Willison启动了“代理工程模式”项目，旨在系统化记录使用编码代理（如Claude Code）进行软件开发的实践。该项目与“氛围编程”区分，聚焦专业工程师如何利用代理提升效率。目前发布了两章，探讨代码生成成本和测试驱动开发，并计划以每周1-2章的速度更新，内容由作者撰写，使用LLM辅助校对。
   - Tags: #read #agent #books
