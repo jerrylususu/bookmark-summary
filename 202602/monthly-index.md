@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-24) [Do AI models still keep getting better, or have they plateaued?](2026-02-24-do-ai-models-still-keep-getting-better%2C-or-have-they-plateaued.md)
+  - 文章通过自定义基准测试评估多个AI模型，发现Claude、Gemini和Kimi等模型表现突出，表明AI仍在进步，未进入平台期。
+  - Tags: #read #llm #eval
+
 - (2026-02-24) [我的退休计划：把无期变成有期](2026-02-24-%E6%88%91%E7%9A%84%E9%80%80%E4%BC%91%E8%AE%A1%E5%88%92%EF%BC%9A%E6%8A%8A%E6%97%A0%E6%9C%9F%E5%8F%98%E6%88%90%E6%9C%89%E6%9C%9F.md)
   - 这篇文章批判传统“安全”观念，提出通过建立可转移资产和财务规划，将上班视为“无期徒刑”的状态转变为可量化的“有期”退休目标，核心是摆脱被迫出卖时间的雇佣关系，实现时间与劳动的定价权自由。
   - Tags: #read #money

@@ -10223,5 +10223,16 @@
       "read",
       "money"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Do AI models still keep getting better, or have they plateaued?",
+    "url": "https://optimizedbyotto.com/post/ai-models-plateaued-or-not/",
+    "timestamp": 1771935030,
+    "tags": [
+      "read",
+      "llm",
+      "eval"
+    ]
   }
 ]
