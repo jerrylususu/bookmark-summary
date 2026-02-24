@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-24) [Stop Using /init for AGENTS.md](202602/2026-02-24-stop-using-init-for-agents.md.md)
+  - 本文批判自动生成`AGENTS.md`的做法，指出其信息冗余会降低代理性能并增加成本。文章主张采用分层结构，仅包含非可发现信息，并建议将其视为动态的“活清单”以推动代码库改进，而非静态配置。
+  - Tags: #read #llm #agent #tips
+
 - (2026-02-24) [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them - Quesma Blog](202602/2026-02-24-we-hid-backdoors-in-~40mb-binaries-and-asked-ai-%2B-ghidra-to-find-them---quesma-blog.md)
   - 该研究评估AI代理在二进制逆向工程中检测后门的能力。通过构建BinaryAudit基准测试，发现最佳模型检测成功率仅49%，且误报率高达28%，表明当前AI辅助分析仍不成熟，无法作为生产环境的可靠安全工具，但可为开发者提供初步审计支持。
   - Tags: #read #agent #security
@@ -39,13 +43,9 @@
   - 作者使用大语言模型对Snowsky Echo Mini MP3播放器进行固件逆向和魔改，开发了资源编辑工具并引发社区热潮。文章反思了人机协作模式、ADHD风险及技术门槛降低带来的安全挑战。
   - Tags: #read #agent #llm #deepdive
 
-- (2026-02-17) [LLM-generated skills work, if you generate them afterwards](202602/2026-02-17-llm-generated-skills-work%2C-if-you-generate-them-afterwards.md)
-  - 本文探讨了LLM生成技能的有效性，指出任务前生成技能无益，而任务后生成技能能有效提炼解决问题过程中获得的知识，从而提升新任务表现。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (45 entries)
+- [2026-02](202602/monthly-index.md) (46 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

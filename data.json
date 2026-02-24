@@ -10191,5 +10191,17 @@
       "agent",
       "security"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Stop Using /init for AGENTS.md",
+    "url": "https://addyosmani.com/blog/agents-md/",
+    "timestamp": 1771933922,
+    "tags": [
+      "read",
+      "llm",
+      "agent",
+      "tips"
+    ]
   }
 ]
