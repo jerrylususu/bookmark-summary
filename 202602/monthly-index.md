@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-24) [我的退休计划：把无期变成有期](2026-02-24-%E6%88%91%E7%9A%84%E9%80%80%E4%BC%91%E8%AE%A1%E5%88%92%EF%BC%9A%E6%8A%8A%E6%97%A0%E6%9C%9F%E5%8F%98%E6%88%90%E6%9C%89%E6%9C%9F.md)
+  - 这篇文章批判传统“安全”观念，提出通过建立可转移资产和财务规划，将上班视为“无期徒刑”的状态转变为可量化的“有期”退休目标，核心是摆脱被迫出卖时间的雇佣关系，实现时间与劳动的定价权自由。
+  - Tags: #read #money
+
 - (2026-02-24) [CLAUDE.md: Best Practices Learned from Optimizing Claude Code with Prompt Learning](2026-02-24-claude.md-best-practices-learned-from-optimizing-claude-code-with-prompt-learning.md)
   - 本文介绍了通过Prompt Learning技术优化Claude Code系统提示的方法。该方法利用LLM分析训练集表现并生成详细反馈，通过元提示迭代优化系统提示。实验表明，在SWE Bench基准测试中，优化后的提示使通用编码能力提升5.19%，针对特定代码库的优化效果更显著，提升达10.87%。该方法无需修改底层模型，仅通过优化提示即可提升性能。
   - Tags: #read #agent

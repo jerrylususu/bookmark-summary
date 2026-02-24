@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-24) [我的退休计划：把无期变成有期](202602/2026-02-24-%E6%88%91%E7%9A%84%E9%80%80%E4%BC%91%E8%AE%A1%E5%88%92%EF%BC%9A%E6%8A%8A%E6%97%A0%E6%9C%9F%E5%8F%98%E6%88%90%E6%9C%89%E6%9C%9F.md)
+  - 这篇文章批判传统“安全”观念，提出通过建立可转移资产和财务规划，将上班视为“无期徒刑”的状态转变为可量化的“有期”退休目标，核心是摆脱被迫出卖时间的雇佣关系，实现时间与劳动的定价权自由。
+  - Tags: #read #money
+
 - (2026-02-24) [CLAUDE.md: Best Practices Learned from Optimizing Claude Code with Prompt Learning](202602/2026-02-24-claude.md-best-practices-learned-from-optimizing-claude-code-with-prompt-learning.md)
   - 本文介绍了通过Prompt Learning技术优化Claude Code系统提示的方法。该方法利用LLM分析训练集表现并生成详细反馈，通过元提示迭代优化系统提示。实验表明，在SWE Bench基准测试中，优化后的提示使通用编码能力提升5.19%，针对特定代码库的优化效果更显著，提升达10.87%。该方法无需修改底层模型，仅通过优化提示即可提升性能。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - Martin Fowler在2026年2月18日的“Fragments”系列文章中，探讨了AI对软件开发的影响。文章指出AI是现有流程的“加速器”，会放大优缺点，因此传统工程实践（如TDD）更为关键。文章总结了行业现状、工作模式转变（更看重通才）、代码质量与安全的重要性、开发流程的调整以及未来成本的不确定性。作者强调开发者应冷静应对，专注于最大化AI效益并控制成本。
   - Tags: #read
 
-- (2026-02-20) [Notes on clarifying man pages](202602/2026-02-20-notes-on-clarifying-man-pages.md)
-  - 本文探讨了改进 man pages 可读性和实用性的设计思路，包括选项摘要、分类组织、丰富示例、目录链接和表格化数据等方法，旨在提升信息检索效率和用户体验。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (47 entries)
+- [2026-02](202602/monthly-index.md) (48 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
