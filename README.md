@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-24) [CLAUDE.md: Best Practices Learned from Optimizing Claude Code with Prompt Learning](202602/2026-02-24-claude.md-best-practices-learned-from-optimizing-claude-code-with-prompt-learning.md)
+  - 本文介绍了通过Prompt Learning技术优化Claude Code系统提示的方法。该方法利用LLM分析训练集表现并生成详细反馈，通过元提示迭代优化系统提示。实验表明，在SWE Bench基准测试中，优化后的提示使通用编码能力提升5.19%，针对特定代码库的优化效果更显著，提升达10.87%。该方法无需修改底层模型，仅通过优化提示即可提升性能。
+  - Tags: #read #agent
+
 - (2026-02-24) [Stop Using /init for AGENTS.md](202602/2026-02-24-stop-using-init-for-agents.md.md)
-  - 本文批判自动生成`AGENTS.md`的做法，指出其信息冗余会降低代理性能并增加成本。文章主张采用分层结构，仅包含非可发现信息，并建议将其视为动态的“活清单”以推动代码库改进，而非静态配置。
+  - 本文批判自动生成的做法，指出其信息冗余会降低代理性能并增加成本。文章主张采用分层结构，仅包含非可发现信息，并建议将其视为动态的“活清单”以推动代码库改进，而非静态配置。
   - Tags: #read #llm #agent #tips
 
 - (2026-02-24) [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them - Quesma Blog](202602/2026-02-24-we-hid-backdoors-in-~40mb-binaries-and-asked-ai-%2B-ghidra-to-find-them---quesma-blog.md)
@@ -39,13 +43,9 @@
   - 本文探讨了改进 man pages 可读性和实用性的设计思路，包括选项摘要、分类组织、丰富示例、目录链接和表格化数据等方法，旨在提升信息检索效率和用户体验。
   - Tags: #read
 
-- (2026-02-18) [Snowsky Echo Mini 固件逆向背后的故事](202602/2026-02-18-snowsky-echo-mini-%E5%9B%BA%E4%BB%B6%E9%80%86%E5%90%91%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B.md)
-  - 作者使用大语言模型对Snowsky Echo Mini MP3播放器进行固件逆向和魔改，开发了资源编辑工具并引发社区热潮。文章反思了人机协作模式、ADHD风险及技术门槛降低带来的安全挑战。
-  - Tags: #read #agent #llm #deepdive
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (46 entries)
+- [2026-02](202602/monthly-index.md) (47 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

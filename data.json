@@ -10203,5 +10203,15 @@
       "agent",
       "tips"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "CLAUDE.md: Best Practices Learned from Optimizing Claude Code with Prompt Learning",
+    "url": "https://arize.com/blog/claude-md-best-practices-learned-from-optimizing-claude-code-with-prompt-learning/",
+    "timestamp": 1771934110,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

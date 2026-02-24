@@ -1,7 +1,11 @@
 # 2026-02 Monthly Index
 
+- (2026-02-24) [CLAUDE.md: Best Practices Learned from Optimizing Claude Code with Prompt Learning](2026-02-24-claude.md-best-practices-learned-from-optimizing-claude-code-with-prompt-learning.md)
+  - 本文介绍了通过Prompt Learning技术优化Claude Code系统提示的方法。该方法利用LLM分析训练集表现并生成详细反馈，通过元提示迭代优化系统提示。实验表明，在SWE Bench基准测试中，优化后的提示使通用编码能力提升5.19%，针对特定代码库的优化效果更显著，提升达10.87%。该方法无需修改底层模型，仅通过优化提示即可提升性能。
+  - Tags: #read #agent
+
 - (2026-02-24) [Stop Using /init for AGENTS.md](2026-02-24-stop-using-init-for-agents.md.md)
-  - 本文批判自动生成`AGENTS.md`的做法，指出其信息冗余会降低代理性能并增加成本。文章主张采用分层结构，仅包含非可发现信息，并建议将其视为动态的“活清单”以推动代码库改进，而非静态配置。
+  - 本文批判自动生成的做法，指出其信息冗余会降低代理性能并增加成本。文章主张采用分层结构，仅包含非可发现信息，并建议将其视为动态的“活清单”以推动代码库改进，而非静态配置。
   - Tags: #read #llm #agent #tips
 
 - (2026-02-24) [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them - Quesma Blog](2026-02-24-we-hid-backdoors-in-~40mb-binaries-and-asked-ai-%2B-ghidra-to-find-them---quesma-blog.md)
