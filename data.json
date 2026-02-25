@@ -10252,5 +10252,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/",
+    "timestamp": 1772031371,
+    "tags": [
+      "read",
+      "agent",
+      "tips"
+    ]
   }
 ]

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-25) [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](202602/2026-02-25-linear-walkthroughs---agentic-engineering-patterns---simon-willison%27s-weblog.md)
+  - 本文介绍了使用编码代理（如Claude Code）结合Showboat工具进行线性代码库走查的工程模式。通过实际案例，作者展示了如何自动读取SwiftUI应用代码、生成包含代码片段的文档，从而避免手动错误并深入理解代码结构和语言细节。该模式不仅适用于代码理解，还能将小型项目转化为学习新生态系统和技巧的机会。
+  - Tags: #read #agent #tips
+
 - (2026-02-25) [家庭网络环境改造](202602/2026-02-25-%E5%AE%B6%E5%BA%AD%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E6%94%B9%E9%80%A0.md)
   - 本文介绍了作者对家庭网络和NAS的改造方案：路由器采用PVE虚拟化实现双系统，NAS使用Fedora CoreOS容器化部署。改造后系统更稳定、可维护且数据更安全。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Simon Willison启动了“代理工程模式”项目，旨在系统化记录使用编码代理（如Claude Code）进行软件开发的实践。该项目与“氛围编程”区分，聚焦专业工程师如何利用代理提升效率。目前发布了两章，探讨代码生成成本和测试驱动开发，并计划以每周1-2章的速度更新，内容由作者撰写，使用LLM辅助校对。
   - Tags: #read #agent #books
 
-- (2026-02-21) [以一个简单任务为例看AI落地的关键决策](202602/2026-02-21-%E4%BB%A5%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E4%BB%BB%E5%8A%A1%E4%B8%BA%E4%BE%8B%E7%9C%8Bai%E8%90%BD%E5%9C%B0%E7%9A%84%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96.md)
-  - 该错误表明URL参数无效，因域名无法解析，通常因缺少协议或域名格式错误。建议检查并修正URL格式，确保其为完整有效地址。
-  - Tags: #read #llm #agent
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (51 entries)
+- [2026-02](202602/monthly-index.md) (52 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

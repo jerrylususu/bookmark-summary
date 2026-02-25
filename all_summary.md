@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-25) [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](202602/2026-02-25-linear-walkthroughs---agentic-engineering-patterns---simon-willison%27s-weblog.md)
+  - Tags: #read #agent #tips
+  - Summary: 本文介绍了使用编码代理（如Claude Code）结合Showboat工具进行线性代码库走查的工程模式。通过实际案例，作者展示了如何自动读取SwiftUI应用代码、生成包含代码片段的文档，从而避免手动错误并深入理解代码结构和语言细节。该模式不仅适用于代码理解，还能将小型项目转化为学习新生态系统和技巧的机会。
+
 - (2026-02-25) [家庭网络环境改造](202602/2026-02-25-%E5%AE%B6%E5%BA%AD%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E6%94%B9%E9%80%A0.md)
   - Tags: #read
   - Summary: 本文介绍了作者对家庭网络和NAS的改造方案：路由器采用PVE虚拟化实现双系统，NAS使用Fedora CoreOS容器化部署。改造后系统更稳定、可维护且数据更安全。
