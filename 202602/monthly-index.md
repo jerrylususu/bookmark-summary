@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-25) [家庭网络环境改造](2026-02-25-%E5%AE%B6%E5%BA%AD%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E6%94%B9%E9%80%A0.md)
+  - 本文介绍了作者对家庭网络和NAS的改造方案：路由器采用PVE虚拟化实现双系统，NAS使用Fedora CoreOS容器化部署。改造后系统更稳定、可维护且数据更安全。
+  - Tags: #read
+
 - (2026-02-24) [Some Silly Z3 Scripts I Wrote](2026-02-24-some-silly-z3-scripts-i-wrote.md)
   - 本文介绍了Z3 SMT求解器及其在数学、金融、逆向工程等领域的应用，通过Python脚本展示了其使用方法，并为《逻辑程序员》一书选择了更实用的示例，同时提供了相关学习资源。
   - Tags: #read

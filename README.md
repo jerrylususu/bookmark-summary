@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-25) [家庭网络环境改造](202602/2026-02-25-%E5%AE%B6%E5%BA%AD%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E6%94%B9%E9%80%A0.md)
+  - 本文介绍了作者对家庭网络和NAS的改造方案：路由器采用PVE虚拟化实现双系统，NAS使用Fedora CoreOS容器化部署。改造后系统更稳定、可维护且数据更安全。
+  - Tags: #read
+
 - (2026-02-24) [Some Silly Z3 Scripts I Wrote](202602/2026-02-24-some-silly-z3-scripts-i-wrote.md)
   - 本文介绍了Z3 SMT求解器及其在数学、金融、逆向工程等领域的应用，通过Python脚本展示了其使用方法，并为《逻辑程序员》一书选择了更实用的示例，同时提供了相关学习资源。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 该错误表明URL参数无效，因域名无法解析，通常因缺少协议或域名格式错误。建议检查并修正URL格式，确保其为完整有效地址。
   - Tags: #read #llm #agent
 
-- (2026-02-20) [The First 10-Year Evolution of Stripe’s Payments API](202602/2026-02-20-the-first-10-year-evolution-of-stripe%E2%80%99s-payments-api.md)
-  - Stripe支付API历经十年演变，从简单信用卡支付起步，逐步支持多种支付方式。为应对复杂性，Stripe先后推出Source API和PaymentMethod/PaymentIntent新架构，通过统一状态机简化集成。这一过程揭示了API设计需平衡易用性与功能，并强调避免产品债务、保持一致性等原则，最终实现简单性与强大功能的统一。
-  - Tags: #read #api #deepdive
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (50 entries)
+- [2026-02](202602/monthly-index.md) (51 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
