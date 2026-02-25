@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-25) [Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code - <antirez>](202602/2026-02-25-implementing-a-clear-room-z80-zx-spectrum-emulator-with-claude-code---antirez.md)
+  - 作者antirez通过“干净房间”实验，让Claude Code在无外部信息条件下编写Z80/ZX Spectrum模拟器，验证了AI能基于详尽规范生成原创代码，反驳了AI仅复制训练数据的观点。
+  - Tags: #read #agent #deepdive
+
 - (2026-02-25) [How we rebuilt Next.js with AI in one week](202602/2026-02-25-how-we-rebuilt-next.js-with-ai-in-one-week.md)
   - Cloudflare 工程师利用 AI 在一周内基于 Vite 重构了 Next.js，开发出 vinext。该框架性能更优（构建快 4.4 倍，包体积小 57%），并创新引入流量感知预渲染技术。项目证明了 AI 在严格规范下能高效重构复杂系统，目前处于实验阶段。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - 该研究评估AI代理在二进制逆向工程中检测后门的能力。通过构建BinaryAudit基准测试，发现最佳模型检测成功率仅49%，且误报率高达28%，表明当前AI辅助分析仍不成熟，无法作为生产环境的可靠安全工具，但可为开发者提供初步审计支持。
   - Tags: #read #agent #security
 
-- (2026-02-24) [What's so hard about continuous learning?](202602/2026-02-24-what%27s-so-hard-about-continuous-learning.md)
-  - 连续学习指模型部署后持续更新权重，但面临技术难题、微调无效、安全风险和可移植性差等障碍，核心难点在于自动避免性能退化，目前仍需人工干预，尚未成熟。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (53 entries)
+- [2026-02](202602/monthly-index.md) (54 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

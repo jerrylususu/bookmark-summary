@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-25) [Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code - <antirez>](202602/2026-02-25-implementing-a-clear-room-z80-zx-spectrum-emulator-with-claude-code---antirez.md)
+  - Tags: #read #agent #deepdive
+  - Summary: 作者antirez通过“干净房间”实验，让Claude Code在无外部信息条件下编写Z80/ZX Spectrum模拟器，验证了AI能基于详尽规范生成原创代码，反驳了AI仅复制训练数据的观点。
+
 - (2026-02-25) [How we rebuilt Next.js with AI in one week](202602/2026-02-25-how-we-rebuilt-next.js-with-ai-in-one-week.md)
   - Tags: #read #agent #deepdive
   - Summary: Cloudflare 工程师利用 AI 在一周内基于 Vite 重构了 Next.js，开发出 vinext。该框架性能更优（构建快 4.4 倍，包体积小 57%），并创新引入流量感知预渲染技术。项目证明了 AI 在严格规范下能高效重构复杂系统，目前处于实验阶段。
