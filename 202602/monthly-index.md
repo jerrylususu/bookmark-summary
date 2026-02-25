@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-25) [How we rebuilt Next.js with AI in one week](2026-02-25-how-we-rebuilt-next.js-with-ai-in-one-week.md)
+  - Cloudflare 工程师利用 AI 在一周内基于 Vite 重构了 Next.js，开发出 vinext。该框架性能更优（构建快 4.4 倍，包体积小 57%），并创新引入流量感知预渲染技术。项目证明了 AI 在严格规范下能高效重构复杂系统，目前处于实验阶段。
+  - Tags: #read #agent #deepdive
+
 - (2026-02-25) [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](2026-02-25-linear-walkthroughs---agentic-engineering-patterns---simon-willison%27s-weblog.md)
   - 本文介绍了使用编码代理（如Claude Code）结合Showboat工具进行线性代码库走查的工程模式。通过实际案例，作者展示了如何自动读取SwiftUI应用代码、生成包含代码片段的文档，从而避免手动错误并深入理解代码结构和语言细节。该模式不仅适用于代码理解，还能将小型项目转化为学习新生态系统和技巧的机会。
   - Tags: #read #agent #tips

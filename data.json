@@ -10263,5 +10263,16 @@
       "agent",
       "tips"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "How we rebuilt Next.js with AI in one week",
+    "url": "https://blog.cloudflare.com/vinext/",
+    "timestamp": 1772031848,
+    "tags": [
+      "read",
+      "agent",
+      "deepdive"
+    ]
   }
 ]

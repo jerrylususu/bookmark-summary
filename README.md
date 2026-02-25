@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-25) [How we rebuilt Next.js with AI in one week](202602/2026-02-25-how-we-rebuilt-next.js-with-ai-in-one-week.md)
+  - Cloudflare 工程师利用 AI 在一周内基于 Vite 重构了 Next.js，开发出 vinext。该框架性能更优（构建快 4.4 倍，包体积小 57%），并创新引入流量感知预渲染技术。项目证明了 AI 在严格规范下能高效重构复杂系统，目前处于实验阶段。
+  - Tags: #read #agent #deepdive
+
 - (2026-02-25) [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](202602/2026-02-25-linear-walkthroughs---agentic-engineering-patterns---simon-willison%27s-weblog.md)
   - 本文介绍了使用编码代理（如Claude Code）结合Showboat工具进行线性代码库走查的工程模式。通过实际案例，作者展示了如何自动读取SwiftUI应用代码、生成包含代码片段的文档，从而避免手动错误并深入理解代码结构和语言细节。该模式不仅适用于代码理解，还能将小型项目转化为学习新生态系统和技巧的机会。
   - Tags: #read #agent #tips
@@ -39,13 +43,9 @@
   - 连续学习指模型部署后持续更新权重，但面临技术难题、微调无效、安全风险和可移植性差等障碍，核心难点在于自动避免性能退化，目前仍需人工干预，尚未成熟。
   - Tags: #read #llm
 
-- (2026-02-24) [Writing about Agentic Engineering Patterns](202602/2026-02-24-writing-about-agentic-engineering-patterns.md)
-  - Simon Willison启动了“代理工程模式”项目，旨在系统化记录使用编码代理（如Claude Code）进行软件开发的实践。该项目与“氛围编程”区分，聚焦专业工程师如何利用代理提升效率。目前发布了两章，探讨代码生成成本和测试驱动开发，并计划以每周1-2章的速度更新，内容由作者撰写，使用LLM辅助校对。
-  - Tags: #read #agent #books
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (52 entries)
+- [2026-02](202602/monthly-index.md) (53 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
