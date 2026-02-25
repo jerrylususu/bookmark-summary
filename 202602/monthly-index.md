@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-25) [在 AI 的帮助下，给自己建了个数字人生档案馆 - 少数派](2026-02-25-%E5%9C%A8-ai-%E7%9A%84%E5%B8%AE%E5%8A%A9%E4%B8%8B%EF%BC%8C%E7%BB%99%E8%87%AA%E5%B7%B1%E5%BB%BA%E4%BA%86%E4%B8%AA%E6%95%B0%E5%AD%97%E4%BA%BA%E7%94%9F%E6%A1%A3%E6%A1%88%E9%A6%86---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
+  - 作者借助AI工具，历时大半年构建了“人生档案馆”个人数字文件管理系统。AI作为“教练”帮助解决了文件命名、文件夹结构、文档分类和旧文件整理等核心问题，整合了PARA方法与Johnny Decimal系统，最终形成了一套动态与静态文件分离、易于维护的体系。
+  - Tags: #read
+
 - (2026-02-25) [Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code - <antirez>](2026-02-25-implementing-a-clear-room-z80-zx-spectrum-emulator-with-claude-code---antirez.md)
   - 作者antirez通过“干净房间”实验，让Claude Code在无外部信息条件下编写Z80/ZX Spectrum模拟器，验证了AI能基于详尽规范生成原创代码，反驳了AI仅复制训练数据的观点。
   - Tags: #read #agent #deepdive
