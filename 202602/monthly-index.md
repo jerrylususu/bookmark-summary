@@ -1,5 +1,9 @@
 # 2026-02 Monthly Index
 
+- (2026-02-26) [Software companies buying software: a story of ecosystems and vendors](2026-02-26-software-companies-buying-software-a-story-of-ecosystems-and-vendors.md)
+  - 软件行业正从自建转向采购，供应商化趋势受经济效率和AI推动，导致行业结构变化、安全观念转变，并影响创业与就业。
+  - Tags: #read
+
 - (2026-02-26) [The Factory Model: How Coding Agents Changed Software Engineering](2026-02-26-the-factory-model-how-coding-agents-changed-software-engineering.md)
   - 编码代理正将软件工程转变为“工厂模式”，开发者从写代码转向设计和管理代理。核心技能如架构设计、规范撰写和测试验证更加关键，工程师需提升系统思维和问题分解能力，以应对验证而非生成的瓶颈。
   - Tags: #read #agent

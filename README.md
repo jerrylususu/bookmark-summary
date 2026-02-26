@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-26) [Software companies buying software: a story of ecosystems and vendors](202602/2026-02-26-software-companies-buying-software-a-story-of-ecosystems-and-vendors.md)
+  - 软件行业正从自建转向采购，供应商化趋势受经济效率和AI推动，导致行业结构变化、安全观念转变，并影响创业与就业。
+  - Tags: #read
+
 - (2026-02-26) [The Factory Model: How Coding Agents Changed Software Engineering](202602/2026-02-26-the-factory-model-how-coding-agents-changed-software-engineering.md)
   - 编码代理正将软件工程转变为“工厂模式”，开发者从写代码转向设计和管理代理。核心技能如架构设计、规范撰写和测试验证更加关键，工程师需提升系统思维和问题分解能力，以应对验证而非生成的瓶颈。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 这篇文章批判传统“安全”观念，提出通过建立可转移资产和财务规划，将上班视为“无期徒刑”的状态转变为可量化的“有期”退休目标，核心是摆脱被迫出卖时间的雇佣关系，实现时间与劳动的定价权自由。
   - Tags: #read #money
 
-- (2026-02-24) [CLAUDE.md: Best Practices Learned from Optimizing Claude Code with Prompt Learning](202602/2026-02-24-claude.md-best-practices-learned-from-optimizing-claude-code-with-prompt-learning.md)
-  - 本文介绍了通过Prompt Learning技术优化Claude Code系统提示的方法。该方法利用LLM分析训练集表现并生成详细反馈，通过元提示迭代优化系统提示。实验表明，在SWE Bench基准测试中，优化后的提示使通用编码能力提升5.19%，针对特定代码库的优化效果更显著，提升达10.87%。该方法无需修改底层模型，仅通过优化提示即可提升性能。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (56 entries)
+- [2026-02](202602/monthly-index.md) (57 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)
