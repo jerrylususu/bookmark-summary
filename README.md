@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-26) [The Factory Model: How Coding Agents Changed Software Engineering](202602/2026-02-26-the-factory-model-how-coding-agents-changed-software-engineering.md)
+  - 编码代理正将软件工程转变为“工厂模式”，开发者从写代码转向设计和管理代理。核心技能如架构设计、规范撰写和测试验证更加关键，工程师需提升系统思维和问题分解能力，以应对验证而非生成的瓶颈。
+  - Tags: #read #agent
+
 - (2026-02-25) [在 AI 的帮助下，给自己建了个数字人生档案馆 - 少数派](202602/2026-02-25-%E5%9C%A8-ai-%E7%9A%84%E5%B8%AE%E5%8A%A9%E4%B8%8B%EF%BC%8C%E7%BB%99%E8%87%AA%E5%B7%B1%E5%BB%BA%E4%BA%86%E4%B8%AA%E6%95%B0%E5%AD%97%E4%BA%BA%E7%94%9F%E6%A1%A3%E6%A1%88%E9%A6%86---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
   - 作者借助AI工具，历时大半年构建了“人生档案馆”个人数字文件管理系统。AI作为“教练”帮助解决了文件命名、文件夹结构、文档分类和旧文件整理等核心问题，整合了PARA方法与Johnny Decimal系统，最终形成了一套动态与静态文件分离、易于维护的体系。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文介绍了通过Prompt Learning技术优化Claude Code系统提示的方法。该方法利用LLM分析训练集表现并生成详细反馈，通过元提示迭代优化系统提示。实验表明，在SWE Bench基准测试中，优化后的提示使通用编码能力提升5.19%，针对特定代码库的优化效果更显著，提升达10.87%。该方法无需修改底层模型，仅通过优化提示即可提升性能。
   - Tags: #read #agent
 
-- (2026-02-24) [Stop Using /init for AGENTS.md](202602/2026-02-24-stop-using-init-for-agents.md.md)
-  - 本文批判自动生成的做法，指出其信息冗余会降低代理性能并增加成本。文章主张采用分层结构，仅包含非可发现信息，并建议将其视为动态的“活清单”以推动代码库改进，而非静态配置。
-  - Tags: #read #llm #agent #tips
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (55 entries)
+- [2026-02](202602/monthly-index.md) (56 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

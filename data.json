@@ -10294,5 +10294,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "The Factory Model: How Coding Agents Changed Software Engineering",
+    "url": "https://addyosmani.com/blog/factory-model/",
+    "timestamp": 1772112164,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]
