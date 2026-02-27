@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-02-27) [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](202602/2026-02-27-hoard-things-you-know-how-to-do---agentic-engineering-patterns---simon-willison%27s-weblog.md)
+  - Tags: #read #agent #tips
+  - Summary: 本文介绍了“囤积已知技能”的代理工程模式，建议开发者系统收集和记录已解决的技术问题及代码示例，建立个人知识库。通过向编码代理提供已有代码参考，可快速组合生成新解决方案，从而更高效地利用AI代理加速开发过程。
+
 - (2026-02-26) [Software companies buying software: a story of ecosystems and vendors](202602/2026-02-26-software-companies-buying-software-a-story-of-ecosystems-and-vendors.md)
   - Tags: #read
   - Summary: 软件行业正从自建转向采购，供应商化趋势受经济效率和AI推动，导致行业结构变化、安全观念转变，并影响创业与就业。

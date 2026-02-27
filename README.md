@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-02-27) [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](202602/2026-02-27-hoard-things-you-know-how-to-do---agentic-engineering-patterns---simon-willison%27s-weblog.md)
+  - 本文介绍了“囤积已知技能”的代理工程模式，建议开发者系统收集和记录已解决的技术问题及代码示例，建立个人知识库。通过向编码代理提供已有代码参考，可快速组合生成新解决方案，从而更高效地利用AI代理加速开发过程。
+  - Tags: #read #agent #tips
+
 - (2026-02-26) [Software companies buying software: a story of ecosystems and vendors](202602/2026-02-26-software-companies-buying-software-a-story-of-ecosystems-and-vendors.md)
   - 软件行业正从自建转向采购，供应商化趋势受经济效率和AI推动，导致行业结构变化、安全观念转变，并影响创业与就业。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章通过自定义基准测试评估多个AI模型，发现Claude、Gemini和Kimi等模型表现突出，表明AI仍在进步，未进入平台期。
   - Tags: #read #llm #eval
 
-- (2026-02-24) [我的退休计划：把无期变成有期](202602/2026-02-24-%E6%88%91%E7%9A%84%E9%80%80%E4%BC%91%E8%AE%A1%E5%88%92%EF%BC%9A%E6%8A%8A%E6%97%A0%E6%9C%9F%E5%8F%98%E6%88%90%E6%9C%89%E6%9C%9F.md)
-  - 这篇文章批判传统“安全”观念，提出通过建立可转移资产和财务规划，将上班视为“无期徒刑”的状态转变为可量化的“有期”退休目标，核心是摆脱被迫出卖时间的雇佣关系，实现时间与劳动的定价权自由。
-  - Tags: #read #money
-
 ## Monthly Archive
 
-- [2026-02](202602/monthly-index.md) (57 entries)
+- [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
 - [2025-11](202511/monthly-index.md) (78 entries)

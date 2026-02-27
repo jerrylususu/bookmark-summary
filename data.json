@@ -10313,5 +10313,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202602",
+    "title": "Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/",
+    "timestamp": 1772198482,
+    "tags": [
+      "read",
+      "agent",
+      "tips"
+    ]
   }
 ]
