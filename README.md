@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-01) [Interactive explanations - Agentic Engineering Patterns - Simon Willison's Weblog](202603/2026-03-01-interactive-explanations---agentic-engineering-patterns---simon-willison%27s-weblog.md)
+  - 本文探讨代理工程中通过交互式解释降低认知债务的方法。以词云生成为例，展示动画解释如何直观呈现算法逻辑，帮助开发者理解代码，从而有效管理认知债务。
+  - Tags: #read #tips
+
 - (2026-02-27) [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](202602/2026-02-27-hoard-things-you-know-how-to-do---agentic-engineering-patterns---simon-willison%27s-weblog.md)
   - 本文介绍了“囤积已知技能”的代理工程模式，建议开发者系统收集和记录已解决的技术问题及代码示例，建立个人知识库。通过向编码代理提供已有代码参考，可快速组合生成新解决方案，从而更高效地利用AI代理加速开发过程。
   - Tags: #read #agent #tips
@@ -39,12 +43,9 @@
   - 本文介绍了Z3 SMT求解器及其在数学、金融、逆向工程等领域的应用，通过Python脚本展示了其使用方法，并为《逻辑程序员》一书选择了更实用的示例，同时提供了相关学习资源。
   - Tags: #read
 
-- (2026-02-24) [Do AI models still keep getting better, or have they plateaued?](202602/2026-02-24-do-ai-models-still-keep-getting-better%2C-or-have-they-plateaued.md)
-  - 文章通过自定义基准测试评估多个AI模型，发现Claude、Gemini和Kimi等模型表现突出，表明AI仍在进步，未进入平台期。
-  - Tags: #read #llm #eval
-
 ## Monthly Archive
 
+- [2026-03](202603/monthly-index.md) (1 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

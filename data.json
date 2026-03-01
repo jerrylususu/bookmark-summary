@@ -10324,5 +10324,15 @@
       "agent",
       "tips"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Interactive explanations - Agentic Engineering Patterns - Simon Willison's Weblog",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/",
+    "timestamp": 1772351490,
+    "tags": [
+      "read",
+      "tips"
+    ]
   }
 ]

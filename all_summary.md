@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-01) [Interactive explanations - Agentic Engineering Patterns - Simon Willison's Weblog](202603/2026-03-01-interactive-explanations---agentic-engineering-patterns---simon-willison%27s-weblog.md)
+  - Tags: #read #tips
+  - Summary: 本文探讨代理工程中通过交互式解释降低认知债务的方法。以词云生成为例，展示动画解释如何直观呈现算法逻辑，帮助开发者理解代码，从而有效管理认知债务。
+
 - (2026-02-27) [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](202602/2026-02-27-hoard-things-you-know-how-to-do---agentic-engineering-patterns---simon-willison%27s-weblog.md)
   - Tags: #read #agent #tips
   - Summary: 本文介绍了“囤积已知技能”的代理工程模式，建议开发者系统收集和记录已解决的技术问题及代码示例，建立个人知识库。通过向编码代理提供已有代码参考，可快速组合生成新解决方案，从而更高效地利用AI代理加速开发过程。
