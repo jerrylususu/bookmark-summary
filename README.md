@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-01) [An AI agent coding skeptic tries AI agent coding, in excessive detail](202603/2026-03-01-an-ai-agent-coding-skeptic-tries-ai-agent-coding%2C-in-excessive-detail.md)
+  - 作者记录了使用Claude Opus 4.5进行编码的实验，发现其在复杂代码编写和遵循规则方面表现优异。通过多个项目测试，作者认为AI代理在拥有足够领域知识的情况下能有效辅助开发，但需谨慎使用并优化工作流程。
+  - Tags: #read #agent #deepdive
+
 - (2026-03-01) [The most-seen UI on the Internet? Redesigning Turnstile and Challenge Pages](202603/2026-03-01-the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages.md)
   - Cloudflare对Turnstile验证码进行了全面重新设计，通过统一信息架构、优化交互和遵循高可访问性标准，提升了全球用户体验。设计改进包括简化文本、减少负面色彩，并支持多语言布局。工程上采用Rust构建UI，确保安全与一致性。最终目标是提高完成率、减少放弃率和支持工单，证明良好设计与安全性可共存。
   - Tags: #read #design
@@ -39,13 +43,9 @@
   - Cloudflare 工程师利用 AI 在一周内基于 Vite 重构了 Next.js，开发出 vinext。该框架性能更优（构建快 4.4 倍，包体积小 57%），并创新引入流量感知预渲染技术。项目证明了 AI 在严格规范下能高效重构复杂系统，目前处于实验阶段。
   - Tags: #read #agent #deepdive
 
-- (2026-02-25) [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](202602/2026-02-25-linear-walkthroughs---agentic-engineering-patterns---simon-willison%27s-weblog.md)
-  - 本文介绍了使用编码代理（如Claude Code）结合Showboat工具进行线性代码库走查的工程模式。通过实际案例，作者展示了如何自动读取SwiftUI应用代码、生成包含代码片段的文档，从而避免手动错误并深入理解代码结构和语言细节。该模式不仅适用于代码理解，还能将小型项目转化为学习新生态系统和技巧的机会。
-  - Tags: #read #agent #tips
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (3 entries)
+- [2026-03](202603/monthly-index.md) (4 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

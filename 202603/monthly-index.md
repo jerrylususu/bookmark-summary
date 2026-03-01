@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-01) [An AI agent coding skeptic tries AI agent coding, in excessive detail](2026-03-01-an-ai-agent-coding-skeptic-tries-ai-agent-coding%2C-in-excessive-detail.md)
+  - 作者记录了使用Claude Opus 4.5进行编码的实验，发现其在复杂代码编写和遵循规则方面表现优异。通过多个项目测试，作者认为AI代理在拥有足够领域知识的情况下能有效辅助开发，但需谨慎使用并优化工作流程。
+  - Tags: #read #agent #deepdive
+
 - (2026-03-01) [The most-seen UI on the Internet? Redesigning Turnstile and Challenge Pages](2026-03-01-the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages.md)
   - Cloudflare对Turnstile验证码进行了全面重新设计，通过统一信息架构、优化交互和遵循高可访问性标准，提升了全球用户体验。设计改进包括简化文本、减少负面色彩，并支持多语言布局。工程上采用Rust构建UI，确保安全与一致性。最终目标是提高完成率、减少放弃率和支持工单，证明良好设计与安全性可共存。
   - Tags: #read #design
