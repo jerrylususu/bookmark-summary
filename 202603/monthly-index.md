@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-01) [Google API Keys Weren't Secrets. But then Gemini Changed the Rules. ◆ Truffle Security Co.](2026-03-01-google-api-keys-weren%27t-secrets.-but-then-gemini-changed-the-rules.-%E2%97%86-truffle-security-co..md)
+  - Google API密钥安全模型变化导致风险：原本用于公共服务的密钥被静默赋予访问敏感Gemini端点的能力，可能引发数据泄露和费用激增。建议开发者检查并审计密钥，避免公开暴露。
+  - Tags: #read #security
+
 - (2026-03-01) [The Engine Behind the Hype](2026-03-01-the-engine-behind-the-hype.md)
   - 文章探讨了作者在AI编程工具中遇到的上下文窗口消耗问题，并聚焦于轻量级编码代理引擎“Pi”。Pi通过极简设计（如精简工具集和短系统提示）显著提升了上下文效率，证明了小型、可定制工具的潜力，为AI工具的未来提供了回归本质的思考。
   - Tags: #read #agent

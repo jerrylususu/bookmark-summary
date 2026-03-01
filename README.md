@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-01) [Google API Keys Weren't Secrets. But then Gemini Changed the Rules. ◆ Truffle Security Co.](202603/2026-03-01-google-api-keys-weren%27t-secrets.-but-then-gemini-changed-the-rules.-%E2%97%86-truffle-security-co..md)
+  - Google API密钥安全模型变化导致风险：原本用于公共服务的密钥被静默赋予访问敏感Gemini端点的能力，可能引发数据泄露和费用激增。建议开发者检查并审计密钥，避免公开暴露。
+  - Tags: #read #security
+
 - (2026-03-01) [The Engine Behind the Hype](202603/2026-03-01-the-engine-behind-the-hype.md)
   - 文章探讨了作者在AI编程工具中遇到的上下文窗口消耗问题，并聚焦于轻量级编码代理引擎“Pi”。Pi通过极简设计（如精简工具集和短系统提示）显著提升了上下文效率，证明了小型、可定制工具的潜力，为AI工具的未来提供了回归本质的思考。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 软件行业正从自建转向采购，供应商化趋势受经济效率和AI推动，导致行业结构变化、安全观念转变，并影响创业与就业。
   - Tags: #read
 
-- (2026-02-26) [The Factory Model: How Coding Agents Changed Software Engineering](202602/2026-02-26-the-factory-model-how-coding-agents-changed-software-engineering.md)
-  - 编码代理正将软件工程转变为“工厂模式”，开发者从写代码转向设计和管理代理。核心技能如架构设计、规范撰写和测试验证更加关键，工程师需提升系统思维和问题分解能力，以应对验证而非生成的瓶颈。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (7 entries)
+- [2026-03](202603/monthly-index.md) (8 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

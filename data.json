@@ -10396,5 +10396,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules. ◆ Truffle Security Co.",
+    "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+    "timestamp": 1772377058,
+    "tags": [
+      "read",
+      "security"
+    ]
   }
 ]
