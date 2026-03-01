@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-01) [Whale Fall](202603/2026-03-01-whale-fall.md)
+  - 文章以“鲸落”比喻开源项目消亡后的生态演变，指出项目停止维护后，其代码、协议和接口会像鲸鱼尸体一样沉入底层，为后续创新提供养分。核心过程包括初期腐食（社区分叉形成新项目）、中期富集（协议和API催生新工具）和长期化学合成（底层结构成为跨生态基础设施）。关键模式涉及连续再殖民、许可证变更引发的生态重组，以及系统性案例（如Sun Microsystems项目）。现状反思指出，企业收购或云平台整合导致“浅水死亡”，减少鲸落率，可能削弱生态多样性。结论强调，健康的开源生态依赖鲸落效应滋养创新，但当前整合趋势需关注。
+  - Tags: #read
+
 - (2026-03-01) [An AI agent coding skeptic tries AI agent coding, in excessive detail](202603/2026-03-01-an-ai-agent-coding-skeptic-tries-ai-agent-coding%2C-in-excessive-detail.md)
   - 作者记录了使用Claude Opus 4.5进行编码的实验，发现其在复杂代码编写和遵循规则方面表现优异。通过多个项目测试，作者认为AI代理在拥有足够领域知识的情况下能有效辅助开发，但需谨慎使用并优化工作流程。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - 作者antirez通过“干净房间”实验，让Claude Code在无外部信息条件下编写Z80/ZX Spectrum模拟器，验证了AI能基于详尽规范生成原创代码，反驳了AI仅复制训练数据的观点。
   - Tags: #read #agent #deepdive
 
-- (2026-02-25) [How we rebuilt Next.js with AI in one week](202602/2026-02-25-how-we-rebuilt-next.js-with-ai-in-one-week.md)
-  - Cloudflare 工程师利用 AI 在一周内基于 Vite 重构了 Next.js，开发出 vinext。该框架性能更优（构建快 4.4 倍，包体积小 57%），并创新引入流量感知预渲染技术。项目证明了 AI 在严格规范下能高效重构复杂系统，目前处于实验阶段。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (4 entries)
+- [2026-03](202603/monthly-index.md) (5 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

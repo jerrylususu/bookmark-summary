@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-01) [Whale Fall](2026-03-01-whale-fall.md)
+  - 文章以“鲸落”比喻开源项目消亡后的生态演变，指出项目停止维护后，其代码、协议和接口会像鲸鱼尸体一样沉入底层，为后续创新提供养分。核心过程包括初期腐食（社区分叉形成新项目）、中期富集（协议和API催生新工具）和长期化学合成（底层结构成为跨生态基础设施）。关键模式涉及连续再殖民、许可证变更引发的生态重组，以及系统性案例（如Sun Microsystems项目）。现状反思指出，企业收购或云平台整合导致“浅水死亡”，减少鲸落率，可能削弱生态多样性。结论强调，健康的开源生态依赖鲸落效应滋养创新，但当前整合趋势需关注。
+  - Tags: #read
+
 - (2026-03-01) [An AI agent coding skeptic tries AI agent coding, in excessive detail](2026-03-01-an-ai-agent-coding-skeptic-tries-ai-agent-coding%2C-in-excessive-detail.md)
   - 作者记录了使用Claude Opus 4.5进行编码的实验，发现其在复杂代码编写和遵循规则方面表现优异。通过多个项目测试，作者认为AI代理在拥有足够领域知识的情况下能有效辅助开发，但需谨慎使用并优化工作流程。
   - Tags: #read #agent #deepdive
