@@ -10376,5 +10376,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Rolling your own serverless OCR in 40 lines of code | Christopher Krapu",
+    "url": "https://ckrapu.github.io/blog/2026/ocr-textbooks-modal-deepseek/",
+    "timestamp": 1772355956,
+    "tags": [
+      "read",
+      "guide"
+    ]
   }
 ]

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-01) [Rolling your own serverless OCR in 40 lines of code | Christopher Krapu](202603/2026-03-01-rolling-your-own-serverless-ocr-in-40-lines-of-code-christopher-krapu.md)
+  - 本文介绍了如何利用 Modal 无服务器平台和 DeepSeek OCR 模型，在 40 行代码内构建一个高效的 OCR 系统。该方案能将 PDF 教科书转换为可搜索的 Markdown 文本，通过云端 GPU 并行处理，实现了低成本（约 2 美元处理 600 页）且高质量的数学公式识别。
+  - Tags: #read #guide
+
 - (2026-03-01) [Whale Fall](202603/2026-03-01-whale-fall.md)
   - 文章以“鲸落”比喻开源项目消亡后的生态演变，指出项目停止维护后，其代码、协议和接口会像鲸鱼尸体一样沉入底层，为后续创新提供养分。核心过程包括初期腐食（社区分叉形成新项目）、中期富集（协议和API催生新工具）和长期化学合成（底层结构成为跨生态基础设施）。关键模式涉及连续再殖民、许可证变更引发的生态重组，以及系统性案例（如Sun Microsystems项目）。现状反思指出，企业收购或云平台整合导致“浅水死亡”，减少鲸落率，可能削弱生态多样性。结论强调，健康的开源生态依赖鲸落效应滋养创新，但当前整合趋势需关注。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 作者借助AI工具，历时大半年构建了“人生档案馆”个人数字文件管理系统。AI作为“教练”帮助解决了文件命名、文件夹结构、文档分类和旧文件整理等核心问题，整合了PARA方法与Johnny Decimal系统，最终形成了一套动态与静态文件分离、易于维护的体系。
   - Tags: #read
 
-- (2026-02-25) [Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code - <antirez>](202602/2026-02-25-implementing-a-clear-room-z80-zx-spectrum-emulator-with-claude-code---antirez.md)
-  - 作者antirez通过“干净房间”实验，让Claude Code在无外部信息条件下编写Z80/ZX Spectrum模拟器，验证了AI能基于详尽规范生成原创代码，反驳了AI仅复制训练数据的观点。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (5 entries)
+- [2026-03](202603/monthly-index.md) (6 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

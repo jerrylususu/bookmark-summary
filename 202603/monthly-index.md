@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-01) [Rolling your own serverless OCR in 40 lines of code | Christopher Krapu](2026-03-01-rolling-your-own-serverless-ocr-in-40-lines-of-code-christopher-krapu.md)
+  - 本文介绍了如何利用 Modal 无服务器平台和 DeepSeek OCR 模型，在 40 行代码内构建一个高效的 OCR 系统。该方案能将 PDF 教科书转换为可搜索的 Markdown 文本，通过云端 GPU 并行处理，实现了低成本（约 2 美元处理 600 页）且高质量的数学公式识别。
+  - Tags: #read #guide
+
 - (2026-03-01) [Whale Fall](2026-03-01-whale-fall.md)
   - 文章以“鲸落”比喻开源项目消亡后的生态演变，指出项目停止维护后，其代码、协议和接口会像鲸鱼尸体一样沉入底层，为后续创新提供养分。核心过程包括初期腐食（社区分叉形成新项目）、中期富集（协议和API催生新工具）和长期化学合成（底层结构成为跨生态基础设施）。关键模式涉及连续再殖民、许可证变更引发的生态重组，以及系统性案例（如Sun Microsystems项目）。现状反思指出，企业收购或云平台整合导致“浅水死亡”，减少鲸落率，可能削弱生态多样性。结论强调，健康的开源生态依赖鲸落效应滋养创新，但当前整合趋势需关注。
   - Tags: #read
