@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-01) [The Engine Behind the Hype](2026-03-01-the-engine-behind-the-hype.md)
+  - 文章探讨了作者在AI编程工具中遇到的上下文窗口消耗问题，并聚焦于轻量级编码代理引擎“Pi”。Pi通过极简设计（如精简工具集和短系统提示）显著提升了上下文效率，证明了小型、可定制工具的潜力，为AI工具的未来提供了回归本质的思考。
+  - Tags: #read #agent
+
 - (2026-03-01) [Rolling your own serverless OCR in 40 lines of code | Christopher Krapu](2026-03-01-rolling-your-own-serverless-ocr-in-40-lines-of-code-christopher-krapu.md)
   - 本文介绍了如何利用 Modal 无服务器平台和 DeepSeek OCR 模型，在 40 行代码内构建一个高效的 OCR 系统。该方案能将 PDF 教科书转换为可搜索的 Markdown 文本，通过云端 GPU 并行处理，实现了低成本（约 2 美元处理 600 页）且高质量的数学公式识别。
   - Tags: #read #guide
