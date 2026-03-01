@@ -10346,5 +10346,15 @@
       "frontend",
       "api"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "The most-seen UI on the Internet? Redesigning Turnstile and Challenge Pages",
+    "url": "https://blog.cloudflare.com/the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages/",
+    "timestamp": 1772354001,
+    "tags": [
+      "read",
+      "design"
+    ]
   }
 ]

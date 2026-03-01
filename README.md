@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-01) [The most-seen UI on the Internet? Redesigning Turnstile and Challenge Pages](202603/2026-03-01-the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages.md)
+  - Cloudflare对Turnstile验证码进行了全面重新设计，通过统一信息架构、优化交互和遵循高可访问性标准，提升了全球用户体验。设计改进包括简化文本、减少负面色彩，并支持多语言布局。工程上采用Rust构建UI，确保安全与一致性。最终目标是提高完成率、减少放弃率和支持工单，证明良好设计与安全性可共存。
+  - Tags: #read #design
+
 - (2026-03-01) [We deserve a better streams API for JavaScript](202603/2026-03-01-we-deserve-a-better-streams-api-for-javascript.md)
   - 本文剖析了 JavaScript Web Streams API 的设计缺陷，如过度仪式感、锁机制复杂、BYOB 低效、背压脱节及 Promise 开销大，导致性能与易用性问题。作者认为需基于现代语言特性重构，以提供更高效的替代方案。
   - Tags: #read #deepdive #frontend #api
@@ -39,13 +43,9 @@
   - 本文介绍了使用编码代理（如Claude Code）结合Showboat工具进行线性代码库走查的工程模式。通过实际案例，作者展示了如何自动读取SwiftUI应用代码、生成包含代码片段的文档，从而避免手动错误并深入理解代码结构和语言细节。该模式不仅适用于代码理解，还能将小型项目转化为学习新生态系统和技巧的机会。
   - Tags: #read #agent #tips
 
-- (2026-02-25) [家庭网络环境改造](202602/2026-02-25-%E5%AE%B6%E5%BA%AD%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E6%94%B9%E9%80%A0.md)
-  - 本文介绍了作者对家庭网络和NAS的改造方案：路由器采用PVE虚拟化实现双系统，NAS使用Fedora CoreOS容器化部署。改造后系统更稳定、可维护且数据更安全。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (2 entries)
+- [2026-03](202603/monthly-index.md) (3 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
