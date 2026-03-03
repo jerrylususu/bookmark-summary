@@ -10416,5 +10416,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "GIF optimization tool using WebAssembly and Gifsicle - Agentic Engineering Patterns",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/",
+    "timestamp": 1772547253,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

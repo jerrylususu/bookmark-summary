@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-03) [GIF optimization tool using WebAssembly and Gifsicle - Agentic Engineering Patterns](202603/2026-03-03-gif-optimization-tool-using-webassembly-and-gifsicle---agentic-engineering-patterns.md)
+  - 作者利用Claude Code代理工具，基于Gifsicle构建了支持拖拽上传、参数调整和预览下载的GIF优化网页应用。通过自然语言提示高效完成开发、测试与集成，展示了AI代理在复杂任务中的实用性。
+  - Tags: #read #agent
+
 - (2026-03-03) [用好AI的第一步：停止使用ChatGPT](202603/2026-03-03-%E7%94%A8%E5%A5%BDai%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%9A%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8chatgpt.md)
   - 该错误源于请求参数验证失败，系统无法解析域名“stop-using-chatgpt.html”，通常因域名格式无效或无法识别。错误代码40001提示用户检查URL格式是否符合标准。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文探讨代理工程中通过交互式解释降低认知债务的方法。以词云生成为例，展示动画解释如何直观呈现算法逻辑，帮助开发者理解代码，从而有效管理认知债务。
   - Tags: #read #tips
 
-- (2026-02-27) [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](202602/2026-02-27-hoard-things-you-know-how-to-do---agentic-engineering-patterns---simon-willison%27s-weblog.md)
-  - 本文介绍了“囤积已知技能”的代理工程模式，建议开发者系统收集和记录已解决的技术问题及代码示例，建立个人知识库。通过向编码代理提供已有代码参考，可快速组合生成新解决方案，从而更高效地利用AI代理加速开发过程。
-  - Tags: #read #agent #tips
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (9 entries)
+- [2026-03](202603/monthly-index.md) (10 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

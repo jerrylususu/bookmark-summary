@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-03) [GIF optimization tool using WebAssembly and Gifsicle - Agentic Engineering Patterns](202603/2026-03-03-gif-optimization-tool-using-webassembly-and-gifsicle---agentic-engineering-patterns.md)
+  - Tags: #read #agent
+  - Summary: 作者利用Claude Code代理工具，基于Gifsicle构建了支持拖拽上传、参数调整和预览下载的GIF优化网页应用。通过自然语言提示高效完成开发、测试与集成，展示了AI代理在复杂任务中的实用性。
+
 - (2026-03-03) [用好AI的第一步：停止使用ChatGPT](202603/2026-03-03-%E7%94%A8%E5%A5%BDai%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%9A%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8chatgpt.md)
   - Tags: #read #agent
   - Summary: 该错误源于请求参数验证失败，系统无法解析域名“stop-using-chatgpt.html”，通常因域名格式无效或无法识别。错误代码40001提示用户检查URL格式是否符合标准。
