@@ -10406,5 +10406,15 @@
       "read",
       "security"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "用好AI的第一步：停止使用ChatGPT",
+    "url": "./stop-using-chatgpt.html",
+    "timestamp": 1772546068,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]
