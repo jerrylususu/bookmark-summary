@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-05) [My Media Diet, Redux](202603/2026-03-05-my-media-diet%2C-redux.md)
+  - 作者在2026年反思信息消费习惯，受环境与认知变化影响，从偏重实用转向接纳虚构与感性，语言上双语并重，载体上灵活利用各类平台。核心是应对优质信息稀缺，依靠判断力进行策展，保持警觉以锻炼心智。
+  - Tags: #read
+
 - (2026-03-03) [GIF optimization tool using WebAssembly and Gifsicle - Agentic Engineering Patterns](202603/2026-03-03-gif-optimization-tool-using-webassembly-and-gifsicle---agentic-engineering-patterns.md)
   - 作者利用Claude Code代理工具，基于Gifsicle构建了支持拖拽上传、参数调整和预览下载的GIF优化网页应用。通过自然语言提示高效完成开发、测试与集成，展示了AI代理在复杂任务中的实用性。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文剖析了 JavaScript Web Streams API 的设计缺陷，如过度仪式感、锁机制复杂、BYOB 低效、背压脱节及 Promise 开销大，导致性能与易用性问题。作者认为需基于现代语言特性重构，以提供更高效的替代方案。
   - Tags: #read #deepdive #frontend #api
 
-- (2026-03-01) [Interactive explanations - Agentic Engineering Patterns - Simon Willison's Weblog](202603/2026-03-01-interactive-explanations---agentic-engineering-patterns---simon-willison%27s-weblog.md)
-  - 本文探讨代理工程中通过交互式解释降低认知债务的方法。以词云生成为例，展示动画解释如何直观呈现算法逻辑，帮助开发者理解代码，从而有效管理认知债务。
-  - Tags: #read #tips
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (10 entries)
+- [2026-03](202603/monthly-index.md) (11 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
