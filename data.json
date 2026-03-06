@@ -10455,5 +10455,15 @@
       "agent",
       "tips"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager | Adnan Khan - Security Research",
+    "url": "https://adnanthekhan.com/posts/clinejection/",
+    "timestamp": 1772805364,
+    "tags": [
+      "read",
+      "security"
+    ]
   }
 ]

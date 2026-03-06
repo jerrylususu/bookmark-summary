@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-06) [Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager | Adnan Khan - Security Research](202603/2026-03-06-clinejection-%E2%80%94-compromising-cline%27s-production-releases-just-by-prompting-an-issue-triager-adnan-khan---security-research.md)
+  - Cline 工具因 AI 代理提示注入漏洞被利用，攻击者通过缓存污染窃取发布凭证，导致恶意版本发布。影响数百万开发者，团队已修复并加强安全措施。
+  - Tags: #read #security
+
 - (2026-03-06) [Agentic manual testing - Agentic Engineering Patterns](202603/2026-03-06-agentic-manual-testing---agentic-engineering-patterns.md)
   - 文章强调在代理工程中手动测试的重要性，指出自动化测试不足以发现所有问题。通过Python代码片段、curl测试API及浏览器工具如Playwright、Rodney和Showboat进行手动测试，可发现遗漏问题、生成文档，并补充自动化测试，形成闭环。
   - Tags: #read #agent #tips
@@ -39,13 +43,9 @@
   - 文章以“鲸落”比喻开源项目消亡后的生态演变，指出项目停止维护后，其代码、协议和接口会像鲸鱼尸体一样沉入底层，为后续创新提供养分。核心过程包括初期腐食（社区分叉形成新项目）、中期富集（协议和API催生新工具）和长期化学合成（底层结构成为跨生态基础设施）。关键模式涉及连续再殖民、许可证变更引发的生态重组，以及系统性案例（如Sun Microsystems项目）。现状反思指出，企业收购或云平台整合导致“浅水死亡”，减少鲸落率，可能削弱生态多样性。结论强调，健康的开源生态依赖鲸落效应滋养创新，但当前整合趋势需关注。
   - Tags: #read
 
-- (2026-03-01) [An AI agent coding skeptic tries AI agent coding, in excessive detail](202603/2026-03-01-an-ai-agent-coding-skeptic-tries-ai-agent-coding%2C-in-excessive-detail.md)
-  - 作者记录了使用Claude Opus 4.5进行编码的实验，发现其在复杂代码编写和遵循规则方面表现优异。通过多个项目测试，作者认为AI代理在拥有足够领域知识的情况下能有效辅助开发，但需谨慎使用并优化工作流程。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (13 entries)
+- [2026-03](202603/monthly-index.md) (14 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

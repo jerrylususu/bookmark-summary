@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-06) [Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager | Adnan Khan - Security Research](2026-03-06-clinejection-%E2%80%94-compromising-cline%27s-production-releases-just-by-prompting-an-issue-triager-adnan-khan---security-research.md)
+  - Cline 工具因 AI 代理提示注入漏洞被利用，攻击者通过缓存污染窃取发布凭证，导致恶意版本发布。影响数百万开发者，团队已修复并加强安全措施。
+  - Tags: #read #security
+
 - (2026-03-06) [Agentic manual testing - Agentic Engineering Patterns](2026-03-06-agentic-manual-testing---agentic-engineering-patterns.md)
   - 文章强调在代理工程中手动测试的重要性，指出自动化测试不足以发现所有问题。通过Python代码片段、curl测试API及浏览器工具如Playwright、Rodney和Showboat进行手动测试，可发现遗漏问题、生成文档，并补充自动化测试，形成闭环。
   - Tags: #read #agent #tips
