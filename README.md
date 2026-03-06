@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-06) [I don't know if my job will still exist in ten years](202603/2026-03-06-i-don%27t-know-if-my-job-will-still-exist-in-ten-years.md)
+  - 作者从乐观转向担忧，认为AI代理将取代软件工程师岗位，尤其初级和中级职位。他反驳需求增长会创造更多岗位的观点，指出AI能写代码并维护代码，导致工程师需求下降。最终，作者接受行业自动化浪潮波及自身，准备寻找新方向。
+  - Tags: #read
+
 - (2026-03-05) [My Media Diet, Redux](202603/2026-03-05-my-media-diet%2C-redux.md)
   - 作者在2026年反思信息消费习惯，受环境与认知变化影响，从偏重实用转向接纳虚构与感性，语言上双语并重，载体上灵活利用各类平台。核心是应对优质信息稀缺，依靠判断力进行策展，保持警觉以锻炼心智。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Cloudflare对Turnstile验证码进行了全面重新设计，通过统一信息架构、优化交互和遵循高可访问性标准，提升了全球用户体验。设计改进包括简化文本、减少负面色彩，并支持多语言布局。工程上采用Rust构建UI，确保安全与一致性。最终目标是提高完成率、减少放弃率和支持工单，证明良好设计与安全性可共存。
   - Tags: #read #design
 
-- (2026-03-01) [We deserve a better streams API for JavaScript](202603/2026-03-01-we-deserve-a-better-streams-api-for-javascript.md)
-  - 本文剖析了 JavaScript Web Streams API 的设计缺陷，如过度仪式感、锁机制复杂、BYOB 低效、背压脱节及 Promise 开销大，导致性能与易用性问题。作者认为需基于现代语言特性重构，以提供更高效的替代方案。
-  - Tags: #read #deepdive #frontend #api
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (11 entries)
+- [2026-03](202603/monthly-index.md) (12 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

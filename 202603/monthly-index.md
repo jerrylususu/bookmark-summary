@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-06) [I don't know if my job will still exist in ten years](2026-03-06-i-don%27t-know-if-my-job-will-still-exist-in-ten-years.md)
+  - 作者从乐观转向担忧，认为AI代理将取代软件工程师岗位，尤其初级和中级职位。他反驳需求增长会创造更多岗位的观点，指出AI能写代码并维护代码，导致工程师需求下降。最终，作者接受行业自动化浪潮波及自身，准备寻找新方向。
+  - Tags: #read
+
 - (2026-03-05) [My Media Diet, Redux](2026-03-05-my-media-diet%2C-redux.md)
   - 作者在2026年反思信息消费习惯，受环境与认知变化影响，从偏重实用转向接纳虚构与感性，语言上双语并重，载体上灵活利用各类平台。核心是应对优质信息稀缺，依靠判断力进行策展，保持警觉以锻炼心智。
   - Tags: #read
