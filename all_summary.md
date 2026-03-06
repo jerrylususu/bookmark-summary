@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-06) [Agentic manual testing - Agentic Engineering Patterns](202603/2026-03-06-agentic-manual-testing---agentic-engineering-patterns.md)
+  - Tags: #read #agent #tips
+  - Summary: 文章强调在代理工程中手动测试的重要性，指出自动化测试不足以发现所有问题。通过Python代码片段、curl测试API及浏览器工具如Playwright、Rodney和Showboat进行手动测试，可发现遗漏问题、生成文档，并补充自动化测试，形成闭环。
+
 - (2026-03-06) [I don't know if my job will still exist in ten years](202603/2026-03-06-i-don%27t-know-if-my-job-will-still-exist-in-ten-years.md)
   - Tags: #read
   - Summary: 作者从乐观转向担忧，认为AI代理将取代软件工程师岗位，尤其初级和中级职位。他反驳需求增长会创造更多岗位的观点，指出AI能写代码并维护代码，导致工程师需求下降。最终，作者接受行业自动化浪潮波及自身，准备寻找新方向。

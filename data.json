@@ -10444,5 +10444,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Agentic manual testing - Agentic Engineering Patterns",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/",
+    "timestamp": 1772804240,
+    "tags": [
+      "read",
+      "agent",
+      "tips"
+    ]
   }
 ]

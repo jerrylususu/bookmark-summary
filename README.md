@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-06) [Agentic manual testing - Agentic Engineering Patterns](202603/2026-03-06-agentic-manual-testing---agentic-engineering-patterns.md)
+  - 文章强调在代理工程中手动测试的重要性，指出自动化测试不足以发现所有问题。通过Python代码片段、curl测试API及浏览器工具如Playwright、Rodney和Showboat进行手动测试，可发现遗漏问题、生成文档，并补充自动化测试，形成闭环。
+  - Tags: #read #agent #tips
+
 - (2026-03-06) [I don't know if my job will still exist in ten years](202603/2026-03-06-i-don%27t-know-if-my-job-will-still-exist-in-ten-years.md)
   - 作者从乐观转向担忧，认为AI代理将取代软件工程师岗位，尤其初级和中级职位。他反驳需求增长会创造更多岗位的观点，指出AI能写代码并维护代码，导致工程师需求下降。最终，作者接受行业自动化浪潮波及自身，准备寻找新方向。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 作者记录了使用Claude Opus 4.5进行编码的实验，发现其在复杂代码编写和遵循规则方面表现优异。通过多个项目测试，作者认为AI代理在拥有足够领域知识的情况下能有效辅助开发，但需谨慎使用并优化工作流程。
   - Tags: #read #agent #deepdive
 
-- (2026-03-01) [The most-seen UI on the Internet? Redesigning Turnstile and Challenge Pages](202603/2026-03-01-the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages.md)
-  - Cloudflare对Turnstile验证码进行了全面重新设计，通过统一信息架构、优化交互和遵循高可访问性标准，提升了全球用户体验。设计改进包括简化文本、减少负面色彩，并支持多语言布局。工程上采用Rust构建UI，确保安全与一致性。最终目标是提高完成率、减少放弃率和支持工单，证明良好设计与安全性可共存。
-  - Tags: #read #design
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (12 entries)
+- [2026-03](202603/monthly-index.md) (13 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
