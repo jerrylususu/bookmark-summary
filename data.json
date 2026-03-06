@@ -10521,5 +10521,15 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "2026 年，我把自己做成了一个 AI",
+    "url": "https://luolei.org/luolei-ai",
+    "timestamp": 1772808430,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]

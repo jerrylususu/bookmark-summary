@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-06) [2026 年，我把自己做成了一个 AI](2026-03-06-2026-%E5%B9%B4%EF%BC%8C%E6%88%91%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90%E4%BA%86%E4%B8%80%E4%B8%AA-ai.md)
+  - 作者罗磊于2026年构建AI数字分身，通过多模型画像和RAG对话技术管理知识，强调主动构建个人系统的重要性。
+  - Tags: #read #llm
+
 - (2026-03-06) [Cognitive Debt: When Velocity Exceeds Comprehension | rockoder](2026-03-06-cognitive-debt-when-velocity-exceeds-comprehension-rockoder.md)
   - AI辅助开发导致代码生成速度远超工程师理解速度，形成“认知债务”。组织过度关注产出指标而忽视理解深度，引发审查失效、知识流失和系统风险。需改革绩效评估，纳入理解深度以应对长期挑战。
   - Tags: #read #career

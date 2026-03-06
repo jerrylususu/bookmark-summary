@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-06) [2026 年，我把自己做成了一个 AI](202603/2026-03-06-2026-%E5%B9%B4%EF%BC%8C%E6%88%91%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90%E4%BA%86%E4%B8%80%E4%B8%AA-ai.md)
+  - 作者罗磊于2026年构建AI数字分身，通过多模型画像和RAG对话技术管理知识，强调主动构建个人系统的重要性。
+  - Tags: #read #llm
+
 - (2026-03-06) [Cognitive Debt: When Velocity Exceeds Comprehension | rockoder](202603/2026-03-06-cognitive-debt-when-velocity-exceeds-comprehension-rockoder.md)
   - AI辅助开发导致代码生成速度远超工程师理解速度，形成“认知债务”。组织过度关注产出指标而忽视理解深度，引发审查失效、知识流失和系统风险。需改革绩效评估，纳入理解深度以应对长期挑战。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 作者从乐观转向担忧，认为AI代理将取代软件工程师岗位，尤其初级和中级职位。他反驳需求增长会创造更多岗位的观点，指出AI能写代码并维护代码，导致工程师需求下降。最终，作者接受行业自动化浪潮波及自身，准备寻找新方向。
   - Tags: #read
 
-- (2026-03-05) [My Media Diet, Redux](202603/2026-03-05-my-media-diet%2C-redux.md)
-  - 作者在2026年反思信息消费习惯，受环境与认知变化影响，从偏重实用转向接纳虚构与感性，语言上双语并重，载体上灵活利用各类平台。核心是应对优质信息稀缺，依靠判断力进行策展，保持警觉以锻炼心智。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (20 entries)
+- [2026-03](202603/monthly-index.md) (21 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
