@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-06) [Disable Your SSH Access With This One Simple Trick](202603/2026-03-06-disable-your-ssh-access-with-this-one-simple-trick.md)
+  - 作者使用 scp 传输目录后，因目标目录权限被设为 777，导致 SSH 登录失败。原因是 OpenSSH 安全策略拒绝过宽权限。将权限恢复为 700 后问题解决，该问题已在后续版本修复。
+  - Tags: #read #tips
+
 - (2026-03-06) [2026 年，我把自己做成了一个 AI](202603/2026-03-06-2026-%E5%B9%B4%EF%BC%8C%E6%88%91%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90%E4%BA%86%E4%B8%80%E4%B8%AA-ai.md)
   - 作者罗磊于2026年构建AI数字分身，通过多模型画像和RAG对话技术管理知识，强调主动构建个人系统的重要性。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 文章强调在代理工程中手动测试的重要性，指出自动化测试不足以发现所有问题。通过Python代码片段、curl测试API及浏览器工具如Playwright、Rodney和Showboat进行手动测试，可发现遗漏问题、生成文档，并补充自动化测试，形成闭环。
   - Tags: #read #agent #tips
 
-- (2026-03-06) [I don't know if my job will still exist in ten years](202603/2026-03-06-i-don%27t-know-if-my-job-will-still-exist-in-ten-years.md)
-  - 作者从乐观转向担忧，认为AI代理将取代软件工程师岗位，尤其初级和中级职位。他反驳需求增长会创造更多岗位的观点，指出AI能写代码并维护代码，导致工程师需求下降。最终，作者接受行业自动化浪潮波及自身，准备寻找新方向。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (21 entries)
+- [2026-03](202603/monthly-index.md) (22 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

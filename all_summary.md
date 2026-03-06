@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-06) [Disable Your SSH Access With This One Simple Trick](202603/2026-03-06-disable-your-ssh-access-with-this-one-simple-trick.md)
+  - Tags: #read #tips
+  - Summary: 作者使用 scp 传输目录后，因目标目录权限被设为 777，导致 SSH 登录失败。原因是 OpenSSH 安全策略拒绝过宽权限。将权限恢复为 700 后问题解决，该问题已在后续版本修复。
+
 - (2026-03-06) [2026 年，我把自己做成了一个 AI](202603/2026-03-06-2026-%E5%B9%B4%EF%BC%8C%E6%88%91%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90%E4%BA%86%E4%B8%80%E4%B8%AA-ai.md)
   - Tags: #read #llm
   - Summary: 作者罗磊于2026年构建AI数字分身，通过多模型画像和RAG对话技术管理知识，强调主动构建个人系统的重要性。

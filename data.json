@@ -10531,5 +10531,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Disable Your SSH Access With This One Simple Trick",
+    "url": "https://sny.sh/hypha/blog/scp",
+    "timestamp": 1772808828,
+    "tags": [
+      "read",
+      "tips"
+    ]
   }
 ]
