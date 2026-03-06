@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-06) [你大概不会想用 LLM 做数据分析](202603/2026-03-06-%E4%BD%A0%E5%A4%A7%E6%A6%82%E4%B8%8D%E4%BC%9A%E6%83%B3%E7%94%A8-llm-%E5%81%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.md)
+  - 该文指出LLM因训练数据含统计错误且缺乏推理能力，在数据分析中易产生误导结果，强调需懂统计原理并亲自验证，仅在可视化等辅助场景谨慎使用。
+  - Tags: #read #llm
+
 - (2026-03-06) [Can coding agents relicense open source through a “clean room” implementation of code?](202603/2026-03-06-can-coding-agents-relicense-open-source-through-a-%E2%80%9Cclean-room%E2%80%9D-implementation-of-code.md)
   - 文章以chardet库为例，探讨AI辅助的“洁净室”重写是否合规。Dan用Claude重写代码并改用MIT许可证，但原作者质疑其合法性。争议焦点在于AI是否真正独立，反映了开源领域AI辅助编程的法律与伦理挑战。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章探讨了作者在AI编程工具中遇到的上下文窗口消耗问题，并聚焦于轻量级编码代理引擎“Pi”。Pi通过极简设计（如精简工具集和短系统提示）显著提升了上下文效率，证明了小型、可定制工具的潜力，为AI工具的未来提供了回归本质的思考。
   - Tags: #read #agent
 
-- (2026-03-01) [Rolling your own serverless OCR in 40 lines of code | Christopher Krapu](202603/2026-03-01-rolling-your-own-serverless-ocr-in-40-lines-of-code-christopher-krapu.md)
-  - 本文介绍了如何利用 Modal 无服务器平台和 DeepSeek OCR 模型，在 40 行代码内构建一个高效的 OCR 系统。该方案能将 PDF 教科书转换为可搜索的 Markdown 文本，通过云端 GPU 并行处理，实现了低成本（约 2 美元处理 600 页）且高质量的数学公式识别。
-  - Tags: #read #guide
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (15 entries)
+- [2026-03](202603/monthly-index.md) (16 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

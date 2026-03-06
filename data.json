@@ -10474,5 +10474,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "你大概不会想用 LLM 做数据分析",
+    "url": "https://roriri.one/2026/03/05/llm-stat",
+    "timestamp": 1772806703,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
