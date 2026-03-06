@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-06) [AI And The Ship of Theseus](202603/2026-03-06-ai-and-the-ship-of-theseus.md)
+  - 本文以“特修斯之船”为喻，探讨AI生成代码通过重写绕过GPL等版权许可的法律与道德问题。作者以chardet库为例，分析AI生成代码的版权归属及许可冲突，认为代码生成成本降低将推动软件以更宽松许可重现，但可能引发“垃圾分叉”和法律纠纷。总体持乐观态度，主张开放共享优于许可限制，同时承认这将加剧AI与许可领域的冲突。
+  - Tags: #read
+
 - (2026-03-06) [你大概不会想用 LLM 做数据分析](202603/2026-03-06-%E4%BD%A0%E5%A4%A7%E6%A6%82%E4%B8%8D%E4%BC%9A%E6%83%B3%E7%94%A8-llm-%E5%81%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.md)
   - 该文指出LLM因训练数据含统计错误且缺乏推理能力，在数据分析中易产生误导结果，强调需懂统计原理并亲自验证，仅在可视化等辅助场景谨慎使用。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - Google API密钥安全模型变化导致风险：原本用于公共服务的密钥被静默赋予访问敏感Gemini端点的能力，可能引发数据泄露和费用激增。建议开发者检查并审计密钥，避免公开暴露。
   - Tags: #read #security
 
-- (2026-03-01) [The Engine Behind the Hype](202603/2026-03-01-the-engine-behind-the-hype.md)
-  - 文章探讨了作者在AI编程工具中遇到的上下文窗口消耗问题，并聚焦于轻量级编码代理引擎“Pi”。Pi通过极简设计（如精简工具集和短系统提示）显著提升了上下文效率，证明了小型、可定制工具的潜力，为AI工具的未来提供了回归本质的思考。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (16 entries)
+- [2026-03](202603/monthly-index.md) (17 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

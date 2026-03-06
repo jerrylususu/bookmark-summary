@@ -10484,5 +10484,14 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "AI And The Ship of Theseus",
+    "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
+    "timestamp": 1772806830,
+    "tags": [
+      "read"
+    ]
   }
 ]
