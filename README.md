@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-06) [QRTape | Audio Playback from Paper Tape with Computer Vision](202603/2026-03-06-qrtape-audio-playback-from-paper-tape-with-computer-vision.md)
+  - QRTape 是一个利用二维码将音频编码打印在纸带上，通过摄像头和软件解码播放的低成本音频存储方案，结合计算机视觉与音频压缩技术，展示了纸质介质存储数据的创新可行性。
+  - Tags: #read
+
 - (2026-03-06) [AI And The Ship of Theseus](202603/2026-03-06-ai-and-the-ship-of-theseus.md)
   - 本文以“特修斯之船”为喻，探讨AI生成代码通过重写绕过GPL等版权许可的法律与道德问题。作者以chardet库为例，分析AI生成代码的版权归属及许可冲突，认为代码生成成本降低将推动软件以更宽松许可重现，但可能引发“垃圾分叉”和法律纠纷。总体持乐观态度，主张开放共享优于许可限制，同时承认这将加剧AI与许可领域的冲突。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 该错误源于请求参数验证失败，系统无法解析域名“stop-using-chatgpt.html”，通常因域名格式无效或无法识别。错误代码40001提示用户检查URL格式是否符合标准。
   - Tags: #read #agent
 
-- (2026-03-01) [Google API Keys Weren't Secrets. But then Gemini Changed the Rules. ◆ Truffle Security Co.](202603/2026-03-01-google-api-keys-weren%27t-secrets.-but-then-gemini-changed-the-rules.-%E2%97%86-truffle-security-co..md)
-  - Google API密钥安全模型变化导致风险：原本用于公共服务的密钥被静默赋予访问敏感Gemini端点的能力，可能引发数据泄露和费用激增。建议开发者检查并审计密钥，避免公开暴露。
-  - Tags: #read #security
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (17 entries)
+- [2026-03](202603/monthly-index.md) (18 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

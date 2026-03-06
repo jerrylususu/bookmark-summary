@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-06) [QRTape | Audio Playback from Paper Tape with Computer Vision](202603/2026-03-06-qrtape-audio-playback-from-paper-tape-with-computer-vision.md)
+  - Tags: #read
+  - Summary: QRTape 是一个利用二维码将音频编码打印在纸带上，通过摄像头和软件解码播放的低成本音频存储方案，结合计算机视觉与音频压缩技术，展示了纸质介质存储数据的创新可行性。
+
 - (2026-03-06) [AI And The Ship of Theseus](202603/2026-03-06-ai-and-the-ship-of-theseus.md)
   - Tags: #read
   - Summary: 本文以“特修斯之船”为喻，探讨AI生成代码通过重写绕过GPL等版权许可的法律与道德问题。作者以chardet库为例，分析AI生成代码的版权归属及许可冲突，认为代码生成成本降低将推动软件以更宽松许可重现，但可能引发“垃圾分叉”和法律纠纷。总体持乐观态度，主张开放共享优于许可限制，同时承认这将加剧AI与许可领域的冲突。
