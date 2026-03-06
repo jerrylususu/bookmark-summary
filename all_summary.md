@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-06) [AI=true is an Anti-Pattern](202603/2026-03-06-ai%3Dtrue-is-an-anti-pattern.md)
+  - Tags: #read
+  - Summary: 文章批评了编程中针对AI设计文档、工具和工作流的反模式，主张统一接口与通用设计，以兼顾人类与AI，提升协作效率和互操作性。
+
 - (2026-03-06) [QRTape | Audio Playback from Paper Tape with Computer Vision](202603/2026-03-06-qrtape-audio-playback-from-paper-tape-with-computer-vision.md)
   - Tags: #read
   - Summary: QRTape 是一个利用二维码将音频编码打印在纸带上，通过摄像头和软件解码播放的低成本音频存储方案，结合计算机视觉与音频压缩技术，展示了纸质介质存储数据的创新可行性。

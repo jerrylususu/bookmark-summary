@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-06) [AI=true is an Anti-Pattern](202603/2026-03-06-ai%3Dtrue-is-an-anti-pattern.md)
+  - 文章批评了编程中针对AI设计文档、工具和工作流的反模式，主张统一接口与通用设计，以兼顾人类与AI，提升协作效率和互操作性。
+  - Tags: #read
+
 - (2026-03-06) [QRTape | Audio Playback from Paper Tape with Computer Vision](202603/2026-03-06-qrtape-audio-playback-from-paper-tape-with-computer-vision.md)
   - QRTape 是一个利用二维码将音频编码打印在纸带上，通过摄像头和软件解码播放的低成本音频存储方案，结合计算机视觉与音频压缩技术，展示了纸质介质存储数据的创新可行性。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 作者利用Claude Code代理工具，基于Gifsicle构建了支持拖拽上传、参数调整和预览下载的GIF优化网页应用。通过自然语言提示高效完成开发、测试与集成，展示了AI代理在复杂任务中的实用性。
   - Tags: #read #agent
 
-- (2026-03-03) [用好AI的第一步：停止使用ChatGPT](202603/2026-03-03-%E7%94%A8%E5%A5%BDai%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%9A%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8chatgpt.md)
-  - 该错误源于请求参数验证失败，系统无法解析域名“stop-using-chatgpt.html”，通常因域名格式无效或无法识别。错误代码40001提示用户检查URL格式是否符合标准。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (18 entries)
+- [2026-03](202603/monthly-index.md) (19 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
