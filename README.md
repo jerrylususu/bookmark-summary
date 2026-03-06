@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-06) [Can coding agents relicense open source through a “clean room” implementation of code?](202603/2026-03-06-can-coding-agents-relicense-open-source-through-a-%E2%80%9Cclean-room%E2%80%9D-implementation-of-code.md)
+  - 文章以chardet库为例，探讨AI辅助的“洁净室”重写是否合规。Dan用Claude重写代码并改用MIT许可证，但原作者质疑其合法性。争议焦点在于AI是否真正独立，反映了开源领域AI辅助编程的法律与伦理挑战。
+  - Tags: #read
+
 - (2026-03-06) [Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager | Adnan Khan - Security Research](202603/2026-03-06-clinejection-%E2%80%94-compromising-cline%27s-production-releases-just-by-prompting-an-issue-triager-adnan-khan---security-research.md)
   - Cline 工具因 AI 代理提示注入漏洞被利用，攻击者通过缓存污染窃取发布凭证，导致恶意版本发布。影响数百万开发者，团队已修复并加强安全措施。
   - Tags: #read #security
@@ -39,13 +43,9 @@
   - 本文介绍了如何利用 Modal 无服务器平台和 DeepSeek OCR 模型，在 40 行代码内构建一个高效的 OCR 系统。该方案能将 PDF 教科书转换为可搜索的 Markdown 文本，通过云端 GPU 并行处理，实现了低成本（约 2 美元处理 600 页）且高质量的数学公式识别。
   - Tags: #read #guide
 
-- (2026-03-01) [Whale Fall](202603/2026-03-01-whale-fall.md)
-  - 文章以“鲸落”比喻开源项目消亡后的生态演变，指出项目停止维护后，其代码、协议和接口会像鲸鱼尸体一样沉入底层，为后续创新提供养分。核心过程包括初期腐食（社区分叉形成新项目）、中期富集（协议和API催生新工具）和长期化学合成（底层结构成为跨生态基础设施）。关键模式涉及连续再殖民、许可证变更引发的生态重组，以及系统性案例（如Sun Microsystems项目）。现状反思指出，企业收购或云平台整合导致“浅水死亡”，减少鲸落率，可能削弱生态多样性。结论强调，健康的开源生态依赖鲸落效应滋养创新，但当前整合趋势需关注。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (14 entries)
+- [2026-03](202603/monthly-index.md) (15 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-06) [Can coding agents relicense open source through a “clean room” implementation of code?](202603/2026-03-06-can-coding-agents-relicense-open-source-through-a-%E2%80%9Cclean-room%E2%80%9D-implementation-of-code.md)
+  - Tags: #read
+  - Summary: 文章以chardet库为例，探讨AI辅助的“洁净室”重写是否合规。Dan用Claude重写代码并改用MIT许可证，但原作者质疑其合法性。争议焦点在于AI是否真正独立，反映了开源领域AI辅助编程的法律与伦理挑战。
+
 - (2026-03-06) [Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager | Adnan Khan - Security Research](202603/2026-03-06-clinejection-%E2%80%94-compromising-cline%27s-production-releases-just-by-prompting-an-issue-triager-adnan-khan---security-research.md)
   - Tags: #read #security
   - Summary: Cline 工具因 AI 代理提示注入漏洞被利用，攻击者通过缓存污染窃取发布凭证，导致恶意版本发布。影响数百万开发者，团队已修复并加强安全措施。

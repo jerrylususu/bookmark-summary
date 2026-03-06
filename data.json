@@ -10465,5 +10465,14 @@
       "read",
       "security"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Can coding agents relicense open source through a “clean room” implementation of code?",
+    "url": "https://simonwillison.net/2026/Mar/5/chardet/",
+    "timestamp": 1772805961,
+    "tags": [
+      "read"
+    ]
   }
 ]
