@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-06) [Cognitive Debt: When Velocity Exceeds Comprehension | rockoder](2026-03-06-cognitive-debt-when-velocity-exceeds-comprehension-rockoder.md)
+  - AI辅助开发导致代码生成速度远超工程师理解速度，形成“认知债务”。组织过度关注产出指标而忽视理解深度，引发审查失效、知识流失和系统风险。需改革绩效评估，纳入理解深度以应对长期挑战。
+  - Tags: #read #career
+
 - (2026-03-06) [AI=true is an Anti-Pattern](2026-03-06-ai%3Dtrue-is-an-anti-pattern.md)
   - 文章批评了编程中针对AI设计文档、工具和工作流的反模式，主张统一接口与通用设计，以兼顾人类与AI，提升协作效率和互操作性。
   - Tags: #read

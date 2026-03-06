@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-06) [Cognitive Debt: When Velocity Exceeds Comprehension | rockoder](202603/2026-03-06-cognitive-debt-when-velocity-exceeds-comprehension-rockoder.md)
+  - AI辅助开发导致代码生成速度远超工程师理解速度，形成“认知债务”。组织过度关注产出指标而忽视理解深度，引发审查失效、知识流失和系统风险。需改革绩效评估，纳入理解深度以应对长期挑战。
+  - Tags: #read #career
+
 - (2026-03-06) [AI=true is an Anti-Pattern](202603/2026-03-06-ai%3Dtrue-is-an-anti-pattern.md)
   - 文章批评了编程中针对AI设计文档、工具和工作流的反模式，主张统一接口与通用设计，以兼顾人类与AI，提升协作效率和互操作性。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 作者在2026年反思信息消费习惯，受环境与认知变化影响，从偏重实用转向接纳虚构与感性，语言上双语并重，载体上灵活利用各类平台。核心是应对优质信息稀缺，依靠判断力进行策展，保持警觉以锻炼心智。
   - Tags: #read
 
-- (2026-03-03) [GIF optimization tool using WebAssembly and Gifsicle - Agentic Engineering Patterns](202603/2026-03-03-gif-optimization-tool-using-webassembly-and-gifsicle---agentic-engineering-patterns.md)
-  - 作者利用Claude Code代理工具，基于Gifsicle构建了支持拖拽上传、参数调整和预览下载的GIF优化网页应用。通过自然语言提示高效完成开发、测试与集成，展示了AI代理在复杂任务中的实用性。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (19 entries)
+- [2026-03](202603/monthly-index.md) (20 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
