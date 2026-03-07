@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-07) [Avoiding a Culture of Emergencies](202603/2026-03-07-avoiding-a-culture-of-emergencies.md)
+  - Tags: #read #career
+  - Summary: 优秀管理者通过深入了解业务、明确重点、前瞻布局和关怀团队，有效减少可预防的紧急事件，提升工作效率与成员幸福感，增强人才留存。
+
 - (2026-03-06) [Disable Your SSH Access With This One Simple Trick](202603/2026-03-06-disable-your-ssh-access-with-this-one-simple-trick.md)
   - Tags: #read #tips
   - Summary: 作者使用 scp 传输目录后，因目标目录权限被设为 777，导致 SSH 登录失败。原因是 OpenSSH 安全策略拒绝过宽权限。将权限恢复为 700 后问题解决，该问题已在后续版本修复。

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-07) [Avoiding a Culture of Emergencies](202603/2026-03-07-avoiding-a-culture-of-emergencies.md)
+  - 优秀管理者通过深入了解业务、明确重点、前瞻布局和关怀团队，有效减少可预防的紧急事件，提升工作效率与成员幸福感，增强人才留存。
+  - Tags: #read #career
+
 - (2026-03-06) [Disable Your SSH Access With This One Simple Trick](202603/2026-03-06-disable-your-ssh-access-with-this-one-simple-trick.md)
   - 作者使用 scp 传输目录后，因目标目录权限被设为 777，导致 SSH 登录失败。原因是 OpenSSH 安全策略拒绝过宽权限。将权限恢复为 700 后问题解决，该问题已在后续版本修复。
   - Tags: #read #tips
@@ -39,13 +43,9 @@
   - Cline 工具因 AI 代理提示注入漏洞被利用，攻击者通过缓存污染窃取发布凭证，导致恶意版本发布。影响数百万开发者，团队已修复并加强安全措施。
   - Tags: #read #security
 
-- (2026-03-06) [Agentic manual testing - Agentic Engineering Patterns](202603/2026-03-06-agentic-manual-testing---agentic-engineering-patterns.md)
-  - 文章强调在代理工程中手动测试的重要性，指出自动化测试不足以发现所有问题。通过Python代码片段、curl测试API及浏览器工具如Playwright、Rodney和Showboat进行手动测试，可发现遗漏问题、生成文档，并补充自动化测试，形成闭环。
-  - Tags: #read #agent #tips
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (22 entries)
+- [2026-03](202603/monthly-index.md) (23 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
