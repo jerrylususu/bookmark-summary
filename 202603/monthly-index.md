@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-08) [The MCP Abstraction Tax](2026-03-08-the-mcp-abstraction-tax.md)
+  - 本文提出了AI代理与API交互中的“抽象税”概念，指出每个抽象层会降低保真度并可能损害上下文。通过对比MCP和CLI路径，作者强调应根据场景权衡迭代速度与上下文管理，并非竞争关系。
+  - Tags: #read #agent
+
 - (2026-03-08) [You Need to Rewrite Your CLI for AI Agents](2026-03-08-you-need-to-rewrite-your-cli-for-ai-agents.md)
   - 文章提出，AI代理的CLI需重构以优化可预测性与安全性，包括转向JSON载荷、实时模式查询、上下文限制、输入验证、技能封装等，并建议增量实施。
   - Tags: #read #agent #deepdive

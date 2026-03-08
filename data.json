@@ -10562,5 +10562,15 @@
       "agent",
       "deepdive"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "The MCP Abstraction Tax",
+    "url": "https://justin.poehnelt.com/posts/mcp-abstraction-tax/",
+    "timestamp": 1772986387,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

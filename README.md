@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-08) [The MCP Abstraction Tax](202603/2026-03-08-the-mcp-abstraction-tax.md)
+  - 本文提出了AI代理与API交互中的“抽象税”概念，指出每个抽象层会降低保真度并可能损害上下文。通过对比MCP和CLI路径，作者强调应根据场景权衡迭代速度与上下文管理，并非竞争关系。
+  - Tags: #read #agent
+
 - (2026-03-08) [You Need to Rewrite Your CLI for AI Agents](202603/2026-03-08-you-need-to-rewrite-your-cli-for-ai-agents.md)
   - 文章提出，AI代理的CLI需重构以优化可预测性与安全性，包括转向JSON载荷、实时模式查询、上下文限制、输入验证、技能封装等，并建议增量实施。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - 该文指出LLM因训练数据含统计错误且缺乏推理能力，在数据分析中易产生误导结果，强调需懂统计原理并亲自验证，仅在可视化等辅助场景谨慎使用。
   - Tags: #read #llm
 
-- (2026-03-06) [Can coding agents relicense open source through a “clean room” implementation of code?](202603/2026-03-06-can-coding-agents-relicense-open-source-through-a-%E2%80%9Cclean-room%E2%80%9D-implementation-of-code.md)
-  - 文章以chardet库为例，探讨AI辅助的“洁净室”重写是否合规。Dan用Claude重写代码并改用MIT许可证，但原作者质疑其合法性。争议焦点在于AI是否真正独立，反映了开源领域AI辅助编程的法律与伦理挑战。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (24 entries)
+- [2026-03](202603/monthly-index.md) (25 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
