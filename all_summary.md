@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-08) [You Need to Rewrite Your CLI for AI Agents](202603/2026-03-08-you-need-to-rewrite-your-cli-for-ai-agents.md)
+  - Tags: #read #agent #deepdive
+  - Summary: 文章提出，AI代理的CLI需重构以优化可预测性与安全性，包括转向JSON载荷、实时模式查询、上下文限制、输入验证、技能封装等，并建议增量实施。
+
 - (2026-03-07) [Avoiding a Culture of Emergencies](202603/2026-03-07-avoiding-a-culture-of-emergencies.md)
   - Tags: #read #career
   - Summary: 优秀管理者通过深入了解业务、明确重点、前瞻布局和关怀团队，有效减少可预防的紧急事件，提升工作效率与成员幸福感，增强人才留存。

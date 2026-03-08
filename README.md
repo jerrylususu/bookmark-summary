@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-08) [You Need to Rewrite Your CLI for AI Agents](202603/2026-03-08-you-need-to-rewrite-your-cli-for-ai-agents.md)
+  - 文章提出，AI代理的CLI需重构以优化可预测性与安全性，包括转向JSON载荷、实时模式查询、上下文限制、输入验证、技能封装等，并建议增量实施。
+  - Tags: #read #agent #deepdive
+
 - (2026-03-07) [Avoiding a Culture of Emergencies](202603/2026-03-07-avoiding-a-culture-of-emergencies.md)
   - 优秀管理者通过深入了解业务、明确重点、前瞻布局和关怀团队，有效减少可预防的紧急事件，提升工作效率与成员幸福感，增强人才留存。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 文章以chardet库为例，探讨AI辅助的“洁净室”重写是否合规。Dan用Claude重写代码并改用MIT许可证，但原作者质疑其合法性。争议焦点在于AI是否真正独立，反映了开源领域AI辅助编程的法律与伦理挑战。
   - Tags: #read
 
-- (2026-03-06) [Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager | Adnan Khan - Security Research](202603/2026-03-06-clinejection-%E2%80%94-compromising-cline%27s-production-releases-just-by-prompting-an-issue-triager-adnan-khan---security-research.md)
-  - Cline 工具因 AI 代理提示注入漏洞被利用，攻击者通过缓存污染窃取发布凭证，导致恶意版本发布。影响数百万开发者，团队已修复并加强安全措施。
-  - Tags: #read #security
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (23 entries)
+- [2026-03](202603/monthly-index.md) (24 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

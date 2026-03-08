@@ -10551,5 +10551,16 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "You Need to Rewrite Your CLI for AI Agents",
+    "url": "https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/",
+    "timestamp": 1772986000,
+    "tags": [
+      "read",
+      "agent",
+      "deepdive"
+    ]
   }
 ]
