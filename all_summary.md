@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-09) [GNU and the AI reimplementations - <antirez>](202603/2026-03-09-gnu-and-the-ai-reimplementations---antirez.md)
+  - Tags: #read
+  - Summary: 本文探讨了AI重写软件的合法性，将其与GNU重写UNIX类比，强调不复制代码结构的重写合法且有益。文章呼吁拥抱AI变革，视之为推动开源与软件演进的机会。
+
 - (2026-03-08) [The MCP Abstraction Tax](202603/2026-03-08-the-mcp-abstraction-tax.md)
   - Tags: #read #agent
   - Summary: 本文提出了AI代理与API交互中的“抽象税”概念，指出每个抽象层会降低保真度并可能损害上下文。通过对比MCP和CLI路径，作者强调应根据场景权衡迭代速度与上下文管理，并非竞争关系。

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-09) [GNU and the AI reimplementations - <antirez>](202603/2026-03-09-gnu-and-the-ai-reimplementations---antirez.md)
+  - 本文探讨了AI重写软件的合法性，将其与GNU重写UNIX类比，强调不复制代码结构的重写合法且有益。文章呼吁拥抱AI变革，视之为推动开源与软件演进的机会。
+  - Tags: #read
+
 - (2026-03-08) [The MCP Abstraction Tax](202603/2026-03-08-the-mcp-abstraction-tax.md)
   - 本文提出了AI代理与API交互中的“抽象税”概念，指出每个抽象层会降低保真度并可能损害上下文。通过对比MCP和CLI路径，作者强调应根据场景权衡迭代速度与上下文管理，并非竞争关系。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文以“特修斯之船”为喻，探讨AI生成代码通过重写绕过GPL等版权许可的法律与道德问题。作者以chardet库为例，分析AI生成代码的版权归属及许可冲突，认为代码生成成本降低将推动软件以更宽松许可重现，但可能引发“垃圾分叉”和法律纠纷。总体持乐观态度，主张开放共享优于许可限制，同时承认这将加剧AI与许可领域的冲突。
   - Tags: #read
 
-- (2026-03-06) [你大概不会想用 LLM 做数据分析](202603/2026-03-06-%E4%BD%A0%E5%A4%A7%E6%A6%82%E4%B8%8D%E4%BC%9A%E6%83%B3%E7%94%A8-llm-%E5%81%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.md)
-  - 该文指出LLM因训练数据含统计错误且缺乏推理能力，在数据分析中易产生误导结果，强调需懂统计原理并亲自验证，仅在可视化等辅助场景谨慎使用。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (25 entries)
+- [2026-03](202603/monthly-index.md) (26 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
