@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-09) [How I Dropped Our Production Database and Now Pay 10% More for AWS](2026-03-09-how-i-dropped-our-production-database-and-now-pay-10%25-more-for-aws.md)
+  - 作者因误用Terraform和AI代理导致生产数据库被删，经24小时恢复后，实施状态管理S3化、双重删除保护、独立备份及AI权限限制等措施，承诺未来加强操作隔离。
+  - Tags: #read
+
 - (2026-03-09) [GNU and the AI reimplementations - <antirez>](2026-03-09-gnu-and-the-ai-reimplementations---antirez.md)
   - 本文探讨了AI重写软件的合法性，将其与GNU重写UNIX类比，强调不复制代码结构的重写合法且有益。文章呼吁拥抱AI变革，视之为推动开源与软件演进的机会。
   - Tags: #read

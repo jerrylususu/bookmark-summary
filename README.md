@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-09) [How I Dropped Our Production Database and Now Pay 10% More for AWS](202603/2026-03-09-how-i-dropped-our-production-database-and-now-pay-10%25-more-for-aws.md)
+  - 作者因误用Terraform和AI代理导致生产数据库被删，经24小时恢复后，实施状态管理S3化、双重删除保护、独立备份及AI权限限制等措施，承诺未来加强操作隔离。
+  - Tags: #read
+
 - (2026-03-09) [GNU and the AI reimplementations - <antirez>](202603/2026-03-09-gnu-and-the-ai-reimplementations---antirez.md)
   - 本文探讨了AI重写软件的合法性，将其与GNU重写UNIX类比，强调不复制代码结构的重写合法且有益。文章呼吁拥抱AI变革，视之为推动开源与软件演进的机会。
   - Tags: #read
@@ -39,13 +43,9 @@
   - QRTape 是一个利用二维码将音频编码打印在纸带上，通过摄像头和软件解码播放的低成本音频存储方案，结合计算机视觉与音频压缩技术，展示了纸质介质存储数据的创新可行性。
   - Tags: #read
 
-- (2026-03-06) [AI And The Ship of Theseus](202603/2026-03-06-ai-and-the-ship-of-theseus.md)
-  - 本文以“特修斯之船”为喻，探讨AI生成代码通过重写绕过GPL等版权许可的法律与道德问题。作者以chardet库为例，分析AI生成代码的版权归属及许可冲突，认为代码生成成本降低将推动软件以更宽松许可重现，但可能引发“垃圾分叉”和法律纠纷。总体持乐观态度，主张开放共享优于许可限制，同时承认这将加剧AI与许可领域的冲突。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (26 entries)
+- [2026-03](202603/monthly-index.md) (27 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

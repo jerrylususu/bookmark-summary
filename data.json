@@ -10581,5 +10581,14 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "How I Dropped Our Production Database and Now Pay 10% More for AWS",
+    "url": "https://alexeyondata.substack.com/p/how-i-dropped-our-production-database",
+    "timestamp": 1773067513,
+    "tags": [
+      "read"
+    ]
   }
 ]
