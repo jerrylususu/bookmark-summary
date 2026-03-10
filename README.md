@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-10) [年度征文｜「你是专家」这句话，到底是在帮 AI 还是在害你？ - 少数派](202603/2026-03-10-%E5%B9%B4%E5%BA%A6%E5%BE%81%E6%96%87%EF%BD%9C%E3%80%8C%E4%BD%A0%E6%98%AF%E4%B8%93%E5%AE%B6%E3%80%8D%E8%BF%99%E5%8F%A5%E8%AF%9D%EF%BC%8C%E5%88%B0%E5%BA%95%E6%98%AF%E5%9C%A8%E5%B8%AE-ai-%E8%BF%98%E6%98%AF%E5%9C%A8%E5%AE%B3%E4%BD%A0%EF%BC%9F---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
+  - 本文通过实验验证了AI提示词中“身份设定”和“情感措辞”的效果：身份设定可调节输出风格但无法提升准确性，情感措辞能激励AI更用心但不会改变事实判断。核心结论是，AI的准确性取决于底层推理能力，处理事实任务时应优先选择支持推理的模型。
+  - Tags: #read #llm
+
 - (2026-03-10) [Package managers keep using git as a database, it never works out](202603/2026-03-10-package-managers-keep-using-git-as-a-database%2C-it-never-works-out.md)
   - 多个包管理器曾尝试用 Git 存储索引，但因性能、可扩展性等问题逐步转向 HTTP 或数据库方案。Git 更适合代码协作，而非包注册表的数据存储。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 作者罗磊于2026年构建AI数字分身，通过多模型画像和RAG对话技术管理知识，强调主动构建个人系统的重要性。
   - Tags: #read #llm
 
-- (2026-03-06) [Cognitive Debt: When Velocity Exceeds Comprehension | rockoder](202603/2026-03-06-cognitive-debt-when-velocity-exceeds-comprehension-rockoder.md)
-  - AI辅助开发导致代码生成速度远超工程师理解速度，形成“认知债务”。组织过度关注产出指标而忽视理解深度，引发审查失效、知识流失和系统风险。需改革绩效评估，纳入理解深度以应对长期挑战。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (29 entries)
+- [2026-03](202603/monthly-index.md) (30 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
