@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-10) [Production query plans without production data](202603/2026-03-10-production-query-plans-without-production-data.md)
+  - Tags: #read #database
+  - Summary: PostgreSQL 18 引入便携式优化器统计信息功能，通过 `pg_restore_relation_stats` 和 `pg_restore_attribute_stats` 函数，允许在测试环境中注入生产级统计信息，从而在不需要实际数据的情况下模拟真实查询计划，提升CI/CD测试与本地调试效率。
+
 - (2026-03-09) [How I Dropped Our Production Database and Now Pay 10% More for AWS](202603/2026-03-09-how-i-dropped-our-production-database-and-now-pay-10%25-more-for-aws.md)
   - Tags: #read
   - Summary: 作者因误用Terraform和AI代理导致生产数据库被删，经24小时恢复后，实施状态管理S3化、双重删除保护、独立备份及AI权限限制等措施，承诺未来加强操作隔离。

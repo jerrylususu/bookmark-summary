@@ -10590,5 +10590,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Production query plans without production data",
+    "url": "https://boringsql.com/posts/portable-stats/",
+    "timestamp": 1773150368,
+    "tags": [
+      "read",
+      "database"
+    ]
   }
 ]

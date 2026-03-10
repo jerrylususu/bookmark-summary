@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-10) [Production query plans without production data](202603/2026-03-10-production-query-plans-without-production-data.md)
+  - PostgreSQL 18 引入便携式优化器统计信息功能，通过 `pg_restore_relation_stats` 和 `pg_restore_attribute_stats` 函数，允许在测试环境中注入生产级统计信息，从而在不需要实际数据的情况下模拟真实查询计划，提升CI/CD测试与本地调试效率。
+  - Tags: #read #database
+
 - (2026-03-09) [How I Dropped Our Production Database and Now Pay 10% More for AWS](202603/2026-03-09-how-i-dropped-our-production-database-and-now-pay-10%25-more-for-aws.md)
   - 作者因误用Terraform和AI代理导致生产数据库被删，经24小时恢复后，实施状态管理S3化、双重删除保护、独立备份及AI权限限制等措施，承诺未来加强操作隔离。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章批评了编程中针对AI设计文档、工具和工作流的反模式，主张统一接口与通用设计，以兼顾人类与AI，提升协作效率和互操作性。
   - Tags: #read
 
-- (2026-03-06) [QRTape | Audio Playback from Paper Tape with Computer Vision](202603/2026-03-06-qrtape-audio-playback-from-paper-tape-with-computer-vision.md)
-  - QRTape 是一个利用二维码将音频编码打印在纸带上，通过摄像头和软件解码播放的低成本音频存储方案，结合计算机视觉与音频压缩技术，展示了纸质介质存储数据的创新可行性。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (27 entries)
+- [2026-03](202603/monthly-index.md) (28 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
