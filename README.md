@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-10) [Package managers keep using git as a database, it never works out](202603/2026-03-10-package-managers-keep-using-git-as-a-database%2C-it-never-works-out.md)
+  - 多个包管理器曾尝试用 Git 存储索引，但因性能、可扩展性等问题逐步转向 HTTP 或数据库方案。Git 更适合代码协作，而非包注册表的数据存储。
+  - Tags: #read
+
 - (2026-03-10) [Production query plans without production data](202603/2026-03-10-production-query-plans-without-production-data.md)
-  - PostgreSQL 18 引入便携式优化器统计信息功能，通过 `pg_restore_relation_stats` 和 `pg_restore_attribute_stats` 函数，允许在测试环境中注入生产级统计信息，从而在不需要实际数据的情况下模拟真实查询计划，提升CI/CD测试与本地调试效率。
+  - PostgreSQL 18 引入便携式优化器统计信息功能，通过  和  函数，允许在测试环境中注入生产级统计信息，从而在不需要实际数据的情况下模拟真实查询计划，提升CI/CD测试与本地调试效率。
   - Tags: #read #database
 
 - (2026-03-09) [How I Dropped Our Production Database and Now Pay 10% More for AWS](202603/2026-03-09-how-i-dropped-our-production-database-and-now-pay-10%25-more-for-aws.md)
@@ -39,13 +43,9 @@
   - AI辅助开发导致代码生成速度远超工程师理解速度，形成“认知债务”。组织过度关注产出指标而忽视理解深度，引发审查失效、知识流失和系统风险。需改革绩效评估，纳入理解深度以应对长期挑战。
   - Tags: #read #career
 
-- (2026-03-06) [AI=true is an Anti-Pattern](202603/2026-03-06-ai%3Dtrue-is-an-anti-pattern.md)
-  - 文章批评了编程中针对AI设计文档、工具和工作流的反模式，主张统一接口与通用设计，以兼顾人类与AI，提升协作效率和互操作性。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (28 entries)
+- [2026-03](202603/monthly-index.md) (29 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

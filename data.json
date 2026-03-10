@@ -10600,5 +10600,14 @@
       "read",
       "database"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Package managers keep using git as a database, it never works out",
+    "url": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
+    "timestamp": 1773151135,
+    "tags": [
+      "read"
+    ]
   }
 ]

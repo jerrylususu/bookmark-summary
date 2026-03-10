@@ -1,7 +1,11 @@
 # 2026-03 Monthly Index
 
+- (2026-03-10) [Package managers keep using git as a database, it never works out](2026-03-10-package-managers-keep-using-git-as-a-database%2C-it-never-works-out.md)
+  - 多个包管理器曾尝试用 Git 存储索引，但因性能、可扩展性等问题逐步转向 HTTP 或数据库方案。Git 更适合代码协作，而非包注册表的数据存储。
+  - Tags: #read
+
 - (2026-03-10) [Production query plans without production data](2026-03-10-production-query-plans-without-production-data.md)
-  - PostgreSQL 18 引入便携式优化器统计信息功能，通过 `pg_restore_relation_stats` 和 `pg_restore_attribute_stats` 函数，允许在测试环境中注入生产级统计信息，从而在不需要实际数据的情况下模拟真实查询计划，提升CI/CD测试与本地调试效率。
+  - PostgreSQL 18 引入便携式优化器统计信息功能，通过  和  函数，允许在测试环境中注入生产级统计信息，从而在不需要实际数据的情况下模拟真实查询计划，提升CI/CD测试与本地调试效率。
   - Tags: #read #database
 
 - (2026-03-09) [How I Dropped Our Production Database and Now Pay 10% More for AWS](2026-03-09-how-i-dropped-our-production-database-and-now-pay-10%25-more-for-aws.md)
