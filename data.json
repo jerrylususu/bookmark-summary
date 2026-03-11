@@ -10619,5 +10619,16 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "AI should help us produce better code - Agentic Engineering Patterns",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/better-code/",
+    "timestamp": 1773234941,
+    "tags": [
+      "read",
+      "agent",
+      "tips"
+    ]
   }
 ]

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-11) [AI should help us produce better code - Agentic Engineering Patterns](202603/2026-03-11-ai-should-help-us-produce-better-code---agentic-engineering-patterns.md)
+  - AI工具应提升而非降低代码质量，通过处理技术债务、辅助决策和复盘优化，实现高效可持续的开发。
+  - Tags: #read #agent #tips
+
 - (2026-03-10) [年度征文｜「你是专家」这句话，到底是在帮 AI 还是在害你？ - 少数派](202603/2026-03-10-%E5%B9%B4%E5%BA%A6%E5%BE%81%E6%96%87%EF%BD%9C%E3%80%8C%E4%BD%A0%E6%98%AF%E4%B8%93%E5%AE%B6%E3%80%8D%E8%BF%99%E5%8F%A5%E8%AF%9D%EF%BC%8C%E5%88%B0%E5%BA%95%E6%98%AF%E5%9C%A8%E5%B8%AE-ai-%E8%BF%98%E6%98%AF%E5%9C%A8%E5%AE%B3%E4%BD%A0%EF%BC%9F---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
   - 本文通过实验验证了AI提示词中“身份设定”和“情感措辞”的效果：身份设定可调节输出风格但无法提升准确性，情感措辞能激励AI更用心但不会改变事实判断。核心结论是，AI的准确性取决于底层推理能力，处理事实任务时应优先选择支持推理的模型。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 作者使用 scp 传输目录后，因目标目录权限被设为 777，导致 SSH 登录失败。原因是 OpenSSH 安全策略拒绝过宽权限。将权限恢复为 700 后问题解决，该问题已在后续版本修复。
   - Tags: #read #tips
 
-- (2026-03-06) [2026 年，我把自己做成了一个 AI](202603/2026-03-06-2026-%E5%B9%B4%EF%BC%8C%E6%88%91%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90%E4%BA%86%E4%B8%80%E4%B8%AA-ai.md)
-  - 作者罗磊于2026年构建AI数字分身，通过多模型画像和RAG对话技术管理知识，强调主动构建个人系统的重要性。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (30 entries)
+- [2026-03](202603/monthly-index.md) (31 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
