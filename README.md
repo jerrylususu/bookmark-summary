@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-12) [你不知道的 Claude Code：架构、治理与工程实践 - Tw93](202603/2026-03-12-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-claude-code%EF%BC%9A%E6%9E%B6%E6%9E%84%E3%80%81%E6%B2%BB%E7%90%86%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5---tw93.md)
+  - 本文系统总结了Claude Code的六层架构模型、上下文工程、Skills设计等核心实践，强调通过分层治理和验证闭环提升AI工程化能力，适用于从工具使用者到系统设计者的演进。
+  - Tags: #read #agent #deepdive #guide
+
 - (2026-03-11) [AI should help us produce better code - Agentic Engineering Patterns](202603/2026-03-11-ai-should-help-us-produce-better-code---agentic-engineering-patterns.md)
   - AI工具应提升而非降低代码质量，通过处理技术债务、辅助决策和复盘优化，实现高效可持续的开发。
   - Tags: #read #agent #tips
@@ -39,13 +43,9 @@
   - 优秀管理者通过深入了解业务、明确重点、前瞻布局和关怀团队，有效减少可预防的紧急事件，提升工作效率与成员幸福感，增强人才留存。
   - Tags: #read #career
 
-- (2026-03-06) [Disable Your SSH Access With This One Simple Trick](202603/2026-03-06-disable-your-ssh-access-with-this-one-simple-trick.md)
-  - 作者使用 scp 传输目录后，因目标目录权限被设为 777，导致 SSH 登录失败。原因是 OpenSSH 安全策略拒绝过宽权限。将权限恢复为 700 后问题解决，该问题已在后续版本修复。
-  - Tags: #read #tips
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (31 entries)
+- [2026-03](202603/monthly-index.md) (32 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
