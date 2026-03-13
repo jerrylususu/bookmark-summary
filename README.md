@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-13) [Management In The Age Of AI](202603/2026-03-13-management-in-the-age-of-ai.md)
+  - 2025年底AI工具拐点将重塑管理，2026年管理者需成为构建者、提高期望、管理预算、确保目标清晰、强制协作并重视招聘，以快速适应变化，成为团队成败的关键。
+  - Tags: #read #career
+
 - (2026-03-12) [你不知道的 Claude Code：架构、治理与工程实践 - Tw93](202603/2026-03-12-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-claude-code%EF%BC%9A%E6%9E%B6%E6%9E%84%E3%80%81%E6%B2%BB%E7%90%86%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5---tw93.md)
   - 本文系统总结了Claude Code的六层架构模型、上下文工程、Skills设计等核心实践，强调通过分层治理和验证闭环提升AI工程化能力，适用于从工具使用者到系统设计者的演进。
   - Tags: #read #agent #deepdive #guide
@@ -39,13 +43,9 @@
   - 文章提出，AI代理的CLI需重构以优化可预测性与安全性，包括转向JSON载荷、实时模式查询、上下文限制、输入验证、技能封装等，并建议增量实施。
   - Tags: #read #agent #deepdive
 
-- (2026-03-07) [Avoiding a Culture of Emergencies](202603/2026-03-07-avoiding-a-culture-of-emergencies.md)
-  - 优秀管理者通过深入了解业务、明确重点、前瞻布局和关怀团队，有效减少可预防的紧急事件，提升工作效率与成员幸福感，增强人才留存。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (32 entries)
+- [2026-03](202603/monthly-index.md) (33 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

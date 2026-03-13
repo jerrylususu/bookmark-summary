@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-13) [Management In The Age Of AI](202603/2026-03-13-management-in-the-age-of-ai.md)
+  - Tags: #read #career
+  - Summary: 2025年底AI工具拐点将重塑管理，2026年管理者需成为构建者、提高期望、管理预算、确保目标清晰、强制协作并重视招聘，以快速适应变化，成为团队成败的关键。
+
 - (2026-03-12) [你不知道的 Claude Code：架构、治理与工程实践 - Tw93](202603/2026-03-12-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-claude-code%EF%BC%9A%E6%9E%B6%E6%9E%84%E3%80%81%E6%B2%BB%E7%90%86%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5---tw93.md)
   - Tags: #read #agent #deepdive #guide
   - Summary: 本文系统总结了Claude Code的六层架构模型、上下文工程、Skills设计等核心实践，强调通过分层治理和验证闭环提升AI工程化能力，适用于从工具使用者到系统设计者的演进。
