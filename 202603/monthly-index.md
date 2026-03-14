@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-14) [Big tech engineers need big egos](2026-03-14-big-tech-engineers-need-big-egos.md)
+  - 文章指出，大型科技公司的工程师需具备强大的自我意识，即在技术挑战中保持自信、敢于表态并推动决策，同时在组织层面懂得谦逊，服从大局。这种自信与谦逊的平衡是成为高效工程师的关键。
+  - Tags: #read #career
+
 - (2026-03-13) [Management In The Age Of AI](2026-03-13-management-in-the-age-of-ai.md)
   - 2025年底AI工具拐点将重塑管理，2026年管理者需成为构建者、提高期望、管理预算、确保目标清晰、强制协作并重视招聘，以快速适应变化，成为团队成败的关键。
   - Tags: #read #career

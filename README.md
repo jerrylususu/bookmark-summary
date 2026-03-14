@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-14) [Big tech engineers need big egos](202603/2026-03-14-big-tech-engineers-need-big-egos.md)
+  - 文章指出，大型科技公司的工程师需具备强大的自我意识，即在技术挑战中保持自信、敢于表态并推动决策，同时在组织层面懂得谦逊，服从大局。这种自信与谦逊的平衡是成为高效工程师的关键。
+  - Tags: #read #career
+
 - (2026-03-13) [Management In The Age Of AI](202603/2026-03-13-management-in-the-age-of-ai.md)
   - 2025年底AI工具拐点将重塑管理，2026年管理者需成为构建者、提高期望、管理预算、确保目标清晰、强制协作并重视招聘，以快速适应变化，成为团队成败的关键。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 本文提出了AI代理与API交互中的“抽象税”概念，指出每个抽象层会降低保真度并可能损害上下文。通过对比MCP和CLI路径，作者强调应根据场景权衡迭代速度与上下文管理，并非竞争关系。
   - Tags: #read #agent
 
-- (2026-03-08) [You Need to Rewrite Your CLI for AI Agents](202603/2026-03-08-you-need-to-rewrite-your-cli-for-ai-agents.md)
-  - 文章提出，AI代理的CLI需重构以优化可预测性与安全性，包括转向JSON载荷、实时模式查询、上下文限制、输入验证、技能封装等，并建议增量实施。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (33 entries)
+- [2026-03](202603/monthly-index.md) (34 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
