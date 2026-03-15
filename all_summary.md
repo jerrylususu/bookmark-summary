@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-15) [Write tests to solve trust issues, not code coverage](202603/2026-03-15-write-tests-to-solve-trust-issues%2C-not-code-coverage.md)
+  - Tags: #read
+  - Summary: 本文强调编写测试旨在解决信任问题，而非追求代码覆盖率。作者主张测试应针对真实生产行为，基于实际需求决定，而非盲目追求数字；在组织中，信任应通过代码审查和团队协作分配，最终提升开发信心与效率。
+
 - (2026-03-15) [How Can Governments Pay Open Source Maintainers?](202603/2026-03-15-how-can-governments-pay-open-source-maintainers.md)
   - Tags: #read
   - Summary: 文章探讨政府向开源维护者支付报酬的挑战，包括支付对象不明、机制缺失、项目意愿及资金分配难题。建议维护者明确身份、提供商业化服务、简化支付流程、透明管理资金并多元化赞助来源，以降低障碍，实现可持续资助。

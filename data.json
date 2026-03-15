@@ -10681,5 +10681,14 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Write tests to solve trust issues, not code coverage",
+    "url": "https://dodov.dev/blog/write-tests-to-solve-trust-issues-not-code-coverage",
+    "timestamp": 1773573014,
+    "tags": [
+      "read"
+    ]
   }
 ]

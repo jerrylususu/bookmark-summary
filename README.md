@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-15) [Write tests to solve trust issues, not code coverage](202603/2026-03-15-write-tests-to-solve-trust-issues%2C-not-code-coverage.md)
+  - 本文强调编写测试旨在解决信任问题，而非追求代码覆盖率。作者主张测试应针对真实生产行为，基于实际需求决定，而非盲目追求数字；在组织中，信任应通过代码审查和团队协作分配，最终提升开发信心与效率。
+  - Tags: #read
+
 - (2026-03-15) [How Can Governments Pay Open Source Maintainers?](202603/2026-03-15-how-can-governments-pay-open-source-maintainers.md)
   - 文章探讨政府向开源维护者支付报酬的挑战，包括支付对象不明、机制缺失、项目意愿及资金分配难题。建议维护者明确身份、提供商业化服务、简化支付流程、透明管理资金并多元化赞助来源，以降低障碍，实现可持续资助。
   - Tags: #read
@@ -39,13 +43,9 @@
   - PostgreSQL 18 引入便携式优化器统计信息功能，通过  和  函数，允许在测试环境中注入生产级统计信息，从而在不需要实际数据的情况下模拟真实查询计划，提升CI/CD测试与本地调试效率。
   - Tags: #read #database
 
-- (2026-03-09) [How I Dropped Our Production Database and Now Pay 10% More for AWS](202603/2026-03-09-how-i-dropped-our-production-database-and-now-pay-10%25-more-for-aws.md)
-  - 作者因误用Terraform和AI代理导致生产数据库被删，经24小时恢复后，实施状态管理S3化、双重删除保护、独立备份及AI权限限制等措施，承诺未来加强操作隔离。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (36 entries)
+- [2026-03](202603/monthly-index.md) (37 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
