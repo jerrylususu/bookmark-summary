@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-15) [Comprehension Debt — the hidden cost of AI generated code.](202603/2026-03-15-comprehension-debt-%E2%80%94-the-hidden-cost-of-ai-generated-code..md)
+  - 理解债指过度依赖AI导致人类理解与代码增长脱节，易引发系统性风险。被动使用AI会削弱开发者能力，主动提问可缓解。未来关键领域需强化对AI代码的理解，工作重心应从代码量转向深度理解与决策。
+  - Tags: #read #agent
+
 - (2026-03-15) [Write tests to solve trust issues, not code coverage](202603/2026-03-15-write-tests-to-solve-trust-issues%2C-not-code-coverage.md)
   - 本文强调编写测试旨在解决信任问题，而非追求代码覆盖率。作者主张测试应针对真实生产行为，基于实际需求决定，而非盲目追求数字；在组织中，信任应通过代码审查和团队协作分配，最终提升开发信心与效率。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 多个包管理器曾尝试用 Git 存储索引，但因性能、可扩展性等问题逐步转向 HTTP 或数据库方案。Git 更适合代码协作，而非包注册表的数据存储。
   - Tags: #read
 
-- (2026-03-10) [Production query plans without production data](202603/2026-03-10-production-query-plans-without-production-data.md)
-  - PostgreSQL 18 引入便携式优化器统计信息功能，通过  和  函数，允许在测试环境中注入生产级统计信息，从而在不需要实际数据的情况下模拟真实查询计划，提升CI/CD测试与本地调试效率。
-  - Tags: #read #database
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (37 entries)
+- [2026-03](202603/monthly-index.md) (38 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

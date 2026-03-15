@@ -10690,5 +10690,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Comprehension Debt — the hidden cost of AI generated code.",
+    "url": "https://addyosmani.com/blog/comprehension-debt/",
+    "timestamp": 1773573537,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

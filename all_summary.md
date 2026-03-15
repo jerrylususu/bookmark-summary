@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-15) [Comprehension Debt — the hidden cost of AI generated code.](202603/2026-03-15-comprehension-debt-%E2%80%94-the-hidden-cost-of-ai-generated-code..md)
+  - Tags: #read #agent
+  - Summary: 理解债指过度依赖AI导致人类理解与代码增长脱节，易引发系统性风险。被动使用AI会削弱开发者能力，主动提问可缓解。未来关键领域需强化对AI代码的理解，工作重心应从代码量转向深度理解与决策。
+
 - (2026-03-15) [Write tests to solve trust issues, not code coverage](202603/2026-03-15-write-tests-to-solve-trust-issues%2C-not-code-coverage.md)
   - Tags: #read
   - Summary: 本文强调编写测试旨在解决信任问题，而非追求代码覆盖率。作者主张测试应针对真实生产行为，基于实际需求决定，而非盲目追求数字；在组织中，信任应通过代码审查和团队协作分配，最终提升开发信心与效率。
