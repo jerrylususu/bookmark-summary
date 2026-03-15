@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-15) [My fireside chat about agentic engineering at the Pragmatic Summit](202603/2026-03-15-my-fireside-chat-about-agentic-engineering-at-the-pragmatic-summit.md)
+  - 本文总结了智能体工程的炉边谈话，涵盖AI编程工具的采用阶段、信任建立、测试驱动开发、安全合规及模型发展等关键议题，并探讨了对开发者职业和开源生态的影响。
+  - Tags: #read #agent
+
 - (2026-03-14) [Big tech engineers need big egos](202603/2026-03-14-big-tech-engineers-need-big-egos.md)
   - 文章指出，大型科技公司的工程师需具备强大的自我意识，即在技术挑战中保持自信、敢于表态并推动决策，同时在组织层面懂得谦逊，服从大局。这种自信与谦逊的平衡是成为高效工程师的关键。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 本文探讨了AI重写软件的合法性，将其与GNU重写UNIX类比，强调不复制代码结构的重写合法且有益。文章呼吁拥抱AI变革，视之为推动开源与软件演进的机会。
   - Tags: #read
 
-- (2026-03-08) [The MCP Abstraction Tax](202603/2026-03-08-the-mcp-abstraction-tax.md)
-  - 本文提出了AI代理与API交互中的“抽象税”概念，指出每个抽象层会降低保真度并可能损害上下文。通过对比MCP和CLI路径，作者强调应根据场景权衡迭代速度与上下文管理，并非竞争关系。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (34 entries)
+- [2026-03](202603/monthly-index.md) (35 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

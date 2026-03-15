@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-15) [My fireside chat about agentic engineering at the Pragmatic Summit](202603/2026-03-15-my-fireside-chat-about-agentic-engineering-at-the-pragmatic-summit.md)
+  - Tags: #read #agent
+  - Summary: 本文总结了智能体工程的炉边谈话，涵盖AI编程工具的采用阶段、信任建立、测试驱动开发、安全合规及模型发展等关键议题，并探讨了对开发者职业和开源生态的影响。
+
 - (2026-03-14) [Big tech engineers need big egos](202603/2026-03-14-big-tech-engineers-need-big-egos.md)
   - Tags: #read #career
   - Summary: 文章指出，大型科技公司的工程师需具备强大的自我意识，即在技术挑战中保持自信、敢于表态并推动决策，同时在组织层面懂得谦逊，服从大局。这种自信与谦逊的平衡是成为高效工程师的关键。

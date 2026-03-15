@@ -10662,5 +10662,15 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "My fireside chat about agentic engineering at the Pragmatic Summit",
+    "url": "https://simonwillison.net/2026/Mar/14/pragmatic-summit/",
+    "timestamp": 1773572646,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]
