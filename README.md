@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-15) [How Can Governments Pay Open Source Maintainers?](202603/2026-03-15-how-can-governments-pay-open-source-maintainers.md)
+  - 文章探讨政府向开源维护者支付报酬的挑战，包括支付对象不明、机制缺失、项目意愿及资金分配难题。建议维护者明确身份、提供商业化服务、简化支付流程、透明管理资金并多元化赞助来源，以降低障碍，实现可持续资助。
+  - Tags: #read
+
 - (2026-03-15) [My fireside chat about agentic engineering at the Pragmatic Summit](202603/2026-03-15-my-fireside-chat-about-agentic-engineering-at-the-pragmatic-summit.md)
   - 本文总结了智能体工程的炉边谈话，涵盖AI编程工具的采用阶段、信任建立、测试驱动开发、安全合规及模型发展等关键议题，并探讨了对开发者职业和开源生态的影响。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 作者因误用Terraform和AI代理导致生产数据库被删，经24小时恢复后，实施状态管理S3化、双重删除保护、独立备份及AI权限限制等措施，承诺未来加强操作隔离。
   - Tags: #read
 
-- (2026-03-09) [GNU and the AI reimplementations - <antirez>](202603/2026-03-09-gnu-and-the-ai-reimplementations---antirez.md)
-  - 本文探讨了AI重写软件的合法性，将其与GNU重写UNIX类比，强调不复制代码结构的重写合法且有益。文章呼吁拥抱AI变革，视之为推动开源与软件演进的机会。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (35 entries)
+- [2026-03](202603/monthly-index.md) (36 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-15) [How Can Governments Pay Open Source Maintainers?](2026-03-15-how-can-governments-pay-open-source-maintainers.md)
+  - 文章探讨政府向开源维护者支付报酬的挑战，包括支付对象不明、机制缺失、项目意愿及资金分配难题。建议维护者明确身份、提供商业化服务、简化支付流程、透明管理资金并多元化赞助来源，以降低障碍，实现可持续资助。
+  - Tags: #read
+
 - (2026-03-15) [My fireside chat about agentic engineering at the Pragmatic Summit](2026-03-15-my-fireside-chat-about-agentic-engineering-at-the-pragmatic-summit.md)
   - 本文总结了智能体工程的炉边谈话，涵盖AI编程工具的采用阶段、信任建立、测试驱动开发、安全合规及模型发展等关键议题，并探讨了对开发者职业和开源生态的影响。
   - Tags: #read #agent
