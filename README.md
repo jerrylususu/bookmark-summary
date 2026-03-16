@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-16) [为什么AI只会说正确的废话，以及怎么把它逼出舒适区](202603/2026-03-16-%E4%B8%BA%E4%BB%80%E4%B9%88ai%E5%8F%AA%E4%BC%9A%E8%AF%B4%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%BA%9F%E8%AF%9D%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%80%8E%E4%B9%88%E6%8A%8A%E5%AE%83%E9%80%BC%E5%87%BA%E8%88%92%E9%80%82%E5%8C%BA.md)
+  - 该错误表示系统无法解析域名或路径 `context-infrastructure.html`，可能因路径错误、DNS 解析失败、资源不存在或网络配置问题导致。建议检查 URL 拼写、确认资源存在、刷新 DNS 缓存或联系管理员支持。
+  - Tags: #read #agent
+
 - (2026-03-15) [Comprehension Debt — the hidden cost of AI generated code.](202603/2026-03-15-comprehension-debt-%E2%80%94-the-hidden-cost-of-ai-generated-code..md)
   - 理解债指过度依赖AI导致人类理解与代码增长脱节，易引发系统性风险。被动使用AI会削弱开发者能力，主动提问可缓解。未来关键领域需强化对AI代码的理解，工作重心应从代码量转向深度理解与决策。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文通过实验验证了AI提示词中“身份设定”和“情感措辞”的效果：身份设定可调节输出风格但无法提升准确性，情感措辞能激励AI更用心但不会改变事实判断。核心结论是，AI的准确性取决于底层推理能力，处理事实任务时应优先选择支持推理的模型。
   - Tags: #read #llm
 
-- (2026-03-10) [Package managers keep using git as a database, it never works out](202603/2026-03-10-package-managers-keep-using-git-as-a-database%2C-it-never-works-out.md)
-  - 多个包管理器曾尝试用 Git 存储索引，但因性能、可扩展性等问题逐步转向 HTTP 或数据库方案。Git 更适合代码协作，而非包注册表的数据存储。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (38 entries)
+- [2026-03](202603/monthly-index.md) (39 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
