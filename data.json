@@ -10710,5 +10710,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Minions: Stripe’s one-shot, end-to-end coding agents",
+    "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents",
+    "timestamp": 1773756437,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-17) [Minions: Stripe’s one-shot, end-to-end coding agents](202603/2026-03-17-minions-stripe%E2%80%99s-one-shot%2C-end-to-end-coding-agents.md)
+  - Minions是Stripe自研的无人值守编码代理系统，通过Slack等入口自动完成代码修改、测试和合并请求，每周处理超千个任务。它基于定制代理和内部工具链，适应Stripe复杂环境，提升开发效率。
+  - Tags: #read #agent
+
 - (2026-03-16) [为什么AI只会说正确的废话，以及怎么把它逼出舒适区](202603/2026-03-16-%E4%B8%BA%E4%BB%80%E4%B9%88ai%E5%8F%AA%E4%BC%9A%E8%AF%B4%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%BA%9F%E8%AF%9D%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%80%8E%E4%B9%88%E6%8A%8A%E5%AE%83%E9%80%BC%E5%87%BA%E8%88%92%E9%80%82%E5%8C%BA.md)
-  - 该错误表示系统无法解析域名或路径 `context-infrastructure.html`，可能因路径错误、DNS 解析失败、资源不存在或网络配置问题导致。建议检查 URL 拼写、确认资源存在、刷新 DNS 缓存或联系管理员支持。
+  - 该错误表示系统无法解析域名或路径 ，可能因路径错误、DNS 解析失败、资源不存在或网络配置问题导致。建议检查 URL 拼写、确认资源存在、刷新 DNS 缓存或联系管理员支持。
   - Tags: #read #agent
 
 - (2026-03-15) [Comprehension Debt — the hidden cost of AI generated code.](202603/2026-03-15-comprehension-debt-%E2%80%94-the-hidden-cost-of-ai-generated-code..md)
@@ -39,13 +43,9 @@
   - AI工具应提升而非降低代码质量，通过处理技术债务、辅助决策和复盘优化，实现高效可持续的开发。
   - Tags: #read #agent #tips
 
-- (2026-03-10) [年度征文｜「你是专家」这句话，到底是在帮 AI 还是在害你？ - 少数派](202603/2026-03-10-%E5%B9%B4%E5%BA%A6%E5%BE%81%E6%96%87%EF%BD%9C%E3%80%8C%E4%BD%A0%E6%98%AF%E4%B8%93%E5%AE%B6%E3%80%8D%E8%BF%99%E5%8F%A5%E8%AF%9D%EF%BC%8C%E5%88%B0%E5%BA%95%E6%98%AF%E5%9C%A8%E5%B8%AE-ai-%E8%BF%98%E6%98%AF%E5%9C%A8%E5%AE%B3%E4%BD%A0%EF%BC%9F---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
-  - 本文通过实验验证了AI提示词中“身份设定”和“情感措辞”的效果：身份设定可调节输出风格但无法提升准确性，情感措辞能激励AI更用心但不会改变事实判断。核心结论是，AI的准确性取决于底层推理能力，处理事实任务时应优先选择支持推理的模型。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (39 entries)
+- [2026-03](202603/monthly-index.md) (40 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
