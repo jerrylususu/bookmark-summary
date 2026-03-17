@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-17) [When AI Writes the World's Software, Who Verifies It? — Leonardo de Moura](202603/2026-03-17-when-ai-writes-the-world%27s-software%2C-who-verifies-it-%E2%80%94-leonardo-de-moura.md)
+  - AI加速代码生成但验证滞后，形成“验证鸿沟”。形式化验证（如Lean）提供确定性保证，正变得经济可行。未来软件开发将转向编写规范，由AI生成并证明代码，构建可信赖的软件基础设施。
+  - Tags: #read #security
+
 - (2026-03-17) [Minions: Stripe’s one-shot, end-to-end coding agents—Part 2](202603/2026-03-17-minions-stripe%E2%80%99s-one-shot%2C-end-to-end-coding-agents%E2%80%94part-2.md)
   - 本文介绍了Stripe自主编码代理系统Minions的技术架构，包括基于Devbox的运行环境、定制代理框架、混合工作流的蓝图机制、上下文收集规则及迭代反馈机制，展示了AI如何优化软件工程实践。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 2025年底AI工具拐点将重塑管理，2026年管理者需成为构建者、提高期望、管理预算、确保目标清晰、强制协作并重视招聘，以快速适应变化，成为团队成败的关键。
   - Tags: #read #career
 
-- (2026-03-12) [你不知道的 Claude Code：架构、治理与工程实践 - Tw93](202603/2026-03-12-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-claude-code%EF%BC%9A%E6%9E%B6%E6%9E%84%E3%80%81%E6%B2%BB%E7%90%86%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5---tw93.md)
-  - 本文系统总结了Claude Code的六层架构模型、上下文工程、Skills设计等核心实践，强调通过分层治理和验证闭环提升AI工程化能力，适用于从工具使用者到系统设计者的演进。
-  - Tags: #read #agent #deepdive #guide
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (41 entries)
+- [2026-03](202603/monthly-index.md) (42 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

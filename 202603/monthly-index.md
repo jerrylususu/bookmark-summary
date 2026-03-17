@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-17) [When AI Writes the World's Software, Who Verifies It? — Leonardo de Moura](2026-03-17-when-ai-writes-the-world%27s-software%2C-who-verifies-it-%E2%80%94-leonardo-de-moura.md)
+  - AI加速代码生成但验证滞后，形成“验证鸿沟”。形式化验证（如Lean）提供确定性保证，正变得经济可行。未来软件开发将转向编写规范，由AI生成并证明代码，构建可信赖的软件基础设施。
+  - Tags: #read #security
+
 - (2026-03-17) [Minions: Stripe’s one-shot, end-to-end coding agents—Part 2](2026-03-17-minions-stripe%E2%80%99s-one-shot%2C-end-to-end-coding-agents%E2%80%94part-2.md)
   - 本文介绍了Stripe自主编码代理系统Minions的技术架构，包括基于Devbox的运行环境、定制代理框架、混合工作流的蓝图机制、上下文收集规则及迭代反馈机制，展示了AI如何优化软件工程实践。
   - Tags: #read #agent
