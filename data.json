@@ -10740,5 +10740,15 @@
       "read",
       "security"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Every layer of review makes you 10x slower",
+    "url": "https://apenwarr.ca/log/20260316",
+    "timestamp": 1773757295,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

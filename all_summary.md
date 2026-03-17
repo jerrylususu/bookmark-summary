@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-17) [Every layer of review makes you 10x slower](202603/2026-03-17-every-layer-of-review-makes-you-10x-slower.md)
+  - Tags: #read #agent
+  - Summary: 文章指出审批流程每增加一层，进度延迟约10倍，AI工具虽加速编码但加剧审查负担。作者批评极端“停止审查”会降低质量，主张通过信任体系、模块化和小团队协作减少审批层级，提升效率，实现持续优化。
+
 - (2026-03-17) [When AI Writes the World's Software, Who Verifies It? — Leonardo de Moura](202603/2026-03-17-when-ai-writes-the-world%27s-software%2C-who-verifies-it-%E2%80%94-leonardo-de-moura.md)
   - Tags: #read #security
   - Summary: AI加速代码生成但验证滞后，形成“验证鸿沟”。形式化验证（如Lean）提供确定性保证，正变得经济可行。未来软件开发将转向编写规范，由AI生成并证明代码，构建可信赖的软件基础设施。
