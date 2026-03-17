@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-17) [Minions: Stripe’s one-shot, end-to-end coding agents—Part 2](2026-03-17-minions-stripe%E2%80%99s-one-shot%2C-end-to-end-coding-agents%E2%80%94part-2.md)
+  - 本文介绍了Stripe自主编码代理系统Minions的技术架构，包括基于Devbox的运行环境、定制代理框架、混合工作流的蓝图机制、上下文收集规则及迭代反馈机制，展示了AI如何优化软件工程实践。
+  - Tags: #read #agent
+
 - (2026-03-17) [Minions: Stripe’s one-shot, end-to-end coding agents](2026-03-17-minions-stripe%E2%80%99s-one-shot%2C-end-to-end-coding-agents.md)
   - Minions是Stripe自研的无人值守编码代理系统，通过Slack等入口自动完成代码修改、测试和合并请求，每周处理超千个任务。它基于定制代理和内部工具链，适应Stripe复杂环境，提升开发效率。
   - Tags: #read #agent

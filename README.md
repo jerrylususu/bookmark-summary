@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-17) [Minions: Stripe’s one-shot, end-to-end coding agents—Part 2](202603/2026-03-17-minions-stripe%E2%80%99s-one-shot%2C-end-to-end-coding-agents%E2%80%94part-2.md)
+  - 本文介绍了Stripe自主编码代理系统Minions的技术架构，包括基于Devbox的运行环境、定制代理框架、混合工作流的蓝图机制、上下文收集规则及迭代反馈机制，展示了AI如何优化软件工程实践。
+  - Tags: #read #agent
+
 - (2026-03-17) [Minions: Stripe’s one-shot, end-to-end coding agents](202603/2026-03-17-minions-stripe%E2%80%99s-one-shot%2C-end-to-end-coding-agents.md)
   - Minions是Stripe自研的无人值守编码代理系统，通过Slack等入口自动完成代码修改、测试和合并请求，每周处理超千个任务。它基于定制代理和内部工具链，适应Stripe复杂环境，提升开发效率。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文系统总结了Claude Code的六层架构模型、上下文工程、Skills设计等核心实践，强调通过分层治理和验证闭环提升AI工程化能力，适用于从工具使用者到系统设计者的演进。
   - Tags: #read #agent #deepdive #guide
 
-- (2026-03-11) [AI should help us produce better code - Agentic Engineering Patterns](202603/2026-03-11-ai-should-help-us-produce-better-code---agentic-engineering-patterns.md)
-  - AI工具应提升而非降低代码质量，通过处理技术债务、辅助决策和复盘优化，实现高效可持续的开发。
-  - Tags: #read #agent #tips
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (40 entries)
+- [2026-03](202603/monthly-index.md) (41 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
