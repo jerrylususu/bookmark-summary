@@ -10750,5 +10750,16 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "引言: 高质量交付 100x 生产力 · AgentZones Playbook",
+    "url": "https://lipingtababa.github.io/harness-engineering-playbook/",
+    "timestamp": 1773929118,
+    "tags": [
+      "read",
+      "book",
+      "agent"
+    ]
   }
 ]

@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-19) [引言: 高质量交付 100x 生产力 · AgentZones Playbook](202603/2026-03-19-%E5%BC%95%E8%A8%80-%E9%AB%98%E8%B4%A8%E9%87%8F%E4%BA%A4%E4%BB%98-100x-%E7%94%9F%E4%BA%A7%E5%8A%9B-%C2%B7-agentzones-playbook.md)
+  - Tags: #read #book #agent
+  - Summary: 本文提出通过制度化方法实现AI与人类协作的软件生产力跃升，核心在于建立匹配Agent特性的新工程制度，强调闭环与演进原则，并分三卷探讨从可靠编程到规模化开发及组织治理的路径。
+
 - (2026-03-17) [Every layer of review makes you 10x slower](202603/2026-03-17-every-layer-of-review-makes-you-10x-slower.md)
   - Tags: #read #agent
   - Summary: 文章指出审批流程每增加一层，进度延迟约10倍，AI工具虽加速编码但加剧审查负担。作者批评极端“停止审查”会降低质量，主张通过信任体系、模块化和小团队协作减少审批层级，提升效率，实现持续优化。
