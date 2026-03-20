@@ -10771,5 +10771,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "I Ditched Elasticsearch for Meilisearch. Here's What Nobody Tells You.",
+    "url": "https://anisafifi.com/blog/i-ditched-elasticsearch-for-meilisearch-heres-what-nobody-tells-you/",
+    "timestamp": 1774019950,
+    "tags": [
+      "read",
+      "db"
+    ]
   }
 ]

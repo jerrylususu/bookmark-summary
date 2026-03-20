@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-20) [I Ditched Elasticsearch for Meilisearch. Here's What Nobody Tells You.](2026-03-20-i-ditched-elasticsearch-for-meilisearch.-here%27s-what-nobody-tells-you..md)
+  - 作者从Elasticsearch迁移到Meilisearch，显著降低了成本与延迟，简化了运维。Meilisearch专为应用内搜索优化，适合中小型项目，但受限于单节点和内存，不适合复杂分析场景。
+  - Tags: #read #db
+
 - (2026-03-20) [AI-Native 工程师招聘面试官手册](2026-03-20-ai-native-%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%8B%9B%E8%81%98%E9%9D%A2%E8%AF%95%E5%AE%98%E6%89%8B%E5%86%8C.md)
   - 该手册为AI驱动开发团队提供结构化面试指南，定义Builder和Reviewer两类岗位，采用60分钟面试流程，涵盖通用与专项模块，设置否决项和评分标准，强调工程师价值转向提问与审查。
   - Tags: #read #agent

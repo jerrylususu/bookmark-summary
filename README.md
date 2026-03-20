@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-20) [I Ditched Elasticsearch for Meilisearch. Here's What Nobody Tells You.](202603/2026-03-20-i-ditched-elasticsearch-for-meilisearch.-here%27s-what-nobody-tells-you..md)
+  - 作者从Elasticsearch迁移到Meilisearch，显著降低了成本与延迟，简化了运维。Meilisearch专为应用内搜索优化，适合中小型项目，但受限于单节点和内存，不适合复杂分析场景。
+  - Tags: #read #db
+
 - (2026-03-20) [AI-Native 工程师招聘面试官手册](202603/2026-03-20-ai-native-%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%8B%9B%E8%81%98%E9%9D%A2%E8%AF%95%E5%AE%98%E6%89%8B%E5%86%8C.md)
   - 该手册为AI驱动开发团队提供结构化面试指南，定义Builder和Reviewer两类岗位，采用60分钟面试流程，涵盖通用与专项模块，设置否决项和评分标准，强调工程师价值转向提问与审查。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文强调编写测试旨在解决信任问题，而非追求代码覆盖率。作者主张测试应针对真实生产行为，基于实际需求决定，而非盲目追求数字；在组织中，信任应通过代码审查和团队协作分配，最终提升开发信心与效率。
   - Tags: #read
 
-- (2026-03-15) [How Can Governments Pay Open Source Maintainers?](202603/2026-03-15-how-can-governments-pay-open-source-maintainers.md)
-  - 文章探讨政府向开源维护者支付报酬的挑战，包括支付对象不明、机制缺失、项目意愿及资金分配难题。建议维护者明确身份、提供商业化服务、简化支付流程、透明管理资金并多元化赞助来源，以降低障碍，实现可持续资助。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (45 entries)
+- [2026-03](202603/monthly-index.md) (46 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
