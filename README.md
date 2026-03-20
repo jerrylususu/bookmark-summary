@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-20) [Can LLMs Be Computers? | Percepta](202603/2026-03-20-can-llms-be-computers-percepta.md)
+  - 本文探讨了大型语言模型（LLMs）作为计算机执行程序的潜力，提出了一种在Transformer架构内直接执行程序的新方法，显著提升推理速度并保持通用性，暗示LLMs可能演变为更高效的通用计算平台。
+  - Tags: #read #llm
+
 - (2026-03-20) [信息过载时代，我的漏斗式阅读工作流](202603/2026-03-20-%E4%BF%A1%E6%81%AF%E8%BF%87%E8%BD%BD%E6%97%B6%E4%BB%A3%EF%BC%8C%E6%88%91%E7%9A%84%E6%BC%8F%E6%96%97%E5%BC%8F%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81.md)
   - 作者提出“漏斗式阅读工作流”，通过RSS聚合、AI精选与人工精读分层处理信息，旨在过滤噪音、沉淀高价值内容，提升信息吸收效率与知识产出。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文介绍了Stripe自主编码代理系统Minions的技术架构，包括基于Devbox的运行环境、定制代理框架、混合工作流的蓝图机制、上下文收集规则及迭代反馈机制，展示了AI如何优化软件工程实践。
   - Tags: #read #agent
 
-- (2026-03-17) [Minions: Stripe’s one-shot, end-to-end coding agents](202603/2026-03-17-minions-stripe%E2%80%99s-one-shot%2C-end-to-end-coding-agents.md)
-  - Minions是Stripe自研的无人值守编码代理系统，通过Slack等入口自动完成代码修改、测试和合并请求，每周处理超千个任务。它基于定制代理和内部工具链，适应Stripe复杂环境，提升开发效率。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (49 entries)
+- [2026-03](202603/monthly-index.md) (50 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
