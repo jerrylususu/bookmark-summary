@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-20) [AI-Native 工程师招聘面试官手册](2026-03-20-ai-native-%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%8B%9B%E8%81%98%E9%9D%A2%E8%AF%95%E5%AE%98%E6%89%8B%E5%86%8C.md)
+  - 该手册为AI驱动开发团队提供结构化面试指南，定义Builder和Reviewer两类岗位，采用60分钟面试流程，涵盖通用与专项模块，设置否决项和评分标准，强调工程师价值转向提问与审查。
+  - Tags: #read #agent
+
 - (2026-03-19) [引言: 高质量交付 100x 生产力 · AgentZones Playbook](2026-03-19-%E5%BC%95%E8%A8%80-%E9%AB%98%E8%B4%A8%E9%87%8F%E4%BA%A4%E4%BB%98-100x-%E7%94%9F%E4%BA%A7%E5%8A%9B-%C2%B7-agentzones-playbook.md)
   - 本文提出通过制度化方法实现AI与人类协作的软件生产力跃升，核心在于建立匹配Agent特性的新工程制度，强调闭环与演进原则，并分三卷探讨从可靠编程到规模化开发及组织治理的路径。
   - Tags: #read #book #agent
