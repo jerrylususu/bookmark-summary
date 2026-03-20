@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-20) [信息过载时代，我的漏斗式阅读工作流](202603/2026-03-20-%E4%BF%A1%E6%81%AF%E8%BF%87%E8%BD%BD%E6%97%B6%E4%BB%A3%EF%BC%8C%E6%88%91%E7%9A%84%E6%BC%8F%E6%96%97%E5%BC%8F%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81.md)
+  - Tags: #read
+  - Summary: 作者提出“漏斗式阅读工作流”，通过RSS聚合、AI精选与人工精读分层处理信息，旨在过滤噪音、沉淀高价值内容，提升信息吸收效率与知识产出。
+
 - (2026-03-20) [The programmers who live in Flatland](202603/2026-03-20-the-programmers-who-live-in-flatland.md)
   - Tags: #read
   - Summary: 文章以《平面国》比喻程序员对高级编程概念的认知局限，指出Lisp/Clojure的宏代表编程新维度，突破需思维框架转变。作者强调保持好奇、主动探索是成长关键，反驳宏影响协作的担忧，认为合理使用能提升效率。

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-20) [信息过载时代，我的漏斗式阅读工作流](202603/2026-03-20-%E4%BF%A1%E6%81%AF%E8%BF%87%E8%BD%BD%E6%97%B6%E4%BB%A3%EF%BC%8C%E6%88%91%E7%9A%84%E6%BC%8F%E6%96%97%E5%BC%8F%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81.md)
+  - 作者提出“漏斗式阅读工作流”，通过RSS聚合、AI精选与人工精读分层处理信息，旨在过滤噪音、沉淀高价值内容，提升信息吸收效率与知识产出。
+  - Tags: #read
+
 - (2026-03-20) [The programmers who live in Flatland](202603/2026-03-20-the-programmers-who-live-in-flatland.md)
   - 文章以《平面国》比喻程序员对高级编程概念的认知局限，指出Lisp/Clojure的宏代表编程新维度，突破需思维框架转变。作者强调保持好奇、主动探索是成长关键，反驳宏影响协作的担忧，认为合理使用能提升效率。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Minions是Stripe自研的无人值守编码代理系统，通过Slack等入口自动完成代码修改、测试和合并请求，每周处理超千个任务。它基于定制代理和内部工具链，适应Stripe复杂环境，提升开发效率。
   - Tags: #read #agent
 
-- (2026-03-16) [为什么AI只会说正确的废话，以及怎么把它逼出舒适区](202603/2026-03-16-%E4%B8%BA%E4%BB%80%E4%B9%88ai%E5%8F%AA%E4%BC%9A%E8%AF%B4%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%BA%9F%E8%AF%9D%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%80%8E%E4%B9%88%E6%8A%8A%E5%AE%83%E9%80%BC%E5%87%BA%E8%88%92%E9%80%82%E5%8C%BA.md)
-  - 该错误表示系统无法解析域名或路径 ，可能因路径错误、DNS 解析失败、资源不存在或网络配置问题导致。建议检查 URL 拼写、确认资源存在、刷新 DNS 缓存或联系管理员支持。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (48 entries)
+- [2026-03](202603/monthly-index.md) (49 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
