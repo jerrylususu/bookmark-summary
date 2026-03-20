@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-20) [A sufficiently detailed spec is code](2026-03-20-a-sufficiently-detailed-spec-is-code.md)
+  - 文章批判“从规范生成代码”的流行观点，指出详细规范本质上已接近代码，无法简化开发。通过分析OpenAI的Symphony项目，说明规范若足够详细则复杂度与代码相当，且生成的实现常存在缺陷。结论认为，在追求速度的行业环境下，直接编码比依赖不清晰的规范更高效。
+  - Tags: #read #agent
+
 - (2026-03-20) [AprilNEA - Full Stack Engineer](2026-03-20-aprilnea---full-stack-engineer.md)
   - 本文通过逆向工程分析Claude Code Web，揭示Anthropic未公开的基础设施架构，包括Firecracker微虚拟机运行环境、内部技术栈、Antspace PaaS平台及BYOC支持，展现其构建垂直整合AI应用平台的战略野心。
   - Tags: #read #agent #deepdive

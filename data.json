@@ -10829,5 +10829,15 @@
       "agent",
       "deepdive"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "A sufficiently detailed spec is code",
+    "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+    "timestamp": 1774023476,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

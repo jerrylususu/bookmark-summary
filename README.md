@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-20) [A sufficiently detailed spec is code](202603/2026-03-20-a-sufficiently-detailed-spec-is-code.md)
+  - 文章批判“从规范生成代码”的流行观点，指出详细规范本质上已接近代码，无法简化开发。通过分析OpenAI的Symphony项目，说明规范若足够详细则复杂度与代码相当，且生成的实现常存在缺陷。结论认为，在追求速度的行业环境下，直接编码比依赖不清晰的规范更高效。
+  - Tags: #read #agent
+
 - (2026-03-20) [AprilNEA - Full Stack Engineer](202603/2026-03-20-aprilnea---full-stack-engineer.md)
   - 本文通过逆向工程分析Claude Code Web，揭示Anthropic未公开的基础设施架构，包括Firecracker微虚拟机运行环境、内部技术栈、Antspace PaaS平台及BYOC支持，展现其构建垂直整合AI应用平台的战略野心。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - 文章指出审批流程每增加一层，进度延迟约10倍，AI工具虽加速编码但加剧审查负担。作者批评极端“停止审查”会降低质量，主张通过信任体系、模块化和小团队协作减少审批层级，提升效率，实现持续优化。
   - Tags: #read #agent
 
-- (2026-03-17) [When AI Writes the World's Software, Who Verifies It? — Leonardo de Moura](202603/2026-03-17-when-ai-writes-the-world%27s-software%2C-who-verifies-it-%E2%80%94-leonardo-de-moura.md)
-  - AI加速代码生成但验证滞后，形成“验证鸿沟”。形式化验证（如Lean）提供确定性保证，正变得经济可行。未来软件开发将转向编写规范，由AI生成并证明代码，构建可信赖的软件基础设施。
-  - Tags: #read #security
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (51 entries)
+- [2026-03](202603/monthly-index.md) (52 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
