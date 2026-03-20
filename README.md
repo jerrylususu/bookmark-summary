@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-20) [AprilNEA - Full Stack Engineer](202603/2026-03-20-aprilnea---full-stack-engineer.md)
+  - 本文通过逆向工程分析Claude Code Web，揭示Anthropic未公开的基础设施架构，包括Firecracker微虚拟机运行环境、内部技术栈、Antspace PaaS平台及BYOC支持，展现其构建垂直整合AI应用平台的战略野心。
+  - Tags: #read #agent #deepdive
+
 - (2026-03-20) [Can LLMs Be Computers? | Percepta](202603/2026-03-20-can-llms-be-computers-percepta.md)
   - 本文探讨了大型语言模型（LLMs）作为计算机执行程序的潜力，提出了一种在Transformer架构内直接执行程序的新方法，显著提升推理速度并保持通用性，暗示LLMs可能演变为更高效的通用计算平台。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - AI加速代码生成但验证滞后，形成“验证鸿沟”。形式化验证（如Lean）提供确定性保证，正变得经济可行。未来软件开发将转向编写规范，由AI生成并证明代码，构建可信赖的软件基础设施。
   - Tags: #read #security
 
-- (2026-03-17) [Minions: Stripe’s one-shot, end-to-end coding agents—Part 2](202603/2026-03-17-minions-stripe%E2%80%99s-one-shot%2C-end-to-end-coding-agents%E2%80%94part-2.md)
-  - 本文介绍了Stripe自主编码代理系统Minions的技术架构，包括基于Devbox的运行环境、定制代理框架、混合工作流的蓝图机制、上下文收集规则及迭代反馈机制，展示了AI如何优化软件工程实践。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (50 entries)
+- [2026-03](202603/monthly-index.md) (51 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

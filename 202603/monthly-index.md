@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-20) [AprilNEA - Full Stack Engineer](2026-03-20-aprilnea---full-stack-engineer.md)
+  - 本文通过逆向工程分析Claude Code Web，揭示Anthropic未公开的基础设施架构，包括Firecracker微虚拟机运行环境、内部技术栈、Antspace PaaS平台及BYOC支持，展现其构建垂直整合AI应用平台的战略野心。
+  - Tags: #read #agent #deepdive
+
 - (2026-03-20) [Can LLMs Be Computers? | Percepta](2026-03-20-can-llms-be-computers-percepta.md)
   - 本文探讨了大型语言模型（LLMs）作为计算机执行程序的潜力，提出了一种在Transformer架构内直接执行程序的新方法，显著提升推理速度并保持通用性，暗示LLMs可能演变为更高效的通用计算平台。
   - Tags: #read #llm
