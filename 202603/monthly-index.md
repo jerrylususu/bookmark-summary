@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-20) [The Plumbing of Everyday Magic](2026-03-20-the-plumbing-of-everyday-magic.md)
+  - 本文指出Web开发中用户体验与底层运维割裂的问题，通过个人项目案例揭示运维陷阱如何阻碍创作。作者倡导“可塑文档”理念，主张融合编辑与分享功能，回归早期Web的开放活力，以工具简化开发流程，让每个人都能轻松成为创作者。
+  - Tags: #read
+
 - (2026-03-20) [I Ditched Elasticsearch for Meilisearch. Here's What Nobody Tells You.](2026-03-20-i-ditched-elasticsearch-for-meilisearch.-here%27s-what-nobody-tells-you..md)
   - 作者从Elasticsearch迁移到Meilisearch，显著降低了成本与延迟，简化了运维。Meilisearch专为应用内搜索优化，适合中小型项目，但受限于单节点和内存，不适合复杂分析场景。
   - Tags: #read #db

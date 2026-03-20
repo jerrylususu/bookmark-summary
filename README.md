@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-20) [The Plumbing of Everyday Magic](202603/2026-03-20-the-plumbing-of-everyday-magic.md)
+  - 本文指出Web开发中用户体验与底层运维割裂的问题，通过个人项目案例揭示运维陷阱如何阻碍创作。作者倡导“可塑文档”理念，主张融合编辑与分享功能，回归早期Web的开放活力，以工具简化开发流程，让每个人都能轻松成为创作者。
+  - Tags: #read
+
 - (2026-03-20) [I Ditched Elasticsearch for Meilisearch. Here's What Nobody Tells You.](202603/2026-03-20-i-ditched-elasticsearch-for-meilisearch.-here%27s-what-nobody-tells-you..md)
   - 作者从Elasticsearch迁移到Meilisearch，显著降低了成本与延迟，简化了运维。Meilisearch专为应用内搜索优化，适合中小型项目，但受限于单节点和内存，不适合复杂分析场景。
   - Tags: #read #db
@@ -39,13 +43,9 @@
   - 理解债指过度依赖AI导致人类理解与代码增长脱节，易引发系统性风险。被动使用AI会削弱开发者能力，主动提问可缓解。未来关键领域需强化对AI代码的理解，工作重心应从代码量转向深度理解与决策。
   - Tags: #read #agent
 
-- (2026-03-15) [Write tests to solve trust issues, not code coverage](202603/2026-03-15-write-tests-to-solve-trust-issues%2C-not-code-coverage.md)
-  - 本文强调编写测试旨在解决信任问题，而非追求代码覆盖率。作者主张测试应针对真实生产行为，基于实际需求决定，而非盲目追求数字；在组织中，信任应通过代码审查和团队协作分配，最终提升开发信心与效率。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (46 entries)
+- [2026-03](202603/monthly-index.md) (47 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
