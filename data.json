@@ -10839,5 +10839,16 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "深度解析：Claude Code /insights 命令的运作机制",
+    "url": "https://baoyu.io/translations/2026/02/05/claude-code-insights-command",
+    "timestamp": 1774023632,
+    "tags": [
+      "read",
+      "agent",
+      "deepdive"
+    ]
   }
 ]

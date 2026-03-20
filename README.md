@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-20) [深度解析：Claude Code /insights 命令的运作机制](202603/2026-03-20-%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%EF%BC%9Aclaude-code-insights-%E5%91%BD%E4%BB%A4%E7%9A%84%E8%BF%90%E4%BD%9C%E6%9C%BA%E5%88%B6.md)
+  - 该文解析了Claude Code的`/insights`命令，通过六阶段流程分析本地会话日志，生成交互式HTML报告，涵盖数据收集、特征提取与隐私保护，帮助用户优化使用体验。
+  - Tags: #read #agent #deepdive
+
 - (2026-03-20) [A sufficiently detailed spec is code](202603/2026-03-20-a-sufficiently-detailed-spec-is-code.md)
   - 文章批判“从规范生成代码”的流行观点，指出详细规范本质上已接近代码，无法简化开发。通过分析OpenAI的Symphony项目，说明规范若足够详细则复杂度与代码相当，且生成的实现常存在缺陷。结论认为，在追求速度的行业环境下，直接编码比依赖不清晰的规范更高效。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文提出通过制度化方法实现AI与人类协作的软件生产力跃升，核心在于建立匹配Agent特性的新工程制度，强调闭环与演进原则，并分三卷探讨从可靠编程到规模化开发及组织治理的路径。
   - Tags: #read #book #agent
 
-- (2026-03-17) [Every layer of review makes you 10x slower](202603/2026-03-17-every-layer-of-review-makes-you-10x-slower.md)
-  - 文章指出审批流程每增加一层，进度延迟约10倍，AI工具虽加速编码但加剧审查负担。作者批评极端“停止审查”会降低质量，主张通过信任体系、模块化和小团队协作减少审批层级，提升效率，实现持续优化。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (52 entries)
+- [2026-03](202603/monthly-index.md) (53 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
