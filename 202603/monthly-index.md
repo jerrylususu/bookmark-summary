@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-20) [The programmers who live in Flatland](2026-03-20-the-programmers-who-live-in-flatland.md)
+  - 文章以《平面国》比喻程序员对高级编程概念的认知局限，指出Lisp/Clojure的宏代表编程新维度，突破需思维框架转变。作者强调保持好奇、主动探索是成长关键，反驳宏影响协作的担忧，认为合理使用能提升效率。
+  - Tags: #read
+
 - (2026-03-20) [The Plumbing of Everyday Magic](2026-03-20-the-plumbing-of-everyday-magic.md)
   - 本文指出Web开发中用户体验与底层运维割裂的问题，通过个人项目案例揭示运维陷阱如何阻碍创作。作者倡导“可塑文档”理念，主张融合编辑与分享功能，回归早期Web的开放活力，以工具简化开发流程，让每个人都能轻松成为创作者。
   - Tags: #read
