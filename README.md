@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-21) [The bespoke software revolution? I'm not buying it.](202603/2026-03-21-the-bespoke-software-revolution-i%27m-not-buying-it..md)
+  - 作者质疑定制软件革命，认为其臃肿且脱离实际需求。企业更需直接解决问题的工具，而非自行构建系统。AI虽普及，但深入定制开发仍限于技术爱好者，工具无法让普通用户成为建造者。
+  - Tags: #read
+
 - (2026-03-20) [深度解析：Claude Code /insights 命令的运作机制](202603/2026-03-20-%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%EF%BC%9Aclaude-code-insights-%E5%91%BD%E4%BB%A4%E7%9A%84%E8%BF%90%E4%BD%9C%E6%9C%BA%E5%88%B6.md)
-  - 该文解析了Claude Code的`/insights`命令，通过六阶段流程分析本地会话日志，生成交互式HTML报告，涵盖数据收集、特征提取与隐私保护，帮助用户优化使用体验。
+  - 该文解析了Claude Code的命令，通过六阶段流程分析本地会话日志，生成交互式HTML报告，涵盖数据收集、特征提取与隐私保护，帮助用户优化使用体验。
   - Tags: #read #agent #deepdive
 
 - (2026-03-20) [A sufficiently detailed spec is code](202603/2026-03-20-a-sufficiently-detailed-spec-is-code.md)
@@ -39,13 +43,9 @@
   - 该手册为AI驱动开发团队提供结构化面试指南，定义Builder和Reviewer两类岗位，采用60分钟面试流程，涵盖通用与专项模块，设置否决项和评分标准，强调工程师价值转向提问与审查。
   - Tags: #read #agent
 
-- (2026-03-19) [引言: 高质量交付 100x 生产力 · AgentZones Playbook](202603/2026-03-19-%E5%BC%95%E8%A8%80-%E9%AB%98%E8%B4%A8%E9%87%8F%E4%BA%A4%E4%BB%98-100x-%E7%94%9F%E4%BA%A7%E5%8A%9B-%C2%B7-agentzones-playbook.md)
-  - 本文提出通过制度化方法实现AI与人类协作的软件生产力跃升，核心在于建立匹配Agent特性的新工程制度，强调闭环与演进原则，并分三卷探讨从可靠编程到规模化开发及组织治理的路径。
-  - Tags: #read #book #agent
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (53 entries)
+- [2026-03](202603/monthly-index.md) (54 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

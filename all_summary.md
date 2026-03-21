@@ -1,8 +1,12 @@
 # All Bookmarks Summary
 
+- (2026-03-21) [The bespoke software revolution? I'm not buying it.](202603/2026-03-21-the-bespoke-software-revolution-i%27m-not-buying-it..md)
+  - Tags: #read
+  - Summary: 作者质疑定制软件革命，认为其臃肿且脱离实际需求。企业更需直接解决问题的工具，而非自行构建系统。AI虽普及，但深入定制开发仍限于技术爱好者，工具无法让普通用户成为建造者。
+
 - (2026-03-20) [深度解析：Claude Code /insights 命令的运作机制](202603/2026-03-20-%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%EF%BC%9Aclaude-code-insights-%E5%91%BD%E4%BB%A4%E7%9A%84%E8%BF%90%E4%BD%9C%E6%9C%BA%E5%88%B6.md)
   - Tags: #read #agent #deepdive
-  - Summary: 该文解析了Claude Code的`/insights`命令，通过六阶段流程分析本地会话日志，生成交互式HTML报告，涵盖数据收集、特征提取与隐私保护，帮助用户优化使用体验。
+  - Summary: 该文解析了Claude Code的命令，通过六阶段流程分析本地会话日志，生成交互式HTML报告，涵盖数据收集、特征提取与隐私保护，帮助用户优化使用体验。
 
 - (2026-03-20) [A sufficiently detailed spec is code](202603/2026-03-20-a-sufficiently-detailed-spec-is-code.md)
   - Tags: #read #agent
