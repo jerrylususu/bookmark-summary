@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-21) [你不知道的 Agent：原理、架构与工程实践 - Tw93](202603/2026-03-21-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-agent%EF%BC%9A%E5%8E%9F%E7%90%86%E3%80%81%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5---tw93.md)
+  - Tags: #read #agent #deepdive
+  - Summary: 本文系统介绍了Agent的原理、架构与工程实践，涵盖控制流、上下文工程、工具设计等核心模块，并结合OpenClaw案例说明设计原则的落地，强调稳定性、可验证性与工程细节的重要性。
+
 - (2026-03-21) [The bespoke software revolution? I'm not buying it.](202603/2026-03-21-the-bespoke-software-revolution-i%27m-not-buying-it..md)
   - Tags: #read
   - Summary: 作者质疑定制软件革命，认为其臃肿且脱离实际需求。企业更需直接解决问题的工具，而非自行构建系统。AI虽普及，但深入定制开发仍限于技术爱好者，工具无法让普通用户成为建造者。

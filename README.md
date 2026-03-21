@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-21) [你不知道的 Agent：原理、架构与工程实践 - Tw93](202603/2026-03-21-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-agent%EF%BC%9A%E5%8E%9F%E7%90%86%E3%80%81%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5---tw93.md)
+  - 本文系统介绍了Agent的原理、架构与工程实践，涵盖控制流、上下文工程、工具设计等核心模块，并结合OpenClaw案例说明设计原则的落地，强调稳定性、可验证性与工程细节的重要性。
+  - Tags: #read #agent #deepdive
+
 - (2026-03-21) [The bespoke software revolution? I'm not buying it.](202603/2026-03-21-the-bespoke-software-revolution-i%27m-not-buying-it..md)
   - 作者质疑定制软件革命，认为其臃肿且脱离实际需求。企业更需直接解决问题的工具，而非自行构建系统。AI虽普及，但深入定制开发仍限于技术爱好者，工具无法让普通用户成为建造者。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 作者从Elasticsearch迁移到Meilisearch，显著降低了成本与延迟，简化了运维。Meilisearch专为应用内搜索优化，适合中小型项目，但受限于单节点和内存，不适合复杂分析场景。
   - Tags: #read #db
 
-- (2026-03-20) [AI-Native 工程师招聘面试官手册](202603/2026-03-20-ai-native-%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%8B%9B%E8%81%98%E9%9D%A2%E8%AF%95%E5%AE%98%E6%89%8B%E5%86%8C.md)
-  - 该手册为AI驱动开发团队提供结构化面试指南，定义Builder和Reviewer两类岗位，采用60分钟面试流程，涵盖通用与专项模块，设置否决项和评分标准，强调工程师价值转向提问与审查。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (54 entries)
+- [2026-03](202603/monthly-index.md) (55 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
