@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-21) [Some Things Just Take Time](202603/2026-03-21-some-things-just-take-time.md)
+  - 文章以树木生长为隐喻，批判科技行业“速成文化”，强调耐心与长期投入的价值。作者指出，AI工具虽提升效率，却加剧了短期行为，破坏信任与可持续性。通过个人经历，他呼吁重视时间沉淀带来的信任、质量与社区，倡导对长期成长的耐心期待。
+  - Tags: #read
+
 - (2026-03-21) [你不知道的 Agent：原理、架构与工程实践 - Tw93](202603/2026-03-21-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-agent%EF%BC%9A%E5%8E%9F%E7%90%86%E3%80%81%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5---tw93.md)
   - 本文系统介绍了Agent的原理、架构与工程实践，涵盖控制流、上下文工程、工具设计等核心模块，并结合OpenClaw案例说明设计原则的落地，强调稳定性、可验证性与工程细节的重要性。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - 本文指出Web开发中用户体验与底层运维割裂的问题，通过个人项目案例揭示运维陷阱如何阻碍创作。作者倡导“可塑文档”理念，主张融合编辑与分享功能，回归早期Web的开放活力，以工具简化开发流程，让每个人都能轻松成为创作者。
   - Tags: #read
 
-- (2026-03-20) [I Ditched Elasticsearch for Meilisearch. Here's What Nobody Tells You.](202603/2026-03-20-i-ditched-elasticsearch-for-meilisearch.-here%27s-what-nobody-tells-you..md)
-  - 作者从Elasticsearch迁移到Meilisearch，显著降低了成本与延迟，简化了运维。Meilisearch专为应用内搜索优化，适合中小型项目，但受限于单节点和内存，不适合复杂分析场景。
-  - Tags: #read #db
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (55 entries)
+- [2026-03](202603/monthly-index.md) (56 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
