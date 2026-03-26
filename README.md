@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-26) [Building a Runtime with QuickJS](202603/2026-03-26-building-a-runtime-with-quickjs.md)
+  - 本文介绍如何基于QuickJS构建轻量级JavaScript运行时，逐步实现console.log、process.uptime()、定时器、事件循环及同步/异步文件I/O功能，并通过线程池处理异步任务。最终运行时在启动速度和文件读取方面优于Node.js，代码已开源。
+  - Tags: #read #js #deepdive
+
 - (2026-03-26) [Thoughts on slowing the fuck down](202603/2026-03-26-thoughts-on-slowing-the-fuck-down.md)
   - 本文指出AI编程代理过度使用导致代码质量下降、系统复杂失控，建议人类主导、审慎使用代理，以确保软件可维护与高质量。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 作者提出“漏斗式阅读工作流”，通过RSS聚合、AI精选与人工精读分层处理信息，旨在过滤噪音、沉淀高价值内容，提升信息吸收效率与知识产出。
   - Tags: #read
 
-- (2026-03-20) [The programmers who live in Flatland](202603/2026-03-20-the-programmers-who-live-in-flatland.md)
-  - 文章以《平面国》比喻程序员对高级编程概念的认知局限，指出Lisp/Clojure的宏代表编程新维度，突破需思维框架转变。作者强调保持好奇、主动探索是成长关键，反驳宏影响协作的担忧，认为合理使用能提升效率。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (57 entries)
+- [2026-03](202603/monthly-index.md) (58 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

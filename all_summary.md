@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-26) [Building a Runtime with QuickJS](202603/2026-03-26-building-a-runtime-with-quickjs.md)
+  - Tags: #read #js #deepdive
+  - Summary: 本文介绍如何基于QuickJS构建轻量级JavaScript运行时，逐步实现console.log、process.uptime()、定时器、事件循环及同步/异步文件I/O功能，并通过线程池处理异步任务。最终运行时在启动速度和文件读取方面优于Node.js，代码已开源。
+
 - (2026-03-26) [Thoughts on slowing the fuck down](202603/2026-03-26-thoughts-on-slowing-the-fuck-down.md)
   - Tags: #read #agent
   - Summary: 本文指出AI编程代理过度使用导致代码质量下降、系统复杂失控，建议人类主导、审慎使用代理，以确保软件可维护与高质量。
