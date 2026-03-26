@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-26) [Thoughts on slowing the fuck down](2026-03-26-thoughts-on-slowing-the-fuck-down.md)
+  - 本文指出AI编程代理过度使用导致代码质量下降、系统复杂失控，建议人类主导、审慎使用代理，以确保软件可维护与高质量。
+  - Tags: #read #agent
+
 - (2026-03-21) [Some Things Just Take Time](2026-03-21-some-things-just-take-time.md)
   - 文章以树木生长为隐喻，批判科技行业“速成文化”，强调耐心与长期投入的价值。作者指出，AI工具虽提升效率，却加剧了短期行为，破坏信任与可持续性。通过个人经历，他呼吁重视时间沉淀带来的信任、质量与社区，倡导对长期成长的耐心期待。
   - Tags: #read

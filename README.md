@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-26) [Thoughts on slowing the fuck down](202603/2026-03-26-thoughts-on-slowing-the-fuck-down.md)
+  - 本文指出AI编程代理过度使用导致代码质量下降、系统复杂失控，建议人类主导、审慎使用代理，以确保软件可维护与高质量。
+  - Tags: #read #agent
+
 - (2026-03-21) [Some Things Just Take Time](202603/2026-03-21-some-things-just-take-time.md)
   - 文章以树木生长为隐喻，批判科技行业“速成文化”，强调耐心与长期投入的价值。作者指出，AI工具虽提升效率，却加剧了短期行为，破坏信任与可持续性。通过个人经历，他呼吁重视时间沉淀带来的信任、质量与社区，倡导对长期成长的耐心期待。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章以《平面国》比喻程序员对高级编程概念的认知局限，指出Lisp/Clojure的宏代表编程新维度，突破需思维框架转变。作者强调保持好奇、主动探索是成长关键，反驳宏影响协作的担忧，认为合理使用能提升效率。
   - Tags: #read
 
-- (2026-03-20) [The Plumbing of Everyday Magic](202603/2026-03-20-the-plumbing-of-everyday-magic.md)
-  - 本文指出Web开发中用户体验与底层运维割裂的问题，通过个人项目案例揭示运维陷阱如何阻碍创作。作者倡导“可塑文档”理念，主张融合编辑与分享功能，回归早期Web的开放活力，以工具简化开发流程，让每个人都能轻松成为创作者。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (56 entries)
+- [2026-03](202603/monthly-index.md) (57 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
