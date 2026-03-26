@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-26) [Porting Go's io package to C](2026-03-26-porting-go%27s-io-package-to-c.md)
+  - 本文介绍了将Go的`io`包移植到C语言的过程，通过结构体模拟切片、联合体处理多返回值、函数指针实现接口等方法，在C中构建Go子集，使代码风格相似但更冗长，并计划后续移植更多包。
+  - Tags: #read #deepdive
+
 - (2026-03-26) [Building a Runtime with QuickJS](2026-03-26-building-a-runtime-with-quickjs.md)
   - 本文介绍如何基于QuickJS构建轻量级JavaScript运行时，逐步实现console.log、process.uptime()、定时器、事件循环及同步/异步文件I/O功能，并通过线程池处理异步任务。最终运行时在启动速度和文件读取方面优于Node.js，代码已开源。
   - Tags: #read #js #deepdive

@@ -10900,5 +10900,15 @@
       "js",
       "deepdive"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Porting Go's io package to C",
+    "url": "https://antonz.org/porting-go-io/",
+    "timestamp": 1774534687,
+    "tags": [
+      "read",
+      "deepdive"
+    ]
   }
 ]
