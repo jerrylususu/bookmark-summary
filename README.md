@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-26) [OpenClaw：技术解读和给 AI 应用开发的启示（2026）](202603/2026-03-26-openclaw%EF%BC%9A%E6%8A%80%E6%9C%AF%E8%A7%A3%E8%AF%BB%E5%92%8C%E7%BB%99-ai-%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%9A%84%E5%90%AF%E7%A4%BA%EF%BC%882026%EF%BC%89.md)
+  - OpenClaw是一个面向真实工作流的AI助手基础设施层，整合LLM、Agent、工具与记忆机制，通过架构设计与实践案例，为AI应用开发提供可扩展、安全的个人助手框架参考。
+  - Tags: #read #agent #deepdive
+
 - (2026-03-26) [How I ruined my vacation by reverse engineering WSC](202603/2026-03-26-how-i-ruined-my-vacation-by-reverse-engineering-wsc.md)
   - 作者在首尔度假时，受朋友启发开发了一款无需第三方软件即可禁用Windows Defender的工具。尽管面临ARM64 MacBook开发、远程调试延迟等挑战，经过三天逆向工程和调试，最终成功实现工具并解决自动运行问题。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章批判“从规范生成代码”的流行观点，指出详细规范本质上已接近代码，无法简化开发。通过分析OpenAI的Symphony项目，说明规范若足够详细则复杂度与代码相当，且生成的实现常存在缺陷。结论认为，在追求速度的行业环境下，直接编码比依赖不清晰的规范更高效。
   - Tags: #read #agent
 
-- (2026-03-20) [AprilNEA - Full Stack Engineer](202603/2026-03-20-aprilnea---full-stack-engineer.md)
-  - 本文通过逆向工程分析Claude Code Web，揭示Anthropic未公开的基础设施架构，包括Firecracker微虚拟机运行环境、内部技术栈、Antspace PaaS平台及BYOC支持，展现其构建垂直整合AI应用平台的战略野心。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (60 entries)
+- [2026-03](202603/monthly-index.md) (61 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

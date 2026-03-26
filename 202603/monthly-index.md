@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-26) [OpenClaw：技术解读和给 AI 应用开发的启示（2026）](2026-03-26-openclaw%EF%BC%9A%E6%8A%80%E6%9C%AF%E8%A7%A3%E8%AF%BB%E5%92%8C%E7%BB%99-ai-%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%9A%84%E5%90%AF%E7%A4%BA%EF%BC%882026%EF%BC%89.md)
+  - OpenClaw是一个面向真实工作流的AI助手基础设施层，整合LLM、Agent、工具与记忆机制，通过架构设计与实践案例，为AI应用开发提供可扩展、安全的个人助手框架参考。
+  - Tags: #read #agent #deepdive
+
 - (2026-03-26) [How I ruined my vacation by reverse engineering WSC](2026-03-26-how-i-ruined-my-vacation-by-reverse-engineering-wsc.md)
   - 作者在首尔度假时，受朋友启发开发了一款无需第三方软件即可禁用Windows Defender的工具。尽管面临ARM64 MacBook开发、远程调试延迟等挑战，经过三天逆向工程和调试，最终成功实现工具并解决自动运行问题。
   - Tags: #read
