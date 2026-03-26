@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-26) [How I ruined my vacation by reverse engineering WSC](202603/2026-03-26-how-i-ruined-my-vacation-by-reverse-engineering-wsc.md)
+  - 作者在首尔度假时，受朋友启发开发了一款无需第三方软件即可禁用Windows Defender的工具。尽管面临ARM64 MacBook开发、远程调试延迟等挑战，经过三天逆向工程和调试，最终成功实现工具并解决自动运行问题。
+  - Tags: #read
+
 - (2026-03-26) [Porting Go's io package to C](202603/2026-03-26-porting-go%27s-io-package-to-c.md)
-  - 本文介绍了将Go的`io`包移植到C语言的过程，通过结构体模拟切片、联合体处理多返回值、函数指针实现接口等方法，在C中构建Go子集，使代码风格相似但更冗长，并计划后续移植更多包。
+  - 本文介绍了将Go的包移植到C语言的过程，通过结构体模拟切片、联合体处理多返回值、函数指针实现接口等方法，在C中构建Go子集，使代码风格相似但更冗长，并计划后续移植更多包。
   - Tags: #read #deepdive
 
 - (2026-03-26) [Building a Runtime with QuickJS](202603/2026-03-26-building-a-runtime-with-quickjs.md)
@@ -39,13 +43,9 @@
   - 本文通过逆向工程分析Claude Code Web，揭示Anthropic未公开的基础设施架构，包括Firecracker微虚拟机运行环境、内部技术栈、Antspace PaaS平台及BYOC支持，展现其构建垂直整合AI应用平台的战略野心。
   - Tags: #read #agent #deepdive
 
-- (2026-03-20) [Can LLMs Be Computers? | Percepta](202603/2026-03-20-can-llms-be-computers-percepta.md)
-  - 本文探讨了大型语言模型（LLMs）作为计算机执行程序的潜力，提出了一种在Transformer架构内直接执行程序的新方法，显著提升推理速度并保持通用性，暗示LLMs可能演变为更高效的通用计算平台。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (59 entries)
+- [2026-03](202603/monthly-index.md) (60 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

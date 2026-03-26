@@ -1,7 +1,11 @@
 # 2026-03 Monthly Index
 
+- (2026-03-26) [How I ruined my vacation by reverse engineering WSC](2026-03-26-how-i-ruined-my-vacation-by-reverse-engineering-wsc.md)
+  - 作者在首尔度假时，受朋友启发开发了一款无需第三方软件即可禁用Windows Defender的工具。尽管面临ARM64 MacBook开发、远程调试延迟等挑战，经过三天逆向工程和调试，最终成功实现工具并解决自动运行问题。
+  - Tags: #read
+
 - (2026-03-26) [Porting Go's io package to C](2026-03-26-porting-go%27s-io-package-to-c.md)
-  - 本文介绍了将Go的`io`包移植到C语言的过程，通过结构体模拟切片、联合体处理多返回值、函数指针实现接口等方法，在C中构建Go子集，使代码风格相似但更冗长，并计划后续移植更多包。
+  - 本文介绍了将Go的包移植到C语言的过程，通过结构体模拟切片、联合体处理多返回值、函数指针实现接口等方法，在C中构建Go子集，使代码风格相似但更冗长，并计划后续移植更多包。
   - Tags: #read #deepdive
 
 - (2026-03-26) [Building a Runtime with QuickJS](2026-03-26-building-a-runtime-with-quickjs.md)
