@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-28) [将 VS Code 打造成跨平台 Markdown「草稿本」](202603/2026-03-28-%E5%B0%86-vs-code-%E6%89%93%E9%80%A0%E6%88%90%E8%B7%A8%E5%B9%B3%E5%8F%B0-markdown%E3%80%8C%E8%8D%89%E7%A8%BF%E6%9C%AC%E3%80%8D.md)
+  - 本文介绍如何利用 VS Code 的配置文件、代码片段和任务功能，将其打造成跨平台 Markdown 草稿本，实现快速记录、自动保存及多端同步。
+  - Tags: #read #tips
+
 - (2026-03-26) [OpenClaw：技术解读和给 AI 应用开发的启示（2026）](202603/2026-03-26-openclaw%EF%BC%9A%E6%8A%80%E6%9C%AF%E8%A7%A3%E8%AF%BB%E5%92%8C%E7%BB%99-ai-%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%9A%84%E5%90%AF%E7%A4%BA%EF%BC%882026%EF%BC%89.md)
   - OpenClaw是一个面向真实工作流的AI助手基础设施层，整合LLM、Agent、工具与记忆机制，通过架构设计与实践案例，为AI应用开发提供可扩展、安全的个人助手框架参考。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - 该文解析了Claude Code的命令，通过六阶段流程分析本地会话日志，生成交互式HTML报告，涵盖数据收集、特征提取与隐私保护，帮助用户优化使用体验。
   - Tags: #read #agent #deepdive
 
-- (2026-03-20) [A sufficiently detailed spec is code](202603/2026-03-20-a-sufficiently-detailed-spec-is-code.md)
-  - 文章批判“从规范生成代码”的流行观点，指出详细规范本质上已接近代码，无法简化开发。通过分析OpenAI的Symphony项目，说明规范若足够详细则复杂度与代码相当，且生成的实现常存在缺陷。结论认为，在追求速度的行业环境下，直接编码比依赖不清晰的规范更高效。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (61 entries)
+- [2026-03](202603/monthly-index.md) (62 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

@@ -10930,5 +10930,15 @@
       "agent",
       "deepdive"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "将 VS Code 打造成跨平台 Markdown「草稿本」",
+    "url": "https://hsu.cy/2023/09/vscode-as-scratchpad/",
+    "timestamp": 1774684280,
+    "tags": [
+      "read",
+      "tips"
+    ]
   }
 ]

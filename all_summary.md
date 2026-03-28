@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-03-28) [将 VS Code 打造成跨平台 Markdown「草稿本」](202603/2026-03-28-%E5%B0%86-vs-code-%E6%89%93%E9%80%A0%E6%88%90%E8%B7%A8%E5%B9%B3%E5%8F%B0-markdown%E3%80%8C%E8%8D%89%E7%A8%BF%E6%9C%AC%E3%80%8D.md)
+  - Tags: #read #tips
+  - Summary: 本文介绍如何利用 VS Code 的配置文件、代码片段和任务功能，将其打造成跨平台 Markdown 草稿本，实现快速记录、自动保存及多端同步。
+
 - (2026-03-26) [OpenClaw：技术解读和给 AI 应用开发的启示（2026）](202603/2026-03-26-openclaw%EF%BC%9A%E6%8A%80%E6%9C%AF%E8%A7%A3%E8%AF%BB%E5%92%8C%E7%BB%99-ai-%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%9A%84%E5%90%AF%E7%A4%BA%EF%BC%882026%EF%BC%89.md)
   - Tags: #read #agent #deepdive
   - Summary: OpenClaw是一个面向真实工作流的AI助手基础设施层，整合LLM、Agent、工具与记忆机制，通过架构设计与实践案例，为AI应用开发提供可扩展、安全的个人助手框架参考。
