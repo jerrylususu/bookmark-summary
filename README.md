@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-28) [我是如何构建一个 AI 原生量化系统的](202603/2026-03-28-%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA-ai-%E5%8E%9F%E7%94%9F%E9%87%8F%E5%8C%96%E7%B3%BB%E7%BB%9F%E7%9A%84.md)
+  - 策引系统通过DSL将用户意图转化为透明策略，由引擎执行决策，强调可理解性与信任，避免AI直接生成信号带来的不确定性。
+  - Tags: #read #agent #deepdive
+
 - (2026-03-28) [SD存储卡越用越慢？教你一招免费修复，瞬间省下上千元 - 少数派](202603/2026-03-28-sd%E5%AD%98%E5%82%A8%E5%8D%A1%E8%B6%8A%E7%94%A8%E8%B6%8A%E6%85%A2%EF%BC%9F%E6%95%99%E4%BD%A0%E4%B8%80%E6%8B%9B%E5%85%8D%E8%B4%B9%E4%BF%AE%E5%A4%8D%EF%BC%8C%E7%9E%AC%E9%97%B4%E7%9C%81%E4%B8%8B%E4%B8%8A%E5%8D%83%E5%85%83---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
   - 本文介绍使用SD Card Formatter免费修复SD卡变慢问题的方法，通过覆盖格式化恢复性能，适用于非物理损坏的卡，能节省更换成本。
   - Tags: #read #tips
@@ -39,13 +43,9 @@
   - 本文系统介绍了Agent的原理、架构与工程实践，涵盖控制流、上下文工程、工具设计等核心模块，并结合OpenClaw案例说明设计原则的落地，强调稳定性、可验证性与工程细节的重要性。
   - Tags: #read #agent #deepdive
 
-- (2026-03-21) [The bespoke software revolution? I'm not buying it.](202603/2026-03-21-the-bespoke-software-revolution-i%27m-not-buying-it..md)
-  - 作者质疑定制软件革命，认为其臃肿且脱离实际需求。企业更需直接解决问题的工具，而非自行构建系统。AI虽普及，但深入定制开发仍限于技术爱好者，工具无法让普通用户成为建造者。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (63 entries)
+- [2026-03](202603/monthly-index.md) (64 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
