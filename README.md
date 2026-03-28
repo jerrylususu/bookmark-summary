@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-28) [SD存储卡越用越慢？教你一招免费修复，瞬间省下上千元 - 少数派](202603/2026-03-28-sd%E5%AD%98%E5%82%A8%E5%8D%A1%E8%B6%8A%E7%94%A8%E8%B6%8A%E6%85%A2%EF%BC%9F%E6%95%99%E4%BD%A0%E4%B8%80%E6%8B%9B%E5%85%8D%E8%B4%B9%E4%BF%AE%E5%A4%8D%EF%BC%8C%E7%9E%AC%E9%97%B4%E7%9C%81%E4%B8%8B%E4%B8%8A%E5%8D%83%E5%85%83---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
+  - 本文介绍使用SD Card Formatter免费修复SD卡变慢问题的方法，通过覆盖格式化恢复性能，适用于非物理损坏的卡，能节省更换成本。
+  - Tags: #read #tips
+
 - (2026-03-28) [将 VS Code 打造成跨平台 Markdown「草稿本」](202603/2026-03-28-%E5%B0%86-vs-code-%E6%89%93%E9%80%A0%E6%88%90%E8%B7%A8%E5%B9%B3%E5%8F%B0-markdown%E3%80%8C%E8%8D%89%E7%A8%BF%E6%9C%AC%E3%80%8D.md)
   - 本文介绍如何利用 VS Code 的配置文件、代码片段和任务功能，将其打造成跨平台 Markdown 草稿本，实现快速记录、自动保存及多端同步。
   - Tags: #read #tips
@@ -39,13 +43,9 @@
   - 作者质疑定制软件革命，认为其臃肿且脱离实际需求。企业更需直接解决问题的工具，而非自行构建系统。AI虽普及，但深入定制开发仍限于技术爱好者，工具无法让普通用户成为建造者。
   - Tags: #read
 
-- (2026-03-20) [深度解析：Claude Code /insights 命令的运作机制](202603/2026-03-20-%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%EF%BC%9Aclaude-code-insights-%E5%91%BD%E4%BB%A4%E7%9A%84%E8%BF%90%E4%BD%9C%E6%9C%BA%E5%88%B6.md)
-  - 该文解析了Claude Code的命令，通过六阶段流程分析本地会话日志，生成交互式HTML报告，涵盖数据收集、特征提取与隐私保护，帮助用户优化使用体验。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (62 entries)
+- [2026-03](202603/monthly-index.md) (63 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
