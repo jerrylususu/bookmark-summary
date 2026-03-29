@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-29) [We Rewrote JSONata with AI in a Day, Saved $500K/Year](202603/2026-03-29-we-rewrote-jsonata-with-ai-in-a-day%2C-saved-%24500k-year.md)
+  - Reco公司采用AI辅助方法，用Go重写JSONata引擎，实现性能提升与成本节约，验证了AI代码生成在生产环境的可行性。
+  - Tags: #read
+
 - (2026-03-29) [The Code Agent Orchestra - what makes multi-agent coding work](202603/2026-03-29-the-code-agent-orchestra---what-makes-multi-agent-coding-work.md)
   - 本文介绍了多智能体编码从单智能体同步协作转向异步协同的范式转变，提出了三种模式（子智能体、团队、大规模编排）及质量保障、工具生态和实践方法，旨在提升编码效率与质量。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文介绍如何基于QuickJS构建轻量级JavaScript运行时，逐步实现console.log、process.uptime()、定时器、事件循环及同步/异步文件I/O功能，并通过线程池处理异步任务。最终运行时在启动速度和文件读取方面优于Node.js，代码已开源。
   - Tags: #read #js #deepdive
 
-- (2026-03-26) [Thoughts on slowing the fuck down](202603/2026-03-26-thoughts-on-slowing-the-fuck-down.md)
-  - 本文指出AI编程代理过度使用导致代码质量下降、系统复杂失控，建议人类主导、审慎使用代理，以确保软件可维护与高质量。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (66 entries)
+- [2026-03](202603/monthly-index.md) (67 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

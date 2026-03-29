@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-29) [We Rewrote JSONata with AI in a Day, Saved $500K/Year](2026-03-29-we-rewrote-jsonata-with-ai-in-a-day%2C-saved-%24500k-year.md)
+  - Reco公司采用AI辅助方法，用Go重写JSONata引擎，实现性能提升与成本节约，验证了AI代码生成在生产环境的可行性。
+  - Tags: #read
+
 - (2026-03-29) [The Code Agent Orchestra - what makes multi-agent coding work](2026-03-29-the-code-agent-orchestra---what-makes-multi-agent-coding-work.md)
   - 本文介绍了多智能体编码从单智能体同步协作转向异步协同的范式转变，提出了三种模式（子智能体、团队、大规模编排）及质量保障、工具生态和实践方法，旨在提升编码效率与质量。
   - Tags: #read #agent

@@ -10982,5 +10982,14 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "We Rewrote JSONata with AI in a Day, Saved $500K/Year",
+    "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+    "timestamp": 1774792366,
+    "tags": [
+      "read"
+    ]
   }
 ]
