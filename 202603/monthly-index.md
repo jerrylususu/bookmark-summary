@@ -1,7 +1,11 @@
 # 2026-03 Monthly Index
 
+- (2026-03-29) [The Code Agent Orchestra - what makes multi-agent coding work](2026-03-29-the-code-agent-orchestra---what-makes-multi-agent-coding-work.md)
+  - 本文介绍了多智能体编码从单智能体同步协作转向异步协同的范式转变，提出了三种模式（子智能体、团队、大规模编排）及质量保障、工具生态和实践方法，旨在提升编码效率与质量。
+  - Tags: #read #agent
+
 - (2026-03-29) [Using the Browser’s <canvas> for Data Compression](2026-03-29-using-the-browser%E2%80%99s-canvas-for-data-compression.md)
-  - 本文介绍利用 `<canvas>` 元素将数据编码为像素并导出为 PNG 图像，以实现前端数据压缩的方法。该方案适用于旧版浏览器，通过 PNG 格式压缩特性减小体积，支持压缩与解压操作，并提供完整代码示例。
+  - 本文介绍利用  元素将数据编码为像素并导出为 PNG 图像，以实现前端数据压缩的方法。该方案适用于旧版浏览器，通过 PNG 格式压缩特性减小体积，支持压缩与解压操作，并提供完整代码示例。
   - Tags: #read #frontend #hack
 
 - (2026-03-28) [我是如何构建一个 AI 原生量化系统的](2026-03-28-%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA-ai-%E5%8E%9F%E7%94%9F%E9%87%8F%E5%8C%96%E7%B3%BB%E7%BB%9F%E7%9A%84.md)

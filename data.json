@@ -10972,5 +10972,15 @@
       "frontend",
       "hack"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "The Code Agent Orchestra - what makes multi-agent coding work",
+    "url": "https://addyosmani.com/blog/code-agent-orchestra/",
+    "timestamp": 1774791985,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]
