@@ -10961,5 +10961,16 @@
       "agent",
       "deepdive"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Using the Browser’s <canvas> for Data Compression",
+    "url": "https://jstrieb.github.io/posts/canvas-compress/",
+    "timestamp": 1774790332,
+    "tags": [
+      "read",
+      "frontend",
+      "hack"
+    ]
   }
 ]
