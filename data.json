@@ -10991,5 +10991,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202603",
+    "title": "Rewriting pycparser with the help of an LLM - Eli Bendersky's website",
+    "url": "https://eli.thegreenplace.net/2026/rewriting-pycparser-with-the-help-of-an-llm/",
+    "timestamp": 1774876796,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

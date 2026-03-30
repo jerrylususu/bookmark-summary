@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-30) [Rewriting pycparser with the help of an LLM - Eli Bendersky's website](2026-03-30-rewriting-pycparser-with-the-help-of-an-llm---eli-bendersky%27s-website.md)
+  - 作者使用Codex重写pycparser，将其从PLY库转为手写递归下降解析器，提升了性能并解决了维护问题。LLM显著提高了效率（4-5小时完成），但代码仍需人工审查。
+  - Tags: #read #agent
+
 - (2026-03-29) [We Rewrote JSONata with AI in a Day, Saved $500K/Year](2026-03-29-we-rewrote-jsonata-with-ai-in-a-day%2C-saved-%24500k-year.md)
   - Reco公司采用AI辅助方法，用Go重写JSONata引擎，实现性能提升与成本节约，验证了AI代码生成在生产环境的可行性。
   - Tags: #read

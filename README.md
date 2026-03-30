@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-30) [Rewriting pycparser with the help of an LLM - Eli Bendersky's website](202603/2026-03-30-rewriting-pycparser-with-the-help-of-an-llm---eli-bendersky%27s-website.md)
+  - 作者使用Codex重写pycparser，将其从PLY库转为手写递归下降解析器，提升了性能并解决了维护问题。LLM显著提高了效率（4-5小时完成），但代码仍需人工审查。
+  - Tags: #read #agent
+
 - (2026-03-29) [We Rewrote JSONata with AI in a Day, Saved $500K/Year](202603/2026-03-29-we-rewrote-jsonata-with-ai-in-a-day%2C-saved-%24500k-year.md)
   - Reco公司采用AI辅助方法，用Go重写JSONata引擎，实现性能提升与成本节约，验证了AI代码生成在生产环境的可行性。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文介绍了将Go的包移植到C语言的过程，通过结构体模拟切片、联合体处理多返回值、函数指针实现接口等方法，在C中构建Go子集，使代码风格相似但更冗长，并计划后续移植更多包。
   - Tags: #read #deepdive
 
-- (2026-03-26) [Building a Runtime with QuickJS](202603/2026-03-26-building-a-runtime-with-quickjs.md)
-  - 本文介绍如何基于QuickJS构建轻量级JavaScript运行时，逐步实现console.log、process.uptime()、定时器、事件循环及同步/异步文件I/O功能，并通过线程池处理异步任务。最终运行时在启动速度和文件读取方面优于Node.js，代码已开源。
-  - Tags: #read #js #deepdive
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (67 entries)
+- [2026-03](202603/monthly-index.md) (68 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)
