@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-03-30) [杀死那个手工程序员 - Tw93](202603/2026-03-30-%E6%9D%80%E6%AD%BB%E9%82%A3%E4%B8%AA%E6%89%8B%E5%B7%A5%E7%A8%8B%E5%BA%8F%E5%91%98---tw93.md)
+  - AI技术正重塑软件开发行业，降低门槛的同时可能导致质量下降。未来程序员的核心价值将转向系统能力、工程深度与创新，而非单纯编码速度。选择做什么比如何做更重要。
+  - Tags: #read #career
+
 - (2026-03-30) [Rewriting pycparser with the help of an LLM - Eli Bendersky's website](202603/2026-03-30-rewriting-pycparser-with-the-help-of-an-llm---eli-bendersky%27s-website.md)
   - 作者使用Codex重写pycparser，将其从PLY库转为手写递归下降解析器，提升了性能并解决了维护问题。LLM显著提高了效率（4-5小时完成），但代码仍需人工审查。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 作者在首尔度假时，受朋友启发开发了一款无需第三方软件即可禁用Windows Defender的工具。尽管面临ARM64 MacBook开发、远程调试延迟等挑战，经过三天逆向工程和调试，最终成功实现工具并解决自动运行问题。
   - Tags: #read
 
-- (2026-03-26) [Porting Go's io package to C](202603/2026-03-26-porting-go%27s-io-package-to-c.md)
-  - 本文介绍了将Go的包移植到C语言的过程，通过结构体模拟切片、联合体处理多返回值、函数指针实现接口等方法，在C中构建Go子集，使代码风格相似但更冗长，并计划后续移植更多包。
-  - Tags: #read #deepdive
-
 ## Monthly Archive
 
-- [2026-03](202603/monthly-index.md) (68 entries)
+- [2026-03](202603/monthly-index.md) (69 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
 - [2025-12](202512/monthly-index.md) (68 entries)

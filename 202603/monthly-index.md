@@ -1,5 +1,9 @@
 # 2026-03 Monthly Index
 
+- (2026-03-30) [杀死那个手工程序员 - Tw93](2026-03-30-%E6%9D%80%E6%AD%BB%E9%82%A3%E4%B8%AA%E6%89%8B%E5%B7%A5%E7%A8%8B%E5%BA%8F%E5%91%98---tw93.md)
+  - AI技术正重塑软件开发行业，降低门槛的同时可能导致质量下降。未来程序员的核心价值将转向系统能力、工程深度与创新，而非单纯编码速度。选择做什么比如何做更重要。
+  - Tags: #read #career
+
 - (2026-03-30) [Rewriting pycparser with the help of an LLM - Eli Bendersky's website](2026-03-30-rewriting-pycparser-with-the-help-of-an-llm---eli-bendersky%27s-website.md)
   - 作者使用Codex重写pycparser，将其从PLY库转为手写递归下降解析器，提升了性能并解决了维护问题。LLM显著提高了效率（4-5小时完成），但代码仍需人工审查。
   - Tags: #read #agent
