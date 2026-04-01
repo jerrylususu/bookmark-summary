@@ -11031,5 +11031,15 @@
       "agent",
       "deepdive"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "解码 Agent Harness — Claude Code 架构深度剖析",
+    "url": "https://lintsinghua.github.io/",
+    "timestamp": 1775051917,
+    "tags": [
+      "book",
+      "agent"
+    ]
   }
 ]

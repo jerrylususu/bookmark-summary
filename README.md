@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-01) [解码 Agent Harness — Claude Code 架构深度剖析](202604/2026-04-01-%E8%A7%A3%E7%A0%81-agent-harness-%E2%80%94-claude-code-%E6%9E%B6%E6%9E%84%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90.md)
+  - 本文介绍了Claude Code的架构设计，重点解析了其核心组件Agent Harness。该框架通过模块化设计实现AI代理的灵活配置与高效执行，支持代码生成、自动化测试等场景，具备可扩展性和易用性。
+  - Tags: #book #agent
+
 - (2026-04-01) [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode, and more](202604/2026-04-01-the-claude-code-source-leak-fake-tools%2C-frustration-regexes%2C-undercover-mode%2C-and-more.md)
   - Anthropic因意外泄露Claude Code源代码，暴露了反蒸馏机制、隐蔽模式等技术细节及未发布产品KAIROS，核心损害在于泄露战略路线图，而非代码本身。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - 本文介绍使用SD Card Formatter免费修复SD卡变慢问题的方法，通过覆盖格式化恢复性能，适用于非物理损坏的卡，能节省更换成本。
   - Tags: #read #tips
 
-- (2026-03-28) [将 VS Code 打造成跨平台 Markdown「草稿本」](202603/2026-03-28-%E5%B0%86-vs-code-%E6%89%93%E9%80%A0%E6%88%90%E8%B7%A8%E5%B9%B3%E5%8F%B0-markdown%E3%80%8C%E8%8D%89%E7%A8%BF%E6%9C%AC%E3%80%8D.md)
-  - 本文介绍如何利用 VS Code 的配置文件、代码片段和任务功能，将其打造成跨平台 Markdown 草稿本，实现快速记录、自动保存及多端同步。
-  - Tags: #read #tips
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (1 entries)
+- [2026-04](202604/monthly-index.md) (2 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
