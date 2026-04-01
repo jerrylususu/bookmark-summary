@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-01) [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode, and more](202604/2026-04-01-the-claude-code-source-leak-fake-tools%2C-frustration-regexes%2C-undercover-mode%2C-and-more.md)
+  - Tags: #read #agent #deepdive
+  - Summary: Anthropic因意外泄露Claude Code源代码，暴露了反蒸馏机制、隐蔽模式等技术细节及未发布产品KAIROS，核心损害在于泄露战略路线图，而非代码本身。
+
 - (2026-03-31) [一行代码的事，Web 为什么做了三十年还没做到](202603/2026-03-31-%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%9A%84%E4%BA%8B%EF%BC%8Cweb-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E4%BA%86%E4%B8%89%E5%8D%81%E5%B9%B4%E8%BF%98%E6%B2%A1%E5%81%9A%E5%88%B0.md)
   - Tags: #read
   - Summary: 本文探讨了网页布局设计的权衡，对比了固定、流式、弹性、网格及响应式等策略的优缺点，强调需根据项目需求平衡用户体验、性能与维护性，并提供实践建议以优化开发效率。

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-01) [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode, and more](202604/2026-04-01-the-claude-code-source-leak-fake-tools%2C-frustration-regexes%2C-undercover-mode%2C-and-more.md)
+  - Anthropic因意外泄露Claude Code源代码，暴露了反蒸馏机制、隐蔽模式等技术细节及未发布产品KAIROS，核心损害在于泄露战略路线图，而非代码本身。
+  - Tags: #read #agent #deepdive
+
 - (2026-03-31) [一行代码的事，Web 为什么做了三十年还没做到](202603/2026-03-31-%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%9A%84%E4%BA%8B%EF%BC%8Cweb-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E4%BA%86%E4%B8%89%E5%8D%81%E5%B9%B4%E8%BF%98%E6%B2%A1%E5%81%9A%E5%88%B0.md)
   - 本文探讨了网页布局设计的权衡，对比了固定、流式、弹性、网格及响应式等策略的优缺点，强调需根据项目需求平衡用户体验、性能与维护性，并提供实践建议以优化开发效率。
   - Tags: #read
@@ -39,12 +43,9 @@
   - 本文介绍如何利用 VS Code 的配置文件、代码片段和任务功能，将其打造成跨平台 Markdown 草稿本，实现快速记录、自动保存及多端同步。
   - Tags: #read #tips
 
-- (2026-03-26) [OpenClaw：技术解读和给 AI 应用开发的启示（2026）](202603/2026-03-26-openclaw%EF%BC%9A%E6%8A%80%E6%9C%AF%E8%A7%A3%E8%AF%BB%E5%92%8C%E7%BB%99-ai-%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%9A%84%E5%90%AF%E7%A4%BA%EF%BC%882026%EF%BC%89.md)
-  - OpenClaw是一个面向真实工作流的AI助手基础设施层，整合LLM、Agent、工具与记忆机制，通过架构设计与实践案例，为AI应用开发提供可扩展、安全的个人助手框架参考。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
+- [2026-04](202604/monthly-index.md) (1 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

@@ -11020,5 +11020,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode, and more",
+    "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+    "timestamp": 1775051293,
+    "tags": [
+      "read",
+      "agent",
+      "deepdive"
+    ]
   }
 ]
