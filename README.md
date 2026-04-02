@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-02) [Agent-driven development in Copilot Applied Science](202604/2026-04-02-agent-driven-development-in-copilot-applied-science.md)
+  - 本文介绍了作者在GitHub Copilot团队中，通过构建“eval-agents”项目，利用编码代理自动化分析评估基准。作者分享了提示、架构与迭代策略，强调对话式提示、频繁重构及“责备流程”方法，提升了协作效率，推动团队关注代码质量，将Copilot视为新成员，实现高效创新的开发模式。
+  - Tags: #read #agent
+
 - (2026-04-02) [Building More Resilient Local-First Software with atproto | jakelazaroff.com](202604/2026-04-02-building-more-resilient-local-first-software-with-atproto-jakelazaroff.com.md)
   - 本文探讨利用 atproto 协议构建本地优先软件，通过 CRDT 与个人数据服务器（PDS）实现无服务器的实时协作文本编辑。方案结合持久化、同步与实时机制，但也指出 Jetstream 等局限性。作者认为 atproto 与本地优先理念契合，并提供了简化实现的 npm 包。
   - Tags: #read #deepdive
@@ -39,13 +43,9 @@
   - 本文介绍利用  元素将数据编码为像素并导出为 PNG 图像，以实现前端数据压缩的方法。该方案适用于旧版浏览器，通过 PNG 格式压缩特性减小体积，支持压缩与解压操作，并提供完整代码示例。
   - Tags: #read #frontend #hack
 
-- (2026-03-28) [我是如何构建一个 AI 原生量化系统的](202603/2026-03-28-%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA-ai-%E5%8E%9F%E7%94%9F%E9%87%8F%E5%8C%96%E7%B3%BB%E7%BB%9F%E7%9A%84.md)
-  - 策引系统通过DSL将用户意图转化为透明策略，由引擎执行决策，强调可理解性与信任，避免AI直接生成信号带来的不确定性。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (3 entries)
+- [2026-04](202604/monthly-index.md) (4 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

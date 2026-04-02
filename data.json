@@ -11051,5 +11051,15 @@
       "read",
       "deepdive"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Agent-driven development in Copilot Applied Science",
+    "url": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
+    "timestamp": 1775141393,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

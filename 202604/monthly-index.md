@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-02) [Agent-driven development in Copilot Applied Science](2026-04-02-agent-driven-development-in-copilot-applied-science.md)
+  - 本文介绍了作者在GitHub Copilot团队中，通过构建“eval-agents”项目，利用编码代理自动化分析评估基准。作者分享了提示、架构与迭代策略，强调对话式提示、频繁重构及“责备流程”方法，提升了协作效率，推动团队关注代码质量，将Copilot视为新成员，实现高效创新的开发模式。
+  - Tags: #read #agent
+
 - (2026-04-02) [Building More Resilient Local-First Software with atproto | jakelazaroff.com](2026-04-02-building-more-resilient-local-first-software-with-atproto-jakelazaroff.com.md)
   - 本文探讨利用 atproto 协议构建本地优先软件，通过 CRDT 与个人数据服务器（PDS）实现无服务器的实时协作文本编辑。方案结合持久化、同步与实时机制，但也指出 Jetstream 等局限性。作者认为 atproto 与本地优先理念契合，并提供了简化实现的 npm 包。
   - Tags: #read #deepdive
