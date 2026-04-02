@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-02) [Building More Resilient Local-First Software with atproto | jakelazaroff.com](202604/2026-04-02-building-more-resilient-local-first-software-with-atproto-jakelazaroff.com.md)
+  - Tags: #read #deepdive
+  - Summary: 本文探讨利用 atproto 协议构建本地优先软件，通过 CRDT 与个人数据服务器（PDS）实现无服务器的实时协作文本编辑。方案结合持久化、同步与实时机制，但也指出 Jetstream 等局限性。作者认为 atproto 与本地优先理念契合，并提供了简化实现的 npm 包。
+
 - (2026-04-01) [解码 Agent Harness — Claude Code 架构深度剖析](202604/2026-04-01-%E8%A7%A3%E7%A0%81-agent-harness-%E2%80%94-claude-code-%E6%9E%B6%E6%9E%84%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90.md)
   - Tags: #book #agent
   - Summary: 本文介绍了Claude Code的架构设计，重点解析了其核心组件Agent Harness。该框架通过模块化设计实现AI代理的灵活配置与高效执行，支持代码生成、自动化测试等场景，具备可扩展性和易用性。

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-02) [Building More Resilient Local-First Software with atproto | jakelazaroff.com](202604/2026-04-02-building-more-resilient-local-first-software-with-atproto-jakelazaroff.com.md)
+  - 本文探讨利用 atproto 协议构建本地优先软件，通过 CRDT 与个人数据服务器（PDS）实现无服务器的实时协作文本编辑。方案结合持久化、同步与实时机制，但也指出 Jetstream 等局限性。作者认为 atproto 与本地优先理念契合，并提供了简化实现的 npm 包。
+  - Tags: #read #deepdive
+
 - (2026-04-01) [解码 Agent Harness — Claude Code 架构深度剖析](202604/2026-04-01-%E8%A7%A3%E7%A0%81-agent-harness-%E2%80%94-claude-code-%E6%9E%B6%E6%9E%84%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90.md)
   - 本文介绍了Claude Code的架构设计，重点解析了其核心组件Agent Harness。该框架通过模块化设计实现AI代理的灵活配置与高效执行，支持代码生成、自动化测试等场景，具备可扩展性和易用性。
   - Tags: #book #agent
@@ -39,13 +43,9 @@
   - 策引系统通过DSL将用户意图转化为透明策略，由引擎执行决策，强调可理解性与信任，避免AI直接生成信号带来的不确定性。
   - Tags: #read #agent #deepdive
 
-- (2026-03-28) [SD存储卡越用越慢？教你一招免费修复，瞬间省下上千元 - 少数派](202603/2026-03-28-sd%E5%AD%98%E5%82%A8%E5%8D%A1%E8%B6%8A%E7%94%A8%E8%B6%8A%E6%85%A2%EF%BC%9F%E6%95%99%E4%BD%A0%E4%B8%80%E6%8B%9B%E5%85%8D%E8%B4%B9%E4%BF%AE%E5%A4%8D%EF%BC%8C%E7%9E%AC%E9%97%B4%E7%9C%81%E4%B8%8B%E4%B8%8A%E5%8D%83%E5%85%83---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
-  - 本文介绍使用SD Card Formatter免费修复SD卡变慢问题的方法，通过覆盖格式化恢复性能，适用于非物理损坏的卡，能节省更换成本。
-  - Tags: #read #tips
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (2 entries)
+- [2026-04](202604/monthly-index.md) (3 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

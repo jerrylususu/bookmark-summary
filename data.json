@@ -11041,5 +11041,15 @@
       "book",
       "agent"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Building More Resilient Local-First Software with atproto | jakelazaroff.com",
+    "url": "https://jakelazaroff.com/words/building-more-resilient-local-first-software-with-atproto/",
+    "timestamp": 1775141203,
+    "tags": [
+      "read",
+      "deepdive"
+    ]
   }
 ]
