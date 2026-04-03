@@ -11061,5 +11061,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Highlights from my conversation about agentic engineering on Lenny’s Podcast",
+    "url": "https://simonwillison.net/2026/Apr/2/lennys-podcast/",
+    "timestamp": 1775222442,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

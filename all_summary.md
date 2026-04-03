@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-03) [Highlights from my conversation about agentic engineering on Lenny’s Podcast](202604/2026-04-03-highlights-from-my-conversation-about-agentic-engineering-on-lenny%E2%80%99s-podcast.md)
+  - Tags: #read #agent
+  - Summary: Simon Willison在播客中探讨了AI对软件工程的深刻影响：2025年AI代码能力质变，推动智能体编程实用化，但带来开发模式变革、测试瓶颈转移、工作强度增加及职业挑战，强调需主动适应并平衡效率与安全。
+
 - (2026-04-02) [Agent-driven development in Copilot Applied Science](202604/2026-04-02-agent-driven-development-in-copilot-applied-science.md)
   - Tags: #read #agent
   - Summary: 本文介绍了作者在GitHub Copilot团队中，通过构建“eval-agents”项目，利用编码代理自动化分析评估基准。作者分享了提示、架构与迭代策略，强调对话式提示、频繁重构及“责备流程”方法，提升了协作效率，推动团队关注代码质量，将Copilot视为新成员，实现高效创新的开发模式。

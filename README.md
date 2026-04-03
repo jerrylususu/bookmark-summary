@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-03) [Highlights from my conversation about agentic engineering on Lenny’s Podcast](202604/2026-04-03-highlights-from-my-conversation-about-agentic-engineering-on-lenny%E2%80%99s-podcast.md)
+  - Simon Willison在播客中探讨了AI对软件工程的深刻影响：2025年AI代码能力质变，推动智能体编程实用化，但带来开发模式变革、测试瓶颈转移、工作强度增加及职业挑战，强调需主动适应并平衡效率与安全。
+  - Tags: #read #agent
+
 - (2026-04-02) [Agent-driven development in Copilot Applied Science](202604/2026-04-02-agent-driven-development-in-copilot-applied-science.md)
   - 本文介绍了作者在GitHub Copilot团队中，通过构建“eval-agents”项目，利用编码代理自动化分析评估基准。作者分享了提示、架构与迭代策略，强调对话式提示、频繁重构及“责备流程”方法，提升了协作效率，推动团队关注代码质量，将Copilot视为新成员，实现高效创新的开发模式。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文介绍了多智能体编码从单智能体同步协作转向异步协同的范式转变，提出了三种模式（子智能体、团队、大规模编排）及质量保障、工具生态和实践方法，旨在提升编码效率与质量。
   - Tags: #read #agent
 
-- (2026-03-29) [Using the Browser’s <canvas> for Data Compression](202603/2026-03-29-using-the-browser%E2%80%99s-canvas-for-data-compression.md)
-  - 本文介绍利用  元素将数据编码为像素并导出为 PNG 图像，以实现前端数据压缩的方法。该方案适用于旧版浏览器，通过 PNG 格式压缩特性减小体积，支持压缩与解压操作，并提供完整代码示例。
-  - Tags: #read #frontend #hack
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (4 entries)
+- [2026-04](202604/monthly-index.md) (5 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
