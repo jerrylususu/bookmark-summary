@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-03) [Code and Cake - Your job isn't programming](202604/2026-04-03-code-and-cake---your-job-isn%27t-programming.md)
+  - Tags: #read
+  - Summary: 文章指出软件开发的核心挑战是代码库复杂性，而非技术选型。作者强调理解系统的能力是最大限制，解决之道在于设计良好抽象——隐藏细节、突出关键概念。抽象需源于业务或通过探索发现，失效时可通过重构试错优化。程序员应通过管理复杂性、持续提炼抽象来改善代码库，使编程更高效。
+
 - (2026-04-03) [Programming (with AI agents) as theory building](202604/2026-04-03-programming-%28with-ai-agents%29-as-theory-building.md)
   - Tags: #read
   - Summary: 该文基于“编程即理论构建”观点，探讨AI代理在软件工程中的角色。核心结论是：工程师的产出是心智模型而非代码，AI虽能辅助生成代码，但无法长期保留理论，其效率受限于每次重启需重新构建。
