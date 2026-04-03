@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-03) [Programming (with AI agents) as theory building](202604/2026-04-03-programming-%28with-ai-agents%29-as-theory-building.md)
+  - Tags: #read
+  - Summary: 该文基于“编程即理论构建”观点，探讨AI代理在软件工程中的角色。核心结论是：工程师的产出是心智模型而非代码，AI虽能辅助生成代码，但无法长期保留理论，其效率受限于每次重启需重新构建。
+
 - (2026-04-03) [Highlights from my conversation about agentic engineering on Lenny’s Podcast](202604/2026-04-03-highlights-from-my-conversation-about-agentic-engineering-on-lenny%E2%80%99s-podcast.md)
   - Tags: #read #agent
   - Summary: Simon Willison在播客中探讨了AI对软件工程的深刻影响：2025年AI代码能力质变，推动智能体编程实用化，但带来开发模式变革、测试瓶颈转移、工作强度增加及职业挑战，强调需主动适应并平衡效率与安全。

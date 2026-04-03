@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-03) [Programming (with AI agents) as theory building](202604/2026-04-03-programming-%28with-ai-agents%29-as-theory-building.md)
+  - 该文基于“编程即理论构建”观点，探讨AI代理在软件工程中的角色。核心结论是：工程师的产出是心智模型而非代码，AI虽能辅助生成代码，但无法长期保留理论，其效率受限于每次重启需重新构建。
+  - Tags: #read
+
 - (2026-04-03) [Highlights from my conversation about agentic engineering on Lenny’s Podcast](202604/2026-04-03-highlights-from-my-conversation-about-agentic-engineering-on-lenny%E2%80%99s-podcast.md)
   - Simon Willison在播客中探讨了AI对软件工程的深刻影响：2025年AI代码能力质变，推动智能体编程实用化，但带来开发模式变革、测试瓶颈转移、工作强度增加及职业挑战，强调需主动适应并平衡效率与安全。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - Reco公司采用AI辅助方法，用Go重写JSONata引擎，实现性能提升与成本节约，验证了AI代码生成在生产环境的可行性。
   - Tags: #read
 
-- (2026-03-29) [The Code Agent Orchestra - what makes multi-agent coding work](202603/2026-03-29-the-code-agent-orchestra---what-makes-multi-agent-coding-work.md)
-  - 本文介绍了多智能体编码从单智能体同步协作转向异步协同的范式转变，提出了三种模式（子智能体、团队、大规模编排）及质量保障、工具生态和实践方法，旨在提升编码效率与质量。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (5 entries)
+- [2026-04](202604/monthly-index.md) (6 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
