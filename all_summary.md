@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-03) [JSSE: A JavaScript Engine Built by an Agent  - Notes &amp; Code](202604/2026-04-03-jsse-a-javascript-engine-built-by-an-agent---notes-%26amp%3B-code.md)
+  - Tags: #read #agent #deepdive
+  - Summary: JSSE 是首个通过 test262 非暂存测试的从零构建 JavaScript 引擎，由 AI 代理在 42 天内自主开发完成，代码约 17 万行，验证了代理编程的可行性。
+
 - (2026-04-03) [Code and Cake - Your job isn't programming](202604/2026-04-03-code-and-cake---your-job-isn%27t-programming.md)
   - Tags: #read
   - Summary: 文章指出软件开发的核心挑战是代码库复杂性，而非技术选型。作者强调理解系统的能力是最大限制，解决之道在于设计良好抽象——隐藏细节、突出关键概念。抽象需源于业务或通过探索发现，失效时可通过重构试错优化。程序员应通过管理复杂性、持续提炼抽象来改善代码库，使编程更高效。

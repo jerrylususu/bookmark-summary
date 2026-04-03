@@ -11089,5 +11089,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "JSSE: A JavaScript Engine Built by an Agent  - Notes &amp; Code",
+    "url": "https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html",
+    "timestamp": 1775224346,
+    "tags": [
+      "read",
+      "agent",
+      "deepdive"
+    ]
   }
 ]
