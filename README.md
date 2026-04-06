@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-06) [你不知道的大模型训练：原理、路径与新实践 - Tw93](202604/2026-04-06-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%EF%BC%9A%E5%8E%9F%E7%90%86%E3%80%81%E8%B7%AF%E5%BE%84%E4%B8%8E%E6%96%B0%E5%AE%9E%E8%B7%B5---tw93.md)
+  - 大模型训练能力差距主要来自预训练后的完整链路，后训练阶段对用户感知影响最大。训练链路和harness程序是持续迭代的核心，模型发布仅是快照。
+  - Tags: #read #llm #deepdive
+
 - (2026-04-06) [Eight years of wanting, three months of building with AI](202604/2026-04-06-eight-years-of-wanting%2C-three-months-of-building-with-ai.md)
   - 作者Lalit Maganti借助AI助手开发SQLite工具，初版混乱后重写，强调AI加速实现但无法替代设计，需保持掌控。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - 本文介绍了Claude Code的架构设计，重点解析了其核心组件Agent Harness。该框架通过模块化设计实现AI代理的灵活配置与高效执行，支持代码生成、自动化测试等场景，具备可扩展性和易用性。
   - Tags: #book #agent
 
-- (2026-04-01) [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode, and more](202604/2026-04-01-the-claude-code-source-leak-fake-tools%2C-frustration-regexes%2C-undercover-mode%2C-and-more.md)
-  - Anthropic因意外泄露Claude Code源代码，暴露了反蒸馏机制、隐蔽模式等技术细节及未发布产品KAIROS，核心损害在于泄露战略路线图，而非代码本身。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (10 entries)
+- [2026-04](202604/monthly-index.md) (11 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

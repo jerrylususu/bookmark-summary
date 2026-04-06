@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-06) [你不知道的大模型训练：原理、路径与新实践 - Tw93](2026-04-06-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%EF%BC%9A%E5%8E%9F%E7%90%86%E3%80%81%E8%B7%AF%E5%BE%84%E4%B8%8E%E6%96%B0%E5%AE%9E%E8%B7%B5---tw93.md)
+  - 大模型训练能力差距主要来自预训练后的完整链路，后训练阶段对用户感知影响最大。训练链路和harness程序是持续迭代的核心，模型发布仅是快照。
+  - Tags: #read #llm #deepdive
+
 - (2026-04-06) [Eight years of wanting, three months of building with AI](2026-04-06-eight-years-of-wanting%2C-three-months-of-building-with-ai.md)
   - 作者Lalit Maganti借助AI助手开发SQLite工具，初版混乱后重写，强调AI加速实现但无法替代设计，需保持掌控。
   - Tags: #read #agent #deepdive
