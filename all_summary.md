@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-06) [Eight years of wanting, three months of building with AI](202604/2026-04-06-eight-years-of-wanting%2C-three-months-of-building-with-ai.md)
+  - Tags: #read #agent #deepdive
+  - Summary: 作者Lalit Maganti借助AI助手开发SQLite工具，初版混乱后重写，强调AI加速实现但无法替代设计，需保持掌控。
+
 - (2026-04-06) [教育的下一步 · 其二](202604/2026-04-06-%E6%95%99%E8%82%B2%E7%9A%84%E4%B8%8B%E4%B8%80%E6%AD%A5-%C2%B7-%E5%85%B6%E4%BA%8C.md)
   - Tags: #read
   - Summary: 本文提出AI时代教育需培养统计模型思维、抽象与编程思维、学术写作三大能力，构成“3×N”框架，通过课程整合与项目式学习融入教学，最终目标是激发学生提出真实问题的内驱力，以应对快速变化的世界。

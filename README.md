@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-06) [Eight years of wanting, three months of building with AI](202604/2026-04-06-eight-years-of-wanting%2C-three-months-of-building-with-ai.md)
+  - 作者Lalit Maganti借助AI助手开发SQLite工具，初版混乱后重写，强调AI加速实现但无法替代设计，需保持掌控。
+  - Tags: #read #agent #deepdive
+
 - (2026-04-06) [教育的下一步 · 其二](202604/2026-04-06-%E6%95%99%E8%82%B2%E7%9A%84%E4%B8%8B%E4%B8%80%E6%AD%A5-%C2%B7-%E5%85%B6%E4%BA%8C.md)
   - 本文提出AI时代教育需培养统计模型思维、抽象与编程思维、学术写作三大能力，构成“3×N”框架，通过课程整合与项目式学习融入教学，最终目标是激发学生提出真实问题的内驱力，以应对快速变化的世界。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Anthropic因意外泄露Claude Code源代码，暴露了反蒸馏机制、隐蔽模式等技术细节及未发布产品KAIROS，核心损害在于泄露战略路线图，而非代码本身。
   - Tags: #read #agent #deepdive
 
-- (2026-03-31) [一行代码的事，Web 为什么做了三十年还没做到](202603/2026-03-31-%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%9A%84%E4%BA%8B%EF%BC%8Cweb-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E4%BA%86%E4%B8%89%E5%8D%81%E5%B9%B4%E8%BF%98%E6%B2%A1%E5%81%9A%E5%88%B0.md)
-  - 本文探讨了网页布局设计的权衡，对比了固定、流式、弹性、网格及响应式等策略的优缺点，强调需根据项目需求平衡用户体验、性能与维护性，并提供实践建议以优化开发效率。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (9 entries)
+- [2026-04](202604/monthly-index.md) (10 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

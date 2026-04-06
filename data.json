@@ -11109,5 +11109,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Eight years of wanting, three months of building with AI",
+    "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+    "timestamp": 1775469580,
+    "tags": [
+      "read",
+      "agent",
+      "deepdive"
+    ]
   }
 ]
