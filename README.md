@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-06) [教育的下一步 · 其二](202604/2026-04-06-%E6%95%99%E8%82%B2%E7%9A%84%E4%B8%8B%E4%B8%80%E6%AD%A5-%C2%B7-%E5%85%B6%E4%BA%8C.md)
+  - 本文提出AI时代教育需培养统计模型思维、抽象与编程思维、学术写作三大能力，构成“3×N”框架，通过课程整合与项目式学习融入教学，最终目标是激发学生提出真实问题的内驱力，以应对快速变化的世界。
+  - Tags: #read
+
 - (2026-04-03) [JSSE: A JavaScript Engine Built by an Agent  - Notes &amp; Code](202604/2026-04-03-jsse-a-javascript-engine-built-by-an-agent---notes-%26amp%3B-code.md)
   - JSSE 是首个通过 test262 非暂存测试的从零构建 JavaScript 引擎，由 AI 代理在 42 天内自主开发完成，代码约 17 万行，验证了代理编程的可行性。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - 本文探讨了网页布局设计的权衡，对比了固定、流式、弹性、网格及响应式等策略的优缺点，强调需根据项目需求平衡用户体验、性能与维护性，并提供实践建议以优化开发效率。
   - Tags: #read
 
-- (2026-03-30) [杀死那个手工程序员 - Tw93](202603/2026-03-30-%E6%9D%80%E6%AD%BB%E9%82%A3%E4%B8%AA%E6%89%8B%E5%B7%A5%E7%A8%8B%E5%BA%8F%E5%91%98---tw93.md)
-  - AI技术正重塑软件开发行业，降低门槛的同时可能导致质量下降。未来程序员的核心价值将转向系统能力、工程深度与创新，而非单纯编码速度。选择做什么比如何做更重要。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (8 entries)
+- [2026-04](202604/monthly-index.md) (9 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
