@@ -11131,5 +11131,15 @@
       "llm",
       "deepdive"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "GitHub Copilot CLI combines model families for a second opinion",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
+    "timestamp": 1775569758,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

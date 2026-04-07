@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-07) [GitHub Copilot CLI combines model families for a second opinion](202604/2026-04-07-github-copilot-cli-combines-model-families-for-a-second-opinion.md)
+  - GitHub Copilot CLI 推出实验性功能“Rubber Duck”，通过多模型协作提供第二意见，提升代码任务准确性，尤其适用于复杂、高风险场景，用户可通过 `/experimental` 启用。
+  - Tags: #read #agent
+
 - (2026-04-06) [你不知道的大模型训练：原理、路径与新实践 - Tw93](202604/2026-04-06-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%EF%BC%9A%E5%8E%9F%E7%90%86%E3%80%81%E8%B7%AF%E5%BE%84%E4%B8%8E%E6%96%B0%E5%AE%9E%E8%B7%B5---tw93.md)
   - 大模型训练能力差距主要来自预训练后的完整链路，后训练阶段对用户感知影响最大。训练链路和harness程序是持续迭代的核心，模型发布仅是快照。
   - Tags: #read #llm #deepdive
@@ -39,13 +43,9 @@
   - 本文探讨利用 atproto 协议构建本地优先软件，通过 CRDT 与个人数据服务器（PDS）实现无服务器的实时协作文本编辑。方案结合持久化、同步与实时机制，但也指出 Jetstream 等局限性。作者认为 atproto 与本地优先理念契合，并提供了简化实现的 npm 包。
   - Tags: #read #deepdive
 
-- (2026-04-01) [解码 Agent Harness — Claude Code 架构深度剖析](202604/2026-04-01-%E8%A7%A3%E7%A0%81-agent-harness-%E2%80%94-claude-code-%E6%9E%B6%E6%9E%84%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90.md)
-  - 本文介绍了Claude Code的架构设计，重点解析了其核心组件Agent Harness。该框架通过模块化设计实现AI代理的灵活配置与高效执行，支持代码生成、自动化测试等场景，具备可扩展性和易用性。
-  - Tags: #book #agent
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (11 entries)
+- [2026-04](202604/monthly-index.md) (12 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
