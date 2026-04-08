@@ -1,8 +1,12 @@
 # All Bookmarks Summary
 
+- (2026-04-08) [Your parallel Agent limit](202604/2026-04-08-your-parallel-agent-limit.md)
+  - Tags: #read #agent
+  - Summary: 本文探讨并行运行AI智能体对人类认知的隐性成本，指出非线性消耗源于上下文切换、判断调用和信任校准。作者建议通过时间盒、限定范围和监控评审质量来管理认知极限，强调应将认知约束作为设计前提，而非盲目增加智能体数量。
+
 - (2026-04-07) [GitHub Copilot CLI combines model families for a second opinion](202604/2026-04-07-github-copilot-cli-combines-model-families-for-a-second-opinion.md)
   - Tags: #read #agent
-  - Summary: GitHub Copilot CLI 推出实验性功能“Rubber Duck”，通过多模型协作提供第二意见，提升代码任务准确性，尤其适用于复杂、高风险场景，用户可通过 `/experimental` 启用。
+  - Summary: GitHub Copilot CLI 推出实验性功能“Rubber Duck”，通过多模型协作提供第二意见，提升代码任务准确性，尤其适用于复杂、高风险场景，用户可通过  启用。
 
 - (2026-04-06) [你不知道的大模型训练：原理、路径与新实践 - Tw93](202604/2026-04-06-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%EF%BC%9A%E5%8E%9F%E7%90%86%E3%80%81%E8%B7%AF%E5%BE%84%E4%B8%8E%E6%96%B0%E5%AE%9E%E8%B7%B5---tw93.md)
   - Tags: #read #llm #deepdive

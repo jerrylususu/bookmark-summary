@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-08) [Your parallel Agent limit](202604/2026-04-08-your-parallel-agent-limit.md)
+  - 本文探讨并行运行AI智能体对人类认知的隐性成本，指出非线性消耗源于上下文切换、判断调用和信任校准。作者建议通过时间盒、限定范围和监控评审质量来管理认知极限，强调应将认知约束作为设计前提，而非盲目增加智能体数量。
+  - Tags: #read #agent
+
 - (2026-04-07) [GitHub Copilot CLI combines model families for a second opinion](202604/2026-04-07-github-copilot-cli-combines-model-families-for-a-second-opinion.md)
-  - GitHub Copilot CLI 推出实验性功能“Rubber Duck”，通过多模型协作提供第二意见，提升代码任务准确性，尤其适用于复杂、高风险场景，用户可通过 `/experimental` 启用。
+  - GitHub Copilot CLI 推出实验性功能“Rubber Duck”，通过多模型协作提供第二意见，提升代码任务准确性，尤其适用于复杂、高风险场景，用户可通过  启用。
   - Tags: #read #agent
 
 - (2026-04-06) [你不知道的大模型训练：原理、路径与新实践 - Tw93](202604/2026-04-06-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%EF%BC%9A%E5%8E%9F%E7%90%86%E3%80%81%E8%B7%AF%E5%BE%84%E4%B8%8E%E6%96%B0%E5%AE%9E%E8%B7%B5---tw93.md)
@@ -39,13 +43,9 @@
   - 本文介绍了作者在GitHub Copilot团队中，通过构建“eval-agents”项目，利用编码代理自动化分析评估基准。作者分享了提示、架构与迭代策略，强调对话式提示、频繁重构及“责备流程”方法，提升了协作效率，推动团队关注代码质量，将Copilot视为新成员，实现高效创新的开发模式。
   - Tags: #read #agent
 
-- (2026-04-02) [Building More Resilient Local-First Software with atproto | jakelazaroff.com](202604/2026-04-02-building-more-resilient-local-first-software-with-atproto-jakelazaroff.com.md)
-  - 本文探讨利用 atproto 协议构建本地优先软件，通过 CRDT 与个人数据服务器（PDS）实现无服务器的实时协作文本编辑。方案结合持久化、同步与实时机制，但也指出 Jetstream 等局限性。作者认为 atproto 与本地优先理念契合，并提供了简化实现的 npm 包。
-  - Tags: #read #deepdive
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (12 entries)
+- [2026-04](202604/monthly-index.md) (13 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

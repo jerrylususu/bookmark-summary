@@ -11141,5 +11141,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Your parallel Agent limit",
+    "url": "https://addyosmani.com/blog/cognitive-parallel-agents/",
+    "timestamp": 1775655514,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]
