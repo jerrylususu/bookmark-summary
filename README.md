@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-09) [Getting chat-tuned models to act kinda like base models](202604/2026-04-09-getting-chat-tuned-models-to-act-kinda-like-base-models.md)
+  - 本文介绍了两种让对话微调的大型语言模型表现得像基础模型的技巧：使用虚假工具调用和部分预填充。这些方法通过系统提示和预设回复引导模型生成更自然的文本，但部分平台已限制此功能以防止不安全内容。
+  - Tags: #read #llm
+
 - (2026-04-08) [Your parallel Agent limit](202604/2026-04-08-your-parallel-agent-limit.md)
   - 本文探讨并行运行AI智能体对人类认知的隐性成本，指出非线性消耗源于上下文切换、判断调用和信任校准。作者建议通过时间盒、限定范围和监控评审质量来管理认知极限，强调应将认知约束作为设计前提，而非盲目增加智能体数量。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - Simon Willison在播客中探讨了AI对软件工程的深刻影响：2025年AI代码能力质变，推动智能体编程实用化，但带来开发模式变革、测试瓶颈转移、工作强度增加及职业挑战，强调需主动适应并平衡效率与安全。
   - Tags: #read #agent
 
-- (2026-04-02) [Agent-driven development in Copilot Applied Science](202604/2026-04-02-agent-driven-development-in-copilot-applied-science.md)
-  - 本文介绍了作者在GitHub Copilot团队中，通过构建“eval-agents”项目，利用编码代理自动化分析评估基准。作者分享了提示、架构与迭代策略，强调对话式提示、频繁重构及“责备流程”方法，提升了协作效率，推动团队关注代码质量，将Copilot视为新成员，实现高效创新的开发模式。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (13 entries)
+- [2026-04](202604/monthly-index.md) (14 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

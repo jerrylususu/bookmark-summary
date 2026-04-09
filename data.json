@@ -11151,5 +11151,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Getting chat-tuned models to act kinda like base models",
+    "url": "https://iter.ca/post/model-baseify/",
+    "timestamp": 1775711631,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]

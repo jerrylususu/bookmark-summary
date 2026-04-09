@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-09) [Getting chat-tuned models to act kinda like base models](2026-04-09-getting-chat-tuned-models-to-act-kinda-like-base-models.md)
+  - 本文介绍了两种让对话微调的大型语言模型表现得像基础模型的技巧：使用虚假工具调用和部分预填充。这些方法通过系统提示和预设回复引导模型生成更自然的文本，但部分平台已限制此功能以防止不安全内容。
+  - Tags: #read #llm
+
 - (2026-04-08) [Your parallel Agent limit](2026-04-08-your-parallel-agent-limit.md)
   - 本文探讨并行运行AI智能体对人类认知的隐性成本，指出非线性消耗源于上下文切换、判断调用和信任校准。作者建议通过时间盒、限定范围和监控评审质量来管理认知极限，强调应将认知约束作为设计前提，而非盲目增加智能体数量。
   - Tags: #read #agent
