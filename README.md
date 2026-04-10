@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-10) [The machines are fine. I'm worried about us.](202604/2026-04-10-the-machines-are-fine.-i%27m-worried-about-us..md)
+  - 文章通过对比两位博士生的经历，指出过度依赖AI工具虽能提升短期产出，却可能削弱研究者的深层理解与独立思考能力。作者强调，学术评价应重视思维训练而非仅量化成果，避免人类在便利中丧失科研创新的基础。
+  - Tags: #read
+
 - (2026-04-10) [If you thought the speed of writing code was your problem - you have bigger problems | Debugging Leadership](202604/2026-04-10-if-you-thought-the-speed-of-writing-code-was-your-problem---you-have-bigger-problems-debugging-leadership.md)
   - 文章指出，提升代码速度并非提高交付效率的关键，瓶颈常在需求、流程、部署等环节。建议优化整体交付流程，而非仅加速编码。
   - Tags: #read
@@ -39,13 +43,9 @@
   - JSSE 是首个通过 test262 非暂存测试的从零构建 JavaScript 引擎，由 AI 代理在 42 天内自主开发完成，代码约 17 万行，验证了代理编程的可行性。
   - Tags: #read #agent #deepdive
 
-- (2026-04-03) [Code and Cake - Your job isn't programming](202604/2026-04-03-code-and-cake---your-job-isn%27t-programming.md)
-  - 文章指出软件开发的核心挑战是代码库复杂性，而非技术选型。作者强调理解系统的能力是最大限制，解决之道在于设计良好抽象——隐藏细节、突出关键概念。抽象需源于业务或通过探索发现，失效时可通过重构试错优化。程序员应通过管理复杂性、持续提炼抽象来改善代码库，使编程更高效。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (16 entries)
+- [2026-04](202604/monthly-index.md) (17 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
