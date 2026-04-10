@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-10) [If you thought the speed of writing code was your problem - you have bigger problems | Debugging Leadership](2026-04-10-if-you-thought-the-speed-of-writing-code-was-your-problem---you-have-bigger-problems-debugging-leadership.md)
+  - 文章指出，提升代码速度并非提高交付效率的关键，瓶颈常在需求、流程、部署等环节。建议优化整体交付流程，而非仅加速编码。
+  - Tags: #read
+
 - (2026-04-10) [What if your browser built the UI for you?](2026-04-10-what-if-your-browser-built-the-ui-for-you.md)
   - 文章探讨了前端开发的范式转变：浏览器根据服务语义化描述和用户偏好动态生成UI，以减少重复工作并提升用户体验。作者提出“自适应浏览器”概念，预测未来API设计将成为核心，前端开发重点转向语义数据，手写UI重要性下降。
   - Tags: #read #frontend #agent

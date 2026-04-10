@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-10) [If you thought the speed of writing code was your problem - you have bigger problems | Debugging Leadership](202604/2026-04-10-if-you-thought-the-speed-of-writing-code-was-your-problem---you-have-bigger-problems-debugging-leadership.md)
+  - 文章指出，提升代码速度并非提高交付效率的关键，瓶颈常在需求、流程、部署等环节。建议优化整体交付流程，而非仅加速编码。
+  - Tags: #read
+
 - (2026-04-10) [What if your browser built the UI for you?](202604/2026-04-10-what-if-your-browser-built-the-ui-for-you.md)
   - 文章探讨了前端开发的范式转变：浏览器根据服务语义化描述和用户偏好动态生成UI，以减少重复工作并提升用户体验。作者提出“自适应浏览器”概念，预测未来API设计将成为核心，前端开发重点转向语义数据，手写UI重要性下降。
   - Tags: #read #frontend #agent
@@ -39,13 +43,9 @@
   - 文章指出软件开发的核心挑战是代码库复杂性，而非技术选型。作者强调理解系统的能力是最大限制，解决之道在于设计良好抽象——隐藏细节、突出关键概念。抽象需源于业务或通过探索发现，失效时可通过重构试错优化。程序员应通过管理复杂性、持续提炼抽象来改善代码库，使编程更高效。
   - Tags: #read
 
-- (2026-04-03) [Programming (with AI agents) as theory building](202604/2026-04-03-programming-%28with-ai-agents%29-as-theory-building.md)
-  - 该文基于“编程即理论构建”观点，探讨AI代理在软件工程中的角色。核心结论是：工程师的产出是心智模型而非代码，AI虽能辅助生成代码，但无法长期保留理论，其效率受限于每次重启需重新构建。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (15 entries)
+- [2026-04](202604/monthly-index.md) (16 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
