@@ -11161,5 +11161,16 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "What if your browser built the UI for you?",
+    "url": "https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/",
+    "timestamp": 1775832016,
+    "tags": [
+      "read",
+      "frontend",
+      "agent"
+    ]
   }
 ]

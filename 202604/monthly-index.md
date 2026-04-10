@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-10) [What if your browser built the UI for you?](2026-04-10-what-if-your-browser-built-the-ui-for-you.md)
+  - 文章探讨了前端开发的范式转变：浏览器根据服务语义化描述和用户偏好动态生成UI，以减少重复工作并提升用户体验。作者提出“自适应浏览器”概念，预测未来API设计将成为核心，前端开发重点转向语义数据，手写UI重要性下降。
+  - Tags: #read #frontend #agent
+
 - (2026-04-09) [Getting chat-tuned models to act kinda like base models](2026-04-09-getting-chat-tuned-models-to-act-kinda-like-base-models.md)
   - 本文介绍了两种让对话微调的大型语言模型表现得像基础模型的技巧：使用虚假工具调用和部分预填充。这些方法通过系统提示和预设回复引导模型生成更自然的文本，但部分平台已限制此功能以防止不安全内容。
   - Tags: #read #llm

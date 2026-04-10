@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-10) [What if your browser built the UI for you?](202604/2026-04-10-what-if-your-browser-built-the-ui-for-you.md)
+  - 文章探讨了前端开发的范式转变：浏览器根据服务语义化描述和用户偏好动态生成UI，以减少重复工作并提升用户体验。作者提出“自适应浏览器”概念，预测未来API设计将成为核心，前端开发重点转向语义数据，手写UI重要性下降。
+  - Tags: #read #frontend #agent
+
 - (2026-04-09) [Getting chat-tuned models to act kinda like base models](202604/2026-04-09-getting-chat-tuned-models-to-act-kinda-like-base-models.md)
   - 本文介绍了两种让对话微调的大型语言模型表现得像基础模型的技巧：使用虚假工具调用和部分预填充。这些方法通过系统提示和预设回复引导模型生成更自然的文本，但部分平台已限制此功能以防止不安全内容。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 该文基于“编程即理论构建”观点，探讨AI代理在软件工程中的角色。核心结论是：工程师的产出是心智模型而非代码，AI虽能辅助生成代码，但无法长期保留理论，其效率受限于每次重启需重新构建。
   - Tags: #read
 
-- (2026-04-03) [Highlights from my conversation about agentic engineering on Lenny’s Podcast](202604/2026-04-03-highlights-from-my-conversation-about-agentic-engineering-on-lenny%E2%80%99s-podcast.md)
-  - Simon Willison在播客中探讨了AI对软件工程的深刻影响：2025年AI代码能力质变，推动智能体编程实用化，但带来开发模式变革、测试瓶颈转移、工作强度增加及职业挑战，强调需主动适应并平衡效率与安全。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (14 entries)
+- [2026-04](202604/monthly-index.md) (15 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
