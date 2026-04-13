@@ -11222,5 +11222,15 @@
       "agent",
       "deepdive"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Claude Code Can Now Spawn Copies of Itself in Isolated VMs",
+    "url": "https://jonno.nz/posts/claude-code-can-now-spawn-copies-of-itself-in-isolated-vms/",
+    "timestamp": 1776086813,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

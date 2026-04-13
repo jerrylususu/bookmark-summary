@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-13) [Claude Code Can Now Spawn Copies of Itself in Isolated VMs](2026-04-13-claude-code-can-now-spawn-copies-of-itself-in-isolated-vms.md)
+  - 本文介绍作者通过MCP服务器实现Claude Code在隔离虚拟机中自我复制运行的系统，包含协调器、VM启动、流式输出和Web仪表板。系统当前满足个人需求，但需改进持久化、并发控制和安全等功能。
+  - Tags: #read #agent
+
 - (2026-04-13) [Claude Code Running Claude Code in 4-Second Disposable VMs](2026-04-13-claude-code-running-claude-code-in-4-second-disposable-vms.md)
   - 本文介绍作者为Claude Code构建的Firecracker微虚拟机隔离执行环境，通过硬件级隔离解决Docker容器的安全风险，支持快速启动、完全隔离、资源可控及vsock通信，采用Go语言实现主机协调器与VM代理，支持CLI、API和MCP服务器，实现自动化任务流程。
   - Tags: #read #agent #deepdive

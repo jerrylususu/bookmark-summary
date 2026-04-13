@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-13) [Claude Code Can Now Spawn Copies of Itself in Isolated VMs](202604/2026-04-13-claude-code-can-now-spawn-copies-of-itself-in-isolated-vms.md)
+  - 本文介绍作者通过MCP服务器实现Claude Code在隔离虚拟机中自我复制运行的系统，包含协调器、VM启动、流式输出和Web仪表板。系统当前满足个人需求，但需改进持久化、并发控制和安全等功能。
+  - Tags: #read #agent
+
 - (2026-04-13) [Claude Code Running Claude Code in 4-Second Disposable VMs](202604/2026-04-13-claude-code-running-claude-code-in-4-second-disposable-vms.md)
   - 本文介绍作者为Claude Code构建的Firecracker微虚拟机隔离执行环境，通过硬件级隔离解决Docker容器的安全风险，支持快速启动、完全隔离、资源可控及vsock通信，采用Go语言实现主机协调器与VM代理，支持CLI、API和MCP服务器，实现自动化任务流程。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - GitHub Copilot CLI 推出实验性功能“Rubber Duck”，通过多模型协作提供第二意见，提升代码任务准确性，尤其适用于复杂、高风险场景，用户可通过  启用。
   - Tags: #read #agent
 
-- (2026-04-06) [你不知道的大模型训练：原理、路径与新实践 - Tw93](202604/2026-04-06-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%EF%BC%9A%E5%8E%9F%E7%90%86%E3%80%81%E8%B7%AF%E5%BE%84%E4%B8%8E%E6%96%B0%E5%AE%9E%E8%B7%B5---tw93.md)
-  - 大模型训练能力差距主要来自预训练后的完整链路，后训练阶段对用户感知影响最大。训练链路和harness程序是持续迭代的核心，模型发布仅是快照。
-  - Tags: #read #llm #deepdive
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (20 entries)
+- [2026-04](202604/monthly-index.md) (21 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
