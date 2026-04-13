@@ -11211,5 +11211,16 @@
       "frontend",
       "framework"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Claude Code Running Claude Code in 4-Second Disposable VMs",
+    "url": "https://jonno.nz/posts/claude-code-running-claude-code-in-4-second-disposable-vms/",
+    "timestamp": 1776086706,
+    "tags": [
+      "read",
+      "agent",
+      "deepdive"
+    ]
   }
 ]

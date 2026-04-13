@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-13) [Claude Code Running Claude Code in 4-Second Disposable VMs](202604/2026-04-13-claude-code-running-claude-code-in-4-second-disposable-vms.md)
+  - Tags: #read #agent #deepdive
+  - Summary: 本文介绍作者为Claude Code构建的Firecracker微虚拟机隔离执行环境，通过硬件级隔离解决Docker容器的安全风险，支持快速启动、完全隔离、资源可控及vsock通信，采用Go语言实现主机协调器与VM代理，支持CLI、API和MCP服务器，实现自动化任务流程。
+
 - (2026-04-13) [React 带来的生死疲劳](202604/2026-04-13-react-%E5%B8%A6%E6%9D%A5%E7%9A%84%E7%94%9F%E6%AD%BB%E7%96%B2%E5%8A%B3.md)
   - Tags: #read #frontend #framework
   - Summary: 文章批判React生态复杂化，指出Server Component等新特性带来心智负担与工程成本，呼吁回归简单工具，避免为虚假优化疲劳。

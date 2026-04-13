@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-13) [Claude Code Running Claude Code in 4-Second Disposable VMs](202604/2026-04-13-claude-code-running-claude-code-in-4-second-disposable-vms.md)
+  - 本文介绍作者为Claude Code构建的Firecracker微虚拟机隔离执行环境，通过硬件级隔离解决Docker容器的安全风险，支持快速启动、完全隔离、资源可控及vsock通信，采用Go语言实现主机协调器与VM代理，支持CLI、API和MCP服务器，实现自动化任务流程。
+  - Tags: #read #agent #deepdive
+
 - (2026-04-13) [React 带来的生死疲劳](202604/2026-04-13-react-%E5%B8%A6%E6%9D%A5%E7%9A%84%E7%94%9F%E6%AD%BB%E7%96%B2%E5%8A%B3.md)
   - 文章批判React生态复杂化，指出Server Component等新特性带来心智负担与工程成本，呼吁回归简单工具，避免为虚假优化疲劳。
   - Tags: #read #frontend #framework
@@ -39,13 +43,9 @@
   - 大模型训练能力差距主要来自预训练后的完整链路，后训练阶段对用户感知影响最大。训练链路和harness程序是持续迭代的核心，模型发布仅是快照。
   - Tags: #read #llm #deepdive
 
-- (2026-04-06) [Eight years of wanting, three months of building with AI](202604/2026-04-06-eight-years-of-wanting%2C-three-months-of-building-with-ai.md)
-  - 作者Lalit Maganti借助AI助手开发SQLite工具，初版混乱后重写，强调AI加速实现但无法替代设计，需保持掌控。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (19 entries)
+- [2026-04](202604/monthly-index.md) (20 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
