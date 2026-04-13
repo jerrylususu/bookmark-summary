@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-13) [The peril of laziness lost | The Observation Deck](202604/2026-04-13-the-peril-of-laziness-lost-the-observation-deck.md)
+  - 文章探讨程序员“懒惰”美德的内涵，强调其驱动高效抽象与优化。作者批评虚假“勤奋”文化及LLMs生成冗余代码的倾向，指出人类懒惰追求简洁，LLMs应辅助而非取代人类判断，以维护工程严谨性。
+  - Tags: #read
+
 - (2026-04-13) [Claude Code Can Now Spawn Copies of Itself in Isolated VMs](202604/2026-04-13-claude-code-can-now-spawn-copies-of-itself-in-isolated-vms.md)
   - 本文介绍作者通过MCP服务器实现Claude Code在隔离虚拟机中自我复制运行的系统，包含协调器、VM启动、流式输出和Web仪表板。系统当前满足个人需求，但需改进持久化、并发控制和安全等功能。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文探讨并行运行AI智能体对人类认知的隐性成本，指出非线性消耗源于上下文切换、判断调用和信任校准。作者建议通过时间盒、限定范围和监控评审质量来管理认知极限，强调应将认知约束作为设计前提，而非盲目增加智能体数量。
   - Tags: #read #agent
 
-- (2026-04-07) [GitHub Copilot CLI combines model families for a second opinion](202604/2026-04-07-github-copilot-cli-combines-model-families-for-a-second-opinion.md)
-  - GitHub Copilot CLI 推出实验性功能“Rubber Duck”，通过多模型协作提供第二意见，提升代码任务准确性，尤其适用于复杂、高风险场景，用户可通过  启用。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (21 entries)
+- [2026-04](202604/monthly-index.md) (22 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

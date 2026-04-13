@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-13) [The peril of laziness lost | The Observation Deck](202604/2026-04-13-the-peril-of-laziness-lost-the-observation-deck.md)
+  - Tags: #read
+  - Summary: 文章探讨程序员“懒惰”美德的内涵，强调其驱动高效抽象与优化。作者批评虚假“勤奋”文化及LLMs生成冗余代码的倾向，指出人类懒惰追求简洁，LLMs应辅助而非取代人类判断，以维护工程严谨性。
+
 - (2026-04-13) [Claude Code Can Now Spawn Copies of Itself in Isolated VMs](202604/2026-04-13-claude-code-can-now-spawn-copies-of-itself-in-isolated-vms.md)
   - Tags: #read #agent
   - Summary: 本文介绍作者通过MCP服务器实现Claude Code在隔离虚拟机中自我复制运行的系统，包含协调器、VM启动、流式输出和Web仪表板。系统当前满足个人需求，但需改进持久化、并发控制和安全等功能。
