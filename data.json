@@ -11200,5 +11200,16 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "React 带来的生死疲劳",
+    "url": "https://roriri.one/2026/04/12/what-a-react",
+    "timestamp": 1776086271,
+    "tags": [
+      "read",
+      "frontend",
+      "framework"
+    ]
   }
 ]

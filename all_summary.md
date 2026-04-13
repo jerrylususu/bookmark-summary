@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-13) [React 带来的生死疲劳](202604/2026-04-13-react-%E5%B8%A6%E6%9D%A5%E7%9A%84%E7%94%9F%E6%AD%BB%E7%96%B2%E5%8A%B3.md)
+  - Tags: #read #frontend #framework
+  - Summary: 文章批判React生态复杂化，指出Server Component等新特性带来心智负担与工程成本，呼吁回归简单工具，避免为虚假优化疲劳。
+
 - (2026-04-13) [AI 結合卡片盒筆記法，人不再操作軟體，用對話流程讓 Codex 搭建資料整理系統：我的兩個月實測心得](202604/2026-04-13-ai-%E7%B5%90%E5%90%88%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98%E6%B3%95%EF%BC%8C%E4%BA%BA%E4%B8%8D%E5%86%8D%E6%93%8D%E4%BD%9C%E8%BB%9F%E9%AB%94%EF%BC%8C%E7%94%A8%E5%B0%8D%E8%A9%B1%E6%B5%81%E7%A8%8B%E8%AE%93-codex-%E6%90%AD%E5%BB%BA%E8%B3%87%E6%96%99%E6%95%B4%E7%90%86%E7%B3%BB%E7%B5%B1%EF%BC%9A%E6%88%91%E7%9A%84%E5%85%A9%E5%80%8B%E6%9C%88%E5%AF%A6%E6%B8%AC%E5%BF%83%E5%BE%97.md)
   - Tags: #read #agent
   - Summary: 作者利用AI（Codex）结合卡片盒笔记法，搭建自动化外部资料整理系统。通过人机分工，AI负责抓取、整理、链接与更新知识库，作者专注提出观点与判断。系统强调流程设计，实现高效知识管理，减少手动操作时间。
