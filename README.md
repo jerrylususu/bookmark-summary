@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-13) [AI 結合卡片盒筆記法，人不再操作軟體，用對話流程讓 Codex 搭建資料整理系統：我的兩個月實測心得](202604/2026-04-13-ai-%E7%B5%90%E5%90%88%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98%E6%B3%95%EF%BC%8C%E4%BA%BA%E4%B8%8D%E5%86%8D%E6%93%8D%E4%BD%9C%E8%BB%9F%E9%AB%94%EF%BC%8C%E7%94%A8%E5%B0%8D%E8%A9%B1%E6%B5%81%E7%A8%8B%E8%AE%93-codex-%E6%90%AD%E5%BB%BA%E8%B3%87%E6%96%99%E6%95%B4%E7%90%86%E7%B3%BB%E7%B5%B1%EF%BC%9A%E6%88%91%E7%9A%84%E5%85%A9%E5%80%8B%E6%9C%88%E5%AF%A6%E6%B8%AC%E5%BF%83%E5%BE%97.md)
+  - 作者利用AI（Codex）结合卡片盒笔记法，搭建自动化外部资料整理系统。通过人机分工，AI负责抓取、整理、链接与更新知识库，作者专注提出观点与判断。系统强调流程设计，实现高效知识管理，减少手动操作时间。
+  - Tags: #read #agent
+
 - (2026-04-10) [The machines are fine. I'm worried about us.](202604/2026-04-10-the-machines-are-fine.-i%27m-worried-about-us..md)
   - 文章通过对比两位博士生的经历，指出过度依赖AI工具虽能提升短期产出，却可能削弱研究者的深层理解与独立思考能力。作者强调，学术评价应重视思维训练而非仅量化成果，避免人类在便利中丧失科研创新的基础。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文提出AI时代教育需培养统计模型思维、抽象与编程思维、学术写作三大能力，构成“3×N”框架，通过课程整合与项目式学习融入教学，最终目标是激发学生提出真实问题的内驱力，以应对快速变化的世界。
   - Tags: #read
 
-- (2026-04-03) [JSSE: A JavaScript Engine Built by an Agent  - Notes &amp; Code](202604/2026-04-03-jsse-a-javascript-engine-built-by-an-agent---notes-%26amp%3B-code.md)
-  - JSSE 是首个通过 test262 非暂存测试的从零构建 JavaScript 引擎，由 AI 代理在 42 天内自主开发完成，代码约 17 万行，验证了代理编程的可行性。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (17 entries)
+- [2026-04](202604/monthly-index.md) (18 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
