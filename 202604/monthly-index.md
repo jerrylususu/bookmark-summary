@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-14) [Don't default to doing nothing](2026-04-14-don%27t-default-to-doing-nothing.md)
+  - 本文探讨克服决策困难的方法，提出两个策略：一是设定默认选项并坚持执行，避免分析瘫痪；二是优先选择可逆决策，降低锁定风险。通过这两种方式，可减少拖延，将“不作为”转为积极决策。
+  - Tags: #read #tips
+
 - (2026-04-13) [The peril of laziness lost | The Observation Deck](2026-04-13-the-peril-of-laziness-lost-the-observation-deck.md)
   - 文章探讨程序员“懒惰”美德的内涵，强调其驱动高效抽象与优化。作者批评虚假“勤奋”文化及LLMs生成冗余代码的倾向，指出人类懒惰追求简洁，LLMs应辅助而非取代人类判断，以维护工程严谨性。
   - Tags: #read
