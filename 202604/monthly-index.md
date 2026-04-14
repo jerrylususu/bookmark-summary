@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-14) [OpenHealth – Chat with Apple Health Data, Anywhere](2026-04-14-openhealth-%E2%80%93-chat-with-apple-health-data%2C-anywhere.md)
+  - OpenHealth 是一个开源工具，将 Apple Health 数据转换为七个 Markdown 文件，支持本地解析与 LLM 对话，确保数据隐私与控制，适用于多设备健康分析。
+  - Tags: #read
+
 - (2026-04-14) [Don't default to doing nothing](2026-04-14-don%27t-default-to-doing-nothing.md)
   - 本文探讨克服决策困难的方法，提出两个策略：一是设定默认选项并坚持执行，避免分析瘫痪；二是优先选择可逆决策，降低锁定风险。通过这两种方式，可减少拖延，将“不作为”转为积极决策。
   - Tags: #read #tips

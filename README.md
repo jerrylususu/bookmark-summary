@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-14) [OpenHealth – Chat with Apple Health Data, Anywhere](202604/2026-04-14-openhealth-%E2%80%93-chat-with-apple-health-data%2C-anywhere.md)
+  - OpenHealth 是一个开源工具，将 Apple Health 数据转换为七个 Markdown 文件，支持本地解析与 LLM 对话，确保数据隐私与控制，适用于多设备健康分析。
+  - Tags: #read
+
 - (2026-04-14) [Don't default to doing nothing](202604/2026-04-14-don%27t-default-to-doing-nothing.md)
   - 本文探讨克服决策困难的方法，提出两个策略：一是设定默认选项并坚持执行，避免分析瘫痪；二是优先选择可逆决策，降低锁定风险。通过这两种方式，可减少拖延，将“不作为”转为积极决策。
   - Tags: #read #tips
@@ -39,13 +43,9 @@
   - 文章探讨了前端开发的范式转变：浏览器根据服务语义化描述和用户偏好动态生成UI，以减少重复工作并提升用户体验。作者提出“自适应浏览器”概念，预测未来API设计将成为核心，前端开发重点转向语义数据，手写UI重要性下降。
   - Tags: #read #frontend #agent
 
-- (2026-04-09) [Getting chat-tuned models to act kinda like base models](202604/2026-04-09-getting-chat-tuned-models-to-act-kinda-like-base-models.md)
-  - 本文介绍了两种让对话微调的大型语言模型表现得像基础模型的技巧：使用虚假工具调用和部分预填充。这些方法通过系统提示和预设回复引导模型生成更自然的文本，但部分平台已限制此功能以防止不安全内容。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (23 entries)
+- [2026-04](202604/monthly-index.md) (24 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
