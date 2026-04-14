@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-14) [Dynamic, identity-aware, and secure Sandbox auth](202604/2026-04-14-dynamic%2C-identity-aware%2C-and-secure-sandbox-auth.md)
+  - Cloudflare为Sandbox和Containers推出“出站Worker”功能，通过代理拦截和零信任凭证注入，提升AI代理认证的安全性与灵活性，支持动态控制和深度集成。
+  - Tags: #read #agent #security
+
 - (2026-04-14) [OpenHealth – Chat with Apple Health Data, Anywhere](202604/2026-04-14-openhealth-%E2%80%93-chat-with-apple-health-data%2C-anywhere.md)
   - OpenHealth 是一个开源工具，将 Apple Health 数据转换为七个 Markdown 文件，支持本地解析与 LLM 对话，确保数据隐私与控制，适用于多设备健康分析。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章指出，提升代码速度并非提高交付效率的关键，瓶颈常在需求、流程、部署等环节。建议优化整体交付流程，而非仅加速编码。
   - Tags: #read
 
-- (2026-04-10) [What if your browser built the UI for you?](202604/2026-04-10-what-if-your-browser-built-the-ui-for-you.md)
-  - 文章探讨了前端开发的范式转变：浏览器根据服务语义化描述和用户偏好动态生成UI，以减少重复工作并提升用户体验。作者提出“自适应浏览器”概念，预测未来API设计将成为核心，前端开发重点转向语义数据，手写UI重要性下降。
-  - Tags: #read #frontend #agent
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (24 entries)
+- [2026-04](202604/monthly-index.md) (25 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

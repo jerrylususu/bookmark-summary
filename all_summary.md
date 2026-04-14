@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-14) [Dynamic, identity-aware, and secure Sandbox auth](202604/2026-04-14-dynamic%2C-identity-aware%2C-and-secure-sandbox-auth.md)
+  - Tags: #read #agent #security
+  - Summary: Cloudflare为Sandbox和Containers推出“出站Worker”功能，通过代理拦截和零信任凭证注入，提升AI代理认证的安全性与灵活性，支持动态控制和深度集成。
+
 - (2026-04-14) [OpenHealth – Chat with Apple Health Data, Anywhere](202604/2026-04-14-openhealth-%E2%80%93-chat-with-apple-health-data%2C-anywhere.md)
   - Tags: #read
   - Summary: OpenHealth 是一个开源工具，将 Apple Health 数据转换为七个 Markdown 文件，支持本地解析与 LLM 对话，确保数据隐私与控制，适用于多设备健康分析。

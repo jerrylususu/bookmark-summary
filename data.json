@@ -11260,5 +11260,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Dynamic, identity-aware, and secure Sandbox auth",
+    "url": "https://blog.cloudflare.com/sandbox-auth/",
+    "timestamp": 1776173676,
+    "tags": [
+      "read",
+      "agent",
+      "security"
+    ]
   }
 ]
