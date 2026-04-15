@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-15) [How to walk through walls](202604/2026-04-15-how-to-walk-through-walls.md)
+  - 文章通过罗德里格斯拍电影和游戏速通案例，介绍“黑客思维”——看透系统底层机制寻找捷径。该思维可应用于求职、应对官僚体系等领域，培养需深入实践、环境影响和持续项目。强调应以道德为前提使用。
+  - Tags: #read
+
 - (2026-04-15) [Cybersecurity Looks Like Proof of Work Now](202604/2026-04-15-cybersecurity-looks-like-proof-of-work-now.md)
   - AI模型在网络安全中正演变为“工作量证明”系统，防御方需投入更多计算资源（如token）来加固系统。关键结论包括：开源软件需AI加固以提升安全，开发流程将分阶段进行，安全成本固定化，防御方必须比攻击方消耗更多资源。
   - Tags: #read #security
@@ -39,13 +43,9 @@
   - 作者利用AI（Codex）结合卡片盒笔记法，搭建自动化外部资料整理系统。通过人机分工，AI负责抓取、整理、链接与更新知识库，作者专注提出观点与判断。系统强调流程设计，实现高效知识管理，减少手动操作时间。
   - Tags: #read #agent
 
-- (2026-04-10) [The machines are fine. I'm worried about us.](202604/2026-04-10-the-machines-are-fine.-i%27m-worried-about-us..md)
-  - 文章通过对比两位博士生的经历，指出过度依赖AI工具虽能提升短期产出，却可能削弱研究者的深层理解与独立思考能力。作者强调，学术评价应重视思维训练而非仅量化成果，避免人类在便利中丧失科研创新的基础。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (26 entries)
+- [2026-04](202604/monthly-index.md) (27 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

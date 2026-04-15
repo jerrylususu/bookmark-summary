@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-15) [How to walk through walls](202604/2026-04-15-how-to-walk-through-walls.md)
+  - Tags: #read
+  - Summary: 文章通过罗德里格斯拍电影和游戏速通案例，介绍“黑客思维”——看透系统底层机制寻找捷径。该思维可应用于求职、应对官僚体系等领域，培养需深入实践、环境影响和持续项目。强调应以道德为前提使用。
+
 - (2026-04-15) [Cybersecurity Looks Like Proof of Work Now](202604/2026-04-15-cybersecurity-looks-like-proof-of-work-now.md)
   - Tags: #read #security
   - Summary: AI模型在网络安全中正演变为“工作量证明”系统，防御方需投入更多计算资源（如token）来加固系统。关键结论包括：开源软件需AI加固以提升安全，开发流程将分阶段进行，安全成本固定化，防御方必须比攻击方消耗更多资源。
