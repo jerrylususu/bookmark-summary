@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-16) [The Future of Everything is Lies, I Guess: New Jobs](202604/2026-04-16-the-future-of-everything-is-lies%2C-i-guess-new-jobs.md)
+  - Tags: #read
+  - Summary: 随着机器学习广泛部署，人类与ML系统边界催生出咒术师、流程工程师等六类新职业，分别应对提示优化、质量控制、偏差补偿、数据训练、责任承担和错误解释等挑战，反映ML系统在问责与解释性方面的难题。
+
 - (2026-04-16) [Break LLM Workflows with Claude's Refusal Magic String - Hacking The Cloud](202604/2026-04-16-break-llm-workflows-with-claude%27s-refusal-magic-string---hacking-the-cloud.md)
   - Tags: #read #llm
   - Summary: 本文介绍Claude模型的“拒绝魔法字符串”可被注入提示上下文，导致持续拒绝响应并中断工作流。攻击者可通过多种渠道注入，造成低开销拒绝服务和持久性中断。缓解措施包括检测重置、提示防火墙、上下文管理、优雅降级和监控告警。

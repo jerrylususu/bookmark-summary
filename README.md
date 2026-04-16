@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-16) [The Future of Everything is Lies, I Guess: New Jobs](202604/2026-04-16-the-future-of-everything-is-lies%2C-i-guess-new-jobs.md)
+  - 随着机器学习广泛部署，人类与ML系统边界催生出咒术师、流程工程师等六类新职业，分别应对提示优化、质量控制、偏差补偿、数据训练、责任承担和错误解释等挑战，反映ML系统在问责与解释性方面的难题。
+  - Tags: #read
+
 - (2026-04-16) [Break LLM Workflows with Claude's Refusal Magic String - Hacking The Cloud](202604/2026-04-16-break-llm-workflows-with-claude%27s-refusal-magic-string---hacking-the-cloud.md)
   - 本文介绍Claude模型的“拒绝魔法字符串”可被注入提示上下文，导致持续拒绝响应并中断工作流。攻击者可通过多种渠道注入，造成低开销拒绝服务和持久性中断。缓解措施包括检测重置、提示防火墙、上下文管理、优雅降级和监控告警。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 本文介绍作者通过MCP服务器实现Claude Code在隔离虚拟机中自我复制运行的系统，包含协调器、VM启动、流式输出和Web仪表板。系统当前满足个人需求，但需改进持久化、并发控制和安全等功能。
   - Tags: #read #agent
 
-- (2026-04-13) [Claude Code Running Claude Code in 4-Second Disposable VMs](202604/2026-04-13-claude-code-running-claude-code-in-4-second-disposable-vms.md)
-  - 本文介绍作者为Claude Code构建的Firecracker微虚拟机隔离执行环境，通过硬件级隔离解决Docker容器的安全风险，支持快速启动、完全隔离、资源可控及vsock通信，采用Go语言实现主机协调器与VM代理，支持CLI、API和MCP服务器，实现自动化任务流程。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (29 entries)
+- [2026-04](202604/monthly-index.md) (30 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
