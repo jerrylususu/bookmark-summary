@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-16) [Open-Source Agent That Teaches Claude Code Your Architecture](202604/2026-04-16-open-source-agent-that-teaches-claude-code-your-architecture.md)
+  - domain-agents 是一个开源工具，通过静态分析 TypeScript 代码库识别业务域并生成上下文，帮助 AI 编程助手理解系统架构和依赖关系，提升代码的可扩展性。它采用五种信号分析合并域簇，并与 Claude Code 和 Cursor 集成，实现自动上下文加载，支持 AI 辅助开发的规模化。
+  - Tags: #read #agent
+
 - (2026-04-15) [How to walk through walls](202604/2026-04-15-how-to-walk-through-walls.md)
   - 文章通过罗德里格斯拍电影和游戏速通案例，介绍“黑客思维”——看透系统底层机制寻找捷径。该思维可应用于求职、应对官僚体系等领域，培养需深入实践、环境影响和持续项目。强调应以道德为前提使用。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章批判React生态复杂化，指出Server Component等新特性带来心智负担与工程成本，呼吁回归简单工具，避免为虚假优化疲劳。
   - Tags: #read #frontend #framework
 
-- (2026-04-13) [AI 結合卡片盒筆記法，人不再操作軟體，用對話流程讓 Codex 搭建資料整理系統：我的兩個月實測心得](202604/2026-04-13-ai-%E7%B5%90%E5%90%88%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98%E6%B3%95%EF%BC%8C%E4%BA%BA%E4%B8%8D%E5%86%8D%E6%93%8D%E4%BD%9C%E8%BB%9F%E9%AB%94%EF%BC%8C%E7%94%A8%E5%B0%8D%E8%A9%B1%E6%B5%81%E7%A8%8B%E8%AE%93-codex-%E6%90%AD%E5%BB%BA%E8%B3%87%E6%96%99%E6%95%B4%E7%90%86%E7%B3%BB%E7%B5%B1%EF%BC%9A%E6%88%91%E7%9A%84%E5%85%A9%E5%80%8B%E6%9C%88%E5%AF%A6%E6%B8%AC%E5%BF%83%E5%BE%97.md)
-  - 作者利用AI（Codex）结合卡片盒笔记法，搭建自动化外部资料整理系统。通过人机分工，AI负责抓取、整理、链接与更新知识库，作者专注提出观点与判断。系统强调流程设计，实现高效知识管理，减少手动操作时间。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (27 entries)
+- [2026-04](202604/monthly-index.md) (28 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-16) [Open-Source Agent That Teaches Claude Code Your Architecture](2026-04-16-open-source-agent-that-teaches-claude-code-your-architecture.md)
+  - domain-agents 是一个开源工具，通过静态分析 TypeScript 代码库识别业务域并生成上下文，帮助 AI 编程助手理解系统架构和依赖关系，提升代码的可扩展性。它采用五种信号分析合并域簇，并与 Claude Code 和 Cursor 集成，实现自动上下文加载，支持 AI 辅助开发的规模化。
+  - Tags: #read #agent
+
 - (2026-04-15) [How to walk through walls](2026-04-15-how-to-walk-through-walls.md)
   - 文章通过罗德里格斯拍电影和游戏速通案例，介绍“黑客思维”——看透系统底层机制寻找捷径。该思维可应用于求职、应对官僚体系等领域，培养需深入实践、环境影响和持续项目。强调应以道德为前提使用。
   - Tags: #read

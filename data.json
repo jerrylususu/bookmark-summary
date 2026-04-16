@@ -11290,5 +11290,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Open-Source Agent That Teaches Claude Code Your Architecture",
+    "url": "https://jonno.nz/posts/open-source-agent-that-teaches-claude-code-your-architecture/",
+    "timestamp": 1776345929,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]
