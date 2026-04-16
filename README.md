@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-16) [Break LLM Workflows with Claude's Refusal Magic String - Hacking The Cloud](202604/2026-04-16-break-llm-workflows-with-claude%27s-refusal-magic-string---hacking-the-cloud.md)
+  - 本文介绍Claude模型的“拒绝魔法字符串”可被注入提示上下文，导致持续拒绝响应并中断工作流。攻击者可通过多种渠道注入，造成低开销拒绝服务和持久性中断。缓解措施包括检测重置、提示防火墙、上下文管理、优雅降级和监控告警。
+  - Tags: #read #llm
+
 - (2026-04-16) [Open-Source Agent That Teaches Claude Code Your Architecture](202604/2026-04-16-open-source-agent-that-teaches-claude-code-your-architecture.md)
   - domain-agents 是一个开源工具，通过静态分析 TypeScript 代码库识别业务域并生成上下文，帮助 AI 编程助手理解系统架构和依赖关系，提升代码的可扩展性。它采用五种信号分析合并域簇，并与 Claude Code 和 Cursor 集成，实现自动上下文加载，支持 AI 辅助开发的规模化。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文介绍作者为Claude Code构建的Firecracker微虚拟机隔离执行环境，通过硬件级隔离解决Docker容器的安全风险，支持快速启动、完全隔离、资源可控及vsock通信，采用Go语言实现主机协调器与VM代理，支持CLI、API和MCP服务器，实现自动化任务流程。
   - Tags: #read #agent #deepdive
 
-- (2026-04-13) [React 带来的生死疲劳](202604/2026-04-13-react-%E5%B8%A6%E6%9D%A5%E7%9A%84%E7%94%9F%E6%AD%BB%E7%96%B2%E5%8A%B3.md)
-  - 文章批判React生态复杂化，指出Server Component等新特性带来心智负担与工程成本，呼吁回归简单工具，避免为虚假优化疲劳。
-  - Tags: #read #frontend #framework
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (28 entries)
+- [2026-04](202604/monthly-index.md) (29 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

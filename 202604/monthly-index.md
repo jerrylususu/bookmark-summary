@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-16) [Break LLM Workflows with Claude's Refusal Magic String - Hacking The Cloud](2026-04-16-break-llm-workflows-with-claude%27s-refusal-magic-string---hacking-the-cloud.md)
+  - 本文介绍Claude模型的“拒绝魔法字符串”可被注入提示上下文，导致持续拒绝响应并中断工作流。攻击者可通过多种渠道注入，造成低开销拒绝服务和持久性中断。缓解措施包括检测重置、提示防火墙、上下文管理、优雅降级和监控告警。
+  - Tags: #read #llm
+
 - (2026-04-16) [Open-Source Agent That Teaches Claude Code Your Architecture](2026-04-16-open-source-agent-that-teaches-claude-code-your-architecture.md)
   - domain-agents 是一个开源工具，通过静态分析 TypeScript 代码库识别业务域并生成上下文，帮助 AI 编程助手理解系统架构和依赖关系，提升代码的可扩展性。它采用五种信号分析合并域簇，并与 Claude Code 和 Cursor 集成，实现自动上下文加载，支持 AI 辅助开发的规模化。
   - Tags: #read #agent

@@ -11300,5 +11300,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Break LLM Workflows with Claude's Refusal Magic String - Hacking The Cloud",
+    "url": "https://hackingthe.cloud/ai-llm/exploitation/claude_magic_string_denial_of_service/",
+    "timestamp": 1776346137,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
