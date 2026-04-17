@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-17) [中文 Markdown 强调标记的渲染问题](202604/2026-04-17-%E4%B8%AD%E6%96%87-markdown-%E5%BC%BA%E8%B0%83%E6%A0%87%E8%AE%B0%E7%9A%84%E6%B8%B2%E6%9F%93%E9%97%AE%E9%A2%98.md)
+  - Tags: #read
+  - Summary: 文章指出 CommonMark 规范因“贴合规则”导致中文强调标记渲染失效，分析了其设计局限及社区态度，并提出了 HTML 标签、空格、零宽空格及插件等变通方案，最后建议中文优先通过措辞和标点进行强调。
+
 - (2026-04-16) [The Future of Everything is Lies, I Guess: New Jobs](202604/2026-04-16-the-future-of-everything-is-lies%2C-i-guess-new-jobs.md)
   - Tags: #read
   - Summary: 随着机器学习广泛部署，人类与ML系统边界催生出咒术师、流程工程师等六类新职业，分别应对提示优化、质量控制、偏差补偿、数据训练、责任承担和错误解释等挑战，反映ML系统在问责与解释性方面的难题。

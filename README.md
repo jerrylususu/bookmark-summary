@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-17) [中文 Markdown 强调标记的渲染问题](202604/2026-04-17-%E4%B8%AD%E6%96%87-markdown-%E5%BC%BA%E8%B0%83%E6%A0%87%E8%AE%B0%E7%9A%84%E6%B8%B2%E6%9F%93%E9%97%AE%E9%A2%98.md)
+  - 文章指出 CommonMark 规范因“贴合规则”导致中文强调标记渲染失效，分析了其设计局限及社区态度，并提出了 HTML 标签、空格、零宽空格及插件等变通方案，最后建议中文优先通过措辞和标点进行强调。
+  - Tags: #read
+
 - (2026-04-16) [The Future of Everything is Lies, I Guess: New Jobs](202604/2026-04-16-the-future-of-everything-is-lies%2C-i-guess-new-jobs.md)
   - 随着机器学习广泛部署，人类与ML系统边界催生出咒术师、流程工程师等六类新职业，分别应对提示优化、质量控制、偏差补偿、数据训练、责任承担和错误解释等挑战，反映ML系统在问责与解释性方面的难题。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章探讨程序员“懒惰”美德的内涵，强调其驱动高效抽象与优化。作者批评虚假“勤奋”文化及LLMs生成冗余代码的倾向，指出人类懒惰追求简洁，LLMs应辅助而非取代人类判断，以维护工程严谨性。
   - Tags: #read
 
-- (2026-04-13) [Claude Code Can Now Spawn Copies of Itself in Isolated VMs](202604/2026-04-13-claude-code-can-now-spawn-copies-of-itself-in-isolated-vms.md)
-  - 本文介绍作者通过MCP服务器实现Claude Code在隔离虚拟机中自我复制运行的系统，包含协调器、VM启动、流式输出和Web仪表板。系统当前满足个人需求，但需改进持久化、并发控制和安全等功能。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (30 entries)
+- [2026-04](202604/monthly-index.md) (31 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
