@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-19) [How I run multiple $10K MRR companies on a $20/month tech stack](202604/2026-04-19-how-i-run-multiple-%2410k-mrr-companies-on-a-%2420-month-tech-stack.md)
+  - 作者以每月20美元成本运营多家月入超万美元公司，核心是坚持“精益”原则：使用廉价VPS、Go语言、本地AI处理、OpenRouter接入模型、GitHub Copilot编程及SQLite数据库，避免昂贵云服务，专注业务增长。
+  - Tags: #read #arch
+
 - (2026-04-19) [Dependency cooldowns turn you into a free-rider](202604/2026-04-19-dependency-cooldowns-turn-you-into-a-free-rider.md)
   - 文章批评“依赖冷却期”策略将用户变为免费测试者，存在搭便车问题且实施复杂。作者提出“中央上传队列”作为替代方案，通过分离发布与分发来增强安全，尤其适用于AI领域。该方案成本可控，比冷却期更公平有效。
   - Tags: #read #security
@@ -39,13 +43,9 @@
   - AI模型在网络安全中正演变为“工作量证明”系统，防御方需投入更多计算资源（如token）来加固系统。关键结论包括：开源软件需AI加固以提升安全，开发流程将分阶段进行，安全成本固定化，防御方必须比攻击方消耗更多资源。
   - Tags: #read #security
 
-- (2026-04-14) [Dynamic, identity-aware, and secure Sandbox auth](202604/2026-04-14-dynamic%2C-identity-aware%2C-and-secure-sandbox-auth.md)
-  - Cloudflare为Sandbox和Containers推出“出站Worker”功能，通过代理拦截和零信任凭证注入，提升AI代理认证的安全性与灵活性，支持动态控制和深度集成。
-  - Tags: #read #agent #security
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (34 entries)
+- [2026-04](202604/monthly-index.md) (35 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

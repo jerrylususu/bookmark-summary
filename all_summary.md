@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-19) [How I run multiple $10K MRR companies on a $20/month tech stack](202604/2026-04-19-how-i-run-multiple-%2410k-mrr-companies-on-a-%2420-month-tech-stack.md)
+  - Tags: #read #arch
+  - Summary: 作者以每月20美元成本运营多家月入超万美元公司，核心是坚持“精益”原则：使用廉价VPS、Go语言、本地AI处理、OpenRouter接入模型、GitHub Copilot编程及SQLite数据库，避免昂贵云服务，专注业务增长。
+
 - (2026-04-19) [Dependency cooldowns turn you into a free-rider](202604/2026-04-19-dependency-cooldowns-turn-you-into-a-free-rider.md)
   - Tags: #read #security
   - Summary: 文章批评“依赖冷却期”策略将用户变为免费测试者，存在搭便车问题且实施复杂。作者提出“中央上传队列”作为替代方案，通过分离发布与分发来增强安全，尤其适用于AI领域。该方案成本可控，比冷却期更公平有效。

@@ -11358,5 +11358,15 @@
       "read",
       "security"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "How I run multiple $10K MRR companies on a $20/month tech stack",
+    "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+    "timestamp": 1776604659,
+    "tags": [
+      "read",
+      "arch"
+    ]
   }
 ]
