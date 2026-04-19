@@ -11378,5 +11378,15 @@
       "read",
       "database"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Agents that remember: introducing Agent Memory",
+    "url": "https://blog.cloudflare.com/introducing-agent-memory/",
+    "timestamp": 1776605380,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

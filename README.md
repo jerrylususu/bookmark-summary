@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-19) [Agents that remember: introducing Agent Memory](202604/2026-04-19-agents-that-remember-introducing-agent-memory.md)
+  - Cloudflare Agent Memory 是一项托管服务，通过持久化存储关键信息解决 AI 代理的上下文限制问题。它支持提取、存储和检索记忆，采用多阶段管道和多种检索方法，适用于个体代理、团队共享等场景，确保数据可迁移和隐私安全，目前处于私有测试阶段。
+  - Tags: #read #agent
+
 - (2026-04-19) [Do You Even Need a Database? - DB Pro Blog](202604/2026-04-19-do-you-even-need-a-database---db-pro-blog.md)
   - 文章通过基准测试比较了文件存储与SQLite的性能，发现内存映射和磁盘二分搜索在特定场景下优于数据库，适合小型应用；但复杂查询或大数据量时仍需传统数据库。
   - Tags: #read #database
@@ -39,13 +43,9 @@
   - domain-agents 是一个开源工具，通过静态分析 TypeScript 代码库识别业务域并生成上下文，帮助 AI 编程助手理解系统架构和依赖关系，提升代码的可扩展性。它采用五种信号分析合并域簇，并与 Claude Code 和 Cursor 集成，实现自动上下文加载，支持 AI 辅助开发的规模化。
   - Tags: #read #agent
 
-- (2026-04-15) [How to walk through walls](202604/2026-04-15-how-to-walk-through-walls.md)
-  - 文章通过罗德里格斯拍电影和游戏速通案例，介绍“黑客思维”——看透系统底层机制寻找捷径。该思维可应用于求职、应对官僚体系等领域，培养需深入实践、环境影响和持续项目。强调应以道德为前提使用。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (36 entries)
+- [2026-04](202604/monthly-index.md) (37 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
