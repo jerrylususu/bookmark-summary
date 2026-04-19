@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-19) [Dependency cooldowns turn you into a free-rider](2026-04-19-dependency-cooldowns-turn-you-into-a-free-rider.md)
+  - 文章批评“依赖冷却期”策略将用户变为免费测试者，存在搭便车问题且实施复杂。作者提出“中央上传队列”作为替代方案，通过分离发布与分发来增强安全，尤其适用于AI领域。该方案成本可控，比冷却期更公平有效。
+  - Tags: #read #security
+
 - (2026-04-19) [Claude Code's Source: 3,167-Line Function, Regex Sentiment](2026-04-19-claude-code%27s-source-3%2C167-line-function%2C-regex-sentiment.md)
   - Anthropic的Claude Code项目因源代码泄露暴露严重工程问题：代码结构混乱、AI生成比例宣传存疑、缺乏审查与测试，引发对AI编码工具可靠性和行业方向的质疑。
   - Tags: #read
