@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-19) [Claude Code's Source: 3,167-Line Function, Regex Sentiment](202604/2026-04-19-claude-code%27s-source-3%2C167-line-function%2C-regex-sentiment.md)
+  - Anthropic的Claude Code项目因源代码泄露暴露严重工程问题：代码结构混乱、AI生成比例宣传存疑、缺乏审查与测试，引发对AI编码工具可靠性和行业方向的质疑。
+  - Tags: #read
+
 - (2026-04-19) [Agentic coding at ClickHouse](202604/2026-04-19-agentic-coding-at-clickhouse.md)
   - 本文总结了ClickHouse在2025-2026年应用代理编程的实践，强调其作为辅助工具支持C++开发，适用于代码补全、调试等场景，但需人工监督。随着模型成熟，代理编程将提升效率，但需避免强制推行。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - OpenHealth 是一个开源工具，将 Apple Health 数据转换为七个 Markdown 文件，支持本地解析与 LLM 对话，确保数据隐私与控制，适用于多设备健康分析。
   - Tags: #read
 
-- (2026-04-14) [Don't default to doing nothing](202604/2026-04-14-don%27t-default-to-doing-nothing.md)
-  - 本文探讨克服决策困难的方法，提出两个策略：一是设定默认选项并坚持执行，避免分析瘫痪；二是优先选择可逆决策，降低锁定风险。通过这两种方式，可减少拖延，将“不作为”转为积极决策。
-  - Tags: #read #tips
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (32 entries)
+- [2026-04](202604/monthly-index.md) (33 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

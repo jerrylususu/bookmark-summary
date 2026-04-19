@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-19) [Claude Code's Source: 3,167-Line Function, Regex Sentiment](202604/2026-04-19-claude-code%27s-source-3%2C167-line-function%2C-regex-sentiment.md)
+  - Tags: #read
+  - Summary: Anthropic的Claude Code项目因源代码泄露暴露严重工程问题：代码结构混乱、AI生成比例宣传存疑、缺乏审查与测试，引发对AI编码工具可靠性和行业方向的质疑。
+
 - (2026-04-19) [Agentic coding at ClickHouse](202604/2026-04-19-agentic-coding-at-clickhouse.md)
   - Tags: #read #agent #deepdive
   - Summary: 本文总结了ClickHouse在2025-2026年应用代理编程的实践，强调其作为辅助工具支持C++开发，适用于代码补全、调试等场景，但需人工监督。随着模型成熟，代理编程将提升效率，但需避免强制推行。
