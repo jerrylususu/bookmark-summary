@@ -11328,5 +11328,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Agentic coding at ClickHouse",
+    "url": "https://clickhouse.com/blog/agentic-coding",
+    "timestamp": 1776603783,
+    "tags": [
+      "read",
+      "agent",
+      "deepdive"
+    ]
   }
 ]

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-19) [Agentic coding at ClickHouse](202604/2026-04-19-agentic-coding-at-clickhouse.md)
+  - 本文总结了ClickHouse在2025-2026年应用代理编程的实践，强调其作为辅助工具支持C++开发，适用于代码补全、调试等场景，但需人工监督。随着模型成熟，代理编程将提升效率，但需避免强制推行。
+  - Tags: #read #agent #deepdive
+
 - (2026-04-17) [中文 Markdown 强调标记的渲染问题](202604/2026-04-17-%E4%B8%AD%E6%96%87-markdown-%E5%BC%BA%E8%B0%83%E6%A0%87%E8%AE%B0%E7%9A%84%E6%B8%B2%E6%9F%93%E9%97%AE%E9%A2%98.md)
   - 文章指出 CommonMark 规范因“贴合规则”导致中文强调标记渲染失效，分析了其设计局限及社区态度，并提出了 HTML 标签、空格、零宽空格及插件等变通方案，最后建议中文优先通过措辞和标点进行强调。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文探讨克服决策困难的方法，提出两个策略：一是设定默认选项并坚持执行，避免分析瘫痪；二是优先选择可逆决策，降低锁定风险。通过这两种方式，可减少拖延，将“不作为”转为积极决策。
   - Tags: #read #tips
 
-- (2026-04-13) [The peril of laziness lost | The Observation Deck](202604/2026-04-13-the-peril-of-laziness-lost-the-observation-deck.md)
-  - 文章探讨程序员“懒惰”美德的内涵，强调其驱动高效抽象与优化。作者批评虚假“勤奋”文化及LLMs生成冗余代码的倾向，指出人类懒惰追求简洁，LLMs应辅助而非取代人类判断，以维护工程严谨性。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (31 entries)
+- [2026-04](202604/monthly-index.md) (32 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

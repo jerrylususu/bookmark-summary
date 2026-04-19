@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-19) [Agentic coding at ClickHouse](202604/2026-04-19-agentic-coding-at-clickhouse.md)
+  - Tags: #read #agent #deepdive
+  - Summary: 本文总结了ClickHouse在2025-2026年应用代理编程的实践，强调其作为辅助工具支持C++开发，适用于代码补全、调试等场景，但需人工监督。随着模型成熟，代理编程将提升效率，但需避免强制推行。
+
 - (2026-04-17) [中文 Markdown 强调标记的渲染问题](202604/2026-04-17-%E4%B8%AD%E6%96%87-markdown-%E5%BC%BA%E8%B0%83%E6%A0%87%E8%AE%B0%E7%9A%84%E6%B8%B2%E6%9F%93%E9%97%AE%E9%A2%98.md)
   - Tags: #read
   - Summary: 文章指出 CommonMark 规范因“贴合规则”导致中文强调标记渲染失效，分析了其设计局限及社区态度，并提出了 HTML 标签、空格、零宽空格及插件等变通方案，最后建议中文优先通过措辞和标点进行强调。
