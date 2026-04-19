@@ -11368,5 +11368,15 @@
       "read",
       "arch"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Do You Even Need a Database? - DB Pro Blog",
+    "url": "https://www.dbpro.app/blog/do-you-even-need-a-database",
+    "timestamp": 1776604815,
+    "tags": [
+      "read",
+      "database"
+    ]
   }
 ]

@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-19) [Do You Even Need a Database? - DB Pro Blog](2026-04-19-do-you-even-need-a-database---db-pro-blog.md)
+  - 文章通过基准测试比较了文件存储与SQLite的性能，发现内存映射和磁盘二分搜索在特定场景下优于数据库，适合小型应用；但复杂查询或大数据量时仍需传统数据库。
+  - Tags: #read #database
+
 - (2026-04-19) [How I run multiple $10K MRR companies on a $20/month tech stack](2026-04-19-how-i-run-multiple-%2410k-mrr-companies-on-a-%2420-month-tech-stack.md)
   - 作者以每月20美元成本运营多家月入超万美元公司，核心是坚持“精益”原则：使用廉价VPS、Go语言、本地AI处理、OpenRouter接入模型、GitHub Copilot编程及SQLite数据库，避免昂贵云服务，专注业务增长。
   - Tags: #read #arch
