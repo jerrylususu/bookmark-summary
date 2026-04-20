@@ -11408,5 +11408,14 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "The Second Wave of the API-first Economy",
+    "url": "https://brandur.org/second-wave-api-first",
+    "timestamp": 1776695331,
+    "tags": [
+      "read"
+    ]
   }
 ]

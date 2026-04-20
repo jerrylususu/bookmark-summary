@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-20) [The Second Wave of the API-first Economy](202604/2026-04-20-the-second-wave-of-the-api-first-economy.md)
+  - 文章回顾了API经济从开放乐观期、收缩期到当前由大语言模型驱动的复兴历程。第二波API以智能代理为桥梁，通过自然语言指令简化用户操作，成为服务竞争新优势，预示着API普及的新春天。
+  - Tags: #read
+
 - (2026-04-20) [Agent Harness Engineering](202604/2026-04-20-agent-harness-engineering.md)
   - 本文探讨“代理工程”概念，强调高效AI编码代理依赖于围绕模型构建的“工程支架”，包括提示、工具、上下文策略等组件。文章阐述了支架的定义、关键组件、设计原则及生产实践，并讨论其演变趋势，提出“支架即服务”的未来发展方向。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 文章指出 CommonMark 规范因“贴合规则”导致中文强调标记渲染失效，分析了其设计局限及社区态度，并提出了 HTML 标签、空格、零宽空格及插件等变通方案，最后建议中文优先通过措辞和标点进行强调。
   - Tags: #read
 
-- (2026-04-16) [The Future of Everything is Lies, I Guess: New Jobs](202604/2026-04-16-the-future-of-everything-is-lies%2C-i-guess-new-jobs.md)
-  - 随着机器学习广泛部署，人类与ML系统边界催生出咒术师、流程工程师等六类新职业，分别应对提示优化、质量控制、偏差补偿、数据训练、责任承担和错误解释等挑战，反映ML系统在问责与解释性方面的难题。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (39 entries)
+- [2026-04](202604/monthly-index.md) (40 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

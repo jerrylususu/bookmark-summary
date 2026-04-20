@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-20) [The Second Wave of the API-first Economy](202604/2026-04-20-the-second-wave-of-the-api-first-economy.md)
+  - Tags: #read
+  - Summary: 文章回顾了API经济从开放乐观期、收缩期到当前由大语言模型驱动的复兴历程。第二波API以智能代理为桥梁，通过自然语言指令简化用户操作，成为服务竞争新优势，预示着API普及的新春天。
+
 - (2026-04-20) [Agent Harness Engineering](202604/2026-04-20-agent-harness-engineering.md)
   - Tags: #read #agent
   - Summary: 本文探讨“代理工程”概念，强调高效AI编码代理依赖于围绕模型构建的“工程支架”，包括提示、工具、上下文策略等组件。文章阐述了支架的定义、关键组件、设计原则及生产实践，并讨论其演变趋势，提出“支架即服务”的未来发展方向。
