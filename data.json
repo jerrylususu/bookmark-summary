@@ -11388,5 +11388,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "使用 OpenRewrite 和 AI 技能进行代码静态分析 --- Code Static Analysis with OpenRewrite and AI Skills",
+    "url": "https://miao1007.github.io/c7d964c0-3b33-11f1-9754-8f31fdfe5ab9/",
+    "timestamp": 1776694128,
+    "tags": [
+      "read",
+      "security"
+    ]
   }
 ]
