@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-20) [Agent Harness Engineering](202604/2026-04-20-agent-harness-engineering.md)
+  - Tags: #read #agent
+  - Summary: 本文探讨“代理工程”概念，强调高效AI编码代理依赖于围绕模型构建的“工程支架”，包括提示、工具、上下文策略等组件。文章阐述了支架的定义、关键组件、设计原则及生产实践，并讨论其演变趋势，提出“支架即服务”的未来发展方向。
+
 - (2026-04-20) [使用 OpenRewrite 和 AI 技能进行代码静态分析 --- Code Static Analysis with OpenRewrite and AI Skills](202604/2026-04-20-%E4%BD%BF%E7%94%A8-openrewrite-%E5%92%8C-ai-%E6%8A%80%E8%83%BD%E8%BF%9B%E8%A1%8C%E4%BB%A3%E7%A0%81%E9%9D%99%E6%80%81%E5%88%86%E6%9E%90-----code-static-analysis-with-openrewrite-and-ai-skills.md)
   - Tags: #read #security
   - Summary: 本文探讨了结合OpenRewrite与AI模型管理Java代码安全风险的方法，通过自动化依赖升级、冗余代码清理和AI增强审计，在120万行代码中发现数百漏洞。该方案提升了修复效率，但存在合规性局限，未来安全领域将更注重运行时防护与法律合规。

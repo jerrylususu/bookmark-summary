@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-20) [Agent Harness Engineering](202604/2026-04-20-agent-harness-engineering.md)
+  - 本文探讨“代理工程”概念，强调高效AI编码代理依赖于围绕模型构建的“工程支架”，包括提示、工具、上下文策略等组件。文章阐述了支架的定义、关键组件、设计原则及生产实践，并讨论其演变趋势，提出“支架即服务”的未来发展方向。
+  - Tags: #read #agent
+
 - (2026-04-20) [使用 OpenRewrite 和 AI 技能进行代码静态分析 --- Code Static Analysis with OpenRewrite and AI Skills](202604/2026-04-20-%E4%BD%BF%E7%94%A8-openrewrite-%E5%92%8C-ai-%E6%8A%80%E8%83%BD%E8%BF%9B%E8%A1%8C%E4%BB%A3%E7%A0%81%E9%9D%99%E6%80%81%E5%88%86%E6%9E%90-----code-static-analysis-with-openrewrite-and-ai-skills.md)
   - 本文探讨了结合OpenRewrite与AI模型管理Java代码安全风险的方法，通过自动化依赖升级、冗余代码清理和AI增强审计，在120万行代码中发现数百漏洞。该方案提升了修复效率，但存在合规性局限，未来安全领域将更注重运行时防护与法律合规。
   - Tags: #read #security
@@ -39,13 +43,9 @@
   - 随着机器学习广泛部署，人类与ML系统边界催生出咒术师、流程工程师等六类新职业，分别应对提示优化、质量控制、偏差补偿、数据训练、责任承担和错误解释等挑战，反映ML系统在问责与解释性方面的难题。
   - Tags: #read
 
-- (2026-04-16) [Break LLM Workflows with Claude's Refusal Magic String - Hacking The Cloud](202604/2026-04-16-break-llm-workflows-with-claude%27s-refusal-magic-string---hacking-the-cloud.md)
-  - 本文介绍Claude模型的“拒绝魔法字符串”可被注入提示上下文，导致持续拒绝响应并中断工作流。攻击者可通过多种渠道注入，造成低开销拒绝服务和持久性中断。缓解措施包括检测重置、提示防火墙、上下文管理、优雅降级和监控告警。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (38 entries)
+- [2026-04](202604/monthly-index.md) (39 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

@@ -11398,5 +11398,15 @@
       "read",
       "security"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Agent Harness Engineering",
+    "url": "https://addyosmani.com/blog/agent-harness-engineering/",
+    "timestamp": 1776695205,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]
