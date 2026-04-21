@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-21) [The AI engineering stack we built internally — on the platform we ship](2026-04-21-the-ai-engineering-stack-we-built-internally-%E2%80%94-on-the-platform-we-ship.md)
+  - Cloudflare 内部 AI 工程栈基于自身平台，覆盖平台、知识、执行三层，93% R&D 组织使用 AI 编码工具，提升开发效率并支持未来背景代理等方向。
+  - Tags: #read #agent #engineering
+
 - (2026-04-21) [Orchestrating AI Code Review at scale](2026-04-21-orchestrating-ai-code-review-at-scale.md)
   - Cloudflare构建AI驱动代码审查系统，通过多智能体协作和插件化架构提升效率。系统支持风险分级、噪声过滤，实现中位审查时间3分39秒，覆盖超5万次合并请求，显著优化开发流程。
   - Tags: #read #agent #deepdive

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-21) [The AI engineering stack we built internally — on the platform we ship](202604/2026-04-21-the-ai-engineering-stack-we-built-internally-%E2%80%94-on-the-platform-we-ship.md)
+  - Cloudflare 内部 AI 工程栈基于自身平台，覆盖平台、知识、执行三层，93% R&D 组织使用 AI 编码工具，提升开发效率并支持未来背景代理等方向。
+  - Tags: #read #agent #engineering
+
 - (2026-04-21) [Orchestrating AI Code Review at scale](202604/2026-04-21-orchestrating-ai-code-review-at-scale.md)
   - Cloudflare构建AI驱动代码审查系统，通过多智能体协作和插件化架构提升效率。系统支持风险分级、噪声过滤，实现中位审查时间3分39秒，覆盖超5万次合并请求，显著优化开发流程。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - Anthropic的Claude Code项目因源代码泄露暴露严重工程问题：代码结构混乱、AI生成比例宣传存疑、缺乏审查与测试，引发对AI编码工具可靠性和行业方向的质疑。
   - Tags: #read
 
-- (2026-04-19) [Agentic coding at ClickHouse](202604/2026-04-19-agentic-coding-at-clickhouse.md)
-  - 本文总结了ClickHouse在2025-2026年应用代理编程的实践，强调其作为辅助工具支持C++开发，适用于代码补全、调试等场景，但需人工监督。随着模型成熟，代理编程将提升效率，但需避免强制推行。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (41 entries)
+- [2026-04](202604/monthly-index.md) (42 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
