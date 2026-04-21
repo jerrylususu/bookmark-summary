@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-21) [Orchestrating AI Code Review at scale](2026-04-21-orchestrating-ai-code-review-at-scale.md)
+  - Cloudflare构建AI驱动代码审查系统，通过多智能体协作和插件化架构提升效率。系统支持风险分级、噪声过滤，实现中位审查时间3分39秒，覆盖超5万次合并请求，显著优化开发流程。
+  - Tags: #read #agent #deepdive
+
 - (2026-04-20) [The Second Wave of the API-first Economy](2026-04-20-the-second-wave-of-the-api-first-economy.md)
   - 文章回顾了API经济从开放乐观期、收缩期到当前由大语言模型驱动的复兴历程。第二波API以智能代理为桥梁，通过自然语言指令简化用户操作，成为服务竞争新优势，预示着API普及的新春天。
   - Tags: #read
