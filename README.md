@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-21) [Learnings from conducting ~1,000 interviews at Amazon](202604/2026-04-21-learnings-from-conducting-~1%2C000-interviews-at-amazon.md)
+  - 本文总结亚马逊前工程师史蒂夫·黄的面试经验，强调行为面试比技术面试更关键。候选人常因准备不足或表达不佳失败，建议重新分配时间练习故事交付，确保真实清晰，并根据公司需求调整内容，以展示契合度和能力。
+  - Tags: #read #career
+
 - (2026-04-21) [The AI engineering stack we built internally — on the platform we ship](202604/2026-04-21-the-ai-engineering-stack-we-built-internally-%E2%80%94-on-the-platform-we-ship.md)
   - Cloudflare 内部 AI 工程栈基于自身平台，覆盖平台、知识、执行三层，93% R&D 组织使用 AI 编码工具，提升开发效率并支持未来背景代理等方向。
   - Tags: #read #agent #engineering
@@ -39,13 +43,9 @@
   - 文章批评“依赖冷却期”策略将用户变为免费测试者，存在搭便车问题且实施复杂。作者提出“中央上传队列”作为替代方案，通过分离发布与分发来增强安全，尤其适用于AI领域。该方案成本可控，比冷却期更公平有效。
   - Tags: #read #security
 
-- (2026-04-19) [Claude Code's Source: 3,167-Line Function, Regex Sentiment](202604/2026-04-19-claude-code%27s-source-3%2C167-line-function%2C-regex-sentiment.md)
-  - Anthropic的Claude Code项目因源代码泄露暴露严重工程问题：代码结构混乱、AI生成比例宣传存疑、缺乏审查与测试，引发对AI编码工具可靠性和行业方向的质疑。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (42 entries)
+- [2026-04](202604/monthly-index.md) (43 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
