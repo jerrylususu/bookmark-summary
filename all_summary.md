@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-24) [AI 时代的程序与程序员 | 风痕 · 術&思](202604/2026-04-24-ai-%E6%97%B6%E4%BB%A3%E7%9A%84%E7%A8%8B%E5%BA%8F%E4%B8%8E%E7%A8%8B%E5%BA%8F%E5%91%98-%E9%A3%8E%E7%97%95-%C2%B7-%E8%A1%93%26%E6%80%9D.md)
+  - Tags: #read
+  - Summary: 本文回顾了作者作为前端程序员的个人经历与技术探索，结合AI时代背景，探讨了技术范式变革、社会影响及哲学思考，呈现多维度反思。
+
 - (2026-04-21) [Learnings from conducting ~1,000 interviews at Amazon](202604/2026-04-21-learnings-from-conducting-~1%2C000-interviews-at-amazon.md)
   - Tags: #read #career
   - Summary: 本文总结亚马逊前工程师史蒂夫·黄的面试经验，强调行为面试比技术面试更关键。候选人常因准备不足或表达不佳失败，建议重新分配时间练习故事交付，确保真实清晰，并根据公司需求调整内容，以展示契合度和能力。

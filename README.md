@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-24) [AI 时代的程序与程序员 | 风痕 · 術&思](202604/2026-04-24-ai-%E6%97%B6%E4%BB%A3%E7%9A%84%E7%A8%8B%E5%BA%8F%E4%B8%8E%E7%A8%8B%E5%BA%8F%E5%91%98-%E9%A3%8E%E7%97%95-%C2%B7-%E8%A1%93%26%E6%80%9D.md)
+  - 本文回顾了作者作为前端程序员的个人经历与技术探索，结合AI时代背景，探讨了技术范式变革、社会影响及哲学思考，呈现多维度反思。
+  - Tags: #read
+
 - (2026-04-21) [Learnings from conducting ~1,000 interviews at Amazon](202604/2026-04-21-learnings-from-conducting-~1%2C000-interviews-at-amazon.md)
   - 本文总结亚马逊前工程师史蒂夫·黄的面试经验，强调行为面试比技术面试更关键。候选人常因准备不足或表达不佳失败，建议重新分配时间练习故事交付，确保真实清晰，并根据公司需求调整内容，以展示契合度和能力。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 作者以每月20美元成本运营多家月入超万美元公司，核心是坚持“精益”原则：使用廉价VPS、Go语言、本地AI处理、OpenRouter接入模型、GitHub Copilot编程及SQLite数据库，避免昂贵云服务，专注业务增长。
   - Tags: #read #arch
 
-- (2026-04-19) [Dependency cooldowns turn you into a free-rider](202604/2026-04-19-dependency-cooldowns-turn-you-into-a-free-rider.md)
-  - 文章批评“依赖冷却期”策略将用户变为免费测试者，存在搭便车问题且实施复杂。作者提出“中央上传队列”作为替代方案，通过分离发布与分发来增强安全，尤其适用于AI领域。该方案成本可控，比冷却期更公平有效。
-  - Tags: #read #security
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (43 entries)
+- [2026-04](202604/monthly-index.md) (44 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
