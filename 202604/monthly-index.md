@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-25) [The paper computer « the jsomers.net blog](2026-04-25-the-paper-computer-%C2%AB-the-jsomers.net-blog.md)
+  - 本文提出“纸张计算机”愿景，主张融合物理交互与AI技术，减少屏幕依赖。通过手写笔记、实体卡片等物理媒介结合数字同步，设计专注模式的操作系统，以提升专注力并回归自然低干扰的工作生活方式。
+  - Tags: #read
+
 - (2026-04-25) [What Async Promised and What it Delivered — Causality](2026-04-25-what-async-promised-and-what-it-delivered-%E2%80%94-causality.md)
   - 文章回顾了异步编程从回调、Promise到async/await的发展，指出每代技术虽改善局部体验，却引入结构性复杂性，形成“解决旧问题、引入新问题”的循环，最终问题从代码可读性转向生态系统和认知负担。
   - Tags: #read #deepdive

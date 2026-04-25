@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-25) [The paper computer « the jsomers.net blog](202604/2026-04-25-the-paper-computer-%C2%AB-the-jsomers.net-blog.md)
+  - 本文提出“纸张计算机”愿景，主张融合物理交互与AI技术，减少屏幕依赖。通过手写笔记、实体卡片等物理媒介结合数字同步，设计专注模式的操作系统，以提升专注力并回归自然低干扰的工作生活方式。
+  - Tags: #read
+
 - (2026-04-25) [What Async Promised and What it Delivered — Causality](202604/2026-04-25-what-async-promised-and-what-it-delivered-%E2%80%94-causality.md)
   - 文章回顾了异步编程从回调、Promise到async/await的发展，指出每代技术虽改善局部体验，却引入结构性复杂性，形成“解决旧问题、引入新问题”的循环，最终问题从代码可读性转向生态系统和认知负担。
   - Tags: #read #deepdive
@@ -39,13 +43,9 @@
   - 文章回顾了API经济从开放乐观期、收缩期到当前由大语言模型驱动的复兴历程。第二波API以智能代理为桥梁，通过自然语言指令简化用户操作，成为服务竞争新优势，预示着API普及的新春天。
   - Tags: #read
 
-- (2026-04-20) [Agent Harness Engineering](202604/2026-04-20-agent-harness-engineering.md)
-  - 本文探讨“代理工程”概念，强调高效AI编码代理依赖于围绕模型构建的“工程支架”，包括提示、工具、上下文策略等组件。文章阐述了支架的定义、关键组件、设计原则及生产实践，并讨论其演变趋势，提出“支架即服务”的未来发展方向。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (48 entries)
+- [2026-04](202604/monthly-index.md) (49 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
