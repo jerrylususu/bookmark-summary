@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-25) [The Rime of the Ancient Maintainer](202604/2026-04-25-the-rime-of-the-ancient-maintainer.md)
+  - 本文批判科技文化过度推崇“英雄开发者”，转而颂扬默默无闻的维护者。作者指出系统必然走向无序，维护者对抗熵增至关重要；引用“林迪效应”说明旧系统更可靠，但维护者常被忽视。文章将技术债类比“生活债”，呼吁建立重视维护的文化，认可确保系统稳定运行的人。
+  - Tags: #read
+
 - (2026-04-25) [The McPhee method « the jsomers.net blog](202604/2026-04-25-the-mcphee-method-%C2%AB-the-jsomers.net-blog.md)
   - 本文介绍了约翰·麦克菲的非虚构写作方法，分为积累笔记、筛选结构、数字化组织和起草四个阶段，旨在通过结构化流程降低写作压力，确保文章基于扎实事实和清晰结构。
   - Tags: #read #write
@@ -39,13 +43,9 @@
   - Cloudflare 内部 AI 工程栈基于自身平台，覆盖平台、知识、执行三层，93% R&D 组织使用 AI 编码工具，提升开发效率并支持未来背景代理等方向。
   - Tags: #read #agent #engineering
 
-- (2026-04-21) [Orchestrating AI Code Review at scale](202604/2026-04-21-orchestrating-ai-code-review-at-scale.md)
-  - Cloudflare构建AI驱动代码审查系统，通过多智能体协作和插件化架构提升效率。系统支持风险分级、噪声过滤，实现中位审查时间3分39秒，覆盖超5万次合并请求，显著优化开发流程。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (50 entries)
+- [2026-04](202604/monthly-index.md) (51 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

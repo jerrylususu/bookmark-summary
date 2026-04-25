@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-25) [The Rime of the Ancient Maintainer](202604/2026-04-25-the-rime-of-the-ancient-maintainer.md)
+  - Tags: #read
+  - Summary: 本文批判科技文化过度推崇“英雄开发者”，转而颂扬默默无闻的维护者。作者指出系统必然走向无序，维护者对抗熵增至关重要；引用“林迪效应”说明旧系统更可靠，但维护者常被忽视。文章将技术债类比“生活债”，呼吁建立重视维护的文化，认可确保系统稳定运行的人。
+
 - (2026-04-25) [The McPhee method « the jsomers.net blog](202604/2026-04-25-the-mcphee-method-%C2%AB-the-jsomers.net-blog.md)
   - Tags: #read #write
   - Summary: 本文介绍了约翰·麦克菲的非虚构写作方法，分为积累笔记、筛选结构、数字化组织和起草四个阶段，旨在通过结构化流程降低写作压力，确保文章基于扎实事实和清晰结构。
