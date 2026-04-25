@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-25) [Friends Don't Let Friends Use Ollama | Sleeping Robots](202604/2026-04-25-friends-don%27t-let-friends-use-ollama-sleeping-robots.md)
+  - Tags: #read #llm #tools
+  - Summary: 文章批评Ollama依赖llama.cpp却未充分致谢，存在合规问题、性能下降及商业化倾向，建议使用llama.cpp等更开放的开源替代工具。
+
 - (2026-04-25) [Expansion artifacts](202604/2026-04-25-expansion-artifacts.md)
   - Tags: #read #llm
   - Summary: 文章将AI生成内容的特征类比为“扩展伪影”，指出其源于模型基于训练数据分布进行“解压缩”时的失真填充。这些伪影表现为文本、代码、图像和视频中的特定模式，可用于检测AI内容，并可能因迭代累积导致信息失真加剧，需引起重视。

@@ -11468,5 +11468,16 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Friends Don't Let Friends Use Ollama | Sleeping Robots",
+    "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+    "timestamp": 1777103113,
+    "tags": [
+      "read",
+      "llm",
+      "tools"
+    ]
   }
 ]

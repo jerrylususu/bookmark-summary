@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-25) [Friends Don't Let Friends Use Ollama | Sleeping Robots](202604/2026-04-25-friends-don%27t-let-friends-use-ollama-sleeping-robots.md)
+  - 文章批评Ollama依赖llama.cpp却未充分致谢，存在合规问题、性能下降及商业化倾向，建议使用llama.cpp等更开放的开源替代工具。
+  - Tags: #read #llm #tools
+
 - (2026-04-25) [Expansion artifacts](202604/2026-04-25-expansion-artifacts.md)
   - 文章将AI生成内容的特征类比为“扩展伪影”，指出其源于模型基于训练数据分布进行“解压缩”时的失真填充。这些伪影表现为文本、代码、图像和视频中的特定模式，可用于检测AI内容，并可能因迭代累积导致信息失真加剧，需引起重视。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - Cloudflare Agent Memory 是一项托管服务，通过持久化存储关键信息解决 AI 代理的上下文限制问题。它支持提取、存储和检索记忆，采用多阶段管道和多种检索方法，适用于个体代理、团队共享等场景，确保数据可迁移和隐私安全，目前处于私有测试阶段。
   - Tags: #read #agent
 
-- (2026-04-19) [Do You Even Need a Database? - DB Pro Blog](202604/2026-04-19-do-you-even-need-a-database---db-pro-blog.md)
-  - 文章通过基准测试比较了文件存储与SQLite的性能，发现内存映射和磁盘二分搜索在特定场景下优于数据库，适合小型应用；但复杂查询或大数据量时仍需传统数据库。
-  - Tags: #read #database
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (45 entries)
+- [2026-04](202604/monthly-index.md) (46 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
