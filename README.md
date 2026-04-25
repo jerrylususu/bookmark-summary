@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-25) [Expansion artifacts](202604/2026-04-25-expansion-artifacts.md)
+  - 文章将AI生成内容的特征类比为“扩展伪影”，指出其源于模型基于训练数据分布进行“解压缩”时的失真填充。这些伪影表现为文本、代码、图像和视频中的特定模式，可用于检测AI内容，并可能因迭代累积导致信息失真加剧，需引起重视。
+  - Tags: #read #llm
+
 - (2026-04-24) [AI 时代的程序与程序员 | 风痕 · 術&思](202604/2026-04-24-ai-%E6%97%B6%E4%BB%A3%E7%9A%84%E7%A8%8B%E5%BA%8F%E4%B8%8E%E7%A8%8B%E5%BA%8F%E5%91%98-%E9%A3%8E%E7%97%95-%C2%B7-%E8%A1%93%26%E6%80%9D.md)
   - 本文回顾了作者作为前端程序员的个人经历与技术探索，结合AI时代背景，探讨了技术范式变革、社会影响及哲学思考，呈现多维度反思。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章通过基准测试比较了文件存储与SQLite的性能，发现内存映射和磁盘二分搜索在特定场景下优于数据库，适合小型应用；但复杂查询或大数据量时仍需传统数据库。
   - Tags: #read #database
 
-- (2026-04-19) [How I run multiple $10K MRR companies on a $20/month tech stack](202604/2026-04-19-how-i-run-multiple-%2410k-mrr-companies-on-a-%2420-month-tech-stack.md)
-  - 作者以每月20美元成本运营多家月入超万美元公司，核心是坚持“精益”原则：使用廉价VPS、Go语言、本地AI处理、OpenRouter接入模型、GitHub Copilot编程及SQLite数据库，避免昂贵云服务，专注业务增长。
-  - Tags: #read #arch
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (44 entries)
+- [2026-04](202604/monthly-index.md) (45 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
