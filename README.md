@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-25) [The McPhee method « the jsomers.net blog](202604/2026-04-25-the-mcphee-method-%C2%AB-the-jsomers.net-blog.md)
+  - 本文介绍了约翰·麦克菲的非虚构写作方法，分为积累笔记、筛选结构、数字化组织和起草四个阶段，旨在通过结构化流程降低写作压力，确保文章基于扎实事实和清晰结构。
+  - Tags: #read #write
+
 - (2026-04-25) [The paper computer « the jsomers.net blog](202604/2026-04-25-the-paper-computer-%C2%AB-the-jsomers.net-blog.md)
   - 本文提出“纸张计算机”愿景，主张融合物理交互与AI技术，减少屏幕依赖。通过手写笔记、实体卡片等物理媒介结合数字同步，设计专注模式的操作系统，以提升专注力并回归自然低干扰的工作生活方式。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Cloudflare构建AI驱动代码审查系统，通过多智能体协作和插件化架构提升效率。系统支持风险分级、噪声过滤，实现中位审查时间3分39秒，覆盖超5万次合并请求，显著优化开发流程。
   - Tags: #read #agent #deepdive
 
-- (2026-04-20) [The Second Wave of the API-first Economy](202604/2026-04-20-the-second-wave-of-the-api-first-economy.md)
-  - 文章回顾了API经济从开放乐观期、收缩期到当前由大语言模型驱动的复兴历程。第二波API以智能代理为桥梁，通过自然语言指令简化用户操作，成为服务竞争新优势，预示着API普及的新春天。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (49 entries)
+- [2026-04](202604/monthly-index.md) (50 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

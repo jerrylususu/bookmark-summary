@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-25) [The McPhee method « the jsomers.net blog](202604/2026-04-25-the-mcphee-method-%C2%AB-the-jsomers.net-blog.md)
+  - Tags: #read #write
+  - Summary: 本文介绍了约翰·麦克菲的非虚构写作方法，分为积累笔记、筛选结构、数字化组织和起草四个阶段，旨在通过结构化流程降低写作压力，确保文章基于扎实事实和清晰结构。
+
 - (2026-04-25) [The paper computer « the jsomers.net blog](202604/2026-04-25-the-paper-computer-%C2%AB-the-jsomers.net-blog.md)
   - Tags: #read
   - Summary: 本文提出“纸张计算机”愿景，主张融合物理交互与AI技术，减少屏幕依赖。通过手写笔记、实体卡片等物理媒介结合数字同步，设计专注模式的操作系统，以提升专注力并回归自然低干扰的工作生活方式。
