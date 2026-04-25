@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-25) [Features everyone should steal from npmx](202604/2026-04-25-features-everyone-should-steal-from-npmx.md)
+  - Tags: #read #tools
+  - Summary: npmx.dev 是一个开源 npm 替代前端，提供安装大小、脚本披露、依赖树分析等 20 项核心功能，旨在通过竞争推动 npmjs.com 改进，并支持国际化与无障碍设计。
+
 - (2026-04-25) [Friends Don't Let Friends Use Ollama | Sleeping Robots](202604/2026-04-25-friends-don%27t-let-friends-use-ollama-sleeping-robots.md)
   - Tags: #read #llm #tools
   - Summary: 文章批评Ollama依赖llama.cpp却未充分致谢，存在合规问题、性能下降及商业化倾向，建议使用llama.cpp等更开放的开源替代工具。

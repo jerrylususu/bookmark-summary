@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-25) [Features everyone should steal from npmx](202604/2026-04-25-features-everyone-should-steal-from-npmx.md)
+  - npmx.dev 是一个开源 npm 替代前端，提供安装大小、脚本披露、依赖树分析等 20 项核心功能，旨在通过竞争推动 npmjs.com 改进，并支持国际化与无障碍设计。
+  - Tags: #read #tools
+
 - (2026-04-25) [Friends Don't Let Friends Use Ollama | Sleeping Robots](202604/2026-04-25-friends-don%27t-let-friends-use-ollama-sleeping-robots.md)
   - 文章批评Ollama依赖llama.cpp却未充分致谢，存在合规问题、性能下降及商业化倾向，建议使用llama.cpp等更开放的开源替代工具。
   - Tags: #read #llm #tools
@@ -39,13 +43,9 @@
   - 本文探讨了结合OpenRewrite与AI模型管理Java代码安全风险的方法，通过自动化依赖升级、冗余代码清理和AI增强审计，在120万行代码中发现数百漏洞。该方案提升了修复效率，但存在合规性局限，未来安全领域将更注重运行时防护与法律合规。
   - Tags: #read #security
 
-- (2026-04-19) [Agents that remember: introducing Agent Memory](202604/2026-04-19-agents-that-remember-introducing-agent-memory.md)
-  - Cloudflare Agent Memory 是一项托管服务，通过持久化存储关键信息解决 AI 代理的上下文限制问题。它支持提取、存储和检索记忆，采用多阶段管道和多种检索方法，适用于个体代理、团队共享等场景，确保数据可迁移和隐私安全，目前处于私有测试阶段。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (46 entries)
+- [2026-04](202604/monthly-index.md) (47 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
