@@ -11489,5 +11489,15 @@
       "read",
       "tools"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "What Async Promised and What it Delivered — Causality",
+    "url": "https://causality.blog/essays/what-async-promised/",
+    "timestamp": 1777104454,
+    "tags": [
+      "read",
+      "deepdive"
+    ]
   }
 ]

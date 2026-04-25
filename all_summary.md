@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-25) [What Async Promised and What it Delivered — Causality](202604/2026-04-25-what-async-promised-and-what-it-delivered-%E2%80%94-causality.md)
+  - Tags: #read #deepdive
+  - Summary: 文章回顾了异步编程从回调、Promise到async/await的发展，指出每代技术虽改善局部体验，却引入结构性复杂性，形成“解决旧问题、引入新问题”的循环，最终问题从代码可读性转向生态系统和认知负担。
+
 - (2026-04-25) [Features everyone should steal from npmx](202604/2026-04-25-features-everyone-should-steal-from-npmx.md)
   - Tags: #read #tools
   - Summary: npmx.dev 是一个开源 npm 替代前端，提供安装大小、脚本披露、依赖树分析等 20 项核心功能，旨在通过竞争推动 npmjs.com 改进，并支持国际化与无障碍设计。
