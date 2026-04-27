@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-27) [AI 也该有护照了 | 虹线](202604/2026-04-27-ai-%E4%B9%9F%E8%AF%A5%E6%9C%89%E6%8A%A4%E7%85%A7%E4%BA%86-%E8%99%B9%E7%BA%BF.md)
+  - 文章以Meta收购Manus被叫停事件为例，探讨AI跨境流动中的身份与责任问题。作者提出AI需有“国籍”以明确责任归属，类比人类护照制度，强调建立身份体系是将AI纳入社会秩序、避免其成为无责任主体的必要治理起点。
+  - Tags: #read #agent
+
 - (2026-04-26) [你不知道的 AI Coding：非技术人的上手、场景与实战 - Tw93](202604/2026-04-26-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-ai-coding%EF%BC%9A%E9%9D%9E%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E4%B8%8A%E6%89%8B%E3%80%81%E5%9C%BA%E6%99%AF%E4%B8%8E%E5%AE%9E%E6%88%98---tw93.md)
   - 本文面向非技术人员，介绍如何使用AI编程工具Claude Code。文章强调通过正确方法和习惯，非技术人员也能高效利用该工具完成任务，关键在于将执行权交给AI并精确描述需求。内容涵盖上手步骤、技术通识、账号准备、适用场景、协作技巧、进阶方法及安全习惯，提供从入门到进阶的实战指南。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - 本文回顾了作者作为前端程序员的个人经历与技术探索，结合AI时代背景，探讨了技术范式变革、社会影响及哲学思考，呈现多维度反思。
   - Tags: #read
 
-- (2026-04-21) [Learnings from conducting ~1,000 interviews at Amazon](202604/2026-04-21-learnings-from-conducting-~1%2C000-interviews-at-amazon.md)
-  - 本文总结亚马逊前工程师史蒂夫·黄的面试经验，强调行为面试比技术面试更关键。候选人常因准备不足或表达不佳失败，建议重新分配时间练习故事交付，确保真实清晰，并根据公司需求调整内容，以展示契合度和能力。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (52 entries)
+- [2026-04](202604/monthly-index.md) (53 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
