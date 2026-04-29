@@ -11548,5 +11548,16 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Long-running Agents",
+    "url": "https://addyosmani.com/blog/long-running-agents/",
+    "timestamp": 1777470832,
+    "tags": [
+      "read",
+      "agent",
+      "deepdive"
+    ]
   }
 ]
