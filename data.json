@@ -11559,5 +11559,14 @@
       "agent",
       "deepdive"
     ]
+  },
+  {
+    "month": "202604",
+    "title": "Before GitHub",
+    "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+    "timestamp": 1777471161,
+    "tags": [
+      "read"
+    ]
   }
 ]

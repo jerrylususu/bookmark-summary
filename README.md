@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-29) [Before GitHub](202604/2026-04-29-before-github.md)
+  - 文章回顾了GitHub兴起对开源社区的重塑，指出其降低了贡献门槛但也带来了依赖爆炸与信任问题。当前GitHub面临挑战，社区开始分散。未来需建立独立、稳定的公共存档，以减少对单一平台的依赖，构建更健壮的开源生态。
+  - Tags: #read
+
 - (2026-04-29) [Long-running Agents](202604/2026-04-29-long-running-agents.md)
   - 长时运行智能体通过持久化状态和故障恢复突破单次会话限制，但面临上下文有限、状态缺失等挑战。主流方案包括解耦架构、分工模式及企业平台，实践强调检查点、记忆管理和集群编排。未来将聚焦多智能体协作与自适应工具。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - 文章批评Ollama依赖llama.cpp却未充分致谢，存在合规问题、性能下降及商业化倾向，建议使用llama.cpp等更开放的开源替代工具。
   - Tags: #read #llm #tools
 
-- (2026-04-25) [Expansion artifacts](202604/2026-04-25-expansion-artifacts.md)
-  - 文章将AI生成内容的特征类比为“扩展伪影”，指出其源于模型基于训练数据分布进行“解压缩”时的失真填充。这些伪影表现为文本、代码、图像和视频中的特定模式，可用于检测AI内容，并可能因迭代累积导致信息失真加剧，需引起重视。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (54 entries)
+- [2026-04](202604/monthly-index.md) (55 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)

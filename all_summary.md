@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-04-29) [Before GitHub](202604/2026-04-29-before-github.md)
+  - Tags: #read
+  - Summary: 文章回顾了GitHub兴起对开源社区的重塑，指出其降低了贡献门槛但也带来了依赖爆炸与信任问题。当前GitHub面临挑战，社区开始分散。未来需建立独立、稳定的公共存档，以减少对单一平台的依赖，构建更健壮的开源生态。
+
 - (2026-04-29) [Long-running Agents](202604/2026-04-29-long-running-agents.md)
   - Tags: #read #agent #deepdive
   - Summary: 长时运行智能体通过持久化状态和故障恢复突破单次会话限制，但面临上下文有限、状态缺失等挑战。主流方案包括解耦架构、分工模式及企业平台，实践强调检查点、记忆管理和集群编排。未来将聚焦多智能体协作与自适应工具。
