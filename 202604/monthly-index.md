@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-30) [Contributor Poker and Zig's AI Ban](2026-04-30-contributor-poker-and-zig%27s-ai-ban.md)
+  - Zig项目推行“贡献者扑克”策略，通过长期培养新贡献者提升项目价值。但AI生成代码常含错误、缺乏理解且难建信任，加剧了核心团队处理PR的负担。因此，Zig禁止AI贡献，以维护策略有效性、保障质量和生态健康，此为基于现状的理性选择。
+  - Tags: #read #oss
+
 - (2026-04-30) [Manifesto: Rules for standards-makers](2026-04-30-manifesto-rules-for-standards-makers.md)
   - 本文是Dave Winer为标准制定者撰写的宣言，总结了开放格式与协议的经验原则，核心强调互操作性至上、保持简单、避免破坏性变更等15条准则，旨在促进软件自由迁移与用户主导。
   - Tags: #read

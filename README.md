@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-30) [Contributor Poker and Zig's AI Ban](202604/2026-04-30-contributor-poker-and-zig%27s-ai-ban.md)
+  - Zig项目推行“贡献者扑克”策略，通过长期培养新贡献者提升项目价值。但AI生成代码常含错误、缺乏理解且难建信任，加剧了核心团队处理PR的负担。因此，Zig禁止AI贡献，以维护策略有效性、保障质量和生态健康，此为基于现状的理性选择。
+  - Tags: #read #oss
+
 - (2026-04-30) [Manifesto: Rules for standards-makers](202604/2026-04-30-manifesto-rules-for-standards-makers.md)
   - 本文是Dave Winer为标准制定者撰写的宣言，总结了开放格式与协议的经验原则，核心强调互操作性至上、保持简单、避免破坏性变更等15条准则，旨在促进软件自由迁移与用户主导。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章回顾了异步编程从回调、Promise到async/await的发展，指出每代技术虽改善局部体验，却引入结构性复杂性，形成“解决旧问题、引入新问题”的循环，最终问题从代码可读性转向生态系统和认知负担。
   - Tags: #read #deepdive
 
-- (2026-04-25) [Features everyone should steal from npmx](202604/2026-04-25-features-everyone-should-steal-from-npmx.md)
-  - npmx.dev 是一个开源 npm 替代前端，提供安装大小、脚本披露、依赖树分析等 20 项核心功能，旨在通过竞争推动 npmjs.com 改进，并支持国际化与无障碍设计。
-  - Tags: #read #tools
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (56 entries)
+- [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
