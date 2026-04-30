@@ -1,5 +1,9 @@
 # 2026-04 Monthly Index
 
+- (2026-04-30) [Manifesto: Rules for standards-makers](2026-04-30-manifesto-rules-for-standards-makers.md)
+  - 本文是Dave Winer为标准制定者撰写的宣言，总结了开放格式与协议的经验原则，核心强调互操作性至上、保持简单、避免破坏性变更等15条准则，旨在促进软件自由迁移与用户主导。
+  - Tags: #read
+
 - (2026-04-29) [Before GitHub](2026-04-29-before-github.md)
   - 文章回顾了GitHub兴起对开源社区的重塑，指出其降低了贡献门槛但也带来了依赖爆炸与信任问题。当前GitHub面临挑战，社区开始分散。未来需建立独立、稳定的公共存档，以减少对单一平台的依赖，构建更健壮的开源生态。
   - Tags: #read

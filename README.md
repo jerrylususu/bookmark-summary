@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-04-30) [Manifesto: Rules for standards-makers](202604/2026-04-30-manifesto-rules-for-standards-makers.md)
+  - 本文是Dave Winer为标准制定者撰写的宣言，总结了开放格式与协议的经验原则，核心强调互操作性至上、保持简单、避免破坏性变更等15条准则，旨在促进软件自由迁移与用户主导。
+  - Tags: #read
+
 - (2026-04-29) [Before GitHub](202604/2026-04-29-before-github.md)
   - 文章回顾了GitHub兴起对开源社区的重塑，指出其降低了贡献门槛但也带来了依赖爆炸与信任问题。当前GitHub面临挑战，社区开始分散。未来需建立独立、稳定的公共存档，以减少对单一平台的依赖，构建更健壮的开源生态。
   - Tags: #read
@@ -39,13 +43,9 @@
   - npmx.dev 是一个开源 npm 替代前端，提供安装大小、脚本披露、依赖树分析等 20 项核心功能，旨在通过竞争推动 npmjs.com 改进，并支持国际化与无障碍设计。
   - Tags: #read #tools
 
-- (2026-04-25) [Friends Don't Let Friends Use Ollama | Sleeping Robots](202604/2026-04-25-friends-don%27t-let-friends-use-ollama-sleeping-robots.md)
-  - 文章批评Ollama依赖llama.cpp却未充分致谢，存在合规问题、性能下降及商业化倾向，建议使用llama.cpp等更开放的开源替代工具。
-  - Tags: #read #llm #tools
-
 ## Monthly Archive
 
-- [2026-04](202604/monthly-index.md) (55 entries)
+- [2026-04](202604/monthly-index.md) (56 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
 - [2026-01](202601/monthly-index.md) (67 entries)
