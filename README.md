@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-01) [mandō](202605/2026-05-01-mand%C5%8D.md)
+  - 本文以讽刺手法，将Unix命令包装成创业公司，通过虚构的“mandō”加速器及其旗下单命令公司，对比原始命令的简洁与创业圈的浮夸，幽默批判了科技创业中过度包装、炒作概念和盲目产品化的现象。
+  - Tags: #read
+
 - (2026-05-01) [Why the heck are we still using Markdown?? | BGs Labs](202605/2026-05-01-why-the-heck-are-we-still-using-markdown-bgs-labs.md)
   - Markdown 因语法歧义、内联 HTML 安全风险及缺乏规范而问题重重，作者建议转向更严谨的替代品或开发新工具。
   - Tags: #read #language
@@ -39,13 +43,9 @@
   - 本文批判科技文化过度推崇“英雄开发者”，转而颂扬默默无闻的维护者。作者指出系统必然走向无序，维护者对抗熵增至关重要；引用“林迪效应”说明旧系统更可靠，但维护者常被忽视。文章将技术债类比“生活债”，呼吁建立重视维护的文化，认可确保系统稳定运行的人。
   - Tags: #read
 
-- (2026-04-25) [The McPhee method « the jsomers.net blog](202604/2026-04-25-the-mcphee-method-%C2%AB-the-jsomers.net-blog.md)
-  - 本文介绍了约翰·麦克菲的非虚构写作方法，分为积累笔记、筛选结构、数字化组织和起草四个阶段，旨在通过结构化流程降低写作压力，确保文章基于扎实事实和清晰结构。
-  - Tags: #read #write
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (2 entries)
+- [2026-05](202605/monthly-index.md) (3 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
