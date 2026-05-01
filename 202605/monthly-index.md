@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-01) [Configure Access Point as Personal Hotspot (OpenWrt) · Nostalgia](2026-05-01-configure-access-point-as-personal-hotspot-%28openwrt%29-%C2%B7-nostalgia.md)
+  - 本文介绍在 OpenWrt 路由器上配置 Wi-Fi 信标中的特定信息元素，使 macOS 和 Windows 将其识别为个人热点，从而可能优化流量使用。通过抓包分析并修改 hostapd 配置，成功实现热点识别。
+  - Tags: #read #tips #hack
+
 - (2026-05-01) [mandō](2026-05-01-mand%C5%8D.md)
   - 本文以讽刺手法，将Unix命令包装成创业公司，通过虚构的“mandō”加速器及其旗下单命令公司，对比原始命令的简洁与创业圈的浮夸，幽默批判了科技创业中过度包装、炒作概念和盲目产品化的现象。
   - Tags: #read

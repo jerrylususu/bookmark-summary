@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-01) [Configure Access Point as Personal Hotspot (OpenWrt) · Nostalgia](202605/2026-05-01-configure-access-point-as-personal-hotspot-%28openwrt%29-%C2%B7-nostalgia.md)
+  - 本文介绍在 OpenWrt 路由器上配置 Wi-Fi 信标中的特定信息元素，使 macOS 和 Windows 将其识别为个人热点，从而可能优化流量使用。通过抓包分析并修改 hostapd 配置，成功实现热点识别。
+  - Tags: #read #tips #hack
+
 - (2026-05-01) [mandō](202605/2026-05-01-mand%C5%8D.md)
   - 本文以讽刺手法，将Unix命令包装成创业公司，通过虚构的“mandō”加速器及其旗下单命令公司，对比原始命令的简洁与创业圈的浮夸，幽默批判了科技创业中过度包装、炒作概念和盲目产品化的现象。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文面向非技术人员，介绍如何使用AI编程工具Claude Code。文章强调通过正确方法和习惯，非技术人员也能高效利用该工具完成任务，关键在于将执行权交给AI并精确描述需求。内容涵盖上手步骤、技术通识、账号准备、适用场景、协作技巧、进阶方法及安全习惯，提供从入门到进阶的实战指南。
   - Tags: #read #agent #deepdive
 
-- (2026-04-25) [The Rime of the Ancient Maintainer](202604/2026-04-25-the-rime-of-the-ancient-maintainer.md)
-  - 本文批判科技文化过度推崇“英雄开发者”，转而颂扬默默无闻的维护者。作者指出系统必然走向无序，维护者对抗熵增至关重要；引用“林迪效应”说明旧系统更可靠，但维护者常被忽视。文章将技术债类比“生活债”，呼吁建立重视维护的文化，认可确保系统稳定运行的人。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (3 entries)
+- [2026-05](202605/monthly-index.md) (4 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
