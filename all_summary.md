@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-01) [Testing agents on design systems](202605/2026-05-01-testing-agents-on-design-systems.md)
+  - Tags: #read #agent #design
+  - Summary: 作者开发工具测试智能体在设计系统的表现，通过对比新旧系统评估性能。结果显示指标改善，但仅基于Claude模型，尚处早期。经验包括文档影响大、随机化提示避免优化等，强调工具实用但需改进。
+
 - (2026-04-30) [Contributor Poker and Zig's AI Ban](202604/2026-04-30-contributor-poker-and-zig%27s-ai-ban.md)
   - Tags: #read #oss
   - Summary: Zig项目推行“贡献者扑克”策略，通过长期培养新贡献者提升项目价值。但AI生成代码常含错误、缺乏理解且难建信任，加剧了核心团队处理PR的负担。因此，Zig禁止AI贡献，以维护策略有效性、保障质量和生态健康，此为基于现状的理性选择。

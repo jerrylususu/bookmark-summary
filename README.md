@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-01) [Testing agents on design systems](202605/2026-05-01-testing-agents-on-design-systems.md)
+  - 作者开发工具测试智能体在设计系统的表现，通过对比新旧系统评估性能。结果显示指标改善，但仅基于Claude模型，尚处早期。经验包括文档影响大、随机化提示避免优化等，强调工具实用但需改进。
+  - Tags: #read #agent #design
+
 - (2026-04-30) [Contributor Poker and Zig's AI Ban](202604/2026-04-30-contributor-poker-and-zig%27s-ai-ban.md)
   - Zig项目推行“贡献者扑克”策略，通过长期培养新贡献者提升项目价值。但AI生成代码常含错误、缺乏理解且难建信任，加剧了核心团队处理PR的负担。因此，Zig禁止AI贡献，以维护策略有效性、保障质量和生态健康，此为基于现状的理性选择。
   - Tags: #read #oss
@@ -39,12 +43,9 @@
   - 本文提出“纸张计算机”愿景，主张融合物理交互与AI技术，减少屏幕依赖。通过手写笔记、实体卡片等物理媒介结合数字同步，设计专注模式的操作系统，以提升专注力并回归自然低干扰的工作生活方式。
   - Tags: #read
 
-- (2026-04-25) [What Async Promised and What it Delivered — Causality](202604/2026-04-25-what-async-promised-and-what-it-delivered-%E2%80%94-causality.md)
-  - 文章回顾了异步编程从回调、Promise到async/await的发展，指出每代技术虽改善局部体验，却引入结构性复杂性，形成“解决旧问题、引入新问题”的循环，最终问题从代码可读性转向生态系统和认知负担。
-  - Tags: #read #deepdive
-
 ## Monthly Archive
 
+- [2026-05](202605/monthly-index.md) (1 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
