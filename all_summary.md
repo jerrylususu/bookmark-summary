@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-02) [Serving the For You Feed - AT Protocol](202605/2026-05-02-serving-the-for-you-feed---at-protocol.md)
+  - Tags: #read #deepdive
+  - Summary: 本文介绍了开发者spacecowboy以低成本搭建的Bluesky“For You”推荐服务，通过本地高性能硬件与VPS代理结合，实现高效推荐与扩展，月成本约30美元，为独立开发者提供可行范例。
+
 - (2026-05-02) [Gathering Structures](202605/2026-05-02-gathering-structures.md)
   - Tags: #read #guide #people
   - Summary: 本文分享作者十五年组织经验，提出低压力高回报的社区活动方法，包括七分钟演示、轮值主持等实用结构，强调从小规模起步、建立社会性结构以减轻负担，同时指出场地、时间协调等未解难题，并鼓励主动组织、无需等待许可。

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-02) [Serving the For You Feed - AT Protocol](202605/2026-05-02-serving-the-for-you-feed---at-protocol.md)
+  - 本文介绍了开发者spacecowboy以低成本搭建的Bluesky“For You”推荐服务，通过本地高性能硬件与VPS代理结合，实现高效推荐与扩展，月成本约30美元，为独立开发者提供可行范例。
+  - Tags: #read #deepdive
+
 - (2026-05-02) [Gathering Structures](202605/2026-05-02-gathering-structures.md)
   - 本文分享作者十五年组织经验，提出低压力高回报的社区活动方法，包括七分钟演示、轮值主持等实用结构，强调从小规模起步、建立社会性结构以减轻负担，同时指出场地、时间协调等未解难题，并鼓励主动组织、无需等待许可。
   - Tags: #read #guide #people
@@ -39,13 +43,9 @@
   - 文章回顾了GitHub兴起对开源社区的重塑，指出其降低了贡献门槛但也带来了依赖爆炸与信任问题。当前GitHub面临挑战，社区开始分散。未来需建立独立、稳定的公共存档，以减少对单一平台的依赖，构建更健壮的开源生态。
   - Tags: #read
 
-- (2026-04-29) [Long-running Agents](202604/2026-04-29-long-running-agents.md)
-  - 长时运行智能体通过持久化状态和故障恢复突破单次会话限制，但面临上下文有限、状态缺失等挑战。主流方案包括解耦架构、分工模式及企业平台，实践强调检查点、记忆管理和集群编排。未来将聚焦多智能体协作与自适应工具。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (6 entries)
+- [2026-05](202605/monthly-index.md) (7 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
