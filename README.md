@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-02) [Cross-Site Request Forgery](202605/2026-05-02-cross-site-request-forgery.md)
+  - 本文介绍CSRF攻击原理及防御方法，重点推荐利用现代浏览器的Fetch元数据（如Sec-Fetch-Site头）结合Origin头实现高效防护，替代传统令牌机制，并提供2025年的实践方案与兼容性建议。
+  - Tags: #read #security
+
 - (2026-05-02) [OpenFeature](202605/2026-05-02-openfeature.md)
   - OpenFeature 是一个 CNCF 孵化的开源规范，旨在通过标准化 API 实现功能标志的供应商无关集成，支持多后端和多语言 SDK，避免代码锁定，促进社区协作与扩展。
   - Tags: #tools
@@ -39,13 +43,9 @@
   - 本文以讽刺手法，将Unix命令包装成创业公司，通过虚构的“mandō”加速器及其旗下单命令公司，对比原始命令的简洁与创业圈的浮夸，幽默批判了科技创业中过度包装、炒作概念和盲目产品化的现象。
   - Tags: #read
 
-- (2026-05-01) [Why the heck are we still using Markdown?? | BGs Labs](202605/2026-05-01-why-the-heck-are-we-still-using-markdown-bgs-labs.md)
-  - Markdown 因语法歧义、内联 HTML 安全风险及缺乏规范而问题重重，作者建议转向更严谨的替代品或开发新工具。
-  - Tags: #read #language
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (11 entries)
+- [2026-05](202605/monthly-index.md) (12 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

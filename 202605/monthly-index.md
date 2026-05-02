@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-02) [Cross-Site Request Forgery](2026-05-02-cross-site-request-forgery.md)
+  - 本文介绍CSRF攻击原理及防御方法，重点推荐利用现代浏览器的Fetch元数据（如Sec-Fetch-Site头）结合Origin头实现高效防护，替代传统令牌机制，并提供2025年的实践方案与兼容性建议。
+  - Tags: #read #security
+
 - (2026-05-02) [OpenFeature](2026-05-02-openfeature.md)
   - OpenFeature 是一个 CNCF 孵化的开源规范，旨在通过标准化 API 实现功能标志的供应商无关集成，支持多后端和多语言 SDK，避免代码锁定，促进社区协作与扩展。
   - Tags: #tools

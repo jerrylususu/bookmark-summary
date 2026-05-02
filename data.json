@@ -11695,5 +11695,15 @@
     "tags": [
       "tools"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Cross-Site Request Forgery",
+    "url": "https://words.filippo.io/csrf/",
+    "timestamp": 1777733037,
+    "tags": [
+      "read",
+      "security"
+    ]
   }
 ]
