@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-02) [Gathering Structures](202605/2026-05-02-gathering-structures.md)
+  - 本文分享作者十五年组织经验，提出低压力高回报的社区活动方法，包括七分钟演示、轮值主持等实用结构，强调从小规模起步、建立社会性结构以减轻负担，同时指出场地、时间协调等未解难题，并鼓励主动组织、无需等待许可。
+  - Tags: #read #guide #people
+
 - (2026-05-02) [为什么agent和workflow可以融合在同一个架构里？ - 铁蕾的个人博客](202605/2026-05-02-%E4%B8%BA%E4%BB%80%E4%B9%88agent%E5%92%8Cworkflow%E5%8F%AF%E4%BB%A5%E8%9E%8D%E5%90%88%E5%9C%A8%E5%90%8C%E4%B8%80%E4%B8%AA%E6%9E%B6%E6%9E%84%E9%87%8C%EF%BC%9F---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
   - AmphiLoop 架构融合 workflow 与 agent，通过“观察-思考-行动”循环实现模式切换：默认稳定运行 workflow，遇障自动切换至 agent 灵活应对，兼具稳定性与适应性，适用于复杂 AI 场景。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 长时运行智能体通过持久化状态和故障恢复突破单次会话限制，但面临上下文有限、状态缺失等挑战。主流方案包括解耦架构、分工模式及企业平台，实践强调检查点、记忆管理和集群编排。未来将聚焦多智能体协作与自适应工具。
   - Tags: #read #agent #deepdive
 
-- (2026-04-27) [AI 也该有护照了 | 虹线](202604/2026-04-27-ai-%E4%B9%9F%E8%AF%A5%E6%9C%89%E6%8A%A4%E7%85%A7%E4%BA%86-%E8%99%B9%E7%BA%BF.md)
-  - 文章以Meta收购Manus被叫停事件为例，探讨AI跨境流动中的身份与责任问题。作者提出AI需有“国籍”以明确责任归属，类比人类护照制度，强调建立身份体系是将AI纳入社会秩序、避免其成为无责任主体的必要治理起点。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (5 entries)
+- [2026-05](202605/monthly-index.md) (6 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

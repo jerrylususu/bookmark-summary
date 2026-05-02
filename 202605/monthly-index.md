@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-02) [Gathering Structures](2026-05-02-gathering-structures.md)
+  - 本文分享作者十五年组织经验，提出低压力高回报的社区活动方法，包括七分钟演示、轮值主持等实用结构，强调从小规模起步、建立社会性结构以减轻负担，同时指出场地、时间协调等未解难题，并鼓励主动组织、无需等待许可。
+  - Tags: #read #guide #people
+
 - (2026-05-02) [为什么agent和workflow可以融合在同一个架构里？ - 铁蕾的个人博客](2026-05-02-%E4%B8%BA%E4%BB%80%E4%B9%88agent%E5%92%8Cworkflow%E5%8F%AF%E4%BB%A5%E8%9E%8D%E5%90%88%E5%9C%A8%E5%90%8C%E4%B8%80%E4%B8%AA%E6%9E%B6%E6%9E%84%E9%87%8C%EF%BC%9F---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
   - AmphiLoop 架构融合 workflow 与 agent，通过“观察-思考-行动”循环实现模式切换：默认稳定运行 workflow，遇障自动切换至 agent 灵活应对，兼具稳定性与适应性，适用于复杂 AI 场景。
   - Tags: #read #agent
