@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-02) [为什么agent和workflow可以融合在同一个架构里？ - 铁蕾的个人博客](2026-05-02-%E4%B8%BA%E4%BB%80%E4%B9%88agent%E5%92%8Cworkflow%E5%8F%AF%E4%BB%A5%E8%9E%8D%E5%90%88%E5%9C%A8%E5%90%8C%E4%B8%80%E4%B8%AA%E6%9E%B6%E6%9E%84%E9%87%8C%EF%BC%9F---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
+  - AmphiLoop 架构融合 workflow 与 agent，通过“观察-思考-行动”循环实现模式切换：默认稳定运行 workflow，遇障自动切换至 agent 灵活应对，兼具稳定性与适应性，适用于复杂 AI 场景。
+  - Tags: #read #agent
+
 - (2026-05-01) [Configure Access Point as Personal Hotspot (OpenWrt) · Nostalgia](2026-05-01-configure-access-point-as-personal-hotspot-%28openwrt%29-%C2%B7-nostalgia.md)
   - 本文介绍在 OpenWrt 路由器上配置 Wi-Fi 信标中的特定信息元素，使 macOS 和 Windows 将其识别为个人热点，从而可能优化流量使用。通过抓包分析并修改 hostapd 配置，成功实现热点识别。
   - Tags: #read #tips #hack

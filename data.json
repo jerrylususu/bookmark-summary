@@ -11628,5 +11628,15 @@
       "tips",
       "hack"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "为什么agent和workflow可以融合在同一个架构里？ - 铁蕾的个人博客",
+    "url": "https://zhangtielei.com/posts/blog-amphiflow_implementation.html",
+    "timestamp": 1777698893,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

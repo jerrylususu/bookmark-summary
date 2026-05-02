@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-02) [为什么agent和workflow可以融合在同一个架构里？ - 铁蕾的个人博客](202605/2026-05-02-%E4%B8%BA%E4%BB%80%E4%B9%88agent%E5%92%8Cworkflow%E5%8F%AF%E4%BB%A5%E8%9E%8D%E5%90%88%E5%9C%A8%E5%90%8C%E4%B8%80%E4%B8%AA%E6%9E%B6%E6%9E%84%E9%87%8C%EF%BC%9F---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
+  - AmphiLoop 架构融合 workflow 与 agent，通过“观察-思考-行动”循环实现模式切换：默认稳定运行 workflow，遇障自动切换至 agent 灵活应对，兼具稳定性与适应性，适用于复杂 AI 场景。
+  - Tags: #read #agent
+
 - (2026-05-01) [Configure Access Point as Personal Hotspot (OpenWrt) · Nostalgia](202605/2026-05-01-configure-access-point-as-personal-hotspot-%28openwrt%29-%C2%B7-nostalgia.md)
   - 本文介绍在 OpenWrt 路由器上配置 Wi-Fi 信标中的特定信息元素，使 macOS 和 Windows 将其识别为个人热点，从而可能优化流量使用。通过抓包分析并修改 hostapd 配置，成功实现热点识别。
   - Tags: #read #tips #hack
@@ -39,13 +43,9 @@
   - 文章以Meta收购Manus被叫停事件为例，探讨AI跨境流动中的身份与责任问题。作者提出AI需有“国籍”以明确责任归属，类比人类护照制度，强调建立身份体系是将AI纳入社会秩序、避免其成为无责任主体的必要治理起点。
   - Tags: #read #agent
 
-- (2026-04-26) [你不知道的 AI Coding：非技术人的上手、场景与实战 - Tw93](202604/2026-04-26-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-ai-coding%EF%BC%9A%E9%9D%9E%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E4%B8%8A%E6%89%8B%E3%80%81%E5%9C%BA%E6%99%AF%E4%B8%8E%E5%AE%9E%E6%88%98---tw93.md)
-  - 本文面向非技术人员，介绍如何使用AI编程工具Claude Code。文章强调通过正确方法和习惯，非技术人员也能高效利用该工具完成任务，关键在于将执行权交给AI并精确描述需求。内容涵盖上手步骤、技术通识、账号准备、适用场景、协作技巧、进阶方法及安全习惯，提供从入门到进阶的实战指南。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (4 entries)
+- [2026-05](202605/monthly-index.md) (5 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
