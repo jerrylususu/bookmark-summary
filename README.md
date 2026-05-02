@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-02) [What an hour of your attention is worth — jonno.nz](202605/2026-05-02-what-an-hour-of-your-attention-is-worth-%E2%80%94-jonno.nz.md)
+  - 本文揭示互联网“免费”服务实为注意力交易，通过ARPU数据量化用户价值，并建议利用AI工具构建低成本私有社交网络，以重获数据自主权。
+  - Tags: #read
+
 - (2026-05-02) [(One) Good AI Is Here - Anil Dash](202605/2026-05-02-%28one%29-good-ai-is-here---anil-dash.md)
   - 本文以CorridorKey为例，指出其通过创作者主导、开源透明及社区协作的模式，证明了AI可向善发展。该工具专注解决具体问题，避免了主流AI的弊端，为取代科技巨头垄断提供了借鉴。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Zig项目推行“贡献者扑克”策略，通过长期培养新贡献者提升项目价值。但AI生成代码常含错误、缺乏理解且难建信任，加剧了核心团队处理PR的负担。因此，Zig禁止AI贡献，以维护策略有效性、保障质量和生态健康，此为基于现状的理性选择。
   - Tags: #read #oss
 
-- (2026-04-30) [Manifesto: Rules for standards-makers](202604/2026-04-30-manifesto-rules-for-standards-makers.md)
-  - 本文是Dave Winer为标准制定者撰写的宣言，总结了开放格式与协议的经验原则，核心强调互操作性至上、保持简单、避免破坏性变更等15条准则，旨在促进软件自由迁移与用户主导。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (8 entries)
+- [2026-05](202605/monthly-index.md) (9 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

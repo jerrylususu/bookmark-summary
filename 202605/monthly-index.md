@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-02) [What an hour of your attention is worth — jonno.nz](2026-05-02-what-an-hour-of-your-attention-is-worth-%E2%80%94-jonno.nz.md)
+  - 本文揭示互联网“免费”服务实为注意力交易，通过ARPU数据量化用户价值，并建议利用AI工具构建低成本私有社交网络，以重获数据自主权。
+  - Tags: #read
+
 - (2026-05-02) [(One) Good AI Is Here - Anil Dash](2026-05-02-%28one%29-good-ai-is-here---anil-dash.md)
   - 本文以CorridorKey为例，指出其通过创作者主导、开源透明及社区协作的模式，证明了AI可向善发展。该工具专注解决具体问题，避免了主流AI的弊端，为取代科技巨头垄断提供了借鉴。
   - Tags: #read
