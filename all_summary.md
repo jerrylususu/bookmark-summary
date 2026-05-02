@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-02) [The modern formatting addiction in writing](202605/2026-05-02-the-modern-formatting-addiction-in-writing.md)
+  - Tags: #read #write
+  - Summary: 本文探讨现代写作过度依赖格式化的现象，分析其成因包括提升效率、便于评估、辅助思考及制造结构错觉等，并建议先格式化整理思路再转化为流畅段落。文章指出，随着AI技术发展，过度格式化可能减少，且格式化程度应随文章长度调整，以平衡可读性与深度。
+
 - (2026-05-02) [Cross-Site Request Forgery](202605/2026-05-02-cross-site-request-forgery.md)
   - Tags: #read #security
   - Summary: 本文介绍CSRF攻击原理及防御方法，重点推荐利用现代浏览器的Fetch元数据（如Sec-Fetch-Site头）结合Origin头实现高效防护，替代传统令牌机制，并提供2025年的实践方案与兼容性建议。
