@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-02) [OpenFeature](2026-05-02-openfeature.md)
+  - OpenFeature 是一个 CNCF 孵化的开源规范，旨在通过标准化 API 实现功能标志的供应商无关集成，支持多后端和多语言 SDK，避免代码锁定，促进社区协作与扩展。
+  - Tags: #tools
+
 - (2026-05-02) [The End of the Open Web](2026-05-02-the-end-of-the-open-web.md)
   - 文章指出开放网络因平台垄断、AI整合及匿名性丧失而衰落，预测未来将更封闭并形成信息鸿沟。作者呼吁支持独立创作以延续开放精神。
   - Tags: #read
