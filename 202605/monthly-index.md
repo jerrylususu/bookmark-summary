@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-02) [(One) Good AI Is Here - Anil Dash](2026-05-02-%28one%29-good-ai-is-here---anil-dash.md)
+  - 本文以CorridorKey为例，指出其通过创作者主导、开源透明及社区协作的模式，证明了AI可向善发展。该工具专注解决具体问题，避免了主流AI的弊端，为取代科技巨头垄断提供了借鉴。
+  - Tags: #read
+
 - (2026-05-02) [Serving the For You Feed - AT Protocol](2026-05-02-serving-the-for-you-feed---at-protocol.md)
   - 本文介绍了开发者spacecowboy以低成本搭建的Bluesky“For You”推荐服务，通过本地高性能硬件与VPS代理结合，实现高效推荐与扩展，月成本约30美元，为独立开发者提供可行范例。
   - Tags: #read #deepdive

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-02) [(One) Good AI Is Here - Anil Dash](202605/2026-05-02-%28one%29-good-ai-is-here---anil-dash.md)
+  - 本文以CorridorKey为例，指出其通过创作者主导、开源透明及社区协作的模式，证明了AI可向善发展。该工具专注解决具体问题，避免了主流AI的弊端，为取代科技巨头垄断提供了借鉴。
+  - Tags: #read
+
 - (2026-05-02) [Serving the For You Feed - AT Protocol](202605/2026-05-02-serving-the-for-you-feed---at-protocol.md)
   - 本文介绍了开发者spacecowboy以低成本搭建的Bluesky“For You”推荐服务，通过本地高性能硬件与VPS代理结合，实现高效推荐与扩展，月成本约30美元，为独立开发者提供可行范例。
   - Tags: #read #deepdive
@@ -39,13 +43,9 @@
   - 本文是Dave Winer为标准制定者撰写的宣言，总结了开放格式与协议的经验原则，核心强调互操作性至上、保持简单、避免破坏性变更等15条准则，旨在促进软件自由迁移与用户主导。
   - Tags: #read
 
-- (2026-04-29) [Before GitHub](202604/2026-04-29-before-github.md)
-  - 文章回顾了GitHub兴起对开源社区的重塑，指出其降低了贡献门槛但也带来了依赖爆炸与信任问题。当前GitHub面临挑战，社区开始分散。未来需建立独立、稳定的公共存档，以减少对单一平台的依赖，构建更健壮的开源生态。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (7 entries)
+- [2026-05](202605/monthly-index.md) (8 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
