@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-02) [The End of the Open Web](202605/2026-05-02-the-end-of-the-open-web.md)
+  - Tags: #read
+  - Summary: 文章指出开放网络因平台垄断、AI整合及匿名性丧失而衰落，预测未来将更封闭并形成信息鸿沟。作者呼吁支持独立创作以延续开放精神。
+
 - (2026-05-02) [What an hour of your attention is worth — jonno.nz](202605/2026-05-02-what-an-hour-of-your-attention-is-worth-%E2%80%94-jonno.nz.md)
   - Tags: #read
   - Summary: 本文揭示互联网“免费”服务实为注意力交易，通过ARPU数据量化用户价值，并建议利用AI工具构建低成本私有社交网络，以重获数据自主权。

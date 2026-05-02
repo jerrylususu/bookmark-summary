@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-02) [The End of the Open Web](202605/2026-05-02-the-end-of-the-open-web.md)
+  - 文章指出开放网络因平台垄断、AI整合及匿名性丧失而衰落，预测未来将更封闭并形成信息鸿沟。作者呼吁支持独立创作以延续开放精神。
+  - Tags: #read
+
 - (2026-05-02) [What an hour of your attention is worth — jonno.nz](202605/2026-05-02-what-an-hour-of-your-attention-is-worth-%E2%80%94-jonno.nz.md)
   - 本文揭示互联网“免费”服务实为注意力交易，通过ARPU数据量化用户价值，并建议利用AI工具构建低成本私有社交网络，以重获数据自主权。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 作者开发工具测试智能体在设计系统的表现，通过对比新旧系统评估性能。结果显示指标改善，但仅基于Claude模型，尚处早期。经验包括文档影响大、随机化提示避免优化等，强调工具实用但需改进。
   - Tags: #read #agent #design
 
-- (2026-04-30) [Contributor Poker and Zig's AI Ban](202604/2026-04-30-contributor-poker-and-zig%27s-ai-ban.md)
-  - Zig项目推行“贡献者扑克”策略，通过长期培养新贡献者提升项目价值。但AI生成代码常含错误、缺乏理解且难建信任，加剧了核心团队处理PR的负担。因此，Zig禁止AI贡献，以维护策略有效性、保障质量和生态健康，此为基于现状的理性选择。
-  - Tags: #read #oss
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (9 entries)
+- [2026-05](202605/monthly-index.md) (10 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
