@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-03) [Testing JavaScript without a (third-party) framework](202605/2026-05-03-testing-javascript-without-a-%28third-party%29-framework.md)
+  - 本文介绍了一种极简的浏览器内单元测试方案，通过三个核心函数（it、assertEqual、assertTrue/False）在HTML中直接运行测试，无需第三方框架或构建环境。该方法适合小型纯JS项目，降低维护成本，快速提供测试反馈，务实且轻量。
+  - Tags: #read #frontend
+
 - (2026-05-03) [Testing Vue components in the browser](202605/2026-05-03-testing-vue-components-in-the-browser.md)
   - 本文介绍作者在浏览器中直接测试 Vue 组件的轻量方案，选用 QUnit 框架，通过挂载组件、管理测试数据和处理异步渲染等步骤实现测试，并探讨了挑战与改进方向。
   - Tags: #read #frontend
@@ -39,13 +43,9 @@
   - 本文分享作者十五年组织经验，提出低压力高回报的社区活动方法，包括七分钟演示、轮值主持等实用结构，强调从小规模起步、建立社会性结构以减轻负担，同时指出场地、时间协调等未解难题，并鼓励主动组织、无需等待许可。
   - Tags: #read #guide #people
 
-- (2026-05-02) [为什么agent和workflow可以融合在同一个架构里？ - 铁蕾的个人博客](202605/2026-05-02-%E4%B8%BA%E4%BB%80%E4%B9%88agent%E5%92%8Cworkflow%E5%8F%AF%E4%BB%A5%E8%9E%8D%E5%90%88%E5%9C%A8%E5%90%8C%E4%B8%80%E4%B8%AA%E6%9E%B6%E6%9E%84%E9%87%8C%EF%BC%9F---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
-  - AmphiLoop 架构融合 workflow 与 agent，通过“观察-思考-行动”循环实现模式切换：默认稳定运行 workflow，遇障自动切换至 agent 灵活应对，兼具稳定性与适应性，适用于复杂 AI 场景。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (14 entries)
+- [2026-05](202605/monthly-index.md) (15 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

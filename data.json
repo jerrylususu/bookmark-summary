@@ -11725,5 +11725,15 @@
       "read",
       "frontend"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Testing JavaScript without a (third-party) framework",
+    "url": "https://alexwlchan.net/2023/testing-javascript-without-a-framework/",
+    "timestamp": 1777775335,
+    "tags": [
+      "read",
+      "frontend"
+    ]
   }
 ]

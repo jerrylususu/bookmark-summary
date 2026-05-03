@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-03) [Testing JavaScript without a (third-party) framework](202605/2026-05-03-testing-javascript-without-a-%28third-party%29-framework.md)
+  - Tags: #read #frontend
+  - Summary: 本文介绍了一种极简的浏览器内单元测试方案，通过三个核心函数（it、assertEqual、assertTrue/False）在HTML中直接运行测试，无需第三方框架或构建环境。该方法适合小型纯JS项目，降低维护成本，快速提供测试反馈，务实且轻量。
+
 - (2026-05-03) [Testing Vue components in the browser](202605/2026-05-03-testing-vue-components-in-the-browser.md)
   - Tags: #read #frontend
   - Summary: 本文介绍作者在浏览器中直接测试 Vue 组件的轻量方案，选用 QUnit 框架，通过挂载组件、管理测试数据和处理异步渲染等步骤实现测试，并探讨了挑战与改进方向。
