@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-03) [Why I don't like the "staff engineer archetypes"](2026-05-03-why-i-don%27t-like-the-staff-engineer-archetypes.md)
+  - 作者认为Will Larson的“Staff Engineer Archetypes”虽描述现实角色，但不宜作为职业目标。Staff Engineer的核心是持续创造价值、建立信任并灵活适应公司需求，而非刻意模仿特定角色。
+  - Tags: #read #people
+
 - (2026-05-03) [Testing JavaScript without a (third-party) framework](2026-05-03-testing-javascript-without-a-%28third-party%29-framework.md)
   - 本文介绍了一种极简的浏览器内单元测试方案，通过三个核心函数（it、assertEqual、assertTrue/False）在HTML中直接运行测试，无需第三方框架或构建环境。该方法适合小型纯JS项目，降低维护成本，快速提供测试反馈，务实且轻量。
   - Tags: #read #frontend

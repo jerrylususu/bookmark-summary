@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-03) [Why I don't like the "staff engineer archetypes"](202605/2026-05-03-why-i-don%27t-like-the-staff-engineer-archetypes.md)
+  - 作者认为Will Larson的“Staff Engineer Archetypes”虽描述现实角色，但不宜作为职业目标。Staff Engineer的核心是持续创造价值、建立信任并灵活适应公司需求，而非刻意模仿特定角色。
+  - Tags: #read #people
+
 - (2026-05-03) [Testing JavaScript without a (third-party) framework](202605/2026-05-03-testing-javascript-without-a-%28third-party%29-framework.md)
   - 本文介绍了一种极简的浏览器内单元测试方案，通过三个核心函数（it、assertEqual、assertTrue/False）在HTML中直接运行测试，无需第三方框架或构建环境。该方法适合小型纯JS项目，降低维护成本，快速提供测试反馈，务实且轻量。
   - Tags: #read #frontend
@@ -39,13 +43,9 @@
   - 本文介绍了开发者spacecowboy以低成本搭建的Bluesky“For You”推荐服务，通过本地高性能硬件与VPS代理结合，实现高效推荐与扩展，月成本约30美元，为独立开发者提供可行范例。
   - Tags: #read #deepdive
 
-- (2026-05-02) [Gathering Structures](202605/2026-05-02-gathering-structures.md)
-  - 本文分享作者十五年组织经验，提出低压力高回报的社区活动方法，包括七分钟演示、轮值主持等实用结构，强调从小规模起步、建立社会性结构以减轻负担，同时指出场地、时间协调等未解难题，并鼓励主动组织、无需等待许可。
-  - Tags: #read #guide #people
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (15 entries)
+- [2026-05](202605/monthly-index.md) (16 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
