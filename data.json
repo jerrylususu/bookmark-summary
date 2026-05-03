@@ -11715,5 +11715,15 @@
       "read",
       "write"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Testing Vue components in the browser",
+    "url": "https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/",
+    "timestamp": 1777775263,
+    "tags": [
+      "read",
+      "frontend"
+    ]
   }
 ]

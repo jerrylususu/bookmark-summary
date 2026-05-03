@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-03) [Testing Vue components in the browser](202605/2026-05-03-testing-vue-components-in-the-browser.md)
+  - Tags: #read #frontend
+  - Summary: 本文介绍作者在浏览器中直接测试 Vue 组件的轻量方案，选用 QUnit 框架，通过挂载组件、管理测试数据和处理异步渲染等步骤实现测试，并探讨了挑战与改进方向。
+
 - (2026-05-02) [The modern formatting addiction in writing](202605/2026-05-02-the-modern-formatting-addiction-in-writing.md)
   - Tags: #read #write
   - Summary: 本文探讨现代写作过度依赖格式化的现象，分析其成因包括提升效率、便于评估、辅助思考及制造结构错觉等，并建议先格式化整理思路再转化为流畅段落。文章指出，随着AI技术发展，过度格式化可能减少，且格式化程度应随文章长度调整，以平衡可读性与深度。

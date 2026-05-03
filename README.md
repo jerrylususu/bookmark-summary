@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-03) [Testing Vue components in the browser](202605/2026-05-03-testing-vue-components-in-the-browser.md)
+  - 本文介绍作者在浏览器中直接测试 Vue 组件的轻量方案，选用 QUnit 框架，通过挂载组件、管理测试数据和处理异步渲染等步骤实现测试，并探讨了挑战与改进方向。
+  - Tags: #read #frontend
+
 - (2026-05-02) [The modern formatting addiction in writing](202605/2026-05-02-the-modern-formatting-addiction-in-writing.md)
   - 本文探讨现代写作过度依赖格式化的现象，分析其成因包括提升效率、便于评估、辅助思考及制造结构错觉等，并建议先格式化整理思路再转化为流畅段落。文章指出，随着AI技术发展，过度格式化可能减少，且格式化程度应随文章长度调整，以平衡可读性与深度。
   - Tags: #read #write
@@ -39,13 +43,9 @@
   - AmphiLoop 架构融合 workflow 与 agent，通过“观察-思考-行动”循环实现模式切换：默认稳定运行 workflow，遇障自动切换至 agent 灵活应对，兼具稳定性与适应性，适用于复杂 AI 场景。
   - Tags: #read #agent
 
-- (2026-05-01) [Configure Access Point as Personal Hotspot (OpenWrt) · Nostalgia](202605/2026-05-01-configure-access-point-as-personal-hotspot-%28openwrt%29-%C2%B7-nostalgia.md)
-  - 本文介绍在 OpenWrt 路由器上配置 Wi-Fi 信标中的特定信息元素，使 macOS 和 Windows 将其识别为个人热点，从而可能优化流量使用。通过抓包分析并修改 hostapd 配置，成功实现热点识别。
-  - Tags: #read #tips #hack
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (13 entries)
+- [2026-05](202605/monthly-index.md) (14 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
