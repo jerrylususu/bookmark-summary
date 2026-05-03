@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-03) [Staff archetypes](2026-05-03-staff-archetypes.md)
+  - 本文介绍了高级工程师的四种常见原型：技术负责人、架构师、问题解决者和执行副手，分析了各自的核心职责、特点及适用公司，并提供了根据个人兴趣和公司需求选择发展路径的建议。
+  - Tags: #read #people
+
 - (2026-05-03) [Why I don't like the "staff engineer archetypes"](2026-05-03-why-i-don%27t-like-the-staff-engineer-archetypes.md)
   - 作者认为Will Larson的“Staff Engineer Archetypes”虽描述现实角色，但不宜作为职业目标。Staff Engineer的核心是持续创造价值、建立信任并灵活适应公司需求，而非刻意模仿特定角色。
   - Tags: #read #people

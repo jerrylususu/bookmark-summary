@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-03) [Staff archetypes](202605/2026-05-03-staff-archetypes.md)
+  - 本文介绍了高级工程师的四种常见原型：技术负责人、架构师、问题解决者和执行副手，分析了各自的核心职责、特点及适用公司，并提供了根据个人兴趣和公司需求选择发展路径的建议。
+  - Tags: #read #people
+
 - (2026-05-03) [Why I don't like the "staff engineer archetypes"](202605/2026-05-03-why-i-don%27t-like-the-staff-engineer-archetypes.md)
   - 作者认为Will Larson的“Staff Engineer Archetypes”虽描述现实角色，但不宜作为职业目标。Staff Engineer的核心是持续创造价值、建立信任并灵活适应公司需求，而非刻意模仿特定角色。
   - Tags: #read #people
@@ -39,13 +43,9 @@
   - 本文以CorridorKey为例，指出其通过创作者主导、开源透明及社区协作的模式，证明了AI可向善发展。该工具专注解决具体问题，避免了主流AI的弊端，为取代科技巨头垄断提供了借鉴。
   - Tags: #read
 
-- (2026-05-02) [Serving the For You Feed - AT Protocol](202605/2026-05-02-serving-the-for-you-feed---at-protocol.md)
-  - 本文介绍了开发者spacecowboy以低成本搭建的Bluesky“For You”推荐服务，通过本地高性能硬件与VPS代理结合，实现高效推荐与扩展，月成本约30美元，为独立开发者提供可行范例。
-  - Tags: #read #deepdive
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (16 entries)
+- [2026-05](202605/monthly-index.md) (17 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
