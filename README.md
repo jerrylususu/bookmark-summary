@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-04) [Agent Skills](202605/2026-05-04-agent-skills.md)
+  - Addy Osmani的Agent Skills项目通过结构化工作流，将高级工程师的规范、测试、评审等关键环节编码为AI代理的强制步骤，弥补其默认行为的不足，提升代码可靠性与可维护性。
+  - Tags: #read #agent #tools
+
 - (2026-05-03) [Staff archetypes](202605/2026-05-03-staff-archetypes.md)
   - 本文介绍了高级工程师的四种常见原型：技术负责人、架构师、问题解决者和执行副手，分析了各自的核心职责、特点及适用公司，并提供了根据个人兴趣和公司需求选择发展路径的建议。
   - Tags: #read #people
@@ -39,13 +43,9 @@
   - 本文揭示互联网“免费”服务实为注意力交易，通过ARPU数据量化用户价值，并建议利用AI工具构建低成本私有社交网络，以重获数据自主权。
   - Tags: #read
 
-- (2026-05-02) [(One) Good AI Is Here - Anil Dash](202605/2026-05-02-%28one%29-good-ai-is-here---anil-dash.md)
-  - 本文以CorridorKey为例，指出其通过创作者主导、开源透明及社区协作的模式，证明了AI可向善发展。该工具专注解决具体问题，避免了主流AI的弊端，为取代科技巨头垄断提供了借鉴。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (17 entries)
+- [2026-05](202605/monthly-index.md) (18 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

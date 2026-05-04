@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-04) [Agent Skills](2026-05-04-agent-skills.md)
+  - Addy Osmani的Agent Skills项目通过结构化工作流，将高级工程师的规范、测试、评审等关键环节编码为AI代理的强制步骤，弥补其默认行为的不足，提升代码可靠性与可维护性。
+  - Tags: #read #agent #tools
+
 - (2026-05-03) [Staff archetypes](2026-05-03-staff-archetypes.md)
   - 本文介绍了高级工程师的四种常见原型：技术负责人、架构师、问题解决者和执行副手，分析了各自的核心职责、特点及适用公司，并提供了根据个人兴趣和公司需求选择发展路径的建议。
   - Tags: #read #people

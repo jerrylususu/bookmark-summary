@@ -11755,5 +11755,16 @@
       "read",
       "people"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Agent Skills",
+    "url": "https://addyosmani.com/blog/agent-skills/",
+    "timestamp": 1777867217,
+    "tags": [
+      "read",
+      "agent",
+      "tools"
+    ]
   }
 ]
