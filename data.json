@@ -11785,5 +11785,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Links to CSS colour palettes",
+    "url": "https://jvns.ca/blog/2026/05/04/css-colour-palettes/",
+    "timestamp": 1777994743,
+    "tags": [
+      "tips",
+      "frontend"
+    ]
   }
 ]

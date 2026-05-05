@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-05) [Links to CSS colour palettes](202605/2026-05-05-links-to-css-colour-palettes.md)
+  - Tags: #tips #frontend
+  - Summary: 作者因停止使用Tailwind CSS，整理了替代色彩调色板和工具，包括uchū、flexoki等推荐方案及色彩生成器，帮助开发者创建协调的色彩方案。
+
 - (2026-05-05) [Import AI 455: Automating AI Research](202605/2026-05-05-import-ai-455-automating-ai-research.md)
   - Tags: #read #llm
   - Summary: 本文探讨人工智能自动化研发的进展，预测2028年底有超60%概率出现无需人类参与的AI系统。AI在编码、科学、管理等方面能力显著提升，行业目标一致，但面临对齐问题和经济变革挑战。

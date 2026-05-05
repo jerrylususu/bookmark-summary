@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-05) [Links to CSS colour palettes](202605/2026-05-05-links-to-css-colour-palettes.md)
+  - 作者因停止使用Tailwind CSS，整理了替代色彩调色板和工具，包括uchū、flexoki等推荐方案及色彩生成器，帮助开发者创建协调的色彩方案。
+  - Tags: #tips #frontend
+
 - (2026-05-05) [Import AI 455: Automating AI Research](202605/2026-05-05-import-ai-455-automating-ai-research.md)
   - 本文探讨人工智能自动化研发的进展，预测2028年底有超60%概率出现无需人类参与的AI系统。AI在编码、科学、管理等方面能力显著提升，行业目标一致，但面临对齐问题和经济变革挑战。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 本文介绍CSRF攻击原理及防御方法，重点推荐利用现代浏览器的Fetch元数据（如Sec-Fetch-Site头）结合Origin头实现高效防护，替代传统令牌机制，并提供2025年的实践方案与兼容性建议。
   - Tags: #read #security
 
-- (2026-05-02) [OpenFeature](202605/2026-05-02-openfeature.md)
-  - OpenFeature 是一个 CNCF 孵化的开源规范，旨在通过标准化 API 实现功能标志的供应商无关集成，支持多后端和多语言 SDK，避免代码锁定，促进社区协作与扩展。
-  - Tags: #tools
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (20 entries)
+- [2026-05](202605/monthly-index.md) (21 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
