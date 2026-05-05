@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-05) [Redis array type: short story of a long development - <antirez>](202605/2026-05-05-redis-array-type-short-story-of-a-long-development---antirez.md)
+  - 本文讲述 Redis 新数组数据类型历时四个月的开发历程，作者借助 AI 辅助设计、实现与优化，最终引入正则功能并提升性能，强调 AI 提供安全网但深度参与仍不可或缺。
+  - Tags: #read
+
 - (2026-05-04) [Agent Skills](202605/2026-05-04-agent-skills.md)
   - Addy Osmani的Agent Skills项目通过结构化工作流，将高级工程师的规范、测试、评审等关键环节编码为AI代理的强制步骤，弥补其默认行为的不足，提升代码可靠性与可维护性。
   - Tags: #read #agent #tools
@@ -39,13 +43,9 @@
   - 文章指出开放网络因平台垄断、AI整合及匿名性丧失而衰落，预测未来将更封闭并形成信息鸿沟。作者呼吁支持独立创作以延续开放精神。
   - Tags: #read
 
-- (2026-05-02) [What an hour of your attention is worth — jonno.nz](202605/2026-05-02-what-an-hour-of-your-attention-is-worth-%E2%80%94-jonno.nz.md)
-  - 本文揭示互联网“免费”服务实为注意力交易，通过ARPU数据量化用户价值，并建议利用AI工具构建低成本私有社交网络，以重获数据自主权。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (18 entries)
+- [2026-05](202605/monthly-index.md) (19 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-05) [Redis array type: short story of a long development - <antirez>](202605/2026-05-05-redis-array-type-short-story-of-a-long-development---antirez.md)
+  - Tags: #read
+  - Summary: 本文讲述 Redis 新数组数据类型历时四个月的开发历程，作者借助 AI 辅助设计、实现与优化，最终引入正则功能并提升性能，强调 AI 提供安全网但深度参与仍不可或缺。
+
 - (2026-05-04) [Agent Skills](202605/2026-05-04-agent-skills.md)
   - Tags: #read #agent #tools
   - Summary: Addy Osmani的Agent Skills项目通过结构化工作流，将高级工程师的规范、测试、评审等关键环节编码为AI代理的强制步骤，弥补其默认行为的不足，提升代码可靠性与可维护性。
