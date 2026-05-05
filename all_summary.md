@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-05) [Import AI 455: Automating AI Research](202605/2026-05-05-import-ai-455-automating-ai-research.md)
+  - Tags: #read #llm
+  - Summary: 本文探讨人工智能自动化研发的进展，预测2028年底有超60%概率出现无需人类参与的AI系统。AI在编码、科学、管理等方面能力显著提升，行业目标一致，但面临对齐问题和经济变革挑战。
+
 - (2026-05-05) [Redis array type: short story of a long development - <antirez>](202605/2026-05-05-redis-array-type-short-story-of-a-long-development---antirez.md)
   - Tags: #read
   - Summary: 本文讲述 Redis 新数组数据类型历时四个月的开发历程，作者借助 AI 辅助设计、实现与优化，最终引入正则功能并提升性能，强调 AI 提供安全网但深度参与仍不可或缺。
