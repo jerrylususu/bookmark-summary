@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-06) [Cognitive Surrender](202605/2026-05-06-cognitive-surrender.md)
+  - 文章探讨软件工程中的“认知投降”现象，指出过度依赖AI会削弱独立思考能力。作者区分“认知卸载”与“认知投降”，强调后者积累“理解债务”。通过案例说明AI便捷性可能导致深度思考缺失，呼吁开发者保持“校准”，确保AI增强而非替代思考，真正提升系统理解能力。
+  - Tags: #read #agent
+
 - (2026-05-05) [Links to CSS colour palettes](202605/2026-05-05-links-to-css-colour-palettes.md)
   - 作者因停止使用Tailwind CSS，整理了替代色彩调色板和工具，包括uchū、flexoki等推荐方案及色彩生成器，帮助开发者创建协调的色彩方案。
   - Tags: #tips #frontend
@@ -39,13 +43,9 @@
   - 本文探讨现代写作过度依赖格式化的现象，分析其成因包括提升效率、便于评估、辅助思考及制造结构错觉等，并建议先格式化整理思路再转化为流畅段落。文章指出，随着AI技术发展，过度格式化可能减少，且格式化程度应随文章长度调整，以平衡可读性与深度。
   - Tags: #read #write
 
-- (2026-05-02) [Cross-Site Request Forgery](202605/2026-05-02-cross-site-request-forgery.md)
-  - 本文介绍CSRF攻击原理及防御方法，重点推荐利用现代浏览器的Fetch元数据（如Sec-Fetch-Site头）结合Origin头实现高效防护，替代传统令牌机制，并提供2025年的实践方案与兼容性建议。
-  - Tags: #read #security
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (21 entries)
+- [2026-05](202605/monthly-index.md) (22 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

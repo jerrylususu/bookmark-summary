@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-06) [Cognitive Surrender](202605/2026-05-06-cognitive-surrender.md)
+  - Tags: #read #agent
+  - Summary: 文章探讨软件工程中的“认知投降”现象，指出过度依赖AI会削弱独立思考能力。作者区分“认知卸载”与“认知投降”，强调后者积累“理解债务”。通过案例说明AI便捷性可能导致深度思考缺失，呼吁开发者保持“校准”，确保AI增强而非替代思考，真正提升系统理解能力。
+
 - (2026-05-05) [Links to CSS colour palettes](202605/2026-05-05-links-to-css-colour-palettes.md)
   - Tags: #tips #frontend
   - Summary: 作者因停止使用Tailwind CSS，整理了替代色彩调色板和工具，包括uchū、flexoki等推荐方案及色彩生成器，帮助开发者创建协调的色彩方案。
