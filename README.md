@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-07) [Most vibe-coded tools are not for you](202605/2026-05-07-most-vibe-coded-tools-are-not-for-you.md)
+  - 文章批评AI生成工具泛滥却缺乏价值，指出优质工具应具备可达性、社交性和完成度三大特质。作者呼吁创造者应追求实质意义，避免制造无用的“工具噪音”。
+  - Tags: #read
+
 - (2026-05-06) [Cognitive Surrender](202605/2026-05-06-cognitive-surrender.md)
   - 文章探讨软件工程中的“认知投降”现象，指出过度依赖AI会削弱独立思考能力。作者区分“认知卸载”与“认知投降”，强调后者积累“理解债务”。通过案例说明AI便捷性可能导致深度思考缺失，呼吁开发者保持“校准”，确保AI增强而非替代思考，真正提升系统理解能力。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文介绍作者在浏览器中直接测试 Vue 组件的轻量方案，选用 QUnit 框架，通过挂载组件、管理测试数据和处理异步渲染等步骤实现测试，并探讨了挑战与改进方向。
   - Tags: #read #frontend
 
-- (2026-05-02) [The modern formatting addiction in writing](202605/2026-05-02-the-modern-formatting-addiction-in-writing.md)
-  - 本文探讨现代写作过度依赖格式化的现象，分析其成因包括提升效率、便于评估、辅助思考及制造结构错觉等，并建议先格式化整理思路再转化为流畅段落。文章指出，随着AI技术发展，过度格式化可能减少，且格式化程度应随文章长度调整，以平衡可读性与深度。
-  - Tags: #read #write
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (22 entries)
+- [2026-05](202605/monthly-index.md) (23 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

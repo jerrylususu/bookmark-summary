@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-07) [Most vibe-coded tools are not for you](2026-05-07-most-vibe-coded-tools-are-not-for-you.md)
+  - 文章批评AI生成工具泛滥却缺乏价值，指出优质工具应具备可达性、社交性和完成度三大特质。作者呼吁创造者应追求实质意义，避免制造无用的“工具噪音”。
+  - Tags: #read
+
 - (2026-05-06) [Cognitive Surrender](2026-05-06-cognitive-surrender.md)
   - 文章探讨软件工程中的“认知投降”现象，指出过度依赖AI会削弱独立思考能力。作者区分“认知卸载”与“认知投降”，强调后者积累“理解债务”。通过案例说明AI便捷性可能导致深度思考缺失，呼吁开发者保持“校准”，确保AI增强而非替代思考，真正提升系统理解能力。
   - Tags: #read #agent
