@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-08) [Notes on incidents](2026-05-08-notes-on-incidents.md)
+  - 文章指出事件处理应避免仓促干预，优先依靠系统自愈能力，采取简单措施并依赖深入的系统知识。强调冷静、果断与团队协作，而非英雄主义，以赢得政治信誉并提升效率。
+  - Tags: #read
+
 - (2026-05-08) [Pushing Local Models With Focus And Polish](2026-05-08-pushing-local-models-with-focus-and-polish.md)
   - 本文指出本地模型开发者体验因碎片化而逊于托管API，主张聚焦单一硬件深度优化。以DeepSeek V4 Flash为例，通过ds4.c引擎和pi-ds4扩展实现零配置集成，旨在提升流畅性并推动生态成熟。
   - Tags: #read #llm
