@@ -11844,5 +11844,17 @@
       "frontend",
       "design"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "用Agent评测思路管理AI Coding —— 31万行代码AI重构的实践",
+    "url": "https://tech.meituan.com/2026/05/07/agent-ai-coding.html",
+    "timestamp": 1778253539,
+    "tags": [
+      "read",
+      "agent",
+      "deepdive",
+      "guide"
+    ]
   }
 ]

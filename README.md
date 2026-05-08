@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-08) [用Agent评测思路管理AI Coding —— 31万行代码AI重构的实践](202605/2026-05-08-%E7%94%A8agent%E8%AF%84%E6%B5%8B%E6%80%9D%E8%B7%AF%E7%AE%A1%E7%90%86ai-coding-%E2%80%94%E2%80%94-31%E4%B8%87%E8%A1%8C%E4%BB%A3%E7%A0%81ai%E9%87%8D%E6%9E%84%E7%9A%84%E5%AE%9E%E8%B7%B5.md)
+  - 美团技术团队通过Agent评测完成31万行代码重构，核心经验包括：先团队共识再AI约束、技术债渐进式消化、工程师角色转向设计AI工程环境。行动指南涵盖盘清技术债、制定规范、主R打样推广及建立Pre-PR机制。
+  - Tags: #read #agent #deepdive #guide
+
 - (2026-05-08) [一根上流滚动条的诞生](202605/2026-05-08-%E4%B8%80%E6%A0%B9%E4%B8%8A%E6%B5%81%E6%BB%9A%E5%8A%A8%E6%9D%A1%E7%9A%84%E8%AF%9E%E7%94%9F.md)
   - 作者为博客设计了自定义滚动条，采用Canvas绘制提升性能，加入平滑动画、触屏优化及目录嵌入功能，同时反思了可访问性问题，分享了开发挑战与未来展望，但暂不计划开源。
   - Tags: #read #frontend #design
@@ -39,13 +43,9 @@
   - Addy Osmani的Agent Skills项目通过结构化工作流，将高级工程师的规范、测试、评审等关键环节编码为AI代理的强制步骤，弥补其默认行为的不足，提升代码可靠性与可维护性。
   - Tags: #read #agent #tools
 
-- (2026-05-03) [Staff archetypes](202605/2026-05-03-staff-archetypes.md)
-  - 本文介绍了高级工程师的四种常见原型：技术负责人、架构师、问题解决者和执行副手，分析了各自的核心职责、特点及适用公司，并提供了根据个人兴趣和公司需求选择发展路径的建议。
-  - Tags: #read #people
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (26 entries)
+- [2026-05](202605/monthly-index.md) (27 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
