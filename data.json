@@ -11878,5 +11878,15 @@
       "agent",
       "llm"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Improving token efficiency in GitHub Agentic Workflows",
+    "url": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
+    "timestamp": 1778254501,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

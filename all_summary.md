@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-08) [Improving token efficiency in GitHub Agentic Workflows](202605/2026-05-08-improving-token-efficiency-in-github-agentic-workflows.md)
+  - Tags: #read #agent
+  - Summary: 本文介绍了GitHub优化Agentic Workflows令牌使用的方法，包括统一数据收集、自动审计与改进建议。通过移除未用工具和替换数据获取操作，令牌使用量显著下降，如Auto-Triage Issues减少62%。文章还提出有效令牌指标以标准化成本计算，最终实现显著成本节约。
+
 - (2026-05-08) [Behind the Scenes Hardening Firefox with Claude Mythos Preview – Mozilla Hacks - the Web developer blog](202605/2026-05-08-behind-the-scenes-hardening-firefox-with-claude-mythos-preview-%E2%80%93-mozilla-hacks---the-web-developer-blog.md)
   - Tags: #read #security #agent #llm
   - Summary: Mozilla利用Claude Mythos Preview等AI模型构建智能代理测试框架，结合模糊测试动态生成可复现用例，在Firefox 150版本中发现271个漏洞（含180个高危），显著提升漏洞检测效率，为软件安全提供新策略。

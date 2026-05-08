@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-08) [Improving token efficiency in GitHub Agentic Workflows](202605/2026-05-08-improving-token-efficiency-in-github-agentic-workflows.md)
+  - 本文介绍了GitHub优化Agentic Workflows令牌使用的方法，包括统一数据收集、自动审计与改进建议。通过移除未用工具和替换数据获取操作，令牌使用量显著下降，如Auto-Triage Issues减少62%。文章还提出有效令牌指标以标准化成本计算，最终实现显著成本节约。
+  - Tags: #read #agent
+
 - (2026-05-08) [Behind the Scenes Hardening Firefox with Claude Mythos Preview – Mozilla Hacks - the Web developer blog](202605/2026-05-08-behind-the-scenes-hardening-firefox-with-claude-mythos-preview-%E2%80%93-mozilla-hacks---the-web-developer-blog.md)
   - Mozilla利用Claude Mythos Preview等AI模型构建智能代理测试框架，结合模糊测试动态生成可复现用例，在Firefox 150版本中发现271个漏洞（含180个高危），显著提升漏洞检测效率，为软件安全提供新策略。
   - Tags: #read #security #agent #llm
@@ -39,13 +43,9 @@
   - 作者因停止使用Tailwind CSS，整理了替代色彩调色板和工具，包括uchū、flexoki等推荐方案及色彩生成器，帮助开发者创建协调的色彩方案。
   - Tags: #tips #frontend
 
-- (2026-05-05) [Import AI 455: Automating AI Research](202605/2026-05-05-import-ai-455-automating-ai-research.md)
-  - 本文探讨人工智能自动化研发的进展，预测2028年底有超60%概率出现无需人类参与的AI系统。AI在编码、科学、管理等方面能力显著提升，行业目标一致，但面临对齐问题和经济变革挑战。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (29 entries)
+- [2026-05](202605/monthly-index.md) (30 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
