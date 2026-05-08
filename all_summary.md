@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-08) [Behind the Scenes Hardening Firefox with Claude Mythos Preview – Mozilla Hacks - the Web developer blog](202605/2026-05-08-behind-the-scenes-hardening-firefox-with-claude-mythos-preview-%E2%80%93-mozilla-hacks---the-web-developer-blog.md)
+  - Tags: #read #security #agent #llm
+  - Summary: Mozilla利用Claude Mythos Preview等AI模型构建智能代理测试框架，结合模糊测试动态生成可复现用例，在Firefox 150版本中发现271个漏洞（含180个高危），显著提升漏洞检测效率，为软件安全提供新策略。
+
 - (2026-05-08) [Agent pull requests are everywhere. Here's how to review them.](202605/2026-05-08-agent-pull-requests-are-everywhere.-here%27s-how-to-review-them..md)
   - Tags: #read #guide
   - Summary: AI代理生成的PR激增，审查需警惕技术债务。建议结构化流程：检查CI、代码重复、关键路径逻辑，并借助工具辅助，平衡效率与质量。

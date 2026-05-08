@@ -11866,5 +11866,17 @@
       "read",
       "guide"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview – Mozilla Hacks - the Web developer blog",
+    "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+    "timestamp": 1778253792,
+    "tags": [
+      "read",
+      "security",
+      "agent",
+      "llm"
+    ]
   }
 ]

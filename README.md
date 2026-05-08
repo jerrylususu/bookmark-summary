@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-08) [Behind the Scenes Hardening Firefox with Claude Mythos Preview – Mozilla Hacks - the Web developer blog](202605/2026-05-08-behind-the-scenes-hardening-firefox-with-claude-mythos-preview-%E2%80%93-mozilla-hacks---the-web-developer-blog.md)
+  - Mozilla利用Claude Mythos Preview等AI模型构建智能代理测试框架，结合模糊测试动态生成可复现用例，在Firefox 150版本中发现271个漏洞（含180个高危），显著提升漏洞检测效率，为软件安全提供新策略。
+  - Tags: #read #security #agent #llm
+
 - (2026-05-08) [Agent pull requests are everywhere. Here's how to review them.](202605/2026-05-08-agent-pull-requests-are-everywhere.-here%27s-how-to-review-them..md)
   - AI代理生成的PR激增，审查需警惕技术债务。建议结构化流程：检查CI、代码重复、关键路径逻辑，并借助工具辅助，平衡效率与质量。
   - Tags: #read #guide
@@ -39,13 +43,9 @@
   - 本文探讨人工智能自动化研发的进展，预测2028年底有超60%概率出现无需人类参与的AI系统。AI在编码、科学、管理等方面能力显著提升，行业目标一致，但面临对齐问题和经济变革挑战。
   - Tags: #read #llm
 
-- (2026-05-05) [Redis array type: short story of a long development - <antirez>](202605/2026-05-05-redis-array-type-short-story-of-a-long-development---antirez.md)
-  - 本文讲述 Redis 新数组数据类型历时四个月的开发历程，作者借助 AI 辅助设计、实现与优化，最终引入正则功能并提升性能，强调 AI 提供安全网但深度参与仍不可或缺。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (28 entries)
+- [2026-05](202605/monthly-index.md) (29 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
