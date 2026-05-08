@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-08) [Agent pull requests are everywhere. Here's how to review them.](2026-05-08-agent-pull-requests-are-everywhere.-here%27s-how-to-review-them..md)
+  - AI代理生成的PR激增，审查需警惕技术债务。建议结构化流程：检查CI、代码重复、关键路径逻辑，并借助工具辅助，平衡效率与质量。
+  - Tags: #read #guide
+
 - (2026-05-08) [用Agent评测思路管理AI Coding —— 31万行代码AI重构的实践](2026-05-08-%E7%94%A8agent%E8%AF%84%E6%B5%8B%E6%80%9D%E8%B7%AF%E7%AE%A1%E7%90%86ai-coding-%E2%80%94%E2%80%94-31%E4%B8%87%E8%A1%8C%E4%BB%A3%E7%A0%81ai%E9%87%8D%E6%9E%84%E7%9A%84%E5%AE%9E%E8%B7%B5.md)
   - 美团技术团队通过Agent评测完成31万行代码重构，核心经验包括：先团队共识再AI约束、技术债渐进式消化、工程师角色转向设计AI工程环境。行动指南涵盖盘清技术债、制定规范、主R打样推广及建立Pre-PR机制。
   - Tags: #read #agent #deepdive #guide
