@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-08) [一根上流滚动条的诞生](202605/2026-05-08-%E4%B8%80%E6%A0%B9%E4%B8%8A%E6%B5%81%E6%BB%9A%E5%8A%A8%E6%9D%A1%E7%9A%84%E8%AF%9E%E7%94%9F.md)
+  - 作者为博客设计了自定义滚动条，采用Canvas绘制提升性能，加入平滑动画、触屏优化及目录嵌入功能，同时反思了可访问性问题，分享了开发挑战与未来展望，但暂不计划开源。
+  - Tags: #read #frontend #design
+
 - (2026-05-08) [Notes on incidents](202605/2026-05-08-notes-on-incidents.md)
   - 文章指出事件处理应避免仓促干预，优先依靠系统自愈能力，采取简单措施并依赖深入的系统知识。强调冷静、果断与团队协作，而非英雄主义，以赢得政治信誉并提升效率。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文介绍了高级工程师的四种常见原型：技术负责人、架构师、问题解决者和执行副手，分析了各自的核心职责、特点及适用公司，并提供了根据个人兴趣和公司需求选择发展路径的建议。
   - Tags: #read #people
 
-- (2026-05-03) [Why I don't like the "staff engineer archetypes"](202605/2026-05-03-why-i-don%27t-like-the-staff-engineer-archetypes.md)
-  - 作者认为Will Larson的“Staff Engineer Archetypes”虽描述现实角色，但不宜作为职业目标。Staff Engineer的核心是持续创造价值、建立信任并灵活适应公司需求，而非刻意模仿特定角色。
-  - Tags: #read #people
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (25 entries)
+- [2026-05](202605/monthly-index.md) (26 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
