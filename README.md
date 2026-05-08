@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-08) [Pushing Local Models With Focus And Polish](202605/2026-05-08-pushing-local-models-with-focus-and-polish.md)
+  - 本文指出本地模型开发者体验因碎片化而逊于托管API，主张聚焦单一硬件深度优化。以DeepSeek V4 Flash为例，通过ds4.c引擎和pi-ds4扩展实现零配置集成，旨在提升流畅性并推动生态成熟。
+  - Tags: #read #llm
+
 - (2026-05-07) [Most vibe-coded tools are not for you](202605/2026-05-07-most-vibe-coded-tools-are-not-for-you.md)
   - 文章批评AI生成工具泛滥却缺乏价值，指出优质工具应具备可达性、社交性和完成度三大特质。作者呼吁创造者应追求实质意义，避免制造无用的“工具噪音”。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文介绍了一种极简的浏览器内单元测试方案，通过三个核心函数（it、assertEqual、assertTrue/False）在HTML中直接运行测试，无需第三方框架或构建环境。该方法适合小型纯JS项目，降低维护成本，快速提供测试反馈，务实且轻量。
   - Tags: #read #frontend
 
-- (2026-05-03) [Testing Vue components in the browser](202605/2026-05-03-testing-vue-components-in-the-browser.md)
-  - 本文介绍作者在浏览器中直接测试 Vue 组件的轻量方案，选用 QUnit 框架，通过挂载组件、管理测试数据和处理异步渲染等步骤实现测试，并探讨了挑战与改进方向。
-  - Tags: #read #frontend
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (23 entries)
+- [2026-05](202605/monthly-index.md) (24 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

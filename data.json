@@ -11814,5 +11814,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Pushing Local Models With Focus And Polish",
+    "url": "https://lucumr.pocoo.org/2026/5/8/local-models/",
+    "timestamp": 1778252119,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]

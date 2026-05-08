@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-08) [Pushing Local Models With Focus And Polish](2026-05-08-pushing-local-models-with-focus-and-polish.md)
+  - 本文指出本地模型开发者体验因碎片化而逊于托管API，主张聚焦单一硬件深度优化。以DeepSeek V4 Flash为例，通过ds4.c引擎和pi-ds4扩展实现零配置集成，旨在提升流畅性并推动生态成熟。
+  - Tags: #read #llm
+
 - (2026-05-07) [Most vibe-coded tools are not for you](2026-05-07-most-vibe-coded-tools-are-not-for-you.md)
   - 文章批评AI生成工具泛滥却缺乏价值，指出优质工具应具备可达性、社交性和完成度三大特质。作者呼吁创造者应追求实质意义，避免制造无用的“工具噪音”。
   - Tags: #read
