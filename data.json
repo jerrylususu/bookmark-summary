@@ -11899,5 +11899,15 @@
       "agent",
       "tips"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "OpenAI's WebRTC Problem - Media over QUIC",
+    "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+    "timestamp": 1778332553,
+    "tags": [
+      "read",
+      "backend"
+    ]
   }
 ]

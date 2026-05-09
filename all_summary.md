@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-09) [OpenAI's WebRTC Problem - Media over QUIC](202605/2026-05-09-openai%27s-webrtc-problem---media-over-quic.md)
+  - Tags: #read #backend
+  - Summary: 本文批评OpenAI在语音AI中使用WebRTC，指出其在产品适配、缓冲、扩展性等方面存在根本问题，主张短期用WebSocket、长期采用基于QUIC的协议（如MoQ）作为更优替代方案。
+
 - (2026-05-09) [The unreasonable effectiveness of HTML — examples](202605/2026-05-09-the-unreasonable-effectiveness-of-html-%E2%80%94-examples.md)
   - Tags: #read #agent #tips
   - Summary: 本文介绍了20个针对不同工作场景的HTML文件，将传统文档转化为交互式网页，涵盖探索规划、代码审查、设计等九大类，提升可读性与实用性。

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-09) [OpenAI's WebRTC Problem - Media over QUIC](202605/2026-05-09-openai%27s-webrtc-problem---media-over-quic.md)
+  - 本文批评OpenAI在语音AI中使用WebRTC，指出其在产品适配、缓冲、扩展性等方面存在根本问题，主张短期用WebSocket、长期采用基于QUIC的协议（如MoQ）作为更优替代方案。
+  - Tags: #read #backend
+
 - (2026-05-09) [The unreasonable effectiveness of HTML — examples](202605/2026-05-09-the-unreasonable-effectiveness-of-html-%E2%80%94-examples.md)
   - 本文介绍了20个针对不同工作场景的HTML文件，将传统文档转化为交互式网页，涵盖探索规划、代码审查、设计等九大类，提升可读性与实用性。
   - Tags: #read #agent #tips
@@ -39,13 +43,9 @@
   - 文章批评AI生成工具泛滥却缺乏价值，指出优质工具应具备可达性、社交性和完成度三大特质。作者呼吁创造者应追求实质意义，避免制造无用的“工具噪音”。
   - Tags: #read
 
-- (2026-05-06) [Cognitive Surrender](202605/2026-05-06-cognitive-surrender.md)
-  - 文章探讨软件工程中的“认知投降”现象，指出过度依赖AI会削弱独立思考能力。作者区分“认知卸载”与“认知投降”，强调后者积累“理解债务”。通过案例说明AI便捷性可能导致深度思考缺失，呼吁开发者保持“校准”，确保AI增强而非替代思考，真正提升系统理解能力。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (31 entries)
+- [2026-05](202605/monthly-index.md) (32 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
