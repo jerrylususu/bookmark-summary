@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-09) [The unreasonable effectiveness of HTML — examples](2026-05-09-the-unreasonable-effectiveness-of-html-%E2%80%94-examples.md)
+  - 本文介绍了20个针对不同工作场景的HTML文件，将传统文档转化为交互式网页，涵盖探索规划、代码审查、设计等九大类，提升可读性与实用性。
+  - Tags: #read #agent #tips
+
 - (2026-05-08) [Improving token efficiency in GitHub Agentic Workflows](2026-05-08-improving-token-efficiency-in-github-agentic-workflows.md)
   - 本文介绍了GitHub优化Agentic Workflows令牌使用的方法，包括统一数据收集、自动审计与改进建议。通过移除未用工具和替换数据获取操作，令牌使用量显著下降，如Auto-Triage Issues减少62%。文章还提出有效令牌指标以标准化成本计算，最终实现显著成本节约。
   - Tags: #read #agent

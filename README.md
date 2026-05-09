@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-09) [The unreasonable effectiveness of HTML — examples](202605/2026-05-09-the-unreasonable-effectiveness-of-html-%E2%80%94-examples.md)
+  - 本文介绍了20个针对不同工作场景的HTML文件，将传统文档转化为交互式网页，涵盖探索规划、代码审查、设计等九大类，提升可读性与实用性。
+  - Tags: #read #agent #tips
+
 - (2026-05-08) [Improving token efficiency in GitHub Agentic Workflows](202605/2026-05-08-improving-token-efficiency-in-github-agentic-workflows.md)
   - 本文介绍了GitHub优化Agentic Workflows令牌使用的方法，包括统一数据收集、自动审计与改进建议。通过移除未用工具和替换数据获取操作，令牌使用量显著下降，如Auto-Triage Issues减少62%。文章还提出有效令牌指标以标准化成本计算，最终实现显著成本节约。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 文章探讨软件工程中的“认知投降”现象，指出过度依赖AI会削弱独立思考能力。作者区分“认知卸载”与“认知投降”，强调后者积累“理解债务”。通过案例说明AI便捷性可能导致深度思考缺失，呼吁开发者保持“校准”，确保AI增强而非替代思考，真正提升系统理解能力。
   - Tags: #read #agent
 
-- (2026-05-05) [Links to CSS colour palettes](202605/2026-05-05-links-to-css-colour-palettes.md)
-  - 作者因停止使用Tailwind CSS，整理了替代色彩调色板和工具，包括uchū、flexoki等推荐方案及色彩生成器，帮助开发者创建协调的色彩方案。
-  - Tags: #tips #frontend
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (30 entries)
+- [2026-05](202605/monthly-index.md) (31 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
