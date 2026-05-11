@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-11) [Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary](202605/2026-05-11-replacing-a-3-gb-sqlite-database-with-a-10-mb-fst-%28finite-state-transducer%29-binary.md)
+  - Tags: #read #hack
+  - Summary: 作者用 Rust 和 FST 库重写芬兰语-英语词典应用，将体积从 3GB 压缩至 10MB，实现 300 倍空间优化，同时保持搜索性能。
+
 - (2026-05-09) [OpenAI's WebRTC Problem - Media over QUIC](202605/2026-05-09-openai%27s-webrtc-problem---media-over-quic.md)
   - Tags: #read #backend
   - Summary: 本文批评OpenAI在语音AI中使用WebRTC，指出其在产品适配、缓冲、扩展性等方面存在根本问题，主张短期用WebSocket、长期采用基于QUIC的协议（如MoQ）作为更优替代方案。

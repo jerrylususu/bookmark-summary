@@ -11909,5 +11909,15 @@
       "read",
       "backend"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary",
+    "url": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/",
+    "timestamp": 1778508622,
+    "tags": [
+      "read",
+      "hack"
+    ]
   }
 ]
