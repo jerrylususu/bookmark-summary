@@ -11919,5 +11919,17 @@
       "read",
       "hack"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Index 1,600,000,000 Keys with Automata and Rust - Andrew Gallant's Blog",
+    "url": "https://blog.burntsushi.net/transducers/",
+    "timestamp": 1778509943,
+    "tags": [
+      "read",
+      "data",
+      "deepdive",
+      "rust"
+    ]
   }
 ]

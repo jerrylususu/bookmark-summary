@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-11) [Index 1,600,000,000 Keys with Automata and Rust - Andrew Gallant's Blog](202605/2026-05-11-index-1%2C600%2C000%2C000-keys-with-automata-and-rust---andrew-gallant%27s-blog.md)
+  - Tags: #read #data #deepdive #rust
+  - Summary: 本文介绍基于有限状态机（FSM）的高效字符串索引方法，通过Rust的`fst`库实现有序集合与映射的压缩存储与快速查询。实验表明，该技术在压缩率和查询速度上优于传统工具，适用于静态大规模数据，但不支持频繁更新。
+
 - (2026-05-11) [Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary](202605/2026-05-11-replacing-a-3-gb-sqlite-database-with-a-10-mb-fst-%28finite-state-transducer%29-binary.md)
   - Tags: #read #hack
   - Summary: 作者用 Rust 和 FST 库重写芬兰语-英语词典应用，将体积从 3GB 压缩至 10MB，实现 300 倍空间优化，同时保持搜索性能。

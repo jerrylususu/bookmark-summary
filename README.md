@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-11) [Index 1,600,000,000 Keys with Automata and Rust - Andrew Gallant's Blog](202605/2026-05-11-index-1%2C600%2C000%2C000-keys-with-automata-and-rust---andrew-gallant%27s-blog.md)
+  - 本文介绍基于有限状态机（FSM）的高效字符串索引方法，通过Rust的`fst`库实现有序集合与映射的压缩存储与快速查询。实验表明，该技术在压缩率和查询速度上优于传统工具，适用于静态大规模数据，但不支持频繁更新。
+  - Tags: #read #data #deepdive #rust
+
 - (2026-05-11) [Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary](202605/2026-05-11-replacing-a-3-gb-sqlite-database-with-a-10-mb-fst-%28finite-state-transducer%29-binary.md)
   - 作者用 Rust 和 FST 库重写芬兰语-英语词典应用，将体积从 3GB 压缩至 10MB，实现 300 倍空间优化，同时保持搜索性能。
   - Tags: #read #hack
@@ -39,13 +43,9 @@
   - 文章指出事件处理应避免仓促干预，优先依靠系统自愈能力，采取简单措施并依赖深入的系统知识。强调冷静、果断与团队协作，而非英雄主义，以赢得政治信誉并提升效率。
   - Tags: #read
 
-- (2026-05-08) [Pushing Local Models With Focus And Polish](202605/2026-05-08-pushing-local-models-with-focus-and-polish.md)
-  - 本文指出本地模型开发者体验因碎片化而逊于托管API，主张聚焦单一硬件深度优化。以DeepSeek V4 Flash为例，通过ds4.c引擎和pi-ds4扩展实现零配置集成，旨在提升流畅性并推动生态成熟。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (33 entries)
+- [2026-05](202605/monthly-index.md) (34 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
