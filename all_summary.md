@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-12) [Neural Computer：一种新的机器形态，正在出现](202605/2026-05-12-neural-computer%EF%BC%9A%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84%E6%9C%BA%E5%99%A8%E5%BD%A2%E6%80%81%EF%BC%8C%E6%AD%A3%E5%9C%A8%E5%87%BA%E7%8E%B0.md)
+  - Tags: #read
+  - Summary: Neural Computer（NC）是一种以运行时为核心的新机器形态，区别于传统计算机和Agent，强调能力沉淀与持续运行。它需满足图灵完备、通用可编程等条件，当前原型已展示部分能力，但尚不完善。若成立，将重塑软件、硬件及编程概念，推动机器内部进化。
+
 - (2026-05-12) [Learning on the Shop floor](202605/2026-05-12-learning-on-the-shop-floor.md)
   - Tags: #read
   - Summary: Shopify内部开发的River工具在Slack公共频道运行，实现透明协作与知识共享，类似Midjourney的Discord模式，促进团队效率和渗透式学习。
