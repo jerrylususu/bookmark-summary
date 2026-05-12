@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-12) [工程师如何把多个 Coding Agent 真正带起来：一套比“开更多聊天窗口”更像工程流程的方法 - 白宦成](202605/2026-05-12-%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%9A%E4%B8%AA-coding-agent-%E7%9C%9F%E6%AD%A3%E5%B8%A6%E8%B5%B7%E6%9D%A5%EF%BC%9A%E4%B8%80%E5%A5%97%E6%AF%94%E2%80%9C%E5%BC%80%E6%9B%B4%E5%A4%9A%E8%81%8A%E5%A4%A9%E7%AA%97%E5%8F%A3%E2%80%9D%E6%9B%B4%E5%83%8F%E5%B7%A5%E7%A8%8B%E6%B5%81%E7%A8%8B%E7%9A%84%E6%96%B9%E6%B3%95---%E7%99%BD%E5%AE%A6%E6%88%90.md)
+  - Vibe Kanban通过看板机制管理多Agent任务，支持并行执行与流程串联，显著提升工程效率。它适合擅长任务拆解的工程师，但已停止运营并转向开源，为未来Agent管理方案提供了参考。
+  - Tags: #read #agent
+
 - (2026-05-12) [AI如何导致和修复了我的失眠问题](202605/2026-05-12-ai%E5%A6%82%E4%BD%95%E5%AF%BC%E8%87%B4%E5%92%8C%E4%BF%AE%E5%A4%8D%E4%BA%86%E6%88%91%E7%9A%84%E5%A4%B1%E7%9C%A0%E9%97%AE%E9%A2%98.md)
   - 该错误源于请求参数验证失败，因域名“ai-sleep.html”含文件扩展名，不符合有效格式。需检查并修正URL，确保使用正确域名或完整路径。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文介绍了GitHub优化Agentic Workflows令牌使用的方法，包括统一数据收集、自动审计与改进建议。通过移除未用工具和替换数据获取操作，令牌使用量显著下降，如Auto-Triage Issues减少62%。文章还提出有效令牌指标以标准化成本计算，最终实现显著成本节约。
   - Tags: #read #agent
 
-- (2026-05-08) [Behind the Scenes Hardening Firefox with Claude Mythos Preview – Mozilla Hacks - the Web developer blog](202605/2026-05-08-behind-the-scenes-hardening-firefox-with-claude-mythos-preview-%E2%80%93-mozilla-hacks---the-web-developer-blog.md)
-  - Mozilla利用Claude Mythos Preview等AI模型构建智能代理测试框架，结合模糊测试动态生成可复现用例，在Firefox 150版本中发现271个漏洞（含180个高危），显著提升漏洞检测效率，为软件安全提供新策略。
-  - Tags: #read #security #agent #llm
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (38 entries)
+- [2026-05](202605/monthly-index.md) (39 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
