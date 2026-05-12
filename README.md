@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-12) [James Shore: You Need AI That Reduces Maintenance Costs](202605/2026-05-12-james-shore-you-need-ai-that-reduces-maintenance-costs.md)
+  - AI编程工具若仅提升编码速度却增加维护成本，短期收益将被长期负担抵消。关键在于AI必须按比例降低维护成本（如速度翻倍则维护减半），才能实现可持续的生产力提升。团队需兼顾编码效率与维护优化，避免“短期加速、长期锁死”的陷阱。
+  - Tags: #read
+
 - (2026-05-11) [Index 1,600,000,000 Keys with Automata and Rust - Andrew Gallant's Blog](202605/2026-05-11-index-1%2C600%2C000%2C000-keys-with-automata-and-rust---andrew-gallant%27s-blog.md)
-  - 本文介绍基于有限状态机（FSM）的高效字符串索引方法，通过Rust的`fst`库实现有序集合与映射的压缩存储与快速查询。实验表明，该技术在压缩率和查询速度上优于传统工具，适用于静态大规模数据，但不支持频繁更新。
+  - 本文介绍基于有限状态机（FSM）的高效字符串索引方法，通过Rust的库实现有序集合与映射的压缩存储与快速查询。实验表明，该技术在压缩率和查询速度上优于传统工具，适用于静态大规模数据，但不支持频繁更新。
   - Tags: #read #data #deepdive #rust
 
 - (2026-05-11) [Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary](202605/2026-05-11-replacing-a-3-gb-sqlite-database-with-a-10-mb-fst-%28finite-state-transducer%29-binary.md)
@@ -39,13 +43,9 @@
   - 作者为博客设计了自定义滚动条，采用Canvas绘制提升性能，加入平滑动画、触屏优化及目录嵌入功能，同时反思了可访问性问题，分享了开发挑战与未来展望，但暂不计划开源。
   - Tags: #read #frontend #design
 
-- (2026-05-08) [Notes on incidents](202605/2026-05-08-notes-on-incidents.md)
-  - 文章指出事件处理应避免仓促干预，优先依靠系统自愈能力，采取简单措施并依赖深入的系统知识。强调冷静、果断与团队协作，而非英雄主义，以赢得政治信誉并提升效率。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (34 entries)
+- [2026-05](202605/monthly-index.md) (35 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
