@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-12) [AI如何导致和修复了我的失眠问题](202605/2026-05-12-ai%E5%A6%82%E4%BD%95%E5%AF%BC%E8%87%B4%E5%92%8C%E4%BF%AE%E5%A4%8D%E4%BA%86%E6%88%91%E7%9A%84%E5%A4%B1%E7%9C%A0%E9%97%AE%E9%A2%98.md)
+  - 该错误源于请求参数验证失败，因域名“ai-sleep.html”含文件扩展名，不符合有效格式。需检查并修正URL，确保使用正确域名或完整路径。
+  - Tags: #read
+
 - (2026-05-12) [Neural Computer：一种新的机器形态，正在出现](202605/2026-05-12-neural-computer%EF%BC%9A%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84%E6%9C%BA%E5%99%A8%E5%BD%A2%E6%80%81%EF%BC%8C%E6%AD%A3%E5%9C%A8%E5%87%BA%E7%8E%B0.md)
   - Neural Computer（NC）是一种以运行时为核心的新机器形态，区别于传统计算机和Agent，强调能力沉淀与持续运行。它需满足图灵完备、通用可编程等条件，当前原型已展示部分能力，但尚不完善。若成立，将重塑软件、硬件及编程概念，推动机器内部进化。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Mozilla利用Claude Mythos Preview等AI模型构建智能代理测试框架，结合模糊测试动态生成可复现用例，在Firefox 150版本中发现271个漏洞（含180个高危），显著提升漏洞检测效率，为软件安全提供新策略。
   - Tags: #read #security #agent #llm
 
-- (2026-05-08) [Agent pull requests are everywhere. Here's how to review them.](202605/2026-05-08-agent-pull-requests-are-everywhere.-here%27s-how-to-review-them..md)
-  - AI代理生成的PR激增，审查需警惕技术债务。建议结构化流程：检查CI、代码重复、关键路径逻辑，并借助工具辅助，平衡效率与质量。
-  - Tags: #read #guide
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (37 entries)
+- [2026-05](202605/monthly-index.md) (38 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
