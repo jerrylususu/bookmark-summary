@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-12) [Learning on the Shop floor](202605/2026-05-12-learning-on-the-shop-floor.md)
+  - Shopify内部开发的River工具在Slack公共频道运行，实现透明协作与知识共享，类似Midjourney的Discord模式，促进团队效率和渗透式学习。
+  - Tags: #read
+
 - (2026-05-12) [James Shore: You Need AI That Reduces Maintenance Costs](202605/2026-05-12-james-shore-you-need-ai-that-reduces-maintenance-costs.md)
   - AI编程工具若仅提升编码速度却增加维护成本，短期收益将被长期负担抵消。关键在于AI必须按比例降低维护成本（如速度翻倍则维护减半），才能实现可持续的生产力提升。团队需兼顾编码效率与维护优化，避免“短期加速、长期锁死”的陷阱。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 美团技术团队通过Agent评测完成31万行代码重构，核心经验包括：先团队共识再AI约束、技术债渐进式消化、工程师角色转向设计AI工程环境。行动指南涵盖盘清技术债、制定规范、主R打样推广及建立Pre-PR机制。
   - Tags: #read #agent #deepdive #guide
 
-- (2026-05-08) [一根上流滚动条的诞生](202605/2026-05-08-%E4%B8%80%E6%A0%B9%E4%B8%8A%E6%B5%81%E6%BB%9A%E5%8A%A8%E6%9D%A1%E7%9A%84%E8%AF%9E%E7%94%9F.md)
-  - 作者为博客设计了自定义滚动条，采用Canvas绘制提升性能，加入平滑动画、触屏优化及目录嵌入功能，同时反思了可访问性问题，分享了开发挑战与未来展望，但暂不计划开源。
-  - Tags: #read #frontend #design
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (35 entries)
+- [2026-05](202605/monthly-index.md) (36 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

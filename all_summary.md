@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-12) [Learning on the Shop floor](202605/2026-05-12-learning-on-the-shop-floor.md)
+  - Tags: #read
+  - Summary: Shopify内部开发的River工具在Slack公共频道运行，实现透明协作与知识共享，类似Midjourney的Discord模式，促进团队效率和渗透式学习。
+
 - (2026-05-12) [James Shore: You Need AI That Reduces Maintenance Costs](202605/2026-05-12-james-shore-you-need-ai-that-reduces-maintenance-costs.md)
   - Tags: #read
   - Summary: AI编程工具若仅提升编码速度却增加维护成本，短期收益将被长期负担抵消。关键在于AI必须按比例降低维护成本（如速度翻倍则维护减半），才能实现可持续的生产力提升。团队需兼顾编码效率与维护优化，避免“短期加速、长期锁死”的陷阱。
