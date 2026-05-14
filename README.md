@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-14) [What’s with all the slide decks?](202605/2026-05-14-what%E2%80%99s-with-all-the-slide-decks.md)
+  - 现代职场流行幻灯片沟通，源于管理咨询业推动与技术便利，而非必然选择。亚马逊等机构证明书面备忘录同样有效，作者呼吁支持博客文化以对抗幻灯片主导趋势。
+  - Tags: #read
+
 - (2026-05-14) [High Performance Rate Limiting at Databricks](202605/2026-05-14-high-performance-rate-limiting-at-databricks.md)
   - Databricks 2023 年重构限流系统，以内存分片、异步批量报告和令牌桶算法替代原有 Redis 架构，提升性能与扩展性，牺牲严格准确性以容忍小幅超限。
   - Tags: #read #backend
@@ -39,13 +43,9 @@
   - 作者用 Rust 和 FST 库重写芬兰语-英语词典应用，将体积从 3GB 压缩至 10MB，实现 300 倍空间优化，同时保持搜索性能。
   - Tags: #read #hack
 
-- (2026-05-09) [OpenAI's WebRTC Problem - Media over QUIC](202605/2026-05-09-openai%27s-webrtc-problem---media-over-quic.md)
-  - 本文批评OpenAI在语音AI中使用WebRTC，指出其在产品适配、缓冲、扩展性等方面存在根本问题，主张短期用WebSocket、长期采用基于QUIC的协议（如MoQ）作为更优替代方案。
-  - Tags: #read #backend
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (41 entries)
+- [2026-05](202605/monthly-index.md) (42 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

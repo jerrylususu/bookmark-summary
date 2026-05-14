@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-14) [What’s with all the slide decks?](202605/2026-05-14-what%E2%80%99s-with-all-the-slide-decks.md)
+  - Tags: #read
+  - Summary: 现代职场流行幻灯片沟通，源于管理咨询业推动与技术便利，而非必然选择。亚马逊等机构证明书面备忘录同样有效，作者呼吁支持博客文化以对抗幻灯片主导趋势。
+
 - (2026-05-14) [High Performance Rate Limiting at Databricks](202605/2026-05-14-high-performance-rate-limiting-at-databricks.md)
   - Tags: #read #backend
   - Summary: Databricks 2023 年重构限流系统，以内存分片、异步批量报告和令牌桶算法替代原有 Redis 架构，提升性能与扩展性，牺牲严格准确性以容忍小幅超限。
