@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-14) [一盎司黄金 - Miao Yu | 于淼](202605/2026-05-14-%E4%B8%80%E7%9B%8E%E5%8F%B8%E9%BB%84%E9%87%91---miao-yu-%E4%BA%8E%E6%B7%BC.md)
+  - 本文以“一盎司黄金”为切入点，指出古今中外婚姻支付均以约一年生活成本的硬通货为经济安全垫。作者引入“鲍莫尔成本病”理论，解释现代住房、教育等竞争层成本膨胀的必然性，呼吁从经济结构共性理解婚姻支付演变。
+  - Tags: #read
+
 - (2026-05-12) [工程师如何把多个 Coding Agent 真正带起来：一套比“开更多聊天窗口”更像工程流程的方法 - 白宦成](202605/2026-05-12-%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%9A%E4%B8%AA-coding-agent-%E7%9C%9F%E6%AD%A3%E5%B8%A6%E8%B5%B7%E6%9D%A5%EF%BC%9A%E4%B8%80%E5%A5%97%E6%AF%94%E2%80%9C%E5%BC%80%E6%9B%B4%E5%A4%9A%E8%81%8A%E5%A4%A9%E7%AA%97%E5%8F%A3%E2%80%9D%E6%9B%B4%E5%83%8F%E5%B7%A5%E7%A8%8B%E6%B5%81%E7%A8%8B%E7%9A%84%E6%96%B9%E6%B3%95---%E7%99%BD%E5%AE%A6%E6%88%90.md)
   - Vibe Kanban通过看板机制管理多Agent任务，支持并行执行与流程串联，显著提升工程效率。它适合擅长任务拆解的工程师，但已停止运营并转向开源，为未来Agent管理方案提供了参考。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文介绍了20个针对不同工作场景的HTML文件，将传统文档转化为交互式网页，涵盖探索规划、代码审查、设计等九大类，提升可读性与实用性。
   - Tags: #read #agent #tips
 
-- (2026-05-08) [Improving token efficiency in GitHub Agentic Workflows](202605/2026-05-08-improving-token-efficiency-in-github-agentic-workflows.md)
-  - 本文介绍了GitHub优化Agentic Workflows令牌使用的方法，包括统一数据收集、自动审计与改进建议。通过移除未用工具和替换数据获取操作，令牌使用量显著下降，如Auto-Triage Issues减少62%。文章还提出有效令牌指标以标准化成本计算，最终实现显著成本节约。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (39 entries)
+- [2026-05](202605/monthly-index.md) (40 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
