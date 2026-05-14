@@ -11986,5 +11986,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "High Performance Rate Limiting at Databricks",
+    "url": "https://blog.bytebytego.com/p/high-performance-rate-limiting-at",
+    "timestamp": 1778769232,
+    "tags": [
+      "read",
+      "backend"
+    ]
   }
 ]

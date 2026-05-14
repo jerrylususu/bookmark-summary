@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-14) [High Performance Rate Limiting at Databricks](202605/2026-05-14-high-performance-rate-limiting-at-databricks.md)
+  - Databricks 2023 年重构限流系统，以内存分片、异步批量报告和令牌桶算法替代原有 Redis 架构，提升性能与扩展性，牺牲严格准确性以容忍小幅超限。
+  - Tags: #read #backend
+
 - (2026-05-14) [一盎司黄金 - Miao Yu | 于淼](202605/2026-05-14-%E4%B8%80%E7%9B%8E%E5%8F%B8%E9%BB%84%E9%87%91---miao-yu-%E4%BA%8E%E6%B7%BC.md)
   - 本文以“一盎司黄金”为切入点，指出古今中外婚姻支付均以约一年生活成本的硬通货为经济安全垫。作者引入“鲍莫尔成本病”理论，解释现代住房、教育等竞争层成本膨胀的必然性，呼吁从经济结构共性理解婚姻支付演变。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文批评OpenAI在语音AI中使用WebRTC，指出其在产品适配、缓冲、扩展性等方面存在根本问题，主张短期用WebSocket、长期采用基于QUIC的协议（如MoQ）作为更优替代方案。
   - Tags: #read #backend
 
-- (2026-05-09) [The unreasonable effectiveness of HTML — examples](202605/2026-05-09-the-unreasonable-effectiveness-of-html-%E2%80%94-examples.md)
-  - 本文介绍了20个针对不同工作场景的HTML文件，将传统文档转化为交互式网页，涵盖探索规划、代码审查、设计等九大类，提升可读性与实用性。
-  - Tags: #read #agent #tips
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (40 entries)
+- [2026-05](202605/monthly-index.md) (41 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
