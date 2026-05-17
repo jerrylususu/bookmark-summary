@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-17) [How I use LLMs as a staff engineer in 2026](2026-05-17-how-i-use-llms-as-a-staff-engineer-in-2026.md)
+  - 2026年，智能体已成为工程师日常高频工具，用于代码生成、Bug调查等低风险任务，但人类仍需主导审查与判断，以平衡效率与可靠性。
+  - Tags: #read #agent
+
 - (2026-05-17) [Moving away from Tailwind, and learning to structure my CSS](2026-05-17-moving-away-from-tailwind%2C-and-learning-to-structure-my-css.md)
   - 作者从 Tailwind CSS 迁移至语义化 HTML 和原生 CSS，通过借鉴 Tailwind 的系统（如重置、颜色变量、字体比例）构建了自己的 CSS 结构，包括组件化、响应式设计和现代特性使用。迁移原因包括 Tailwind 的依赖性、项目体积及个人 CSS 技能提升，强调深入掌握 CSS 的复杂性和强大功能。
   - Tags: #read #frontend

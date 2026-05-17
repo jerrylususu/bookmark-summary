@@ -12015,5 +12015,15 @@
       "read",
       "frontend"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "How I use LLMs as a staff engineer in 2026",
+    "url": "https://www.seangoedecke.com/how-i-use-llms-in-2026/",
+    "timestamp": 1779025660,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

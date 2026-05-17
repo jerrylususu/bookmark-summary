@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-17) [How I use LLMs as a staff engineer in 2026](202605/2026-05-17-how-i-use-llms-as-a-staff-engineer-in-2026.md)
+  - 2026年，智能体已成为工程师日常高频工具，用于代码生成、Bug调查等低风险任务，但人类仍需主导审查与判断，以平衡效率与可靠性。
+  - Tags: #read #agent
+
 - (2026-05-17) [Moving away from Tailwind, and learning to structure my CSS](202605/2026-05-17-moving-away-from-tailwind%2C-and-learning-to-structure-my-css.md)
   - 作者从 Tailwind CSS 迁移至语义化 HTML 和原生 CSS，通过借鉴 Tailwind 的系统（如重置、颜色变量、字体比例）构建了自己的 CSS 结构，包括组件化、响应式设计和现代特性使用。迁移原因包括 Tailwind 的依赖性、项目体积及个人 CSS 技能提升，强调深入掌握 CSS 的复杂性和强大功能。
   - Tags: #read #frontend
@@ -39,13 +43,9 @@
   - AI编程工具若仅提升编码速度却增加维护成本，短期收益将被长期负担抵消。关键在于AI必须按比例降低维护成本（如速度翻倍则维护减半），才能实现可持续的生产力提升。团队需兼顾编码效率与维护优化，避免“短期加速、长期锁死”的陷阱。
   - Tags: #read
 
-- (2026-05-11) [Index 1,600,000,000 Keys with Automata and Rust - Andrew Gallant's Blog](202605/2026-05-11-index-1%2C600%2C000%2C000-keys-with-automata-and-rust---andrew-gallant%27s-blog.md)
-  - 本文介绍基于有限状态机（FSM）的高效字符串索引方法，通过Rust的库实现有序集合与映射的压缩存储与快速查询。实验表明，该技术在压缩率和查询速度上优于传统工具，适用于静态大规模数据，但不支持频繁更新。
-  - Tags: #read #data #deepdive #rust
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (43 entries)
+- [2026-05](202605/monthly-index.md) (44 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
