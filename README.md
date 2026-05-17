@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-17) [DeepSeek-V4-Flash means LLM steering is interesting again](202605/2026-05-17-deepseek-v4-flash-means-llm-steering-is-interesting-again.md)
+  - 本文讨论LLM引导技术，重点介绍DeepSeek-V4-Flash如何使其更实用。引导通过操纵模型内部激活来调整输出，虽具潜力，但目前应用有限。作者持谨慎乐观态度，认为开源社区或可探索其价值，但多数需求仍可通过提示或训练满足。
+  - Tags: #read #llm
+
 - (2026-05-17) [How I use LLMs as a staff engineer in 2026](202605/2026-05-17-how-i-use-llms-as-a-staff-engineer-in-2026.md)
   - 2026年，智能体已成为工程师日常高频工具，用于代码生成、Bug调查等低风险任务，但人类仍需主导审查与判断，以平衡效率与可靠性。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - Shopify内部开发的River工具在Slack公共频道运行，实现透明协作与知识共享，类似Midjourney的Discord模式，促进团队效率和渗透式学习。
   - Tags: #read
 
-- (2026-05-12) [James Shore: You Need AI That Reduces Maintenance Costs](202605/2026-05-12-james-shore-you-need-ai-that-reduces-maintenance-costs.md)
-  - AI编程工具若仅提升编码速度却增加维护成本，短期收益将被长期负担抵消。关键在于AI必须按比例降低维护成本（如速度翻倍则维护减半），才能实现可持续的生产力提升。团队需兼顾编码效率与维护优化，避免“短期加速、长期锁死”的陷阱。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (44 entries)
+- [2026-05](202605/monthly-index.md) (45 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-17) [DeepSeek-V4-Flash means LLM steering is interesting again](2026-05-17-deepseek-v4-flash-means-llm-steering-is-interesting-again.md)
+  - 本文讨论LLM引导技术，重点介绍DeepSeek-V4-Flash如何使其更实用。引导通过操纵模型内部激活来调整输出，虽具潜力，但目前应用有限。作者持谨慎乐观态度，认为开源社区或可探索其价值，但多数需求仍可通过提示或训练满足。
+  - Tags: #read #llm
+
 - (2026-05-17) [How I use LLMs as a staff engineer in 2026](2026-05-17-how-i-use-llms-as-a-staff-engineer-in-2026.md)
   - 2026年，智能体已成为工程师日常高频工具，用于代码生成、Bug调查等低风险任务，但人类仍需主导审查与判断，以平衡效率与可靠性。
   - Tags: #read #agent

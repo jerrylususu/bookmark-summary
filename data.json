@@ -12025,5 +12025,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+    "url": "https://www.seangoedecke.com/steering-vectors/",
+    "timestamp": 1779025853,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
