@@ -12005,5 +12005,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Moving away from Tailwind, and learning to structure my CSS",
+    "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+    "timestamp": 1779025482,
+    "tags": [
+      "read",
+      "frontend"
+    ]
   }
 ]

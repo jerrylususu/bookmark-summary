@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-17) [Moving away from Tailwind, and learning to structure my CSS](202605/2026-05-17-moving-away-from-tailwind%2C-and-learning-to-structure-my-css.md)
+  - Tags: #read #frontend
+  - Summary: 作者从 Tailwind CSS 迁移至语义化 HTML 和原生 CSS，通过借鉴 Tailwind 的系统（如重置、颜色变量、字体比例）构建了自己的 CSS 结构，包括组件化、响应式设计和现代特性使用。迁移原因包括 Tailwind 的依赖性、项目体积及个人 CSS 技能提升，强调深入掌握 CSS 的复杂性和强大功能。
+
 - (2026-05-14) [What’s with all the slide decks?](202605/2026-05-14-what%E2%80%99s-with-all-the-slide-decks.md)
   - Tags: #read
   - Summary: 现代职场流行幻灯片沟通，源于管理咨询业推动与技术便利，而非必然选择。亚马逊等机构证明书面备忘录同样有效，作者呼吁支持博客文化以对抗幻灯片主导趋势。

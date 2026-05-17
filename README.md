@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-17) [Moving away from Tailwind, and learning to structure my CSS](202605/2026-05-17-moving-away-from-tailwind%2C-and-learning-to-structure-my-css.md)
+  - 作者从 Tailwind CSS 迁移至语义化 HTML 和原生 CSS，通过借鉴 Tailwind 的系统（如重置、颜色变量、字体比例）构建了自己的 CSS 结构，包括组件化、响应式设计和现代特性使用。迁移原因包括 Tailwind 的依赖性、项目体积及个人 CSS 技能提升，强调深入掌握 CSS 的复杂性和强大功能。
+  - Tags: #read #frontend
+
 - (2026-05-14) [What’s with all the slide decks?](202605/2026-05-14-what%E2%80%99s-with-all-the-slide-decks.md)
   - 现代职场流行幻灯片沟通，源于管理咨询业推动与技术便利，而非必然选择。亚马逊等机构证明书面备忘录同样有效，作者呼吁支持博客文化以对抗幻灯片主导趋势。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文介绍基于有限状态机（FSM）的高效字符串索引方法，通过Rust的库实现有序集合与映射的压缩存储与快速查询。实验表明，该技术在压缩率和查询速度上优于传统工具，适用于静态大规模数据，但不支持频繁更新。
   - Tags: #read #data #deepdive #rust
 
-- (2026-05-11) [Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary](202605/2026-05-11-replacing-a-3-gb-sqlite-database-with-a-10-mb-fst-%28finite-state-transducer%29-binary.md)
-  - 作者用 Rust 和 FST 库重写芬兰语-英语词典应用，将体积从 3GB 压缩至 10MB，实现 300 倍空间优化，同时保持搜索性能。
-  - Tags: #read #hack
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (42 entries)
+- [2026-05](202605/monthly-index.md) (43 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
