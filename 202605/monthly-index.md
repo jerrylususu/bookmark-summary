@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-18) [一个 WebRTC 聊天室的三次演进](2026-05-18-%E4%B8%80%E4%B8%AA-webrtc-%E8%81%8A%E5%A4%A9%E5%AE%A4%E7%9A%84%E4%B8%89%E6%AC%A1%E6%BC%94%E8%BF%9B.md)
+  - 本文回顾了 free4chat 三次技术演进：从 Go+Pion 自建 SFU，到 Elixir+Membrane 实现集群与文字聊天，再到 Cloudflare 全栈实现运维归零。核心目标是在保证实时通信质量的同时降低运维成本，并探索 AI 融入。文章对比了不同技术栈的适用场景，并展望了 AI 与实时通信的未来方向。
+  - Tags: #read #deepdive
+
 - (2026-05-17) [DeepSeek-V4-Flash means LLM steering is interesting again](2026-05-17-deepseek-v4-flash-means-llm-steering-is-interesting-again.md)
   - 本文讨论LLM引导技术，重点介绍DeepSeek-V4-Flash如何使其更实用。引导通过操纵模型内部激活来调整输出，虽具潜力，但目前应用有限。作者持谨慎乐观态度，认为开源社区或可探索其价值，但多数需求仍可通过提示或训练满足。
   - Tags: #read #llm
