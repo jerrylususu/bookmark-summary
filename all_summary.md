@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-18) [Project Glasswing: what Mythos showed us](202605/2026-05-18-project-glasswing-what-mythos-showed-us.md)
+  - Tags: #read #agent #security
+  - Summary: Cloudflare在Project Glasswing中利用Anthropic的Mythos Preview模型进行安全漏洞研究，该模型能有效构建漏洞利用链并生成验证代码，但存在不一致拒绝行为。Cloudflare构建了多阶段自动化框架提升效率，并强调构建更安全系统架构以缩短漏洞修复时间，计划将这些原则应用于产品以增强客户安全防护。
+
 - (2026-05-18) [一个 WebRTC 聊天室的三次演进](202605/2026-05-18-%E4%B8%80%E4%B8%AA-webrtc-%E8%81%8A%E5%A4%A9%E5%AE%A4%E7%9A%84%E4%B8%89%E6%AC%A1%E6%BC%94%E8%BF%9B.md)
   - Tags: #read #deepdive
   - Summary: 本文回顾了 free4chat 三次技术演进：从 Go+Pion 自建 SFU，到 Elixir+Membrane 实现集群与文字聊天，再到 Cloudflare 全栈实现运维归零。核心目标是在保证实时通信质量的同时降低运维成本，并探索 AI 融入。文章对比了不同技术栈的适用场景，并展望了 AI 与实时通信的未来方向。

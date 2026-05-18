@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-18) [Project Glasswing: what Mythos showed us](202605/2026-05-18-project-glasswing-what-mythos-showed-us.md)
+  - Cloudflare在Project Glasswing中利用Anthropic的Mythos Preview模型进行安全漏洞研究，该模型能有效构建漏洞利用链并生成验证代码，但存在不一致拒绝行为。Cloudflare构建了多阶段自动化框架提升效率，并强调构建更安全系统架构以缩短漏洞修复时间，计划将这些原则应用于产品以增强客户安全防护。
+  - Tags: #read #agent #security
+
 - (2026-05-18) [一个 WebRTC 聊天室的三次演进](202605/2026-05-18-%E4%B8%80%E4%B8%AA-webrtc-%E8%81%8A%E5%A4%A9%E5%AE%A4%E7%9A%84%E4%B8%89%E6%AC%A1%E6%BC%94%E8%BF%9B.md)
   - 本文回顾了 free4chat 三次技术演进：从 Go+Pion 自建 SFU，到 Elixir+Membrane 实现集群与文字聊天，再到 Cloudflare 全栈实现运维归零。核心目标是在保证实时通信质量的同时降低运维成本，并探索 AI 融入。文章对比了不同技术栈的适用场景，并展望了 AI 与实时通信的未来方向。
   - Tags: #read #deepdive
@@ -39,13 +43,9 @@
   - 该错误源于请求参数验证失败，因域名“ai-sleep.html”含文件扩展名，不符合有效格式。需检查并修正URL，确保使用正确域名或完整路径。
   - Tags: #read
 
-- (2026-05-12) [Neural Computer：一种新的机器形态，正在出现](202605/2026-05-12-neural-computer%EF%BC%9A%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84%E6%9C%BA%E5%99%A8%E5%BD%A2%E6%80%81%EF%BC%8C%E6%AD%A3%E5%9C%A8%E5%87%BA%E7%8E%B0.md)
-  - Neural Computer（NC）是一种以运行时为核心的新机器形态，区别于传统计算机和Agent，强调能力沉淀与持续运行。它需满足图灵完备、通用可编程等条件，当前原型已展示部分能力，但尚不完善。若成立，将重塑软件、硬件及编程概念，推动机器内部进化。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (46 entries)
+- [2026-05](202605/monthly-index.md) (47 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
