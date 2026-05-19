@@ -12056,5 +12056,16 @@
       "agent",
       "security"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Alternatives for the EDIT tool of LLM agents - <antirez>",
+    "url": "https://antirez.com/news/166",
+    "timestamp": 1779201723,
+    "tags": [
+      "read",
+      "llm",
+      "agent"
+    ]
   }
 ]

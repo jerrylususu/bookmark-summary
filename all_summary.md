@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-19) [Alternatives for the EDIT tool of LLM agents - <antirez>](202605/2026-05-19-alternatives-for-the-edit-tool-of-llm-agents---antirez.md)
+  - Tags: #read #llm #agent
+  - Summary: 本文提出LLM代理中EDIT工具的两种替代方案：基于标签的编辑（使用行号和校验和，令牌效率高且可靠）和基于文件CRC32的编辑（令牌更少但可靠性较低）。作者建议通过实际使用比较，并考虑添加模式切换以灵活选择。
+
 - (2026-05-18) [Project Glasswing: what Mythos showed us](202605/2026-05-18-project-glasswing-what-mythos-showed-us.md)
   - Tags: #read #agent #security
   - Summary: Cloudflare在Project Glasswing中利用Anthropic的Mythos Preview模型进行安全漏洞研究，该模型能有效构建漏洞利用链并生成验证代码，但存在不一致拒绝行为。Cloudflare构建了多阶段自动化框架提升效率，并强调构建更安全系统架构以缩短漏洞修复时间，计划将这些原则应用于产品以增强客户安全防护。
