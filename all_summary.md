@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-20) [Prompts are technical debt too](202605/2026-05-20-prompts-are-technical-debt-too.md)
+  - Tags: #read #agent
+  - Summary: 提示词与代码同为技术债务，但更难管理。因模型频繁更新，精心调校的提示词易悄然失效，导致性能下降。建议避免过度定制，优先使用第三方AI工具，保持配置简洁；对项目特定提示词应聚焦事实、及时清理，以降低维护负担。
+
 - (2026-05-19) [Alternatives for the EDIT tool of LLM agents - <antirez>](202605/2026-05-19-alternatives-for-the-edit-tool-of-llm-agents---antirez.md)
   - Tags: #read #llm #agent
   - Summary: 本文提出LLM代理中EDIT工具的两种替代方案：基于标签的编辑（使用行号和校验和，令牌效率高且可靠）和基于文件CRC32的编辑（令牌更少但可靠性较低）。作者建议通过实际使用比较，并考虑添加模式切换以灵活选择。

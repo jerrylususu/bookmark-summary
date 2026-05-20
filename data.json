@@ -12067,5 +12067,15 @@
       "llm",
       "agent"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Prompts are technical debt too",
+    "url": "https://www.seangoedecke.com/prompts-are-technical-debt-too/#fnref-2",
+    "timestamp": 1779285314,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

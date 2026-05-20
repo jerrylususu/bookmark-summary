@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-20) [Prompts are technical debt too](202605/2026-05-20-prompts-are-technical-debt-too.md)
+  - 提示词与代码同为技术债务，但更难管理。因模型频繁更新，精心调校的提示词易悄然失效，导致性能下降。建议避免过度定制，优先使用第三方AI工具，保持配置简洁；对项目特定提示词应聚焦事实、及时清理，以降低维护负担。
+  - Tags: #read #agent
+
 - (2026-05-19) [Alternatives for the EDIT tool of LLM agents - <antirez>](202605/2026-05-19-alternatives-for-the-edit-tool-of-llm-agents---antirez.md)
   - 本文提出LLM代理中EDIT工具的两种替代方案：基于标签的编辑（使用行号和校验和，令牌效率高且可靠）和基于文件CRC32的编辑（令牌更少但可靠性较低）。作者建议通过实际使用比较，并考虑添加模式切换以灵活选择。
   - Tags: #read #llm #agent
@@ -39,13 +43,9 @@
   - 本文以“一盎司黄金”为切入点，指出古今中外婚姻支付均以约一年生活成本的硬通货为经济安全垫。作者引入“鲍莫尔成本病”理论，解释现代住房、教育等竞争层成本膨胀的必然性，呼吁从经济结构共性理解婚姻支付演变。
   - Tags: #read
 
-- (2026-05-12) [工程师如何把多个 Coding Agent 真正带起来：一套比“开更多聊天窗口”更像工程流程的方法 - 白宦成](202605/2026-05-12-%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%9A%E4%B8%AA-coding-agent-%E7%9C%9F%E6%AD%A3%E5%B8%A6%E8%B5%B7%E6%9D%A5%EF%BC%9A%E4%B8%80%E5%A5%97%E6%AF%94%E2%80%9C%E5%BC%80%E6%9B%B4%E5%A4%9A%E8%81%8A%E5%A4%A9%E7%AA%97%E5%8F%A3%E2%80%9D%E6%9B%B4%E5%83%8F%E5%B7%A5%E7%A8%8B%E6%B5%81%E7%A8%8B%E7%9A%84%E6%96%B9%E6%B3%95---%E7%99%BD%E5%AE%A6%E6%88%90.md)
-  - Vibe Kanban通过看板机制管理多Agent任务，支持并行执行与流程串联，显著提升工程效率。它适合擅长任务拆解的工程师，但已停止运营并转向开源，为未来Agent管理方案提供了参考。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (48 entries)
+- [2026-05](202605/monthly-index.md) (49 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
