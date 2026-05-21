@@ -12087,5 +12087,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Resident: vibe coding firmware (our new sandbox library for ESP32 devices)",
+    "url": "https://interconnected.org/home/2026/05/20/resident",
+    "timestamp": 1779372567,
+    "tags": [
+      "read",
+      "hardware"
+    ]
   }
 ]

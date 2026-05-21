@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-21) [Resident: vibe coding firmware (our new sandbox library for ESP32 devices)](2026-05-21-resident-vibe-coding-firmware-%28our-new-sandbox-library-for-esp32-devices%29.md)
+  - Resident 是 Inanimate 公司开源的 ESP32 代码沙盒库，支持 Wi-Fi 直接加载 AI 生成的代码，无需编译。它基于 Lua 运行时，提供安全运行环境，允许动态执行应用，适用于原型开发和产品部署，可实现智能设备交互。
+  - Tags: #read #hardware
+
 - (2026-05-21) [The famous o3 "GeoGuessr" prompt did not work](2026-05-21-the-famous-o3-geoguessr-prompt-did-not-work.md)
   - 本文通过基准测试对比了OpenAI o3模型在地理定位任务中默认与复杂提示词的效果，发现默认提示词表现更优，复杂提示词无显著提升，表明过度工程化提示词可能无效。同时，GPT-5.4和GPT-5.5不具备o3的该能力，强调需严谨评估提示词效果。
   - Tags: #read #llm
