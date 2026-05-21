@@ -12077,5 +12077,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "The famous o3 \"GeoGuessr\" prompt did not work",
+    "url": "https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/",
+    "timestamp": 1779371998,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]

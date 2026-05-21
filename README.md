@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-21) [The famous o3 "GeoGuessr" prompt did not work](202605/2026-05-21-the-famous-o3-geoguessr-prompt-did-not-work.md)
+  - 本文通过基准测试对比了OpenAI o3模型在地理定位任务中默认与复杂提示词的效果，发现默认提示词表现更优，复杂提示词无显著提升，表明过度工程化提示词可能无效。同时，GPT-5.4和GPT-5.5不具备o3的该能力，强调需严谨评估提示词效果。
+  - Tags: #read #llm
+
 - (2026-05-20) [Prompts are technical debt too](202605/2026-05-20-prompts-are-technical-debt-too.md)
   - 提示词与代码同为技术债务，但更难管理。因模型频繁更新，精心调校的提示词易悄然失效，导致性能下降。建议避免过度定制，优先使用第三方AI工具，保持配置简洁；对项目特定提示词应聚焦事实、及时清理，以降低维护负担。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - Databricks 2023 年重构限流系统，以内存分片、异步批量报告和令牌桶算法替代原有 Redis 架构，提升性能与扩展性，牺牲严格准确性以容忍小幅超限。
   - Tags: #read #backend
 
-- (2026-05-14) [一盎司黄金 - Miao Yu | 于淼](202605/2026-05-14-%E4%B8%80%E7%9B%8E%E5%8F%B8%E9%BB%84%E9%87%91---miao-yu-%E4%BA%8E%E6%B7%BC.md)
-  - 本文以“一盎司黄金”为切入点，指出古今中外婚姻支付均以约一年生活成本的硬通货为经济安全垫。作者引入“鲍莫尔成本病”理论，解释现代住房、教育等竞争层成本膨胀的必然性，呼吁从经济结构共性理解婚姻支付演变。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (49 entries)
+- [2026-05](202605/monthly-index.md) (50 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

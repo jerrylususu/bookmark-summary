@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-21) [The famous o3 "GeoGuessr" prompt did not work](2026-05-21-the-famous-o3-geoguessr-prompt-did-not-work.md)
+  - 本文通过基准测试对比了OpenAI o3模型在地理定位任务中默认与复杂提示词的效果，发现默认提示词表现更优，复杂提示词无显著提升，表明过度工程化提示词可能无效。同时，GPT-5.4和GPT-5.5不具备o3的该能力，强调需严谨评估提示词效果。
+  - Tags: #read #llm
+
 - (2026-05-20) [Prompts are technical debt too](2026-05-20-prompts-are-technical-debt-too.md)
   - 提示词与代码同为技术债务，但更难管理。因模型频繁更新，精心调校的提示词易悄然失效，导致性能下降。建议避免过度定制，优先使用第三方AI工具，保持配置简洁；对项目特定提示词应聚焦事实、及时清理，以降低维护负担。
   - Tags: #read #agent
