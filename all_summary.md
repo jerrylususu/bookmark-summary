@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-21) [Claw Patrol - The security firewall for agents](202605/2026-05-21-claw-patrol---the-security-firewall-for-agents.md)
+  - Tags: #tools #agent #security
+  - Summary: Claw Patrol 是一个为 AI 代理设计的安全防火墙，通过凭证管理、流量解析和审批流程，解决代理访问生产环境的安全与审计问题。它支持规则引擎、完整审计日志，并提供开源工具，确保端到端安全。
+
 - (2026-05-21) [通用表达式语言 (CEL)  |  Common Expression Language](202605/2026-05-21-%E9%80%9A%E7%94%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%AF%AD%E8%A8%80-%28cel%29-common-expression-language.md)
   - Tags: #tools
   - Summary: 通用表达式语言（CEL）是一种安全高效的表达式语言，支持一次编译、多次评估，适用于路由、安全策略等场景。其核心优势在于安全性与纳秒级评估速度，通过解析、检查和评估三阶段处理，广泛用于扩展声明性配置，如Google Cloud IAM的授权细化。

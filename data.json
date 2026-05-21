@@ -12106,5 +12106,16 @@
     "tags": [
       "tools"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Claw Patrol - The security firewall for agents",
+    "url": "https://clawpatrol.dev/",
+    "timestamp": 1779374638,
+    "tags": [
+      "tools",
+      "agent",
+      "security"
+    ]
   }
 ]

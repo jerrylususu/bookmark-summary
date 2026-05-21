@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-21) [Claw Patrol - The security firewall for agents](202605/2026-05-21-claw-patrol---the-security-firewall-for-agents.md)
+  - Claw Patrol 是一个为 AI 代理设计的安全防火墙，通过凭证管理、流量解析和审批流程，解决代理访问生产环境的安全与审计问题。它支持规则引擎、完整审计日志，并提供开源工具，确保端到端安全。
+  - Tags: #tools #agent #security
+
 - (2026-05-21) [通用表达式语言 (CEL)  |  Common Expression Language](202605/2026-05-21-%E9%80%9A%E7%94%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%AF%AD%E8%A8%80-%28cel%29-common-expression-language.md)
   - 通用表达式语言（CEL）是一种安全高效的表达式语言，支持一次编译、多次评估，适用于路由、安全策略等场景。其核心优势在于安全性与纳秒级评估速度，通过解析、检查和评估三阶段处理，广泛用于扩展声明性配置，如Google Cloud IAM的授权细化。
   - Tags: #tools
@@ -39,13 +43,9 @@
   - 2026年，智能体已成为工程师日常高频工具，用于代码生成、Bug调查等低风险任务，但人类仍需主导审查与判断，以平衡效率与可靠性。
   - Tags: #read #agent
 
-- (2026-05-17) [Moving away from Tailwind, and learning to structure my CSS](202605/2026-05-17-moving-away-from-tailwind%2C-and-learning-to-structure-my-css.md)
-  - 作者从 Tailwind CSS 迁移至语义化 HTML 和原生 CSS，通过借鉴 Tailwind 的系统（如重置、颜色变量、字体比例）构建了自己的 CSS 结构，包括组件化、响应式设计和现代特性使用。迁移原因包括 Tailwind 的依赖性、项目体积及个人 CSS 技能提升，强调深入掌握 CSS 的复杂性和强大功能。
-  - Tags: #read #frontend
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (52 entries)
+- [2026-05](202605/monthly-index.md) (53 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
