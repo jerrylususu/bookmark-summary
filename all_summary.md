@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-21) [通用表达式语言 (CEL)  |  Common Expression Language](202605/2026-05-21-%E9%80%9A%E7%94%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%AF%AD%E8%A8%80-%28cel%29-common-expression-language.md)
+  - Tags: #tools
+  - Summary: 通用表达式语言（CEL）是一种安全高效的表达式语言，支持一次编译、多次评估，适用于路由、安全策略等场景。其核心优势在于安全性与纳秒级评估速度，通过解析、检查和评估三阶段处理，广泛用于扩展声明性配置，如Google Cloud IAM的授权细化。
+
 - (2026-05-21) [Resident: vibe coding firmware (our new sandbox library for ESP32 devices)](202605/2026-05-21-resident-vibe-coding-firmware-%28our-new-sandbox-library-for-esp32-devices%29.md)
   - Tags: #read #hardware
   - Summary: Resident 是 Inanimate 公司开源的 ESP32 代码沙盒库，支持 Wi-Fi 直接加载 AI 生成的代码，无需编译。它基于 Lua 运行时，提供安全运行环境，允许动态执行应用，适用于原型开发和产品部署，可实现智能设备交互。

@@ -12097,5 +12097,14 @@
       "read",
       "hardware"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "通用表达式语言 (CEL)  |  Common Expression Language",
+    "url": "https://cel.dev/overview/cel-overview?hl=zh-cn",
+    "timestamp": 1779374447,
+    "tags": [
+      "tools"
+    ]
   }
 ]
