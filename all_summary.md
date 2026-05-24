@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-24) [Classic rock, Mario Kart, and why we can't agree on Tailwind](202605/2026-05-24-classic-rock%2C-mario-kart%2C-and-why-we-can%27t-agree-on-tailwind.md)
+  - Tags: #read #frontend
+  - Summary: 文章通过音乐品味和Mario Kart游戏类比，指出前端开发者对Tailwind CSS的争议源于“建造者”（重效率）与“工匠”（重深度）的价值取向差异。作者认为工具皆有取舍，建议开发者根据自身需求选择。
+
 - (2026-05-24) [Don't Roll Your Own ... - Susam Pal](202605/2026-05-24-don%27t-roll-your-own-...---susam-pal.md)
   - Tags: #read
   - Summary: 本文类比密码学原则，指出网页设计应避免重复造轮子，列举七项不宜自定义的功能（如滚动、导航、密码框等），强调自定义常导致体验下降，呼吁开发者保守设计以减少用户适应成本。

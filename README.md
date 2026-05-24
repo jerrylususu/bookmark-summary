@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-24) [Classic rock, Mario Kart, and why we can't agree on Tailwind](202605/2026-05-24-classic-rock%2C-mario-kart%2C-and-why-we-can%27t-agree-on-tailwind.md)
+  - 文章通过音乐品味和Mario Kart游戏类比，指出前端开发者对Tailwind CSS的争议源于“建造者”（重效率）与“工匠”（重深度）的价值取向差异。作者认为工具皆有取舍，建议开发者根据自身需求选择。
+  - Tags: #read #frontend
+
 - (2026-05-24) [Don't Roll Your Own ... - Susam Pal](202605/2026-05-24-don%27t-roll-your-own-...---susam-pal.md)
   - 本文类比密码学原则，指出网页设计应避免重复造轮子，列举七项不宜自定义的功能（如滚动、导航、密码框等），强调自定义常导致体验下降，呼吁开发者保守设计以减少用户适应成本。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文提出LLM代理中EDIT工具的两种替代方案：基于标签的编辑（使用行号和校验和，令牌效率高且可靠）和基于文件CRC32的编辑（令牌更少但可靠性较低）。作者建议通过实际使用比较，并考虑添加模式切换以灵活选择。
   - Tags: #read #llm #agent
 
-- (2026-05-18) [Project Glasswing: what Mythos showed us](202605/2026-05-18-project-glasswing-what-mythos-showed-us.md)
-  - Cloudflare在Project Glasswing中利用Anthropic的Mythos Preview模型进行安全漏洞研究，该模型能有效构建漏洞利用链并生成验证代码，但存在不一致拒绝行为。Cloudflare构建了多阶段自动化框架提升效率，并强调构建更安全系统架构以缩短漏洞修复时间，计划将这些原则应用于产品以增强客户安全防护。
-  - Tags: #read #agent #security
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (56 entries)
+- [2026-05](202605/monthly-index.md) (57 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
