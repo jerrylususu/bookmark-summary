@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-24) [Don't Roll Your Own ... - Susam Pal](202605/2026-05-24-don%27t-roll-your-own-...---susam-pal.md)
+  - 本文类比密码学原则，指出网页设计应避免重复造轮子，列举七项不宜自定义的功能（如滚动、导航、密码框等），强调自定义常导致体验下降，呼吁开发者保守设计以减少用户适应成本。
+  - Tags: #read
+
 - (2026-05-24) [On the ‹dl›](202605/2026-05-24-on-the-%E2%80%B9dl%E2%80%BA.md)
-  - 本文介绍了HTML中`<dl>`元素的结构与语义化优势，强调其在提升可访问性与用户体验方面的作用，并通过实例展示其在数据展示中的灵活应用。
+  - 本文介绍了HTML中元素的结构与语义化优势，强调其在提升可访问性与用户体验方面的作用，并通过实例展示其在数据展示中的灵活应用。
   - Tags: #read #frontend
 
 - (2026-05-24) [创新视频剪辑交互：二维时间轴 + 文字轨 | 风痕 · 術&思](202605/2026-05-24-%E5%88%9B%E6%96%B0%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E4%BA%A4%E4%BA%92%EF%BC%9A%E4%BA%8C%E7%BB%B4%E6%97%B6%E9%97%B4%E8%BD%B4-%2B-%E6%96%87%E5%AD%97%E8%BD%A8-%E9%A3%8E%E7%97%95-%C2%B7-%E8%A1%93%26%E6%80%9D.md)
@@ -39,13 +43,9 @@
   - Cloudflare在Project Glasswing中利用Anthropic的Mythos Preview模型进行安全漏洞研究，该模型能有效构建漏洞利用链并生成验证代码，但存在不一致拒绝行为。Cloudflare构建了多阶段自动化框架提升效率，并强调构建更安全系统架构以缩短漏洞修复时间，计划将这些原则应用于产品以增强客户安全防护。
   - Tags: #read #agent #security
 
-- (2026-05-18) [一个 WebRTC 聊天室的三次演进](202605/2026-05-18-%E4%B8%80%E4%B8%AA-webrtc-%E8%81%8A%E5%A4%A9%E5%AE%A4%E7%9A%84%E4%B8%89%E6%AC%A1%E6%BC%94%E8%BF%9B.md)
-  - 本文回顾了 free4chat 三次技术演进：从 Go+Pion 自建 SFU，到 Elixir+Membrane 实现集群与文字聊天，再到 Cloudflare 全栈实现运维归零。核心目标是在保证实时通信质量的同时降低运维成本，并探索 AI 融入。文章对比了不同技术栈的适用场景，并展望了 AI 与实时通信的未来方向。
-  - Tags: #read #deepdive
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (55 entries)
+- [2026-05](202605/monthly-index.md) (56 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
