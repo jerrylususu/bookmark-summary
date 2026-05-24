@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-24) [创新视频剪辑交互：二维时间轴 + 文字轨 | 风痕 · 術&思](202605/2026-05-24-%E5%88%9B%E6%96%B0%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E4%BA%A4%E4%BA%92%EF%BC%9A%E4%BA%8C%E7%BB%B4%E6%97%B6%E9%97%B4%E8%BD%B4-%2B-%E6%96%87%E5%AD%97%E8%BD%A8-%E9%A3%8E%E7%97%95-%C2%B7-%E8%A1%93%26%E6%80%9D.md)
+  - DimCut 是一款创新视频剪辑工具，通过二维时间轴和文字轨整合，提升定位与剪辑效率，支持极简 UI 设计和网页直接编辑。
+  - Tags: #read
+
 - (2026-05-21) [Claw Patrol - The security firewall for agents](202605/2026-05-21-claw-patrol---the-security-firewall-for-agents.md)
   - Claw Patrol 是一个为 AI 代理设计的安全防火墙，通过凭证管理、流量解析和审批流程，解决代理访问生产环境的安全与审计问题。它支持规则引擎、完整审计日志，并提供开源工具，确保端到端安全。
   - Tags: #tools #agent #security
@@ -39,13 +43,9 @@
   - 本文讨论LLM引导技术，重点介绍DeepSeek-V4-Flash如何使其更实用。引导通过操纵模型内部激活来调整输出，虽具潜力，但目前应用有限。作者持谨慎乐观态度，认为开源社区或可探索其价值，但多数需求仍可通过提示或训练满足。
   - Tags: #read #llm
 
-- (2026-05-17) [How I use LLMs as a staff engineer in 2026](202605/2026-05-17-how-i-use-llms-as-a-staff-engineer-in-2026.md)
-  - 2026年，智能体已成为工程师日常高频工具，用于代码生成、Bug调查等低风险任务，但人类仍需主导审查与判断，以平衡效率与可靠性。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (53 entries)
+- [2026-05](202605/monthly-index.md) (54 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

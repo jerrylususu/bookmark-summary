@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-24) [创新视频剪辑交互：二维时间轴 + 文字轨 | 风痕 · 術&思](2026-05-24-%E5%88%9B%E6%96%B0%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E4%BA%A4%E4%BA%92%EF%BC%9A%E4%BA%8C%E7%BB%B4%E6%97%B6%E9%97%B4%E8%BD%B4-%2B-%E6%96%87%E5%AD%97%E8%BD%A8-%E9%A3%8E%E7%97%95-%C2%B7-%E8%A1%93%26%E6%80%9D.md)
+  - DimCut 是一款创新视频剪辑工具，通过二维时间轴和文字轨整合，提升定位与剪辑效率，支持极简 UI 设计和网页直接编辑。
+  - Tags: #read
+
 - (2026-05-21) [Claw Patrol - The security firewall for agents](2026-05-21-claw-patrol---the-security-firewall-for-agents.md)
   - Claw Patrol 是一个为 AI 代理设计的安全防火墙，通过凭证管理、流量解析和审批流程，解决代理访问生产环境的安全与审计问题。它支持规则引擎、完整审计日志，并提供开源工具，确保端到端安全。
   - Tags: #tools #agent #security
