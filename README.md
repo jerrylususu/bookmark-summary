@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-24) [On the ‹dl›](202605/2026-05-24-on-the-%E2%80%B9dl%E2%80%BA.md)
+  - 本文介绍了HTML中`<dl>`元素的结构与语义化优势，强调其在提升可访问性与用户体验方面的作用，并通过实例展示其在数据展示中的灵活应用。
+  - Tags: #read #frontend
+
 - (2026-05-24) [创新视频剪辑交互：二维时间轴 + 文字轨 | 风痕 · 術&思](202605/2026-05-24-%E5%88%9B%E6%96%B0%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E4%BA%A4%E4%BA%92%EF%BC%9A%E4%BA%8C%E7%BB%B4%E6%97%B6%E9%97%B4%E8%BD%B4-%2B-%E6%96%87%E5%AD%97%E8%BD%A8-%E9%A3%8E%E7%97%95-%C2%B7-%E8%A1%93%26%E6%80%9D.md)
   - DimCut 是一款创新视频剪辑工具，通过二维时间轴和文字轨整合，提升定位与剪辑效率，支持极简 UI 设计和网页直接编辑。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文回顾了 free4chat 三次技术演进：从 Go+Pion 自建 SFU，到 Elixir+Membrane 实现集群与文字聊天，再到 Cloudflare 全栈实现运维归零。核心目标是在保证实时通信质量的同时降低运维成本，并探索 AI 融入。文章对比了不同技术栈的适用场景，并展望了 AI 与实时通信的未来方向。
   - Tags: #read #deepdive
 
-- (2026-05-17) [DeepSeek-V4-Flash means LLM steering is interesting again](202605/2026-05-17-deepseek-v4-flash-means-llm-steering-is-interesting-again.md)
-  - 本文讨论LLM引导技术，重点介绍DeepSeek-V4-Flash如何使其更实用。引导通过操纵模型内部激活来调整输出，虽具潜力，但目前应用有限。作者持谨慎乐观态度，认为开源社区或可探索其价值，但多数需求仍可通过提示或训练满足。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (54 entries)
+- [2026-05](202605/monthly-index.md) (55 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
