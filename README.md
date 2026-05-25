@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-25) [Building Pi With Pi](202605/2026-05-25-building-pi-with-pi.md)
+  - 本文探讨了开源项目中使用AI代理的挑战，包括问题报告质量下降、代码过度工程化、低质量提交泛滥及并行工作流管理。核心反思指出，AI虽增加产出但未提升协作质量，开源应注重社区协作与长期维护。
+  - Tags: #read #agent
+
 - (2026-05-24) [Classic rock, Mario Kart, and why we can't agree on Tailwind](202605/2026-05-24-classic-rock%2C-mario-kart%2C-and-why-we-can%27t-agree-on-tailwind.md)
   - 文章通过音乐品味和Mario Kart游戏类比，指出前端开发者对Tailwind CSS的争议源于“建造者”（重效率）与“工匠”（重深度）的价值取向差异。作者认为工具皆有取舍，建议开发者根据自身需求选择。
   - Tags: #read #frontend
@@ -39,13 +43,9 @@
   - 提示词与代码同为技术债务，但更难管理。因模型频繁更新，精心调校的提示词易悄然失效，导致性能下降。建议避免过度定制，优先使用第三方AI工具，保持配置简洁；对项目特定提示词应聚焦事实、及时清理，以降低维护负担。
   - Tags: #read #agent
 
-- (2026-05-19) [Alternatives for the EDIT tool of LLM agents - <antirez>](202605/2026-05-19-alternatives-for-the-edit-tool-of-llm-agents---antirez.md)
-  - 本文提出LLM代理中EDIT工具的两种替代方案：基于标签的编辑（使用行号和校验和，令牌效率高且可靠）和基于文件CRC32的编辑（令牌更少但可靠性较低）。作者建议通过实际使用比较，并考虑添加模式切换以灵活选择。
-  - Tags: #read #llm #agent
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (57 entries)
+- [2026-05](202605/monthly-index.md) (58 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

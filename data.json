@@ -12155,5 +12155,15 @@
       "read",
       "frontend"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Building Pi With Pi",
+    "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+    "timestamp": 1779716412,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

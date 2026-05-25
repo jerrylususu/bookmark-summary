@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-25) [Building Pi With Pi](2026-05-25-building-pi-with-pi.md)
+  - 本文探讨了开源项目中使用AI代理的挑战，包括问题报告质量下降、代码过度工程化、低质量提交泛滥及并行工作流管理。核心反思指出，AI虽增加产出但未提升协作质量，开源应注重社区协作与长期维护。
+  - Tags: #read #agent
+
 - (2026-05-24) [Classic rock, Mario Kart, and why we can't agree on Tailwind](2026-05-24-classic-rock%2C-mario-kart%2C-and-why-we-can%27t-agree-on-tailwind.md)
   - 文章通过音乐品味和Mario Kart游戏类比，指出前端开发者对Tailwind CSS的争议源于“建造者”（重效率）与“工匠”（重深度）的价值取向差异。作者认为工具皆有取舍，建议开发者根据自身需求选择。
   - Tags: #read #frontend
