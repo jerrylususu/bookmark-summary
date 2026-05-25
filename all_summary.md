@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-25) [The Orchestration Tax is You](202605/2026-05-25-the-orchestration-tax-is-you.md)
+  - Tags: #read #agent
+  - Summary: 本文指出AI代理开发中存在“编排税”：人类认知的串行性导致并行代理反而增加负担。建议开发者将注意力视为稀缺资源，通过架构设计优化任务分配与审查，避免低效忙碌，提升系统理解与代码质量。
+
 - (2026-05-25) [Building Pi With Pi](202605/2026-05-25-building-pi-with-pi.md)
   - Tags: #read #agent
   - Summary: 本文探讨了开源项目中使用AI代理的挑战，包括问题报告质量下降、代码过度工程化、低质量提交泛滥及并行工作流管理。核心反思指出，AI虽增加产出但未提升协作质量，开源应注重社区协作与长期维护。
