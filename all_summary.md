@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-26) [The pressure](202605/2026-05-26-the-pressure.md)
+  - Tags: #read
+  - Summary: curl创始人Daniel Stenberg透露，项目30周年之际安全报告激增，2026年日均超1份高质量报告，已确认12个漏洞，全年CVE或翻倍。团队压力巨大，呼吁商业支持，但强调近年漏洞均为低中危，项目稳健，将继续努力服务全球用户。
+
 - (2026-05-25) [The Orchestration Tax is You](202605/2026-05-25-the-orchestration-tax-is-you.md)
   - Tags: #read #agent
   - Summary: 本文指出AI代理开发中存在“编排税”：人类认知的串行性导致并行代理反而增加负担。建议开发者将注意力视为稀缺资源，通过架构设计优化任务分配与审查，避免低效忙碌，提升系统理解与代码质量。

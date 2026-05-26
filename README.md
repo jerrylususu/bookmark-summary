@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-26) [The pressure](202605/2026-05-26-the-pressure.md)
+  - curl创始人Daniel Stenberg透露，项目30周年之际安全报告激增，2026年日均超1份高质量报告，已确认12个漏洞，全年CVE或翻倍。团队压力巨大，呼吁商业支持，但强调近年漏洞均为低中危，项目稳健，将继续努力服务全球用户。
+  - Tags: #read
+
 - (2026-05-25) [The Orchestration Tax is You](202605/2026-05-25-the-orchestration-tax-is-you.md)
   - 本文指出AI代理开发中存在“编排税”：人类认知的串行性导致并行代理反而增加负担。建议开发者将注意力视为稀缺资源，通过架构设计优化任务分配与审查，避免低效忙碌，提升系统理解与代码质量。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - Resident 是 Inanimate 公司开源的 ESP32 代码沙盒库，支持 Wi-Fi 直接加载 AI 生成的代码，无需编译。它基于 Lua 运行时，提供安全运行环境，允许动态执行应用，适用于原型开发和产品部署，可实现智能设备交互。
   - Tags: #read #hardware
 
-- (2026-05-21) [The famous o3 "GeoGuessr" prompt did not work](202605/2026-05-21-the-famous-o3-geoguessr-prompt-did-not-work.md)
-  - 本文通过基准测试对比了OpenAI o3模型在地理定位任务中默认与复杂提示词的效果，发现默认提示词表现更优，复杂提示词无显著提升，表明过度工程化提示词可能无效。同时，GPT-5.4和GPT-5.5不具备o3的该能力，强调需严谨评估提示词效果。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (59 entries)
+- [2026-05](202605/monthly-index.md) (60 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
