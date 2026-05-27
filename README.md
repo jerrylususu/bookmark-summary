@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-27) [用好AI的第二步：先写Skill再执行](202605/2026-05-27-%E7%94%A8%E5%A5%BDai%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%AD%A5%EF%BC%9A%E5%85%88%E5%86%99skill%E5%86%8D%E6%89%A7%E8%A1%8C.md)
+  - 该错误源于参数验证问题，系统无法解析域名“skill-first.html”，属客户端请求错误（代码40001，状态码400）。建议检查URL拼写及域名有效性。
+  - Tags: #read #agent
+
 - (2026-05-27) [Agent 需要什么样的基础工具集合](202605/2026-05-27-agent-%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%9F%BA%E7%A1%80%E5%B7%A5%E5%85%B7%E9%9B%86%E5%90%88.md)
   - 文章探讨了 Agent 基础工具集的设计，指出 shell 能解决大部分问题，但编辑精确性和长任务调度仍是关键挑战，需平衡通用性与专用性。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - DimCut 是一款创新视频剪辑工具，通过二维时间轴和文字轨整合，提升定位与剪辑效率，支持极简 UI 设计和网页直接编辑。
   - Tags: #read
 
-- (2026-05-21) [Claw Patrol - The security firewall for agents](202605/2026-05-21-claw-patrol---the-security-firewall-for-agents.md)
-  - Claw Patrol 是一个为 AI 代理设计的安全防火墙，通过凭证管理、流量解析和审批流程，解决代理访问生产环境的安全与审计问题。它支持规则引擎、完整审计日志，并提供开源工具，确保端到端安全。
-  - Tags: #tools #agent #security
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (62 entries)
+- [2026-05](202605/monthly-index.md) (63 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

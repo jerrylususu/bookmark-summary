@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-27) [用好AI的第二步：先写Skill再执行](202605/2026-05-27-%E7%94%A8%E5%A5%BDai%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%AD%A5%EF%BC%9A%E5%85%88%E5%86%99skill%E5%86%8D%E6%89%A7%E8%A1%8C.md)
+  - Tags: #read #agent
+  - Summary: 该错误源于参数验证问题，系统无法解析域名“skill-first.html”，属客户端请求错误（代码40001，状态码400）。建议检查URL拼写及域名有效性。
+
 - (2026-05-27) [Agent 需要什么样的基础工具集合](202605/2026-05-27-agent-%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%9F%BA%E7%A1%80%E5%B7%A5%E5%85%B7%E9%9B%86%E5%90%88.md)
   - Tags: #read #agent
   - Summary: 文章探讨了 Agent 基础工具集的设计，指出 shell 能解决大部分问题，但编辑精确性和长任务调度仍是关键挑战，需平衡通用性与专用性。
