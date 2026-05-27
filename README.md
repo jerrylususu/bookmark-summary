@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-27) [第三次世界大战 - Miao Yu | 于淼](202605/2026-05-27-%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98---miao-yu-%E4%BA%8E%E6%B7%BC.md)
+  - 本文将第三次世界大战定义为全球城乡间的结构性资源争夺战，通过产业转移与人才抽空等方式进行系统性剥夺。战争机制源于聚集经济的报酬递增，导致城乡与国家间发展失衡，缺乏停火逻辑，最终可能引发社会替代与政治极化。
+  - Tags: #read
+
 - (2026-05-26) [The pressure](202605/2026-05-26-the-pressure.md)
   - curl创始人Daniel Stenberg透露，项目30周年之际安全报告激增，2026年日均超1份高质量报告，已确认12个漏洞，全年CVE或翻倍。团队压力巨大，呼吁商业支持，但强调近年漏洞均为低中危，项目稳健，将继续努力服务全球用户。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 通用表达式语言（CEL）是一种安全高效的表达式语言，支持一次编译、多次评估，适用于路由、安全策略等场景。其核心优势在于安全性与纳秒级评估速度，通过解析、检查和评估三阶段处理，广泛用于扩展声明性配置，如Google Cloud IAM的授权细化。
   - Tags: #tools
 
-- (2026-05-21) [Resident: vibe coding firmware (our new sandbox library for ESP32 devices)](202605/2026-05-21-resident-vibe-coding-firmware-%28our-new-sandbox-library-for-esp32-devices%29.md)
-  - Resident 是 Inanimate 公司开源的 ESP32 代码沙盒库，支持 Wi-Fi 直接加载 AI 生成的代码，无需编译。它基于 Lua 运行时，提供安全运行环境，允许动态执行应用，适用于原型开发和产品部署，可实现智能设备交互。
-  - Tags: #read #hardware
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (60 entries)
+- [2026-05](202605/monthly-index.md) (61 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
