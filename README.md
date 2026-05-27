@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-27) [Agent 需要什么样的基础工具集合](202605/2026-05-27-agent-%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%9F%BA%E7%A1%80%E5%B7%A5%E5%85%B7%E9%9B%86%E5%90%88.md)
+  - 文章探讨了 Agent 基础工具集的设计，指出 shell 能解决大部分问题，但编辑精确性和长任务调度仍是关键挑战，需平衡通用性与专用性。
+  - Tags: #read #agent
+
 - (2026-05-27) [第三次世界大战 - Miao Yu | 于淼](202605/2026-05-27-%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98---miao-yu-%E4%BA%8E%E6%B7%BC.md)
   - 本文将第三次世界大战定义为全球城乡间的结构性资源争夺战，通过产业转移与人才抽空等方式进行系统性剥夺。战争机制源于聚集经济的报酬递增，导致城乡与国家间发展失衡，缺乏停火逻辑，最终可能引发社会替代与政治极化。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Claw Patrol 是一个为 AI 代理设计的安全防火墙，通过凭证管理、流量解析和审批流程，解决代理访问生产环境的安全与审计问题。它支持规则引擎、完整审计日志，并提供开源工具，确保端到端安全。
   - Tags: #tools #agent #security
 
-- (2026-05-21) [通用表达式语言 (CEL)  |  Common Expression Language](202605/2026-05-21-%E9%80%9A%E7%94%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%AF%AD%E8%A8%80-%28cel%29-common-expression-language.md)
-  - 通用表达式语言（CEL）是一种安全高效的表达式语言，支持一次编译、多次评估，适用于路由、安全策略等场景。其核心优势在于安全性与纳秒级评估速度，通过解析、检查和评估三阶段处理，广泛用于扩展声明性配置，如Google Cloud IAM的授权细化。
-  - Tags: #tools
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (61 entries)
+- [2026-05](202605/monthly-index.md) (62 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
