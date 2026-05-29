@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-29) [Dancing mad with sandboxing](202605/2026-05-29-dancing-mad-with-sandboxing.md)
+  - Kefka是一个Go原生沙箱，模拟操作系统环境，通过虚拟文件系统和WebAssembly技术安全运行不受信任的代码（如AI代理），支持Python等工具，确保隔离与兼容性。
+  - Tags: #read #deepdive
+
 - (2026-05-29) [AI 裁员潮卑鄙生存指南 The Unethical Guide to Surviving AI Layoffs](202605/2026-05-29-ai-%E8%A3%81%E5%91%98%E6%BD%AE%E5%8D%91%E9%84%99%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97-the-unethical-guide-to-surviving-ai-layoffs.md)
   - 文章以讽刺手法，提出一套在AI裁员潮中“卑鄙生存”的指南，核心是主动拥抱并利用AI热潮保全自己，包括成为激进拥护者、发起转型、举办工作坊、争取资源、停止实际工作等策略，最终呼吁读者加入这场表演以求生存。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文类比密码学原则，指出网页设计应避免重复造轮子，列举七项不宜自定义的功能（如滚动、导航、密码框等），强调自定义常导致体验下降，呼吁开发者保守设计以减少用户适应成本。
   - Tags: #read
 
-- (2026-05-24) [On the ‹dl›](202605/2026-05-24-on-the-%E2%80%B9dl%E2%80%BA.md)
-  - 本文介绍了HTML中元素的结构与语义化优势，强调其在提升可访问性与用户体验方面的作用，并通过实例展示其在数据展示中的灵活应用。
-  - Tags: #read #frontend
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (64 entries)
+- [2026-05](202605/monthly-index.md) (65 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

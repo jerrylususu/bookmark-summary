@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-29) [Dancing mad with sandboxing](2026-05-29-dancing-mad-with-sandboxing.md)
+  - Kefka是一个Go原生沙箱，模拟操作系统环境，通过虚拟文件系统和WebAssembly技术安全运行不受信任的代码（如AI代理），支持Python等工具，确保隔离与兼容性。
+  - Tags: #read #deepdive
+
 - (2026-05-29) [AI 裁员潮卑鄙生存指南 The Unethical Guide to Surviving AI Layoffs](2026-05-29-ai-%E8%A3%81%E5%91%98%E6%BD%AE%E5%8D%91%E9%84%99%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97-the-unethical-guide-to-surviving-ai-layoffs.md)
   - 文章以讽刺手法，提出一套在AI裁员潮中“卑鄙生存”的指南，核心是主动拥抱并利用AI热潮保全自己，包括成为激进拥护者、发起转型、举办工作坊、争取资源、停止实际工作等策略，最终呼吁读者加入这场表演以求生存。
   - Tags: #read
