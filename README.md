@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-29) [Give your agents disposable environments in Go | Tigris Object Storage](202605/2026-05-29-give-your-agents-disposable-environments-in-go-tigris-object-storage.md)
+  - 本文介绍在Go中为AI代理创建可丢弃沙盒环境，利用Tigris桶分叉技术实现文件系统隔离，集成WebAssembly工具并验证POSIX兼容性，确保安全隔离与自动销毁。
+  - Tags: #read #agent
+
 - (2026-05-29) [Dancing mad with sandboxing](202605/2026-05-29-dancing-mad-with-sandboxing.md)
   - Kefka是一个Go原生沙箱，模拟操作系统环境，通过虚拟文件系统和WebAssembly技术安全运行不受信任的代码（如AI代理），支持Python等工具，确保隔离与兼容性。
   - Tags: #read #deepdive
@@ -39,13 +43,9 @@
   - 文章通过音乐品味和Mario Kart游戏类比，指出前端开发者对Tailwind CSS的争议源于“建造者”（重效率）与“工匠”（重深度）的价值取向差异。作者认为工具皆有取舍，建议开发者根据自身需求选择。
   - Tags: #read #frontend
 
-- (2026-05-24) [Don't Roll Your Own ... - Susam Pal](202605/2026-05-24-don%27t-roll-your-own-...---susam-pal.md)
-  - 本文类比密码学原则，指出网页设计应避免重复造轮子，列举七项不宜自定义的功能（如滚动、导航、密码框等），强调自定义常导致体验下降，呼吁开发者保守设计以减少用户适应成本。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (65 entries)
+- [2026-05](202605/monthly-index.md) (66 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

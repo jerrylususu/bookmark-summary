@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-29) [Give your agents disposable environments in Go | Tigris Object Storage](2026-05-29-give-your-agents-disposable-environments-in-go-tigris-object-storage.md)
+  - 本文介绍在Go中为AI代理创建可丢弃沙盒环境，利用Tigris桶分叉技术实现文件系统隔离，集成WebAssembly工具并验证POSIX兼容性，确保安全隔离与自动销毁。
+  - Tags: #read #agent
+
 - (2026-05-29) [Dancing mad with sandboxing](2026-05-29-dancing-mad-with-sandboxing.md)
   - Kefka是一个Go原生沙箱，模拟操作系统环境，通过虚拟文件系统和WebAssembly技术安全运行不受信任的代码（如AI代理），支持Python等工具，确保隔离与兼容性。
   - Tags: #read #deepdive

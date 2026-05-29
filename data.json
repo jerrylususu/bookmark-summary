@@ -12232,5 +12232,15 @@
       "read",
       "deepdive"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Give your agents disposable environments in Go | Tigris Object Storage",
+    "url": "https://www.tigrisdata.com/blog/agent-sandbox-go/",
+    "timestamp": 1780064630,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]
