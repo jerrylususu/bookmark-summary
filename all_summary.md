@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-29) [AI 裁员潮卑鄙生存指南 The Unethical Guide to Surviving AI Layoffs](202605/2026-05-29-ai-%E8%A3%81%E5%91%98%E6%BD%AE%E5%8D%91%E9%84%99%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97-the-unethical-guide-to-surviving-ai-layoffs.md)
+  - Tags: #read
+  - Summary: 文章以讽刺手法，提出一套在AI裁员潮中“卑鄙生存”的指南，核心是主动拥抱并利用AI热潮保全自己，包括成为激进拥护者、发起转型、举办工作坊、争取资源、停止实际工作等策略，最终呼吁读者加入这场表演以求生存。
+
 - (2026-05-27) [用好AI的第二步：先写Skill再执行](202605/2026-05-27-%E7%94%A8%E5%A5%BDai%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%AD%A5%EF%BC%9A%E5%85%88%E5%86%99skill%E5%86%8D%E6%89%A7%E8%A1%8C.md)
   - Tags: #read #agent
   - Summary: 该错误源于参数验证问题，系统无法解析域名“skill-first.html”，属客户端请求错误（代码40001，状态码400）。建议检查URL拼写及域名有效性。

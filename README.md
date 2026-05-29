@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-29) [AI 裁员潮卑鄙生存指南 The Unethical Guide to Surviving AI Layoffs](202605/2026-05-29-ai-%E8%A3%81%E5%91%98%E6%BD%AE%E5%8D%91%E9%84%99%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97-the-unethical-guide-to-surviving-ai-layoffs.md)
+  - 文章以讽刺手法，提出一套在AI裁员潮中“卑鄙生存”的指南，核心是主动拥抱并利用AI热潮保全自己，包括成为激进拥护者、发起转型、举办工作坊、争取资源、停止实际工作等策略，最终呼吁读者加入这场表演以求生存。
+  - Tags: #read
+
 - (2026-05-27) [用好AI的第二步：先写Skill再执行](202605/2026-05-27-%E7%94%A8%E5%A5%BDai%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%AD%A5%EF%BC%9A%E5%85%88%E5%86%99skill%E5%86%8D%E6%89%A7%E8%A1%8C.md)
   - 该错误源于参数验证问题，系统无法解析域名“skill-first.html”，属客户端请求错误（代码40001，状态码400）。建议检查URL拼写及域名有效性。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文介绍了HTML中元素的结构与语义化优势，强调其在提升可访问性与用户体验方面的作用，并通过实例展示其在数据展示中的灵活应用。
   - Tags: #read #frontend
 
-- (2026-05-24) [创新视频剪辑交互：二维时间轴 + 文字轨 | 风痕 · 術&思](202605/2026-05-24-%E5%88%9B%E6%96%B0%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E4%BA%A4%E4%BA%92%EF%BC%9A%E4%BA%8C%E7%BB%B4%E6%97%B6%E9%97%B4%E8%BD%B4-%2B-%E6%96%87%E5%AD%97%E8%BD%A8-%E9%A3%8E%E7%97%95-%C2%B7-%E8%A1%93%26%E6%80%9D.md)
-  - DimCut 是一款创新视频剪辑工具，通过二维时间轴和文字轨整合，提升定位与剪辑效率，支持极简 UI 设计和网页直接编辑。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (63 entries)
+- [2026-05](202605/monthly-index.md) (64 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
