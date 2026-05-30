@@ -1,5 +1,9 @@
 # 2026-05 Monthly Index
 
+- (2026-05-30) [统计十讲](2026-05-30-%E7%BB%9F%E8%AE%A1%E5%8D%81%E8%AE%B2.md)
+  - 本文批评当前统计教育重理论轻实践，提出以“数据=模型+误差”为核心，通过“统计十讲”系列文章，以问题导向和模拟演示帮助读者理解统计概念，提升数据分析能力，并计划扩展为完整教材。
+  - Tags: #read #deepdive #books
+
 - (2026-05-29) [Give your agents disposable environments in Go | Tigris Object Storage](2026-05-29-give-your-agents-disposable-environments-in-go-tigris-object-storage.md)
   - 本文介绍在Go中为AI代理创建可丢弃沙盒环境，利用Tigris桶分叉技术实现文件系统隔离，集成WebAssembly工具并验证POSIX兼容性，确保安全隔离与自动销毁。
   - Tags: #read #agent

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-30) [统计十讲](202605/2026-05-30-%E7%BB%9F%E8%AE%A1%E5%8D%81%E8%AE%B2.md)
+  - 本文批评当前统计教育重理论轻实践，提出以“数据=模型+误差”为核心，通过“统计十讲”系列文章，以问题导向和模拟演示帮助读者理解统计概念，提升数据分析能力，并计划扩展为完整教材。
+  - Tags: #read #deepdive #books
+
 - (2026-05-29) [Give your agents disposable environments in Go | Tigris Object Storage](202605/2026-05-29-give-your-agents-disposable-environments-in-go-tigris-object-storage.md)
   - 本文介绍在Go中为AI代理创建可丢弃沙盒环境，利用Tigris桶分叉技术实现文件系统隔离，集成WebAssembly工具并验证POSIX兼容性，确保安全隔离与自动销毁。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文探讨了开源项目中使用AI代理的挑战，包括问题报告质量下降、代码过度工程化、低质量提交泛滥及并行工作流管理。核心反思指出，AI虽增加产出但未提升协作质量，开源应注重社区协作与长期维护。
   - Tags: #read #agent
 
-- (2026-05-24) [Classic rock, Mario Kart, and why we can't agree on Tailwind](202605/2026-05-24-classic-rock%2C-mario-kart%2C-and-why-we-can%27t-agree-on-tailwind.md)
-  - 文章通过音乐品味和Mario Kart游戏类比，指出前端开发者对Tailwind CSS的争议源于“建造者”（重效率）与“工匠”（重深度）的价值取向差异。作者认为工具皆有取舍，建议开发者根据自身需求选择。
-  - Tags: #read #frontend
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (66 entries)
+- [2026-05](202605/monthly-index.md) (67 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
