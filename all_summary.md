@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-05-31) [The holes that kill you are the ones you never tested — jonno.nz](202605/2026-05-31-the-holes-that-kill-you-are-the-ones-you-never-tested-%E2%80%94-jonno.nz.md)
+  - Tags: #read
+  - Summary: 瑞士奶酪模型虽能解释系统失效，但过度强调冗余会忽视未测试的漏洞。作者指出，冗余在故障相关时无效，可靠性受限于最不可靠依赖。建议通过混沌工程、无指责分析主动暴露漏洞，并将可靠性视为可管理预算，最终依靠文化层面的坦诚改进。
+
 - (2026-05-31) [Build agents, not pipelines](202605/2026-05-31-build-agents%2C-not-pipelines.md)
   - Tags: #read #agent
   - Summary: 文章对比了LLM在程序中的两种应用方式：管道（代码控制流程）和智能体（LLM自主管理）。管道更可预测、成本可控，适合简单任务；智能体更灵活，能处理复杂场景但成本不可控。建议根据任务复杂度、上下文需求和成本限制选择，不确定时优先智能体。

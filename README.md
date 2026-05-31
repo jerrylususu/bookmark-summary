@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-31) [The holes that kill you are the ones you never tested — jonno.nz](202605/2026-05-31-the-holes-that-kill-you-are-the-ones-you-never-tested-%E2%80%94-jonno.nz.md)
+  - 瑞士奶酪模型虽能解释系统失效，但过度强调冗余会忽视未测试的漏洞。作者指出，冗余在故障相关时无效，可靠性受限于最不可靠依赖。建议通过混沌工程、无指责分析主动暴露漏洞，并将可靠性视为可管理预算，最终依靠文化层面的坦诚改进。
+  - Tags: #read
+
 - (2026-05-31) [Build agents, not pipelines](202605/2026-05-31-build-agents%2C-not-pipelines.md)
   - 文章对比了LLM在程序中的两种应用方式：管道（代码控制流程）和智能体（LLM自主管理）。管道更可预测、成本可控，适合简单任务；智能体更灵活，能处理复杂场景但成本不可控。建议根据任务复杂度、上下文需求和成本限制选择，不确定时优先智能体。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文将第三次世界大战定义为全球城乡间的结构性资源争夺战，通过产业转移与人才抽空等方式进行系统性剥夺。战争机制源于聚集经济的报酬递增，导致城乡与国家间发展失衡，缺乏停火逻辑，最终可能引发社会替代与政治极化。
   - Tags: #read
 
-- (2026-05-26) [The pressure](202605/2026-05-26-the-pressure.md)
-  - curl创始人Daniel Stenberg透露，项目30周年之际安全报告激增，2026年日均超1份高质量报告，已确认12个漏洞，全年CVE或翻倍。团队压力巨大，呼吁商业支持，但强调近年漏洞均为低中危，项目稳健，将继续努力服务全球用户。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (69 entries)
+- [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)
