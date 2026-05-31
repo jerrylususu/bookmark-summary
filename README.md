@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-05-31) [Build agents, not pipelines](202605/2026-05-31-build-agents%2C-not-pipelines.md)
+  - 文章对比了LLM在程序中的两种应用方式：管道（代码控制流程）和智能体（LLM自主管理）。管道更可预测、成本可控，适合简单任务；智能体更灵活，能处理复杂场景但成本不可控。建议根据任务复杂度、上下文需求和成本限制选择，不确定时优先智能体。
+  - Tags: #read #agent
+
 - (2026-05-30) [邸报 v0.1.0：一个很旧的东西新生了 | 虹线](202605/2026-05-30-%E9%82%B8%E6%8A%A5-v0.1.0%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%BE%88%E6%97%A7%E7%9A%84%E4%B8%9C%E8%A5%BF%E6%96%B0%E7%94%9F%E4%BA%86-%E8%99%B9%E7%BA%BF.md)
   - 邸报 v0.1.0 是一款开源 RSS 阅读器，支持本地部署与算法推荐，优化阅读顺序并提供可解释理由。它强调数据自主，存储于本地，无需依赖中心化服务，旨在辅助用户发现内容而非替代判断。项目源于对算法主导信息分发的不满，鼓励用户参与反馈。
   - Tags: #read #tools
@@ -39,13 +43,9 @@
   - curl创始人Daniel Stenberg透露，项目30周年之际安全报告激增，2026年日均超1份高质量报告，已确认12个漏洞，全年CVE或翻倍。团队压力巨大，呼吁商业支持，但强调近年漏洞均为低中危，项目稳健，将继续努力服务全球用户。
   - Tags: #read
 
-- (2026-05-25) [The Orchestration Tax is You](202605/2026-05-25-the-orchestration-tax-is-you.md)
-  - 本文指出AI代理开发中存在“编排税”：人类认知的串行性导致并行代理反而增加负担。建议开发者将注意力视为稀缺资源，通过架构设计优化任务分配与审查，避免低效忙碌，提升系统理解与代码质量。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-05](202605/monthly-index.md) (68 entries)
+- [2026-05](202605/monthly-index.md) (69 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
 - [2026-02](202602/monthly-index.md) (58 entries)

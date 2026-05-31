@@ -12263,5 +12263,15 @@
       "read",
       "tools"
     ]
+  },
+  {
+    "month": "202605",
+    "title": "Build agents, not pipelines",
+    "url": "https://www.seangoedecke.com/build-agents-not-pipelines/",
+    "timestamp": 1780230912,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]
