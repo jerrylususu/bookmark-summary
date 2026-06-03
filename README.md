@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-03) [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy (xpost)](202606/2026-06-03-ai-enthusiasts-are-in-a-race-against-time%2C-ai-skeptics-are-in-a-race-against-entropy-%28xpost%29.md)
+  - 文章讨论了AI在软件开发中引发的两极分化：爱好者追求快速迭代，怀疑者担忧代码质量。双方因体验和代价不同而缺乏信任。解决方案包括共享完整故事、工程化解决分歧、建立共同现实及发挥领导力作用，强调通过协作在创新与稳定间找到平衡。
+  - Tags: #read #agent
+
 - (2026-05-31) [The holes that kill you are the ones you never tested — jonno.nz](202605/2026-05-31-the-holes-that-kill-you-are-the-ones-you-never-tested-%E2%80%94-jonno.nz.md)
   - 瑞士奶酪模型虽能解释系统失效，但过度强调冗余会忽视未测试的漏洞。作者指出，冗余在故障相关时无效，可靠性受限于最不可靠依赖。建议通过混沌工程、无指责分析主动暴露漏洞，并将可靠性视为可管理预算，最终依靠文化层面的坦诚改进。
   - Tags: #read
@@ -39,12 +43,9 @@
   - 文章探讨了 Agent 基础工具集的设计，指出 shell 能解决大部分问题，但编辑精确性和长任务调度仍是关键挑战，需平衡通用性与专用性。
   - Tags: #read #agent
 
-- (2026-05-27) [第三次世界大战 - Miao Yu | 于淼](202605/2026-05-27-%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98---miao-yu-%E4%BA%8E%E6%B7%BC.md)
-  - 本文将第三次世界大战定义为全球城乡间的结构性资源争夺战，通过产业转移与人才抽空等方式进行系统性剥夺。战争机制源于聚集经济的报酬递增，导致城乡与国家间发展失衡，缺乏停火逻辑，最终可能引发社会替代与政治极化。
-  - Tags: #read
-
 ## Monthly Archive
 
+- [2026-06](202606/monthly-index.md) (1 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
