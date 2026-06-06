@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-06-06) [在香港骑共享单车：访客视角的经验](202606/2026-06-06-%E5%9C%A8%E9%A6%99%E6%B8%AF%E9%AA%91%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%EF%BC%9A%E8%AE%BF%E5%AE%A2%E8%A7%86%E8%A7%92%E7%9A%84%E7%BB%8F%E9%AA%8C.md)
+  - Tags: #read
+  - Summary: 本文介绍香港共享单车的使用经验，涵盖LocoBike和HelloRide两种类型、收费及骑行区域，重点说明新界单车径网络、导航方式、交通规则与注意事项，并推荐五条适合探索的骑行路线。
+
 - (2026-06-06) [Running Python code in a sandbox with MicroPython and WASM](202606/2026-06-06-running-python-code-in-a-sandbox-with-micropython-and-wasm.md)
   - Tags: #read #agent #security
   - Summary: 作者开发了 micropython-wasm 包，基于 MicroPython 和 WebAssembly 实现 Python 代码的安全沙箱执行，支持资源限制与会话持久化，目前已在 PyPI 发布 alpha 版本并用于 Datasette 项目。

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-06) [在香港骑共享单车：访客视角的经验](202606/2026-06-06-%E5%9C%A8%E9%A6%99%E6%B8%AF%E9%AA%91%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%EF%BC%9A%E8%AE%BF%E5%AE%A2%E8%A7%86%E8%A7%92%E7%9A%84%E7%BB%8F%E9%AA%8C.md)
+  - 本文介绍香港共享单车的使用经验，涵盖LocoBike和HelloRide两种类型、收费及骑行区域，重点说明新界单车径网络、导航方式、交通规则与注意事项，并推荐五条适合探索的骑行路线。
+  - Tags: #read
+
 - (2026-06-06) [Running Python code in a sandbox with MicroPython and WASM](202606/2026-06-06-running-python-code-in-a-sandbox-with-micropython-and-wasm.md)
   - 作者开发了 micropython-wasm 包，基于 MicroPython 和 WebAssembly 实现 Python 代码的安全沙箱执行，支持资源限制与会话持久化，目前已在 PyPI 发布 alpha 版本并用于 Datasette 项目。
   - Tags: #read #agent #security
@@ -39,13 +43,9 @@
   - 文章以讽刺手法，提出一套在AI裁员潮中“卑鄙生存”的指南，核心是主动拥抱并利用AI热潮保全自己，包括成为激进拥护者、发起转型、举办工作坊、争取资源、停止实际工作等策略，最终呼吁读者加入这场表演以求生存。
   - Tags: #read
 
-- (2026-05-27) [用好AI的第二步：先写Skill再执行](202605/2026-05-27-%E7%94%A8%E5%A5%BDai%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%AD%A5%EF%BC%9A%E5%85%88%E5%86%99skill%E5%86%8D%E6%89%A7%E8%A1%8C.md)
-  - 该错误源于参数验证问题，系统无法解析域名“skill-first.html”，属客户端请求错误（代码40001，状态码400）。建议检查URL拼写及域名有效性。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (2 entries)
+- [2026-06](202606/monthly-index.md) (3 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
