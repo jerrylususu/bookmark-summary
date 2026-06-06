@@ -12292,5 +12292,16 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "Running Python code in a sandbox with MicroPython and WASM",
+    "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+    "timestamp": 1780729780,
+    "tags": [
+      "read",
+      "agent",
+      "security"
+    ]
   }
 ]

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-06) [Running Python code in a sandbox with MicroPython and WASM](202606/2026-06-06-running-python-code-in-a-sandbox-with-micropython-and-wasm.md)
+  - 作者开发了 micropython-wasm 包，基于 MicroPython 和 WebAssembly 实现 Python 代码的安全沙箱执行，支持资源限制与会话持久化，目前已在 PyPI 发布 alpha 版本并用于 Datasette 项目。
+  - Tags: #read #agent #security
+
 - (2026-06-03) [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy (xpost)](202606/2026-06-03-ai-enthusiasts-are-in-a-race-against-time%2C-ai-skeptics-are-in-a-race-against-entropy-%28xpost%29.md)
   - 文章讨论了AI在软件开发中引发的两极分化：爱好者追求快速迭代，怀疑者担忧代码质量。双方因体验和代价不同而缺乏信任。解决方案包括共享完整故事、工程化解决分歧、建立共同现实及发挥领导力作用，强调通过协作在创新与稳定间找到平衡。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 该错误源于参数验证问题，系统无法解析域名“skill-first.html”，属客户端请求错误（代码40001，状态码400）。建议检查URL拼写及域名有效性。
   - Tags: #read #agent
 
-- (2026-05-27) [Agent 需要什么样的基础工具集合](202605/2026-05-27-agent-%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%9F%BA%E7%A1%80%E5%B7%A5%E5%85%B7%E9%9B%86%E5%90%88.md)
-  - 文章探讨了 Agent 基础工具集的设计，指出 shell 能解决大部分问题，但编辑精确性和长任务调度仍是关键挑战，需平衡通用性与专用性。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (1 entries)
+- [2026-06](202606/monthly-index.md) (2 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
