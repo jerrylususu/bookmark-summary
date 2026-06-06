@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-06) [AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers](202606/2026-06-06-ai-job-grief-the-unnamed-psychological-crisis-hitting-tech-workers.md)
+  - 文章探讨了AI驱动就业替代引发的“AI职业哀伤”，指出这是一种针对职业身份丧失的深层悲痛，尤其影响认知型工作者。由于缺乏社会认可和疏导机制，这种哀伤被压抑并加剧个人与组织问题。文章呼吁建立社会共识和制度支持，以应对这一系统性困境。
+  - Tags: #read
+
 - (2026-06-06) [在香港骑共享单车：访客视角的经验](202606/2026-06-06-%E5%9C%A8%E9%A6%99%E6%B8%AF%E9%AA%91%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%EF%BC%9A%E8%AE%BF%E5%AE%A2%E8%A7%86%E8%A7%92%E7%9A%84%E7%BB%8F%E9%AA%8C.md)
   - 本文介绍香港共享单车的使用经验，涵盖LocoBike和HelloRide两种类型、收费及骑行区域，重点说明新界单车径网络、导航方式、交通规则与注意事项，并推荐五条适合探索的骑行路线。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Kefka是一个Go原生沙箱，模拟操作系统环境，通过虚拟文件系统和WebAssembly技术安全运行不受信任的代码（如AI代理），支持Python等工具，确保隔离与兼容性。
   - Tags: #read #deepdive
 
-- (2026-05-29) [AI 裁员潮卑鄙生存指南 The Unethical Guide to Surviving AI Layoffs](202605/2026-05-29-ai-%E8%A3%81%E5%91%98%E6%BD%AE%E5%8D%91%E9%84%99%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97-the-unethical-guide-to-surviving-ai-layoffs.md)
-  - 文章以讽刺手法，提出一套在AI裁员潮中“卑鄙生存”的指南，核心是主动拥抱并利用AI热潮保全自己，包括成为激进拥护者、发起转型、举办工作坊、争取资源、停止实际工作等策略，最终呼吁读者加入这场表演以求生存。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (3 entries)
+- [2026-06](202606/monthly-index.md) (4 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)

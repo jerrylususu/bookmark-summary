@@ -1,5 +1,9 @@
 # 2026-06 Monthly Index
 
+- (2026-06-06) [AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers](2026-06-06-ai-job-grief-the-unnamed-psychological-crisis-hitting-tech-workers.md)
+  - 文章探讨了AI驱动就业替代引发的“AI职业哀伤”，指出这是一种针对职业身份丧失的深层悲痛，尤其影响认知型工作者。由于缺乏社会认可和疏导机制，这种哀伤被压抑并加剧个人与组织问题。文章呼吁建立社会共识和制度支持，以应对这一系统性困境。
+  - Tags: #read
+
 - (2026-06-06) [在香港骑共享单车：访客视角的经验](2026-06-06-%E5%9C%A8%E9%A6%99%E6%B8%AF%E9%AA%91%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%EF%BC%9A%E8%AE%BF%E5%AE%A2%E8%A7%86%E8%A7%92%E7%9A%84%E7%BB%8F%E9%AA%8C.md)
   - 本文介绍香港共享单车的使用经验，涵盖LocoBike和HelloRide两种类型、收费及骑行区域，重点说明新界单车径网络、导航方式、交通规则与注意事项，并推荐五条适合探索的骑行路线。
   - Tags: #read
