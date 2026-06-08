@@ -1,5 +1,9 @@
 # 2026-06 Monthly Index
 
+- (2026-06-08) [A new era for software testing - <antirez>](2026-06-08-a-new-era-for-software-testing---antirez.md)
+  - 自动编程虽提升效率但代码质量不及手写，而大型语言模型（LLMs）在软件测试中开辟新路径：通过AI代理自动化QA，精准测试变更、模拟环境并评估体验，从而弥补代码质量不足，提升发布质量。
+  - Tags: #read #agent
+
 - (2026-06-08) [Working with product managers](2026-06-08-working-with-product-managers.md)
   - 文章指出工程师与产品经理因视角差异易陷入信任危机，导致恶性循环。建立良好关系需工程师理解对方立场、可靠交付并尊重其政治角色，最终实现互信协作，避免操纵与谎言。
   - Tags: #read #career

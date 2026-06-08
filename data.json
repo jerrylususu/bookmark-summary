@@ -12351,5 +12351,15 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "A new era for software testing - <antirez>",
+    "url": "https://antirez.com/news/168",
+    "timestamp": 1780932215,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

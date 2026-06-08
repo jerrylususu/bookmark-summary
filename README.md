@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-08) [A new era for software testing - <antirez>](202606/2026-06-08-a-new-era-for-software-testing---antirez.md)
+  - 自动编程虽提升效率但代码质量不及手写，而大型语言模型（LLMs）在软件测试中开辟新路径：通过AI代理自动化QA，精准测试变更、模拟环境并评估体验，从而弥补代码质量不足，提升发布质量。
+  - Tags: #read #agent
+
 - (2026-06-08) [Working with product managers](202606/2026-06-08-working-with-product-managers.md)
   - 文章指出工程师与产品经理因视角差异易陷入信任危机，导致恶性循环。建立良好关系需工程师理解对方立场、可靠交付并尊重其政治角色，最终实现互信协作，避免操纵与谎言。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 文章对比了LLM在程序中的两种应用方式：管道（代码控制流程）和智能体（LLM自主管理）。管道更可预测、成本可控，适合简单任务；智能体更灵活，能处理复杂场景但成本不可控。建议根据任务复杂度、上下文需求和成本限制选择，不确定时优先智能体。
   - Tags: #read #agent
 
-- (2026-05-30) [邸报 v0.1.0：一个很旧的东西新生了 | 虹线](202605/2026-05-30-%E9%82%B8%E6%8A%A5-v0.1.0%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%BE%88%E6%97%A7%E7%9A%84%E4%B8%9C%E8%A5%BF%E6%96%B0%E7%94%9F%E4%BA%86-%E8%99%B9%E7%BA%BF.md)
-  - 邸报 v0.1.0 是一款开源 RSS 阅读器，支持本地部署与算法推荐，优化阅读顺序并提供可解释理由。它强调数据自主，存储于本地，无需依赖中心化服务，旨在辅助用户发现内容而非替代判断。项目源于对算法主导信息分发的不满，鼓励用户参与反馈。
-  - Tags: #read #tools
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (7 entries)
+- [2026-06](202606/monthly-index.md) (8 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
