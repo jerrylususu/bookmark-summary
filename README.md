@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-08) [Doing nothing at work](202606/2026-06-08-doing-nothing-at-work.md)
+  - 这篇文章主张工程师应保持80%利用率，留出20%时间远离电脑，以抓住高影响力机会、避免低效忙碌。核心观点包括：保持松弛状态以关注关键任务、拒绝非优先工作，并强调在正确时间做正确事比工作时长更重要。
+  - Tags: #read #career
+
 - (2026-06-06) [AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers](202606/2026-06-06-ai-job-grief-the-unnamed-psychological-crisis-hitting-tech-workers.md)
   - 文章探讨了AI驱动就业替代引发的“AI职业哀伤”，指出这是一种针对职业身份丧失的深层悲痛，尤其影响认知型工作者。由于缺乏社会认可和疏导机制，这种哀伤被压抑并加剧个人与组织问题。文章呼吁建立社会共识和制度支持，以应对这一系统性困境。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文介绍在Go中为AI代理创建可丢弃沙盒环境，利用Tigris桶分叉技术实现文件系统隔离，集成WebAssembly工具并验证POSIX兼容性，确保安全隔离与自动销毁。
   - Tags: #read #agent
 
-- (2026-05-29) [Dancing mad with sandboxing](202605/2026-05-29-dancing-mad-with-sandboxing.md)
-  - Kefka是一个Go原生沙箱，模拟操作系统环境，通过虚拟文件系统和WebAssembly技术安全运行不受信任的代码（如AI代理），支持Python等工具，确保隔离与兼容性。
-  - Tags: #read #deepdive
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (4 entries)
+- [2026-06](202606/monthly-index.md) (5 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)

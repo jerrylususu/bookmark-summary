@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-06-08) [Doing nothing at work](202606/2026-06-08-doing-nothing-at-work.md)
+  - Tags: #read #career
+  - Summary: 这篇文章主张工程师应保持80%利用率，留出20%时间远离电脑，以抓住高影响力机会、避免低效忙碌。核心观点包括：保持松弛状态以关注关键任务、拒绝非优先工作，并强调在正确时间做正确事比工作时长更重要。
+
 - (2026-06-06) [AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers](202606/2026-06-06-ai-job-grief-the-unnamed-psychological-crisis-hitting-tech-workers.md)
   - Tags: #read
   - Summary: 文章探讨了AI驱动就业替代引发的“AI职业哀伤”，指出这是一种针对职业身份丧失的深层悲痛，尤其影响认知型工作者。由于缺乏社会认可和疏导机制，这种哀伤被压抑并加剧个人与组织问题。文章呼吁建立社会共识和制度支持，以应对这一系统性困境。
