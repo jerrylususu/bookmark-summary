@@ -1,5 +1,9 @@
 # 2026-06 Monthly Index
 
+- (2026-06-08) [Working with product managers](2026-06-08-working-with-product-managers.md)
+  - 文章指出工程师与产品经理因视角差异易陷入信任危机，导致恶性循环。建立良好关系需工程师理解对方立场、可靠交付并尊重其政治角色，最终实现互信协作，避免操纵与谎言。
+  - Tags: #read #career
+
 - (2026-06-08) [Loop Engineering](2026-06-08-loop-engineering.md)
   - 循环工程通过自动化提示和管理AI代理，构建递归目标循环以迭代完成任务。它包含自动化、工作树、技能、插件、子代理和记忆六大组件，虽能提升效率，但仍需人工验证与理解，避免过度依赖自动化。
   - Tags: #read #agent

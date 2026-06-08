@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-08) [Working with product managers](202606/2026-06-08-working-with-product-managers.md)
+  - 文章指出工程师与产品经理因视角差异易陷入信任危机，导致恶性循环。建立良好关系需工程师理解对方立场、可靠交付并尊重其政治角色，最终实现互信协作，避免操纵与谎言。
+  - Tags: #read #career
+
 - (2026-06-08) [Loop Engineering](202606/2026-06-08-loop-engineering.md)
   - 循环工程通过自动化提示和管理AI代理，构建递归目标循环以迭代完成任务。它包含自动化、工作树、技能、插件、子代理和记忆六大组件，虽能提升效率，但仍需人工验证与理解，避免过度依赖自动化。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 邸报 v0.1.0 是一款开源 RSS 阅读器，支持本地部署与算法推荐，优化阅读顺序并提供可解释理由。它强调数据自主，存储于本地，无需依赖中心化服务，旨在辅助用户发现内容而非替代判断。项目源于对算法主导信息分发的不满，鼓励用户参与反馈。
   - Tags: #read #tools
 
-- (2026-05-30) [统计十讲](202605/2026-05-30-%E7%BB%9F%E8%AE%A1%E5%8D%81%E8%AE%B2.md)
-  - 本文批评当前统计教育重理论轻实践，提出以“数据=模型+误差”为核心，通过“统计十讲”系列文章，以问题导向和模拟演示帮助读者理解统计概念，提升数据分析能力，并计划扩展为完整教材。
-  - Tags: #read #deepdive #books
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (6 entries)
+- [2026-06](202606/monthly-index.md) (7 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
