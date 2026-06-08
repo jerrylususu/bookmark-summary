@@ -12331,5 +12331,15 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "Loop Engineering",
+    "url": "https://addyosmani.com/blog/loop-engineering/",
+    "timestamp": 1780931201,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]
