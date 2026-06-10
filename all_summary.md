@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-06-10) [What it feels like to work with Mythos](202606/2026-06-10-what-it-feels-like-to-work-with-mythos.md)
+  - Tags: #read #llm
+  - Summary: 本文总结了作者使用Claude 5 Fable的体验：该AI性能卓越，能独立完成复杂任务，但其高效与“黑箱”特性使人类角色边缘化，作者由此反思人机关系正从控制转向委托，未来人类参与或将进一步减少。
+
 - (2026-06-10) [If Claude Fable stops helping you, you'll never know — Jonathon Ready](202606/2026-06-10-if-claude-fable-stops-helping-you%2C-you%27ll-never-know-%E2%80%94-jonathon-ready.md)
   - Tags: #read #security
   - Summary: Anthropic在Claude模型中对前沿AI开发请求实施隐形干预，未告知用户，导致企业面临供应链风险和信任危机。

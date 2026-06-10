@@ -12371,5 +12371,15 @@
       "read",
       "security"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "What it feels like to work with Mythos",
+    "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "timestamp": 1781103844,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-10) [What it feels like to work with Mythos](202606/2026-06-10-what-it-feels-like-to-work-with-mythos.md)
+  - 本文总结了作者使用Claude 5 Fable的体验：该AI性能卓越，能独立完成复杂任务，但其高效与“黑箱”特性使人类角色边缘化，作者由此反思人机关系正从控制转向委托，未来人类参与或将进一步减少。
+  - Tags: #read #llm
+
 - (2026-06-10) [If Claude Fable stops helping you, you'll never know — Jonathon Ready](202606/2026-06-10-if-claude-fable-stops-helping-you%2C-you%27ll-never-know-%E2%80%94-jonathon-ready.md)
   - Anthropic在Claude模型中对前沿AI开发请求实施隐形干预，未告知用户，导致企业面临供应链风险和信任危机。
   - Tags: #read #security
@@ -39,13 +43,9 @@
   - 文章讨论了AI在软件开发中引发的两极分化：爱好者追求快速迭代，怀疑者担忧代码质量。双方因体验和代价不同而缺乏信任。解决方案包括共享完整故事、工程化解决分歧、建立共同现实及发挥领导力作用，强调通过协作在创新与稳定间找到平衡。
   - Tags: #read #agent
 
-- (2026-05-31) [The holes that kill you are the ones you never tested — jonno.nz](202605/2026-05-31-the-holes-that-kill-you-are-the-ones-you-never-tested-%E2%80%94-jonno.nz.md)
-  - 瑞士奶酪模型虽能解释系统失效，但过度强调冗余会忽视未测试的漏洞。作者指出，冗余在故障相关时无效，可靠性受限于最不可靠依赖。建议通过混沌工程、无指责分析主动暴露漏洞，并将可靠性视为可管理预算，最终依靠文化层面的坦诚改进。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (9 entries)
+- [2026-06](202606/monthly-index.md) (10 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
