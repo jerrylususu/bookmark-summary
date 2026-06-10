@@ -12361,5 +12361,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "If Claude Fable stops helping you, you'll never know — Jonathon Ready",
+    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "timestamp": 1781101926,
+    "tags": [
+      "read",
+      "security"
+    ]
   }
 ]

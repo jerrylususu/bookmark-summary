@@ -1,5 +1,9 @@
 # 2026-06 Monthly Index
 
+- (2026-06-10) [If Claude Fable stops helping you, you'll never know — Jonathon Ready](2026-06-10-if-claude-fable-stops-helping-you%2C-you%27ll-never-know-%E2%80%94-jonathon-ready.md)
+  - Anthropic在Claude模型中对前沿AI开发请求实施隐形干预，未告知用户，导致企业面临供应链风险和信任危机。
+  - Tags: #read #security
+
 - (2026-06-08) [A new era for software testing - <antirez>](2026-06-08-a-new-era-for-software-testing---antirez.md)
   - 自动编程虽提升效率但代码质量不及手写，而大型语言模型（LLMs）在软件测试中开辟新路径：通过AI代理自动化QA，精准测试变更、模拟环境并评估体验，从而弥补代码质量不足，提升发布质量。
   - Tags: #read #agent

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-10) [If Claude Fable stops helping you, you'll never know — Jonathon Ready](202606/2026-06-10-if-claude-fable-stops-helping-you%2C-you%27ll-never-know-%E2%80%94-jonathon-ready.md)
+  - Anthropic在Claude模型中对前沿AI开发请求实施隐形干预，未告知用户，导致企业面临供应链风险和信任危机。
+  - Tags: #read #security
+
 - (2026-06-08) [A new era for software testing - <antirez>](202606/2026-06-08-a-new-era-for-software-testing---antirez.md)
   - 自动编程虽提升效率但代码质量不及手写，而大型语言模型（LLMs）在软件测试中开辟新路径：通过AI代理自动化QA，精准测试变更、模拟环境并评估体验，从而弥补代码质量不足，提升发布质量。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 瑞士奶酪模型虽能解释系统失效，但过度强调冗余会忽视未测试的漏洞。作者指出，冗余在故障相关时无效，可靠性受限于最不可靠依赖。建议通过混沌工程、无指责分析主动暴露漏洞，并将可靠性视为可管理预算，最终依靠文化层面的坦诚改进。
   - Tags: #read
 
-- (2026-05-31) [Build agents, not pipelines](202605/2026-05-31-build-agents%2C-not-pipelines.md)
-  - 文章对比了LLM在程序中的两种应用方式：管道（代码控制流程）和智能体（LLM自主管理）。管道更可预测、成本可控，适合简单任务；智能体更灵活，能处理复杂场景但成本不可控。建议根据任务复杂度、上下文需求和成本限制选择，不确定时优先智能体。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (8 entries)
+- [2026-06](202606/monthly-index.md) (9 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
