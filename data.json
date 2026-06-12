@@ -12381,5 +12381,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "云风的 BLOG: 对基本有序的序列排序算法",
+    "url": "https://blog.codingnow.com/2026/06/powersort.html",
+    "timestamp": 1781273570,
+    "tags": [
+      "read",
+      "algo"
+    ]
   }
 ]

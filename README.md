@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-12) [云风的 BLOG: 对基本有序的序列排序算法](202606/2026-06-12-%E4%BA%91%E9%A3%8E%E7%9A%84-blog-%E5%AF%B9%E5%9F%BA%E6%9C%AC%E6%9C%89%E5%BA%8F%E7%9A%84%E5%BA%8F%E5%88%97%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
+  - 本文介绍了针对基本有序序列的Timsort和Power sort两种归并排序改进算法。Timsort通过识别有序片段并启发式合并来提升效率，但存在栈溢出风险；Power sort则通过模拟二叉树合并简化策略，确保栈深度可控。两者均利用数据局部有序性，在稳定性和效率间取得平衡，适用于实际排序需求。
+  - Tags: #read #algo
+
 - (2026-06-10) [What it feels like to work with Mythos](202606/2026-06-10-what-it-feels-like-to-work-with-mythos.md)
   - 本文总结了作者使用Claude 5 Fable的体验：该AI性能卓越，能独立完成复杂任务，但其高效与“黑箱”特性使人类角色边缘化，作者由此反思人机关系正从控制转向委托，未来人类参与或将进一步减少。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 作者开发了 micropython-wasm 包，基于 MicroPython 和 WebAssembly 实现 Python 代码的安全沙箱执行，支持资源限制与会话持久化，目前已在 PyPI 发布 alpha 版本并用于 Datasette 项目。
   - Tags: #read #agent #security
 
-- (2026-06-03) [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy (xpost)](202606/2026-06-03-ai-enthusiasts-are-in-a-race-against-time%2C-ai-skeptics-are-in-a-race-against-entropy-%28xpost%29.md)
-  - 文章讨论了AI在软件开发中引发的两极分化：爱好者追求快速迭代，怀疑者担忧代码质量。双方因体验和代价不同而缺乏信任。解决方案包括共享完整故事、工程化解决分歧、建立共同现实及发挥领导力作用，强调通过协作在创新与稳定间找到平衡。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (10 entries)
+- [2026-06](202606/monthly-index.md) (11 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
