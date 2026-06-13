@@ -1,5 +1,9 @@
 # 2026-06 Monthly Index
 
+- (2026-06-13) [The Software Development Lifecycle Is Dead](2026-06-13-the-software-development-lifecycle-is-dead.md)
+  - AI代理正瓦解传统软件开发生命周期，将其转变为意图驱动的紧密循环。新技能是“上下文工程”，安全网依赖可观测性，行业需适应AI协作模式。
+  - Tags: #read #agent
+
 - (2026-06-12) [云风的 BLOG: 对基本有序的序列排序算法](2026-06-12-%E4%BA%91%E9%A3%8E%E7%9A%84-blog-%E5%AF%B9%E5%9F%BA%E6%9C%AC%E6%9C%89%E5%BA%8F%E7%9A%84%E5%BA%8F%E5%88%97%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
   - 本文介绍了针对基本有序序列的Timsort和Power sort两种归并排序改进算法。Timsort通过识别有序片段并启发式合并来提升效率，但存在栈溢出风险；Power sort则通过模拟二叉树合并简化策略，确保栈深度可控。两者均利用数据局部有序性，在稳定性和效率间取得平衡，适用于实际排序需求。
   - Tags: #read #algo
