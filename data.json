@@ -12411,5 +12411,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "Agentic Code Review",
+    "url": "https://addyosmani.com/blog/agentic-code-review/",
+    "timestamp": 1781535290,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

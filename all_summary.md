@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-06-15) [Agentic Code Review](202606/2026-06-15-agentic-code-review.md)
+  - Tags: #read #agent
+  - Summary: AI代码生成加速导致审查成为瓶颈，2026年数据显示审查时间延长、缺陷率上升。文章建议按风险分级审查，结合AI工具与人工决策，构建可信赖体系以应对挑战。
+
 - (2026-06-15) [Agent 时代的软件接口](202606/2026-06-15-agent-%E6%97%B6%E4%BB%A3%E7%9A%84%E8%BD%AF%E4%BB%B6%E6%8E%A5%E5%8F%A3.md)
   - Tags: #read #agent
   - Summary: 本文提出通过DSL与编译器设计，将Agent模糊意图转化为确定性执行，构建稳定软件系统。核心包括策略原语引擎、分层编译管线及验证修复循环，适用于结构化领域，实现Agent工作流的可靠迭代。

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-15) [Agentic Code Review](202606/2026-06-15-agentic-code-review.md)
+  - AI代码生成加速导致审查成为瓶颈，2026年数据显示审查时间延长、缺陷率上升。文章建议按风险分级审查，结合AI工具与人工决策，构建可信赖体系以应对挑战。
+  - Tags: #read #agent
+
 - (2026-06-15) [Agent 时代的软件接口](202606/2026-06-15-agent-%E6%97%B6%E4%BB%A3%E7%9A%84%E8%BD%AF%E4%BB%B6%E6%8E%A5%E5%8F%A3.md)
   - 本文提出通过DSL与编译器设计，将Agent模糊意图转化为确定性执行，构建稳定软件系统。核心包括策略原语引擎、分层编译管线及验证修复循环，适用于结构化领域，实现Agent工作流的可靠迭代。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 这篇文章主张工程师应保持80%利用率，留出20%时间远离电脑，以抓住高影响力机会、避免低效忙碌。核心观点包括：保持松弛状态以关注关键任务、拒绝非优先工作，并强调在正确时间做正确事比工作时长更重要。
   - Tags: #read #career
 
-- (2026-06-06) [AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers](202606/2026-06-06-ai-job-grief-the-unnamed-psychological-crisis-hitting-tech-workers.md)
-  - 文章探讨了AI驱动就业替代引发的“AI职业哀伤”，指出这是一种针对职业身份丧失的深层悲痛，尤其影响认知型工作者。由于缺乏社会认可和疏导机制，这种哀伤被压抑并加剧个人与组织问题。文章呼吁建立社会共识和制度支持，以应对这一系统性困境。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (13 entries)
+- [2026-06](202606/monthly-index.md) (14 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
