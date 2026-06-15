@@ -12401,5 +12401,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "Agent 时代的软件接口",
+    "url": "https://www.bmpi.dev/dev/agent-native-system-paradigm/",
+    "timestamp": 1781534006,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-06-15) [Agent 时代的软件接口](202606/2026-06-15-agent-%E6%97%B6%E4%BB%A3%E7%9A%84%E8%BD%AF%E4%BB%B6%E6%8E%A5%E5%8F%A3.md)
+  - Tags: #read #agent
+  - Summary: 本文提出通过DSL与编译器设计，将Agent模糊意图转化为确定性执行，构建稳定软件系统。核心包括策略原语引擎、分层编译管线及验证修复循环，适用于结构化领域，实现Agent工作流的可靠迭代。
+
 - (2026-06-13) [The Software Development Lifecycle Is Dead](202606/2026-06-13-the-software-development-lifecycle-is-dead.md)
   - Tags: #read #agent
   - Summary: AI代理正瓦解传统软件开发生命周期，将其转变为意图驱动的紧密循环。新技能是“上下文工程”，安全网依赖可观测性，行业需适应AI协作模式。
