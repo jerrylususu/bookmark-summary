@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-16) [I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID.](202606/2026-06-16-i-could%27ve-rickrolled-the-entire-fifa-world-cup.-all-i-needed-was-my-id..md)
+  - 该请求因被视为高风险而被拒绝。
+  - Tags: #read #hack
+
 - (2026-06-15) [Agentic Code Review](202606/2026-06-15-agentic-code-review.md)
   - AI代码生成加速导致审查成为瓶颈，2026年数据显示审查时间延长、缺陷率上升。文章建议按风险分级审查，结合AI工具与人工决策，构建可信赖体系以应对挑战。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 循环工程通过自动化提示和管理AI代理，构建递归目标循环以迭代完成任务。它包含自动化、工作树、技能、插件、子代理和记忆六大组件，虽能提升效率，但仍需人工验证与理解，避免过度依赖自动化。
   - Tags: #read #agent
 
-- (2026-06-08) [Doing nothing at work](202606/2026-06-08-doing-nothing-at-work.md)
-  - 这篇文章主张工程师应保持80%利用率，留出20%时间远离电脑，以抓住高影响力机会、避免低效忙碌。核心观点包括：保持松弛状态以关注关键任务、拒绝非优先工作，并强调在正确时间做正确事比工作时长更重要。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (14 entries)
+- [2026-06](202606/monthly-index.md) (15 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
