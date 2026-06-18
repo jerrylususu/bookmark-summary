@@ -12431,5 +12431,15 @@
       "read",
       "hack"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "Building Agents that Don't Break Themselves",
+    "url": "https://fly.io/blog/building-agents-that-dont-break-themselves/",
+    "timestamp": 1781788565,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

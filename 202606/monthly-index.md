@@ -1,5 +1,9 @@
 # 2026-06 Monthly Index
 
+- (2026-06-18) [Building Agents that Don't Break Themselves](2026-06-18-building-agents-that-don%27t-break-themselves.md)
+  - 构建健壮智能体的关键是将决策（大脑）与执行（双手）分离：智能体运行在稳定环境，所有命令在可销毁的临时沙箱中执行。此架构提升安全性、灵活性和容错能力，如Hermes Agent和SpriteDoc案例所示。
+  - Tags: #read #agent
+
 - (2026-06-16) [I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID.](2026-06-16-i-could%27ve-rickrolled-the-entire-fifa-world-cup.-all-i-needed-was-my-id..md)
   - 该请求因被视为高风险而被拒绝。
   - Tags: #read #hack
