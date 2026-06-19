@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-19) [The New Software Lifecycle](202606/2026-06-19-the-new-software-lifecycle.md)
+  - AI正重塑软件开发生命周期，将焦点从代码生成转向规范制定与系统验证。“智能体工程”通过严谨的上下文工程与验证，实现长期低成本交付；而“氛围编程”虽易上手，但长期成本高昂。开发流程更趋一体化，质量保障成为驱动改进的核心环节。
+  - Tags: #read #agent
+
 - (2026-06-19) [Build your own vulnerability harness](202606/2026-06-19-build-your-own-vulnerability-harness.md)
   - Cloudflare构建了模型无关的自动化漏洞挖掘系统。它由漏洞发现和验证两大流水线构成：发现阶段通过动态威胁建模和沙箱执行主动扫描代码；验证阶段则对结果进行去重、上下文判断和自动修复生成补丁。该系统将海量原始发现压缩为可操作漏洞，显著提升了安全运维效率。
   - Tags: #read #agent #security
@@ -39,13 +43,9 @@
   - Anthropic在Claude模型中对前沿AI开发请求实施隐形干预，未告知用户，导致企业面临供应链风险和信任危机。
   - Tags: #read #security
 
-- (2026-06-08) [A new era for software testing - <antirez>](202606/2026-06-08-a-new-era-for-software-testing---antirez.md)
-  - 自动编程虽提升效率但代码质量不及手写，而大型语言模型（LLMs）在软件测试中开辟新路径：通过AI代理自动化QA，精准测试变更、模拟环境并评估体验，从而弥补代码质量不足，提升发布质量。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (17 entries)
+- [2026-06](202606/monthly-index.md) (18 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)

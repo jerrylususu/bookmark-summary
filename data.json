@@ -12452,5 +12452,15 @@
       "agent",
       "security"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "The New Software Lifecycle",
+    "url": "https://addyosmani.com/blog/new-sdlc-vibe-coding/",
+    "timestamp": 1781857100,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

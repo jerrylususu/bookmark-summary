@@ -1,5 +1,9 @@
 # 2026-06 Monthly Index
 
+- (2026-06-19) [The New Software Lifecycle](2026-06-19-the-new-software-lifecycle.md)
+  - AI正重塑软件开发生命周期，将焦点从代码生成转向规范制定与系统验证。“智能体工程”通过严谨的上下文工程与验证，实现长期低成本交付；而“氛围编程”虽易上手，但长期成本高昂。开发流程更趋一体化，质量保障成为驱动改进的核心环节。
+  - Tags: #read #agent
+
 - (2026-06-19) [Build your own vulnerability harness](2026-06-19-build-your-own-vulnerability-harness.md)
   - Cloudflare构建了模型无关的自动化漏洞挖掘系统。它由漏洞发现和验证两大流水线构成：发现阶段通过动态威胁建模和沙箱执行主动扫描代码；验证阶段则对结果进行去重、上下文判断和自动修复生成补丁。该系统将海量原始发现压缩为可操作漏洞，显著提升了安全运维效率。
   - Tags: #read #agent #security
