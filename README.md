@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-19) [Build your own vulnerability harness](202606/2026-06-19-build-your-own-vulnerability-harness.md)
+  - Cloudflare构建了模型无关的自动化漏洞挖掘系统。它由漏洞发现和验证两大流水线构成：发现阶段通过动态威胁建模和沙箱执行主动扫描代码；验证阶段则对结果进行去重、上下文判断和自动修复生成补丁。该系统将海量原始发现压缩为可操作漏洞，显著提升了安全运维效率。
+  - Tags: #read #agent #security
+
 - (2026-06-18) [Building Agents that Don't Break Themselves](202606/2026-06-18-building-agents-that-don%27t-break-themselves.md)
   - 构建健壮智能体的关键是将决策（大脑）与执行（双手）分离：智能体运行在稳定环境，所有命令在可销毁的临时沙箱中执行。此架构提升安全性、灵活性和容错能力，如Hermes Agent和SpriteDoc案例所示。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 自动编程虽提升效率但代码质量不及手写，而大型语言模型（LLMs）在软件测试中开辟新路径：通过AI代理自动化QA，精准测试变更、模拟环境并评估体验，从而弥补代码质量不足，提升发布质量。
   - Tags: #read #agent
 
-- (2026-06-08) [Working with product managers](202606/2026-06-08-working-with-product-managers.md)
-  - 文章指出工程师与产品经理因视角差异易陷入信任危机，导致恶性循环。建立良好关系需工程师理解对方立场、可靠交付并尊重其政治角色，最终实现互信协作，避免操纵与谎言。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (16 entries)
+- [2026-06](202606/monthly-index.md) (17 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)

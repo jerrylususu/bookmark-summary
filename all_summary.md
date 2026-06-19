@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-06-19) [Build your own vulnerability harness](202606/2026-06-19-build-your-own-vulnerability-harness.md)
+  - Tags: #read #agent #security
+  - Summary: Cloudflare构建了模型无关的自动化漏洞挖掘系统。它由漏洞发现和验证两大流水线构成：发现阶段通过动态威胁建模和沙箱执行主动扫描代码；验证阶段则对结果进行去重、上下文判断和自动修复生成补丁。该系统将海量原始发现压缩为可操作漏洞，显著提升了安全运维效率。
+
 - (2026-06-18) [Building Agents that Don't Break Themselves](202606/2026-06-18-building-agents-that-don%27t-break-themselves.md)
   - Tags: #read #agent
   - Summary: 构建健壮智能体的关键是将决策（大脑）与执行（双手）分离：智能体运行在稳定环境，所有命令在可销毁的临时沙箱中执行。此架构提升安全性、灵活性和容错能力，如Hermes Agent和SpriteDoc案例所示。

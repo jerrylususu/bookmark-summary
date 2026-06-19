@@ -12441,5 +12441,16 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "Build your own vulnerability harness",
+    "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+    "timestamp": 1781827639,
+    "tags": [
+      "read",
+      "agent",
+      "security"
+    ]
   }
 ]
