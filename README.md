@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-21) [使用AI十倍提效，成了模范老黄牛，就能加薪升职了？](202606/2026-06-21-%E4%BD%BF%E7%94%A8ai%E5%8D%81%E5%80%8D%E6%8F%90%E6%95%88%EF%BC%8C%E6%88%90%E4%BA%86%E6%A8%A1%E8%8C%83%E8%80%81%E9%BB%84%E7%89%9B%EF%BC%8C%E5%B0%B1%E8%83%BD%E5%8A%A0%E8%96%AA%E5%8D%87%E8%81%8C%E4%BA%86%EF%BC%9F.md)
+  - AI提效可能使高效员工被定位为“执行工具”，陷入零散工作，导致职业瓶颈。文章建议主动转变角色，利用AI提升判断力和战略思考，避免过度执行，以建立长期竞争力。
+  - Tags: #read #people
+
 - (2026-06-19) [The New Software Lifecycle](202606/2026-06-19-the-new-software-lifecycle.md)
   - AI正重塑软件开发生命周期，将焦点从代码生成转向规范制定与系统验证。“智能体工程”通过严谨的上下文工程与验证，实现长期低成本交付；而“氛围编程”虽易上手，但长期成本高昂。开发流程更趋一体化，质量保障成为驱动改进的核心环节。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文总结了作者使用Claude 5 Fable的体验：该AI性能卓越，能独立完成复杂任务，但其高效与“黑箱”特性使人类角色边缘化，作者由此反思人机关系正从控制转向委托，未来人类参与或将进一步减少。
   - Tags: #read #llm
 
-- (2026-06-10) [If Claude Fable stops helping you, you'll never know — Jonathon Ready](202606/2026-06-10-if-claude-fable-stops-helping-you%2C-you%27ll-never-know-%E2%80%94-jonathon-ready.md)
-  - Anthropic在Claude模型中对前沿AI开发请求实施隐形干预，未告知用户，导致企业面临供应链风险和信任危机。
-  - Tags: #read #security
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (18 entries)
+- [2026-06](202606/monthly-index.md) (19 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
