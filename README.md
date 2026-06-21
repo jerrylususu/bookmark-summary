@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-21) [Excessive nil pointer checks in Go](202606/2026-06-21-excessive-nil-pointer-checks-in-go.md)
+  - 这篇文章探讨了Go语言中nil指针检查的合理使用，指出过多的检查反映代码设计缺陷。建议在构造阶段处理依赖项的nil，避免运行时错误；外部数据应在系统边界验证，确保早期错误处理。通过明确边界和不变量设计，减少不必要的nil检查，使代码更清晰、易维护。
+  - Tags: #read
+
 - (2026-06-21) [使用AI十倍提效，成了模范老黄牛，就能加薪升职了？](202606/2026-06-21-%E4%BD%BF%E7%94%A8ai%E5%8D%81%E5%80%8D%E6%8F%90%E6%95%88%EF%BC%8C%E6%88%90%E4%BA%86%E6%A8%A1%E8%8C%83%E8%80%81%E9%BB%84%E7%89%9B%EF%BC%8C%E5%B0%B1%E8%83%BD%E5%8A%A0%E8%96%AA%E5%8D%87%E8%81%8C%E4%BA%86%EF%BC%9F.md)
   - AI提效可能使高效员工被定位为“执行工具”，陷入零散工作，导致职业瓶颈。文章建议主动转变角色，利用AI提升判断力和战略思考，避免过度执行，以建立长期竞争力。
   - Tags: #read #people
@@ -39,13 +43,9 @@
   - 本文介绍了针对基本有序序列的Timsort和Power sort两种归并排序改进算法。Timsort通过识别有序片段并启发式合并来提升效率，但存在栈溢出风险；Power sort则通过模拟二叉树合并简化策略，确保栈深度可控。两者均利用数据局部有序性，在稳定性和效率间取得平衡，适用于实际排序需求。
   - Tags: #read #algo
 
-- (2026-06-10) [What it feels like to work with Mythos](202606/2026-06-10-what-it-feels-like-to-work-with-mythos.md)
-  - 本文总结了作者使用Claude 5 Fable的体验：该AI性能卓越，能独立完成复杂任务，但其高效与“黑箱”特性使人类角色边缘化，作者由此反思人机关系正从控制转向委托，未来人类参与或将进一步减少。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (19 entries)
+- [2026-06](202606/monthly-index.md) (20 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)

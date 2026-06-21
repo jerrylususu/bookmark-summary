@@ -12472,5 +12472,14 @@
       "read",
       "people"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "Excessive nil pointer checks in Go",
+    "url": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
+    "timestamp": 1782047200,
+    "tags": [
+      "read"
+    ]
   }
 ]
