@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-22) [拯救呼吸大作战](202606/2026-06-22-%E6%8B%AF%E6%95%91%E5%91%BC%E5%90%B8%E5%A4%A7%E4%BD%9C%E6%88%98.md)
+  - 作者长期受过敏性鼻炎和鼻中隔偏曲困扰，尝试过口罩和药物但效果有限。重点测评了通气鼻贴和鼻内扩张器两类工具：鼻贴能快速扩张鼻腔、改善呼吸和睡眠，但易脱落且可能刺激皮肤；鼻内扩张器经济但存在异物感和疼痛问题。目前采用鼻贴与扩张器轮换使用，因恐惧暂未选择手术。
+  - Tags: #read #tips
+
 - (2026-06-22) [Scripting good practices in Python](202606/2026-06-22-scripting-good-practices-in-python.md)
   - 本文介绍了七个提升Python脚本质量的实用技巧，包括内联声明依赖、安全存储密钥、区分输出与日志、文档化环境变量、支持管道输入、规范退出码与异常处理，以及按优先级加载配置。强调简单脚本应避免过度设计，可按需选用这些实践，并借助工具简化配置管理。
   - Tags: #read #guide #python
@@ -39,13 +43,9 @@
   - 本文提出通过DSL与编译器设计，将Agent模糊意图转化为确定性执行，构建稳定软件系统。核心包括策略原语引擎、分层编译管线及验证修复循环，适用于结构化领域，实现Agent工作流的可靠迭代。
   - Tags: #read #agent
 
-- (2026-06-13) [The Software Development Lifecycle Is Dead](202606/2026-06-13-the-software-development-lifecycle-is-dead.md)
-  - AI代理正瓦解传统软件开发生命周期，将其转变为意图驱动的紧密循环。新技能是“上下文工程”，安全网依赖可观测性，行业需适应AI协作模式。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (21 entries)
+- [2026-06](202606/monthly-index.md) (22 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
