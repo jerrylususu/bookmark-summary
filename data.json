@@ -12481,5 +12481,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "Scripting good practices in Python",
+    "url": "https://www.bitecode.dev/p/scripting-good-practices-in-python",
+    "timestamp": 1782135514,
+    "tags": [
+      "read",
+      "guide",
+      "python"
+    ]
   }
 ]

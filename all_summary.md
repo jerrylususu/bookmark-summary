@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-06-22) [Scripting good practices in Python](202606/2026-06-22-scripting-good-practices-in-python.md)
+  - Tags: #read #guide #python
+  - Summary: 本文介绍了七个提升Python脚本质量的实用技巧，包括内联声明依赖、安全存储密钥、区分输出与日志、文档化环境变量、支持管道输入、规范退出码与异常处理，以及按优先级加载配置。强调简单脚本应避免过度设计，可按需选用这些实践，并借助工具简化配置管理。
+
 - (2026-06-21) [Excessive nil pointer checks in Go](202606/2026-06-21-excessive-nil-pointer-checks-in-go.md)
   - Tags: #read
   - Summary: 这篇文章探讨了Go语言中nil指针检查的合理使用，指出过多的检查反映代码设计缺陷。建议在构造阶段处理依赖项的nil，避免运行时错误；外部数据应在系统边界验证，确保早期错误处理。通过明确边界和不变量设计，减少不必要的nil检查，使代码更清晰、易维护。

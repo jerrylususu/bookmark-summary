@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-22) [Scripting good practices in Python](202606/2026-06-22-scripting-good-practices-in-python.md)
+  - 本文介绍了七个提升Python脚本质量的实用技巧，包括内联声明依赖、安全存储密钥、区分输出与日志、文档化环境变量、支持管道输入、规范退出码与异常处理，以及按优先级加载配置。强调简单脚本应避免过度设计，可按需选用这些实践，并借助工具简化配置管理。
+  - Tags: #read #guide #python
+
 - (2026-06-21) [Excessive nil pointer checks in Go](202606/2026-06-21-excessive-nil-pointer-checks-in-go.md)
   - 这篇文章探讨了Go语言中nil指针检查的合理使用，指出过多的检查反映代码设计缺陷。建议在构造阶段处理依赖项的nil，避免运行时错误；外部数据应在系统边界验证，确保早期错误处理。通过明确边界和不变量设计，减少不必要的nil检查，使代码更清晰、易维护。
   - Tags: #read
@@ -39,13 +43,9 @@
   - AI代理正瓦解传统软件开发生命周期，将其转变为意图驱动的紧密循环。新技能是“上下文工程”，安全网依赖可观测性，行业需适应AI协作模式。
   - Tags: #read #agent
 
-- (2026-06-12) [云风的 BLOG: 对基本有序的序列排序算法](202606/2026-06-12-%E4%BA%91%E9%A3%8E%E7%9A%84-blog-%E5%AF%B9%E5%9F%BA%E6%9C%AC%E6%9C%89%E5%BA%8F%E7%9A%84%E5%BA%8F%E5%88%97%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
-  - 本文介绍了针对基本有序序列的Timsort和Power sort两种归并排序改进算法。Timsort通过识别有序片段并启发式合并来提升效率，但存在栈溢出风险；Power sort则通过模拟二叉树合并简化策略，确保栈深度可控。两者均利用数据局部有序性，在稳定性和效率间取得平衡，适用于实际排序需求。
-  - Tags: #read #algo
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (20 entries)
+- [2026-06](202606/monthly-index.md) (21 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
