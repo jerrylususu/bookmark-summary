@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-23) [Riding Technology Waves](202606/2026-06-23-riding-technology-waves.md)
+  - 技术浪潮对企业至关重要，变得越来越大、频繁、突然。需理性评估，避免忽视或盲目跟风。评估时回答四个问题：重要性、运作方式、新功能、业务影响。错过时应承认错误、调配资源、迅速追赶以避免损失。
+  - Tags: #read
+
 - (2026-06-23) [The Coming Loop](202606/2026-06-23-the-coming-loop.md)
   - 当前AI编程出现新趋势：通过外部循环持续调度编码任务，适用于代码移植等机械转换，但应用于核心代码可能导致代码复杂、人类理解减弱，形成对自动化工具的认知依赖。作者呼吁重新设计工具链以保持人类监督与系统可理解性。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 构建健壮智能体的关键是将决策（大脑）与执行（双手）分离：智能体运行在稳定环境，所有命令在可销毁的临时沙箱中执行。此架构提升安全性、灵活性和容错能力，如Hermes Agent和SpriteDoc案例所示。
   - Tags: #read #agent
 
-- (2026-06-16) [I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID.](202606/2026-06-16-i-could%27ve-rickrolled-the-entire-fifa-world-cup.-all-i-needed-was-my-id..md)
-  - 该请求因被视为高风险而被拒绝。
-  - Tags: #read #hack
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (24 entries)
+- [2026-06](202606/monthly-index.md) (25 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
