@@ -12530,5 +12530,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "Prompt Injection as Role Confusion",
+    "url": "https://role-confusion.github.io",
+    "timestamp": 1782225542,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]

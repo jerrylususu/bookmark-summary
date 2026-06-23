@@ -1,5 +1,9 @@
 # 2026-06 Monthly Index
 
+- (2026-06-23) [Prompt Injection as Role Confusion](2026-06-23-prompt-injection-as-role-confusion.md)
+  - 该文指出，大语言模型依赖文本“风格”而非系统标签来感知角色，导致提示注入等安全漏洞。角色标签本用于隔离目标冲突，但现有设计存在缺陷，需通过系统性研究来增强其安全性。
+  - Tags: #read #llm
+
 - (2026-06-23) [Riding Technology Waves](2026-06-23-riding-technology-waves.md)
   - 技术浪潮对企业至关重要，变得越来越大、频繁、突然。需理性评估，避免忽视或盲目跟风。评估时回答四个问题：重要性、运作方式、新功能、业务影响。错过时应承认错误、调配资源、迅速追赶以避免损失。
   - Tags: #read

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-23) [Prompt Injection as Role Confusion](202606/2026-06-23-prompt-injection-as-role-confusion.md)
+  - 该文指出，大语言模型依赖文本“风格”而非系统标签来感知角色，导致提示注入等安全漏洞。角色标签本用于隔离目标冲突，但现有设计存在缺陷，需通过系统性研究来增强其安全性。
+  - Tags: #read #llm
+
 - (2026-06-23) [Riding Technology Waves](202606/2026-06-23-riding-technology-waves.md)
   - 技术浪潮对企业至关重要，变得越来越大、频繁、突然。需理性评估，避免忽视或盲目跟风。评估时回答四个问题：重要性、运作方式、新功能、业务影响。错过时应承认错误、调配资源、迅速追赶以避免损失。
   - Tags: #read
@@ -39,13 +43,9 @@
   - Cloudflare构建了模型无关的自动化漏洞挖掘系统。它由漏洞发现和验证两大流水线构成：发现阶段通过动态威胁建模和沙箱执行主动扫描代码；验证阶段则对结果进行去重、上下文判断和自动修复生成补丁。该系统将海量原始发现压缩为可操作漏洞，显著提升了安全运维效率。
   - Tags: #read #agent #security
 
-- (2026-06-18) [Building Agents that Don't Break Themselves](202606/2026-06-18-building-agents-that-don%27t-break-themselves.md)
-  - 构建健壮智能体的关键是将决策（大脑）与执行（双手）分离：智能体运行在稳定环境，所有命令在可销毁的临时沙箱中执行。此架构提升安全性、灵活性和容错能力，如Hermes Agent和SpriteDoc案例所示。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (25 entries)
+- [2026-06](202606/monthly-index.md) (26 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
