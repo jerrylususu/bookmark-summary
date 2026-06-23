@@ -1,5 +1,9 @@
 # 2026-06 Monthly Index
 
+- (2026-06-23) [The Coming Loop](2026-06-23-the-coming-loop.md)
+  - 当前AI编程出现新趋势：通过外部循环持续调度编码任务，适用于代码移植等机械转换，但应用于核心代码可能导致代码复杂、人类理解减弱，形成对自动化工具的认知依赖。作者呼吁重新设计工具链以保持人类监督与系统可理解性。
+  - Tags: #read #agent
+
 - (2026-06-22) [Notes on the Industry Job Search](2026-06-22-notes-on-the-industry-job-search.md)
   - 该文分享了博士毕业后求职研究科学家岗位的完整经历。面试类型多样，需系统准备与针对性复习。求职过程伴随压力，建议珍惜学术时光，并重视录用后的待遇谈判。
   - Tags: #read

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-23) [The Coming Loop](202606/2026-06-23-the-coming-loop.md)
+  - 当前AI编程出现新趋势：通过外部循环持续调度编码任务，适用于代码移植等机械转换，但应用于核心代码可能导致代码复杂、人类理解减弱，形成对自动化工具的认知依赖。作者呼吁重新设计工具链以保持人类监督与系统可理解性。
+  - Tags: #read #agent
+
 - (2026-06-22) [Notes on the Industry Job Search](202606/2026-06-22-notes-on-the-industry-job-search.md)
   - 该文分享了博士毕业后求职研究科学家岗位的完整经历。面试类型多样，需系统准备与针对性复习。求职过程伴随压力，建议珍惜学术时光，并重视录用后的待遇谈判。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 该请求因被视为高风险而被拒绝。
   - Tags: #read #hack
 
-- (2026-06-15) [Agentic Code Review](202606/2026-06-15-agentic-code-review.md)
-  - AI代码生成加速导致审查成为瓶颈，2026年数据显示审查时间延长、缺陷率上升。文章建议按风险分级审查，结合AI工具与人工决策，构建可信赖体系以应对挑战。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (23 entries)
+- [2026-06](202606/monthly-index.md) (24 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
