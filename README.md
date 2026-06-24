@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-24) [我的 AI Coding Guide - 白宦成](202606/2026-06-24-%E6%88%91%E7%9A%84-ai-coding-guide---%E7%99%BD%E5%AE%A6%E6%88%90.md)
+  - 本文强调AI编程的关键是人从执行者转变为管理者，负责定义目标、设定边界和审查结果。核心原则包括：优先使用强力模型、编写详尽提示词、强制版本控制、建立快速反馈机制，并保持代码简单可控。最终目标是让AI高效执行，同时确保人对决策和代码所有权的掌控。
+  - Tags: #read #agent
+
 - (2026-06-23) [Prompt Injection as Role Confusion](202606/2026-06-23-prompt-injection-as-role-confusion.md)
   - 该文指出，大语言模型依赖文本“风格”而非系统标签来感知角色，导致提示注入等安全漏洞。角色标签本用于隔离目标冲突，但现有设计存在缺陷，需通过系统性研究来增强其安全性。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - AI正重塑软件开发生命周期，将焦点从代码生成转向规范制定与系统验证。“智能体工程”通过严谨的上下文工程与验证，实现长期低成本交付；而“氛围编程”虽易上手，但长期成本高昂。开发流程更趋一体化，质量保障成为驱动改进的核心环节。
   - Tags: #read #agent
 
-- (2026-06-19) [Build your own vulnerability harness](202606/2026-06-19-build-your-own-vulnerability-harness.md)
-  - Cloudflare构建了模型无关的自动化漏洞挖掘系统。它由漏洞发现和验证两大流水线构成：发现阶段通过动态威胁建模和沙箱执行主动扫描代码；验证阶段则对结果进行去重、上下文判断和自动修复生成补丁。该系统将海量原始发现压缩为可操作漏洞，显著提升了安全运维效率。
-  - Tags: #read #agent #security
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (26 entries)
+- [2026-06](202606/monthly-index.md) (27 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
