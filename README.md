@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-24) [I automated my job (and it made me a better leader)](202606/2026-06-24-i-automated-my-job-%28and-it-made-me-a-better-leader%29.md)
+  - 作者Ashley Willis作为GitHub高管，利用GitHub Copilot创建约40个自动化流程，处理信息分散问题。核心自动化包括晨间简报、信息同步等，帮助她应对自闭症挑战，提升工作效率。建议从痛点开始自动化，AI可增强隐形劳动，为领导者创造认知空间。
+  - Tags: #read
+
 - (2026-06-24) [我的 AI Coding Guide - 白宦成](202606/2026-06-24-%E6%88%91%E7%9A%84-ai-coding-guide---%E7%99%BD%E5%AE%A6%E6%88%90.md)
   - 本文强调AI编程的关键是人从执行者转变为管理者，负责定义目标、设定边界和审查结果。核心原则包括：优先使用强力模型、编写详尽提示词、强制版本控制、建立快速反馈机制，并保持代码简单可控。最终目标是让AI高效执行，同时确保人对决策和代码所有权的掌控。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - AI提效可能使高效员工被定位为“执行工具”，陷入零散工作，导致职业瓶颈。文章建议主动转变角色，利用AI提升判断力和战略思考，避免过度执行，以建立长期竞争力。
   - Tags: #read #people
 
-- (2026-06-19) [The New Software Lifecycle](202606/2026-06-19-the-new-software-lifecycle.md)
-  - AI正重塑软件开发生命周期，将焦点从代码生成转向规范制定与系统验证。“智能体工程”通过严谨的上下文工程与验证，实现长期低成本交付；而“氛围编程”虽易上手，但长期成本高昂。开发流程更趋一体化，质量保障成为驱动改进的核心环节。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (27 entries)
+- [2026-06](202606/monthly-index.md) (28 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
