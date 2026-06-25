@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-06-25) [I Zeroized My Secret. Or Did I? | Dmitry Danilov](202606/2026-06-25-i-zeroized-my-secret.-or-did-i-dmitry-danilov.md)
+  - Tags: #read #security
+  - Summary: 虽然 `zeroize` 能可靠清零特定内存，但无法消除数据移动或重分配产生的所有副本，存在残留风险。改进建议包括使用 `Zeroizing<T>` 等包装、避免 Copy trait、减少值移动，并辅以操作系统层保护。
+
 - (2026-06-24) [I automated my job (and it made me a better leader)](202606/2026-06-24-i-automated-my-job-%28and-it-made-me-a-better-leader%29.md)
   - Tags: #read
   - Summary: 作者Ashley Willis作为GitHub高管，利用GitHub Copilot创建约40个自动化流程，处理信息分散问题。核心自动化包括晨间简报、信息同步等，帮助她应对自闭症挑战，提升工作效率。建议从痛点开始自动化，AI可增强隐形劳动，为领导者创造认知空间。

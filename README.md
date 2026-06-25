@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-25) [I Zeroized My Secret. Or Did I? | Dmitry Danilov](202606/2026-06-25-i-zeroized-my-secret.-or-did-i-dmitry-danilov.md)
+  - 虽然 `zeroize` 能可靠清零特定内存，但无法消除数据移动或重分配产生的所有副本，存在残留风险。改进建议包括使用 `Zeroizing<T>` 等包装、避免 Copy trait、减少值移动，并辅以操作系统层保护。
+  - Tags: #read #security
+
 - (2026-06-24) [I automated my job (and it made me a better leader)](202606/2026-06-24-i-automated-my-job-%28and-it-made-me-a-better-leader%29.md)
   - 作者Ashley Willis作为GitHub高管，利用GitHub Copilot创建约40个自动化流程，处理信息分散问题。核心自动化包括晨间简报、信息同步等，帮助她应对自闭症挑战，提升工作效率。建议从痛点开始自动化，AI可增强隐形劳动，为领导者创造认知空间。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 这篇文章探讨了Go语言中nil指针检查的合理使用，指出过多的检查反映代码设计缺陷。建议在构造阶段处理依赖项的nil，避免运行时错误；外部数据应在系统边界验证，确保早期错误处理。通过明确边界和不变量设计，减少不必要的nil检查，使代码更清晰、易维护。
   - Tags: #read
 
-- (2026-06-21) [使用AI十倍提效，成了模范老黄牛，就能加薪升职了？](202606/2026-06-21-%E4%BD%BF%E7%94%A8ai%E5%8D%81%E5%80%8D%E6%8F%90%E6%95%88%EF%BC%8C%E6%88%90%E4%BA%86%E6%A8%A1%E8%8C%83%E8%80%81%E9%BB%84%E7%89%9B%EF%BC%8C%E5%B0%B1%E8%83%BD%E5%8A%A0%E8%96%AA%E5%8D%87%E8%81%8C%E4%BA%86%EF%BC%9F.md)
-  - AI提效可能使高效员工被定位为“执行工具”，陷入零散工作，导致职业瓶颈。文章建议主动转变角色，利用AI提升判断力和战略思考，避免过度执行，以建立长期竞争力。
-  - Tags: #read #people
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (28 entries)
+- [2026-06](202606/monthly-index.md) (29 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)

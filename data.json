@@ -12559,5 +12559,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "I Zeroized My Secret. Or Did I? | Dmitry Danilov",
+    "url": "https://ddanilov.me/zeroize",
+    "timestamp": 1782395273,
+    "tags": [
+      "read",
+      "security"
+    ]
   }
 ]
