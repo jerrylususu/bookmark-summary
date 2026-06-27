@@ -1,8 +1,12 @@
 # All Bookmarks Summary
 
+- (2026-06-27) [Hey, N00b, We Didn't Hire You to Complete Tasks](202606/2026-06-27-hey%2C-n00b%2C-we-didn%27t-hire-you-to-complete-tasks.md)
+  - Tags: #read #people
+  - Summary: 资深工程师视角下，新工程师被分为A、B、C三类。公司最看重的是成长潜力和长期价值，而非单纯任务完成量。合格线（B类）要求可靠执行，而卓越表现（A类）需主动思考、学习创新并影响团队，这些额外投入被视为对未来的重要投资。
+
 - (2026-06-25) [I Zeroized My Secret. Or Did I? | Dmitry Danilov](202606/2026-06-25-i-zeroized-my-secret.-or-did-i-dmitry-danilov.md)
   - Tags: #read #security
-  - Summary: 虽然 `zeroize` 能可靠清零特定内存，但无法消除数据移动或重分配产生的所有副本，存在残留风险。改进建议包括使用 `Zeroizing<T>` 等包装、避免 Copy trait、减少值移动，并辅以操作系统层保护。
+  - Summary: 虽然  能可靠清零特定内存，但无法消除数据移动或重分配产生的所有副本，存在残留风险。改进建议包括使用  等包装、避免 Copy trait、减少值移动，并辅以操作系统层保护。
 
 - (2026-06-24) [I automated my job (and it made me a better leader)](202606/2026-06-24-i-automated-my-job-%28and-it-made-me-a-better-leader%29.md)
   - Tags: #read

@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-27) [Hey, N00b, We Didn't Hire You to Complete Tasks](202606/2026-06-27-hey%2C-n00b%2C-we-didn%27t-hire-you-to-complete-tasks.md)
+  - 资深工程师视角下，新工程师被分为A、B、C三类。公司最看重的是成长潜力和长期价值，而非单纯任务完成量。合格线（B类）要求可靠执行，而卓越表现（A类）需主动思考、学习创新并影响团队，这些额外投入被视为对未来的重要投资。
+  - Tags: #read #people
+
 - (2026-06-25) [I Zeroized My Secret. Or Did I? | Dmitry Danilov](202606/2026-06-25-i-zeroized-my-secret.-or-did-i-dmitry-danilov.md)
-  - 虽然 `zeroize` 能可靠清零特定内存，但无法消除数据移动或重分配产生的所有副本，存在残留风险。改进建议包括使用 `Zeroizing<T>` 等包装、避免 Copy trait、减少值移动，并辅以操作系统层保护。
+  - 虽然  能可靠清零特定内存，但无法消除数据移动或重分配产生的所有副本，存在残留风险。改进建议包括使用  等包装、避免 Copy trait、减少值移动，并辅以操作系统层保护。
   - Tags: #read #security
 
 - (2026-06-24) [I automated my job (and it made me a better leader)](202606/2026-06-24-i-automated-my-job-%28and-it-made-me-a-better-leader%29.md)
@@ -39,13 +43,9 @@
   - 本文介绍了七个提升Python脚本质量的实用技巧，包括内联声明依赖、安全存储密钥、区分输出与日志、文档化环境变量、支持管道输入、规范退出码与异常处理，以及按优先级加载配置。强调简单脚本应避免过度设计，可按需选用这些实践，并借助工具简化配置管理。
   - Tags: #read #guide #python
 
-- (2026-06-21) [Excessive nil pointer checks in Go](202606/2026-06-21-excessive-nil-pointer-checks-in-go.md)
-  - 这篇文章探讨了Go语言中nil指针检查的合理使用，指出过多的检查反映代码设计缺陷。建议在构造阶段处理依赖项的nil，避免运行时错误；外部数据应在系统边界验证，确保早期错误处理。通过明确边界和不变量设计，减少不必要的nil检查，使代码更清晰、易维护。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (29 entries)
+- [2026-06](202606/monthly-index.md) (30 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)
