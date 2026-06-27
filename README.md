@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-27) [How I Left YouTube](202606/2026-06-27-how-i-left-youtube.md)
+  - 本文讲述作者在YouTube晋升受阻后主动离职，通过跨级面试在新公司寻求职级与能力匹配的经历。他在求职中面临在职压力、保密协议限制及多轮面试挑战，最终感悟到：大厂光环并非保障，个人价值需通过市场检验，适时离开或能获得更大成长空间。
+  - Tags: #read #career
+
 - (2026-06-27) [Hey, N00b, We Didn't Hire You to Complete Tasks](202606/2026-06-27-hey%2C-n00b%2C-we-didn%27t-hire-you-to-complete-tasks.md)
   - 资深工程师视角下，新工程师被分为A、B、C三类。公司最看重的是成长潜力和长期价值，而非单纯任务完成量。合格线（B类）要求可靠执行，而卓越表现（A类）需主动思考、学习创新并影响团队，这些额外投入被视为对未来的重要投资。
   - Tags: #read #people
@@ -39,13 +43,9 @@
   - 作者长期受过敏性鼻炎和鼻中隔偏曲困扰，尝试过口罩和药物但效果有限。重点测评了通气鼻贴和鼻内扩张器两类工具：鼻贴能快速扩张鼻腔、改善呼吸和睡眠，但易脱落且可能刺激皮肤；鼻内扩张器经济但存在异物感和疼痛问题。目前采用鼻贴与扩张器轮换使用，因恐惧暂未选择手术。
   - Tags: #read #tips
 
-- (2026-06-22) [Scripting good practices in Python](202606/2026-06-22-scripting-good-practices-in-python.md)
-  - 本文介绍了七个提升Python脚本质量的实用技巧，包括内联声明依赖、安全存储密钥、区分输出与日志、文档化环境变量、支持管道输入、规范退出码与异常处理，以及按优先级加载配置。强调简单脚本应避免过度设计，可按需选用这些实践，并借助工具简化配置管理。
-  - Tags: #read #guide #python
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (30 entries)
+- [2026-06](202606/monthly-index.md) (31 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)

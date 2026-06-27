@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-06-27) [How I Left YouTube](202606/2026-06-27-how-i-left-youtube.md)
+  - Tags: #read #career
+  - Summary: 本文讲述作者在YouTube晋升受阻后主动离职，通过跨级面试在新公司寻求职级与能力匹配的经历。他在求职中面临在职压力、保密协议限制及多轮面试挑战，最终感悟到：大厂光环并非保障，个人价值需通过市场检验，适时离开或能获得更大成长空间。
+
 - (2026-06-27) [Hey, N00b, We Didn't Hire You to Complete Tasks](202606/2026-06-27-hey%2C-n00b%2C-we-didn%27t-hire-you-to-complete-tasks.md)
   - Tags: #read #people
   - Summary: 资深工程师视角下，新工程师被分为A、B、C三类。公司最看重的是成长潜力和长期价值，而非单纯任务完成量。合格线（B类）要求可靠执行，而卓越表现（A类）需主动思考、学习创新并影响团队，这些额外投入被视为对未来的重要投资。
