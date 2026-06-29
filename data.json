@@ -12589,5 +12589,15 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202606",
+    "title": "Do excellent vulnerability reports",
+    "url": "https://daniel.haxx.se/blog/2026/06/29/do-excellent-vulnerability-reports/",
+    "timestamp": 1782741435,
+    "tags": [
+      "read",
+      "security"
+    ]
   }
 ]

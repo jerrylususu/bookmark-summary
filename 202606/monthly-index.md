@@ -1,5 +1,9 @@
 # 2026-06 Monthly Index
 
+- (2026-06-29) [Do excellent vulnerability reports](2026-06-29-do-excellent-vulnerability-reports.md)
+  - 基于curl项目漏洞报告经验，优秀报告需明确报告者定位、确认漏洞真实存在、遵循提交渠道、提供简洁概要、可复现脚本和补丁、基于最新版本、保持沟通协作，并促进持续学习改进。
+  - Tags: #read #security
+
 - (2026-06-27) [How I Left YouTube](2026-06-27-how-i-left-youtube.md)
   - 本文讲述作者在YouTube晋升受阻后主动离职，通过跨级面试在新公司寻求职级与能力匹配的经历。他在求职中面临在职压力、保密协议限制及多轮面试挑战，最终感悟到：大厂光环并非保障，个人价值需通过市场检验，适时离开或能获得更大成长空间。
   - Tags: #read #career
