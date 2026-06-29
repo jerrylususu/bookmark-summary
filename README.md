@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-06-29) [AI loops: who pays for the tokens?](202606/2026-06-29-ai-loops-who-pays-for-the-tokens.md)
+  - 本文指出AI循环工程趋势中，成本考量常被忽视，因倡导者多享免费资源。作者通过付费场景下的高额开销实例，揭示该模式潜在浪费，并质疑厂商推广动机，建议读者结合自身成本敏感度批判性采纳。
+  - Tags: #read #agent
+
 - (2026-06-29) [Do excellent vulnerability reports](202606/2026-06-29-do-excellent-vulnerability-reports.md)
   - 基于curl项目漏洞报告经验，优秀报告需明确报告者定位、确认漏洞真实存在、遵循提交渠道、提供简洁概要、可复现脚本和补丁、基于最新版本、保持沟通协作，并促进持续学习改进。
   - Tags: #read #security
@@ -39,13 +43,9 @@
   - 当前AI编程出现新趋势：通过外部循环持续调度编码任务，适用于代码移植等机械转换，但应用于核心代码可能导致代码复杂、人类理解减弱，形成对自动化工具的认知依赖。作者呼吁重新设计工具链以保持人类监督与系统可理解性。
   - Tags: #read #agent
 
-- (2026-06-22) [Notes on the Industry Job Search](202606/2026-06-22-notes-on-the-industry-job-search.md)
-  - 该文分享了博士毕业后求职研究科学家岗位的完整经历。面试类型多样，需系统准备与针对性复习。求职过程伴随压力，建议珍惜学术时光，并重视录用后的待遇谈判。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-06](202606/monthly-index.md) (32 entries)
+- [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
 - [2026-03](202603/monthly-index.md) (70 entries)

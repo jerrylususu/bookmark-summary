@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-06-29) [AI loops: who pays for the tokens?](202606/2026-06-29-ai-loops-who-pays-for-the-tokens.md)
+  - Tags: #read #agent
+  - Summary: 本文指出AI循环工程趋势中，成本考量常被忽视，因倡导者多享免费资源。作者通过付费场景下的高额开销实例，揭示该模式潜在浪费，并质疑厂商推广动机，建议读者结合自身成本敏感度批判性采纳。
+
 - (2026-06-29) [Do excellent vulnerability reports](202606/2026-06-29-do-excellent-vulnerability-reports.md)
   - Tags: #read #security
   - Summary: 基于curl项目漏洞报告经验，优秀报告需明确报告者定位、确认漏洞真实存在、遵循提交渠道、提供简洁概要、可复现脚本和补丁、基于最新版本、保持沟通协作，并促进持续学习改进。
