@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-07-02) [Your Show HN dies in 7 hours — jonno.nz](202607/2026-07-02-your-show-hn-dies-in-7-hours-%E2%80%94-jonno.nz.md)
+  - Tags: #read
+  - Summary: 一项对4万篇Show HN帖子的研究显示，关注度呈幂律分布且衰减极快，讨论半衰期中位数仅7.2小时。发布只是短暂瞬间，持续输出和社区参与才是长期增长关键。
+
 - (2026-06-29) [AI loops: who pays for the tokens?](202606/2026-06-29-ai-loops-who-pays-for-the-tokens.md)
   - Tags: #read #agent
   - Summary: 本文指出AI循环工程趋势中，成本考量常被忽视，因倡导者多享免费资源。作者通过付费场景下的高额开销实例，揭示该模式潜在浪费，并质疑厂商推广动机，建议读者结合自身成本敏感度批判性采纳。

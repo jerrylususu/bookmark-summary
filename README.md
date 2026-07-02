@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-02) [Your Show HN dies in 7 hours — jonno.nz](202607/2026-07-02-your-show-hn-dies-in-7-hours-%E2%80%94-jonno.nz.md)
+  - 一项对4万篇Show HN帖子的研究显示，关注度呈幂律分布且衰减极快，讨论半衰期中位数仅7.2小时。发布只是短暂瞬间，持续输出和社区参与才是长期增长关键。
+  - Tags: #read
+
 - (2026-06-29) [AI loops: who pays for the tokens?](202606/2026-06-29-ai-loops-who-pays-for-the-tokens.md)
   - 本文指出AI循环工程趋势中，成本考量常被忽视，因倡导者多享免费资源。作者通过付费场景下的高额开销实例，揭示该模式潜在浪费，并质疑厂商推广动机，建议读者结合自身成本敏感度批判性采纳。
   - Tags: #read #agent
@@ -39,12 +43,9 @@
   - 技术浪潮对企业至关重要，变得越来越大、频繁、突然。需理性评估，避免忽视或盲目跟风。评估时回答四个问题：重要性、运作方式、新功能、业务影响。错过时应承认错误、调配资源、迅速追赶以避免损失。
   - Tags: #read
 
-- (2026-06-23) [The Coming Loop](202606/2026-06-23-the-coming-loop.md)
-  - 当前AI编程出现新趋势：通过外部循环持续调度编码任务，适用于代码移植等机械转换，但应用于核心代码可能导致代码复杂、人类理解减弱，形成对自动化工具的认知依赖。作者呼吁重新设计工具链以保持人类监督与系统可理解性。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
+- [2026-07](202607/monthly-index.md) (1 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
