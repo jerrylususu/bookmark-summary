@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-07-03) [Markdown's Big Brother: Say Hello to AsciiDoc](202607/2026-07-03-markdown%27s-big-brother-say-hello-to-asciidoc.md)
+  - Tags: #read #tips
+  - Summary: 文章介绍AsciiDoc标记语言，它比Markdown更强，原生支持表格、条件输出等高级功能，支持模块化与变量重用。结合adoc Studio和Git，可高效协作、一键导出多格式，实现文档即代码。
+
 - (2026-07-03) [Design Patterns Suck](202607/2026-07-03-design-patterns-suck.md)
   - Tags: #read
   - Summary: 本文批评将设计模式奉为教条，指出多数模式只是弥补语言表达力不足的补丁。在灵活语言中它们自然消失，其唯一价值是作为团队沟通术语。真正的好设计在于简洁直接。

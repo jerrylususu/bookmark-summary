@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-03) [Markdown's Big Brother: Say Hello to AsciiDoc](202607/2026-07-03-markdown%27s-big-brother-say-hello-to-asciidoc.md)
+  - 文章介绍AsciiDoc标记语言，它比Markdown更强，原生支持表格、条件输出等高级功能，支持模块化与变量重用。结合adoc Studio和Git，可高效协作、一键导出多格式，实现文档即代码。
+  - Tags: #read #tips
+
 - (2026-07-03) [Design Patterns Suck](202607/2026-07-03-design-patterns-suck.md)
   - 本文批评将设计模式奉为教条，指出多数模式只是弥补语言表达力不足的补丁。在灵活语言中它们自然消失，其唯一价值是作为团队沟通术语。真正的好设计在于简洁直接。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 资深工程师视角下，新工程师被分为A、B、C三类。公司最看重的是成长潜力和长期价值，而非单纯任务完成量。合格线（B类）要求可靠执行，而卓越表现（A类）需主动思考、学习创新并影响团队，这些额外投入被视为对未来的重要投资。
   - Tags: #read #people
 
-- (2026-06-25) [I Zeroized My Secret. Or Did I? | Dmitry Danilov](202606/2026-06-25-i-zeroized-my-secret.-or-did-i-dmitry-danilov.md)
-  - 虽然  能可靠清零特定内存，但无法消除数据移动或重分配产生的所有副本，存在残留风险。改进建议包括使用  等包装、避免 Copy trait、减少值移动，并辅以操作系统层保护。
-  - Tags: #read #security
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (5 entries)
+- [2026-07](202607/monthly-index.md) (6 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
