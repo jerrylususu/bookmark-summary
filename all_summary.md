@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-07-03) [Design Patterns Suck](202607/2026-07-03-design-patterns-suck.md)
+  - Tags: #read
+  - Summary: 本文批评将设计模式奉为教条，指出多数模式只是弥补语言表达力不足的补丁。在灵活语言中它们自然消失，其唯一价值是作为团队沟通术语。真正的好设计在于简洁直接。
+
 - (2026-07-03) [Group chats rule the world](202607/2026-07-03-group-chats-rule-the-world.md)
   - Tags: #read #people
   - Summary: 科技圈讨论正从公开平台转入私密群聊，如同餐厅后厨与永不打烊的晚宴。好的群聊需园丁式管理、精细配客、冷却棒调控、规模修剪和共同仪式，核心在于持续注入新意与幽默。

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-03) [Design Patterns Suck](202607/2026-07-03-design-patterns-suck.md)
+  - 本文批评将设计模式奉为教条，指出多数模式只是弥补语言表达力不足的补丁。在灵活语言中它们自然消失，其唯一价值是作为团队沟通术语。真正的好设计在于简洁直接。
+  - Tags: #read
+
 - (2026-07-03) [Group chats rule the world](202607/2026-07-03-group-chats-rule-the-world.md)
   - 科技圈讨论正从公开平台转入私密群聊，如同餐厅后厨与永不打烊的晚宴。好的群聊需园丁式管理、精细配客、冷却棒调控、规模修剪和共同仪式，核心在于持续注入新意与幽默。
   - Tags: #read #people
@@ -39,13 +43,9 @@
   - 虽然  能可靠清零特定内存，但无法消除数据移动或重分配产生的所有副本，存在残留风险。改进建议包括使用  等包装、避免 Copy trait、减少值移动，并辅以操作系统层保护。
   - Tags: #read #security
 
-- (2026-06-24) [I automated my job (and it made me a better leader)](202606/2026-06-24-i-automated-my-job-%28and-it-made-me-a-better-leader%29.md)
-  - 作者Ashley Willis作为GitHub高管，利用GitHub Copilot创建约40个自动化流程，处理信息分散问题。核心自动化包括晨间简报、信息同步等，帮助她应对自闭症挑战，提升工作效率。建议从痛点开始自动化，AI可增强隐形劳动，为领导者创造认知空间。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (4 entries)
+- [2026-07](202607/monthly-index.md) (5 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
