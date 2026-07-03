@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-03) [这四个工作习惯，或许也能帮你找到掌控感 - 少数派](202607/2026-07-03-%E8%BF%99%E5%9B%9B%E4%B8%AA%E5%B7%A5%E4%BD%9C%E4%B9%A0%E6%83%AF%EF%BC%8C%E6%88%96%E8%AE%B8%E4%B9%9F%E8%83%BD%E5%B8%AE%E4%BD%A0%E6%89%BE%E5%88%B0%E6%8E%8C%E6%8E%A7%E6%84%9F---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
+  - 本文讲述一职场新人两年半连升两级，秘诀在于把自己当作系统来运营。她建立工作日记与复盘、人脉维护、影响力建设、安全网四大习惯，将焦虑转化为可掌控的路径，最终获得职业安全感。
+  - Tags: #read
+
 - (2026-07-02) [Text AI watermarks will always be trivial to remove](202607/2026-07-02-text-ai-watermarks-will-always-be-trivial-to-remove.md)
   - 欧盟《人工智能法案》要求AI内容可检测，但文本水印技术如SynthID易被去除，且互操作性与安全性难以两全，最终约束力有限。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文强调AI编程的关键是人从执行者转变为管理者，负责定义目标、设定边界和审查结果。核心原则包括：优先使用强力模型、编写详尽提示词、强制版本控制、建立快速反馈机制，并保持代码简单可控。最终目标是让AI高效执行，同时确保人对决策和代码所有权的掌控。
   - Tags: #read #agent
 
-- (2026-06-23) [Prompt Injection as Role Confusion](202606/2026-06-23-prompt-injection-as-role-confusion.md)
-  - 该文指出，大语言模型依赖文本“风格”而非系统标签来感知角色，导致提示注入等安全漏洞。角色标签本用于隔离目标冲突，但现有设计存在缺陷，需通过系统性研究来增强其安全性。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (2 entries)
+- [2026-07](202607/monthly-index.md) (3 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
