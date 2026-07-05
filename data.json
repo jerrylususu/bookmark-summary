@@ -12665,5 +12665,15 @@
       "read",
       "tips"
     ]
+  },
+  {
+    "month": "202607",
+    "title": "[译] 大模型训练的中场叙事：从 Reasoning Thinking 转向 Agentic Thinking (2026)",
+    "url": "https://arthurchiao.art/blog/from-reasoning-thinking-to-agentic-thinking-zh/",
+    "timestamp": 1783237136,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]

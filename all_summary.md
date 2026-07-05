@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-07-05) [[译] 大模型训练的中场叙事：从 Reasoning Thinking 转向 Agentic Thinking (2026)](202607/2026-07-05-%5B%E8%AF%91%5D-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E7%9A%84%E4%B8%AD%E5%9C%BA%E5%8F%99%E4%BA%8B%EF%BC%9A%E4%BB%8E-reasoning-thinking-%E8%BD%AC%E5%90%91-agentic-thinking-%282026%29.md)
+  - Tags: #read #agent
+  - Summary: 文章指出，大模型焦点从深度推理转向智能体式行动，思考围绕行动展开；训练重心从模型本身转向模型与环境的闭环；基础设施和奖励设计是新挑战。
+
 - (2026-07-03) [Markdown's Big Brother: Say Hello to AsciiDoc](202607/2026-07-03-markdown%27s-big-brother-say-hello-to-asciidoc.md)
   - Tags: #read #tips
   - Summary: 文章介绍AsciiDoc标记语言，它比Markdown更强，原生支持表格、条件输出等高级功能，支持模块化与变量重用。结合adoc Studio和Git，可高效协作、一键导出多格式，实现文档即代码。
