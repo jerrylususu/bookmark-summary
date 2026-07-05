@@ -12675,5 +12675,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202607",
+    "title": "Better Models: Worse Tools",
+    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+    "timestamp": 1783237452,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]
