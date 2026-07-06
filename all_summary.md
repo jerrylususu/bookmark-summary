@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-07-06) [Vibe Coding 时代的角色与架构](202607/2026-07-06-vibe-coding-%E6%97%B6%E4%BB%A3%E7%9A%84%E8%A7%92%E8%89%B2%E4%B8%8E%E6%9E%B6%E6%9E%84.md)
+  - Tags: #read #agent
+  - Summary: AI辅助编程快速但不可替代思考、架构与协作；省时若不用来强化质量，反而加速代码腐化。人的共情、责任与系统掌控力无法被替代，真正的价值在于提出好问题、把控设计方向。
+
 - (2026-07-05) [Better Models: Worse Tools](202607/2026-07-05-better-models-worse-tools.md)
   - Tags: #read #agent
   - Summary: 新 Claude 模型调用 Pi 工具时，常添加虚构字段导致格式错误，但内容正确。原因在于后训练过度适应 Claude Code 工具生态，对非标准 schema 适应性变差。启用严格模式或主动贴合主流惯例可缓解问题。

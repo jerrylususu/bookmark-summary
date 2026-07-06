@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-06) [Vibe Coding 时代的角色与架构](202607/2026-07-06-vibe-coding-%E6%97%B6%E4%BB%A3%E7%9A%84%E8%A7%92%E8%89%B2%E4%B8%8E%E6%9E%B6%E6%9E%84.md)
+  - AI辅助编程快速但不可替代思考、架构与协作；省时若不用来强化质量，反而加速代码腐化。人的共情、责任与系统掌控力无法被替代，真正的价值在于提出好问题、把控设计方向。
+  - Tags: #read #agent
+
 - (2026-07-05) [Better Models: Worse Tools](202607/2026-07-05-better-models-worse-tools.md)
   - 新 Claude 模型调用 Pi 工具时，常添加虚构字段导致格式错误，但内容正确。原因在于后训练过度适应 Claude Code 工具生态，对非标准 schema 适应性变差。启用严格模式或主动贴合主流惯例可缓解问题。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文指出AI循环工程趋势中，成本考量常被忽视，因倡导者多享免费资源。作者通过付费场景下的高额开销实例，揭示该模式潜在浪费，并质疑厂商推广动机，建议读者结合自身成本敏感度批判性采纳。
   - Tags: #read #agent
 
-- (2026-06-29) [Do excellent vulnerability reports](202606/2026-06-29-do-excellent-vulnerability-reports.md)
-  - 基于curl项目漏洞报告经验，优秀报告需明确报告者定位、确认漏洞真实存在、遵循提交渠道、提供简洁概要、可复现脚本和补丁、基于最新版本、保持沟通协作，并促进持续学习改进。
-  - Tags: #read #security
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (8 entries)
+- [2026-07](202607/monthly-index.md) (9 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
