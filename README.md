@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-07) [Agentic Autonomy Levels](202607/2026-07-07-agentic-autonomy-levels.md)
+  - 文章提出AI智能体自主性与编排双维六级框架，强调根据任务风险与可逆性校准自主性，并以证据验证为基础实现安全演进。
+  - Tags: #read #agent
+
 - (2026-07-07) [The Agent-Era Career](202607/2026-07-07-the-agent-era-career.md)
   - 本文指出，AI 擅长标准答案，而职业未来在于无标准答案之事：选择正确问题、判断产出好坏、承担最终责任，并在 AI 能力边界外继续深耕。专注不可自动化、不可打分的“难事”，是工程师最重要的策略。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 欧盟《人工智能法案》要求AI内容可检测，但文本水印技术如SynthID易被去除，且互操作性与安全性难以两全，最终约束力有限。
   - Tags: #read
 
-- (2026-07-02) [Your Show HN dies in 7 hours — jonno.nz](202607/2026-07-02-your-show-hn-dies-in-7-hours-%E2%80%94-jonno.nz.md)
-  - 一项对4万篇Show HN帖子的研究显示，关注度呈幂律分布且衰减极快，讨论半衰期中位数仅7.2小时。发布只是短暂瞬间，持续输出和社区参与才是长期增长关键。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (10 entries)
+- [2026-07](202607/monthly-index.md) (11 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)

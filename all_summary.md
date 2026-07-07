@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-07-07) [Agentic Autonomy Levels](202607/2026-07-07-agentic-autonomy-levels.md)
+  - Tags: #read #agent
+  - Summary: 文章提出AI智能体自主性与编排双维六级框架，强调根据任务风险与可逆性校准自主性，并以证据验证为基础实现安全演进。
+
 - (2026-07-07) [The Agent-Era Career](202607/2026-07-07-the-agent-era-career.md)
   - Tags: #read #career
   - Summary: 本文指出，AI 擅长标准答案，而职业未来在于无标准答案之事：选择正确问题、判断产出好坏、承担最终责任，并在 AI 能力边界外继续深耕。专注不可自动化、不可打分的“难事”，是工程师最重要的策略。

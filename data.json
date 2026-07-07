@@ -12705,5 +12705,15 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202607",
+    "title": "Agentic Autonomy Levels",
+    "url": "https://addyosmani.com/blog/agentic-autonomy-levels/",
+    "timestamp": 1783431638,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]
