@@ -1,5 +1,9 @@
 # 2026-07 Monthly Index
 
+- (2026-07-09) [Rewriting Bun in Rust | Bun Blog](2026-07-09-rewriting-bun-in-rust-bun-blog.md)
+  - Bun团队利用Claude AI在11天内将50余万行Zig代码重写为Rust，通过全部测试并根除内存安全问题，总费用16.5万美元。
+  - Tags: #read #agent #deepdive
+
 - (2026-07-09) [Clickhouse is winning the Observability Wars](2026-07-09-clickhouse-is-winning-the-observability-wars.md)
   - 作者认为ClickHouse在日志可观测性中胜出，因其列式存储、高压缩比和线性扩展能力。无论数据量从1TB到10TB/日，架构几乎不变，成本可控，而其他方案或架构畸形或成本失控。前期付出换来长期简单，使其能随团队共同成长。
   - Tags: #read #arch #observability

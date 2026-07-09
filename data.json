@@ -12726,5 +12726,16 @@
       "arch",
       "observability"
     ]
+  },
+  {
+    "month": "202607",
+    "title": "Rewriting Bun in Rust | Bun Blog",
+    "url": "https://bun.com/blog/bun-in-rust",
+    "timestamp": 1783604560,
+    "tags": [
+      "read",
+      "agent",
+      "deepdive"
+    ]
   }
 ]

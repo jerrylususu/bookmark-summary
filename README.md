@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-09) [Rewriting Bun in Rust | Bun Blog](202607/2026-07-09-rewriting-bun-in-rust-bun-blog.md)
+  - Bun团队利用Claude AI在11天内将50余万行Zig代码重写为Rust，通过全部测试并根除内存安全问题，总费用16.5万美元。
+  - Tags: #read #agent #deepdive
+
 - (2026-07-09) [Clickhouse is winning the Observability Wars](202607/2026-07-09-clickhouse-is-winning-the-observability-wars.md)
   - 作者认为ClickHouse在日志可观测性中胜出，因其列式存储、高压缩比和线性扩展能力。无论数据量从1TB到10TB/日，架构几乎不变，成本可控，而其他方案或架构畸形或成本失控。前期付出换来长期简单，使其能随团队共同成长。
   - Tags: #read #arch #observability
@@ -39,13 +43,9 @@
   - 科技圈讨论正从公开平台转入私密群聊，如同餐厅后厨与永不打烊的晚宴。好的群聊需园丁式管理、精细配客、冷却棒调控、规模修剪和共同仪式，核心在于持续注入新意与幽默。
   - Tags: #read #people
 
-- (2026-07-03) [这四个工作习惯，或许也能帮你找到掌控感 - 少数派](202607/2026-07-03-%E8%BF%99%E5%9B%9B%E4%B8%AA%E5%B7%A5%E4%BD%9C%E4%B9%A0%E6%83%AF%EF%BC%8C%E6%88%96%E8%AE%B8%E4%B9%9F%E8%83%BD%E5%B8%AE%E4%BD%A0%E6%89%BE%E5%88%B0%E6%8E%8C%E6%8E%A7%E6%84%9F---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
-  - 本文讲述一职场新人两年半连升两级，秘诀在于把自己当作系统来运营。她建立工作日记与复盘、人脉维护、影响力建设、安全网四大习惯，将焦虑转化为可掌控的路径，最终获得职业安全感。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (12 entries)
+- [2026-07](202607/monthly-index.md) (13 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
