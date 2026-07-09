@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-09) [Clickhouse is winning the Observability Wars](202607/2026-07-09-clickhouse-is-winning-the-observability-wars.md)
+  - 作者认为ClickHouse在日志可观测性中胜出，因其列式存储、高压缩比和线性扩展能力。无论数据量从1TB到10TB/日，架构几乎不变，成本可控，而其他方案或架构畸形或成本失控。前期付出换来长期简单，使其能随团队共同成长。
+  - Tags: #read #arch #observability
+
 - (2026-07-07) [Agentic Autonomy Levels](202607/2026-07-07-agentic-autonomy-levels.md)
   - 文章提出AI智能体自主性与编排双维六级框架，强调根据任务风险与可逆性校准自主性，并以证据验证为基础实现安全演进。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 本文讲述一职场新人两年半连升两级，秘诀在于把自己当作系统来运营。她建立工作日记与复盘、人脉维护、影响力建设、安全网四大习惯，将焦虑转化为可掌控的路径，最终获得职业安全感。
   - Tags: #read
 
-- (2026-07-02) [Text AI watermarks will always be trivial to remove](202607/2026-07-02-text-ai-watermarks-will-always-be-trivial-to-remove.md)
-  - 欧盟《人工智能法案》要求AI内容可检测，但文本水印技术如SynthID易被去除，且互操作性与安全性难以两全，最终约束力有限。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (11 entries)
+- [2026-07](202607/monthly-index.md) (12 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)

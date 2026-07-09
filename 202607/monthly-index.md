@@ -1,5 +1,9 @@
 # 2026-07 Monthly Index
 
+- (2026-07-09) [Clickhouse is winning the Observability Wars](2026-07-09-clickhouse-is-winning-the-observability-wars.md)
+  - 作者认为ClickHouse在日志可观测性中胜出，因其列式存储、高压缩比和线性扩展能力。无论数据量从1TB到10TB/日，架构几乎不变，成本可控，而其他方案或架构畸形或成本失控。前期付出换来长期简单，使其能随团队共同成长。
+  - Tags: #read #arch #observability
+
 - (2026-07-07) [Agentic Autonomy Levels](2026-07-07-agentic-autonomy-levels.md)
   - 文章提出AI智能体自主性与编排双维六级框架，强调根据任务风险与可逆性校准自主性，并以证据验证为基础实现安全演进。
   - Tags: #read #agent
