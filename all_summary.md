@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-07-10) [Sneakerweb：互联网的脆弱与韧性](202607/2026-07-10-sneakerweb%EF%BC%9A%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E8%84%86%E5%BC%B1%E4%B8%8E%E9%9F%A7%E6%80%A7.md)
+  - Tags: #read
+  - Summary: 作者从数字内容所有权流失的忧虑出发，介绍了 Sneakerweb 项目：通过离线打包与点对点协议，让网站脱离服务器，读者可真正拥有并永久保存内容，构建信息永续流动的分布式网络。
+
 - (2026-07-09) [Rewriting Bun in Rust | Bun Blog](202607/2026-07-09-rewriting-bun-in-rust-bun-blog.md)
   - Tags: #read #agent #deepdive
   - Summary: Bun团队利用Claude AI在11天内将50余万行Zig代码重写为Rust，通过全部测试并根除内存安全问题，总费用16.5万美元。

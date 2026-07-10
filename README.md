@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-10) [Sneakerweb：互联网的脆弱与韧性](202607/2026-07-10-sneakerweb%EF%BC%9A%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E8%84%86%E5%BC%B1%E4%B8%8E%E9%9F%A7%E6%80%A7.md)
+  - 作者从数字内容所有权流失的忧虑出发，介绍了 Sneakerweb 项目：通过离线打包与点对点协议，让网站脱离服务器，读者可真正拥有并永久保存内容，构建信息永续流动的分布式网络。
+  - Tags: #read
+
 - (2026-07-09) [Rewriting Bun in Rust | Bun Blog](202607/2026-07-09-rewriting-bun-in-rust-bun-blog.md)
   - Bun团队利用Claude AI在11天内将50余万行Zig代码重写为Rust，通过全部测试并根除内存安全问题，总费用16.5万美元。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - 本文批评将设计模式奉为教条，指出多数模式只是弥补语言表达力不足的补丁。在灵活语言中它们自然消失，其唯一价值是作为团队沟通术语。真正的好设计在于简洁直接。
   - Tags: #read
 
-- (2026-07-03) [Group chats rule the world](202607/2026-07-03-group-chats-rule-the-world.md)
-  - 科技圈讨论正从公开平台转入私密群聊，如同餐厅后厨与永不打烊的晚宴。好的群聊需园丁式管理、精细配客、冷却棒调控、规模修剪和共同仪式，核心在于持续注入新意与幽默。
-  - Tags: #read #people
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (13 entries)
+- [2026-07](202607/monthly-index.md) (14 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
