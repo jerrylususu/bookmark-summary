@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-11) [In defense of not understanding your codebase](202607/2026-07-11-in-defense-of-not-understanding-your-codebase.md)
+  - 本文批判了“工程师必须彻底理解代码库”的传统观念，指出在大型系统中完全理解不现实，部分理解才是常态。作者反驳了 Peter Naur 的“理论构建”说，强调在不确定性中做出决策的能力比追求虚幻的完全掌握更重要。
+  - Tags: #read
+
 - (2026-07-10) [Sneakerweb：互联网的脆弱与韧性](202607/2026-07-10-sneakerweb%EF%BC%9A%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E8%84%86%E5%BC%B1%E4%B8%8E%E9%9F%A7%E6%80%A7.md)
   - 作者从数字内容所有权流失的忧虑出发，介绍了 Sneakerweb 项目：通过离线打包与点对点协议，让网站脱离服务器，读者可真正拥有并永久保存内容，构建信息永续流动的分布式网络。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章介绍AsciiDoc标记语言，它比Markdown更强，原生支持表格、条件输出等高级功能，支持模块化与变量重用。结合adoc Studio和Git，可高效协作、一键导出多格式，实现文档即代码。
   - Tags: #read #tips
 
-- (2026-07-03) [Design Patterns Suck](202607/2026-07-03-design-patterns-suck.md)
-  - 本文批评将设计模式奉为教条，指出多数模式只是弥补语言表达力不足的补丁。在灵活语言中它们自然消失，其唯一价值是作为团队沟通术语。真正的好设计在于简洁直接。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (14 entries)
+- [2026-07](202607/monthly-index.md) (15 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)

@@ -1,5 +1,9 @@
 # 2026-07 Monthly Index
 
+- (2026-07-11) [In defense of not understanding your codebase](2026-07-11-in-defense-of-not-understanding-your-codebase.md)
+  - 本文批判了“工程师必须彻底理解代码库”的传统观念，指出在大型系统中完全理解不现实，部分理解才是常态。作者反驳了 Peter Naur 的“理论构建”说，强调在不确定性中做出决策的能力比追求虚幻的完全掌握更重要。
+  - Tags: #read
+
 - (2026-07-10) [Sneakerweb：互联网的脆弱与韧性](2026-07-10-sneakerweb%EF%BC%9A%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E8%84%86%E5%BC%B1%E4%B8%8E%E9%9F%A7%E6%80%A7.md)
   - 作者从数字内容所有权流失的忧虑出发，介绍了 Sneakerweb 项目：通过离线打包与点对点协议，让网站脱离服务器，读者可真正拥有并永久保存内容，构建信息永续流动的分布式网络。
   - Tags: #read
