@@ -1,5 +1,9 @@
 # 2026-07 Monthly Index
 
+- (2026-07-12) [Prefer STRICT tables in SQLite](2026-07-12-prefer-strict-tables-in-sqlite.md)
+  - 本文推荐使用SQLite严格表（STRICT）以强制类型检查，避免灵活类型带来的隐秘错误。建表时加STRICT，需3.37.0+版本。虽迁移旧表有成本，但利大于弊，建议新表优先使用。
+  - Tags: #read #database
+
 - (2026-07-11) [In defense of not understanding your codebase](2026-07-11-in-defense-of-not-understanding-your-codebase.md)
   - 本文批判了“工程师必须彻底理解代码库”的传统观念，指出在大型系统中完全理解不现实，部分理解才是常态。作者反驳了 Peter Naur 的“理论构建”说，强调在不确定性中做出决策的能力比追求虚幻的完全掌握更重要。
   - Tags: #read

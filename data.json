@@ -12755,5 +12755,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202607",
+    "title": "Prefer STRICT tables in SQLite",
+    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+    "timestamp": 1783846416,
+    "tags": [
+      "read",
+      "database"
+    ]
   }
 ]

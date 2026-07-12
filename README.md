@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-12) [Prefer STRICT tables in SQLite](202607/2026-07-12-prefer-strict-tables-in-sqlite.md)
+  - 本文推荐使用SQLite严格表（STRICT）以强制类型检查，避免灵活类型带来的隐秘错误。建表时加STRICT，需3.37.0+版本。虽迁移旧表有成本，但利大于弊，建议新表优先使用。
+  - Tags: #read #database
+
 - (2026-07-11) [In defense of not understanding your codebase](202607/2026-07-11-in-defense-of-not-understanding-your-codebase.md)
   - 本文批判了“工程师必须彻底理解代码库”的传统观念，指出在大型系统中完全理解不现实，部分理解才是常态。作者反驳了 Peter Naur 的“理论构建”说，强调在不确定性中做出决策的能力比追求虚幻的完全掌握更重要。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章指出，大模型焦点从深度推理转向智能体式行动，思考围绕行动展开；训练重心从模型本身转向模型与环境的闭环；基础设施和奖励设计是新挑战。
   - Tags: #read #agent
 
-- (2026-07-03) [Markdown's Big Brother: Say Hello to AsciiDoc](202607/2026-07-03-markdown%27s-big-brother-say-hello-to-asciidoc.md)
-  - 文章介绍AsciiDoc标记语言，它比Markdown更强，原生支持表格、条件输出等高级功能，支持模块化与变量重用。结合adoc Studio和Git，可高效协作、一键导出多格式，实现文档即代码。
-  - Tags: #read #tips
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (15 entries)
+- [2026-07](202607/monthly-index.md) (16 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
