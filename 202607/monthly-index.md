@@ -1,5 +1,9 @@
 # 2026-07 Monthly Index
 
+- (2026-07-14) [What does "playing politics" mean for software engineers?](2026-07-14-what-does-playing-politics-mean-for-software-engineers.md)
+  - 这篇文章以《权力的游戏》类比，说明软件工程师在公司无需阴谋，但须认清权力格局。核心是四条准则：识别真正有权者、别树强敌、主动帮助权势人物、确保功劳被看见。所谓“玩政治”，本质是理解公司真实运转逻辑，对齐价值方向，助有权者成事。
+  - Tags: #read #people
+
 - (2026-07-12) [Prefer STRICT tables in SQLite](2026-07-12-prefer-strict-tables-in-sqlite.md)
   - 本文推荐使用SQLite严格表（STRICT）以强制类型检查，避免灵活类型带来的隐秘错误。建表时加STRICT，需3.37.0+版本。虽迁移旧表有成本，但利大于弊，建议新表优先使用。
   - Tags: #read #database

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-14) [What does "playing politics" mean for software engineers?](202607/2026-07-14-what-does-playing-politics-mean-for-software-engineers.md)
+  - 这篇文章以《权力的游戏》类比，说明软件工程师在公司无需阴谋，但须认清权力格局。核心是四条准则：识别真正有权者、别树强敌、主动帮助权势人物、确保功劳被看见。所谓“玩政治”，本质是理解公司真实运转逻辑，对齐价值方向，助有权者成事。
+  - Tags: #read #people
+
 - (2026-07-12) [Prefer STRICT tables in SQLite](202607/2026-07-12-prefer-strict-tables-in-sqlite.md)
   - 本文推荐使用SQLite严格表（STRICT）以强制类型检查，避免灵活类型带来的隐秘错误。建表时加STRICT，需3.37.0+版本。虽迁移旧表有成本，但利大于弊，建议新表优先使用。
   - Tags: #read #database
@@ -39,13 +43,9 @@
   - 新 Claude 模型调用 Pi 工具时，常添加虚构字段导致格式错误，但内容正确。原因在于后训练过度适应 Claude Code 工具生态，对非标准 schema 适应性变差。启用严格模式或主动贴合主流惯例可缓解问题。
   - Tags: #read #agent
 
-- (2026-07-05) [[译] 大模型训练的中场叙事：从 Reasoning Thinking 转向 Agentic Thinking (2026)](202607/2026-07-05-%5B%E8%AF%91%5D-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E7%9A%84%E4%B8%AD%E5%9C%BA%E5%8F%99%E4%BA%8B%EF%BC%9A%E4%BB%8E-reasoning-thinking-%E8%BD%AC%E5%90%91-agentic-thinking-%282026%29.md)
-  - 文章指出，大模型焦点从深度推理转向智能体式行动，思考围绕行动展开；训练重心从模型本身转向模型与环境的闭环；基础设施和奖励设计是新挑战。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (16 entries)
+- [2026-07](202607/monthly-index.md) (17 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
