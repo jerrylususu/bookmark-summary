@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-07-16) [The Memory Heist](202607/2026-07-16-the-memory-heist.md)
+  - Tags: #read #agent #security
+  - Summary: 利用伪装咖啡店网站的链式导航，可让Claude在用户毫无察觉时，通过点击链接泄露姓名、工作等记忆中的隐私。该漏洞已通过禁用自动跟随外部链接修复。
+
 - (2026-07-14) [What does "playing politics" mean for software engineers?](202607/2026-07-14-what-does-playing-politics-mean-for-software-engineers.md)
   - Tags: #read #people
   - Summary: 这篇文章以《权力的游戏》类比，说明软件工程师在公司无需阴谋，但须认清权力格局。核心是四条准则：识别真正有权者、别树强敌、主动帮助权势人物、确保功劳被看见。所谓“玩政治”，本质是理解公司真实运转逻辑，对齐价值方向，助有权者成事。

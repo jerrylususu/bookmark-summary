@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-16) [The Memory Heist](202607/2026-07-16-the-memory-heist.md)
+  - 利用伪装咖啡店网站的链式导航，可让Claude在用户毫无察觉时，通过点击链接泄露姓名、工作等记忆中的隐私。该漏洞已通过禁用自动跟随外部链接修复。
+  - Tags: #read #agent #security
+
 - (2026-07-14) [What does "playing politics" mean for software engineers?](202607/2026-07-14-what-does-playing-politics-mean-for-software-engineers.md)
   - 这篇文章以《权力的游戏》类比，说明软件工程师在公司无需阴谋，但须认清权力格局。核心是四条准则：识别真正有权者、别树强敌、主动帮助权势人物、确保功劳被看见。所谓“玩政治”，本质是理解公司真实运转逻辑，对齐价值方向，助有权者成事。
   - Tags: #read #people
@@ -39,13 +43,9 @@
   - AI辅助编程快速但不可替代思考、架构与协作；省时若不用来强化质量，反而加速代码腐化。人的共情、责任与系统掌控力无法被替代，真正的价值在于提出好问题、把控设计方向。
   - Tags: #read #agent
 
-- (2026-07-05) [Better Models: Worse Tools](202607/2026-07-05-better-models-worse-tools.md)
-  - 新 Claude 模型调用 Pi 工具时，常添加虚构字段导致格式错误，但内容正确。原因在于后训练过度适应 Claude Code 工具生态，对非标准 schema 适应性变差。启用严格模式或主动贴合主流惯例可缓解问题。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (17 entries)
+- [2026-07](202607/monthly-index.md) (18 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
