@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-07-20) [善用“古法 AI”，能帮你省下很多 Token | 虹线](202607/2026-07-20-%E5%96%84%E7%94%A8%E2%80%9C%E5%8F%A4%E6%B3%95-ai%E2%80%9D%EF%BC%8C%E8%83%BD%E5%B8%AE%E4%BD%A0%E7%9C%81%E4%B8%8B%E5%BE%88%E5%A4%9A-token-%E8%99%B9%E7%BA%BF.md)
+  - Tags: #read #arch
+  - Summary: 这篇文章主张用Embedding、BM25等传统算法替代大模型做日常信息匹配，只在定义标准和最终总结时才调用LLM，从而大幅降低Token成本，高效实现个性化筛选。
+
 - (2026-07-20) [Let’s talk about encrypted reasoning](202607/2026-07-20-let%E2%80%99s-talk-about-encrypted-reasoning.md)
   - Tags: #read #llm #security
   - Summary: 一位密码学研究者发现，大模型API将内部推理数据加密发给客户端，但可通过重放攻击和侧信道分析窃取隐藏信息。服务商未视作漏洞，作者警告需加强安全防护。

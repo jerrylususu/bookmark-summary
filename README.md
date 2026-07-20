@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-20) [善用“古法 AI”，能帮你省下很多 Token | 虹线](202607/2026-07-20-%E5%96%84%E7%94%A8%E2%80%9C%E5%8F%A4%E6%B3%95-ai%E2%80%9D%EF%BC%8C%E8%83%BD%E5%B8%AE%E4%BD%A0%E7%9C%81%E4%B8%8B%E5%BE%88%E5%A4%9A-token-%E8%99%B9%E7%BA%BF.md)
+  - 这篇文章主张用Embedding、BM25等传统算法替代大模型做日常信息匹配，只在定义标准和最终总结时才调用LLM，从而大幅降低Token成本，高效实现个性化筛选。
+  - Tags: #read #arch
+
 - (2026-07-20) [Let’s talk about encrypted reasoning](202607/2026-07-20-let%E2%80%99s-talk-about-encrypted-reasoning.md)
   - 一位密码学研究者发现，大模型API将内部推理数据加密发给客户端，但可通过重放攻击和侧信道分析窃取隐藏信息。服务商未视作漏洞，作者警告需加强安全防护。
   - Tags: #read #llm #security
@@ -39,13 +43,9 @@
   - 文章提出AI智能体自主性与编排双维六级框架，强调根据任务风险与可逆性校准自主性，并以证据验证为基础实现安全演进。
   - Tags: #read #agent
 
-- (2026-07-07) [The Agent-Era Career](202607/2026-07-07-the-agent-era-career.md)
-  - 本文指出，AI 擅长标准答案，而职业未来在于无标准答案之事：选择正确问题、判断产出好坏、承担最终责任，并在 AI 能力边界外继续深耕。专注不可自动化、不可打分的“难事”，是工程师最重要的策略。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (19 entries)
+- [2026-07](202607/monthly-index.md) (20 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
