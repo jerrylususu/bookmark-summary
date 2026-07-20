@@ -12786,5 +12786,16 @@
       "agent",
       "security"
     ]
+  },
+  {
+    "month": "202607",
+    "title": "Let’s talk about encrypted reasoning",
+    "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
+    "timestamp": 1784554409,
+    "tags": [
+      "read",
+      "llm",
+      "security"
+    ]
   }
 ]

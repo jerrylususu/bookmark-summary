@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-20) [Let’s talk about encrypted reasoning](202607/2026-07-20-let%E2%80%99s-talk-about-encrypted-reasoning.md)
+  - 一位密码学研究者发现，大模型API将内部推理数据加密发给客户端，但可通过重放攻击和侧信道分析窃取隐藏信息。服务商未视作漏洞，作者警告需加强安全防护。
+  - Tags: #read #llm #security
+
 - (2026-07-16) [The Memory Heist](202607/2026-07-16-the-memory-heist.md)
   - 利用伪装咖啡店网站的链式导航，可让Claude在用户毫无察觉时，通过点击链接泄露姓名、工作等记忆中的隐私。该漏洞已通过禁用自动跟随外部链接修复。
   - Tags: #read #agent #security
@@ -39,13 +43,9 @@
   - 本文指出，AI 擅长标准答案，而职业未来在于无标准答案之事：选择正确问题、判断产出好坏、承担最终责任，并在 AI 能力边界外继续深耕。专注不可自动化、不可打分的“难事”，是工程师最重要的策略。
   - Tags: #read #career
 
-- (2026-07-06) [Vibe Coding 时代的角色与架构](202607/2026-07-06-vibe-coding-%E6%97%B6%E4%BB%A3%E7%9A%84%E8%A7%92%E8%89%B2%E4%B8%8E%E6%9E%B6%E6%9E%84.md)
-  - AI辅助编程快速但不可替代思考、架构与协作；省时若不用来强化质量，反而加速代码腐化。人的共情、责任与系统掌控力无法被替代，真正的价值在于提出好问题、把控设计方向。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (18 entries)
+- [2026-07](202607/monthly-index.md) (19 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)

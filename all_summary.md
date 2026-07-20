@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-07-20) [Let’s talk about encrypted reasoning](202607/2026-07-20-let%E2%80%99s-talk-about-encrypted-reasoning.md)
+  - Tags: #read #llm #security
+  - Summary: 一位密码学研究者发现，大模型API将内部推理数据加密发给客户端，但可通过重放攻击和侧信道分析窃取隐藏信息。服务商未视作漏洞，作者警告需加强安全防护。
+
 - (2026-07-16) [The Memory Heist](202607/2026-07-16-the-memory-heist.md)
   - Tags: #read #agent #security
   - Summary: 利用伪装咖啡店网站的链式导航，可让Claude在用户毫无察觉时，通过点击链接泄露姓名、工作等记忆中的隐私。该漏洞已通过禁用自动跟随外部链接修复。
