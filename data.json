@@ -12807,5 +12807,16 @@
       "read",
       "arch"
     ]
+  },
+  {
+    "month": "202607",
+    "title": "Stop Using OpenCode",
+    "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+    "timestamp": 1784640990,
+    "tags": [
+      "read",
+      "agent",
+      "security"
+    ]
   }
 ]

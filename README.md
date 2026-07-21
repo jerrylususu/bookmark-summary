@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-21) [Stop Using OpenCode](202607/2026-07-21-stop-using-opencode.md)
+  - OpenCode 体验极差且安全形同虚设：性能低下、上下文混乱、界面反人类；权限过滤易被绕过、默认联网泄密、存在远程代码执行漏洞。作者强烈建议立即停用。
+  - Tags: #read #agent #security
+
 - (2026-07-20) [善用“古法 AI”，能帮你省下很多 Token | 虹线](202607/2026-07-20-%E5%96%84%E7%94%A8%E2%80%9C%E5%8F%A4%E6%B3%95-ai%E2%80%9D%EF%BC%8C%E8%83%BD%E5%B8%AE%E4%BD%A0%E7%9C%81%E4%B8%8B%E5%BE%88%E5%A4%9A-token-%E8%99%B9%E7%BA%BF.md)
   - 这篇文章主张用Embedding、BM25等传统算法替代大模型做日常信息匹配，只在定义标准和最终总结时才调用LLM，从而大幅降低Token成本，高效实现个性化筛选。
   - Tags: #read #arch
@@ -39,13 +43,9 @@
   - 作者认为ClickHouse在日志可观测性中胜出，因其列式存储、高压缩比和线性扩展能力。无论数据量从1TB到10TB/日，架构几乎不变，成本可控，而其他方案或架构畸形或成本失控。前期付出换来长期简单，使其能随团队共同成长。
   - Tags: #read #arch #observability
 
-- (2026-07-07) [Agentic Autonomy Levels](202607/2026-07-07-agentic-autonomy-levels.md)
-  - 文章提出AI智能体自主性与编排双维六级框架，强调根据任务风险与可逆性校准自主性，并以证据验证为基础实现安全演进。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (20 entries)
+- [2026-07](202607/monthly-index.md) (21 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
