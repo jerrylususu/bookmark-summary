@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-07-22) [Not just development, distribution of software may change as well - <antirez>](202607/2026-07-22-not-just-development%2C-distribution-of-software-may-change-as-well---antirez.md)
+  - Tags: #read
+  - Summary: AI编程让用户能自行修改源码，传统分支模式过时。代码库正成为可演化的模板，实验性分支与范例代码价值凸显，文档也需对代理友好。开发者应适应这种流动、可塑的软件分发新范式。
+
 - (2026-07-21) [Stop Using OpenCode](202607/2026-07-21-stop-using-opencode.md)
   - Tags: #read #agent #security
   - Summary: OpenCode 体验极差且安全形同虚设：性能低下、上下文混乱、界面反人类；权限过滤易被绕过、默认联网泄密、存在远程代码执行漏洞。作者强烈建议立即停用。

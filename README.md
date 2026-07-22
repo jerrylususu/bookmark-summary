@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-22) [Not just development, distribution of software may change as well - <antirez>](202607/2026-07-22-not-just-development%2C-distribution-of-software-may-change-as-well---antirez.md)
+  - AI编程让用户能自行修改源码，传统分支模式过时。代码库正成为可演化的模板，实验性分支与范例代码价值凸显，文档也需对代理友好。开发者应适应这种流动、可塑的软件分发新范式。
+  - Tags: #read
+
 - (2026-07-21) [Stop Using OpenCode](202607/2026-07-21-stop-using-opencode.md)
   - OpenCode 体验极差且安全形同虚设：性能低下、上下文混乱、界面反人类；权限过滤易被绕过、默认联网泄密、存在远程代码执行漏洞。作者强烈建议立即停用。
   - Tags: #read #agent #security
@@ -39,13 +43,9 @@
   - Bun团队利用Claude AI在11天内将50余万行Zig代码重写为Rust，通过全部测试并根除内存安全问题，总费用16.5万美元。
   - Tags: #read #agent #deepdive
 
-- (2026-07-09) [Clickhouse is winning the Observability Wars](202607/2026-07-09-clickhouse-is-winning-the-observability-wars.md)
-  - 作者认为ClickHouse在日志可观测性中胜出，因其列式存储、高压缩比和线性扩展能力。无论数据量从1TB到10TB/日，架构几乎不变，成本可控，而其他方案或架构畸形或成本失控。前期付出换来长期简单，使其能随团队共同成长。
-  - Tags: #read #arch #observability
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (21 entries)
+- [2026-07](202607/monthly-index.md) (22 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
