@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-26) [AI Hot Takes From A Platform Engineer / SRE](202607/2026-07-26-ai-hot-takes-from-a-platform-engineer-sre.md)
+  - 本文是平台工程师对AI热潮的冷思考：批判术语炒作、落地尴尬，指出AI学习便利无需焦虑追新，但基础设施即代码等领域表现糟糕。建议屏蔽噪音、专注核心，要求生产环境演示验证真实价值。
+  - Tags: #read
+
 - (2026-07-26) [What's the best way to do authentication in modern applications](202607/2026-07-26-what%27s-the-best-way-to-do-authentication-in-modern-applications.md)
   - 前端身份验证应将令牌优先存于httpOnly Cookie（配合Session），而非localStorage，以防XSS窃取。同时需防御CSRF、采用BFF架构或OAuth拆分存储，将凭证尽量隐藏于服务端，并结合refresh token轮换与设备绑定，最大限度缩小泄露风险。
   - Tags: #read #deepdive #security
@@ -39,13 +43,9 @@
   - 利用伪装咖啡店网站的链式导航，可让Claude在用户毫无察觉时，通过点击链接泄露姓名、工作等记忆中的隐私。该漏洞已通过禁用自动跟随外部链接修复。
   - Tags: #read #agent #security
 
-- (2026-07-14) [What does "playing politics" mean for software engineers?](202607/2026-07-14-what-does-playing-politics-mean-for-software-engineers.md)
-  - 这篇文章以《权力的游戏》类比，说明软件工程师在公司无需阴谋，但须认清权力格局。核心是四条准则：识别真正有权者、别树强敌、主动帮助权势人物、确保功劳被看见。所谓“玩政治”，本质是理解公司真实运转逻辑，对齐价值方向，助有权者成事。
-  - Tags: #read #people
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (26 entries)
+- [2026-07](202607/monthly-index.md) (27 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)

@@ -1,5 +1,9 @@
 # 2026-07 Monthly Index
 
+- (2026-07-26) [AI Hot Takes From A Platform Engineer / SRE](2026-07-26-ai-hot-takes-from-a-platform-engineer-sre.md)
+  - 本文是平台工程师对AI热潮的冷思考：批判术语炒作、落地尴尬，指出AI学习便利无需焦虑追新，但基础设施即代码等领域表现糟糕。建议屏蔽噪音、专注核心，要求生产环境演示验证真实价值。
+  - Tags: #read
+
 - (2026-07-26) [What's the best way to do authentication in modern applications](2026-07-26-what%27s-the-best-way-to-do-authentication-in-modern-applications.md)
   - 前端身份验证应将令牌优先存于httpOnly Cookie（配合Session），而非localStorage，以防XSS窃取。同时需防御CSRF、采用BFF架构或OAuth拆分存储，将凭证尽量隐藏于服务端，并结合refresh token轮换与设备绑定，最大限度缩小泄露风险。
   - Tags: #read #deepdive #security
