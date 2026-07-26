@@ -1,5 +1,9 @@
 # 2026-07 Monthly Index
 
+- (2026-07-26) [Being Linux Torvalds - <antirez>](2026-07-26-being-linux-torvalds---antirez.md)
+  - Linus的卓越在于早期停止编码，专注设计领导与一致性把控。AI编程时代，专家应扮演类似角色，主导AI代理并注入设计判断，而非亲自写代码。工具降低门槛，但设计能力仍是核心竞争力。
+  - Tags: #read #agent
+
 - (2026-07-22) [Not just development, distribution of software may change as well - <antirez>](2026-07-22-not-just-development%2C-distribution-of-software-may-change-as-well---antirez.md)
   - AI编程让用户能自行修改源码，传统分支模式过时。代码库正成为可演化的模板，实验性分支与范例代码价值凸显，文档也需对代理友好。开发者应适应这种流动、可塑的软件分发新范式。
   - Tags: #read

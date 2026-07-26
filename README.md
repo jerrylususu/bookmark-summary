@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-26) [Being Linux Torvalds - <antirez>](202607/2026-07-26-being-linux-torvalds---antirez.md)
+  - Linus的卓越在于早期停止编码，专注设计领导与一致性把控。AI编程时代，专家应扮演类似角色，主导AI代理并注入设计判断，而非亲自写代码。工具降低门槛，但设计能力仍是核心竞争力。
+  - Tags: #read #agent
+
 - (2026-07-22) [Not just development, distribution of software may change as well - <antirez>](202607/2026-07-22-not-just-development%2C-distribution-of-software-may-change-as-well---antirez.md)
   - AI编程让用户能自行修改源码，传统分支模式过时。代码库正成为可演化的模板，实验性分支与范例代码价值凸显，文档也需对代理友好。开发者应适应这种流动、可塑的软件分发新范式。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 作者从数字内容所有权流失的忧虑出发，介绍了 Sneakerweb 项目：通过离线打包与点对点协议，让网站脱离服务器，读者可真正拥有并永久保存内容，构建信息永续流动的分布式网络。
   - Tags: #read
 
-- (2026-07-09) [Rewriting Bun in Rust | Bun Blog](202607/2026-07-09-rewriting-bun-in-rust-bun-blog.md)
-  - Bun团队利用Claude AI在11天内将50余万行Zig代码重写为Rust，通过全部测试并根除内存安全问题，总费用16.5万美元。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (22 entries)
+- [2026-07](202607/monthly-index.md) (23 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
