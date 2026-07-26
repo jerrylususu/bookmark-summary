@@ -12857,5 +12857,16 @@
       "read",
       "tips"
     ]
+  },
+  {
+    "month": "202607",
+    "title": "What's the best way to do authentication in modern applications",
+    "url": "https://neciudan.dev/most-secure-way-to-store-auth-token",
+    "timestamp": 1785047587,
+    "tags": [
+      "read",
+      "deepdive",
+      "security"
+    ]
   }
 ]

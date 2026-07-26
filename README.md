@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-26) [What's the best way to do authentication in modern applications](202607/2026-07-26-what%27s-the-best-way-to-do-authentication-in-modern-applications.md)
+  - 前端身份验证应将令牌优先存于httpOnly Cookie（配合Session），而非localStorage，以防XSS窃取。同时需防御CSRF、采用BFF架构或OAuth拆分存储，将凭证尽量隐藏于服务端，并结合refresh token轮换与设备绑定，最大限度缩小泄露风险。
+  - Tags: #read #deepdive #security
+
 - (2026-07-26) [A faster way to copy SQLite databases between computers](202607/2026-07-26-a-faster-way-to-copy-sqlite-databases-between-computers.md)
-  - 使用 `rsync` 直接传输大型 SQLite 数据库缓慢且易损坏。改用 `.dump` 导出为 SQL 文本，索引仅存命令，压缩后体积大幅缩小，再通过 SSH 和 rsync 传输，本地重建数据库，既提速又可靠。
+  - 使用  直接传输大型 SQLite 数据库缓慢且易损坏。改用  导出为 SQL 文本，索引仅存命令，压缩后体积大幅缩小，再通过 SSH 和 rsync 传输，本地重建数据库，既提速又可靠。
   - Tags: #read #tips
 
 - (2026-07-26) [LLMs reward expertise](202607/2026-07-26-llms-reward-expertise.md)
@@ -39,13 +43,9 @@
   - 这篇文章以《权力的游戏》类比，说明软件工程师在公司无需阴谋，但须认清权力格局。核心是四条准则：识别真正有权者、别树强敌、主动帮助权势人物、确保功劳被看见。所谓“玩政治”，本质是理解公司真实运转逻辑，对齐价值方向，助有权者成事。
   - Tags: #read #people
 
-- (2026-07-12) [Prefer STRICT tables in SQLite](202607/2026-07-12-prefer-strict-tables-in-sqlite.md)
-  - 本文推荐使用SQLite严格表（STRICT）以强制类型检查，避免灵活类型带来的隐秘错误。建表时加STRICT，需3.37.0+版本。虽迁移旧表有成本，但利大于弊，建议新表优先使用。
-  - Tags: #read #database
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (25 entries)
+- [2026-07](202607/monthly-index.md) (26 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)

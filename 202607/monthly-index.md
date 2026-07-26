@@ -1,7 +1,11 @@
 # 2026-07 Monthly Index
 
+- (2026-07-26) [What's the best way to do authentication in modern applications](2026-07-26-what%27s-the-best-way-to-do-authentication-in-modern-applications.md)
+  - 前端身份验证应将令牌优先存于httpOnly Cookie（配合Session），而非localStorage，以防XSS窃取。同时需防御CSRF、采用BFF架构或OAuth拆分存储，将凭证尽量隐藏于服务端，并结合refresh token轮换与设备绑定，最大限度缩小泄露风险。
+  - Tags: #read #deepdive #security
+
 - (2026-07-26) [A faster way to copy SQLite databases between computers](2026-07-26-a-faster-way-to-copy-sqlite-databases-between-computers.md)
-  - 使用 `rsync` 直接传输大型 SQLite 数据库缓慢且易损坏。改用 `.dump` 导出为 SQL 文本，索引仅存命令，压缩后体积大幅缩小，再通过 SSH 和 rsync 传输，本地重建数据库，既提速又可靠。
+  - 使用  直接传输大型 SQLite 数据库缓慢且易损坏。改用  导出为 SQL 文本，索引仅存命令，压缩后体积大幅缩小，再通过 SSH 和 rsync 传输，本地重建数据库，既提速又可靠。
   - Tags: #read #tips
 
 - (2026-07-26) [LLMs reward expertise](2026-07-26-llms-reward-expertise.md)
