@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-07-26) [A faster way to copy SQLite databases between computers](202607/2026-07-26-a-faster-way-to-copy-sqlite-databases-between-computers.md)
+  - Tags: #read #tips
+  - Summary: 使用 `rsync` 直接传输大型 SQLite 数据库缓慢且易损坏。改用 `.dump` 导出为 SQL 文本，索引仅存命令，压缩后体积大幅缩小，再通过 SSH 和 rsync 传输，本地重建数据库，既提速又可靠。
+
 - (2026-07-26) [LLMs reward expertise](202607/2026-07-26-llms-reward-expertise.md)
   - Tags: #read #llm
   - Summary: 文章以陶哲轩和编程为例，指出领域专业知识是高效使用大语言模型的关键，专业判断力能让模型输出更精炼、价值更高，人类的角色不可替代。

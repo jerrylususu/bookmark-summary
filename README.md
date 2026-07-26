@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-26) [A faster way to copy SQLite databases between computers](202607/2026-07-26-a-faster-way-to-copy-sqlite-databases-between-computers.md)
+  - 使用 `rsync` 直接传输大型 SQLite 数据库缓慢且易损坏。改用 `.dump` 导出为 SQL 文本，索引仅存命令，压缩后体积大幅缩小，再通过 SSH 和 rsync 传输，本地重建数据库，既提速又可靠。
+  - Tags: #read #tips
+
 - (2026-07-26) [LLMs reward expertise](202607/2026-07-26-llms-reward-expertise.md)
   - 文章以陶哲轩和编程为例，指出领域专业知识是高效使用大语言模型的关键，专业判断力能让模型输出更精炼、价值更高，人类的角色不可替代。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 本文推荐使用SQLite严格表（STRICT）以强制类型检查，避免灵活类型带来的隐秘错误。建表时加STRICT，需3.37.0+版本。虽迁移旧表有成本，但利大于弊，建议新表优先使用。
   - Tags: #read #database
 
-- (2026-07-11) [In defense of not understanding your codebase](202607/2026-07-11-in-defense-of-not-understanding-your-codebase.md)
-  - 本文批判了“工程师必须彻底理解代码库”的传统观念，指出在大型系统中完全理解不现实，部分理解才是常态。作者反驳了 Peter Naur 的“理论构建”说，强调在不确定性中做出决策的能力比追求虚幻的完全掌握更重要。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (24 entries)
+- [2026-07](202607/monthly-index.md) (25 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
