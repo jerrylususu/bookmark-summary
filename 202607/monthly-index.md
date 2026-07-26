@@ -1,5 +1,9 @@
 # 2026-07 Monthly Index
 
+- (2026-07-26) [LLMs reward expertise](2026-07-26-llms-reward-expertise.md)
+  - 文章以陶哲轩和编程为例，指出领域专业知识是高效使用大语言模型的关键，专业判断力能让模型输出更精炼、价值更高，人类的角色不可替代。
+  - Tags: #read #llm
+
 - (2026-07-26) [Being Linux Torvalds - <antirez>](2026-07-26-being-linux-torvalds---antirez.md)
   - Linus的卓越在于早期停止编码，专注设计领导与一致性把控。AI编程时代，专家应扮演类似角色，主导AI代理并注入设计判断，而非亲自写代码。工具降低门槛，但设计能力仍是核心竞争力。
   - Tags: #read #agent
