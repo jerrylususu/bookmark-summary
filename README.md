@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-26) [Printing the web: making webpages look good on paper](202607/2026-07-26-printing-the-web-making-webpages-look-good-on-paper.md)
+  - 打印样式常被忽视，却是无障碍与全流程体验的关键。本文介绍媒体查询打印、分页控制、链接显示与墨水优化等技巧，指出打印设计能反哺屏幕体验。
+  - Tags: #read #frontend #css
+
 - (2026-07-26) [AI Hot Takes From A Platform Engineer / SRE](202607/2026-07-26-ai-hot-takes-from-a-platform-engineer-sre.md)
   - 本文是平台工程师对AI热潮的冷思考：批判术语炒作、落地尴尬，指出AI学习便利无需焦虑追新，但基础设施即代码等领域表现糟糕。建议屏蔽噪音、专注核心，要求生产环境演示验证真实价值。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 一位密码学研究者发现，大模型API将内部推理数据加密发给客户端，但可通过重放攻击和侧信道分析窃取隐藏信息。服务商未视作漏洞，作者警告需加强安全防护。
   - Tags: #read #llm #security
 
-- (2026-07-16) [The Memory Heist](202607/2026-07-16-the-memory-heist.md)
-  - 利用伪装咖啡店网站的链式导航，可让Claude在用户毫无察觉时，通过点击链接泄露姓名、工作等记忆中的隐私。该漏洞已通过禁用自动跟随外部链接修复。
-  - Tags: #read #agent #security
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (27 entries)
+- [2026-07](202607/monthly-index.md) (28 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)

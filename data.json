@@ -12877,5 +12877,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202607",
+    "title": "Printing the web: making webpages look good on paper",
+    "url": "https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/",
+    "timestamp": 1785049980,
+    "tags": [
+      "read",
+      "frontend",
+      "css"
+    ]
   }
 ]
