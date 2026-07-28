@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-07-28) [The Best Prioritization Is No Prioritization](202607/2026-07-28-the-best-prioritization-is-no-prioritization.md)
+  - Tags: #read
+  - Summary: 这篇文章主张创业公司应放弃复杂的优先级排序，转而通过提升执行速度，或组建固定团队各自专注，将跨领域排序转化为资源分配，以此减少内耗、提高效率。
+
 - (2026-07-26) [Printing the web: making webpages look good on paper](202607/2026-07-26-printing-the-web-making-webpages-look-good-on-paper.md)
   - Tags: #read #frontend #css
   - Summary: 打印样式常被忽视，却是无障碍与全流程体验的关键。本文介绍媒体查询打印、分页控制、链接显示与墨水优化等技巧，指出打印设计能反哺屏幕体验。

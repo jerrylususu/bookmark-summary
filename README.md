@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-28) [The Best Prioritization Is No Prioritization](202607/2026-07-28-the-best-prioritization-is-no-prioritization.md)
+  - 这篇文章主张创业公司应放弃复杂的优先级排序，转而通过提升执行速度，或组建固定团队各自专注，将跨领域排序转化为资源分配，以此减少内耗、提高效率。
+  - Tags: #read
+
 - (2026-07-26) [Printing the web: making webpages look good on paper](202607/2026-07-26-printing-the-web-making-webpages-look-good-on-paper.md)
   - 打印样式常被忽视，却是无障碍与全流程体验的关键。本文介绍媒体查询打印、分页控制、链接显示与墨水优化等技巧，指出打印设计能反哺屏幕体验。
   - Tags: #read #frontend #css
@@ -39,13 +43,9 @@
   - 这篇文章主张用Embedding、BM25等传统算法替代大模型做日常信息匹配，只在定义标准和最终总结时才调用LLM，从而大幅降低Token成本，高效实现个性化筛选。
   - Tags: #read #arch
 
-- (2026-07-20) [Let’s talk about encrypted reasoning](202607/2026-07-20-let%E2%80%99s-talk-about-encrypted-reasoning.md)
-  - 一位密码学研究者发现，大模型API将内部推理数据加密发给客户端，但可通过重放攻击和侧信道分析窃取隐藏信息。服务商未视作漏洞，作者警告需加强安全防护。
-  - Tags: #read #llm #security
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (28 entries)
+- [2026-07](202607/monthly-index.md) (29 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
