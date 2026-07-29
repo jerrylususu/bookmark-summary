@@ -1,5 +1,9 @@
 # 2026-07 Monthly Index
 
+- (2026-07-29) [You don't have to be smart if you can think clearly](2026-07-29-you-don%27t-have-to-be-smart-if-you-can-think-clearly.md)
+  - 工程师分“聪明”与“强大”两类：聪明者依赖直觉，遇难题易慌乱；强大者则能放慢思考，识别不变的事实，稳步推导。真正的效能来自这种缓慢而清晰的思维能力，它比瞬时灵感更可靠、更可修炼。
+  - Tags: #read
+
 - (2026-07-28) [The Best Prioritization Is No Prioritization](2026-07-28-the-best-prioritization-is-no-prioritization.md)
   - 这篇文章主张创业公司应放弃复杂的优先级排序，转而通过提升执行速度，或组建固定团队各自专注，将跨领域排序转化为资源分配，以此减少内耗、提高效率。
   - Tags: #read

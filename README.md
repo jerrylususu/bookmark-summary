@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-07-29) [You don't have to be smart if you can think clearly](202607/2026-07-29-you-don%27t-have-to-be-smart-if-you-can-think-clearly.md)
+  - 工程师分“聪明”与“强大”两类：聪明者依赖直觉，遇难题易慌乱；强大者则能放慢思考，识别不变的事实，稳步推导。真正的效能来自这种缓慢而清晰的思维能力，它比瞬时灵感更可靠、更可修炼。
+  - Tags: #read
+
 - (2026-07-28) [The Best Prioritization Is No Prioritization](202607/2026-07-28-the-best-prioritization-is-no-prioritization.md)
   - 这篇文章主张创业公司应放弃复杂的优先级排序，转而通过提升执行速度，或组建固定团队各自专注，将跨领域排序转化为资源分配，以此减少内耗、提高效率。
   - Tags: #read
@@ -39,13 +43,9 @@
   - OpenCode 体验极差且安全形同虚设：性能低下、上下文混乱、界面反人类；权限过滤易被绕过、默认联网泄密、存在远程代码执行漏洞。作者强烈建议立即停用。
   - Tags: #read #agent #security
 
-- (2026-07-20) [善用“古法 AI”，能帮你省下很多 Token | 虹线](202607/2026-07-20-%E5%96%84%E7%94%A8%E2%80%9C%E5%8F%A4%E6%B3%95-ai%E2%80%9D%EF%BC%8C%E8%83%BD%E5%B8%AE%E4%BD%A0%E7%9C%81%E4%B8%8B%E5%BE%88%E5%A4%9A-token-%E8%99%B9%E7%BA%BF.md)
-  - 这篇文章主张用Embedding、BM25等传统算法替代大模型做日常信息匹配，只在定义标准和最终总结时才调用LLM，从而大幅降低Token成本，高效实现个性化筛选。
-  - Tags: #read #arch
-
 ## Monthly Archive
 
-- [2026-07](202607/monthly-index.md) (29 entries)
+- [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
 - [2026-04](202604/monthly-index.md) (57 entries)
