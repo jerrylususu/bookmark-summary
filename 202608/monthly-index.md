@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-01) [Browsers Treat Big Sites Differently](2026-08-01-browsers-treat-big-sites-differently.md)
+  - Safari与Firefox因Chrome垄断，被迫为特定网站内置域名级修复，弥补其仅适配Chrome的缺陷。此举虽解燃眉之急，却助长不良循环，重演IE霸权，侵蚀互联网开放。开发者应跨浏览器测试，主动遵循标准。
+  - Tags: #read #web
+
 - (2026-08-01) [Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security](2026-08-01-should-you-use-ai-for-a-task-here%E2%80%99s-a-simple-way-to-decide---schneier-on-security.md)
   - 文章提出以“工作”和“健身房”区分任务：前者重结果，可用AI代劳；后者重过程，须亲力亲为以锻炼能力。务必警惕依赖AI导致技能萎缩，主动保留“健身房”任务。
   - Tags: #read

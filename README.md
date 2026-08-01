@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-01) [Browsers Treat Big Sites Differently](202608/2026-08-01-browsers-treat-big-sites-differently.md)
+  - Safari与Firefox因Chrome垄断，被迫为特定网站内置域名级修复，弥补其仅适配Chrome的缺陷。此举虽解燃眉之急，却助长不良循环，重演IE霸权，侵蚀互联网开放。开发者应跨浏览器测试，主动遵循标准。
+  - Tags: #read #web
+
 - (2026-08-01) [Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security](202608/2026-08-01-should-you-use-ai-for-a-task-here%E2%80%99s-a-simple-way-to-decide---schneier-on-security.md)
   - 文章提出以“工作”和“健身房”区分任务：前者重结果，可用AI代劳；后者重过程，须亲力亲为以锻炼能力。务必警惕依赖AI导致技能萎缩，主动保留“健身房”任务。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 使用  直接传输大型 SQLite 数据库缓慢且易损坏。改用  导出为 SQL 文本，索引仅存命令，压缩后体积大幅缩小，再通过 SSH 和 rsync 传输，本地重建数据库，既提速又可靠。
   - Tags: #read #tips
 
-- (2026-07-26) [LLMs reward expertise](202607/2026-07-26-llms-reward-expertise.md)
-  - 文章以陶哲轩和编程为例，指出领域专业知识是高效使用大语言模型的关键，专业判断力能让模型输出更精炼、价值更高，人类的角色不可替代。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (3 entries)
+- [2026-08](202608/monthly-index.md) (4 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
