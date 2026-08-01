@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-08-01) [Write-Only Code | Heavybit](202608/2026-08-01-write-only-code-heavybit.md)
+  - Tags: #read #agent
+  - Summary: 随着大语言模型生成代码能力的提升，软件行业正进入“只写代码”时代：AI直接生成并部署代码，人类审查不再可行。工程师角色将从代码编写者转向系统设计师，专注接口、约束与风险管理，并建立新的信任机制以应对无人阅读代码的现实。
+
 - (2026-07-29) [You don't have to be smart if you can think clearly](202607/2026-07-29-you-don%27t-have-to-be-smart-if-you-can-think-clearly.md)
   - Tags: #read
   - Summary: 工程师分“聪明”与“强大”两类：聪明者依赖直觉，遇难题易慌乱；强大者则能放慢思考，识别不变的事实，稳步推导。真正的效能来自这种缓慢而清晰的思维能力，它比瞬时灵感更可靠、更可修炼。

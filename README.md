@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-01) [Write-Only Code | Heavybit](202608/2026-08-01-write-only-code-heavybit.md)
+  - 随着大语言模型生成代码能力的提升，软件行业正进入“只写代码”时代：AI直接生成并部署代码，人类审查不再可行。工程师角色将从代码编写者转向系统设计师，专注接口、约束与风险管理，并建立新的信任机制以应对无人阅读代码的现实。
+  - Tags: #read #agent
+
 - (2026-07-29) [You don't have to be smart if you can think clearly](202607/2026-07-29-you-don%27t-have-to-be-smart-if-you-can-think-clearly.md)
   - 工程师分“聪明”与“强大”两类：聪明者依赖直觉，遇难题易慌乱；强大者则能放慢思考，识别不变的事实，稳步推导。真正的效能来自这种缓慢而清晰的思维能力，它比瞬时灵感更可靠、更可修炼。
   - Tags: #read
@@ -39,12 +43,9 @@
   - AI编程让用户能自行修改源码，传统分支模式过时。代码库正成为可演化的模板，实验性分支与范例代码价值凸显，文档也需对代理友好。开发者应适应这种流动、可塑的软件分发新范式。
   - Tags: #read
 
-- (2026-07-21) [Stop Using OpenCode](202607/2026-07-21-stop-using-opencode.md)
-  - OpenCode 体验极差且安全形同虚设：性能低下、上下文混乱、界面反人类；权限过滤易被绕过、默认联网泄密、存在远程代码执行漏洞。作者强烈建议立即停用。
-  - Tags: #read #agent #security
-
 ## Monthly Archive
 
+- [2026-08](202608/monthly-index.md) (1 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
