@@ -12916,5 +12916,16 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202608",
+    "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses | Prime Radiant",
+    "url": "https://primeradiant.com/blog/2026/smevals.html",
+    "timestamp": 1785561716,
+    "tags": [
+      "read",
+      "agent",
+      "llm"
+    ]
   }
 ]

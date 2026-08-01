@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-01) [smevals - a small eval suite for evaluating models, prompts, and harnesses | Prime Radiant](202608/2026-08-01-smevals---a-small-eval-suite-for-evaluating-models%2C-prompts%2C-and-harnesses-prime-radiant.md)
+  - smevals 是评估小模型的 CLI 工具，可自定义任务和评分，对比多模型，支持编码代理辅助搭建评估，并提供可视化报告，帮助从廉价模型中找到最佳方案。
+  - Tags: #read #agent #llm
+
 - (2026-08-01) [Write-Only Code | Heavybit](202608/2026-08-01-write-only-code-heavybit.md)
   - 随着大语言模型生成代码能力的提升，软件行业正进入“只写代码”时代：AI直接生成并部署代码，人类审查不再可行。工程师角色将从代码编写者转向系统设计师，专注接口、约束与风险管理，并建立新的信任机制以应对无人阅读代码的现实。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - Linus的卓越在于早期停止编码，专注设计领导与一致性把控。AI编程时代，专家应扮演类似角色，主导AI代理并注入设计判断，而非亲自写代码。工具降低门槛，但设计能力仍是核心竞争力。
   - Tags: #read #agent
 
-- (2026-07-22) [Not just development, distribution of software may change as well - <antirez>](202607/2026-07-22-not-just-development%2C-distribution-of-software-may-change-as-well---antirez.md)
-  - AI编程让用户能自行修改源码，传统分支模式过时。代码库正成为可演化的模板，实验性分支与范例代码价值凸显，文档也需对代理友好。开发者应适应这种流动、可塑的软件分发新范式。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (1 entries)
+- [2026-08](202608/monthly-index.md) (2 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
