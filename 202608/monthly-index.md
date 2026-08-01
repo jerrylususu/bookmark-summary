@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-01) [Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security](2026-08-01-should-you-use-ai-for-a-task-here%E2%80%99s-a-simple-way-to-decide---schneier-on-security.md)
+  - 文章提出以“工作”和“健身房”区分任务：前者重结果，可用AI代劳；后者重过程，须亲力亲为以锻炼能力。务必警惕依赖AI导致技能萎缩，主动保留“健身房”任务。
+  - Tags: #read
+
 - (2026-08-01) [smevals - a small eval suite for evaluating models, prompts, and harnesses | Prime Radiant](2026-08-01-smevals---a-small-eval-suite-for-evaluating-models%2C-prompts%2C-and-harnesses-prime-radiant.md)
   - smevals 是评估小模型的 CLI 工具，可自定义任务和评分，对比多模型，支持编码代理辅助搭建评估，并提供可视化报告，帮助从廉价模型中找到最佳方案。
   - Tags: #read #agent #llm

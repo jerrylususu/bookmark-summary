@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-01) [Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security](202608/2026-08-01-should-you-use-ai-for-a-task-here%E2%80%99s-a-simple-way-to-decide---schneier-on-security.md)
+  - 文章提出以“工作”和“健身房”区分任务：前者重结果，可用AI代劳；后者重过程，须亲力亲为以锻炼能力。务必警惕依赖AI导致技能萎缩，主动保留“健身房”任务。
+  - Tags: #read
+
 - (2026-08-01) [smevals - a small eval suite for evaluating models, prompts, and harnesses | Prime Radiant](202608/2026-08-01-smevals---a-small-eval-suite-for-evaluating-models%2C-prompts%2C-and-harnesses-prime-radiant.md)
   - smevals 是评估小模型的 CLI 工具，可自定义任务和评分，对比多模型，支持编码代理辅助搭建评估，并提供可视化报告，帮助从廉价模型中找到最佳方案。
   - Tags: #read #agent #llm
@@ -39,13 +43,9 @@
   - 文章以陶哲轩和编程为例，指出领域专业知识是高效使用大语言模型的关键，专业判断力能让模型输出更精炼、价值更高，人类的角色不可替代。
   - Tags: #read #llm
 
-- (2026-07-26) [Being Linux Torvalds - <antirez>](202607/2026-07-26-being-linux-torvalds---antirez.md)
-  - Linus的卓越在于早期停止编码，专注设计领导与一致性把控。AI编程时代，专家应扮演类似角色，主导AI代理并注入设计判断，而非亲自写代码。工具降低门槛，但设计能力仍是核心竞争力。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (2 entries)
+- [2026-08](202608/monthly-index.md) (3 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
