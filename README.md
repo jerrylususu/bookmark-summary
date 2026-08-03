@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-03) [Giving and taking credit in big tech companies](202608/2026-08-03-giving-and-taking-credit-in-big-tech-companies.md)
+  - 在大型科技公司，功劳与指责由人际网络分配，非技术评估。工程师需主动宣传并分享功劳，将个人项目变为集体成就，以赢得盟友、避免成为替罪羊。
+  - Tags: #read #people #career
+
 - (2026-08-01) [Browsers Treat Big Sites Differently](202608/2026-08-01-browsers-treat-big-sites-differently.md)
   - Safari与Firefox因Chrome垄断，被迫为特定网站内置域名级修复，弥补其仅适配Chrome的缺陷。此举虽解燃眉之急，却助长不良循环，重演IE霸权，侵蚀互联网开放。开发者应跨浏览器测试，主动遵循标准。
   - Tags: #read #web
@@ -39,13 +43,9 @@
   - 前端身份验证应将令牌优先存于httpOnly Cookie（配合Session），而非localStorage，以防XSS窃取。同时需防御CSRF、采用BFF架构或OAuth拆分存储，将凭证尽量隐藏于服务端，并结合refresh token轮换与设备绑定，最大限度缩小泄露风险。
   - Tags: #read #deepdive #security
 
-- (2026-07-26) [A faster way to copy SQLite databases between computers](202607/2026-07-26-a-faster-way-to-copy-sqlite-databases-between-computers.md)
-  - 使用  直接传输大型 SQLite 数据库缓慢且易损坏。改用  导出为 SQL 文本，索引仅存命令，压缩后体积大幅缩小，再通过 SSH 和 rsync 传输，本地重建数据库，既提速又可靠。
-  - Tags: #read #tips
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (4 entries)
+- [2026-08](202608/monthly-index.md) (5 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)

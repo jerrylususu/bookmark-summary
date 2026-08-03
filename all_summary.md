@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-08-03) [Giving and taking credit in big tech companies](202608/2026-08-03-giving-and-taking-credit-in-big-tech-companies.md)
+  - Tags: #read #people #career
+  - Summary: 在大型科技公司，功劳与指责由人际网络分配，非技术评估。工程师需主动宣传并分享功劳，将个人项目变为集体成就，以赢得盟友、避免成为替罪羊。
+
 - (2026-08-01) [Browsers Treat Big Sites Differently](202608/2026-08-01-browsers-treat-big-sites-differently.md)
   - Tags: #read #web
   - Summary: Safari与Firefox因Chrome垄断，被迫为特定网站内置域名级修复，弥补其仅适配Chrome的缺陷。此举虽解燃眉之急，却助长不良循环，重演IE霸权，侵蚀互联网开放。开发者应跨浏览器测试，主动遵循标准。
