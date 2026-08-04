@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-04) [Don't be a meat proxy](2026-08-04-don%27t-be-a-meat-proxy.md)
+  - 文章抨击“肉代理”现象，批评人们不假思索直接粘贴AI回复，导致交流空洞。强调必须亲自理解、验证并用自己的话重述AI输出，以注入思考，守住人的价值与主体性。
+  - Tags: #read
+
 - (2026-08-03) [Giving and taking credit in big tech companies](2026-08-03-giving-and-taking-credit-in-big-tech-companies.md)
   - 在大型科技公司，功劳与指责由人际网络分配，非技术评估。工程师需主动宣传并分享功劳，将个人项目变为集体成就，以赢得盟友、避免成为替罪羊。
   - Tags: #read #people #career

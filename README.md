@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-04) [Don't be a meat proxy](202608/2026-08-04-don%27t-be-a-meat-proxy.md)
+  - 文章抨击“肉代理”现象，批评人们不假思索直接粘贴AI回复，导致交流空洞。强调必须亲自理解、验证并用自己的话重述AI输出，以注入思考，守住人的价值与主体性。
+  - Tags: #read
+
 - (2026-08-03) [Giving and taking credit in big tech companies](202608/2026-08-03-giving-and-taking-credit-in-big-tech-companies.md)
   - 在大型科技公司，功劳与指责由人际网络分配，非技术评估。工程师需主动宣传并分享功劳，将个人项目变为集体成就，以赢得盟友、避免成为替罪羊。
   - Tags: #read #people #career
@@ -39,13 +43,9 @@
   - 本文是平台工程师对AI热潮的冷思考：批判术语炒作、落地尴尬，指出AI学习便利无需焦虑追新，但基础设施即代码等领域表现糟糕。建议屏蔽噪音、专注核心，要求生产环境演示验证真实价值。
   - Tags: #read
 
-- (2026-07-26) [What's the best way to do authentication in modern applications](202607/2026-07-26-what%27s-the-best-way-to-do-authentication-in-modern-applications.md)
-  - 前端身份验证应将令牌优先存于httpOnly Cookie（配合Session），而非localStorage，以防XSS窃取。同时需防御CSRF、采用BFF架构或OAuth拆分存储，将凭证尽量隐藏于服务端，并结合refresh token轮换与设备绑定，最大限度缩小泄露风险。
-  - Tags: #read #deepdive #security
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (5 entries)
+- [2026-08](202608/monthly-index.md) (6 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
