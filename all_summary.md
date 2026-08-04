@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-08-04) [Devtools must be open source - exe.dev blog](202608/2026-08-04-devtools-must-be-open-source---exe.dev-blog.md)
+  - Tags: #read
+  - Summary: AI代理使个性化软件变得经济可行，其前提是源代码可获取。开源工具允许代理直接修改源码，省去插件系统，降低启动与维护成本。闭源工具则受限于预设钩子，难以定制。因此，开发工具必须开源。
+
 - (2026-08-04) [Don't be a meat proxy](202608/2026-08-04-don%27t-be-a-meat-proxy.md)
   - Tags: #read
   - Summary: 文章抨击“肉代理”现象，批评人们不假思索直接粘贴AI回复，导致交流空洞。强调必须亲自理解、验证并用自己的话重述AI输出，以注入思考，守住人的价值与主体性。

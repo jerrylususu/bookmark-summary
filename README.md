@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-04) [Devtools must be open source - exe.dev blog](202608/2026-08-04-devtools-must-be-open-source---exe.dev-blog.md)
+  - AI代理使个性化软件变得经济可行，其前提是源代码可获取。开源工具允许代理直接修改源码，省去插件系统，降低启动与维护成本。闭源工具则受限于预设钩子，难以定制。因此，开发工具必须开源。
+  - Tags: #read
+
 - (2026-08-04) [Don't be a meat proxy](202608/2026-08-04-don%27t-be-a-meat-proxy.md)
   - 文章抨击“肉代理”现象，批评人们不假思索直接粘贴AI回复，导致交流空洞。强调必须亲自理解、验证并用自己的话重述AI输出，以注入思考，守住人的价值与主体性。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 打印样式常被忽视，却是无障碍与全流程体验的关键。本文介绍媒体查询打印、分页控制、链接显示与墨水优化等技巧，指出打印设计能反哺屏幕体验。
   - Tags: #read #frontend #css
 
-- (2026-07-26) [AI Hot Takes From A Platform Engineer / SRE](202607/2026-07-26-ai-hot-takes-from-a-platform-engineer-sre.md)
-  - 本文是平台工程师对AI热潮的冷思考：批判术语炒作、落地尴尬，指出AI学习便利无需焦虑追新，但基础设施即代码等领域表现糟糕。建议屏蔽噪音、专注核心，要求生产环境演示验证真实价值。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (6 entries)
+- [2026-08](202608/monthly-index.md) (7 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
