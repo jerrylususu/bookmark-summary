@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-06) [AI 不会带来超级组织 | 虹线](202608/2026-08-06-ai-%E4%B8%8D%E4%BC%9A%E5%B8%A6%E6%9D%A5%E8%B6%85%E7%BA%A7%E7%BB%84%E7%BB%87-%E8%99%B9%E7%BA%BF.md)
+  - AI未必催生超级组织，反而可能瓦解科层企业：个体能力增强，使被裁员工变成竞争者；企业协作成本下降，内部边界后退；大公司或转向内部裂解而非膨胀。超级个体与超级组织难以共生，AI正让组织变薄、平台变厚。
+  - Tags: #read
+
 - (2026-08-04) [Devtools must be open source - exe.dev blog](202608/2026-08-04-devtools-must-be-open-source---exe.dev-blog.md)
   - AI代理使个性化软件变得经济可行，其前提是源代码可获取。开源工具允许代理直接修改源码，省去插件系统，降低启动与维护成本。闭源工具则受限于预设钩子，难以定制。因此，开发工具必须开源。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 这篇文章主张创业公司应放弃复杂的优先级排序，转而通过提升执行速度，或组建固定团队各自专注，将跨领域排序转化为资源分配，以此减少内耗、提高效率。
   - Tags: #read
 
-- (2026-07-26) [Printing the web: making webpages look good on paper](202607/2026-07-26-printing-the-web-making-webpages-look-good-on-paper.md)
-  - 打印样式常被忽视，却是无障碍与全流程体验的关键。本文介绍媒体查询打印、分页控制、链接显示与墨水优化等技巧，指出打印设计能反哺屏幕体验。
-  - Tags: #read #frontend #css
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (7 entries)
+- [2026-08](202608/monthly-index.md) (8 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
