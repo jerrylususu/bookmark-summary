@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-12) [There are no lossless transformations of natural-language text](202608/2026-08-12-there-are-no-lossless-transformations-of-natural-language-text.md)
+  - AI写作无法无损表达原意，写作本身是思考过程。作者须对内容负责，投入时间精炼表达，尊重读者时间。不要用AI代替思考，长文未必更好，应诚实标注AI生成内容。
+  - Tags: #read
+
 - (2026-08-12) [Stolen Thoughts](202608/2026-08-12-stolen-thoughts.md)
   - 通过重放API加密推理块并注入破解模型，能明文还原强大LLM的原始思考，泄露算法细节、密钥等敏感数据，揭示严重安全隐患。
   - Tags: #read #llm #security
@@ -39,13 +43,9 @@
   - smevals 是评估小模型的 CLI 工具，可自定义任务和评分，对比多模型，支持编码代理辅助搭建评估，并提供可视化报告，帮助从廉价模型中找到最佳方案。
   - Tags: #read #agent #llm
 
-- (2026-08-01) [Write-Only Code | Heavybit](202608/2026-08-01-write-only-code-heavybit.md)
-  - 随着大语言模型生成代码能力的提升，软件行业正进入“只写代码”时代：AI直接生成并部署代码，人类审查不再可行。工程师角色将从代码编写者转向系统设计师，专注接口、约束与风险管理，并建立新的信任机制以应对无人阅读代码的现实。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (10 entries)
+- [2026-08](202608/monthly-index.md) (11 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)

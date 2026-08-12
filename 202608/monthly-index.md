@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-12) [There are no lossless transformations of natural-language text](2026-08-12-there-are-no-lossless-transformations-of-natural-language-text.md)
+  - AI写作无法无损表达原意，写作本身是思考过程。作者须对内容负责，投入时间精炼表达，尊重读者时间。不要用AI代替思考，长文未必更好，应诚实标注AI生成内容。
+  - Tags: #read
+
 - (2026-08-12) [Stolen Thoughts](2026-08-12-stolen-thoughts.md)
   - 通过重放API加密推理块并注入破解模型，能明文还原强大LLM的原始思考，泄露算法细节、密钥等敏感数据，揭示严重安全隐患。
   - Tags: #read #llm #security
