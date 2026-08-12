@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-12) [Stolen Thoughts](202608/2026-08-12-stolen-thoughts.md)
+  - 通过重放API加密推理块并注入破解模型，能明文还原强大LLM的原始思考，泄露算法细节、密钥等敏感数据，揭示严重安全隐患。
+  - Tags: #read #llm #security
+
 - (2026-08-07) [How to keep thinking](202608/2026-08-07-how-to-keep-thinking.md)
   - 在AI时代，软件工程工作模式变得“狂乱”，迫使人们快速切换任务而牺牲深度思考。为此，需在工作外通过“用自己的话写作”和“阅读真实书籍”来保持缓慢、深入的思维习惯，以应对AI无法独立解决的复杂问题。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 随着大语言模型生成代码能力的提升，软件行业正进入“只写代码”时代：AI直接生成并部署代码，人类审查不再可行。工程师角色将从代码编写者转向系统设计师，专注接口、约束与风险管理，并建立新的信任机制以应对无人阅读代码的现实。
   - Tags: #read #agent
 
-- (2026-07-29) [You don't have to be smart if you can think clearly](202607/2026-07-29-you-don%27t-have-to-be-smart-if-you-can-think-clearly.md)
-  - 工程师分“聪明”与“强大”两类：聪明者依赖直觉，遇难题易慌乱；强大者则能放慢思考，识别不变的事实，稳步推导。真正的效能来自这种缓慢而清晰的思维能力，它比瞬时灵感更可靠、更可修炼。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (9 entries)
+- [2026-08](202608/monthly-index.md) (10 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)

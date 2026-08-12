@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-12) [Stolen Thoughts](2026-08-12-stolen-thoughts.md)
+  - 通过重放API加密推理块并注入破解模型，能明文还原强大LLM的原始思考，泄露算法细节、密钥等敏感数据，揭示严重安全隐患。
+  - Tags: #read #llm #security
+
 - (2026-08-07) [How to keep thinking](2026-08-07-how-to-keep-thinking.md)
   - 在AI时代，软件工程工作模式变得“狂乱”，迫使人们快速切换任务而牺牲深度思考。为此，需在工作外通过“用自己的话写作”和“阅读真实书籍”来保持缓慢、深入的思维习惯，以应对AI无法独立解决的复杂问题。
   - Tags: #read
