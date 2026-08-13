@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-13) [The Same Side of the Table](202608/2026-08-13-the-same-side-of-the-table.md)
+  - 管理者在会议中须始终与下属同一立场，不当众指责、撇清或围攻。下属失误时，应接棒引导、暂停或共担责任，会后辅导；提前承诺救场能增强安全感。这是避免恐惧文化，也是管理者荣誉，真正支持是压力下不背弃。
+  - Tags: #read #people
+
 - (2026-08-12) [There are no lossless transformations of natural-language text](202608/2026-08-12-there-are-no-lossless-transformations-of-natural-language-text.md)
   - AI写作无法无损表达原意，写作本身是思考过程。作者须对内容负责，投入时间精炼表达，尊重读者时间。不要用AI代替思考，长文未必更好，应诚实标注AI生成内容。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章提出以“工作”和“健身房”区分任务：前者重结果，可用AI代劳；后者重过程，须亲力亲为以锻炼能力。务必警惕依赖AI导致技能萎缩，主动保留“健身房”任务。
   - Tags: #read
 
-- (2026-08-01) [smevals - a small eval suite for evaluating models, prompts, and harnesses | Prime Radiant](202608/2026-08-01-smevals---a-small-eval-suite-for-evaluating-models%2C-prompts%2C-and-harnesses-prime-radiant.md)
-  - smevals 是评估小模型的 CLI 工具，可自定义任务和评分，对比多模型，支持编码代理辅助搭建评估，并提供可视化报告，帮助从廉价模型中找到最佳方案。
-  - Tags: #read #agent #llm
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (11 entries)
+- [2026-08](202608/monthly-index.md) (12 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)

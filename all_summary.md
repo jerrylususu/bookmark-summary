@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-08-13) [The Same Side of the Table](202608/2026-08-13-the-same-side-of-the-table.md)
+  - Tags: #read #people
+  - Summary: 管理者在会议中须始终与下属同一立场，不当众指责、撇清或围攻。下属失误时，应接棒引导、暂停或共担责任，会后辅导；提前承诺救场能增强安全感。这是避免恐惧文化，也是管理者荣誉，真正支持是压力下不背弃。
+
 - (2026-08-12) [There are no lossless transformations of natural-language text](202608/2026-08-12-there-are-no-lossless-transformations-of-natural-language-text.md)
   - Tags: #read
   - Summary: AI写作无法无损表达原意，写作本身是思考过程。作者须对内容负责，投入时间精炼表达，尊重读者时间。不要用AI代替思考，长文未必更好，应诚实标注AI生成内容。
