@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-08-13) [AI is removing the middle class of software engineering](202608/2026-08-13-ai-is-removing-the-middle-class-of-software-engineering.md)
+  - Tags: #read
+  - Summary: 文章指出AI未消除工程判断力，反而放大“写代码”与“做对决策”的差距。实现成本骤降，缺乏判断力的工程师高速制造技术债务，难以雇佣；能控制复杂度、评估AI输出的人更稀缺值钱，薪资两极分化。
+
 - (2026-08-13) [The Same Side of the Table](202608/2026-08-13-the-same-side-of-the-table.md)
   - Tags: #read #people
   - Summary: 管理者在会议中须始终与下属同一立场，不当众指责、撇清或围攻。下属失误时，应接棒引导、暂停或共担责任，会后辅导；提前承诺救场能增强安全感。这是避免恐惧文化，也是管理者荣誉，真正支持是压力下不背弃。

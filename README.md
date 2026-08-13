@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-13) [AI is removing the middle class of software engineering](202608/2026-08-13-ai-is-removing-the-middle-class-of-software-engineering.md)
+  - 文章指出AI未消除工程判断力，反而放大“写代码”与“做对决策”的差距。实现成本骤降，缺乏判断力的工程师高速制造技术债务，难以雇佣；能控制复杂度、评估AI输出的人更稀缺值钱，薪资两极分化。
+  - Tags: #read
+
 - (2026-08-13) [The Same Side of the Table](202608/2026-08-13-the-same-side-of-the-table.md)
   - 管理者在会议中须始终与下属同一立场，不当众指责、撇清或围攻。下属失误时，应接棒引导、暂停或共担责任，会后辅导；提前承诺救场能增强安全感。这是避免恐惧文化，也是管理者荣誉，真正支持是压力下不背弃。
   - Tags: #read #people
@@ -39,13 +43,9 @@
   - Safari与Firefox因Chrome垄断，被迫为特定网站内置域名级修复，弥补其仅适配Chrome的缺陷。此举虽解燃眉之急，却助长不良循环，重演IE霸权，侵蚀互联网开放。开发者应跨浏览器测试，主动遵循标准。
   - Tags: #read #web
 
-- (2026-08-01) [Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security](202608/2026-08-01-should-you-use-ai-for-a-task-here%E2%80%99s-a-simple-way-to-decide---schneier-on-security.md)
-  - 文章提出以“工作”和“健身房”区分任务：前者重结果，可用AI代劳；后者重过程，须亲力亲为以锻炼能力。务必警惕依赖AI导致技能萎缩，主动保留“健身房”任务。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (12 entries)
+- [2026-08](202608/monthly-index.md) (13 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
