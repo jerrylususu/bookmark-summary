@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-17) [Book the Meeting Before You Need It](202608/2026-08-17-book-the-meeting-before-you-need-it.md)
+  - 文章指出公司变大后跨团队协作瓶颈是约会议时间，提议固定每日预留时段用于按需跨职能对齐，由资深人员主持，避免取消后改异步，必要时果断停掉，也可兼作一对一沟通。
+  - Tags: #read #people #tips
+
 - (2026-08-17) [And then the men with guns tell you to do it anyway](202608/2026-08-17-and-then-the-men-with-guns-tell-you-to-do-it-anyway.md)
   - 文章以埃及革命中运营商被迫发送亲政府短信为例，探讨紧急警报系统在及时预警与防止滥用间的根本矛盾。作者认为技术防护无法抵御国家强制（“持枪者”），不存在完美设计，关键在于制度约束与权力制衡，而非仅靠工程安全机制。
   - Tags: #read
@@ -39,13 +43,9 @@
   - AI代理使个性化软件变得经济可行，其前提是源代码可获取。开源工具允许代理直接修改源码，省去插件系统，降低启动与维护成本。闭源工具则受限于预设钩子，难以定制。因此，开发工具必须开源。
   - Tags: #read
 
-- (2026-08-04) [Don't be a meat proxy](202608/2026-08-04-don%27t-be-a-meat-proxy.md)
-  - 文章抨击“肉代理”现象，批评人们不假思索直接粘贴AI回复，导致交流空洞。强调必须亲自理解、验证并用自己的话重述AI输出，以注入思考，守住人的价值与主体性。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (15 entries)
+- [2026-08](202608/monthly-index.md) (16 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)

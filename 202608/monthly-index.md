@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-17) [Book the Meeting Before You Need It](2026-08-17-book-the-meeting-before-you-need-it.md)
+  - 文章指出公司变大后跨团队协作瓶颈是约会议时间，提议固定每日预留时段用于按需跨职能对齐，由资深人员主持，避免取消后改异步，必要时果断停掉，也可兼作一对一沟通。
+  - Tags: #read #people #tips
+
 - (2026-08-17) [And then the men with guns tell you to do it anyway](2026-08-17-and-then-the-men-with-guns-tell-you-to-do-it-anyway.md)
   - 文章以埃及革命中运营商被迫发送亲政府短信为例，探讨紧急警报系统在及时预警与防止滥用间的根本矛盾。作者认为技术防护无法抵御国家强制（“持枪者”），不存在完美设计，关键在于制度约束与权力制衡，而非仅靠工程安全机制。
   - Tags: #read
