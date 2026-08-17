@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-17) [Thinking about tests: assertions and matchers](2026-08-17-thinking-about-tests-assertions-and-matchers.md)
+  - 文章探讨测试框架中“断言”与“匹配器”的设计演变，指出将匹配器独立为可组合对象能提升测试代码的可读性、扩展性与维护性。作者认为这种低层次 API 设计在 AI 辅助开发时代反而更关键，因表达性强的测试代码更易审查、节省 token，并强调测试措辞会影响开发者思维与代码质量。
+  - Tags: #read
+
 - (2026-08-17) [Book the Meeting Before You Need It](2026-08-17-book-the-meeting-before-you-need-it.md)
   - 文章指出公司变大后跨团队协作瓶颈是约会议时间，提议固定每日预留时段用于按需跨职能对齐，由资深人员主持，避免取消后改异步，必要时果断停掉，也可兼作一对一沟通。
   - Tags: #read #people #tips

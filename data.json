@@ -13062,5 +13062,14 @@
       "people",
       "tips"
     ]
+  },
+  {
+    "month": "202608",
+    "title": "Thinking about tests: assertions and matchers",
+    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+    "timestamp": 1786973966,
+    "tags": [
+      "read"
+    ]
   }
 ]
