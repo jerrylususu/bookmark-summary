@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-17) [And then the men with guns tell you to do it anyway](202608/2026-08-17-and-then-the-men-with-guns-tell-you-to-do-it-anyway.md)
+  - 文章以埃及革命中运营商被迫发送亲政府短信为例，探讨紧急警报系统在及时预警与防止滥用间的根本矛盾。作者认为技术防护无法抵御国家强制（“持枪者”），不存在完美设计，关键在于制度约束与权力制衡，而非仅靠工程安全机制。
+  - Tags: #read
+
 - (2026-08-15) [Don’t classify. Hallucinate!](202608/2026-08-15-don%E2%80%99t-classify.-hallucinate%21.md)
   - 文章提出用大模型分类时，不让模型严格输出合法类目，而是放任其自由编造“假分类”，再用向量相似度映射回真实分类。这样省去每次发送巨大合法列表的token开销，突破schema限制，可用更小更便宜的模型，适合类别繁多的分类场景。
   - Tags: #read #tips
@@ -39,13 +43,9 @@
   - 文章抨击“肉代理”现象，批评人们不假思索直接粘贴AI回复，导致交流空洞。强调必须亲自理解、验证并用自己的话重述AI输出，以注入思考，守住人的价值与主体性。
   - Tags: #read
 
-- (2026-08-03) [Giving and taking credit in big tech companies](202608/2026-08-03-giving-and-taking-credit-in-big-tech-companies.md)
-  - 在大型科技公司，功劳与指责由人际网络分配，非技术评估。工程师需主动宣传并分享功劳，将个人项目变为集体成就，以赢得盟友、避免成为替罪羊。
-  - Tags: #read #people #career
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (14 entries)
+- [2026-08](202608/monthly-index.md) (15 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)

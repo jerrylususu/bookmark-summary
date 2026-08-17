@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-08-17) [And then the men with guns tell you to do it anyway](202608/2026-08-17-and-then-the-men-with-guns-tell-you-to-do-it-anyway.md)
+  - Tags: #read
+  - Summary: 文章以埃及革命中运营商被迫发送亲政府短信为例，探讨紧急警报系统在及时预警与防止滥用间的根本矛盾。作者认为技术防护无法抵御国家强制（“持枪者”），不存在完美设计，关键在于制度约束与权力制衡，而非仅靠工程安全机制。
+
 - (2026-08-15) [Don’t classify. Hallucinate!](202608/2026-08-15-don%E2%80%99t-classify.-hallucinate%21.md)
   - Tags: #read #tips
   - Summary: 文章提出用大模型分类时，不让模型严格输出合法类目，而是放任其自由编造“假分类”，再用向量相似度映射回真实分类。这样省去每次发送巨大合法列表的token开销，突破schema限制，可用更小更便宜的模型，适合类别繁多的分类场景。
