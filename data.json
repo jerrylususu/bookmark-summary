@@ -13081,5 +13081,15 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202608",
+    "title": "What Is Reasoning",
+    "url": "https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/",
+    "timestamp": 1787230665,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]

@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-20) [What Is Reasoning](2026-08-20-what-is-reasoning.md)
+  - 大模型“推理”并不神秘：推理痕迹只是用特殊标记分隔的普通文本，推理努力仅是系统提示中的一句话，禁用思考靠预填充或阻止采样推理token实现。本质是通过特殊token、系统提示和训练约定来管理文本生成。
+  - Tags: #read #llm
+
 - (2026-08-18) [Agent开发手记：agent架构的一个发展趋势 - 铁蕾的个人博客](2026-08-18-agent%E5%BC%80%E5%8F%91%E6%89%8B%E8%AE%B0%EF%BC%9Aagent%E6%9E%B6%E6%9E%84%E7%9A%84%E4%B8%80%E4%B8%AA%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
   - 文章认为 agent 架构正从一次性客户端转向可长期存续的云端服务，需前后端分离、可中断持久化恢复，生命周期与内存状态解耦；Bridgic Agent 的“Agent引导人”设计已接近该架构。
   - Tags: #read #agent
