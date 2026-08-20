@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-20) [Working with Dynamic Workers | Jeremy Morrell](202608/2026-08-20-working-with-dynamic-workers-jeremy-morrell.md)
+  - Cloudflare推出Dynamic Workers，可在隔离沙箱中安全运行用户代码，避免eval的线程、内存和网络风险。它支持CPU限制、禁用网络、自定义绑定及对象能力控制，并提供日志捕获，让普通Web应用低成本实现用户可编程扩展。
+  - Tags: #read #guide #deepdive
+
 - (2026-08-20) [Extensible Software in the age of LLMs | Jeremy Morrell](202608/2026-08-20-extensible-software-in-the-age-of-llms-jeremy-morrell.md)
   - LLM 让用户用自然语言生成扩展，Web 软件应从封闭产品转向“可扩展平台”。关键是提供稳定核心与安全隔离，采用对象能力而非暴露凭证，并借助 V8 Isolates、MicroVM、WASM 等原语控制成本与风险。
   - Tags: #read #deepdive #agent #design
@@ -39,13 +43,9 @@
   - 文章指出AI未消除工程判断力，反而放大“写代码”与“做对决策”的差距。实现成本骤降，缺乏判断力的工程师高速制造技术债务，难以雇佣；能控制复杂度、评估AI输出的人更稀缺值钱，薪资两极分化。
   - Tags: #read
 
-- (2026-08-13) [The Same Side of the Table](202608/2026-08-13-the-same-side-of-the-table.md)
-  - 管理者在会议中须始终与下属同一立场，不当众指责、撇清或围攻。下属失误时，应接棒引导、暂停或共担责任，会后辅导；提前承诺救场能增强安全感。这是避免恐惧文化，也是管理者荣誉，真正支持是压力下不背弃。
-  - Tags: #read #people
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (21 entries)
+- [2026-08](202608/monthly-index.md) (22 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)

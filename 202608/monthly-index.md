@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-20) [Working with Dynamic Workers | Jeremy Morrell](2026-08-20-working-with-dynamic-workers-jeremy-morrell.md)
+  - Cloudflare推出Dynamic Workers，可在隔离沙箱中安全运行用户代码，避免eval的线程、内存和网络风险。它支持CPU限制、禁用网络、自定义绑定及对象能力控制，并提供日志捕获，让普通Web应用低成本实现用户可编程扩展。
+  - Tags: #read #guide #deepdive
+
 - (2026-08-20) [Extensible Software in the age of LLMs | Jeremy Morrell](2026-08-20-extensible-software-in-the-age-of-llms-jeremy-morrell.md)
   - LLM 让用户用自然语言生成扩展，Web 软件应从封闭产品转向“可扩展平台”。关键是提供稳定核心与安全隔离，采用对象能力而非暴露凭证，并借助 V8 Isolates、MicroVM、WASM 等原语控制成本与风险。
   - Tags: #read #deepdive #agent #design

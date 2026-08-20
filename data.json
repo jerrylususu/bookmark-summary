@@ -13112,5 +13112,16 @@
       "agent",
       "design"
     ]
+  },
+  {
+    "month": "202608",
+    "title": "Working with Dynamic Workers | Jeremy Morrell",
+    "url": "https://jeremymorrell.dev/blog/working-with-dynamic-workers/",
+    "timestamp": 1787233999,
+    "tags": [
+      "read",
+      "guide",
+      "deepdive"
+    ]
   }
 ]
