@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-20) [Extensible Software in the age of LLMs | Jeremy Morrell](2026-08-20-extensible-software-in-the-age-of-llms-jeremy-morrell.md)
+  - LLM 让用户用自然语言生成扩展，Web 软件应从封闭产品转向“可扩展平台”。关键是提供稳定核心与安全隔离，采用对象能力而非暴露凭证，并借助 V8 Isolates、MicroVM、WASM 等原语控制成本与风险。
+  - Tags: #read #deepdive #agent #design
+
 - (2026-08-20) [smol machines — the same smol machine on your laptop, in the cloud, or self-hosted](2026-08-20-smol-machines-%E2%80%94-the-same-smol-machine-on-your-laptop%2C-in-the-cloud%2C-or-self-hosted.md)
   - smol machines 是基于 libkrun 的轻量虚拟机项目，提供硬件隔离、快速启动（<200ms）的 Linux 微VM。工件 .smolmachine 可在本地、云和自托管一致运行，支持沙箱不可信代码、打包便携可执行文件、持久化开发机及 GPU 加速。
   - Tags: #tools

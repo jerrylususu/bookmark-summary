@@ -13100,5 +13100,17 @@
     "tags": [
       "tools"
     ]
+  },
+  {
+    "month": "202608",
+    "title": "Extensible Software in the age of LLMs | Jeremy Morrell",
+    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+    "timestamp": 1787232591,
+    "tags": [
+      "read",
+      "deepdive",
+      "agent",
+      "design"
+    ]
   }
 ]
