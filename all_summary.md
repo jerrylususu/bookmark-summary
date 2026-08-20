@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-08-20) [smol machines — the same smol machine on your laptop, in the cloud, or self-hosted](202608/2026-08-20-smol-machines-%E2%80%94-the-same-smol-machine-on-your-laptop%2C-in-the-cloud%2C-or-self-hosted.md)
+  - Tags: #tools
+  - Summary: smol machines 是基于 libkrun 的轻量虚拟机项目，提供硬件隔离、快速启动（<200ms）的 Linux 微VM。工件 .smolmachine 可在本地、云和自托管一致运行，支持沙箱不可信代码、打包便携可执行文件、持久化开发机及 GPU 加速。
+
 - (2026-08-20) [What Is Reasoning](202608/2026-08-20-what-is-reasoning.md)
   - Tags: #read #llm
   - Summary: 大模型“推理”并不神秘：推理痕迹只是用特殊标记分隔的普通文本，推理努力仅是系统提示中的一句话，禁用思考靠预填充或阻止采样推理token实现。本质是通过特殊token、系统提示和训练约定来管理文本生成。

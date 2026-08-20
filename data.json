@@ -13091,5 +13091,14 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202608",
+    "title": "smol machines — the same smol machine on your laptop, in the cloud, or self-hosted",
+    "url": "https://smolmachines.com/",
+    "timestamp": 1787231081,
+    "tags": [
+      "tools"
+    ]
   }
 ]

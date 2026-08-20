@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-20) [smol machines — the same smol machine on your laptop, in the cloud, or self-hosted](202608/2026-08-20-smol-machines-%E2%80%94-the-same-smol-machine-on-your-laptop%2C-in-the-cloud%2C-or-self-hosted.md)
+  - smol machines 是基于 libkrun 的轻量虚拟机项目，提供硬件隔离、快速启动（<200ms）的 Linux 微VM。工件 .smolmachine 可在本地、云和自托管一致运行，支持沙箱不可信代码、打包便携可执行文件、持久化开发机及 GPU 加速。
+  - Tags: #tools
+
 - (2026-08-20) [What Is Reasoning](202608/2026-08-20-what-is-reasoning.md)
   - 大模型“推理”并不神秘：推理痕迹只是用特殊标记分隔的普通文本，推理努力仅是系统提示中的一句话，禁用思考靠预填充或阻止采样推理token实现。本质是通过特殊token、系统提示和训练约定来管理文本生成。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - AI写作无法无损表达原意，写作本身是思考过程。作者须对内容负责，投入时间精炼表达，尊重读者时间。不要用AI代替思考，长文未必更好，应诚实标注AI生成内容。
   - Tags: #read
 
-- (2026-08-12) [Stolen Thoughts](202608/2026-08-12-stolen-thoughts.md)
-  - 通过重放API加密推理块并注入破解模型，能明文还原强大LLM的原始思考，泄露算法细节、密钥等敏感数据，揭示严重安全隐患。
-  - Tags: #read #llm #security
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (19 entries)
+- [2026-08](202608/monthly-index.md) (20 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
