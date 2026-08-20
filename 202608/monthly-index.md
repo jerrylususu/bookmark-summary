@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-20) [OpenTelemetry Tracing in 200 lines of code | Jeremy Morrell](2026-08-20-opentelemetry-tracing-in-200-lines-of-code-jeremy-morrell.md)
+  - 本文用约200行极简实现揭示分布式追踪本质：Span是带ID的日志，Trace靠ID关联，上下文传播用traceparent头，仪器化即包装代码。OpenTelemetry虽庞大但只是在此核心上增加工程化健壮性。
+  - Tags: #read #deepdive #observability
+
 - (2026-08-20) [Working with Dynamic Workers | Jeremy Morrell](2026-08-20-working-with-dynamic-workers-jeremy-morrell.md)
   - Cloudflare推出Dynamic Workers，可在隔离沙箱中安全运行用户代码，避免eval的线程、内存和网络风险。它支持CPU限制、禁用网络、自定义绑定及对象能力控制，并提供日志捕获，让普通Web应用低成本实现用户可编程扩展。
   - Tags: #read #guide #deepdive

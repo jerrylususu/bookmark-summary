@@ -13123,5 +13123,16 @@
       "guide",
       "deepdive"
     ]
+  },
+  {
+    "month": "202608",
+    "title": "OpenTelemetry Tracing in 200 lines of code | Jeremy Morrell",
+    "url": "https://jeremymorrell.dev/blog/minimal-js-tracing/",
+    "timestamp": 1787234542,
+    "tags": [
+      "read",
+      "deepdive",
+      "observability"
+    ]
   }
 ]
