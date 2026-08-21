@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-08-21) [Introducing Dashboard Touch, a build-your-own version of Touch ID - Anil Dash](202608/2026-08-21-introducing-dashboard-touch%2C-a-build-your-own-version-of-touch-id---anil-dash.md)
+  - Tags: #read
+  - Summary: Anil Dash 因不想受苹果键盘束缚，基于 tinyTouch 开发开源项目 Dashboard Touch，用低成本指纹传感器和微控制器自制 USB 指纹认证装置，模拟键盘自动输入密码。密码与指纹均存本地，仅适合安全环境个人使用。他也分享了动手制作的乐趣，希望社区改进。
+
 - (2026-08-20) [OpenTelemetry Tracing in 200 lines of code | Jeremy Morrell](202608/2026-08-20-opentelemetry-tracing-in-200-lines-of-code-jeremy-morrell.md)
   - Tags: #read #deepdive #observability
   - Summary: 本文用约200行极简实现揭示分布式追踪本质：Span是带ID的日志，Trace靠ID关联，上下文传播用traceparent头，仪器化即包装代码。OpenTelemetry虽庞大但只是在此核心上增加工程化健壮性。

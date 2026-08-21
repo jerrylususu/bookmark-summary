@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-21) [Introducing Dashboard Touch, a build-your-own version of Touch ID - Anil Dash](202608/2026-08-21-introducing-dashboard-touch%2C-a-build-your-own-version-of-touch-id---anil-dash.md)
+  - Anil Dash 因不想受苹果键盘束缚，基于 tinyTouch 开发开源项目 Dashboard Touch，用低成本指纹传感器和微控制器自制 USB 指纹认证装置，模拟键盘自动输入密码。密码与指纹均存本地，仅适合安全环境个人使用。他也分享了动手制作的乐趣，希望社区改进。
+  - Tags: #read
+
 - (2026-08-20) [OpenTelemetry Tracing in 200 lines of code | Jeremy Morrell](202608/2026-08-20-opentelemetry-tracing-in-200-lines-of-code-jeremy-morrell.md)
   - 本文用约200行极简实现揭示分布式追踪本质：Span是带ID的日志，Trace靠ID关联，上下文传播用traceparent头，仪器化即包装代码。OpenTelemetry虽庞大但只是在此核心上增加工程化健壮性。
   - Tags: #read #deepdive #observability
@@ -39,13 +43,9 @@
   - 文章以埃及革命中运营商被迫发送亲政府短信为例，探讨紧急警报系统在及时预警与防止滥用间的根本矛盾。作者认为技术防护无法抵御国家强制（“持枪者”），不存在完美设计，关键在于制度约束与权力制衡，而非仅靠工程安全机制。
   - Tags: #read
 
-- (2026-08-15) [Don’t classify. Hallucinate!](202608/2026-08-15-don%E2%80%99t-classify.-hallucinate%21.md)
-  - 文章提出用大模型分类时，不让模型严格输出合法类目，而是放任其自由编造“假分类”，再用向量相似度映射回真实分类。这样省去每次发送巨大合法列表的token开销，突破schema限制，可用更小更便宜的模型，适合类别繁多的分类场景。
-  - Tags: #read #tips
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (23 entries)
+- [2026-08](202608/monthly-index.md) (24 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
