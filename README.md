@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-22) [Stop Making TUIs — Quarrelsome](202608/2026-08-22-stop-making-tuis-%E2%80%94-quarrelsome.md)
+  - 文章认为，AI编程助手已让原生GUI开发变得容易，不应再继续构建终端用户界面（TUI）。作者逐一反驳TUI的密度、SSH、可访问性等优势，并展示用AI生成的macOS应用，呼吁开发者更新默认选择，转向原生GUI。
+  - Tags: #read #ui
+
 - (2026-08-21) [Introducing Dashboard Touch, a build-your-own version of Touch ID - Anil Dash](202608/2026-08-21-introducing-dashboard-touch%2C-a-build-your-own-version-of-touch-id---anil-dash.md)
   - Anil Dash 因不想受苹果键盘束缚，基于 tinyTouch 开发开源项目 Dashboard Touch，用低成本指纹传感器和微控制器自制 USB 指纹认证装置，模拟键盘自动输入密码。密码与指纹均存本地，仅适合安全环境个人使用。他也分享了动手制作的乐趣，希望社区改进。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章指出公司变大后跨团队协作瓶颈是约会议时间，提议固定每日预留时段用于按需跨职能对齐，由资深人员主持，避免取消后改异步，必要时果断停掉，也可兼作一对一沟通。
   - Tags: #read #people #tips
 
-- (2026-08-17) [And then the men with guns tell you to do it anyway](202608/2026-08-17-and-then-the-men-with-guns-tell-you-to-do-it-anyway.md)
-  - 文章以埃及革命中运营商被迫发送亲政府短信为例，探讨紧急警报系统在及时预警与防止滥用间的根本矛盾。作者认为技术防护无法抵御国家强制（“持枪者”），不存在完美设计，关键在于制度约束与权力制衡，而非仅靠工程安全机制。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (24 entries)
+- [2026-08](202608/monthly-index.md) (25 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)

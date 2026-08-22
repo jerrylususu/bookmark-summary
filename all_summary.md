@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-08-22) [Stop Making TUIs — Quarrelsome](202608/2026-08-22-stop-making-tuis-%E2%80%94-quarrelsome.md)
+  - Tags: #read #ui
+  - Summary: 文章认为，AI编程助手已让原生GUI开发变得容易，不应再继续构建终端用户界面（TUI）。作者逐一反驳TUI的密度、SSH、可访问性等优势，并展示用AI生成的macOS应用，呼吁开发者更新默认选择，转向原生GUI。
+
 - (2026-08-21) [Introducing Dashboard Touch, a build-your-own version of Touch ID - Anil Dash](202608/2026-08-21-introducing-dashboard-touch%2C-a-build-your-own-version-of-touch-id---anil-dash.md)
   - Tags: #read
   - Summary: Anil Dash 因不想受苹果键盘束缚，基于 tinyTouch 开发开源项目 Dashboard Touch，用低成本指纹传感器和微控制器自制 USB 指纹认证装置，模拟键盘自动输入密码。密码与指纹均存本地，仅适合安全环境个人使用。他也分享了动手制作的乐趣，希望社区改进。
