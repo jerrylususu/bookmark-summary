@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-23) [Fast and Hard Code](202608/2026-08-23-fast-and-hard-code.md)
+  - LLM降低了编程语言转换成本，使更多开发者敢于选择Rust、Zig等性能更好但更难的语言及DWARF、eBPF等底层技术。这可能带来两极分化：既产生更多低质量代码，也催生更多追求极致性能和小体积的开发者与项目。
+  - Tags: #read #llm
+
 - (2026-08-22) [Stop Making TUIs — Quarrelsome](202608/2026-08-22-stop-making-tuis-%E2%80%94-quarrelsome.md)
   - 文章认为，AI编程助手已让原生GUI开发变得容易，不应再继续构建终端用户界面（TUI）。作者逐一反驳TUI的密度、SSH、可访问性等优势，并展示用AI生成的macOS应用，呼吁开发者更新默认选择，转向原生GUI。
   - Tags: #read #ui
@@ -39,13 +43,9 @@
   - 文章探讨测试框架中“断言”与“匹配器”的设计演变，指出将匹配器独立为可组合对象能提升测试代码的可读性、扩展性与维护性。作者认为这种低层次 API 设计在 AI 辅助开发时代反而更关键，因表达性强的测试代码更易审查、节省 token，并强调测试措辞会影响开发者思维与代码质量。
   - Tags: #read
 
-- (2026-08-17) [Book the Meeting Before You Need It](202608/2026-08-17-book-the-meeting-before-you-need-it.md)
-  - 文章指出公司变大后跨团队协作瓶颈是约会议时间，提议固定每日预留时段用于按需跨职能对齐，由资深人员主持，避免取消后改异步，必要时果断停掉，也可兼作一对一沟通。
-  - Tags: #read #people #tips
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (25 entries)
+- [2026-08](202608/monthly-index.md) (26 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)

@@ -13153,5 +13153,15 @@
       "read",
       "ui"
     ]
+  },
+  {
+    "month": "202608",
+    "title": "Fast and Hard Code",
+    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+    "timestamp": 1787486767,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]

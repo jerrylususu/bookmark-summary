@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-23) [Fast and Hard Code](2026-08-23-fast-and-hard-code.md)
+  - LLM降低了编程语言转换成本，使更多开发者敢于选择Rust、Zig等性能更好但更难的语言及DWARF、eBPF等底层技术。这可能带来两极分化：既产生更多低质量代码，也催生更多追求极致性能和小体积的开发者与项目。
+  - Tags: #read #llm
+
 - (2026-08-22) [Stop Making TUIs — Quarrelsome](2026-08-22-stop-making-tuis-%E2%80%94-quarrelsome.md)
   - 文章认为，AI编程助手已让原生GUI开发变得容易，不应再继续构建终端用户界面（TUI）。作者逐一反驳TUI的密度、SSH、可访问性等优势，并展示用AI生成的macOS应用，呼吁开发者更新默认选择，转向原生GUI。
   - Tags: #read #ui
