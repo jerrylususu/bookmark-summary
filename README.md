@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-24) [Building a software factory for AI SDK](202608/2026-08-24-building-a-software-factory-for-ai-sdk.md)
+  - Vercel团队为AI SDK构建“软件工厂”，用多个专职agent自动处理issue和PR，运行于隔离沙箱，人类保留最终审批。四周后，工厂贡献25-35%合并PR，关闭超75% issues，积压大幅下降，验证了以人为核心的自动化维护模式。
+  - Tags: #read #agent
+
 - (2026-08-24) [Human judgment doesn't leave the software factory. It relocates.](202608/2026-08-24-human-judgment-doesn%27t-leave-the-software-factory.-it-relocates..md)
   - 软件工厂将重复编码交给 AI，但人类判断并未消失，而是被重新定位到定义意图、设计系统、设定质量门槛、解读验证和最终上线负责。验证不是越多越好，认知带宽有限，需动态调整自主性并保留人类所有权。代码能上线，仍需人的品味与责任。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - LLM 让用户用自然语言生成扩展，Web 软件应从封闭产品转向“可扩展平台”。关键是提供稳定核心与安全隔离，采用对象能力而非暴露凭证，并借助 V8 Isolates、MicroVM、WASM 等原语控制成本与风险。
   - Tags: #read #deepdive #agent #design
 
-- (2026-08-20) [smol machines — the same smol machine on your laptop, in the cloud, or self-hosted](202608/2026-08-20-smol-machines-%E2%80%94-the-same-smol-machine-on-your-laptop%2C-in-the-cloud%2C-or-self-hosted.md)
-  - smol machines 是基于 libkrun 的轻量虚拟机项目，提供硬件隔离、快速启动（<200ms）的 Linux 微VM。工件 .smolmachine 可在本地、云和自托管一致运行，支持沙箱不可信代码、打包便携可执行文件、持久化开发机及 GPU 加速。
-  - Tags: #tools
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (29 entries)
+- [2026-08](202608/monthly-index.md) (30 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
