@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-24) [Your executable is a SQLite database](202608/2026-08-24-your-executable-is-a-sqlite-database.md)
+  - 文章提出将Linux可执行文件从ELF换成SQLite数据库，原型SELF可运行，工具退化为SQL查询，支持去重、事务化与系统闭包，代价是启动延迟和文件略大。
+  - Tags: #read #hack #deepdive
+
 - (2026-08-24) [Anger, Anxiety and Agency](202608/2026-08-24-anger%2C-anxiety-and-agency.md)
   - 文章讨论面对AI不确定性时应持的态度：区分焦虑与愤怒，指出愤怒易错误归因，因为行业领导者同样迷茫。作者主张以好奇和实验替代愤怒，通过实践获得判断力与真实选择能力，而非虚假行动感，最终赢得能动性。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 大模型“推理”并不神秘：推理痕迹只是用特殊标记分隔的普通文本，推理努力仅是系统提示中的一句话，禁用思考靠预填充或阻止采样推理token实现。本质是通过特殊token、系统提示和训练约定来管理文本生成。
   - Tags: #read #llm
 
-- (2026-08-18) [Agent开发手记：agent架构的一个发展趋势 - 铁蕾的个人博客](202608/2026-08-18-agent%E5%BC%80%E5%8F%91%E6%89%8B%E8%AE%B0%EF%BC%9Aagent%E6%9E%B6%E6%9E%84%E7%9A%84%E4%B8%80%E4%B8%AA%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF---%E9%93%81%E8%95%BE%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
-  - 文章认为 agent 架构正从一次性客户端转向可长期存续的云端服务，需前后端分离、可中断持久化恢复，生命周期与内存状态解耦；Bridgic Agent 的“Agent引导人”设计已接近该架构。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (27 entries)
+- [2026-08](202608/monthly-index.md) (28 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)

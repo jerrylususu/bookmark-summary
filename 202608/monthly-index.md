@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-24) [Your executable is a SQLite database](2026-08-24-your-executable-is-a-sqlite-database.md)
+  - 文章提出将Linux可执行文件从ELF换成SQLite数据库，原型SELF可运行，工具退化为SQL查询，支持去重、事务化与系统闭包，代价是启动延迟和文件略大。
+  - Tags: #read #hack #deepdive
+
 - (2026-08-24) [Anger, Anxiety and Agency](2026-08-24-anger%2C-anxiety-and-agency.md)
   - 文章讨论面对AI不确定性时应持的态度：区分焦虑与愤怒，指出愤怒易错误归因，因为行业领导者同样迷茫。作者主张以好奇和实验替代愤怒，通过实践获得判断力与真实选择能力，而非虚假行动感，最终赢得能动性。
   - Tags: #read

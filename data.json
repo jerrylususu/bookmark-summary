@@ -13172,5 +13172,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202608",
+    "title": "Your executable is a SQLite database",
+    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "timestamp": 1787582016,
+    "tags": [
+      "read",
+      "hack",
+      "deepdive"
+    ]
   }
 ]
