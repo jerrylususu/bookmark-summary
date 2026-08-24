@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-24) [Human judgment doesn't leave the software factory. It relocates.](2026-08-24-human-judgment-doesn%27t-leave-the-software-factory.-it-relocates..md)
+  - 软件工厂将重复编码交给 AI，但人类判断并未消失，而是被重新定位到定义意图、设计系统、设定质量门槛、解读验证和最终上线负责。验证不是越多越好，认知带宽有限，需动态调整自主性并保留人类所有权。代码能上线，仍需人的品味与责任。
+  - Tags: #read #agent
+
 - (2026-08-24) [Your executable is a SQLite database](2026-08-24-your-executable-is-a-sqlite-database.md)
   - 文章提出将Linux可执行文件从ELF换成SQLite数据库，原型SELF可运行，工具退化为SQL查询，支持去重、事务化与系统闭包，代价是启动延迟和文件略大。
   - Tags: #read #hack #deepdive
