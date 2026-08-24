@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-24) [Anger, Anxiety and Agency](202608/2026-08-24-anger%2C-anxiety-and-agency.md)
+  - 文章讨论面对AI不确定性时应持的态度：区分焦虑与愤怒，指出愤怒易错误归因，因为行业领导者同样迷茫。作者主张以好奇和实验替代愤怒，通过实践获得判断力与真实选择能力，而非虚假行动感，最终赢得能动性。
+  - Tags: #read
+
 - (2026-08-23) [Fast and Hard Code](202608/2026-08-23-fast-and-hard-code.md)
   - LLM降低了编程语言转换成本，使更多开发者敢于选择Rust、Zig等性能更好但更难的语言及DWARF、eBPF等底层技术。这可能带来两极分化：既产生更多低质量代码，也催生更多追求极致性能和小体积的开发者与项目。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 文章认为 agent 架构正从一次性客户端转向可长期存续的云端服务，需前后端分离、可中断持久化恢复，生命周期与内存状态解耦；Bridgic Agent 的“Agent引导人”设计已接近该架构。
   - Tags: #read #agent
 
-- (2026-08-17) [Thinking about tests: assertions and matchers](202608/2026-08-17-thinking-about-tests-assertions-and-matchers.md)
-  - 文章探讨测试框架中“断言”与“匹配器”的设计演变，指出将匹配器独立为可组合对象能提升测试代码的可读性、扩展性与维护性。作者认为这种低层次 API 设计在 AI 辅助开发时代反而更关键，因表达性强的测试代码更易审查、节省 token，并强调测试措辞会影响开发者思维与代码质量。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (26 entries)
+- [2026-08](202608/monthly-index.md) (27 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
