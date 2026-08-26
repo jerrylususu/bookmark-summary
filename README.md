@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-26) [The end of programming — Paul Dix](202608/2026-08-26-the-end-of-programming-%E2%80%94-paul-dix.md)
+  - 作者判断传统“人手写代码、逐行审查”的软件开发模式正走向终结。Bun用AI主导重写超百万行Rust、GitHub代码量指数增长等表明，AI可产出并迭代复杂软件。未来开发者将转向定义问题、设计架构和构建验证闭环，只验收最终运行结果，而非阅读代码本身。
+  - Tags: #read
+
 - (2026-08-24) [Building a software factory for AI SDK](202608/2026-08-24-building-a-software-factory-for-ai-sdk.md)
   - Vercel团队为AI SDK构建“软件工厂”，用多个专职agent自动处理issue和PR，运行于隔离沙箱，人类保留最终审批。四周后，工厂贡献25-35%合并PR，关闭超75% issues，积压大幅下降，验证了以人为核心的自动化维护模式。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - Cloudflare推出Dynamic Workers，可在隔离沙箱中安全运行用户代码，避免eval的线程、内存和网络风险。它支持CPU限制、禁用网络、自定义绑定及对象能力控制，并提供日志捕获，让普通Web应用低成本实现用户可编程扩展。
   - Tags: #read #guide #deepdive
 
-- (2026-08-20) [Extensible Software in the age of LLMs | Jeremy Morrell](202608/2026-08-20-extensible-software-in-the-age-of-llms-jeremy-morrell.md)
-  - LLM 让用户用自然语言生成扩展，Web 软件应从封闭产品转向“可扩展平台”。关键是提供稳定核心与安全隔离，采用对象能力而非暴露凭证，并借助 V8 Isolates、MicroVM、WASM 等原语控制成本与风险。
-  - Tags: #read #deepdive #agent #design
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (30 entries)
+- [2026-08](202608/monthly-index.md) (31 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)

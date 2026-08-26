@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-26) [The end of programming — Paul Dix](2026-08-26-the-end-of-programming-%E2%80%94-paul-dix.md)
+  - 作者判断传统“人手写代码、逐行审查”的软件开发模式正走向终结。Bun用AI主导重写超百万行Rust、GitHub代码量指数增长等表明，AI可产出并迭代复杂软件。未来开发者将转向定义问题、设计架构和构建验证闭环，只验收最终运行结果，而非阅读代码本身。
+  - Tags: #read
+
 - (2026-08-24) [Building a software factory for AI SDK](2026-08-24-building-a-software-factory-for-ai-sdk.md)
   - Vercel团队为AI SDK构建“软件工厂”，用多个专职agent自动处理issue和PR，运行于隔离沙箱，人类保留最终审批。四周后，工厂贡献25-35%合并PR，关闭超75% issues，积压大幅下降，验证了以人为核心的自动化维护模式。
   - Tags: #read #agent
