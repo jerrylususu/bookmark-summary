@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-08-27) [Copy-on-write git worktrees](202608/2026-08-27-copy-on-write-git-worktrees.md)
+  - Tags: #read #tips
+  - Summary: 利用文件系统写时复制（reflink）特性，让多个 Git worktree 共享工作文件，从而节省磁盘空间。作者通过先 `--no-checkout` 创建 worktree，再以 reflink 复制已有文件，最后检出完成，并封装为 `git-cow-worktree` 工具。
+
 - (2026-08-26) [The end of programming — Paul Dix](202608/2026-08-26-the-end-of-programming-%E2%80%94-paul-dix.md)
   - Tags: #read
   - Summary: 作者判断传统“人手写代码、逐行审查”的软件开发模式正走向终结。Bun用AI主导重写超百万行Rust、GitHub代码量指数增长等表明，AI可产出并迭代复杂软件。未来开发者将转向定义问题、设计架构和构建验证闭环，只验收最终运行结果，而非阅读代码本身。

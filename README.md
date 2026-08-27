@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-27) [Copy-on-write git worktrees](202608/2026-08-27-copy-on-write-git-worktrees.md)
+  - 利用文件系统写时复制（reflink）特性，让多个 Git worktree 共享工作文件，从而节省磁盘空间。作者通过先 `--no-checkout` 创建 worktree，再以 reflink 复制已有文件，最后检出完成，并封装为 `git-cow-worktree` 工具。
+  - Tags: #read #tips
+
 - (2026-08-26) [The end of programming — Paul Dix](202608/2026-08-26-the-end-of-programming-%E2%80%94-paul-dix.md)
   - 作者判断传统“人手写代码、逐行审查”的软件开发模式正走向终结。Bun用AI主导重写超百万行Rust、GitHub代码量指数增长等表明，AI可产出并迭代复杂软件。未来开发者将转向定义问题、设计架构和构建验证闭环，只验收最终运行结果，而非阅读代码本身。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 本文用约200行极简实现揭示分布式追踪本质：Span是带ID的日志，Trace靠ID关联，上下文传播用traceparent头，仪器化即包装代码。OpenTelemetry虽庞大但只是在此核心上增加工程化健壮性。
   - Tags: #read #deepdive #observability
 
-- (2026-08-20) [Working with Dynamic Workers | Jeremy Morrell](202608/2026-08-20-working-with-dynamic-workers-jeremy-morrell.md)
-  - Cloudflare推出Dynamic Workers，可在隔离沙箱中安全运行用户代码，避免eval的线程、内存和网络风险。它支持CPU限制、禁用网络、自定义绑定及对象能力控制，并提供日志捕获，让普通Web应用低成本实现用户可编程扩展。
-  - Tags: #read #guide #deepdive
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (31 entries)
+- [2026-08](202608/monthly-index.md) (32 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
