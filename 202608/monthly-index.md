@@ -1,7 +1,11 @@
 # 2026-08 Monthly Index
 
+- (2026-08-29) [Is Having Agents in the Room Meant to Be Chaotic? — Raft](2026-08-29-is-having-agents-in-the-room-meant-to-be-chaotic-%E2%80%94-raft.md)
+  - 文章以计数游戏说明现有工作空间不适配代理：代理回合制导致推理与房间变化脱节。提出代理原生空间Raft与代理体验设计AX，通过“代理收件箱”和“保留草稿”让代理自主决定注意力与发送，并强调感知同理心与行动显式化两条原则。
+  - Tags: #read #agent
+
 - (2026-08-27) [Copy-on-write git worktrees](2026-08-27-copy-on-write-git-worktrees.md)
-  - 利用文件系统写时复制（reflink）特性，让多个 Git worktree 共享工作文件，从而节省磁盘空间。作者通过先 `--no-checkout` 创建 worktree，再以 reflink 复制已有文件，最后检出完成，并封装为 `git-cow-worktree` 工具。
+  - 利用文件系统写时复制（reflink）特性，让多个 Git worktree 共享工作文件，从而节省磁盘空间。作者通过先  创建 worktree，再以 reflink 复制已有文件，最后检出完成，并封装为  工具。
   - Tags: #read #tips
 
 - (2026-08-26) [The end of programming — Paul Dix](2026-08-26-the-end-of-programming-%E2%80%94-paul-dix.md)

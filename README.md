@@ -3,8 +3,12 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-29) [Is Having Agents in the Room Meant to Be Chaotic? — Raft](202608/2026-08-29-is-having-agents-in-the-room-meant-to-be-chaotic-%E2%80%94-raft.md)
+  - 文章以计数游戏说明现有工作空间不适配代理：代理回合制导致推理与房间变化脱节。提出代理原生空间Raft与代理体验设计AX，通过“代理收件箱”和“保留草稿”让代理自主决定注意力与发送，并强调感知同理心与行动显式化两条原则。
+  - Tags: #read #agent
+
 - (2026-08-27) [Copy-on-write git worktrees](202608/2026-08-27-copy-on-write-git-worktrees.md)
-  - 利用文件系统写时复制（reflink）特性，让多个 Git worktree 共享工作文件，从而节省磁盘空间。作者通过先 `--no-checkout` 创建 worktree，再以 reflink 复制已有文件，最后检出完成，并封装为 `git-cow-worktree` 工具。
+  - 利用文件系统写时复制（reflink）特性，让多个 Git worktree 共享工作文件，从而节省磁盘空间。作者通过先  创建 worktree，再以 reflink 复制已有文件，最后检出完成，并封装为  工具。
   - Tags: #read #tips
 
 - (2026-08-26) [The end of programming — Paul Dix](202608/2026-08-26-the-end-of-programming-%E2%80%94-paul-dix.md)
@@ -39,13 +43,9 @@
   - Anil Dash 因不想受苹果键盘束缚，基于 tinyTouch 开发开源项目 Dashboard Touch，用低成本指纹传感器和微控制器自制 USB 指纹认证装置，模拟键盘自动输入密码。密码与指纹均存本地，仅适合安全环境个人使用。他也分享了动手制作的乐趣，希望社区改进。
   - Tags: #read
 
-- (2026-08-20) [OpenTelemetry Tracing in 200 lines of code | Jeremy Morrell](202608/2026-08-20-opentelemetry-tracing-in-200-lines-of-code-jeremy-morrell.md)
-  - 本文用约200行极简实现揭示分布式追踪本质：Span是带ID的日志，Trace靠ID关联，上下文传播用traceparent头，仪器化即包装代码。OpenTelemetry虽庞大但只是在此核心上增加工程化健壮性。
-  - Tags: #read #deepdive #observability
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (32 entries)
+- [2026-08](202608/monthly-index.md) (33 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
