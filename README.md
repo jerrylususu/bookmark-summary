@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-31) [Breaking Claude Code Opus 5 Auto Mode ·  Embrace The Red](202608/2026-08-31-breaking-claude-code-opus-5-auto-mode-%C2%B7-embrace-the-red.md)
+  - 作者披露针对 Claude Code Opus 5 自动模式的提示注入攻击链，借模块遮蔽实现远程代码执行，成功率 60%-80%，质疑 Anthropic 声称的 0% 注入率仅限固定基准，呼吁隔离与监控。
+  - Tags: #read #agent #security
+
 - (2026-08-31) [Selling out](202608/2026-08-31-selling-out.md)
   - 文章探讨软件工程师在职场中“出卖自己”的含义。作者分析异化、角色扮演与自欺等理论，认为应区分工作人格与真实自我，有意识地妥协并保留内心独立，避免彻底出卖灵魂或无谓牺牲。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 软件工厂将重复编码交给 AI，但人类判断并未消失，而是被重新定位到定义意图、设计系统、设定质量门槛、解读验证和最终上线负责。验证不是越多越好，认知带宽有限，需动态调整自主性并保留人类所有权。代码能上线，仍需人的品味与责任。
   - Tags: #read #agent
 
-- (2026-08-24) [Your executable is a SQLite database](202608/2026-08-24-your-executable-is-a-sqlite-database.md)
-  - 文章提出将Linux可执行文件从ELF换成SQLite数据库，原型SELF可运行，工具退化为SQL查询，支持去重、事务化与系统闭包，代价是启动延迟和文件略大。
-  - Tags: #read #hack #deepdive
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (37 entries)
+- [2026-08](202608/monthly-index.md) (38 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)

@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-31) [Breaking Claude Code Opus 5 Auto Mode ·  Embrace The Red](2026-08-31-breaking-claude-code-opus-5-auto-mode-%C2%B7-embrace-the-red.md)
+  - 作者披露针对 Claude Code Opus 5 自动模式的提示注入攻击链，借模块遮蔽实现远程代码执行，成功率 60%-80%，质疑 Anthropic 声称的 0% 注入率仅限固定基准，呼吁隔离与监控。
+  - Tags: #read #agent #security
+
 - (2026-08-31) [Selling out](2026-08-31-selling-out.md)
   - 文章探讨软件工程师在职场中“出卖自己”的含义。作者分析异化、角色扮演与自欺等理论，认为应区分工作人格与真实自我，有意识地妥协并保留内心独立，避免彻底出卖灵魂或无谓牺牲。
   - Tags: #read
