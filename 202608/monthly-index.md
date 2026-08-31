@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-31) [Understanding ChatGPT Work](2026-08-31-understanding-chatgpt-work.md)
+  - Simon Willison 通过大量实验揭示，ChatGPT Work 并非简单升级版，而是拥有开放联网、代码执行、无头浏览器、持久存储、建站、子代理和定时任务的强大云端代理环境。但 OpenAI 只谈用途不谈能力，且隐藏细节，加上提示注入风险，使其功能强大却令人困惑。
+  - Tags: #read #llm #agent
+
 - (2026-08-31) [You have to beat the models at something](2026-08-31-you-have-to-beat-the-models-at-something.md)
   - 文章认为，AI编程能力提升下，工程师必须聚焦AI难以替代的价值：深度熟悉代码库与系统，纠正AI因缺乏上下文产生的无知或偏执错误；同时具备清晰有说服力的技术沟通能力。切勿只做转交AI输出的“肉代理”，否则将被淘汰。
   - Tags: #read #llm

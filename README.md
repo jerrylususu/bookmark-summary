@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-31) [Understanding ChatGPT Work](202608/2026-08-31-understanding-chatgpt-work.md)
+  - Simon Willison 通过大量实验揭示，ChatGPT Work 并非简单升级版，而是拥有开放联网、代码执行、无头浏览器、持久存储、建站、子代理和定时任务的强大云端代理环境。但 OpenAI 只谈用途不谈能力，且隐藏细节，加上提示注入风险，使其功能强大却令人困惑。
+  - Tags: #read #llm #agent
+
 - (2026-08-31) [You have to beat the models at something](202608/2026-08-31-you-have-to-beat-the-models-at-something.md)
   - 文章认为，AI编程能力提升下，工程师必须聚焦AI难以替代的价值：深度熟悉代码库与系统，纠正AI因缺乏上下文产生的无知或偏执错误；同时具备清晰有说服力的技术沟通能力。切勿只做转交AI输出的“肉代理”，否则将被淘汰。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 文章讨论面对AI不确定性时应持的态度：区分焦虑与愤怒，指出愤怒易错误归因，因为行业领导者同样迷茫。作者主张以好奇和实验替代愤怒，通过实践获得判断力与真实选择能力，而非虚假行动感，最终赢得能动性。
   - Tags: #read
 
-- (2026-08-23) [Fast and Hard Code](202608/2026-08-23-fast-and-hard-code.md)
-  - LLM降低了编程语言转换成本，使更多开发者敢于选择Rust、Zig等性能更好但更难的语言及DWARF、eBPF等底层技术。这可能带来两极分化：既产生更多低质量代码，也催生更多追求极致性能和小体积的开发者与项目。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (35 entries)
+- [2026-08](202608/monthly-index.md) (36 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)

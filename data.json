@@ -13252,5 +13252,16 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202608",
+    "title": "Understanding ChatGPT Work",
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "timestamp": 1788169678,
+    "tags": [
+      "read",
+      "llm",
+      "agent"
+    ]
   }
 ]
