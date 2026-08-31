@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-31) [WorkBuddy 成功，是因为腾讯办公套件太烂了 | 虹线](2026-08-31-workbuddy-%E6%88%90%E5%8A%9F%EF%BC%8C%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%85%BE%E8%AE%AF%E5%8A%9E%E5%85%AC%E5%A5%97%E4%BB%B6%E5%A4%AA%E7%83%82%E4%BA%86-%E8%99%B9%E7%BA%BF.md)
+  - 文章认为 WorkBuddy 的成功源于腾讯办公“三强但散装”的结构性缺陷：会议、文档、企业微信互不从属，留下跨工具真空。它作为跨软件 Agent 补缝，从 C 端切入，腾讯 To B 弱势反而给它自由。危险在于未来被重新整合成套件。
+  - Tags: #read #deepdive
+
 - (2026-08-29) [Is Having Agents in the Room Meant to Be Chaotic? — Raft](2026-08-29-is-having-agents-in-the-room-meant-to-be-chaotic-%E2%80%94-raft.md)
   - 文章以计数游戏说明现有工作空间不适配代理：代理回合制导致推理与房间变化脱节。提出代理原生空间Raft与代理体验设计AX，通过“代理收件箱”和“保留草稿”让代理自主决定注意力与发送，并强调感知同理心与行动显式化两条原则。
   - Tags: #read #agent

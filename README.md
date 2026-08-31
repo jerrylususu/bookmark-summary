@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-31) [WorkBuddy 成功，是因为腾讯办公套件太烂了 | 虹线](202608/2026-08-31-workbuddy-%E6%88%90%E5%8A%9F%EF%BC%8C%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%85%BE%E8%AE%AF%E5%8A%9E%E5%85%AC%E5%A5%97%E4%BB%B6%E5%A4%AA%E7%83%82%E4%BA%86-%E8%99%B9%E7%BA%BF.md)
+  - 文章认为 WorkBuddy 的成功源于腾讯办公“三强但散装”的结构性缺陷：会议、文档、企业微信互不从属，留下跨工具真空。它作为跨软件 Agent 补缝，从 C 端切入，腾讯 To B 弱势反而给它自由。危险在于未来被重新整合成套件。
+  - Tags: #read #deepdive
+
 - (2026-08-29) [Is Having Agents in the Room Meant to Be Chaotic? — Raft](202608/2026-08-29-is-having-agents-in-the-room-meant-to-be-chaotic-%E2%80%94-raft.md)
   - 文章以计数游戏说明现有工作空间不适配代理：代理回合制导致推理与房间变化脱节。提出代理原生空间Raft与代理体验设计AX，通过“代理收件箱”和“保留草稿”让代理自主决定注意力与发送，并强调感知同理心与行动显式化两条原则。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 文章认为，AI编程助手已让原生GUI开发变得容易，不应再继续构建终端用户界面（TUI）。作者逐一反驳TUI的密度、SSH、可访问性等优势，并展示用AI生成的macOS应用，呼吁开发者更新默认选择，转向原生GUI。
   - Tags: #read #ui
 
-- (2026-08-21) [Introducing Dashboard Touch, a build-your-own version of Touch ID - Anil Dash](202608/2026-08-21-introducing-dashboard-touch%2C-a-build-your-own-version-of-touch-id---anil-dash.md)
-  - Anil Dash 因不想受苹果键盘束缚，基于 tinyTouch 开发开源项目 Dashboard Touch，用低成本指纹传感器和微控制器自制 USB 指纹认证装置，模拟键盘自动输入密码。密码与指纹均存本地，仅适合安全环境个人使用。他也分享了动手制作的乐趣，希望社区改进。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (33 entries)
+- [2026-08](202608/monthly-index.md) (34 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
