@@ -1,5 +1,9 @@
 # 2026-08 Monthly Index
 
+- (2026-08-31) [Just a rumour of a bug is enough to find a security exploit these days](2026-08-31-just-a-rumour-of-a-bug-is-enough-to-find-a-security-exploit-these-days.md)
+  - AI代理让漏洞利用自动化，开源安全禁运模式失效：攻击者仅凭漏洞传闻即可在几分钟内复现利用。作者以自身OCaml库为例，提出超级私密补丁、无禁运持续发布、协议层主动防护等思路，呼吁重建安全响应流程。
+  - Tags: #read #security
+
 - (2026-08-31) [Breaking Claude Code Opus 5 Auto Mode ·  Embrace The Red](2026-08-31-breaking-claude-code-opus-5-auto-mode-%C2%B7-embrace-the-red.md)
   - 作者披露针对 Claude Code Opus 5 自动模式的提示注入攻击链，借模块遮蔽实现远程代码执行，成功率 60%-80%，质疑 Anthropic 声称的 0% 注入率仅限固定基准，呼吁隔离与监控。
   - Tags: #read #agent #security

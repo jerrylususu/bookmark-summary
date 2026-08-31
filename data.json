@@ -13283,5 +13283,15 @@
       "agent",
       "security"
     ]
+  },
+  {
+    "month": "202608",
+    "title": "Just a rumour of a bug is enough to find a security exploit these days",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "timestamp": 1788194646,
+    "tags": [
+      "read",
+      "security"
+    ]
   }
 ]

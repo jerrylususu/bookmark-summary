@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-08-31) [Just a rumour of a bug is enough to find a security exploit these days](202608/2026-08-31-just-a-rumour-of-a-bug-is-enough-to-find-a-security-exploit-these-days.md)
+  - AI代理让漏洞利用自动化，开源安全禁运模式失效：攻击者仅凭漏洞传闻即可在几分钟内复现利用。作者以自身OCaml库为例，提出超级私密补丁、无禁运持续发布、协议层主动防护等思路，呼吁重建安全响应流程。
+  - Tags: #read #security
+
 - (2026-08-31) [Breaking Claude Code Opus 5 Auto Mode ·  Embrace The Red](202608/2026-08-31-breaking-claude-code-opus-5-auto-mode-%C2%B7-embrace-the-red.md)
   - 作者披露针对 Claude Code Opus 5 自动模式的提示注入攻击链，借模块遮蔽实现远程代码执行，成功率 60%-80%，质疑 Anthropic 声称的 0% 注入率仅限固定基准，呼吁隔离与监控。
   - Tags: #read #agent #security
@@ -39,13 +43,9 @@
   - Vercel团队为AI SDK构建“软件工厂”，用多个专职agent自动处理issue和PR，运行于隔离沙箱，人类保留最终审批。四周后，工厂贡献25-35%合并PR，关闭超75% issues，积压大幅下降，验证了以人为核心的自动化维护模式。
   - Tags: #read #agent
 
-- (2026-08-24) [Human judgment doesn't leave the software factory. It relocates.](202608/2026-08-24-human-judgment-doesn%27t-leave-the-software-factory.-it-relocates..md)
-  - 软件工厂将重复编码交给 AI，但人类判断并未消失，而是被重新定位到定义意图、设计系统、设定质量门槛、解读验证和最终上线负责。验证不是越多越好，认知带宽有限，需动态调整自主性并保留人类所有权。代码能上线，仍需人的品味与责任。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-08](202608/monthly-index.md) (38 entries)
+- [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
 - [2026-05](202605/monthly-index.md) (70 entries)
