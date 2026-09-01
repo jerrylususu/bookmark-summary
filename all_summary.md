@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-09-01) [Unit testing with wrapture - Graham Dumpleton](202609/2026-09-01-unit-testing-with-wrapture---graham-dumpleton.md)
+  - Tags: #read #python
+  - Summary: 文章通过订单服务测试对比了unittest.mock与wrapture。wrapture主张包装真实代码而非替换，可记录真实调用、断言私有方法、参数及顺序，并在真实逻辑上微调；mock则因替换无法观察内部调用且签名宽松。wrapture更严格，但可与mock共存。
+
 - (2026-08-31) [Just a rumour of a bug is enough to find a security exploit these days](202608/2026-08-31-just-a-rumour-of-a-bug-is-enough-to-find-a-security-exploit-these-days.md)
   - Tags: #read #security
   - Summary: AI代理让漏洞利用自动化，开源安全禁运模式失效：攻击者仅凭漏洞传闻即可在几分钟内复现利用。作者以自身OCaml库为例，提出超级私密补丁、无禁运持续发布、协议层主动防护等思路，呼吁重建安全响应流程。

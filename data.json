@@ -13293,5 +13293,15 @@
       "read",
       "security"
     ]
+  },
+  {
+    "month": "202609",
+    "title": "Unit testing with wrapture - Graham Dumpleton",
+    "url": "https://grahamdumpleton.me/posts/2026/09/unit-testing-with-wrapture/",
+    "timestamp": 1788253232,
+    "tags": [
+      "read",
+      "python"
+    ]
   }
 ]
