@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-09-02) [Sing-song: a speakable encoding for long numbers and keys](202609/2026-09-02-sing-song-a-speakable-encoding-for-long-numbers-and-keys.md)
+  - 文章介绍了 Sing-song 编码方案，用 16 辅音×4 元音组成 CV 音节表示 6 比特，具有可逆、前缀稳定、自定长度和可发音等特点，适合人类朗读与记忆，并应用于 Nostr 用户名生成等场景。
+  - Tags: #read
+
 - (2026-09-01) [The story of Bram Cohen and the BitTorrent protocol](202609/2026-09-01-the-story-of-bram-cohen-and-the-bittorrent-protocol.md)
   - 本文讲述布拉姆·科恩发明BitTorrent的故事。该协议本为解决带宽难题，却颠覆文件分享。尽管公司商业化屡遭失败，协议本身却广泛用于合法分发与文化保存，证明开放协议的影响力远胜商业包装。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章以计数游戏说明现有工作空间不适配代理：代理回合制导致推理与房间变化脱节。提出代理原生空间Raft与代理体验设计AX，通过“代理收件箱”和“保留草稿”让代理自主决定注意力与发送，并强调感知同理心与行动显式化两条原则。
   - Tags: #read #agent
 
-- (2026-08-27) [Copy-on-write git worktrees](202608/2026-08-27-copy-on-write-git-worktrees.md)
-  - 利用文件系统写时复制（reflink）特性，让多个 Git worktree 共享工作文件，从而节省磁盘空间。作者通过先  创建 worktree，再以 reflink 复制已有文件，最后检出完成，并封装为  工具。
-  - Tags: #read #tips
-
 ## Monthly Archive
 
-- [2026-09](202609/monthly-index.md) (2 entries)
+- [2026-09](202609/monthly-index.md) (3 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
