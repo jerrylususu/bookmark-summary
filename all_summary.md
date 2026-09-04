@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-09-04) [What Makes LLM Tokenization Slow?](202609/2026-09-04-what-makes-llm-tokenization-slow.md)
+  - Tags: #read #llm
+  - Summary: 文章通过优化GPT-2分词器发现，性能瓶颈在于海量微小操作而非单步复杂度。采用直接处理字节、利用token ID与排名关系及边界向量后，BPE合并开销大幅下降，正则匹配成为新瓶颈。流式分词与并行化收益有限。
+
 - (2026-09-02) [Sing-song: a speakable encoding for long numbers and keys](202609/2026-09-02-sing-song-a-speakable-encoding-for-long-numbers-and-keys.md)
   - Tags: #read
   - Summary: 文章介绍了 Sing-song 编码方案，用 16 辅音×4 元音组成 CV 音节表示 6 比特，具有可逆、前缀稳定、自定长度和可发音等特点，适合人类朗读与记忆，并应用于 Nostr 用户名生成等场景。
