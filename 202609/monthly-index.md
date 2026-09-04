@@ -1,5 +1,9 @@
 # 2026-09 Monthly Index
 
+- (2026-09-04) [How we make AI coding more cost efficient without sacrificing task quality](2026-09-04-how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality.md)
+  - GitHub Copilot通过四项优化降低编码代理成本：选择性压缩噪声、移除行号、精简提示词、直接返回后台任务结果。强调从整体任务完成衡量，局部省token可能引发更多恢复操作。改动均经离线与在线实验验证，核心是移除模型不必要工作。
+  - Tags: #read #agent
+
 - (2026-09-04) [What Makes LLM Tokenization Slow?](2026-09-04-what-makes-llm-tokenization-slow.md)
   - 文章通过优化GPT-2分词器发现，性能瓶颈在于海量微小操作而非单步复杂度。采用直接处理字节、利用token ID与排名关系及边界向量后，BPE合并开销大幅下降，正则匹配成为新瓶颈。流式分词与并行化收益有限。
   - Tags: #read #llm
