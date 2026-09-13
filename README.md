@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-09-13) [Agent harness security and Git](202609/2026-09-13-agent-harness-security-and-git.md)
+  - Git 支持仓库内嵌裸仓库，编码代理对只读 Git 命令免审批，攻击者可在不可信仓库埋恶意 config 触发代码执行。多家代理已修复，根本防御是沙箱化代理。
+  - Tags: #read #security
+
 - (2026-09-13) [AI is breaking our proxies for expertise](202609/2026-09-13-ai-is-breaking-our-proxies-for-expertise.md)
   - 文章指出，数学与软件等领域的声望依赖代理指标，AI令这些指标廉价可伪造，冲击激励机制。数学需区分解谜与生成想法，未来或形成人机分域；软件工程也须重建评价文化。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章探讨软件工程师在职场中“出卖自己”的含义。作者分析异化、角色扮演与自欺等理论，认为应区分工作人格与真实自我，有意识地妥协并保留内心独立，避免彻底出卖灵魂或无谓牺牲。
   - Tags: #read
 
-- (2026-08-31) [Understanding ChatGPT Work](202608/2026-08-31-understanding-chatgpt-work.md)
-  - Simon Willison 通过大量实验揭示，ChatGPT Work 并非简单升级版，而是拥有开放联网、代码执行、无头浏览器、持久存储、建站、子代理和定时任务的强大云端代理环境。但 OpenAI 只谈用途不谈能力，且隐藏细节，加上提示注入风险，使其功能强大却令人困惑。
-  - Tags: #read #llm #agent
-
 ## Monthly Archive
 
-- [2026-09](202609/monthly-index.md) (6 entries)
+- [2026-09](202609/monthly-index.md) (7 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)

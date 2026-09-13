@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-09-13) [Agent harness security and Git](202609/2026-09-13-agent-harness-security-and-git.md)
+  - Tags: #read #security
+  - Summary: Git 支持仓库内嵌裸仓库，编码代理对只读 Git 命令免审批，攻击者可在不可信仓库埋恶意 config 触发代码执行。多家代理已修复，根本防御是沙箱化代理。
+
 - (2026-09-13) [AI is breaking our proxies for expertise](202609/2026-09-13-ai-is-breaking-our-proxies-for-expertise.md)
   - Tags: #read
   - Summary: 文章指出，数学与软件等领域的声望依赖代理指标，AI令这些指标廉价可伪造，冲击激励机制。数学需区分解谜与生成想法，未来或形成人机分域；软件工程也须重建评价文化。

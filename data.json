@@ -13350,5 +13350,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202609",
+    "title": "Agent harness security and Git",
+    "url": "https://iter.ca/post/llm-agent-git/",
+    "timestamp": 1789306701,
+    "tags": [
+      "read",
+      "security"
+    ]
   }
 ]
