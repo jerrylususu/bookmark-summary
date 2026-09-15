@@ -1,5 +1,9 @@
 # 2026-09 Monthly Index
 
+- (2026-09-15) [Your Recursion Is Lying to You](2026-09-15-your-recursion-is-lying-to-you.md)
+  - 递归没问题，错在假设 JS 运行时支持尾调用优化。尾递归不等于栈安全，深度可能增长时应改用迭代、显式栈或 trampoline，别在生产中依赖 TCO。
+  - Tags: #read #js
+
 - (2026-09-15) [We are all Product Engineers now | Seldo.com](2026-09-15-we-are-all-product-engineers-now-seldo.com.md)
   - 文章认为，AI将吃掉编码、审查、维护、部署和运维，软件成本崩塌；真正值钱的是挖掘需求、定义“好”并做得愉悦，即产品工程。初级梯子断裂，我们终将成为产品工程师，喜不喜欢都一样。
   - Tags: #read

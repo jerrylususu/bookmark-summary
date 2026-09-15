@@ -13378,5 +13378,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202609",
+    "title": "Your Recursion Is Lying to You",
+    "url": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
+    "timestamp": 1789485247,
+    "tags": [
+      "read",
+      "js"
+    ]
   }
 ]

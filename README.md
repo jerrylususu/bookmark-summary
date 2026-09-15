@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-09-15) [Your Recursion Is Lying to You](202609/2026-09-15-your-recursion-is-lying-to-you.md)
+  - 递归没问题，错在假设 JS 运行时支持尾调用优化。尾递归不等于栈安全，深度可能增长时应改用迭代、显式栈或 trampoline，别在生产中依赖 TCO。
+  - Tags: #read #js
+
 - (2026-09-15) [We are all Product Engineers now | Seldo.com](202609/2026-09-15-we-are-all-product-engineers-now-seldo.com.md)
   - 文章认为，AI将吃掉编码、审查、维护、部署和运维，软件成本崩塌；真正值钱的是挖掘需求、定义“好”并做得愉悦，即产品工程。初级梯子断裂，我们终将成为产品工程师，喜不喜欢都一样。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章通过订单服务测试对比了unittest.mock与wrapture。wrapture主张包装真实代码而非替换，可记录真实调用、断言私有方法、参数及顺序，并在真实逻辑上微调；mock则因替换无法观察内部调用且签名宽松。wrapture更严格，但可与mock共存。
   - Tags: #read #python
 
-- (2026-08-31) [Just a rumour of a bug is enough to find a security exploit these days](202608/2026-08-31-just-a-rumour-of-a-bug-is-enough-to-find-a-security-exploit-these-days.md)
-  - AI代理让漏洞利用自动化，开源安全禁运模式失效：攻击者仅凭漏洞传闻即可在几分钟内复现利用。作者以自身OCaml库为例，提出超级私密补丁、无禁运持续发布、协议层主动防护等思路，呼吁重建安全响应流程。
-  - Tags: #read #security
-
 ## Monthly Archive
 
-- [2026-09](202609/monthly-index.md) (9 entries)
+- [2026-09](202609/monthly-index.md) (10 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
