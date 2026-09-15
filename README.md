@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-09-15) [置身 Agent 时代：当软件开始不再需要软件工程师](202609/2026-09-15-%E7%BD%AE%E8%BA%AB-agent-%E6%97%B6%E4%BB%A3%EF%BC%9A%E5%BD%93%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%A7%8B%E4%B8%8D%E5%86%8D%E9%9C%80%E8%A6%81%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+  - 文章借两个复杂项目观察：智能体正接管编码、评审、测试与故障排查，人转向产品、成本、体验和责任等关键决策，注意力成瓶颈，经验变风险控制。核心追问：复杂软件还需同样多工程师吗？未来有经验者从何而来？
+  - Tags: #read
+
 - (2026-09-13) [Agent harness security and Git](202609/2026-09-13-agent-harness-security-and-git.md)
   - Git 支持仓库内嵌裸仓库，编码代理对只读 Git 命令免审批，攻击者可在不可信仓库埋恶意 config 触发代码执行。多家代理已修复，根本防御是沙箱化代理。
   - Tags: #read #security
@@ -39,13 +43,9 @@
   - 作者披露针对 Claude Code Opus 5 自动模式的提示注入攻击链，借模块遮蔽实现远程代码执行，成功率 60%-80%，质疑 Anthropic 声称的 0% 注入率仅限固定基准，呼吁隔离与监控。
   - Tags: #read #agent #security
 
-- (2026-08-31) [Selling out](202608/2026-08-31-selling-out.md)
-  - 文章探讨软件工程师在职场中“出卖自己”的含义。作者分析异化、角色扮演与自欺等理论，认为应区分工作人格与真实自我，有意识地妥协并保留内心独立，避免彻底出卖灵魂或无谓牺牲。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-09](202609/monthly-index.md) (7 entries)
+- [2026-09](202609/monthly-index.md) (8 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)

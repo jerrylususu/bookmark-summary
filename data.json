@@ -13360,5 +13360,14 @@
       "read",
       "security"
     ]
+  },
+  {
+    "month": "202609",
+    "title": "置身 Agent 时代：当软件开始不再需要软件工程师",
+    "url": "https://www.bmpi.dev/dev/agent-era-software-engineering/",
+    "timestamp": 1789480996,
+    "tags": [
+      "read"
+    ]
   }
 ]
