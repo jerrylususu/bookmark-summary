@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-09-16) [How to get a DOI for your blog posts](202609/2026-09-16-how-to-get-a-doi-for-your-blog-posts.md)
+  - 作者介绍为博客文章申请DOI的原因、方法与风险：用Rogue Scholar自动分配，但面临失控、追踪和删除等问题；结论是虽显自恋，却便于学术引用，值得尝试。
+  - Tags: #read
+
 - (2026-09-16) [Jev means structured output is interesting again](202609/2026-09-16-jev-means-structured-output-is-interesting-again.md)
   - Jev 是仅输出结构化结果的低延迟系统1模型，可用于实时决策，或成智能计算原语；但其技术门槛不高，普通大模型单令牌推理也能接近，智能上限有限，“免疫幻觉”存疑，价值仍待验证。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 文章介绍了 Sing-song 编码方案，用 16 辅音×4 元音组成 CV 音节表示 6 比特，具有可逆、前缀稳定、自定长度和可发音等特点，适合人类朗读与记忆，并应用于 Nostr 用户名生成等场景。
   - Tags: #read
 
-- (2026-09-01) [The story of Bram Cohen and the BitTorrent protocol](202609/2026-09-01-the-story-of-bram-cohen-and-the-bittorrent-protocol.md)
-  - 本文讲述布拉姆·科恩发明BitTorrent的故事。该协议本为解决带宽难题，却颠覆文件分享。尽管公司商业化屡遭失败，协议本身却广泛用于合法分发与文化保存，证明开放协议的影响力远胜商业包装。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-09](202609/monthly-index.md) (11 entries)
+- [2026-09](202609/monthly-index.md) (12 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)

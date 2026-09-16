@@ -1,5 +1,9 @@
 # 2026-09 Monthly Index
 
+- (2026-09-16) [How to get a DOI for your blog posts](2026-09-16-how-to-get-a-doi-for-your-blog-posts.md)
+  - 作者介绍为博客文章申请DOI的原因、方法与风险：用Rogue Scholar自动分配，但面临失控、追踪和删除等问题；结论是虽显自恋，却便于学术引用，值得尝试。
+  - Tags: #read
+
 - (2026-09-16) [Jev means structured output is interesting again](2026-09-16-jev-means-structured-output-is-interesting-again.md)
   - Jev 是仅输出结构化结果的低延迟系统1模型，可用于实时决策，或成智能计算原语；但其技术门槛不高，普通大模型单令牌推理也能接近，智能上限有限，“免疫幻觉”存疑，价值仍待验证。
   - Tags: #read #llm
