@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-09-16) [Jev means structured output is interesting again](202609/2026-09-16-jev-means-structured-output-is-interesting-again.md)
+  - Jev 是仅输出结构化结果的低延迟系统1模型，可用于实时决策，或成智能计算原语；但其技术门槛不高，普通大模型单令牌推理也能接近，智能上限有限，“免疫幻觉”存疑，价值仍待验证。
+  - Tags: #read #llm
+
 - (2026-09-15) [Your Recursion Is Lying to You](202609/2026-09-15-your-recursion-is-lying-to-you.md)
   - 递归没问题，错在假设 JS 运行时支持尾调用优化。尾递归不等于栈安全，深度可能增长时应改用迭代、显式栈或 trampoline，别在生产中依赖 TCO。
   - Tags: #read #js
@@ -39,13 +43,9 @@
   - 本文讲述布拉姆·科恩发明BitTorrent的故事。该协议本为解决带宽难题，却颠覆文件分享。尽管公司商业化屡遭失败，协议本身却广泛用于合法分发与文化保存，证明开放协议的影响力远胜商业包装。
   - Tags: #read
 
-- (2026-09-01) [Unit testing with wrapture - Graham Dumpleton](202609/2026-09-01-unit-testing-with-wrapture---graham-dumpleton.md)
-  - 文章通过订单服务测试对比了unittest.mock与wrapture。wrapture主张包装真实代码而非替换，可记录真实调用、断言私有方法、参数及顺序，并在真实逻辑上微调；mock则因替换无法观察内部调用且签名宽松。wrapture更严格，但可与mock共存。
-  - Tags: #read #python
-
 ## Monthly Archive
 
-- [2026-09](202609/monthly-index.md) (10 entries)
+- [2026-09](202609/monthly-index.md) (11 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)

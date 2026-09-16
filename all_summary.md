@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-09-16) [Jev means structured output is interesting again](202609/2026-09-16-jev-means-structured-output-is-interesting-again.md)
+  - Tags: #read #llm
+  - Summary: Jev 是仅输出结构化结果的低延迟系统1模型，可用于实时决策，或成智能计算原语；但其技术门槛不高，普通大模型单令牌推理也能接近，智能上限有限，“免疫幻觉”存疑，价值仍待验证。
+
 - (2026-09-15) [Your Recursion Is Lying to You](202609/2026-09-15-your-recursion-is-lying-to-you.md)
   - Tags: #read #js
   - Summary: 递归没问题，错在假设 JS 运行时支持尾调用优化。尾递归不等于栈安全，深度可能增长时应改用迭代、显式栈或 trampoline，别在生产中依赖 TCO。

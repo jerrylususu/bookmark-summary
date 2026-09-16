@@ -13388,5 +13388,15 @@
       "read",
       "js"
     ]
+  },
+  {
+    "month": "202609",
+    "title": "Jev means structured output is interesting again",
+    "url": "https://www.seangoedecke.com/jev-means-structured-output-is-interesting-again/",
+    "timestamp": 1789566959,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]
