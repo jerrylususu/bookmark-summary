@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-09-17) [You can run git on object storage if you re-make packfiles | Tigris Object Storage](202609/2026-09-17-you-can-run-git-on-object-storage-if-you-re-make-packfiles-tigris-object-storage.md)
+  - 作者在 Tigris 上实现 Git 服务器 objgit，重设面向对象存储的 packfile，用 bin/cue 索引支持精确 Range 读取，性能大增；但项目仍早期，缺认证授权。
+  - Tags: #read #git #deepdive
+
 - (2026-09-17) [Migrating the GitHub Copilot runtime to Rust, using Copilot](202609/2026-09-17-migrating-the-github-copilot-runtime-to-rust%2C-using-copilot.md)
   - GitHub 将 Copilot agent runtime 从 TypeScript/Node.js 重写为 Rust，产出超 80 万行代码，多由 AI 编写，分 128 个增量 PR 原子替换完成。一人数月完成原需团队一两年的工程，性能提升数个数量级，并通过 C ABI 与 napi 双入口支撑六个语言 SDK。
   - Tags: #read #deepdive #engineering
@@ -39,13 +43,9 @@
   - GitHub Copilot通过四项优化降低编码代理成本：选择性压缩噪声、移除行号、精简提示词、直接返回后台任务结果。强调从整体任务完成衡量，局部省token可能引发更多恢复操作。改动均经离线与在线实验验证，核心是移除模型不必要工作。
   - Tags: #read #agent
 
-- (2026-09-04) [What Makes LLM Tokenization Slow?](202609/2026-09-04-what-makes-llm-tokenization-slow.md)
-  - 文章通过优化GPT-2分词器发现，性能瓶颈在于海量微小操作而非单步复杂度。采用直接处理字节、利用token ID与排名关系及边界向量后，BPE合并开销大幅下降，正则匹配成为新瓶颈。流式分词与并行化收益有限。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-09](202609/monthly-index.md) (13 entries)
+- [2026-09](202609/monthly-index.md) (14 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)

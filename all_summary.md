@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-09-17) [You can run git on object storage if you re-make packfiles | Tigris Object Storage](202609/2026-09-17-you-can-run-git-on-object-storage-if-you-re-make-packfiles-tigris-object-storage.md)
+  - Tags: #read #git #deepdive
+  - Summary: 作者在 Tigris 上实现 Git 服务器 objgit，重设面向对象存储的 packfile，用 bin/cue 索引支持精确 Range 读取，性能大增；但项目仍早期，缺认证授权。
+
 - (2026-09-17) [Migrating the GitHub Copilot runtime to Rust, using Copilot](202609/2026-09-17-migrating-the-github-copilot-runtime-to-rust%2C-using-copilot.md)
   - Tags: #read #deepdive #engineering
   - Summary: GitHub 将 Copilot agent runtime 从 TypeScript/Node.js 重写为 Rust，产出超 80 万行代码，多由 AI 编写，分 128 个增量 PR 原子替换完成。一人数月完成原需团队一两年的工程，性能提升数个数量级，并通过 C ABI 与 napi 双入口支撑六个语言 SDK。

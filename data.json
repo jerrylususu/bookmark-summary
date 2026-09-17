@@ -13418,5 +13418,16 @@
       "deepdive",
       "engineering"
     ]
+  },
+  {
+    "month": "202609",
+    "title": "You can run git on object storage if you re-make packfiles | Tigris Object Storage",
+    "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+    "timestamp": 1789655883,
+    "tags": [
+      "read",
+      "git",
+      "deepdive"
+    ]
   }
 ]
