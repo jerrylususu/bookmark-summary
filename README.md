@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-09-17) [Migrating the GitHub Copilot runtime to Rust, using Copilot](202609/2026-09-17-migrating-the-github-copilot-runtime-to-rust%2C-using-copilot.md)
+  - GitHub 将 Copilot agent runtime 从 TypeScript/Node.js 重写为 Rust，产出超 80 万行代码，多由 AI 编写，分 128 个增量 PR 原子替换完成。一人数月完成原需团队一两年的工程，性能提升数个数量级，并通过 C ABI 与 napi 双入口支撑六个语言 SDK。
+  - Tags: #read #deepdive #engineering
+
 - (2026-09-16) [How to get a DOI for your blog posts](202609/2026-09-16-how-to-get-a-doi-for-your-blog-posts.md)
   - 作者介绍为博客文章申请DOI的原因、方法与风险：用Rogue Scholar自动分配，但面临失控、追踪和删除等问题；结论是虽显自恋，却便于学术引用，值得尝试。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章通过优化GPT-2分词器发现，性能瓶颈在于海量微小操作而非单步复杂度。采用直接处理字节、利用token ID与排名关系及边界向量后，BPE合并开销大幅下降，正则匹配成为新瓶颈。流式分词与并行化收益有限。
   - Tags: #read #llm
 
-- (2026-09-02) [Sing-song: a speakable encoding for long numbers and keys](202609/2026-09-02-sing-song-a-speakable-encoding-for-long-numbers-and-keys.md)
-  - 文章介绍了 Sing-song 编码方案，用 16 辅音×4 元音组成 CV 音节表示 6 比特，具有可逆、前缀稳定、自定长度和可发音等特点，适合人类朗读与记忆，并应用于 Nostr 用户名生成等场景。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-09](202609/monthly-index.md) (12 entries)
+- [2026-09](202609/monthly-index.md) (13 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)

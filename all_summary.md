@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-09-17) [Migrating the GitHub Copilot runtime to Rust, using Copilot](202609/2026-09-17-migrating-the-github-copilot-runtime-to-rust%2C-using-copilot.md)
+  - Tags: #read #deepdive #engineering
+  - Summary: GitHub 将 Copilot agent runtime 从 TypeScript/Node.js 重写为 Rust，产出超 80 万行代码，多由 AI 编写，分 128 个增量 PR 原子替换完成。一人数月完成原需团队一两年的工程，性能提升数个数量级，并通过 C ABI 与 napi 双入口支撑六个语言 SDK。
+
 - (2026-09-16) [How to get a DOI for your blog posts](202609/2026-09-16-how-to-get-a-doi-for-your-blog-posts.md)
   - Tags: #read
   - Summary: 作者介绍为博客文章申请DOI的原因、方法与风险：用Rogue Scholar自动分配，但面临失控、追踪和删除等问题；结论是虽显自恋，却便于学术引用，值得尝试。

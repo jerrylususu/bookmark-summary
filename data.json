@@ -13407,5 +13407,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202609",
+    "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+    "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+    "timestamp": 1789655222,
+    "tags": [
+      "read",
+      "deepdive",
+      "engineering"
+    ]
   }
 ]
