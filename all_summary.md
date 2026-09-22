@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-09-22) [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](202609/2026-09-22-writing-rust-code-that%27s-faster-than-state-of-the-art-libraries-by-asking-agents-to-make-the-code-faster.md)
+  - Tags: #read #agent #deepdive
+  - Summary: 用AI智能体迭代优化Rust代码，核心是把模糊目标转为可量化基准与约束，配以防作弊、质量验证、多轮迭代等手段，可在多领域超越现有库，但结果仍需人工验证。
+
 - (2026-09-22) [Defensive Driving For Your Career](202609/2026-09-22-defensive-driving-for-your-career.md)
   - Tags: #read #career
   - Summary: 职场回报不自动公平，个人需主动展示功劳、纠正歪曲、防嫉妒、保持筹码；领导应建公平评估制度，使员工无需防御。

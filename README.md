@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-09-22) [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](202609/2026-09-22-writing-rust-code-that%27s-faster-than-state-of-the-art-libraries-by-asking-agents-to-make-the-code-faster.md)
+  - 用AI智能体迭代优化Rust代码，核心是把模糊目标转为可量化基准与约束，配以防作弊、质量验证、多轮迭代等手段，可在多领域超越现有库，但结果仍需人工验证。
+  - Tags: #read #agent #deepdive
+
 - (2026-09-22) [Defensive Driving For Your Career](202609/2026-09-22-defensive-driving-for-your-career.md)
   - 职场回报不自动公平，个人需主动展示功劳、纠正歪曲、防嫉妒、保持筹码；领导应建公平评估制度，使员工无需防御。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - Git 支持仓库内嵌裸仓库，编码代理对只读 Git 命令免审批，攻击者可在不可信仓库埋恶意 config 触发代码执行。多家代理已修复，根本防御是沙箱化代理。
   - Tags: #read #security
 
-- (2026-09-13) [AI is breaking our proxies for expertise](202609/2026-09-13-ai-is-breaking-our-proxies-for-expertise.md)
-  - 文章指出，数学与软件等领域的声望依赖代理指标，AI令这些指标廉价可伪造，冲击激励机制。数学需区分解谜与生成想法，未来或形成人机分域；软件工程也须重建评价文化。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-09](202609/monthly-index.md) (15 entries)
+- [2026-09](202609/monthly-index.md) (16 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)

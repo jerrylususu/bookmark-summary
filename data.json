@@ -13439,5 +13439,16 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202609",
+    "title": "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster",
+    "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+    "timestamp": 1790084396,
+    "tags": [
+      "read",
+      "agent",
+      "deepdive"
+    ]
   }
 ]
