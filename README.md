@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-09-22) [Defensive Driving For Your Career](202609/2026-09-22-defensive-driving-for-your-career.md)
+  - 职场回报不自动公平，个人需主动展示功劳、纠正歪曲、防嫉妒、保持筹码；领导应建公平评估制度，使员工无需防御。
+  - Tags: #read #career
+
 - (2026-09-17) [You can run git on object storage if you re-make packfiles | Tigris Object Storage](202609/2026-09-17-you-can-run-git-on-object-storage-if-you-re-make-packfiles-tigris-object-storage.md)
   - 作者在 Tigris 上实现 Git 服务器 objgit，重设面向对象存储的 packfile，用 bin/cue 索引支持精确 Range 读取，性能大增；但项目仍早期，缺认证授权。
   - Tags: #read #git #deepdive
@@ -39,13 +43,9 @@
   - 文章指出，数学与软件等领域的声望依赖代理指标，AI令这些指标廉价可伪造，冲击激励机制。数学需区分解谜与生成想法，未来或形成人机分域；软件工程也须重建评价文化。
   - Tags: #read
 
-- (2026-09-04) [How we make AI coding more cost efficient without sacrificing task quality](202609/2026-09-04-how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality.md)
-  - GitHub Copilot通过四项优化降低编码代理成本：选择性压缩噪声、移除行号、精简提示词、直接返回后台任务结果。强调从整体任务完成衡量，局部省token可能引发更多恢复操作。改动均经离线与在线实验验证，核心是移除模型不必要工作。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-09](202609/monthly-index.md) (14 entries)
+- [2026-09](202609/monthly-index.md) (15 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
