@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-09-28) [2026 in LLMs (so far)](202609/2026-09-28-2026-in-llms-%28so-far%29.md)
+  - 文章回顾2026年前九月LLM进展：编码智能体跨过日常可用临界点，催生Claw与个人智能体、安全焦虑、开源追赶和Token成本反转，并重塑工程师职业，LLM写代码已不可否认。
+  - Tags: #read #llm
+
 - (2026-09-22) [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](202609/2026-09-22-writing-rust-code-that%27s-faster-than-state-of-the-art-libraries-by-asking-agents-to-make-the-code-faster.md)
   - 用AI智能体迭代优化Rust代码，核心是把模糊目标转为可量化基准与约束，配以防作弊、质量验证、多轮迭代等手段，可在多领域超越现有库，但结果仍需人工验证。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - 文章借两个复杂项目观察：智能体正接管编码、评审、测试与故障排查，人转向产品、成本、体验和责任等关键决策，注意力成瓶颈，经验变风险控制。核心追问：复杂软件还需同样多工程师吗？未来有经验者从何而来？
   - Tags: #read
 
-- (2026-09-13) [Agent harness security and Git](202609/2026-09-13-agent-harness-security-and-git.md)
-  - Git 支持仓库内嵌裸仓库，编码代理对只读 Git 命令免审批，攻击者可在不可信仓库埋恶意 config 触发代码执行。多家代理已修复，根本防御是沙箱化代理。
-  - Tags: #read #security
-
 ## Monthly Archive
 
-- [2026-09](202609/monthly-index.md) (16 entries)
+- [2026-09](202609/monthly-index.md) (17 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)

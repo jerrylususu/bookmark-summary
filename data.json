@@ -13450,5 +13450,15 @@
       "agent",
       "deepdive"
     ]
+  },
+  {
+    "month": "202609",
+    "title": "2026 in LLMs (so far)",
+    "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+    "timestamp": 1790605016,
+    "tags": [
+      "read",
+      "llm"
+    ]
   }
 ]

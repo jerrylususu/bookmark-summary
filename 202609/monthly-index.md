@@ -1,5 +1,9 @@
 # 2026-09 Monthly Index
 
+- (2026-09-28) [2026 in LLMs (so far)](2026-09-28-2026-in-llms-%28so-far%29.md)
+  - 文章回顾2026年前九月LLM进展：编码智能体跨过日常可用临界点，催生Claw与个人智能体、安全焦虑、开源追赶和Token成本反转，并重塑工程师职业，LLM写代码已不可否认。
+  - Tags: #read #llm
+
 - (2026-09-22) [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](2026-09-22-writing-rust-code-that%27s-faster-than-state-of-the-art-libraries-by-asking-agents-to-make-the-code-faster.md)
   - 用AI智能体迭代优化Rust代码，核心是把模糊目标转为可量化基准与约束，配以防作弊、质量验证、多轮迭代等手段，可在多领域超越现有库，但结果仍需人工验证。
   - Tags: #read #agent #deepdive
