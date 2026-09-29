@@ -13460,5 +13460,15 @@
       "read",
       "llm"
     ]
+  },
+  {
+    "month": "202609",
+    "title": "Using multiple git remotes for true distributed version control",
+    "url": "https://optimizedbyotto.com/post/multiple-git-remotes/",
+    "timestamp": 1790691069,
+    "tags": [
+      "read",
+      "git"
+    ]
   }
 ]

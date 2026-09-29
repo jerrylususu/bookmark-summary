@@ -1,5 +1,9 @@
 # 2026-09 Monthly Index
 
+- (2026-09-29) [Using multiple git remotes for true distributed version control](2026-09-29-using-multiple-git-remotes-for-true-distributed-version-control.md)
+  - 文章主张充分利用 Git 多远程，把代码同时托管到多个平台：为一个远程添加多个推送 URL，一次推送即可镜像到 GitHub、GitLab 等，提升可用性、协作者自由和无痛迁移，但需注意 CI 重复与强制推送风险。
+  - Tags: #read #git
+
 - (2026-09-28) [2026 in LLMs (so far)](2026-09-28-2026-in-llms-%28so-far%29.md)
   - 文章回顾2026年前九月LLM进展：编码智能体跨过日常可用临界点，催生Claw与个人智能体、安全焦虑、开源追赶和Token成本反转，并重塑工程师职业，LLM写代码已不可否认。
   - Tags: #read #llm

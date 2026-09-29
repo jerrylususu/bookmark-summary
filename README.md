@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-09-29) [Using multiple git remotes for true distributed version control](202609/2026-09-29-using-multiple-git-remotes-for-true-distributed-version-control.md)
+  - 文章主张充分利用 Git 多远程，把代码同时托管到多个平台：为一个远程添加多个推送 URL，一次推送即可镜像到 GitHub、GitLab 等，提升可用性、协作者自由和无痛迁移，但需注意 CI 重复与强制推送风险。
+  - Tags: #read #git
+
 - (2026-09-28) [2026 in LLMs (so far)](202609/2026-09-28-2026-in-llms-%28so-far%29.md)
   - 文章回顾2026年前九月LLM进展：编码智能体跨过日常可用临界点，催生Claw与个人智能体、安全焦虑、开源追赶和Token成本反转，并重塑工程师职业，LLM写代码已不可否认。
   - Tags: #read #llm
@@ -39,13 +43,9 @@
   - 文章认为，AI将吃掉编码、审查、维护、部署和运维，软件成本崩塌；真正值钱的是挖掘需求、定义“好”并做得愉悦，即产品工程。初级梯子断裂，我们终将成为产品工程师，喜不喜欢都一样。
   - Tags: #read
 
-- (2026-09-15) [置身 Agent 时代：当软件开始不再需要软件工程师](202609/2026-09-15-%E7%BD%AE%E8%BA%AB-agent-%E6%97%B6%E4%BB%A3%EF%BC%9A%E5%BD%93%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%A7%8B%E4%B8%8D%E5%86%8D%E9%9C%80%E8%A6%81%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
-  - 文章借两个复杂项目观察：智能体正接管编码、评审、测试与故障排查，人转向产品、成本、体验和责任等关键决策，注意力成瓶颈，经验变风险控制。核心追问：复杂软件还需同样多工程师吗？未来有经验者从何而来？
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-09](202609/monthly-index.md) (17 entries)
+- [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
 - [2026-06](202606/monthly-index.md) (33 entries)
