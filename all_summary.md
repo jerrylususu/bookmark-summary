@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-10-04) [Shipping is the foundation](202610/2026-10-04-shipping-is-the-foundation.md)
+  - Tags: #read #career
+  - Summary: 文章认为，工程师的会议、设计、拆解、带队等技能都建立在能独立交付上线这一基础上。不能把事推到上线会导致协调成本增加与空转，人工智能也无法完全替代。
+
 - (2026-09-29) [Using multiple git remotes for true distributed version control](202609/2026-09-29-using-multiple-git-remotes-for-true-distributed-version-control.md)
   - Tags: #read #git
   - Summary: 文章主张充分利用 Git 多远程，把代码同时托管到多个平台：为一个远程添加多个推送 URL，一次推送即可镜像到 GitHub、GitLab 等，提升可用性、协作者自由和无痛迁移，但需注意 CI 重复与强制推送风险。

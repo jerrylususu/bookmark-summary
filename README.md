@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-10-04) [Shipping is the foundation](202610/2026-10-04-shipping-is-the-foundation.md)
+  - 文章认为，工程师的会议、设计、拆解、带队等技能都建立在能独立交付上线这一基础上。不能把事推到上线会导致协调成本增加与空转，人工智能也无法完全替代。
+  - Tags: #read #career
+
 - (2026-09-29) [Using multiple git remotes for true distributed version control](202609/2026-09-29-using-multiple-git-remotes-for-true-distributed-version-control.md)
   - 文章主张充分利用 Git 多远程，把代码同时托管到多个平台：为一个远程添加多个推送 URL，一次推送即可镜像到 GitHub、GitLab 等，提升可用性、协作者自由和无痛迁移，但需注意 CI 重复与强制推送风险。
   - Tags: #read #git
@@ -39,12 +43,9 @@
   - 递归没问题，错在假设 JS 运行时支持尾调用优化。尾递归不等于栈安全，深度可能增长时应改用迭代、显式栈或 trampoline，别在生产中依赖 TCO。
   - Tags: #read #js
 
-- (2026-09-15) [We are all Product Engineers now | Seldo.com](202609/2026-09-15-we-are-all-product-engineers-now-seldo.com.md)
-  - 文章认为，AI将吃掉编码、审查、维护、部署和运维，软件成本崩塌；真正值钱的是挖掘需求、定义“好”并做得愉悦，即产品工程。初级梯子断裂，我们终将成为产品工程师，喜不喜欢都一样。
-  - Tags: #read
-
 ## Monthly Archive
 
+- [2026-10](202610/monthly-index.md) (1 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
