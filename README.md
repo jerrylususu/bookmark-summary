@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-10-06) [What is Codemode](202610/2026-10-06-what-is-codemode.md)
+  - Armin Ronacher 介绍 Pi 1.0 的 Codemode：让 LLM 在 harness 侧用代码编排工具调用，而非把工具输出塞进上下文，从而支持组合、并发与状态暂存。作者认为这是 MCP 的自然归宿。
+  - Tags: #read #agent
+
 - (2026-10-04) [Shipping is the foundation](202610/2026-10-04-shipping-is-the-foundation.md)
   - 文章认为，工程师的会议、设计、拆解、带队等技能都建立在能独立交付上线这一基础上。不能把事推到上线会导致协调成本增加与空转，人工智能也无法完全替代。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - Jev 是仅输出结构化结果的低延迟系统1模型，可用于实时决策，或成智能计算原语；但其技术门槛不高，普通大模型单令牌推理也能接近，智能上限有限，“免疫幻觉”存疑，价值仍待验证。
   - Tags: #read #llm
 
-- (2026-09-15) [Your Recursion Is Lying to You](202609/2026-09-15-your-recursion-is-lying-to-you.md)
-  - 递归没问题，错在假设 JS 运行时支持尾调用优化。尾递归不等于栈安全，深度可能增长时应改用迭代、显式栈或 trampoline，别在生产中依赖 TCO。
-  - Tags: #read #js
-
 ## Monthly Archive
 
-- [2026-10](202610/monthly-index.md) (1 entries)
+- [2026-10](202610/monthly-index.md) (2 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)

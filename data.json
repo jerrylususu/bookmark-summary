@@ -13480,5 +13480,15 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202610",
+    "title": "What is Codemode",
+    "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+    "timestamp": 1791300252,
+    "tags": [
+      "read",
+      "agent"
+    ]
   }
 ]
