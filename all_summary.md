@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-10-07) [How to read code](202610/2026-10-07-how-to-read-code.md)
+  - Tags: #read #guide
+  - Summary: 文章认为读代码不能像读书按序读，应借鉴数学论文多轮分层扫描：先追关键路径建流程，再细看并最后通读，聚焦目标；AI不能替代读代码，LLM输出也须审查。
+
 - (2026-10-06) [What is Codemode](202610/2026-10-06-what-is-codemode.md)
   - Tags: #read #agent
   - Summary: Armin Ronacher 介绍 Pi 1.0 的 Codemode：让 LLM 在 harness 侧用代码编排工具调用，而非把工具输出塞进上下文，从而支持组合、并发与状态暂存。作者认为这是 MCP 的自然归宿。

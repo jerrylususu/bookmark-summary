@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-10-07) [How to read code](202610/2026-10-07-how-to-read-code.md)
+  - 文章认为读代码不能像读书按序读，应借鉴数学论文多轮分层扫描：先追关键路径建流程，再细看并最后通读，聚焦目标；AI不能替代读代码，LLM输出也须审查。
+  - Tags: #read #guide
+
 - (2026-10-06) [What is Codemode](202610/2026-10-06-what-is-codemode.md)
   - Armin Ronacher 介绍 Pi 1.0 的 Codemode：让 LLM 在 harness 侧用代码编排工具调用，而非把工具输出塞进上下文，从而支持组合、并发与状态暂存。作者认为这是 MCP 的自然归宿。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 作者介绍为博客文章申请DOI的原因、方法与风险：用Rogue Scholar自动分配，但面临失控、追踪和删除等问题；结论是虽显自恋，却便于学术引用，值得尝试。
   - Tags: #read
 
-- (2026-09-16) [Jev means structured output is interesting again](202609/2026-09-16-jev-means-structured-output-is-interesting-again.md)
-  - Jev 是仅输出结构化结果的低延迟系统1模型，可用于实时决策，或成智能计算原语；但其技术门槛不高，普通大模型单令牌推理也能接近，智能上限有限，“免疫幻觉”存疑，价值仍待验证。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-10](202610/monthly-index.md) (2 entries)
+- [2026-10](202610/monthly-index.md) (3 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
