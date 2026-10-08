@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-10-08) [Anti-Patterns in Software Blogging](202610/2026-10-08-anti-patterns-in-software-blogging.md)
+  - Tags: #read #guide
+  - Summary: 文章归纳开发者写博客的常见反模式：开头冗长、高估读者背景、滥用链接、续集依赖、语气过度正式、移动端与字体对比度失误；建议直接给出阅读理由、少设知识门槛、保证独立可读、自然表达并做好排版。
+
 - (2026-10-07) [How to read code](202610/2026-10-07-how-to-read-code.md)
   - Tags: #read #guide
   - Summary: 文章认为读代码不能像读书按序读，应借鉴数学论文多轮分层扫描：先追关键路径建流程，再细看并最后通读，聚焦目标；AI不能替代读代码，LLM输出也须审查。

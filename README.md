@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-10-08) [Anti-Patterns in Software Blogging](202610/2026-10-08-anti-patterns-in-software-blogging.md)
+  - 文章归纳开发者写博客的常见反模式：开头冗长、高估读者背景、滥用链接、续集依赖、语气过度正式、移动端与字体对比度失误；建议直接给出阅读理由、少设知识门槛、保证独立可读、自然表达并做好排版。
+  - Tags: #read #guide
+
 - (2026-10-07) [How to read code](202610/2026-10-07-how-to-read-code.md)
   - 文章认为读代码不能像读书按序读，应借鉴数学论文多轮分层扫描：先追关键路径建流程，再细看并最后通读，聚焦目标；AI不能替代读代码，LLM输出也须审查。
   - Tags: #read #guide
@@ -39,13 +43,9 @@
   - GitHub 将 Copilot agent runtime 从 TypeScript/Node.js 重写为 Rust，产出超 80 万行代码，多由 AI 编写，分 128 个增量 PR 原子替换完成。一人数月完成原需团队一两年的工程，性能提升数个数量级，并通过 C ABI 与 napi 双入口支撑六个语言 SDK。
   - Tags: #read #deepdive #engineering
 
-- (2026-09-16) [How to get a DOI for your blog posts](202609/2026-09-16-how-to-get-a-doi-for-your-blog-posts.md)
-  - 作者介绍为博客文章申请DOI的原因、方法与风险：用Rogue Scholar自动分配，但面临失控、追踪和删除等问题；结论是虽显自恋，却便于学术引用，值得尝试。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-10](202610/monthly-index.md) (3 entries)
+- [2026-10](202610/monthly-index.md) (4 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
