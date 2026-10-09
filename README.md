@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-10-09) [是的，而且……](202610/2026-10-09-%E6%98%AF%E7%9A%84%EF%BC%8C%E8%80%8C%E4%B8%94%E2%80%A6%E2%80%A6.md)
+  - 作者结论：AI时代编程仍值得学，但必须亲手写代码以读懂代码、控制复杂度；AI可作助教，还要提升沟通、业务、架构能力。就业低潮是暂时的，可用私人关系求职。
+  - Tags: #read
+
 - (2026-10-08) [Anti-Patterns in Software Blogging](202610/2026-10-08-anti-patterns-in-software-blogging.md)
   - 文章归纳开发者写博客的常见反模式：开头冗长、高估读者背景、滥用链接、续集依赖、语气过度正式、移动端与字体对比度失误；建议直接给出阅读理由、少设知识门槛、保证独立可读、自然表达并做好排版。
   - Tags: #read #guide
@@ -39,13 +43,9 @@
   - 作者在 Tigris 上实现 Git 服务器 objgit，重设面向对象存储的 packfile，用 bin/cue 索引支持精确 Range 读取，性能大增；但项目仍早期，缺认证授权。
   - Tags: #read #git #deepdive
 
-- (2026-09-17) [Migrating the GitHub Copilot runtime to Rust, using Copilot](202609/2026-09-17-migrating-the-github-copilot-runtime-to-rust%2C-using-copilot.md)
-  - GitHub 将 Copilot agent runtime 从 TypeScript/Node.js 重写为 Rust，产出超 80 万行代码，多由 AI 编写，分 128 个增量 PR 原子替换完成。一人数月完成原需团队一两年的工程，性能提升数个数量级，并通过 C ABI 与 napi 双入口支撑六个语言 SDK。
-  - Tags: #read #deepdive #engineering
-
 ## Monthly Archive
 
-- [2026-10](202610/monthly-index.md) (4 entries)
+- [2026-10](202610/monthly-index.md) (5 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)

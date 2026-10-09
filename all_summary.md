@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-10-09) [是的，而且……](202610/2026-10-09-%E6%98%AF%E7%9A%84%EF%BC%8C%E8%80%8C%E4%B8%94%E2%80%A6%E2%80%A6.md)
+  - Tags: #read
+  - Summary: 作者结论：AI时代编程仍值得学，但必须亲手写代码以读懂代码、控制复杂度；AI可作助教，还要提升沟通、业务、架构能力。就业低潮是暂时的，可用私人关系求职。
+
 - (2026-10-08) [Anti-Patterns in Software Blogging](202610/2026-10-08-anti-patterns-in-software-blogging.md)
   - Tags: #read #guide
   - Summary: 文章归纳开发者写博客的常见反模式：开头冗长、高估读者背景、滥用链接、续集依赖、语气过度正式、移动端与字体对比度失误；建议直接给出阅读理由、少设知识门槛、保证独立可读、自然表达并做好排版。
