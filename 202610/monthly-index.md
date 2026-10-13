@@ -1,5 +1,9 @@
 # 2026-10 Monthly Index
 
+- (2026-10-13) [Don't sleep on wrapture](2026-10-13-don%27t-sleep-on-wrapture.md)
+  - Simon推荐Graham的新Python库wrapture：猴子补丁，兼顾测试与调用追踪，可零代码TOML配置。虽处alpha但很实用，不该被忽视。
+  - Tags: #read #tools #python
+
 - (2026-10-13) [nobody should type code by hand anymore. here's what's left.](2026-10-13-nobody-should-type-code-by-hand-anymore.-here%27s-what%27s-left..md)
   - 文章认为手写代码已非核心，模型足以替代许多软件工作。工程师应转向愿景、验证、所有权、系统可解释与快速迭代，并保持好奇心、主动性和工程纪律，别等模型完美，先去第十版。
   - Tags: #read

@@ -13528,5 +13528,16 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202610",
+    "title": "Don't sleep on wrapture",
+    "url": "https://simonwillison.net/2026/Sep/11/wrapture/",
+    "timestamp": 1791901331,
+    "tags": [
+      "read",
+      "tools",
+      "python"
+    ]
   }
 ]
