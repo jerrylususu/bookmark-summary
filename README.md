@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-10-13) [nobody should type code by hand anymore. here's what's left.](202610/2026-10-13-nobody-should-type-code-by-hand-anymore.-here%27s-what%27s-left..md)
+  - 文章认为手写代码已非核心，模型足以替代许多软件工作。工程师应转向愿景、验证、所有权、系统可解释与快速迭代，并保持好奇心、主动性和工程纪律，别等模型完美，先去第十版。
+  - Tags: #read
+
 - (2026-10-09) [是的，而且……](202610/2026-10-09-%E6%98%AF%E7%9A%84%EF%BC%8C%E8%80%8C%E4%B8%94%E2%80%A6%E2%80%A6.md)
   - 作者结论：AI时代编程仍值得学，但必须亲手写代码以读懂代码、控制复杂度；AI可作助教，还要提升沟通、业务、架构能力。就业低潮是暂时的，可用私人关系求职。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 职场回报不自动公平，个人需主动展示功劳、纠正歪曲、防嫉妒、保持筹码；领导应建公平评估制度，使员工无需防御。
   - Tags: #read #career
 
-- (2026-09-17) [You can run git on object storage if you re-make packfiles | Tigris Object Storage](202609/2026-09-17-you-can-run-git-on-object-storage-if-you-re-make-packfiles-tigris-object-storage.md)
-  - 作者在 Tigris 上实现 Git 服务器 objgit，重设面向对象存储的 packfile，用 bin/cue 索引支持精确 Range 读取，性能大增；但项目仍早期，缺认证授权。
-  - Tags: #read #git #deepdive
-
 ## Monthly Archive
 
-- [2026-10](202610/monthly-index.md) (5 entries)
+- [2026-10](202610/monthly-index.md) (6 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)

@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-10-13) [nobody should type code by hand anymore. here's what's left.](202610/2026-10-13-nobody-should-type-code-by-hand-anymore.-here%27s-what%27s-left..md)
+  - Tags: #read
+  - Summary: 文章认为手写代码已非核心，模型足以替代许多软件工作。工程师应转向愿景、验证、所有权、系统可解释与快速迭代，并保持好奇心、主动性和工程纪律，别等模型完美，先去第十版。
+
 - (2026-10-09) [是的，而且……](202610/2026-10-09-%E6%98%AF%E7%9A%84%EF%BC%8C%E8%80%8C%E4%B8%94%E2%80%A6%E2%80%A6.md)
   - Tags: #read
   - Summary: 作者结论：AI时代编程仍值得学，但必须亲手写代码以读懂代码、控制复杂度；AI可作助教，还要提升沟通、业务、架构能力。就业低潮是暂时的，可用私人关系求职。
