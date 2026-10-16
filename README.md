@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-10-16) [How to Build Wealth as a Career Person](202610/2026-10-16-how-to-build-wealth-as-a-career-person.md)
+  - 文章认为，九到五工作也能致富：先提升职业价值、创造可衡量结果以提高收入；再控制消费、避免生活方式膨胀，把盈余自动投资成资产。让工作资助自由，既做明星球员，也做所有者。
+  - Tags: #read #career
+
 - (2026-10-13) [Don't sleep on wrapture](202610/2026-10-13-don%27t-sleep-on-wrapture.md)
   - Simon推荐Graham的新Python库wrapture：猴子补丁，兼顾测试与调用追踪，可零代码TOML配置。虽处alpha但很实用，不该被忽视。
   - Tags: #read #tools #python
@@ -39,13 +43,9 @@
   - 文章回顾2026年前九月LLM进展：编码智能体跨过日常可用临界点，催生Claw与个人智能体、安全焦虑、开源追赶和Token成本反转，并重塑工程师职业，LLM写代码已不可否认。
   - Tags: #read #llm
 
-- (2026-09-22) [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](202609/2026-09-22-writing-rust-code-that%27s-faster-than-state-of-the-art-libraries-by-asking-agents-to-make-the-code-faster.md)
-  - 用AI智能体迭代优化Rust代码，核心是把模糊目标转为可量化基准与约束，配以防作弊、质量验证、多轮迭代等手段，可在多领域超越现有库，但结果仍需人工验证。
-  - Tags: #read #agent #deepdive
-
 ## Monthly Archive
 
-- [2026-10](202610/monthly-index.md) (7 entries)
+- [2026-10](202610/monthly-index.md) (8 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)

@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-10-16) [How to Build Wealth as a Career Person](202610/2026-10-16-how-to-build-wealth-as-a-career-person.md)
+  - Tags: #read #career
+  - Summary: 文章认为，九到五工作也能致富：先提升职业价值、创造可衡量结果以提高收入；再控制消费、避免生活方式膨胀，把盈余自动投资成资产。让工作资助自由，既做明星球员，也做所有者。
+
 - (2026-10-13) [Don't sleep on wrapture](202610/2026-10-13-don%27t-sleep-on-wrapture.md)
   - Tags: #read #tools #python
   - Summary: Simon推荐Graham的新Python库wrapture：猴子补丁，兼顾测试与调用追踪，可零代码TOML配置。虽处alpha但很实用，不该被忽视。
