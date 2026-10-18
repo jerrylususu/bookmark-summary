@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-10-18) [Inline rendering with document​.currentScript](202610/2026-10-18-inline-rendering-with-document%E2%80%8B.currentscript.md)
+  - 该内容实为422接口报错信息，提示提交数据格式错误、域名“notes”无法解析，不包含文章正文，无法进行文章总结。
+  - Tags: #read #frontend
+
 - (2026-10-16) [How to Build Wealth as a Career Person](202610/2026-10-16-how-to-build-wealth-as-a-career-person.md)
   - 文章认为，九到五工作也能致富：先提升职业价值、创造可衡量结果以提高收入；再控制消费、避免生活方式膨胀，把盈余自动投资成资产。让工作资助自由，既做明星球员，也做所有者。
   - Tags: #read #career
@@ -39,13 +43,9 @@
   - 文章主张充分利用 Git 多远程，把代码同时托管到多个平台：为一个远程添加多个推送 URL，一次推送即可镜像到 GitHub、GitLab 等，提升可用性、协作者自由和无痛迁移，但需注意 CI 重复与强制推送风险。
   - Tags: #read #git
 
-- (2026-09-28) [2026 in LLMs (so far)](202609/2026-09-28-2026-in-llms-%28so-far%29.md)
-  - 文章回顾2026年前九月LLM进展：编码智能体跨过日常可用临界点，催生Claw与个人智能体、安全焦虑、开源追赶和Token成本反转，并重塑工程师职业，LLM写代码已不可否认。
-  - Tags: #read #llm
-
 ## Monthly Archive
 
-- [2026-10](202610/monthly-index.md) (8 entries)
+- [2026-10](202610/monthly-index.md) (9 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)

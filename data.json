@@ -13549,5 +13549,15 @@
       "read",
       "career"
     ]
+  },
+  {
+    "month": "202610",
+    "title": "Inline rendering with document​.currentScript",
+    "url": "/notes/inline-rendering-currentscript/",
+    "timestamp": 1792328003,
+    "tags": [
+      "read",
+      "frontend"
+    ]
   }
 ]

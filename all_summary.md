@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-10-18) [Inline rendering with document​.currentScript](202610/2026-10-18-inline-rendering-with-document%E2%80%8B.currentscript.md)
+  - Tags: #read #frontend
+  - Summary: 该内容实为422接口报错信息，提示提交数据格式错误、域名“notes”无法解析，不包含文章正文，无法进行文章总结。
+
 - (2026-10-16) [How to Build Wealth as a Career Person](202610/2026-10-16-how-to-build-wealth-as-a-career-person.md)
   - Tags: #read #career
   - Summary: 文章认为，九到五工作也能致富：先提升职业价值、创造可衡量结果以提高收入；再控制消费、避免生活方式膨胀，把盈余自动投资成资产。让工作资助自由，既做明星球员，也做所有者。
