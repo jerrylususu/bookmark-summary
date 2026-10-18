@@ -1,5 +1,9 @@
 # 2026-10 Monthly Index
 
+- (2026-10-18) [How our vibe coded website looks like a designer made it](2026-10-18-how-our-vibe-coded-website-looks-like-a-designer-made-it.md)
+  - 作者用 AI 编码代理做网站，靠先定概念、按强度光谱多次生成并“放飞”、频繁 fork 对比、playground 调参和大量参考迭代，证明编码代理也能做出有个人品味的设计，关键是过程好玩。
+  - Tags: #read #design
+
 - (2026-10-18) [Inline rendering with document​.currentScript](2026-10-18-inline-rendering-with-document%E2%80%8B.currentscript.md)
   - 该内容实为422接口报错信息，提示提交数据格式错误、域名“notes”无法解析，不包含文章正文，无法进行文章总结。
   - Tags: #read #frontend

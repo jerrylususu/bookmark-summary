@@ -13559,5 +13559,15 @@
       "read",
       "frontend"
     ]
+  },
+  {
+    "month": "202610",
+    "title": "How our vibe coded website looks like a designer made it",
+    "url": "https://railcode.dev/blog/vibe-coded-website",
+    "timestamp": 1792331479,
+    "tags": [
+      "read",
+      "design"
+    ]
   }
 ]

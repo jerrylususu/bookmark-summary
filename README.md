@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-10-18) [How our vibe coded website looks like a designer made it](202610/2026-10-18-how-our-vibe-coded-website-looks-like-a-designer-made-it.md)
+  - 作者用 AI 编码代理做网站，靠先定概念、按强度光谱多次生成并“放飞”、频繁 fork 对比、playground 调参和大量参考迭代，证明编码代理也能做出有个人品味的设计，关键是过程好玩。
+  - Tags: #read #design
+
 - (2026-10-18) [Inline rendering with document​.currentScript](202610/2026-10-18-inline-rendering-with-document%E2%80%8B.currentscript.md)
   - 该内容实为422接口报错信息，提示提交数据格式错误、域名“notes”无法解析，不包含文章正文，无法进行文章总结。
   - Tags: #read #frontend
@@ -39,13 +43,9 @@
   - 文章认为，工程师的会议、设计、拆解、带队等技能都建立在能独立交付上线这一基础上。不能把事推到上线会导致协调成本增加与空转，人工智能也无法完全替代。
   - Tags: #read #career
 
-- (2026-09-29) [Using multiple git remotes for true distributed version control](202609/2026-09-29-using-multiple-git-remotes-for-true-distributed-version-control.md)
-  - 文章主张充分利用 Git 多远程，把代码同时托管到多个平台：为一个远程添加多个推送 URL，一次推送即可镜像到 GitHub、GitLab 等，提升可用性、协作者自由和无痛迁移，但需注意 CI 重复与强制推送风险。
-  - Tags: #read #git
-
 ## Monthly Archive
 
-- [2026-10](202610/monthly-index.md) (9 entries)
+- [2026-10](202610/monthly-index.md) (10 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
