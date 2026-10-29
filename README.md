@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-10-29) [You can just ask AI to do things](202610/2026-10-29-you-can-just-ask-ai-to-do-things.md)
+  - 核心观点：使用AI的关键技能是“能动性”，主动让代理自动化开发、验证、监控等枯燥任务；但消息、设计决策和代码审查仍亲自负责。
+  - Tags: #read #agent
+
 - (2026-10-18) [How our vibe coded website looks like a designer made it](202610/2026-10-18-how-our-vibe-coded-website-looks-like-a-designer-made-it.md)
   - 作者用 AI 编码代理做网站，靠先定概念、按强度光谱多次生成并“放飞”、频繁 fork 对比、playground 调参和大量参考迭代，证明编码代理也能做出有个人品味的设计，关键是过程好玩。
   - Tags: #read #design
@@ -39,13 +43,9 @@
   - Armin Ronacher 介绍 Pi 1.0 的 Codemode：让 LLM 在 harness 侧用代码编排工具调用，而非把工具输出塞进上下文，从而支持组合、并发与状态暂存。作者认为这是 MCP 的自然归宿。
   - Tags: #read #agent
 
-- (2026-10-04) [Shipping is the foundation](202610/2026-10-04-shipping-is-the-foundation.md)
-  - 文章认为，工程师的会议、设计、拆解、带队等技能都建立在能独立交付上线这一基础上。不能把事推到上线会导致协调成本增加与空转，人工智能也无法完全替代。
-  - Tags: #read #career
-
 ## Monthly Archive
 
-- [2026-10](202610/monthly-index.md) (10 entries)
+- [2026-10](202610/monthly-index.md) (11 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
 - [2026-07](202607/monthly-index.md) (30 entries)
