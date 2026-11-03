@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-11-03) [新型谷子：在光盘上烧刻肉眼可见的插画教程 - 少数派](202611/2026-11-03-%E6%96%B0%E5%9E%8B%E8%B0%B7%E5%AD%90%EF%BC%9A%E5%9C%A8%E5%85%89%E7%9B%98%E4%B8%8A%E7%83%A7%E5%88%BB%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81%E7%9A%84%E6%8F%92%E7%94%BB%E6%95%99%E7%A8%8B---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
+  - 文章介绍用普通刻录光驱和空白盘烧制可见插画的DIY，核心是Disc Image Studio图像编码，难点在盘片参数标定；教程给出选盘、粗调精调和常见问题，适合愿折腾者。
+  - Tags: #read
+
 - (2026-10-29) [You can just ask AI to do things](202610/2026-10-29-you-can-just-ask-ai-to-do-things.md)
   - 核心观点：使用AI的关键技能是“能动性”，主动让代理自动化开发、验证、监控等枯燥任务；但消息、设计决策和代码审查仍亲自负责。
   - Tags: #read #agent
@@ -39,12 +43,9 @@
   - 文章认为读代码不能像读书按序读，应借鉴数学论文多轮分层扫描：先追关键路径建流程，再细看并最后通读，聚焦目标；AI不能替代读代码，LLM输出也须审查。
   - Tags: #read #guide
 
-- (2026-10-06) [What is Codemode](202610/2026-10-06-what-is-codemode.md)
-  - Armin Ronacher 介绍 Pi 1.0 的 Codemode：让 LLM 在 harness 侧用代码编排工具调用，而非把工具输出塞进上下文，从而支持组合、并发与状态暂存。作者认为这是 MCP 的自然归宿。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
+- [2026-11](202611/monthly-index.md) (1 entries)
 - [2026-10](202610/monthly-index.md) (11 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)

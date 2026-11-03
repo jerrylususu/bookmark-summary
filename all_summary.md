@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-11-03) [新型谷子：在光盘上烧刻肉眼可见的插画教程 - 少数派](202611/2026-11-03-%E6%96%B0%E5%9E%8B%E8%B0%B7%E5%AD%90%EF%BC%9A%E5%9C%A8%E5%85%89%E7%9B%98%E4%B8%8A%E7%83%A7%E5%88%BB%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81%E7%9A%84%E6%8F%92%E7%94%BB%E6%95%99%E7%A8%8B---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
+  - Tags: #read
+  - Summary: 文章介绍用普通刻录光驱和空白盘烧制可见插画的DIY，核心是Disc Image Studio图像编码，难点在盘片参数标定；教程给出选盘、粗调精调和常见问题，适合愿折腾者。
+
 - (2026-10-29) [You can just ask AI to do things](202610/2026-10-29-you-can-just-ask-ai-to-do-things.md)
   - Tags: #read #agent
   - Summary: 核心观点：使用AI的关键技能是“能动性”，主动让代理自动化开发、验证、监控等枯燥任务；但消息、设计决策和代码审查仍亲自负责。
