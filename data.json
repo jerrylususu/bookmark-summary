@@ -13598,5 +13598,16 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202611",
+    "title": "Introducing the World's Strongest Sokoban Solver",
+    "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+    "timestamp": 1794842300,
+    "tags": [
+      "read",
+      "agent",
+      "deepdive"
+    ]
   }
 ]

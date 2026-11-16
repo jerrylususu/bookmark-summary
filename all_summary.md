@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-11-16) [Introducing the World's Strongest Sokoban Solver](202611/2026-11-16-introducing-the-world%27s-strongest-sokoban-solver.md)
+  - Tags: #read #agent #deepdive
+  - Summary: 文章称AI代理14天造出Soksolv，在两大基准上解出最多且最快，含24个世界首次；技术靠推搜索、双向搜索、FESS、多车道等组合，方法论为代理爬山实验，但需人类强引导。
+
 - (2026-11-13) [AI 的知识诅咒与多 Agent 协作 | 虹线](202611/2026-11-13-ai-%E7%9A%84%E7%9F%A5%E8%AF%86%E8%AF%85%E5%92%92%E4%B8%8E%E5%A4%9A-agent-%E5%8D%8F%E4%BD%9C-%E8%99%B9%E7%BA%BF.md)
   - Tags: #read #agent
   - Summary: 文章区分收敛与发散任务：收敛任务单 Agent 更优；发散任务中，多 Agent 靠上下文隔离、独立记忆与各自目标制造持续分歧，逼出意外答案，并认为模仿人类组织是通往 AGI 的务实路径。

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-11-16) [Introducing the World's Strongest Sokoban Solver](202611/2026-11-16-introducing-the-world%27s-strongest-sokoban-solver.md)
+  - 文章称AI代理14天造出Soksolv，在两大基准上解出最多且最快，含24个世界首次；技术靠推搜索、双向搜索、FESS、多车道等组合，方法论为代理爬山实验，但需人类强引导。
+  - Tags: #read #agent #deepdive
+
 - (2026-11-13) [AI 的知识诅咒与多 Agent 协作 | 虹线](202611/2026-11-13-ai-%E7%9A%84%E7%9F%A5%E8%AF%86%E8%AF%85%E5%92%92%E4%B8%8E%E5%A4%9A-agent-%E5%8D%8F%E4%BD%9C-%E8%99%B9%E7%BA%BF.md)
   - 文章区分收敛与发散任务：收敛任务单 Agent 更优；发散任务中，多 Agent 靠上下文隔离、独立记忆与各自目标制造持续分歧，逼出意外答案，并认为模仿人类组织是通往 AGI 的务实路径。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 作者结论：AI时代编程仍值得学，但必须亲手写代码以读懂代码、控制复杂度；AI可作助教，还要提升沟通、业务、架构能力。就业低潮是暂时的，可用私人关系求职。
   - Tags: #read
 
-- (2026-10-08) [Anti-Patterns in Software Blogging](202610/2026-10-08-anti-patterns-in-software-blogging.md)
-  - 文章归纳开发者写博客的常见反模式：开头冗长、高估读者背景、滥用链接、续集依赖、语气过度正式、移动端与字体对比度失误；建议直接给出阅读理由、少设知识门槛、保证独立可读、自然表达并做好排版。
-  - Tags: #read #guide
-
 ## Monthly Archive
 
-- [2026-11](202611/monthly-index.md) (2 entries)
+- [2026-11](202611/monthly-index.md) (3 entries)
 - [2026-10](202610/monthly-index.md) (11 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
