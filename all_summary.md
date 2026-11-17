@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-11-17) [使用形式化方法找出网络模型中的竞态问题](202611/2026-11-17-%E4%BD%BF%E7%94%A8%E5%BD%A2%E5%BC%8F%E5%8C%96%E6%96%B9%E6%B3%95%E6%89%BE%E5%87%BA%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B%E4%B8%AD%E7%9A%84%E7%AB%9E%E6%80%81%E9%97%AE%E9%A2%98.md)
+  - Tags: #read #guide
+  - Summary: 作者用Quint对DeskFleet异步竞态建模，以抽象拆分和最小基数验证，发现Promise缓存锁死与all提前reject竞态并修复；认为形式化可提前证伪异步设计死角，AI显著降低门槛。
+
 - (2026-11-16) [Introducing the World's Strongest Sokoban Solver](202611/2026-11-16-introducing-the-world%27s-strongest-sokoban-solver.md)
   - Tags: #read #agent #deepdive
   - Summary: 文章称AI代理14天造出Soksolv，在两大基准上解出最多且最快，含24个世界首次；技术靠推搜索、双向搜索、FESS、多车道等组合，方法论为代理爬山实验，但需人类强引导。

@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-11-17) [使用形式化方法找出网络模型中的竞态问题](202611/2026-11-17-%E4%BD%BF%E7%94%A8%E5%BD%A2%E5%BC%8F%E5%8C%96%E6%96%B9%E6%B3%95%E6%89%BE%E5%87%BA%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B%E4%B8%AD%E7%9A%84%E7%AB%9E%E6%80%81%E9%97%AE%E9%A2%98.md)
+  - 作者用Quint对DeskFleet异步竞态建模，以抽象拆分和最小基数验证，发现Promise缓存锁死与all提前reject竞态并修复；认为形式化可提前证伪异步设计死角，AI显著降低门槛。
+  - Tags: #read #guide
+
 - (2026-11-16) [Introducing the World's Strongest Sokoban Solver](202611/2026-11-16-introducing-the-world%27s-strongest-sokoban-solver.md)
   - 文章称AI代理14天造出Soksolv，在两大基准上解出最多且最快，含24个世界首次；技术靠推搜索、双向搜索、FESS、多车道等组合，方法论为代理爬山实验，但需人类强引导。
   - Tags: #read #agent #deepdive
@@ -39,13 +43,9 @@
   - 文章认为手写代码已非核心，模型足以替代许多软件工作。工程师应转向愿景、验证、所有权、系统可解释与快速迭代，并保持好奇心、主动性和工程纪律，别等模型完美，先去第十版。
   - Tags: #read
 
-- (2026-10-09) [是的，而且……](202610/2026-10-09-%E6%98%AF%E7%9A%84%EF%BC%8C%E8%80%8C%E4%B8%94%E2%80%A6%E2%80%A6.md)
-  - 作者结论：AI时代编程仍值得学，但必须亲手写代码以读懂代码、控制复杂度；AI可作助教，还要提升沟通、业务、架构能力。就业低潮是暂时的，可用私人关系求职。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-11](202611/monthly-index.md) (3 entries)
+- [2026-11](202611/monthly-index.md) (4 entries)
 - [2026-10](202610/monthly-index.md) (11 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)

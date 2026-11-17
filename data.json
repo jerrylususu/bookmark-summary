@@ -13609,5 +13609,15 @@
       "agent",
       "deepdive"
     ]
+  },
+  {
+    "month": "202611",
+    "title": "使用形式化方法找出网络模型中的竞态问题",
+    "url": "https://coderemixer.com/2026/11/17/deskfleet-network-in-quint",
+    "timestamp": 1794930114,
+    "tags": [
+      "read",
+      "guide"
+    ]
   }
 ]
