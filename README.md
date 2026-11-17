@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-11-17) [直播观察（二）：怎么把真人的注意力做成大生意](202611/2026-11-17-%E7%9B%B4%E6%92%AD%E8%A7%82%E5%AF%9F%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E6%80%8E%E4%B9%88%E6%8A%8A%E7%9C%9F%E4%BA%BA%E7%9A%84%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%81%9A%E6%88%90%E5%A4%A7%E7%94%9F%E6%84%8F.md)
+  - 未获取到文章正文：解析 `live-streaming-2.html` 失败，返回数据为空，无法总结；请提供正文或可访问链接。
+  - Tags: #read
+
 - (2026-11-17) [直播观察（一）：平台怎么把打赏做成大生意](202611/2026-11-17-%E7%9B%B4%E6%92%AD%E8%A7%82%E5%AF%9F%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E5%B9%B3%E5%8F%B0%E6%80%8E%E4%B9%88%E6%8A%8A%E6%89%93%E8%B5%8F%E5%81%9A%E6%88%90%E5%A4%A7%E7%94%9F%E6%84%8F.md)
   - 该信息说明抓取失败：系统误将文件名当作域名解析，未获取文章正文；可能因链接不完整、失效、需登录或被反爬拦截。需提供完整URL或粘贴正文后再总结。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章认为，九到五工作也能致富：先提升职业价值、创造可衡量结果以提高收入；再控制消费、避免生活方式膨胀，把盈余自动投资成资产。让工作资助自由，既做明星球员，也做所有者。
   - Tags: #read #career
 
-- (2026-10-13) [Don't sleep on wrapture](202610/2026-10-13-don%27t-sleep-on-wrapture.md)
-  - Simon推荐Graham的新Python库wrapture：猴子补丁，兼顾测试与调用追踪，可零代码TOML配置。虽处alpha但很实用，不该被忽视。
-  - Tags: #read #tools #python
-
 ## Monthly Archive
 
-- [2026-11](202611/monthly-index.md) (5 entries)
+- [2026-11](202611/monthly-index.md) (6 entries)
 - [2026-10](202610/monthly-index.md) (11 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
