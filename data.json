@@ -13656,5 +13656,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202611",
+    "title": "Java4Shell: Write once, RCE everywhere",
+    "url": "https://calif.io/java4shell",
+    "timestamp": 1795015852,
+    "tags": [
+      "read",
+      "security"
+    ]
   }
 ]

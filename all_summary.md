@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-11-18) [Java4Shell: Write once, RCE everywhere](202611/2026-11-18-java4shell-write-once%2C-rce-everywhere.md)
+  - Tags: #read #security
+  - Summary: 文章披露 Java4Shell：HotSpot x86-64 Base64 intrinsic 因 padding 掩码错误造成固定字节堆越界写，可升级为堆泄漏、任意写和 RCE；影响多版本 JDK，但利用依赖堆布局、时序和定制链，建议升级或禁用该 intrinsic。
+
 - (2026-11-18) [Running the full server-side Datasette Python app in the browser with service workers and Pyodide](202611/2026-11-18-running-the-full-server-side-datasette-python-app-in-the-browser-with-service-workers-and-pyodide.md)
   - Tags: #read
   - Summary: 文章讲 Datasette Lite 用 Service Worker 重写，可在浏览器运行完整 Datasette，支持指定版本、插件和 SQLite，便于演示和复现 bug，并展望 Python 应用的 WebAssembly 预览。

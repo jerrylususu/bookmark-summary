@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-11-18) [Java4Shell: Write once, RCE everywhere](202611/2026-11-18-java4shell-write-once%2C-rce-everywhere.md)
+  - 文章披露 Java4Shell：HotSpot x86-64 Base64 intrinsic 因 padding 掩码错误造成固定字节堆越界写，可升级为堆泄漏、任意写和 RCE；影响多版本 JDK，但利用依赖堆布局、时序和定制链，建议升级或禁用该 intrinsic。
+  - Tags: #read #security
+
 - (2026-11-18) [Running the full server-side Datasette Python app in the browser with service workers and Pyodide](202611/2026-11-18-running-the-full-server-side-datasette-python-app-in-the-browser-with-service-workers-and-pyodide.md)
   - 文章讲 Datasette Lite 用 Service Worker 重写，可在浏览器运行完整 Datasette，支持指定版本、插件和 SQLite，便于演示和复现 bug，并展望 Python 应用的 WebAssembly 预览。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 核心观点：使用AI的关键技能是“能动性”，主动让代理自动化开发、验证、监控等枯燥任务；但消息、设计决策和代码审查仍亲自负责。
   - Tags: #read #agent
 
-- (2026-10-18) [How our vibe coded website looks like a designer made it](202610/2026-10-18-how-our-vibe-coded-website-looks-like-a-designer-made-it.md)
-  - 作者用 AI 编码代理做网站，靠先定概念、按强度光谱多次生成并“放飞”、频繁 fork 对比、playground 调参和大量参考迭代，证明编码代理也能做出有个人品味的设计，关键是过程好玩。
-  - Tags: #read #design
-
 ## Monthly Archive
 
-- [2026-11](202611/monthly-index.md) (8 entries)
+- [2026-11](202611/monthly-index.md) (9 entries)
 - [2026-10](202610/monthly-index.md) (11 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
