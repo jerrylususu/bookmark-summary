@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-11-18) [Running the full server-side Datasette Python app in the browser with service workers and Pyodide](202611/2026-11-18-running-the-full-server-side-datasette-python-app-in-the-browser-with-service-workers-and-pyodide.md)
+  - Tags: #read
+  - Summary: 文章讲 Datasette Lite 用 Service Worker 重写，可在浏览器运行完整 Datasette，支持指定版本、插件和 SQLite，便于演示和复现 bug，并展望 Python 应用的 WebAssembly 预览。
+
 - (2026-11-18) [External sandboxes for coding agents](202611/2026-11-18-external-sandboxes-for-coding-agents.md)
   - Tags: #read #agent
   - Summary: 文章介绍“外部沙箱”：代理留在主机，命令和文件操作转入独立Linux沙箱，仅见挂载目录、默认断网，经白名单代理联网并可替换凭证；给出三种原型和Claude Code、Codex、Pi接入，强调尚属实验。

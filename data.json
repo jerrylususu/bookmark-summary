@@ -13647,5 +13647,14 @@
       "read",
       "agent"
     ]
+  },
+  {
+    "month": "202611",
+    "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+    "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+    "timestamp": 1795014957,
+    "tags": [
+      "read"
+    ]
   }
 ]

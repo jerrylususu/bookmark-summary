@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-11-18) [Running the full server-side Datasette Python app in the browser with service workers and Pyodide](202611/2026-11-18-running-the-full-server-side-datasette-python-app-in-the-browser-with-service-workers-and-pyodide.md)
+  - 文章讲 Datasette Lite 用 Service Worker 重写，可在浏览器运行完整 Datasette，支持指定版本、插件和 SQLite，便于演示和复现 bug，并展望 Python 应用的 WebAssembly 预览。
+  - Tags: #read
+
 - (2026-11-18) [External sandboxes for coding agents](202611/2026-11-18-external-sandboxes-for-coding-agents.md)
   - 文章介绍“外部沙箱”：代理留在主机，命令和文件操作转入独立Linux沙箱，仅见挂载目录、默认断网，经白名单代理联网并可替换凭证；给出三种原型和Claude Code、Codex、Pi接入，强调尚属实验。
   - Tags: #read #agent
@@ -39,13 +43,9 @@
   - 作者用 AI 编码代理做网站，靠先定概念、按强度光谱多次生成并“放飞”、频繁 fork 对比、playground 调参和大量参考迭代，证明编码代理也能做出有个人品味的设计，关键是过程好玩。
   - Tags: #read #design
 
-- (2026-10-18) [Inline rendering with document​.currentScript](202610/2026-10-18-inline-rendering-with-document%E2%80%8B.currentscript.md)
-  - 该内容实为422接口报错信息，提示提交数据格式错误、域名“notes”无法解析，不包含文章正文，无法进行文章总结。
-  - Tags: #read #frontend
-
 ## Monthly Archive
 
-- [2026-11](202611/monthly-index.md) (7 entries)
+- [2026-11](202611/monthly-index.md) (8 entries)
 - [2026-10](202610/monthly-index.md) (11 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
