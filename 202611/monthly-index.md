@@ -1,5 +1,9 @@
 # 2026-11 Monthly Index
 
+- (2026-11-23) [When in doubt, flail about](2026-11-23-when-in-doubt%2C-flail-about.md)
+  - 信息不足、目标不清时，主动“乱试”比谨慎等待更有效：多尝试、细看反馈、无情放弃无效方案；产品、工程、组织问题皆适用，内心不适是正常信号。
+  - Tags: #read
+
 - (2026-11-18) [Java4Shell: Write once, RCE everywhere](2026-11-18-java4shell-write-once%2C-rce-everywhere.md)
   - 文章披露 Java4Shell：HotSpot x86-64 Base64 intrinsic 因 padding 掩码错误造成固定字节堆越界写，可升级为堆泄漏、任意写和 RCE；影响多版本 JDK，但利用依赖堆布局、时序和定制链，建议升级或禁用该 intrinsic。
   - Tags: #read #security

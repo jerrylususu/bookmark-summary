@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-11-23) [When in doubt, flail about](202611/2026-11-23-when-in-doubt%2C-flail-about.md)
+  - 信息不足、目标不清时，主动“乱试”比谨慎等待更有效：多尝试、细看反馈、无情放弃无效方案；产品、工程、组织问题皆适用，内心不适是正常信号。
+  - Tags: #read
+
 - (2026-11-18) [Java4Shell: Write once, RCE everywhere](202611/2026-11-18-java4shell-write-once%2C-rce-everywhere.md)
   - 文章披露 Java4Shell：HotSpot x86-64 Base64 intrinsic 因 padding 掩码错误造成固定字节堆越界写，可升级为堆泄漏、任意写和 RCE；影响多版本 JDK，但利用依赖堆布局、时序和定制链，建议升级或禁用该 intrinsic。
   - Tags: #read #security
@@ -39,13 +43,9 @@
   - 文章介绍用普通刻录光驱和空白盘烧制可见插画的DIY，核心是Disc Image Studio图像编码，难点在盘片参数标定；教程给出选盘、粗调精调和常见问题，适合愿折腾者。
   - Tags: #read
 
-- (2026-10-29) [You can just ask AI to do things](202610/2026-10-29-you-can-just-ask-ai-to-do-things.md)
-  - 核心观点：使用AI的关键技能是“能动性”，主动让代理自动化开发、验证、监控等枯燥任务；但消息、设计决策和代码审查仍亲自负责。
-  - Tags: #read #agent
-
 ## Monthly Archive
 
-- [2026-11](202611/monthly-index.md) (9 entries)
+- [2026-11](202611/monthly-index.md) (10 entries)
 - [2026-10](202610/monthly-index.md) (11 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
