@@ -1,5 +1,9 @@
 # All Bookmarks Summary
 
+- (2026-11-27) [The Math Behind Counter-Strike Surfing](202611/2026-11-27-the-math-behind-counter-strike-surfing.md)
+  - Tags: #read
+  - Summary: 文章解释 CS surf 的重力、空中横移加速与斜面物理，追溯 Quake 的 strafe jump bug，并介绍作者用束搜索训练 surf bot，以 19.47 秒接近世界纪录。
+
 - (2026-11-23) [When in doubt, flail about](202611/2026-11-23-when-in-doubt%2C-flail-about.md)
   - Tags: #read
   - Summary: 信息不足、目标不清时，主动“乱试”比谨慎等待更有效：多尝试、细看反馈、无情放弃无效方案；产品、工程、组织问题皆适用，内心不适是正常信号。

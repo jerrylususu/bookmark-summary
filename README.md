@@ -3,6 +3,10 @@
 
 ## Latest 10 Summaries
 
+- (2026-11-27) [The Math Behind Counter-Strike Surfing](202611/2026-11-27-the-math-behind-counter-strike-surfing.md)
+  - 文章解释 CS surf 的重力、空中横移加速与斜面物理，追溯 Quake 的 strafe jump bug，并介绍作者用束搜索训练 surf bot，以 19.47 秒接近世界纪录。
+  - Tags: #read
+
 - (2026-11-23) [When in doubt, flail about](202611/2026-11-23-when-in-doubt%2C-flail-about.md)
   - 信息不足、目标不清时，主动“乱试”比谨慎等待更有效：多尝试、细看反馈、无情放弃无效方案；产品、工程、组织问题皆适用，内心不适是正常信号。
   - Tags: #read
@@ -39,13 +43,9 @@
   - 文章区分收敛与发散任务：收敛任务单 Agent 更优；发散任务中，多 Agent 靠上下文隔离、独立记忆与各自目标制造持续分歧，逼出意外答案，并认为模仿人类组织是通往 AGI 的务实路径。
   - Tags: #read #agent
 
-- (2026-11-03) [新型谷子：在光盘上烧刻肉眼可见的插画教程 - 少数派](202611/2026-11-03-%E6%96%B0%E5%9E%8B%E8%B0%B7%E5%AD%90%EF%BC%9A%E5%9C%A8%E5%85%89%E7%9B%98%E4%B8%8A%E7%83%A7%E5%88%BB%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81%E7%9A%84%E6%8F%92%E7%94%BB%E6%95%99%E7%A8%8B---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
-  - 文章介绍用普通刻录光驱和空白盘烧制可见插画的DIY，核心是Disc Image Studio图像编码，难点在盘片参数标定；教程给出选盘、粗调精调和常见问题，适合愿折腾者。
-  - Tags: #read
-
 ## Monthly Archive
 
-- [2026-11](202611/monthly-index.md) (10 entries)
+- [2026-11](202611/monthly-index.md) (11 entries)
 - [2026-10](202610/monthly-index.md) (11 entries)
 - [2026-09](202609/monthly-index.md) (18 entries)
 - [2026-08](202608/monthly-index.md) (39 entries)
